@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+	"side": "S",
+	"release": "51",
+	"id": "060",
+	"name": "",
+	"jpName": "弾む切込み シリカ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列の中央の枠のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

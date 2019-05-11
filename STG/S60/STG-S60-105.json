@@ -1,0 +1,30 @@
+{
+	"set": "STG",
+	"setName": "STEINS;GATE",
+	"side": "S",
+	"release": "60",
+	"id": "105",
+	"name": "",
+	"jpName": "“ラボメンガールズ”椎名 まゆり",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたのカードがレベル置場に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ラボメン》のキャラの枚数×500に等しい。",
+		"【自】 アンコール ［手札の《ラボメン》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"ラボメン",
+		"水着"
+	]
+}

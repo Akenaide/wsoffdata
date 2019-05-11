@@ -1,0 +1,28 @@
+{
+	"set": "CS",
+	"setName": "クレヨンしんちゃん",
+	"side": "S",
+	"release": "28",
+	"id": "003",
+	"name": "",
+	"jpName": "家族の一員 シロ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚まで選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+	],
+	"specialAttrib": [
+		"家族",
+		"動物"
+	]
+}

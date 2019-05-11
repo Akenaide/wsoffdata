@@ -1,0 +1,30 @@
+{
+	"set": "N1",
+	"setName": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+	"side": "W",
+	"release": "32",
+	"id": "009",
+	"name": "",
+	"jpName": "失われた過去プレシア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋1500。",
+		"【自】 あなたのドローフェイズの始めに、あなたは自分の山札の上から1枚を、クロック置場に置いてよい。そうしないなら、このカードを思い出にする。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"病気"
+	]
+}

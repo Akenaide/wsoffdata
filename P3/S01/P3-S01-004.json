@@ -1,0 +1,29 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ3",
+	"side": "S",
+	"release": "01",
+	"id": "004",
+	"name": "",
+	"jpName": "望月 綾時",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 アラーム このカードがクロックの１番上にあり、あなたのレベルが1以下なら、黄のあなたのキャラすべてに、ソウルを＋1。",
+		"【自】 このカードがアタックした時、クライマックス置場に「露天風呂」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"死"
+	]
+}

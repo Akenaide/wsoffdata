@@ -1,0 +1,30 @@
+{
+	"set": "PI",
+	"setName": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ！",
+	"side": "S",
+	"release": "E24",
+	"id": "30",
+	"name": "",
+	"jpName": "守りたい日常 イリヤ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、自分の手札のコスト1以下のキャラを1枚まで選び、舞台の好きな枠に置く。",
+		"【自】［(3) このカードを手札に戻す］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「もう一人の私」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「叶えたい願い クロ」を1枚まで選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"魔法"
+	]
+}

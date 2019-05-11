@@ -1,0 +1,30 @@
+{
+	"set": "SB",
+	"setName": "ＴＶアニメ 戦国BASARA弐",
+	"side": "S",
+	"release": "E05",
+	"id": "08",
+	"name": "",
+	"jpName": "“豊臣の軍師”竹中 半兵衛",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のレベル3以上のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"武器",
+		"仮面"
+	]
+}

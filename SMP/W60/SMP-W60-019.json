@@ -1,0 +1,30 @@
+{
+	"set": "SMP",
+	"setName": "Summer Pockets",
+	"side": "W",
+	"release": "60",
+	"id": "019",
+	"name": "",
+	"jpName": "鳴瀬 小鳩",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「しろは」を含むキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札の《サマポケ》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"格闘"
+	]
+}

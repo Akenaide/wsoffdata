@@ -1,0 +1,30 @@
+{
+	"set": "ZM",
+	"setName": "ゼロの使い魔",
+	"side": "W",
+	"release": "03",
+	"id": "004",
+	"name": "",
+	"jpName": "ジュリオ・チェザーレ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "2",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル1以上のキャラすべてに、ソウルを＋1。",
+		"【起】［(1) このカードを【レスト】する］ あなたは自分の、《動物》か《竜》のキャラを１枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"使い魔",
+		"オッドアイ"
+	]
+}

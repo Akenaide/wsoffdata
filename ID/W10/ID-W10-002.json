@@ -1,0 +1,29 @@
+{
+	"set": "ID",
+	"setName": "禁書目録＆超電磁砲",
+	"side": "W",
+	"release": "10",
+	"id": "002",
+	"name": "",
+	"jpName": "“超能力者”一方通行",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《超能力》のキャラが2枚以上なら、このカードのレベルを＋3し、パワーを＋2500。",
+		"【自】［(4)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、このカードとバトル中のキャラを【リバース】する。"
+	],
+	"specialAttrib": [
+		"超能力"
+	]
+}

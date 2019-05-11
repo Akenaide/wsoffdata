@@ -1,0 +1,30 @@
+{
+	"set": "CL",
+	"setName": "CLANNAD Vol.02",
+	"side": "W",
+	"release": "E04",
+	"id": "06",
+	"name": "",
+	"jpName": "生徒会長 智代",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル中、このカードとバトルしているキャラが《スポーツ》なら、このカードのパワーを＋2000。",
+		"【自】 このカードがアタックした時、クライマックス置場に「智代の誓い」があるなら、あなたの《演劇》のキャラすべてに、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+	],
+	"specialAttrib": [
+		"生徒会",
+		"スポーツ"
+	]
+}

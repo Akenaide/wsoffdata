@@ -1,0 +1,30 @@
+{
+	"set": "SY",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "08",
+	"id": "113",
+	"name": "",
+	"jpName": "超編集長ハルヒとその助手",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		"【起】［(2) このカードを【レスト】する］ 相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"SOS団"
+	]
+}

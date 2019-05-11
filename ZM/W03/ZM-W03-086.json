@@ -1,0 +1,31 @@
+{
+	"set": "ZM",
+	"setName": "ゼロの使い魔",
+	"side": "W",
+	"release": "03",
+	"id": "086",
+	"name": "",
+	"jpName": "アンリエッタ・ド・トリステイン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 大活躍",
+		"【自】 このカードがアタックした時、クライマックス置場に「風と水の誓い」があるなら、あなたは1枚引く。",
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のクロックを上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"王族"
+	]
+}

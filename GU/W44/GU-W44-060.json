@@ -1,0 +1,30 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？？",
+	"side": "W",
+	"release": "44",
+	"id": "060",
+	"name": "",
+	"jpName": "“父の日”リゼ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ラビットハウス》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、クライマックス置場に「いつも ありがとな」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"ラビットハウス",
+		"武器"
+	]
+}

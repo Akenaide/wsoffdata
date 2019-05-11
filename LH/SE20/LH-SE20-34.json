@@ -1,0 +1,29 @@
+{
+	"set": "LH",
+	"setName": "ログ・ホライズン",
+	"side": "S",
+	"release": "E20",
+	"id": "34",
+	"name": "",
+	"jpName": "守護戦士 直継",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《武器》か《魔法》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【永】 大活躍 （相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする）"
+	],
+	"specialAttrib": [
+		"武器"
+	]
+}

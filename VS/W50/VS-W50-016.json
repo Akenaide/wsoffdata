@@ -1,0 +1,30 @@
+{
+	"set": "VS",
+	"setName": "ViVid Strike!",
+	"side": "W",
+	"release": "50",
+	"id": "016",
+	"name": "",
+	"jpName": "エルス・タスミン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、他のあなたの《格闘》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【永】 他のあなたの《格闘》のキャラが2枚以上なら、このカードはサイドアタックしてもソウルが減少しない。",
+		"【自】 相手のアタックフェイズの始めに、あなたは自分の「ハリー・トライベッカ」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
+	],
+	"specialAttrib": [
+		"格闘"
+	]
+}

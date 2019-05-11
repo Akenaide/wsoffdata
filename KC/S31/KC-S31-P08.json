@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "31",
+	"id": "P08",
+	"name": "",
+	"jpName": "赤城・加賀",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《艦娘》のキャラすべてに、パワーを＋1000。",
+		"【起】[(1) あなたの、《正規空母》か《軽空母》のキャラを2枚【レスト】する］ あなたは相手のキャラを1枚選び、そのターン中、パワーを－1000。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"正規空母"
+	]
+}

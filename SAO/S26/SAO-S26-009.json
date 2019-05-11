@@ -1,0 +1,29 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン Vol.2",
+	"side": "S",
+	"release": "26",
+	"id": "009",
+	"name": "",
+	"jpName": "家庭的な一面 明日奈",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札に戻し、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"ネット"
+	]
+}

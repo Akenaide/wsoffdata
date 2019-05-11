@@ -1,0 +1,29 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night [Unlimited Blade Works]",
+	"side": "S",
+	"release": "34",
+	"id": "026",
+	"name": "",
+	"jpName": "いつもの朝 大河",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、相手は0か1か2を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのカードなら、あなたはＸ枚まで引く。Ｘは相手の宣言した数＋1に等しい。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"先生",
+		"スポーツ"
+	]
+}

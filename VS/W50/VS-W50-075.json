@@ -1,0 +1,30 @@
+{
+	"set": "VS",
+	"setName": "ViVid Strike!",
+	"side": "W",
+	"release": "50",
+	"id": "075",
+	"name": "",
+	"jpName": "強さを求めるリンネ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "3",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《格闘》か《服》なら、このカードのパワーを＋2500し、このカードの正面のキャラに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+		"【自】 相手のターン中、このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。"
+	],
+	"specialAttrib": [
+		"格闘",
+		"令嬢"
+	]
+}

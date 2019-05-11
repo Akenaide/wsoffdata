@@ -1,0 +1,31 @@
+{
+	"set": "PP",
+	"setName": "PSYCHO-PASS サイコパス",
+	"side": "S",
+	"release": "E14",
+	"id": "04",
+	"name": "",
+	"jpName": "常守 朱",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは相手の効果に選ばれない。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックス置場に「選ばれた存在」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"公安",
+		"武器"
+	]
+}

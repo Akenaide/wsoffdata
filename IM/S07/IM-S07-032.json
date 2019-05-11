@@ -1,0 +1,31 @@
+{
+	"set": "IM",
+	"setName": "THE IDOLM@STER",
+	"side": "S",
+	"release": "07",
+	"id": "032",
+	"name": "",
+	"jpName": "動物大好き響",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのクライマックス置場に「Next Life」が置かれた時、そのターン中、このカードのパワーを＋3000。",
+		"【自】 あなたのクライマックス置場に「Next Life」が置かれた時、前列にこのカードがいるなら、あなたは自分のクロック置場のレベル2以下のキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の山札の上から2枚を、クロック置場に置く。",
+		"【起】［あなたのキャラを1枚【レスト】する］ あなたの思い出置場の「寄り道」を1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"動物"
+	]
+}

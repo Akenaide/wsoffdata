@@ -1,0 +1,30 @@
+{
+	"set": "P4",
+	"setName": "ペルソナ4",
+	"side": "S",
+	"release": "08",
+	"id": "094",
+	"name": "",
+	"jpName": "セーラー服の直斗",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「主人公」を含むキャラがいるなら、このカードのパワーを＋2000。",
+		"【自】 このカードがアタックした時、クライマックス置場に「私のクリスマスイブ」があるなら、あなたは自分の山札を見てカード名に「主人公」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"メカ",
+		"警察"
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"set": "CC",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "48",
+	"id": "P02",
+	"name": "",
+	"jpName": "守護竜の焔剣 アラム",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の《マナ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《マナ》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"マナ",
+		"武器"
+	]
+}

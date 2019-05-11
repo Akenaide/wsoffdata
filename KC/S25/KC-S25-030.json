@@ -1,0 +1,29 @@
+{
+	"set": "KC",
+	"setName": "艦隊これくしょん -艦これ-",
+	"side": "S",
+	"release": "25",
+	"id": "030",
+	"name": "",
+	"jpName": "伊400型潜水艦2番艦 伊401",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがサイドアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"潜水空母"
+	]
+}

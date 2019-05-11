@@ -1,0 +1,29 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」第二艦隊",
+	"side": "S",
+	"release": "31",
+	"id": "007",
+	"name": "",
+	"jpName": "利根型航空巡洋艦1番艦 利根改二",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのクライマックス置場に「航空巡洋艦、出撃！」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《艦娘》のキャラなら、あなたのキャラすべてに、そのターン中、パワーを＋4000。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"航空巡洋艦"
+	]
+}

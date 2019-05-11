@@ -1,0 +1,30 @@
+{
+	"set": "SW",
+	"setName": "STAR WARS",
+	"side": "S",
+	"release": "49",
+	"id": "001",
+	"name": "",
+	"jpName": "“ファースト・オーダーからの脱出”フィン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、「“パイロットの資質”レイ」と「“友情の予感”BB-8」がいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《フォースの覚醒》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"フォースの覚醒"
+	]
+}

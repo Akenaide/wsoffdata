@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night",
+	"side": "S",
+	"release": "03",
+	"id": "060",
+	"name": "",
+	"jpName": "五大元素使い 凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「いたずらな微笑み」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+		"【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
+	],
+	"specialAttrib": [
+		"マスター",
+		"魔法"
+	]
+}

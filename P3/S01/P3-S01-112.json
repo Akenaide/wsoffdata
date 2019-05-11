@@ -1,0 +1,30 @@
+{
+	"set": "P3",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "01",
+	"id": "112",
+	"name": "",
+	"jpName": "乙女な機械 アイギス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。",
+		"【自】［手札のキャラを2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのバトル相手をクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"メカ",
+		"武器"
+	]
+}

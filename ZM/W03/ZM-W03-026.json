@@ -1,0 +1,30 @@
+{
+	"set": "ZM",
+	"setName": "ゼロの使い魔",
+	"side": "W",
+	"release": "03",
+	"id": "026",
+	"name": "",
+	"jpName": "ハーフエルフ ティファニア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 アラーム このカードがクロックの１番上にあるなら、あなたの緑のキャラすべてに、パワーを＋1000。",
+		"【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードをクロック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"虚無"
+	]
+}

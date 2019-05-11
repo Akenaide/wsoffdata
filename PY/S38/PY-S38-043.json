@@ -1,0 +1,30 @@
+{
+	"set": "PY",
+	"setName": "ぷよぷよ",
+	"side": "S",
+	"release": "38",
+	"id": "043",
+	"name": "",
+	"jpName": "彗星の魔導師 レムレス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+	],
+	"specialAttrib": [
+		"ぷよ",
+		"お菓子"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "KS",
+	"setName": "この素晴らしい世界に祝福を！２",
+	"side": "W",
+	"release": "55",
+	"id": "012",
+	"name": "",
+	"jpName": "“走り出せ”カズマ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の「名家の紋章」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《冒険者》か《女神》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"魔法"
+	]
+}

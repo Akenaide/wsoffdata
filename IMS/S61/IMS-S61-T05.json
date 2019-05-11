@@ -1,0 +1,30 @@
+{
+	"set": "IMS",
+	"setName": "[TD+]アイドルマスター ミリオンライブ！",
+	"side": "S",
+	"release": "61",
+	"id": "T05",
+	"name": "",
+	"jpName": "おねだりエンジェル　伊吹 翼",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードはサイドアタックできない。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"オシャレ"
+	]
+}

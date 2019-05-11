@@ -1,0 +1,29 @@
+{
+	"set": "GF",
+	"setName": "ガールフレンド（仮）",
+	"side": "W",
+	"release": "33",
+	"id": "057",
+	"name": "",
+	"jpName": "似顔絵さん 小日向いちご",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(2)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"ガール"
+	]
+}

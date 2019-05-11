@@ -1,0 +1,29 @@
+{
+	"set": "PT",
+	"setName": "Phantom -requiem for the phantom-",
+	"side": "W",
+	"release": "07",
+	"id": "015",
+	"name": "",
+	"jpName": "曖昧な記憶エレン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+		"【自】 他のあなたのキャラが舞台からクロック置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"武器"
+	]
+}

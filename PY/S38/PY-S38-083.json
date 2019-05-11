@@ -1,0 +1,29 @@
+{
+	"set": "PY",
+	"setName": "ぷよぷよ",
+	"side": "S",
+	"release": "38",
+	"id": "083",
+	"name": "",
+	"jpName": "ムシが大好きなシグ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードに「あかぷよ」があるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"ぷよ",
+		"虫"
+	]
+}

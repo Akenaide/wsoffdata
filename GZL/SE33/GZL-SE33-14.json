@@ -1,0 +1,30 @@
+{
+	"set": "GZL",
+	"setName": "アニメーション映画『GODZILLA』",
+	"side": "S",
+	"release": "E33",
+	"id": "14",
+	"name": "",
+	"jpName": "“緋色に染まる”ゴジラ・アース",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【起】［あなたの舞台の《怪獣》のキャラを2枚控え室に置く］ あなたは1枚引く。",
+		"【起】［(1)］ あなたは自分のレベル置場の「“猛き咆哮”ゴジラ・アース」を1枚とこのカードを選び、入れ替える。"
+	],
+	"specialAttrib": [
+		"怪獣"
+	]
+}

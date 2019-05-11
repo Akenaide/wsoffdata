@@ -1,0 +1,30 @@
+{
+	"set": "VG",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "PR",
+	"id": "001",
+	"name": "",
+	"jpName": "先導 アイチ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「スタンドアップ！」があるなら、あなたは1枚引いてよい。",
+		"【起】［あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"カードゲーム",
+		"ヴァンガード"
+	]
+}

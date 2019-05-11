@@ -1,0 +1,30 @@
+{
+	"set": "SG",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "27",
+	"id": "P04",
+	"name": "",
+	"jpName": "信じる仲間 翼",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列の左の枠にこのカードがいるなら、このカードのパワーを＋1000。",
+		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}

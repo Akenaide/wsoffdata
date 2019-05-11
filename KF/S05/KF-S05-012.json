@@ -1,0 +1,30 @@
+{
+	"set": "KF",
+	"setName": "THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "05",
+	"id": "012",
+	"name": "",
+	"jpName": "吹き荒ぶ風のゲーニッツ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "10000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の前列のキャラすべてに、パワーを＋1000し、《オロチ》を与える。",
+		"【自】［(6)］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、相手の前列のキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。』"
+	],
+	"specialAttrib": [
+		"オロチ",
+		"神"
+	]
+}

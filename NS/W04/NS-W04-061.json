@@ -1,0 +1,30 @@
+{
+	"set": "NS",
+	"setName": "なのはStrikerS",
+	"side": "W",
+	"release": "04",
+	"id": "061",
+	"name": "",
+	"jpName": "聖王ヴィヴィオ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"王族"
+	]
+}

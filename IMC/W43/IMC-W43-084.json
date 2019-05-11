@@ -1,0 +1,30 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ 2nd SEASON",
+	"side": "W",
+	"release": "43",
+	"id": "084",
+	"name": "",
+	"jpName": "Trancing Pulse 加蓮",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「Trancing Pulse 凛」すべてに、パワーを＋1000。",
+		"【永】 他のあなたの「Trancing Pulse 奈緒」がいるなら、他のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックス置場に「Triad Primus」が置かれた時、他のあなたの《音楽》のキャラがいるなら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

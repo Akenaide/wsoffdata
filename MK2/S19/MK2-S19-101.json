@@ -1,0 +1,29 @@
+{
+	"set": "MK2",
+	"setName": "2012年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "19",
+	"id": "101",
+	"name": "",
+	"jpName": "捜査再開！ エリー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《探偵》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"探偵",
+		"本"
+	]
+}

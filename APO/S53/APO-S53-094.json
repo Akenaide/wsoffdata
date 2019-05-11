@@ -1,0 +1,30 @@
+{
+	"set": "APO",
+	"setName": "Fate/Apocrypha",
+	"side": "S",
+	"release": "53",
+	"id": "094",
+	"name": "",
+	"jpName": "セレニケ・アイスコル・ユグドミレニア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のクロックが4枚以上なら、このカードのパワーを＋10000。",
+		"【自】［(1) あなたのレベル置場の表向きのカードを1枚裏向きにする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋4000し、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
+	],
+	"specialAttrib": [
+		"マスター",
+		"メガネ"
+	]
+}

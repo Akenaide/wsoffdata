@@ -1,0 +1,29 @@
+{
+	"set": "BF",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "PR",
+	"id": "P01",
+	"name": "",
+	"jpName": "奈々菜パル子役 徳井青空",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(3)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは0か1か2か3を宣言し、相手は自分の手札を公開する。それらのカードにあなたの宣言したレベルのカードがあるなら、相手に1ダメージを与える。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"カードゲーム",
+		"バディファイト"
+	]
+}

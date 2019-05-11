@@ -1,0 +1,30 @@
+{
+	"set": "MG",
+	"setName": "\u003c物語\u003eシリーズ セカンドシーズン",
+	"side": "S",
+	"release": "39",
+	"id": "006",
+	"name": "",
+	"jpName": "昔話 忍野忍",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋2500し、このカードは相手の効果に選ばれない。",
+		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"怪異",
+		"血"
+	]
+}

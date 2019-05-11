@@ -1,0 +1,30 @@
+{
+	"set": "LSS",
+	"setName": "ラブライブ！サンシャイン!!",
+	"side": "W",
+	"release": "45",
+	"id": "074",
+	"name": "",
+	"jpName": "“恋になりたいAQUARIUM”黒澤 ダイヤ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

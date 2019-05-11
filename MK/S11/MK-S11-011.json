@@ -1,0 +1,30 @@
+{
+	"set": "MK",
+	"setName": "探偵オペラ　ミルキィホームズ",
+	"side": "S",
+	"release": "11",
+	"id": "011",
+	"name": "",
+	"jpName": "糖分補給 ネロ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "2",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ネコミミ ネロ」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"探偵",
+		"お菓子"
+	]
+}

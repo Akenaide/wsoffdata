@@ -1,0 +1,30 @@
+{
+	"set": "GC",
+	"setName": "2011年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "16",
+	"id": "102",
+	"name": "",
+	"jpName": "決断の時 集",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"葬儀社",
+		"武器"
+	]
+}

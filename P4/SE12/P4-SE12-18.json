@@ -1,0 +1,30 @@
+{
+	"set": "P4",
+	"setName": "TVアニメ「ペルソナ４」",
+	"side": "S",
+	"release": "E12",
+	"id": "18",
+	"name": "",
+	"jpName": "女子高生アイドル りせ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"メガネ"
+	]
+}

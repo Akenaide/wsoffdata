@@ -1,0 +1,30 @@
+{
+	"set": "SGS",
+	"setName": "スクールガールストライカーズ",
+	"side": "S",
+	"release": "37",
+	"id": "128",
+	"name": "",
+	"jpName": "ティエラ先生",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"ストライカー",
+		"先生"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン Vol.2",
+	"side": "S",
+	"release": "26",
+	"id": "021",
+	"name": "",
+	"jpName": "《シルフ》の手練れ リーファ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1000。",
+		"【自】［(1) このカードを【レスト】する］ 他のあなたのバトル中のキャラが【リバース】した時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、そのターン中、そのキャラに『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

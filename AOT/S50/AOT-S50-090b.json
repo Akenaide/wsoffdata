@@ -1,0 +1,30 @@
+{
+	"set": "AOT",
+	"setName": "ブースターパック 「進撃の巨人」Vol.2",
+	"side": "S",
+	"release": "50",
+	"id": "090b",
+	"name": "",
+	"jpName": "ユミル巨人",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《巨人》かカード名に「クリスタ」を含むキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《巨人》かカード名に「クリスタ」を含むキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+	],
+	"specialAttrib": [
+		"巨人",
+		"兵団"
+	]
+}

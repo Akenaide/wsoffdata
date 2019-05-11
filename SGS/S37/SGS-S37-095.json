@@ -1,0 +1,30 @@
+{
+	"set": "SGS",
+	"setName": "スクールガールストライカーズ",
+	"side": "S",
+	"release": "37",
+	"id": "095",
+	"name": "",
+	"jpName": "理論派 真乃",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "10000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードはサイドアタックできない。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"ストライカー",
+		"カードゲーム"
+	]
+}

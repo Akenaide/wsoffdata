@@ -1,0 +1,25 @@
+{
+	"set": "NGL",
+	"setName": "ノーゲーム・ノーライフ",
+	"side": "S",
+	"release": "58",
+	"id": "074",
+	"name": "",
+	"jpName": "希望の鍵",
+	"cardType": "EV",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"このカードは、あなたのカード名に「空」か「白」を含むキャラがいないなら、手札からプレイできない。",
+		"あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+	],
+	"specialAttrib": []
+}

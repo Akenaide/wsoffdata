@@ -1,0 +1,30 @@
+{
+	"set": "MK",
+	"setName": "探偵オペラ　ミルキィホームズ",
+	"side": "S",
+	"release": "11",
+	"id": "082",
+	"name": "",
+	"jpName": "深い溜息 コーデリア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、他のあなたの《探偵》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードがアタックした時、クライマックス置場に「ハイパーセンシティブ」があるなら、あなたは自分の山札を見て《探偵》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"探偵",
+		"スポーツ"
+	]
+}

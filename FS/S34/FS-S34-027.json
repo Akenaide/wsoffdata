@@ -1,0 +1,29 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night [Unlimited Blade Works]",
+	"side": "S",
+	"release": "34",
+	"id": "027",
+	"name": "",
+	"jpName": "令呪の発動 士郎",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】[(1) このカードを手札に戻す］ あなたのクライマックス置場に「セイバーの召喚」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「結界内の攻防 セイバー」を1枚まで選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"武器"
+	]
+}

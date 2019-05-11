@@ -1,0 +1,29 @@
+{
+	"set": "PT",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "07",
+	"id": "111",
+	"name": "",
+	"jpName": "ファントムの主 クロウディア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "9000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［あなたの舞台のレベル0以下のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"暗黒街"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+	"side": "S",
+	"release": "51",
+	"id": "043",
+	"name": "",
+	"jpName": "しっかり者の妹 リーファ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "8500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《アバター》か《ネット》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

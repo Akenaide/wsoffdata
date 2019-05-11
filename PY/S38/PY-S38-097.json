@@ -1,0 +1,30 @@
+{
+	"set": "PY",
+	"setName": "ぷよぷよ",
+	"side": "S",
+	"release": "38",
+	"id": "097",
+	"name": "",
+	"jpName": "実験開始 りすくま先輩",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「りすくませんぱい」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 あなたのクライマックス置場に「実験大成功」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《ぷよ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"ぷよ",
+		"科学"
+	]
+}

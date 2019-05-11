@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "艦隊これくしょん -艦これ-",
+	"side": "S",
+	"release": "25",
+	"id": "073",
+	"name": "",
+	"jpName": "高雄型重巡1番艦 高雄",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。",
+		"【永】 他のあなたの《艦娘》のキャラ1枚につき、このカードのパワーを＋500。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"重巡洋艦"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "KLK",
+	"setName": "2014年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "27",
+	"id": "T16",
+	"name": "",
+	"jpName": "流浪の女子高生 流子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"服",
+		"武器"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "PT",
+	"setName": "Phantom -requiem for the phantom-",
+	"side": "W",
+	"release": "07",
+	"id": "029",
+	"name": "",
+	"jpName": "レイモンド・マグワイア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「ツヴァイ」を含むキャラすべてのカード名は、「ファントム」としても扱う。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［あなたの舞台の「“ファントムを継ぎし者”ツヴァイ」を1枚クロック置場に置く］ あなたは自分のクロック置場の「“ファントムの力”ツヴァイ」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"暗黒街"
+	]
+}

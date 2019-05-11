@@ -1,0 +1,31 @@
+{
+	"set": "Sst",
+	"setName": "角川スニーカー文庫",
+	"side": "W",
+	"release": "62",
+	"id": "063",
+	"name": "",
+	"jpName": "三種の混血 刃更",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の、「澪と主従契約」か「柚希と主従契約」を1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"魔法",
+		"勇者"
+	]
+}

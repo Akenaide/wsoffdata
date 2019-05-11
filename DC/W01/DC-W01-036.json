@@ -1,0 +1,31 @@
+{
+	"set": "DC",
+	"setName": "D.C. D.C.II",
+	"side": "W",
+	"release": "01",
+	"id": "036",
+	"name": "",
+	"jpName": "私服のことり",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 大活躍",
+		"【自】 このカードがプレイされて舞台に置かれた時、あなたは相手の手札を見る。",
+		"【自】 このカードがアタックした時、クライマックス置場に「結婚式の歌姫」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"音楽"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "CN",
+	"setName": "CANAAN",
+	"side": "S",
+	"release": "E02",
+	"id": "03",
+	"name": "",
+	"jpName": "過去を奪われた犠牲者カナン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのクライマックス置場に「蛇の天敵」が置かれた時、このカードの正面のキャラが緑か赤なら、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+		"【自】 あなたのクライマックス置場に「蛇の天敵」が置かれた時、このカードの正面のキャラが黄か青なら、あなたのキャラすべてに、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"武器",
+		"お菓子"
+	]
+}

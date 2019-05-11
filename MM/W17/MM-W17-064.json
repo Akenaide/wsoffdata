@@ -1,0 +1,30 @@
+{
+	"set": "MM",
+	"setName": "魔法少女まどか☆マギカ",
+	"side": "W",
+	"release": "17",
+	"id": "064",
+	"name": "",
+	"jpName": "多節槍 杏子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"お菓子"
+	]
+}

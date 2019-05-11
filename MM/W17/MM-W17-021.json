@@ -1,0 +1,30 @@
+{
+	"set": "MM",
+	"setName": "魔法少女まどか☆マギカ",
+	"side": "W",
+	"release": "17",
+	"id": "021",
+	"name": "",
+	"jpName": "悲壮な覚悟 ほむら",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「もう誰にも頼らない」があり、他のあなたの前列の【スタンド】しているキャラがいないなら、そのターン中、このカードのパワーを＋7000。",
+		"【自】【クロック】 シフト レベル2 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"時間"
+	]
+}

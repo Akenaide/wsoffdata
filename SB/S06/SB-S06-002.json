@@ -1,0 +1,30 @@
+{
+	"set": "SB",
+	"setName": "戦国BASARA",
+	"side": "S",
+	"release": "06",
+	"id": "002",
+	"name": "",
+	"jpName": "“繚乱無比”濃姫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「魔王」を含むキャラを1枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"武器",
+		"愛"
+	]
+}

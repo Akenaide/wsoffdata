@@ -1,0 +1,30 @@
+{
+	"set": "SGS",
+	"setName": "スクールガールストライカーズ",
+	"side": "S",
+	"release": "37",
+	"id": "124",
+	"name": "",
+	"jpName": "“アザーズ”降神 小織",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの青のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 経験 相手のアンコールステップの始めに、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは他の自分のキャラを1枚選び、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
+	],
+	"specialAttrib": [
+		"ストライカー",
+		"動物"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "LS",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "05",
+	"id": "116",
+	"name": "",
+	"jpName": "趣味の道 こなた",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《オタク》のキャラすべてに、パワーを＋1000。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+	],
+	"specialAttrib": [
+		"オタク",
+		"漫画"
+	]
+}

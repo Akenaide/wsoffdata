@@ -1,0 +1,30 @@
+{
+	"set": "N1",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E06",
+	"id": "28",
+	"name": "",
+	"jpName": "バリアジャケットなのは",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】このカードの下にマーカーがあるなら、このカードのパワーを+1000。",
+		"【自】このカードが控え室から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	]
+}

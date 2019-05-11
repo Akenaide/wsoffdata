@@ -1,0 +1,30 @@
+{
+	"set": "PI",
+	"setName": "Fate/kaleid liner プリズマ☆イリヤ",
+	"side": "S",
+	"release": "E18",
+	"id": "16",
+	"name": "",
+	"jpName": "現実的な美遊",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+		"【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“Kaleidoscope”美遊」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"魔法"
+	]
+}

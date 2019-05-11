@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン Re: Edit",
+	"side": "S",
+	"release": "47",
+	"id": "046",
+	"name": "",
+	"jpName": "《スリーピング・ナイツ》シウネー＆テッチ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、「パーティーへの参加 アスナ」と「《スリーピング・ナイツ》ユウキ」がいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードがアタックした時、クライマックス置場に「Braves of 27th floor」があるなら、あなたは自分の控え室の、《アバター》か《ネット》のキャラを1枚まで選び、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

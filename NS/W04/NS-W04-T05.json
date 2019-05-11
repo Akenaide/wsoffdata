@@ -1,0 +1,30 @@
+{
+	"set": "NS",
+	"setName": "2008年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "04",
+	"id": "T05",
+	"name": "",
+	"jpName": "金の閃光フェイト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《魔法》のキャラすべてに、レベルを＋1し、パワーを＋500。",
+		"【起】［(1) このカードを【レスト】する］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	]
+}

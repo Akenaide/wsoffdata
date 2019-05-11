@@ -1,0 +1,29 @@
+{
+	"set": "PT",
+	"setName": "Phantom -requiem for the phantom-",
+	"side": "W",
+	"release": "07",
+	"id": "002",
+	"name": "",
+	"jpName": "ファントムの助手キャル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「ファントム」を含むキャラすべてに、パワーを＋500し、ソウルを＋1。",
+		"【自】［(1)］  あなたのクライマックス置場に「報酬」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の後列のコスト0以下のキャラを1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"時計"
+	]
+}

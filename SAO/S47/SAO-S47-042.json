@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン Re: Edit",
+	"side": "S",
+	"release": "47",
+	"id": "042",
+	"name": "",
+	"jpName": "無邪気で奔放 ユウキ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(1)］ あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

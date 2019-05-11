@@ -1,0 +1,29 @@
+{
+	"set": "GBS",
+	"setName": "ゴブリンスレイヤー",
+	"side": "S",
+	"release": "63",
+	"id": "015",
+	"name": "",
+	"jpName": "精霊の酒夢 鉱人道士",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《秩序》のキャラすべてに、パワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードがすべて《秩序》のキャラなら、あなたは相手の後列のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
+	],
+	"specialAttrib": [
+		"秩序",
+		"冒険者",
+		"‐"
+	]
+}

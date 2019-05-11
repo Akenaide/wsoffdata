@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "2008年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "03",
+	"id": "T04",
+	"name": "",
+	"jpName": "最優の英霊セイバー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル中、このカードとバトルしているキャラが《魔法》なら、このカードのパワーを＋2000。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	]
+}

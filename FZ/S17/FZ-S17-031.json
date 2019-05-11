@@ -1,0 +1,30 @@
+{
+	"set": "FZ",
+	"setName": "Fate/Zero",
+	"side": "S",
+	"release": "17",
+	"id": "031",
+	"name": "",
+	"jpName": "ウェイバー・ベルベット",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【自】 あなたのクライマックス置場に「王と臣下を結ぶ絆」が置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《王族》か《錬金術》のキャラならストック置場に置く。（そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"マスター",
+		"錬金術"
+	]
+}

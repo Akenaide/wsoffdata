@@ -1,0 +1,29 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアG",
+	"side": "W",
+	"release": "27",
+	"id": "060",
+	"name": "",
+	"jpName": "圧倒的な火力 クリス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「RED HOT BLAZE」があり、他のあなたのカード名に「クリス」を含むキャラが4枚以上なら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"set": "HLL",
+	"setName": "「ひなろじ ～from Luck ＆ Logic～」Vol.1",
+	"side": "W",
+	"release": "E28",
+	"id": "31",
+	"name": "",
+	"jpName": "精密射撃 学",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、《定理者》か《使者》のキャラを2枚まで選んで相手に見せ、このカードの下にマーカーとして好きな順番で表向きに置き、残りのカードを控え室に置く。",
+		"【起】［(1) このカードの下のマーカーを2枚控え室に置く］ あなたは相手のレベル0以下のキャラを1枚選び、控え室に置き、そのターン中、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"定理者",
+		"使者"
+	]
+}

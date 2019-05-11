@@ -1,0 +1,30 @@
+{
+	"set": "PY",
+	"setName": "ぷよぷよ",
+	"side": "S",
+	"release": "38",
+	"id": "076",
+	"name": "",
+	"jpName": "ちょっぴりイヤミな クルーク",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ぷよ》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"ぷよ",
+		"本"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "STG",
+	"setName": "STEINS;GATE",
+	"side": "S",
+	"release": "60",
+	"id": "023",
+	"name": "",
+	"jpName": "“牧瀬プリン”牧瀬 紅莉栖",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ラボメン》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+		"【自】 アンコール ［手札の《ラボメン》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"ラボメン",
+		"科学"
+	]
+}

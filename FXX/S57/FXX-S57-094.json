@@ -1,0 +1,29 @@
+{
+	"set": "FXX",
+	"setName": "ダーリン・イン・ザ・フランキス",
+	"side": "S",
+	"release": "57",
+	"id": "094",
+	"name": "",
+	"jpName": "憧れと対抗心 ミツル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】他のあなたの、《パラサイト》か《フランクス》のキャラすべてに、パワーを＋1000。",
+		"【自】あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"パラサイト"
+	]
+}

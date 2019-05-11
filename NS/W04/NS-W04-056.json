@@ -1,0 +1,30 @@
+{
+	"set": "NS",
+	"setName": "なのはStrikerS",
+	"side": "W",
+	"release": "04",
+	"id": "056",
+	"name": "",
+	"jpName": "鉄槌の騎士ヴィータ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「ぶち抜けー！」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+		"【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	]
+}

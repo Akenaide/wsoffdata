@@ -1,0 +1,30 @@
+{
+	"set": "LB",
+	"setName": "リトルバスターズ！カードミッション",
+	"side": "W",
+	"release": "E21",
+	"id": "29",
+	"name": "",
+	"jpName": "天体観測 小毬",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、このカードのパワーを＋2000。",
+		"【自】［(1)］ あなたのクライマックス置場に「twinkle starlights」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てコスト1以下の《お菓子》のキャラを1枚まで選び、舞台の好きな枠に置く。その後、その山札をシャッフルし、そのターン中、そのキャラのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"お菓子",
+		"童話"
+	]
+}

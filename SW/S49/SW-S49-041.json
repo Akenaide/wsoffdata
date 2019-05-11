@@ -1,0 +1,30 @@
+{
+	"set": "SW",
+	"setName": "STAR WARS",
+	"side": "S",
+	"release": "49",
+	"id": "041",
+	"name": "",
+	"jpName": "“戦闘のプロフェッショナル”ボバ・フェット",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが緑なら、このカードのパワーを＋1000し、ソウルを＋1。",
+		"【永】 他のあなたの緑のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札の緑のカードを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"ジェダイの帰還"
+	]
+}

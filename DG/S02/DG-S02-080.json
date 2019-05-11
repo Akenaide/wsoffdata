@@ -1,0 +1,30 @@
+{
+	"set": "DG",
+	"setName": "魔界戦記ディスガイア",
+	"side": "S",
+	"release": "02",
+	"id": "080",
+	"name": "",
+	"jpName": "珍妙なカエル ティンク",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】あなたの控え室のクライマックスが4枚以上なら、このカードのパワーを＋2000。",
+		"【起】［(3) このカードを控え室に置く］ あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"カエル"
+	]
+}

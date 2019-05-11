@@ -1,0 +1,30 @@
+{
+	"set": "TF",
+	"setName": "テラフォーマーズ",
+	"side": "S",
+	"release": "32",
+	"id": "082",
+	"name": "",
+	"jpName": "“幹部乗組員”ミッシェル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のカードすべてを、山札に戻す。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"改造",
+		"虫"
+	]
+}

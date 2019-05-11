@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」第二艦隊",
+	"side": "S",
+	"release": "31",
+	"id": "034",
+	"name": "",
+	"jpName": "栄光の第一航空戦隊 加賀",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《艦娘》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の《艦娘》のキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の山札の上から1枚を、クロック置場に置く。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"正規空母"
+	]
+}

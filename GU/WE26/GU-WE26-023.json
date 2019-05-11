@@ -1,0 +1,30 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？？",
+	"side": "W",
+	"release": "E26",
+	"id": "023",
+	"name": "",
+	"jpName": "お見舞い ココア",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"ラビットハウス",
+		"パン"
+	]
+}

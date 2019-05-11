@@ -1,0 +1,30 @@
+{
+	"set": "RN",
+	"setName": "ロボティクス・ノーツ",
+	"side": "W",
+	"release": "16",
+	"id": "081",
+	"name": "",
+	"jpName": "ゲジ姉",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		"【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+	],
+	"specialAttrib": [
+		"科学",
+		"ネット"
+	]
+}

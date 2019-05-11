@@ -1,0 +1,29 @@
+{
+	"set": "FXX",
+	"setName": "ダーリン・イン・ザ・フランキス",
+	"side": "S",
+	"release": "57",
+	"id": "037",
+	"name": "",
+	"jpName": "手作りの結婚式 ミツル",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】あなたの、《パラサイト》か《フランクス》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを−1。",
+		"【自】【CXコンボ】あなたのクライマックス置場に「桜の花が咲く頃に」が置かれた時、前列にこのカードがいるなら、あなたは他の自分のキャラを1枚と、このカードを選び、そのターン中、パワーを＋3000し、《指輪》を与える。"
+	],
+	"specialAttrib": [
+		"パラサイト"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "OVL",
+	"setName": "オーバーロード",
+	"side": "S",
+	"release": "62",
+	"id": "029",
+	"name": "",
+	"jpName": "負けん気溢れる名調教師 アウラ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】前列にこのカードがいるなら、あなたの、《異形種》か《ナザリック》のキャラすべてに、パワーを＋1500。",
+		"【自】［手札のキャラを2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのバトル相手をクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"人間種",
+		"ナザリック"
+	]
+}

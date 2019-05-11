@@ -1,0 +1,29 @@
+{
+	"set": "AOT",
+	"setName": "ブースターパック 「進撃の巨人」Vol.2",
+	"side": "S",
+	"release": "50",
+	"id": "097",
+	"name": "",
+	"jpName": "“対峙”鎧の巨人",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードはダイレクトアタックとサイドアタックできない。",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"巨人"
+	]
+}

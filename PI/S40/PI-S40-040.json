@@ -1,0 +1,29 @@
+{
+	"set": "PI",
+	"setName": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+	"side": "S",
+	"release": "40",
+	"id": "040",
+	"name": "",
+	"jpName": "“監視者の出現”凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは、あなたの《宝石》のキャラが2枚以下なら、手札からプレイできない。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋2500。"
+	],
+	"specialAttrib": [
+		"宝石"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "GF",
+	"setName": "ガールフレンド（仮）",
+	"side": "W",
+	"release": "33",
+	"id": "122",
+	"name": "",
+	"jpName": "海辺の輝き 見吉奈央",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが青なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"ガール",
+		"水着"
+	]
+}

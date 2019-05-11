@@ -1,0 +1,30 @@
+{
+	"set": "DG",
+	"setName": "ディスガイア D2",
+	"side": "S",
+	"release": "E17",
+	"id": "19",
+	"name": "",
+	"jpName": "“暴走する秘宝”ゼノリス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "1000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"宝石",
+		"悪魔"
+	]
+}

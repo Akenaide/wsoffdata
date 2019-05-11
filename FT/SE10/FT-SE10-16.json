@@ -1,0 +1,30 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL",
+	"side": "S",
+	"release": "E10",
+	"id": "16",
+	"name": "",
+	"jpName": "美しき絆 ルーシィ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《鍵》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「罪なんかじゃない！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、《鍵》のキャラを2枚まで選んで相手に見せ、手札に加える。その後、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"鍵"
+	]
+}

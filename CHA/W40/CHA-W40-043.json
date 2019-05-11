@@ -1,0 +1,29 @@
+{
+	"set": "CHA",
+	"setName": "Charlotte",
+	"side": "W",
+	"release": "40",
+	"id": "043",
+	"name": "",
+	"jpName": "“ここにない世界”目時",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《能力者》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"能力者"
+	]
+}

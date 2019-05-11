@@ -1,0 +1,30 @@
+{
+	"set": "CS",
+	"setName": "クレヨンしんちゃん",
+	"side": "S",
+	"release": "28",
+	"id": "057",
+	"name": "",
+	"jpName": "みんなに挨拶 しんのすけ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の、《家族》か《幼稚園》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"家族",
+		"幼稚園"
+	]
+}

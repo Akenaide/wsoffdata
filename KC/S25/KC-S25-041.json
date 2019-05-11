@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "艦隊これくしょん -艦これ-",
+	"side": "S",
+	"release": "25",
+	"id": "041",
+	"name": "",
+	"jpName": "千歳型軽空母2番艦 千代田航改二",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "2500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
+		"【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"軽空母"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "NGL",
+	"setName": "[TD+]ノーゲーム・ノーライフ",
+	"side": "S",
+	"release": "58",
+	"id": "T08",
+	"name": "",
+	"jpName": "国王 空",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】このカードが手札から舞台に置かれた時、あなたは1枚まで引き、相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】このカードのバトル中、あなたはイベントと『助太刀』を、手札からプレイできない。』"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"人類種"
+	]
+}

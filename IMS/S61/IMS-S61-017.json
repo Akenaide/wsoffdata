@@ -1,0 +1,30 @@
+{
+	"set": "IMS",
+	"setName": "アイドルマスター ミリオンライブ！",
+	"side": "S",
+	"release": "61",
+	"id": "017",
+	"name": "",
+	"jpName": "エンジェルボイス　伊吹 翼",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+		"【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"オシャレ"
+	]
+}

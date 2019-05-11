@@ -1,0 +1,29 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "41",
+	"id": "052",
+	"name": "",
+	"jpName": "new generations 卯月",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】[(3) 手札の《音楽》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「できたてEvo! Revo! Generation!」があり、他のあなたの前列の、「new generations 未央」と「new generations 凛」がいるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。このダメージがキャンセルされたなら、あなたは自分のクロックの上から3枚までを、控え室に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

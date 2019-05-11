@@ -1,0 +1,30 @@
+{
+	"set": "SR",
+	"setName": "シャイニング・レゾナンス",
+	"side": "S",
+	"release": "E25",
+	"id": "18",
+	"name": "",
+	"jpName": "開放された心 マリオン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは、あなたのキャラが3枚以下なら、手札からプレイできない。",
+		"【永】 他のあなたの、《音楽》か《竜》のキャラが3枚以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"竜"
+	]
+}

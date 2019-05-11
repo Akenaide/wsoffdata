@@ -1,0 +1,30 @@
+{
+	"set": "SMP",
+	"setName": "Summer Pockets",
+	"side": "W",
+	"release": "60",
+	"id": "044",
+	"name": "",
+	"jpName": "“夏休みが終わっても”紬",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「来ることのない日々」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"ヌイグルミ"
+	]
+}

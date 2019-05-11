@@ -1,0 +1,28 @@
+{
+	"set": "LS",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "05",
+	"id": "110",
+	"name": "",
+	"jpName": "こなたんセイバー＆かがみん凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】あなたのターン中、他のあなた《サーヴァント》のキャラ1枚につき、このカードのパワーを+500。",
+		"【永】相手のターン中、他のあなたの《マスター》のキャラ1枚につき、このカードのパワーを+500。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"サーヴァント"
+	]
+}

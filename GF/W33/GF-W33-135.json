@@ -1,0 +1,30 @@
+{
+	"set": "GF",
+	"setName": "ガールフレンド（仮）",
+	"side": "W",
+	"release": "33",
+	"id": "135",
+	"name": "",
+	"jpName": "意外な動き 東雲レイ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの青のキャラすべてに、パワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』"
+	],
+	"specialAttrib": [
+		"ガール",
+		"スポーツ"
+	]
+}

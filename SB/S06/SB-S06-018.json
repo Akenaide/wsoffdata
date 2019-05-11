@@ -1,0 +1,29 @@
+{
+	"set": "SB",
+	"setName": "戦国BASARA",
+	"side": "S",
+	"release": "06",
+	"id": "018",
+	"name": "",
+	"jpName": "“毒牙”明智 光秀",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のカード名に「魔王」を含むキャラを1枚選び、ストック置場に置いてよい。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"武器"
+	]
+}

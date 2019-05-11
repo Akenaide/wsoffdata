@@ -1,0 +1,31 @@
+{
+	"set": "DD",
+	"setName": "DOG DAYS\"",
+	"side": "W",
+	"release": "E23",
+	"id": "05",
+	"name": "",
+	"jpName": "勇者の休息 レベッカ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列の中央の枠のキャラに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+		"【永】 応援 このカードの前のあなたの、《勇者》か《王族》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+	],
+	"specialAttrib": [
+		"勇者",
+		"本"
+	]
+}

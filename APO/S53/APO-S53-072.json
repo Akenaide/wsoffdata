@@ -1,0 +1,30 @@
+{
+	"set": "APO",
+	"setName": "Fate/Apocrypha",
+	"side": "S",
+	"release": "53",
+	"id": "072",
+	"name": "",
+	"jpName": "“極刑王”黒のランサー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?1000。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"王族"
+	]
+}

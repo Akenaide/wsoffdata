@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night",
+	"side": "S",
+	"release": "03",
+	"id": "081",
+	"name": "",
+	"jpName": "宗一郎＆キャスター",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《先生》のキャラがいるなら、このカードのパワーを＋2000。",
+		"【自】［(2)］ このカードがアタックした時、クライマックス置場に「キャスターの望み」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"サーヴァント"
+	]
+}

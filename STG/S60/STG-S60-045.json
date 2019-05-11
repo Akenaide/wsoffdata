@@ -1,0 +1,31 @@
+{
+	"set": "STG",
+	"setName": "STEINS;GATE",
+	"side": "S",
+	"release": "60",
+	"id": "045",
+	"name": "",
+	"jpName": "“頼れる右腕”橋田 至",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「阿万音」を含むキャラすべてに、レベルを＋1し、パワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の《ラボメン》のキャラか「IBN5100」を1枚選び、入れ替えてよい。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《ラボメン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"ラボメン",
+		"オタク"
+	]
+}

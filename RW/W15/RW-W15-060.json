@@ -1,0 +1,30 @@
+{
+	"set": "RW",
+	"setName": "Rewrite",
+	"side": "W",
+	"release": "15",
+	"id": "060",
+	"name": "",
+	"jpName": "“テメエの道と俺の道”ミドウ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "5500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。",
+		"【自】【クロック】 シフト レベル2 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+	],
+	"specialAttrib": [
+		"影",
+		"炎"
+	]
+}

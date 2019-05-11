@@ -1,0 +1,29 @@
+{
+	"set": "SG",
+	"setName": "2012年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "19",
+	"id": "103",
+	"name": "",
+	"jpName": "シンフォギアの装者 響",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+		"【起】［あなたの《音楽》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？？ ～Dear My Sister～",
+	"side": "W",
+	"release": "57",
+	"id": "062",
+	"name": "",
+	"jpName": "手作りのぬいぐるみ リゼ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《ラビットハウス》か《Dear My Sister》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを-1。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「軍事機密だ」があり、他のあなたの、《ラビットハウス》か《Dear My Sister》のキャラが4枚以上なら、あなたは1枚まで引き、自分の控え室のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"ラビットハウス",
+		"Dear My Sister"
+	]
+}

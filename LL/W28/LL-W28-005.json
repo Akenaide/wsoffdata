@@ -1,0 +1,29 @@
+{
+	"set": "LL",
+	"setName": "ラブライブ！ feat.スクールアイドルフェスティバル",
+	"side": "W",
+	"release": "28",
+	"id": "005",
+	"name": "",
+	"jpName": "“No brand girls”希",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置く。残りのカードを山札の上に好きな順番で置く。",
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、他のあなたのキャラすべてに、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"set": "P4",
+	"setName": "2012年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "E12",
+	"id": "T07",
+	"name": "",
+	"jpName": "悠＆イザナギ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのストックが4枚以下なら、このカードのパワーを＋2000。",
+		"【永】 舞台にこのカードがいるなら、このカードのカード名は「主人公＆イザナギ」としても扱う。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"メガネ"
+	]
+}

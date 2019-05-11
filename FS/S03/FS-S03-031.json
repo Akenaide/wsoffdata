@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night",
+	"side": "S",
+	"release": "03",
+	"id": "031",
+	"name": "",
+	"jpName": "開放された桜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックス置場に「桜、幸せ？」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"スポーツ"
+	]
+}

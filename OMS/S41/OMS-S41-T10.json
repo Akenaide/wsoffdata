@@ -1,0 +1,30 @@
+{
+	"set": "OMS",
+	"setName": "2016年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "41",
+	"id": "T10",
+	"name": "",
+	"jpName": "“奇跡のバカ”おそ松",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「松」を含むキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"６つ子",
+		"ギャンブル"
+	]
+}

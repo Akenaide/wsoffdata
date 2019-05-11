@@ -1,0 +1,29 @@
+{
+	"set": "KF",
+	"setName": "THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "05",
+	"id": "007",
+	"name": "",
+	"jpName": "暴走庵",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の前列のキャラすべてを、控え室に置く。2枚置いたなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"オロチ",
+		"神器"
+	]
+}

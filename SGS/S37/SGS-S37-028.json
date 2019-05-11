@@ -1,0 +1,30 @@
+{
+	"set": "SGS",
+	"setName": "スクールガールストライカーズ",
+	"side": "S",
+	"release": "37",
+	"id": "028",
+	"name": "",
+	"jpName": "狙い撃ち 悠水",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ストライカー》のキャラすべてに、《料理》を与える。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【永】 あなたのターン中、このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋4000し、ソウルを＋1。』"
+	],
+	"specialAttrib": [
+		"ストライカー",
+		"料理"
+	]
+}

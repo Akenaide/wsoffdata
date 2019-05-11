@@ -1,0 +1,29 @@
+{
+	"set": "LL",
+	"setName": "ラブライブ！",
+	"side": "W",
+	"release": "24",
+	"id": "021",
+	"name": "",
+	"jpName": "西木野 真姫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【起】［(1) このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "SE",
+	"setName": "シャイニング・フォース イクサ",
+	"side": "S",
+	"release": "04",
+	"id": "031",
+	"name": "",
+	"jpName": "獣人族の少年ファークリン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+		"【起】［(2)］ あなたは自分のカード名に「アミタリリ」を含むキャラを1枚選び、そのターン中、パワーを＋2500し、このカードのパワーを＋2500。"
+	],
+	"specialAttrib": [
+		"動物",
+		"魔法"
+	]
+}

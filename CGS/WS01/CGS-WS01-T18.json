@@ -1,0 +1,30 @@
+{
+	"set": "CGS",
+	"setName": "カードゲームしよ子",
+	"side": "W",
+	"release": "S01",
+	"id": "T18",
+	"name": "",
+	"jpName": "収録中のしよ子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見る。（見たカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"カードゲーム",
+		"ヘッドフォン"
+	]
+}

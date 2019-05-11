@@ -1,0 +1,29 @@
+{
+	"set": "ZM",
+	"setName": "ゼロの使い魔",
+	"side": "W",
+	"release": "03",
+	"id": "051",
+	"name": "",
+	"jpName": "微熱のキュルケ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法"
+	]
+}

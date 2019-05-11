@@ -1,0 +1,29 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアＧＸ",
+	"side": "W",
+	"release": "39",
+	"id": "019",
+	"name": "",
+	"jpName": "白昼の襲撃 未来",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードがアタックした時、クライマックス置場に「大きな心配事」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

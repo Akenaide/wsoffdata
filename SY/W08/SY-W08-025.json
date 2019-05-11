@@ -1,0 +1,28 @@
+{
+	"set": "SY",
+	"setName": "涼宮ハルヒの憂鬱",
+	"side": "W",
+	"release": "08",
+	"id": "025",
+	"name": "",
+	"jpName": "閉鎖空間",
+	"cardType": "CX",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "CC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL",
+		"SHOT"
+	],
+	"ability": [
+		"【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+		"（[SHOT]：このターン中、今回の攻撃キャラが次に与えるダメージがキャンセルされた時、相手に１ダメージを与える。）"
+	],
+	"specialAttrib": []
+}

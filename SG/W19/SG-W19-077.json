@@ -1,0 +1,29 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギア",
+	"side": "W",
+	"release": "19",
+	"id": "077",
+	"name": "",
+	"jpName": "決意の時 翼",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "VS",
+	"setName": "ViVid Strike!",
+	"side": "W",
+	"release": "50",
+	"id": "061",
+	"name": "",
+	"jpName": "リオ･ウェズリー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の控え室のクライマックスが3枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 手札のこのカードをプレイするにあたり、あなたは自分の「明るく元気 リオ」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。",
+		"【永】 あなたのキャラすべてが《格闘》なら、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"格闘"
+	]
+}

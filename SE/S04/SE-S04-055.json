@@ -1,0 +1,30 @@
+{
+	"set": "SE",
+	"setName": "シャイニング・フォース イクサ",
+	"side": "S",
+	"release": "04",
+	"id": "055",
+	"name": "",
+	"jpName": "アミタリリの付き人ファークリン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《悪魔》のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"動物",
+		"魔法"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"set": "DG",
+	"setName": "魔界戦記ディスガイア",
+	"side": "S",
+	"release": "02",
+	"id": "092",
+	"name": "",
+	"jpName": "超勇者オーラム",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、あなたは自分の山札を見てカード名に「魔王」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"勇者",
+		"神"
+	]
+}

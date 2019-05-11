@@ -1,0 +1,31 @@
+{
+	"set": "AOT",
+	"setName": "進撃の巨人",
+	"side": "S",
+	"release": "35",
+	"id": "031",
+	"name": "",
+	"jpName": "“城壁の彼方”リヴァイ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《兵団》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのキャラすべてが《兵団》なら、このカードのパワーを＋1000。",
+		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。"
+	],
+	"specialAttrib": [
+		"兵団",
+		"武器"
+	]
+}

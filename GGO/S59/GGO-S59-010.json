@@ -1,0 +1,30 @@
+{
+	"set": "GGO",
+	"setName": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+	"side": "S",
+	"release": "59",
+	"id": "010",
+	"name": "",
+	"jpName": "《SHINC》のボス エヴァ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ラストバトルの行方」があるなら、あなたはそのキャラをクロック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"ＳＨＩＮＣ"
+	]
+}

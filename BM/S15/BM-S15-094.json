@@ -1,0 +1,30 @@
+{
+	"set": "BM",
+	"setName": "化物語",
+	"side": "S",
+	"release": "15",
+	"id": "094",
+	"name": "",
+	"jpName": "羽川翼",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードは次の能力を得る。『【永】 相手のターン中、他のあなたの《怪異》のキャラすべてに、パワーを＋500。』"
+	],
+	"specialAttrib": [
+		"怪異",
+		"委員長"
+	]
+}

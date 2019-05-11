@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night [Unlimited Blade Works]",
+	"side": "S",
+	"release": "34",
+	"id": "059",
+	"name": "",
+	"jpName": "マスターの心構え 凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 共鳴 [(1) 手札の「契約の証 凛」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"宝石"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "DC3",
+	"setName": "2012年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "18",
+	"id": "103",
+	"name": "",
+	"jpName": "恋する乙女 立夏",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《新聞》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"新聞",
+		"生徒会"
+	]
+}

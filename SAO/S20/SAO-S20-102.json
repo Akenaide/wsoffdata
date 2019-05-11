@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "2012年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "20",
+	"id": "102",
+	"name": "",
+	"jpName": "《攻略組》キリト",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "MR",
+	"setName": "マギアレコード 魔法少女まどか☆マギカ外伝",
+	"side": "W",
+	"release": "59",
+	"id": "090",
+	"name": "",
+	"jpName": "魔法少女との対峙 やちよ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 舞台のこのカードのレベルを?1。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"バランス"
+	]
+}

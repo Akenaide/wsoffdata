@@ -1,0 +1,30 @@
+{
+	"set": "PY",
+	"setName": "2016年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "38",
+	"id": "T06",
+	"name": "",
+	"jpName": "冒険大好き アルル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(1) このカードを【レスト】する］ あなたは自分の《ぷよ》のキャラを1枚選び、そのターン中、ソウルを＋1し、そのキャラ以外の自分の、そのキャラと同じカード名のキャラを1枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"ぷよ",
+		"魔法"
+	]
+}

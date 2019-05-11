@@ -1,0 +1,29 @@
+{
+	"set": "RW",
+	"setName": "Rewrite",
+	"side": "W",
+	"release": "15",
+	"id": "093",
+	"name": "",
+	"jpName": "私服の静流",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】［あなたのキャラを2枚【レスト】する］ 次の相手のターンの終わりまで、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"風紀委員",
+		"オカルト"
+	]
+}

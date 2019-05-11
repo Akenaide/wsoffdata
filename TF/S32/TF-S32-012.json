@@ -1,0 +1,30 @@
+{
+	"set": "TF",
+	"setName": "テラフォーマーズ",
+	"side": "S",
+	"release": "32",
+	"id": "012",
+	"name": "",
+	"jpName": "“幹部乗組員”劉 翊武",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分のストックすべてを、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"改造"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "RG",
+	"setName": "禁書目録＆超電磁砲",
+	"side": "W",
+	"release": "10",
+	"id": "031",
+	"name": "",
+	"jpName": "“多才能力者”木山",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《超能力》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックス置場に「せんせいの執念」が置かれた時、あなたは自分の控え室の《超能力》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"科学",
+		"超能力"
+	]
+}

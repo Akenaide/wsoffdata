@@ -1,0 +1,31 @@
+{
+	"set": "YYS",
+	"setName": "ゆらぎ荘の幽奈さん",
+	"side": "W",
+	"release": "61",
+	"id": "062",
+	"name": "",
+	"jpName": "チアガール 幽奈",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの思い出置場のカードの持つ色の合計×500に等しい。",
+		""
+	],
+	"specialAttrib": [
+		"霊",
+		"ゆらぎ荘"
+	]
+}

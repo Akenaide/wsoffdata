@@ -1,0 +1,29 @@
+{
+	"set": "LB",
+	"setName": "アニメ「リトルバスターズ～Refrain～」",
+	"side": "W",
+	"release": "E18",
+	"id": "37",
+	"name": "",
+	"jpName": "“ホットケーキパーティー”美魚",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ あなたがこのカードの『助太刀』を使った時、あなたの《本》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+		"【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+	],
+	"specialAttrib": [
+		"本"
+	]
+}

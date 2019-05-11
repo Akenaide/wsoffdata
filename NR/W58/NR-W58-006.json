@@ -1,0 +1,30 @@
+{
+	"set": "NR",
+	"setName": "魔法少女リリカルなのは Reflection",
+	"side": "W",
+	"release": "58",
+	"id": "006",
+	"name": "",
+	"jpName": "時空管理局航空隊 シグナム",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、あなたのキャラすべてが青かカード名に「シグナム」か「ヴィータ」を含むなら、このカードのパワーを＋4000。",
+		"【自】 アンコール ［手札の、青かカード名に「シグナム」か「ヴィータ」を含むキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	]
+}

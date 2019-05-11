@@ -1,0 +1,30 @@
+{
+	"set": "N2",
+	"setName": "魔法少女リリカルなのは The MOVIE 2nd A's",
+	"side": "W",
+	"release": "25",
+	"id": "045",
+	"name": "",
+	"jpName": "伝えたい真実 なのは",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	]
+}

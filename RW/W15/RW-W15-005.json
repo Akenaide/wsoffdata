@@ -1,0 +1,29 @@
+{
+	"set": "RW",
+	"setName": "Rewrite",
+	"side": "W",
+	"release": "15",
+	"id": "005",
+	"name": "",
+	"jpName": "“瑚太朗のライバル”井上",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。あなたは自分の手札を1枚選び、控え室に置く。",
+		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"カメラ"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "DG",
+	"setName": "魔界戦記ディスガイア4",
+	"side": "S",
+	"release": "E08",
+	"id": "11",
+	"name": "",
+	"jpName": "ラズベリル大統領閣下",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、そのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードの与えたダメージがキャンセルされた時、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"不良"
+	]
+}

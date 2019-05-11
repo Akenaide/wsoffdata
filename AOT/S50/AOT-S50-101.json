@@ -1,0 +1,30 @@
+{
+	"set": "AOT",
+	"setName": "ブースターパック 「進撃の巨人」Vol.2",
+	"side": "S",
+	"release": "50",
+	"id": "101",
+	"name": "",
+	"jpName": "“たわむれバトル”ちみアルミン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは相手の効果に選ばれない。",
+		"【永】 応援 このカードの前のあなたの《兵団》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+	],
+	"specialAttrib": [
+		"兵団",
+		"武器"
+	]
+}

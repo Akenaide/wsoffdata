@@ -1,0 +1,30 @@
+{
+	"set": "FZ",
+	"setName": "Fate/Zero",
+	"side": "S",
+	"release": "17",
+	"id": "003",
+	"name": "",
+	"jpName": "信じる正義 切嗣",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000し、ソウルを＋1。",
+		"【自】 アタックしているこのカードの与えたダメージがキャンセルされた時、クライマックス置場に「起源弾」があるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"武器"
+	]
+}

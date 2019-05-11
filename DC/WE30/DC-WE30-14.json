@@ -1,0 +1,29 @@
+{
+	"set": "DC",
+	"setName": "ダ・カーポ vs リトルバスターズ！",
+	"side": "W",
+	"release": "E30",
+	"id": "14",
+	"name": "",
+	"jpName": "世話焼き 桜姫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の《魔法》のキャラを1枚選び、入れ替えてよい。"
+	],
+	"specialAttrib": [
+		"魔法"
+	]
+}

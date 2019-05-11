@@ -1,0 +1,30 @@
+{
+	"set": "NM",
+	"setName": "偽物語",
+	"side": "S",
+	"release": "24",
+	"id": "051",
+	"name": "",
+	"jpName": "栂の木二中の有名人 阿良々木月火",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"怪異",
+		"和服"
+	]
+}

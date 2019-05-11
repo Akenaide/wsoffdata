@@ -1,0 +1,30 @@
+{
+	"set": "LS",
+	"setName": "らき☆すた",
+	"side": "W",
+	"release": "05",
+	"id": "027",
+	"name": "",
+	"jpName": "小神 あきら",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の【スタンド】しているキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードがアタックした時、クライマックス置場に「らっきーちゃんねる」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの【スタンド】しているキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"テレビ",
+		"音楽"
+	]
+}

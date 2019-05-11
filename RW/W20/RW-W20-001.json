@@ -1,0 +1,30 @@
+{
+	"set": "RW",
+	"setName": "Rewrite Harvest festa!",
+	"side": "W",
+	"release": "20",
+	"id": "001",
+	"name": "",
+	"jpName": "“親愛なる探求者”小鳥",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《植物》のキャラが2枚以上なら、このカードのパワーを＋1000し、ソウルを＋1。",
+		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"植物",
+		"オカルト"
+	]
+}

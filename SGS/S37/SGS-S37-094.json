@@ -1,0 +1,30 @@
+{
+	"set": "SGS",
+	"setName": "スクールガールストライカーズ",
+	"side": "S",
+	"release": "37",
+	"id": "094",
+	"name": "",
+	"jpName": "のんびり海の中 雪枝",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ストライカー》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"ストライカー",
+		"不思議"
+	]
+}

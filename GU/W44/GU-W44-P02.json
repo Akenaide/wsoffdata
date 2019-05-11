@@ -1,0 +1,29 @@
+{
+	"set": "GU",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "44",
+	"id": "P02",
+	"name": "",
+	"jpName": "怪盗ラパン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 舞台にこのカードがいるなら、このカードのカード名は「シャロ」としても扱う。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+	],
+	"specialAttrib": [
+		"怪盗"
+	]
+}

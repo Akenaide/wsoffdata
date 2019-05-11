@@ -1,0 +1,29 @@
+{
+	"set": "NGL",
+	"setName": "[TD+]ノーゲーム・ノーライフ",
+	"side": "S",
+	"release": "58",
+	"id": "T17",
+	"name": "",
+	"jpName": "不健全への誘い 白",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ゲーム》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"人類種"
+	]
+}

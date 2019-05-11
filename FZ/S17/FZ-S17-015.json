@@ -1,0 +1,29 @@
+{
+	"set": "FZ",
+	"setName": "Fate/Zero",
+	"side": "S",
+	"release": "17",
+	"id": "015",
+	"name": "",
+	"jpName": "宝具開放 セイバー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「約束された勝利の剣」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、思い出にし、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	]
+}

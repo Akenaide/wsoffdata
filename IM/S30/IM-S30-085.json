@@ -1,0 +1,30 @@
+{
+	"set": "IM",
+	"setName": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+	"side": "S",
+	"release": "30",
+	"id": "085",
+	"name": "",
+	"jpName": "夕食から登場！ 貴音",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《王族》か《高貴》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"王族"
+	]
+}

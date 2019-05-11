@@ -1,0 +1,29 @@
+{
+	"set": "PI",
+	"setName": "Fate/kaleid liner プリズマ☆イリヤ ツヴァイ ヘルツ！",
+	"side": "S",
+	"release": "40",
+	"id": "013",
+	"name": "",
+	"jpName": "“チャージ準備”凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《宝石》のキャラすべてに、パワーを＋1000。",
+		"【自】 あなたの赤のクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"宝石"
+	]
+}

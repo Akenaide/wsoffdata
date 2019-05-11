@@ -1,0 +1,29 @@
+{
+	"set": "VS",
+	"setName": "[TD+]ViVid Strike!",
+	"side": "W",
+	"release": "50",
+	"id": "T17",
+	"name": "",
+	"jpName": "リンネの専属コーチ ジル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《格闘》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"格闘",
+		"トレーナー"
+	]
+}

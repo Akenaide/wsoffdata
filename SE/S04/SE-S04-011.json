@@ -1,0 +1,29 @@
+{
+	"set": "SE",
+	"setName": "シャイニング・フォース イクサ",
+	"side": "S",
+	"release": "04",
+	"id": "011",
+	"name": "",
+	"jpName": "伝説の英雄アバロン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが舞台に置かれた時、あなたは自分の手札の「伝説の英雄アバロン」を3枚選び、控え室に置いてよい。そうしたら、あなたは3枚引く。そうしないなら、このカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"武器",
+		"不死"
+	]
+}

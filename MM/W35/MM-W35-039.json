@@ -1,0 +1,30 @@
+{
+	"set": "MM",
+	"setName": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+	"side": "W",
+	"release": "35",
+	"id": "039",
+	"name": "",
+	"jpName": "魔女となる覚悟 ほむら",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"時間"
+	]
+}

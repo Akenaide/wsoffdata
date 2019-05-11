@@ -1,0 +1,29 @@
+{
+	"set": "GF",
+	"setName": "ガールフレンド（仮）",
+	"side": "W",
+	"release": "33",
+	"id": "124",
+	"name": "",
+	"jpName": "近く咲く花 上条るい",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがクライマックスなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"ガール"
+	]
+}

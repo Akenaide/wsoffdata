@@ -1,0 +1,29 @@
+{
+	"set": "GBS",
+	"setName": "[TD+]ゴブリンスレイヤー",
+	"side": "S",
+	"release": "63",
+	"id": "T19",
+	"name": "",
+	"jpName": "混沌を暴く光 女神官",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《秩序》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"秩序",
+		"冒険者"
+	]
+}

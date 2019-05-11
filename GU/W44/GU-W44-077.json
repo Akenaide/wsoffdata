@@ -1,0 +1,30 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？？",
+	"side": "W",
+	"release": "44",
+	"id": "077",
+	"name": "",
+	"jpName": "“からだが勝手に～”メグ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックス置場に「仲良し3人組」が置かれた時、あなたの青のキャラすべてに、そのターン中、パワーを＋1500。",
+		"【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、そのターン中、レベルを＋1。"
+	],
+	"specialAttrib": [
+		"バレエ"
+	]
+}

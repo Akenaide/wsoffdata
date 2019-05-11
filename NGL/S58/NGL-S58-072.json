@@ -1,0 +1,30 @@
+{
+	"set": "NGL",
+	"setName": "ノーゲーム・ノーライフ",
+	"side": "S",
+	"release": "58",
+	"id": "072",
+	"name": "",
+	"jpName": "敗者の姿 ステフ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ゲーム》のキャラが4枚以上なら、あなたは自分の控え室の《ゲーム》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"人類種"
+	]
+}

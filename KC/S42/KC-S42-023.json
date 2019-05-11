@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+	"side": "S",
+	"release": "42",
+	"id": "023",
+	"name": "",
+	"jpName": "雲龍型正規空母3番艦 葛城改",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《艦娘》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 あなたがレベルアップした時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"正規空母"
+	]
+}

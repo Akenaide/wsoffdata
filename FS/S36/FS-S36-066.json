@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+	"side": "S",
+	"release": "36",
+	"id": "066",
+	"name": "",
+	"jpName": "“葛藤の中”アーチャー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】しているカード名に「凛」か「アーチャー」を含むキャラを1枚選び、【レスト】する。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	]
+}

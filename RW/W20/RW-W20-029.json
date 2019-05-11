@@ -1,0 +1,29 @@
+{
+	"set": "RW",
+	"setName": "Rewrite Harvest festa!",
+	"side": "W",
+	"release": "20",
+	"id": "029",
+	"name": "",
+	"jpName": "“最強の座”静流",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「守られた約束」があるなら、そのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+	],
+	"specialAttrib": [
+		"風紀委員",
+		"オカルト"
+	]
+}

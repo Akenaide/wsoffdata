@@ -1,0 +1,28 @@
+{
+	"set": "BR",
+	"setName": "ブラック★ロックシューター",
+	"side": "S",
+	"release": "E06",
+	"id": "02",
+	"name": "",
+	"jpName": "ストレングス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "9500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のカード名に「ユウ」を含むキャラを1枚選び、控え室に置く。そうできないなら、あなたは自分の山札の上から1枚を、クロック置場に置く。"
+	],
+	"specialAttrib": [
+		"武器"
+	]
+}

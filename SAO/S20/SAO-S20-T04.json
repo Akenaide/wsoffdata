@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "2012年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "20",
+	"id": "T04",
+	"name": "",
+	"jpName": "プロポーズの返事 アスナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《アバター》か《ネット》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "IM",
+	"setName": "THE IDOLM@STER",
+	"side": "S",
+	"release": "07",
+	"id": "068",
+	"name": "",
+	"jpName": "パワフルガール真",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"スポーツ"
+	]
+}

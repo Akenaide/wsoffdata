@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンラインII",
+	"side": "S",
+	"release": "E23",
+	"id": "30",
+	"name": "",
+	"jpName": "麗しのアバター キリト",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

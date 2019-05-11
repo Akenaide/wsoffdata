@@ -1,0 +1,30 @@
+{
+	"set": "APO",
+	"setName": "Fate/Apocrypha",
+	"side": "S",
+	"release": "53",
+	"id": "054",
+	"name": "",
+	"jpName": "“庭園の中で”シロウ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「“庭園の中で”赤のアサシン」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"神父"
+	]
+}

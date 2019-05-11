@@ -1,0 +1,30 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアＧＸ",
+	"side": "W",
+	"release": "39",
+	"id": "057",
+	"name": "",
+	"jpName": "新たなる力 マリア",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「SERE†NADE」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}

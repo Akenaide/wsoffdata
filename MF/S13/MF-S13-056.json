@@ -1,0 +1,28 @@
+{
+	"set": "MF",
+	"setName": "劇場版マクロスＦ",
+	"side": "S",
+	"release": "13",
+	"id": "056",
+	"name": "",
+	"jpName": "マクロス・クォーター強攻型",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「マクロス・アタック」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはそのキャラのコストに等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"メカ"
+	]
+}

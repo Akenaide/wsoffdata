@@ -1,0 +1,30 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ3",
+	"side": "S",
+	"release": "01",
+	"id": "017",
+	"name": "",
+	"jpName": "主人公＆タナトス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「最後の選択」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
+		"【起】［(1)］ そのターン中、このカードのソウルを＋1。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"神"
+	]
+}

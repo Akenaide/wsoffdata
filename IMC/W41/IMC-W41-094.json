@@ -1,0 +1,29 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "41",
+	"id": "094",
+	"name": "",
+	"jpName": "new generations 凛",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
+		"【自】 このカードがアタックした時、クライマックス置場に「できたてEvo! Revo! Generation!」があり、他のあなたの前列の、「new generations 未央」と「new generations 卯月」がいるなら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋5000。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

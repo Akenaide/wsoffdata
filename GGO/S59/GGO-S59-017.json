@@ -1,0 +1,30 @@
+{
+	"set": "GGO",
+	"setName": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+	"side": "S",
+	"release": "59",
+	"id": "017",
+	"name": "",
+	"jpName": "《SHINC》 トーマ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「デグチャレフ対戦車ライフル」を1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"ＳＨＩＮＣ"
+	]
+}

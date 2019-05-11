@@ -1,0 +1,30 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアXD UNLIMITED",
+	"side": "W",
+	"release": "52",
+	"id": "075",
+	"name": "",
+	"jpName": "【STARDUST∞FOTON：知】奏",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}

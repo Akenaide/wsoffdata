@@ -1,0 +1,29 @@
+{
+	"set": "LH",
+	"setName": "ログ・ホライズン",
+	"side": "S",
+	"release": "E20",
+	"id": "15",
+	"name": "",
+	"jpName": "妖術師 ルンデルハウス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《武器》か《魔法》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】［(3) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"魔法"
+	]
+}

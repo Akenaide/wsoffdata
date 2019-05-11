@@ -1,0 +1,29 @@
+{
+	"set": "HLL",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E28",
+	"id": "P07",
+	"name": "",
+	"jpName": "二人で一緒に リオン＆ニーナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"定理者",
+		"使者"
+	]
+}

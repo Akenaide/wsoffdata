@@ -1,0 +1,30 @@
+{
+	"set": "DC3",
+	"setName": "アニメ「D.C.III～ダ・カーポIII～」",
+	"side": "W",
+	"release": "E16",
+	"id": "19",
+	"name": "",
+	"jpName": "まっすぐお誘い シャルル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"新聞",
+		"生徒会"
+	]
+}

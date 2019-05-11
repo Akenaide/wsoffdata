@@ -1,0 +1,30 @@
+{
+	"set": "SGS",
+	"setName": "スクールガールストライカーズ",
+	"side": "S",
+	"release": "37",
+	"id": "075",
+	"name": "",
+	"jpName": "お姉さん 楓",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの赤のキャラすべてに、パワーを＋1000。",
+		"【自】 経験 他のあなたのバトル中のキャラが【リバース】した時、あなたのレベル置場のカードのレベルの合計が5以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"ストライカー",
+		"癒し"
+	]
+}

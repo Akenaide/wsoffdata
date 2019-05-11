@@ -1,0 +1,29 @@
+{
+	"set": "PT",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "07",
+	"id": "113",
+	"name": "",
+	"jpName": "“最強の暗殺者ファントム”アイン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "9000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置く。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「名前」があるなら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"武器"
+	]
+}

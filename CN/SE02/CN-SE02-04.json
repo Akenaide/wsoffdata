@@ -1,0 +1,30 @@
+{
+	"set": "CN",
+	"setName": "CANAAN",
+	"side": "S",
+	"release": "E02",
+	"id": "04",
+	"name": "",
+	"jpName": "駆け出しカメラマン マリア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのクライマックス置場に「親愛なる友人」が置かれた時、このカードの正面のキャラが緑か赤なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。",
+		"【自】 あなたのクライマックス置場に「親愛なる友人」が置かれた時、このカードの正面のキャラが黄か青なら、あなたは自分の山札を見てカード名に「カナン」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"カメラ",
+		"双子"
+	]
+}

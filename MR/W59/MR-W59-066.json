@@ -1,0 +1,30 @@
+{
+	"set": "MR",
+	"setName": "マギアレコード 魔法少女まどか☆マギカ外伝",
+	"side": "W",
+	"release": "59",
+	"id": "066",
+	"name": "",
+	"jpName": "一点突破 杏子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの「緊急参戦 さやか」がいるなら、このカードのパワーを＋6000。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"アタック"
+	]
+}

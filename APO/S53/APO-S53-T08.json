@@ -1,0 +1,30 @@
+{
+	"set": "APO",
+	"setName": "[TD+]Fate/Apocrypha",
+	"side": "S",
+	"release": "53",
+	"id": "T08",
+	"name": "",
+	"jpName": "“聖杯大戦”赤のセイバー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの、《マスター》か《サーヴァント》のキャラの枚数に等しい。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《マスター》か《サーヴァント》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"王族"
+	]
+}

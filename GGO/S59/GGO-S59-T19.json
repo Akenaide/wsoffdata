@@ -1,0 +1,30 @@
+{
+	"set": "GGO",
+	"setName": "[TD+]ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+	"side": "S",
+	"release": "59",
+	"id": "T19",
+	"name": "",
+	"jpName": "趣味の話 ピトフーイ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。",
+		"【自】［(2) 手札を2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

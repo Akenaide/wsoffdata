@@ -1,0 +1,29 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアＧＸ",
+	"side": "W",
+	"release": "39",
+	"id": "062",
+	"name": "",
+	"jpName": "装者屈指の戦闘力 クリス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}

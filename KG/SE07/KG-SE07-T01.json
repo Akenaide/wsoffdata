@@ -1,0 +1,30 @@
+{
+	"set": "KG",
+	"setName": "【エクストラトライアル】刀語",
+	"side": "S",
+	"release": "E07",
+	"id": "T01",
+	"name": "",
+	"jpName": "桜吹雪の下 とがめ＆七花",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《武器》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"和服",
+		"武器"
+	]
+}

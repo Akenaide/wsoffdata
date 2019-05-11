@@ -1,0 +1,30 @@
+{
+	"set": "GF",
+	"setName": "ガールフレンド（仮） Vol.2",
+	"side": "W",
+	"release": "38",
+	"id": "085",
+	"name": "",
+	"jpName": "ゴスバンド 東雲レイ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【起】［他のあなたのキャラを1枚とこのカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"ガール",
+		"音楽"
+	]
+}

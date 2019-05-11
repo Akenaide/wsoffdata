@@ -1,0 +1,30 @@
+{
+	"set": "DC",
+	"setName": "D.C.～ダ・カーポ～ 10thアニバーサリーミックス",
+	"side": "W",
+	"release": "23",
+	"id": "076",
+	"name": "",
+	"jpName": "小さな神秘 杏",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》か《演劇》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"演劇"
+	]
+}

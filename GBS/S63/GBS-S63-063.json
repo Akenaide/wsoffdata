@@ -1,0 +1,32 @@
+{
+	"set": "GBS",
+	"setName": "ゴブリンスレイヤー",
+	"side": "S",
+	"release": "63",
+	"id": "063",
+	"name": "",
+	"jpName": "情熱的な恋慕 剣の乙女",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《秩序》のキャラすべてに、パワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"秩序",
+		"大司教",
+		"‐"
+	]
+}

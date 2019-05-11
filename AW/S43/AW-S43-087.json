@@ -1,0 +1,29 @@
+{
+	"set": "AW",
+	"setName": "アクセル・ワールド -インフィニット・バースト-",
+	"side": "S",
+	"release": "43",
+	"id": "087",
+	"name": "",
+	"jpName": "《ネガ・ネビュラス》副長 フーコ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の山札を上から1枚見て、山札の上か下に置き、1枚引く。"
+	],
+	"specialAttrib": [
+		"ネット"
+	]
+}

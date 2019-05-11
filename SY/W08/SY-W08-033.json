@@ -1,0 +1,28 @@
+{
+	"set": "SY",
+	"setName": "涼宮ハルヒの憂鬱",
+	"side": "W",
+	"release": "08",
+	"id": "033",
+	"name": "",
+	"jpName": "おめかしみくる",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの《SOS団》のキャラすべてに、レベルを＋1し、パワーを＋500。",
+		"【自】［手札を1枚控え室に置く］ 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－2000。"
+	],
+	"specialAttrib": [
+		"時間",
+		"SOS団"
+	]
+}

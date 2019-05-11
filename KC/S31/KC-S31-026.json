@@ -1,0 +1,29 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」第二艦隊",
+	"side": "S",
+	"release": "31",
+	"id": "026",
+	"name": "",
+	"jpName": "飛鷹型軽空母1番艦 飛鷹改",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "9000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《艦娘》のキャラでないなら、そのターン中、このカードは次の能力を得る。『【永】 このカードはフロントアタックできない。』（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"軽空母"
+	]
+}

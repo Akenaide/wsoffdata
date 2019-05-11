@@ -1,0 +1,31 @@
+{
+	"set": "PI",
+	"setName": "Fate/kaleid liner プリズマ☆イリヤ",
+	"side": "S",
+	"release": "E18",
+	"id": "13",
+	"name": "",
+	"jpName": "夢見がちな少女 イリヤ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
+		"【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“Kaleidoscope”イリヤ」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"魔法"
+	]
+}

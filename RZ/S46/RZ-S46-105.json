@@ -1,0 +1,30 @@
+{
+	"set": "RZ",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "46",
+	"id": "105",
+	"name": "",
+	"jpName": "ぷちレム",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードはサイドアタックできない。",
+		"【永】 他のあなたの、《魔法》か《武器》のキャラ1枚につき、このカードのパワーを＋500。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"メイド"
+	]
+}

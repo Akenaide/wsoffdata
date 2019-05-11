@@ -1,0 +1,29 @@
+{
+	"set": "GG",
+	"setName": "翠星のガルガンティア",
+	"side": "S",
+	"release": "23",
+	"id": "094",
+	"name": "",
+	"jpName": "進化の過程 ヒディアーズ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《改造》のキャラすべてに、パワーを＋1000。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《改造》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"改造"
+	]
+}

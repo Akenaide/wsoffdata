@@ -1,0 +1,30 @@
+{
+	"set": "MB",
+	"setName": "MELTY BLOOD",
+	"side": "S",
+	"release": "10",
+	"id": "007",
+	"name": "",
+	"jpName": "遠野家の養子 志貴",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列の《血》のキャラが2枚以上なら、このカードのパワーを＋1500。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのソウルを＋1。"
+	],
+	"specialAttrib": [
+		"死",
+		"武器"
+	]
+}

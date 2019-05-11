@@ -1,0 +1,29 @@
+{
+	"set": "MM",
+	"setName": "魔法少女まどか☆マギカ",
+	"side": "W",
+	"release": "17",
+	"id": "035",
+	"name": "",
+	"jpName": "時間遡行者 ほむら",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、あなたは自分の「因果の終着点 まどか」を1枚選び、自分の山札の上から2枚までを、そのキャラの下にマーカーとして置き、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"時間"
+	]
+}

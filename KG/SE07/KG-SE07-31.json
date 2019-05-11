@@ -1,0 +1,30 @@
+{
+	"set": "KG",
+	"setName": "刀語",
+	"side": "S",
+	"release": "E07",
+	"id": "31",
+	"name": "",
+	"jpName": "試練の旅 とがめ＆七花",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している《和服》のキャラを1枚選び、【レスト】する。",
+		"【自】［(2)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《武器》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"和服",
+		"武器"
+	]
+}

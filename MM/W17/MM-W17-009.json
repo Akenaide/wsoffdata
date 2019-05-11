@@ -1,0 +1,30 @@
+{
+	"set": "MM",
+	"setName": "魔法少女まどか☆マギカ",
+	"side": "W",
+	"release": "17",
+	"id": "009",
+	"name": "",
+	"jpName": "生きるための願い マミ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「宿命を背負うマミ」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"お茶"
+	]
+}

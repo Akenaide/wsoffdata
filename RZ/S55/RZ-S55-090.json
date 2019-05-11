@@ -1,0 +1,30 @@
+{
+	"set": "RZ",
+	"setName": "「Re:ゼロから始める異世界生活」Vol.2",
+	"side": "S",
+	"release": "55",
+	"id": "090",
+	"name": "",
+	"jpName": "おびえるレム",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《魔法》か《武器》のキャラが2枚以上なら、このカードはサイドアタックしてもソウルが減少しない。",
+		"【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"メイド"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "DG",
+	"setName": "魔界戦記ディスガイア4",
+	"side": "S",
+	"release": "E08",
+	"id": "03",
+	"name": "",
+	"jpName": "死神 エミーゼル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"死"
+	]
+}

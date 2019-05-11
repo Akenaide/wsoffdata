@@ -1,0 +1,30 @@
+{
+	"set": "VR",
+	"setName": "ビビッドレッド・オペレーション",
+	"side": "W",
+	"release": "22",
+	"id": "005",
+	"name": "",
+	"jpName": "工場大好き ひまわり",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。"
+	],
+	"specialAttrib": [
+		"鍵",
+		"工場"
+	]
+}

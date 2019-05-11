@@ -1,0 +1,28 @@
+{
+	"set": "P4",
+	"setName": "ペルソナ4",
+	"side": "S",
+	"release": "08",
+	"id": "084",
+	"name": "",
+	"jpName": "探偵王子 直斗",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの、《男装》か《女装》のキャラすべてに、パワーを＋500。",
+		"【自】 この能力は1ターンにつき3回まで発動する。他のあなたの、《男装》か《女装》のキャラが、手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"男装",
+		"探偵"
+	]
+}

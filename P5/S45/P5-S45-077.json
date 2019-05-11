@@ -1,0 +1,29 @@
+{
+	"set": "P5",
+	"setName": "ペルソナ５",
+	"side": "S",
+	"release": "45",
+	"id": "077",
+	"name": "",
+	"jpName": "祐介＆ゴエモン / FOX",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1) 手札の《怪盗》のキャラを1枚控え室に置く］ このカードがアタックした時、他のあなたの《怪盗》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+		"【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
+	],
+	"specialAttrib": [
+		"怪盗"
+	]
+}

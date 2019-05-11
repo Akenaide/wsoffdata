@@ -1,0 +1,30 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！",
+	"side": "W",
+	"release": "54",
+	"id": "059",
+	"name": "",
+	"jpName": "“ステージ”牛込りみ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室のイベントの枚数×1500に等しい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Poppin’Party"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」第二艦隊",
+	"side": "S",
+	"release": "31",
+	"id": "010",
+	"name": "",
+	"jpName": "雲龍型正規空母1番艦 雲龍改",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋2000。",
+		"【自】 他のあなたのバトル中のレベル2以上の「空母」を含む特徴を持つキャラが【リバース】した時、あなたはそのキャラを、このカードの下にマーカーとして裏向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"正規空母"
+	]
+}

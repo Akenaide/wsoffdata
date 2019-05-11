@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "2014年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "25",
+	"id": "T21",
+	"name": "",
+	"jpName": "赤城型正規空母 赤城",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《艦娘》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"正規空母"
+	]
+}

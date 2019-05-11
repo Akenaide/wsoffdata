@@ -1,0 +1,29 @@
+{
+	"set": "MB",
+	"setName": "MELTY BLOOD",
+	"side": "S",
+	"release": "10",
+	"id": "051",
+	"name": "",
+	"jpName": "遠野 秋葉",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《血》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「赤主・檻髪」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"血"
+	]
+}

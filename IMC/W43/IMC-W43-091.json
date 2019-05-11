@@ -1,0 +1,30 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ 2nd SEASON",
+	"side": "W",
+	"release": "43",
+	"id": "091",
+	"name": "",
+	"jpName": "Project:Krone 文香",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 あなたのクライマックス置場に「Project:Krone」が置かれた時、前列にこのカードがいるなら、あなたは相手の控え室のカードをＸ枚まで選び、山札に戻し、相手はその山札をシャッフルする。Ｘはあなたのカード名に「Krone」を含むキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"本"
+	]
+}

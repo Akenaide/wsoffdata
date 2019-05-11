@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "47",
+	"id": "P02",
+	"name": "",
+	"jpName": "再開の約束 キリト",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の控え室のクライマックスが5枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 他のあなたの、《アバター》か《ネット》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

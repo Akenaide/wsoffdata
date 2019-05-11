@@ -1,0 +1,30 @@
+{
+	"set": "GGO",
+	"setName": "[TD+]ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+	"side": "S",
+	"release": "59",
+	"id": "T08",
+	"name": "",
+	"jpName": "分隊長 レン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの「スクワッド・ジャムへの誘い ピトフーイ」がいるなら、このカードのパワーを＋4000。",
+		"【永】 他のあなたの、《アバター》か《ネット》のキャラ1枚につき、このカードのパワーを＋500。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+	"side": "S",
+	"release": "42",
+	"id": "041",
+	"name": "",
+	"jpName": "暁型駆逐艦1番艦 暁改二",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《駆逐艦》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【起】［(1)］ あなたは自分の《駆逐艦》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"駆逐艦"
+	]
+}

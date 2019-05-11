@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンラインⅡ Vol.2",
+	"side": "S",
+	"release": "E26",
+	"id": "05",
+	"name": "",
+	"jpName": "《バーサクヒーラー》アスナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《アバター》か《ネット》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードがアタックした時、クライマックス置場に「《絶剣》の最期」があるなら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

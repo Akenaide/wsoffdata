@@ -1,0 +1,31 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL",
+	"side": "S",
+	"release": "09",
+	"id": "037",
+	"name": "",
+	"jpName": "星霊魔導士 ルーシィ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【永】 記憶 あなたの思い出が4枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+		"【自】 あなたのクライマックス置場に「強制閉門」が置かれた時、前列にこのカードがいるなら、あなたのキャラすべてに、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"鍵"
+	]
+}

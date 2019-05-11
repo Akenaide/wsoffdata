@@ -1,0 +1,29 @@
+{
+	"set": "P4",
+	"setName": "ペルソナ4",
+	"side": "S",
+	"release": "08",
+	"id": "067",
+	"name": "",
+	"jpName": "署内一の頭脳派 足立",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"警察",
+		"ジュネス"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "IM",
+	"setName": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+	"side": "S",
+	"release": "30",
+	"id": "062a",
+	"name": "",
+	"jpName": "心は一つ！ 765プロ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはこのカードの下のマーカーの枚数×500に等しい。",
+		"【自】 あなたのクライマックス置場に「M@STERPIECE」が置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

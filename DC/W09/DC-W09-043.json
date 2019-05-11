@@ -1,0 +1,30 @@
+{
+	"set": "DC",
+	"setName": "D.C. D.C.II プラスコミュニケーション",
+	"side": "W",
+	"release": "09",
+	"id": "043",
+	"name": "",
+	"jpName": "高松 久美子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "2",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのコスト1以上のキャラすべてに、パワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《スポーツ》のキャラならストック置場に置く。（そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"先生",
+		"スポーツ"
+	]
+}

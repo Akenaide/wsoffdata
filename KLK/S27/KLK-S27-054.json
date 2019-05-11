@@ -1,0 +1,29 @@
+{
+	"set": "KLK",
+	"setName": "キルラキル",
+	"side": "S",
+	"release": "27",
+	"id": "054",
+	"name": "",
+	"jpName": "気持ちは一緒！ マコ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1500し、このカードは《服》を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「流子の一張羅 鮮血」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"家族"
+	]
+}

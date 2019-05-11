@@ -1,0 +1,30 @@
+{
+	"set": "MM",
+	"setName": "魔法少女まどか☆マギカ",
+	"side": "W",
+	"release": "17",
+	"id": "036",
+	"name": "",
+	"jpName": "“戦い続ける”ほむら",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場に「アルティメットまどか」があるなら、このカードのパワーを＋1500。",
+		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"時間"
+	]
+}

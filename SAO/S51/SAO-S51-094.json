@@ -1,0 +1,29 @@
+{
+	"set": "SAO",
+	"setName": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+	"side": "S",
+	"release": "51",
+	"id": "094",
+	"name": "",
+	"jpName": "どこか寂しげ 和人",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "9500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 舞台のこのカードのレベルを－2。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《アバター》か《ネット》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"ネット"
+	]
+}

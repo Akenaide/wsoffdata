@@ -1,0 +1,29 @@
+{
+	"set": "GF",
+	"setName": "ガールフレンド（仮）",
+	"side": "W",
+	"release": "33",
+	"id": "082",
+	"name": "",
+	"jpName": "林間学校 クロエ・ルメール",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(1)］ あなたは相手の山札の上から1枚を控え室に置き、相手の控え室のカードを1枚選び、山札の上に置く。"
+	],
+	"specialAttrib": [
+		"ガール"
+	]
+}

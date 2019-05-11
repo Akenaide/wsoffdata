@@ -1,0 +1,30 @@
+{
+	"set": "CHA",
+	"setName": "2015年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "40",
+	"id": "T15",
+	"name": "",
+	"jpName": "“青春の行方”乙坂 有宇",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《能力者》のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"能力者",
+		"生徒会"
+	]
+}

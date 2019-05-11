@@ -1,0 +1,31 @@
+{
+	"set": "KLK",
+	"setName": "キルラキル",
+	"side": "S",
+	"release": "27",
+	"id": "078",
+	"name": "",
+	"jpName": "皐月の幼なじみ 蛇崩",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
+		"【永】 他のあなたの《服》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードが控え室から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。"
+	],
+	"specialAttrib": [
+		"服",
+		"音楽"
+	]
+}

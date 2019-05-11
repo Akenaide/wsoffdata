@@ -1,0 +1,30 @@
+{
+	"set": "ZM",
+	"setName": "ゼロの使い魔Ｆ",
+	"side": "W",
+	"release": "E13",
+	"id": "16",
+	"name": "",
+	"jpName": "もう一人の担い手 ティファニア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場の『集中』を持つカード1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"虚無"
+	]
+}

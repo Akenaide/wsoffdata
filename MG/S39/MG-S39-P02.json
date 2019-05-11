@@ -1,0 +1,30 @@
+{
+	"set": "MG",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "39",
+	"id": "P02",
+	"name": "",
+	"jpName": "おやつのゆくえ 忍野忍",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"怪異",
+		"血"
+	]
+}

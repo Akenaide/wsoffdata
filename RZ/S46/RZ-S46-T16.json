@@ -1,0 +1,30 @@
+{
+	"set": "RZ",
+	"setName": "2016年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "46",
+	"id": "T16",
+	"name": "",
+	"jpName": "異世界へようこそ！ エミリア\u0026レム",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"精霊"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "NK",
+	"setName": "ニセコイ:",
+	"side": "W",
+	"release": "E22",
+	"id": "23",
+	"name": "",
+	"jpName": "新生活！ 万里花",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。",
+		"【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
+	],
+	"specialAttrib": [
+		"警察",
+		"鍵"
+	]
+}

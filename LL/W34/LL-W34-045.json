@@ -1,0 +1,30 @@
+{
+	"set": "LL",
+	"setName": "ラブライブ！Vol.2",
+	"side": "W",
+	"release": "34",
+	"id": "045",
+	"name": "",
+	"jpName": "イメージチェンジ 穂乃果",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「穂乃果」を含むキャラすべてに、パワーを＋1000。",
+		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"スポーツ"
+	]
+}

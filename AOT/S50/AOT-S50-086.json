@@ -1,0 +1,29 @@
+{
+	"set": "AOT",
+	"setName": "ブースターパック 「進撃の巨人」Vol.2",
+	"side": "S",
+	"release": "50",
+	"id": "086",
+	"name": "",
+	"jpName": "獣の巨人",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1) 手札の「“捕食”巨人」を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「叡智」があり、他のあなたの《巨人》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"巨人"
+	]
+}

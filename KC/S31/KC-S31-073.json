@@ -1,0 +1,29 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」第二艦隊",
+	"side": "S",
+	"release": "31",
+	"id": "073",
+	"name": "",
+	"jpName": "長良型軽巡2番艦 五十鈴改二",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、相手は自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのターン中、このカードのパワーを＋2000。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"軽巡洋艦"
+	]
+}

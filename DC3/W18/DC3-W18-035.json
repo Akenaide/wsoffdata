@@ -1,0 +1,30 @@
+{
+	"set": "DC3",
+	"setName": "D.C.III～ダ・カーポIII～",
+	"side": "W",
+	"release": "18",
+	"id": "035",
+	"name": "",
+	"jpName": "通じあった心 清隆＆姫乃",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】 あなたのアタックフェイズの始めに、あなたは自分の【レスト】しているカード名に「姫乃」を含むキャラを1枚選び、【スタンド】してよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"生徒会"
+	]
+}

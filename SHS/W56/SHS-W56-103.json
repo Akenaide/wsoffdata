@@ -1,0 +1,29 @@
+{
+	"set": "SHS",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "56",
+	"id": "103",
+	"name": "",
+	"jpName": "ねんどろいどぷらす 恵",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】[(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"ゲーム"
+	]
+}

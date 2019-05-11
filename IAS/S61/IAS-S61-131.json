@@ -1,0 +1,27 @@
+{
+	"set": "IAS",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "61",
+	"id": "131",
+	"name": "",
+	"jpName": "四条貴音\u0026大神 環\u0026福田のり子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

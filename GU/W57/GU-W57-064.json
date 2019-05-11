@@ -1,0 +1,30 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？？ ～Dear My Sister～",
+	"side": "W",
+	"release": "57",
+	"id": "064",
+	"name": "",
+	"jpName": "“パン作り”ココア母",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《ラビットハウス》か《パン》のキャラの枚数×1000に等しい。",
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"パン",
+		"Dear My Sister"
+	]
+}

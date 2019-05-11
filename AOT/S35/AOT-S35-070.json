@@ -1,0 +1,30 @@
+{
+	"set": "AOT",
+	"setName": "進撃の巨人",
+	"side": "S",
+	"release": "35",
+	"id": "070",
+	"name": "",
+	"jpName": "“第104期訓練兵団”ライナー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《兵団》のキャラが2枚以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+		"【起】［あなたの《兵団》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"兵団",
+		"武器"
+	]
+}

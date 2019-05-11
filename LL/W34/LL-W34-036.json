@@ -1,0 +1,30 @@
+{
+	"set": "LL",
+	"setName": "ラブライブ！Vol.2",
+	"side": "W",
+	"release": "34",
+	"id": "036",
+	"name": "",
+	"jpName": "“Happy maker!”園田 海未",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのカード名に「海未」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

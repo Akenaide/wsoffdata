@@ -1,0 +1,30 @@
+{
+	"set": "ID",
+	"setName": "禁書目録＆超電磁砲",
+	"side": "W",
+	"release": "10",
+	"id": "017",
+	"name": "",
+	"jpName": "検体番号二〇〇〇一号 打ち止め",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"クローン",
+		"超能力"
+	]
+}

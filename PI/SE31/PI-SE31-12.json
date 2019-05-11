@@ -1,0 +1,31 @@
+{
+	"set": "PI",
+	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"side": "S",
+	"release": "E31",
+	"id": "12",
+	"name": "",
+	"jpName": "“遊び半分”ベアトリス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、緑か《人形》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋4000。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「超絶美少女ドールズ」があるなら、あなたは自分の控え室の《人形》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"武器",
+		"人形"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"set": "KC",
+	"setName": "艦隊これくしょん -艦これ-",
+	"side": "S",
+	"release": "25",
+	"id": "039",
+	"name": "",
+	"jpName": "青葉型重巡2番艦 衣笠改二",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《艦娘》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"重巡洋艦"
+	]
+}

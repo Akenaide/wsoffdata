@@ -1,0 +1,30 @@
+{
+	"set": "N1",
+	"setName": "魔法少女リリカルなのは The MOVIE 1st",
+	"side": "W",
+	"release": "E06",
+	"id": "09",
+	"name": "",
+	"jpName": "母を想うフェイト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《使い魔》のキャラがいるなら、このカードのパワーを＋2000。",
+		"【自】［(6)］ このカードがアタックした時、クライマックス置場に「ファランクスシフト」があるなら、あなたはコストを払ってよい。そうしたら、あなたの「母を想うフェイト」1枚につき、次の行動を行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クローン"
+	]
+}

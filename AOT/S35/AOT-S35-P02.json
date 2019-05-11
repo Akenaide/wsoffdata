@@ -1,0 +1,28 @@
+{
+	"set": "AOT",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "35",
+	"id": "P02",
+	"name": "",
+	"jpName": "撒き散らす戦火 超大型巨人",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［あなたの舞台のレベル0以下のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"巨人"
+	]
+}

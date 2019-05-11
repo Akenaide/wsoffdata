@@ -1,0 +1,30 @@
+{
+	"set": "STG",
+	"setName": "STEINS;GATE",
+	"side": "S",
+	"release": "60",
+	"id": "062",
+	"name": "",
+	"jpName": "“オペレーション・ヴァルキュリア”牧瀬 紅莉栖",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《ラボメン》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"ラボメン",
+		"科学"
+	]
+}

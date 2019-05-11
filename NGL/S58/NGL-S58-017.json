@@ -1,0 +1,25 @@
+{
+	"set": "NGL",
+	"setName": "ノーゲーム・ノーライフ",
+	"side": "S",
+	"release": "58",
+	"id": "017",
+	"name": "",
+	"jpName": "ジャンケン",
+	"cardType": "EV",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"あなたと相手はゲームをする。",
+		"【リプレイ】 ゲームをする あなたはパーを出すと宣言し、相手と1回ジャンケンする。あなたがパーで勝ったなら、あなたは4枚まで引く。あなたがパーであいこか、グーかチョキで勝ったなら、あなたは2枚まで引く。あなたが負けたか、グーかチョキであいこなら、このカードをクロック置場に置く。 （あなたはパー以外を出してもよい）"
+	],
+	"specialAttrib": []
+}

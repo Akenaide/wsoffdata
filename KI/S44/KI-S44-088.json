@@ -1,0 +1,30 @@
+{
+	"set": "KI",
+	"setName": "キズナイーバー",
+	"side": "S",
+	"release": "44",
+	"id": "088",
+	"name": "",
+	"jpName": "“それ系のアレ”日染",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「“インモラル”日染」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"キズナ",
+		"インモラル"
+	]
+}

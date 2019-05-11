@@ -1,0 +1,28 @@
+{
+	"set": "CGS",
+	"setName": "カードゲームしよ子",
+	"side": "W",
+	"release": "S01",
+	"id": "T13",
+	"name": "",
+	"jpName": "ボーカル しよ子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの《カードゲーム》のキャラすべてに、パワーを＋500。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《カードゲーム》のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"カードゲーム",
+		"音楽"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"set": "LSS",
+	"setName": "「ラブライブ！サンシャイン!!」Vol.2",
+	"side": "W",
+	"release": "53",
+	"id": "P04",
+	"name": "",
+	"jpName": "私服でおでかけ ルビィ＆善子＆花丸",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

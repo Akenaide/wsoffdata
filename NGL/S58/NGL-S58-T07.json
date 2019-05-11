@@ -1,0 +1,30 @@
+{
+	"set": "NGL",
+	"setName": "[TD+]ノーゲーム・ノーライフ",
+	"side": "S",
+	"release": "58",
+	"id": "T07",
+	"name": "",
+	"jpName": "スパイ一掃 空",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】他のあなたの《ゲーム》のキャラすべてに、パワーを＋1000。",
+		"【起】[(2) このカードを【レスト】する］ あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"人類種"
+	]
+}

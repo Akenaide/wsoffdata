@@ -1,0 +1,30 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL",
+	"side": "S",
+	"release": "E10",
+	"id": "38",
+	"name": "",
+	"jpName": "天空の滅竜魔導士 ウェンディ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【起】［(1) 手札を1枚控え室に置く］ あなたは自分の《竜》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"竜"
+	]
+}

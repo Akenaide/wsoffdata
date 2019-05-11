@@ -1,0 +1,31 @@
+{
+	"set": "DD",
+	"setName": "DOG DAYS'",
+	"side": "W",
+	"release": "E17",
+	"id": "21",
+	"name": "",
+	"jpName": "ミルヒの幼馴染み レオ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《動物》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、クライマックス置場に「ナナミの毛づくろい」があるなら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。"
+	],
+	"specialAttrib": [
+		"動物",
+		"王族"
+	]
+}

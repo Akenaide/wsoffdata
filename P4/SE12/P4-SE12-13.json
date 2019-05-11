@@ -1,0 +1,30 @@
+{
+	"set": "P4",
+	"setName": "TVアニメ「ペルソナ４」",
+	"side": "S",
+	"release": "E12",
+	"id": "13",
+	"name": "",
+	"jpName": "自称特別捜査隊 千枝",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。",
+		"【自】［(1)］ あなたのクライマックス置場に「千枝の覚醒」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「自称特別捜査隊 千枝」を1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"スポーツ",
+		"魔法"
+	]
+}

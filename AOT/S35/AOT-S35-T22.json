@@ -1,0 +1,29 @@
+{
+	"set": "AOT",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "35",
+	"id": "T22",
+	"name": "",
+	"jpName": "超大型巨人",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、このカードのパワーを＋5000。",
+		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"巨人"
+	]
+}

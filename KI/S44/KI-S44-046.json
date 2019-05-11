@@ -1,0 +1,26 @@
+{
+	"set": "KI",
+	"setName": "キズナイーバー",
+	"side": "S",
+	"release": "44",
+	"id": "046",
+	"name": "",
+	"jpName": "防虫クレープ",
+	"cardType": "EV",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"このカードは、あなたの《キズナ》のキャラが2枚以下なら、手札からプレイできない。",
+		"あなたは自分の山札の上から1枚を公開する。そのカードが《キズナ》のキャラならストック置場に置く。（そうでないなら元に戻す）",
+		"あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－3000。"
+	],
+	"specialAttrib": []
+}

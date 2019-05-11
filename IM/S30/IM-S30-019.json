@@ -1,0 +1,30 @@
+{
+	"set": "IM",
+	"setName": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+	"side": "S",
+	"release": "30",
+	"id": "019",
+	"name": "",
+	"jpName": "成長を見守るプロデューサー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードは『【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋2000。』を得る。",
+		"【起】［このカードを思い出にする］ 次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「成長を見守るプロデューサー」を1枚選び、舞台の好きな枠に置き、自分の山札の上から1枚を、そのキャラの下にマーカーとして置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"メガネ"
+	]
+}

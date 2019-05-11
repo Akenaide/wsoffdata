@@ -1,0 +1,29 @@
+{
+	"set": "AB",
+	"setName": "Angel Beats!",
+	"side": "W",
+	"release": "E10",
+	"id": "19",
+	"name": "",
+	"jpName": "二つの顔 直井",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《死》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"死",
+		"生徒会"
+	]
+}

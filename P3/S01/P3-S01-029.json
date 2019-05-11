@@ -1,0 +1,30 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ3",
+	"side": "S",
+	"release": "01",
+	"id": "029",
+	"name": "",
+	"jpName": "アイギス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのレベル置場のカード1枚につき、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"メカ",
+		"武器"
+	]
+}

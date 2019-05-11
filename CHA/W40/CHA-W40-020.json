@@ -1,0 +1,30 @@
+{
+	"set": "CHA",
+	"setName": "Charlotte",
+	"side": "W",
+	"release": "40",
+	"id": "020",
+	"name": "",
+	"jpName": "“生徒会長”友利 奈緒",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《能力者》のキャラの枚数×1000に等しい。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"能力者",
+		"生徒会"
+	]
+}

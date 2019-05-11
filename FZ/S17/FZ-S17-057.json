@@ -1,0 +1,30 @@
+{
+	"set": "FZ",
+	"setName": "Fate/Zero",
+	"side": "S",
+	"release": "17",
+	"id": "057",
+	"name": "",
+	"jpName": "万象の王 アーチャー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(1) 手札の「乖離剣エア」を1枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のクライマックス置場のクライマックスを1枚選び、控え室に置き、そのターン中、このカードのパワーを＋5500。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"王族"
+	]
+}

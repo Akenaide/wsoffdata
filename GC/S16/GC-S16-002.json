@@ -1,0 +1,29 @@
+{
+	"set": "GC",
+	"setName": "ギルティクラウン",
+	"side": "S",
+	"release": "16",
+	"id": "002",
+	"name": "",
+	"jpName": "重要な選択 涯",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】［(1) あなたのキャラを1枚【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"葬儀社",
+		"武器"
+	]
+}

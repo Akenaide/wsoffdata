@@ -1,0 +1,30 @@
+{
+	"set": "MF",
+	"setName": "劇場版マクロスＦ",
+	"side": "S",
+	"release": "13",
+	"id": "031",
+	"name": "",
+	"jpName": "アルトの背中を押すランカ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［(1)］ あなたのクライマックス置場に「放課後オーバーフロウ」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"愛"
+	]
+}

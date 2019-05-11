@@ -1,0 +1,31 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ3",
+	"side": "S",
+	"release": "01",
+	"id": "061",
+	"name": "",
+	"jpName": "タカヤ＆ヒュプノス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 大活躍",
+		"【自】 このカードがプレイされて舞台に置かれた時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。",
+		"【自】 このカードがアタックした時、クライマックス置場に「ニュクス・アバター」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"神"
+	]
+}

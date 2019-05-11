@@ -1,0 +1,30 @@
+{
+	"set": "GC",
+	"setName": "ギルティクラウン",
+	"side": "S",
+	"release": "16",
+	"id": "012",
+	"name": "",
+	"jpName": "新たなる決意 集",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、クライマックス置場に｢覚醒する“王の能力”｣があるなら、あなたは他の自分のキャラを1枚選び、自分の山札の上からＸ枚を、このカードの下にマーカーとして置く。Ｘはそのキャラのレベルに等しい。"
+	],
+	"specialAttrib": [
+		"葬儀社",
+		"武器"
+	]
+}

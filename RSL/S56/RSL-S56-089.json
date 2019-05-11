@@ -1,0 +1,30 @@
+{
+	"set": "RSL",
+	"setName": "少女☆歌劇 レヴュースタァライト",
+	"side": "S",
+	"release": "56",
+	"id": "089",
+	"name": "",
+	"jpName": "寝坊の西條 クロディーヌ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《レヴュー》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《レヴュー》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"レヴュー",
+		"子役"
+	]
+}

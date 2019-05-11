@@ -1,0 +1,31 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night",
+	"side": "S",
+	"release": "03",
+	"id": "006",
+	"name": "",
+	"jpName": "士郎＆セイバー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「黄金の別離」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"サーヴァント"
+	]
+}

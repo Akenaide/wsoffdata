@@ -1,0 +1,30 @@
+{
+	"set": "PD",
+	"setName": "初音ミク -Project DIVA- f",
+	"side": "S",
+	"release": "22",
+	"id": "082",
+	"name": "",
+	"jpName": "初音ミク“SW みずたまビキニ”",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"水着"
+	]
+}

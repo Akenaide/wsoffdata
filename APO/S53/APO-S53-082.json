@@ -1,0 +1,30 @@
+{
+	"set": "APO",
+	"setName": "Fate/Apocrypha",
+	"side": "S",
+	"release": "53",
+	"id": "082",
+	"name": "",
+	"jpName": "カウレス・フォルヴェッジ・ユグドミレニア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 あなたがレベルアップした時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"メガネ"
+	]
+}

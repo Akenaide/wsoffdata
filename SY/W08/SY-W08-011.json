@@ -1,0 +1,30 @@
+{
+	"set": "SY",
+	"setName": "涼宮ハルヒの憂鬱",
+	"side": "W",
+	"release": "08",
+	"id": "011",
+	"name": "",
+	"jpName": "古泉 一樹",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《SOS団》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードがアタックした時、クライマックス置場に「閉鎖空間」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"超能力",
+		"SOS団"
+	]
+}

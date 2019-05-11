@@ -1,0 +1,30 @@
+{
+	"set": "MK",
+	"setName": "探偵オペラ　ミルキィホームズ",
+	"side": "S",
+	"release": "11",
+	"id": "042",
+	"name": "",
+	"jpName": "制服のエリー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+		"【起】［(1)］ そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"探偵",
+		"本"
+	]
+}

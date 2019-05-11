@@ -1,0 +1,29 @@
+{
+	"set": "DG",
+	"setName": "ディスガイア D2",
+	"side": "S",
+	"release": "E17",
+	"id": "24",
+	"name": "",
+	"jpName": "魔界を牛耳る存在 ラハール",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《悪魔》か《天使》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"武器"
+	]
+}

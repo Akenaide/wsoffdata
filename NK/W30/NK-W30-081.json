@@ -1,0 +1,30 @@
+{
+	"set": "NK",
+	"setName": "ニセコイ",
+	"side": "W",
+	"release": "30",
+	"id": "081",
+	"name": "",
+	"jpName": "白衣の天使 小咲",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、あなたは1枚まで引く。",
+		"【起】［あなたの《鍵》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"お菓子",
+		"鍵"
+	]
+}

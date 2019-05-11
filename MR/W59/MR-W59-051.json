@@ -1,0 +1,30 @@
+{
+	"set": "MR",
+	"setName": "マギアレコード 魔法少女まどか☆マギカ外伝",
+	"side": "W",
+	"release": "59",
+	"id": "051",
+	"name": "",
+	"jpName": "都 ひなの",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "9000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《魔法》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを?1。",
+		"【永】 舞台のこのカードのレベルを?2。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"サポート"
+	]
+}

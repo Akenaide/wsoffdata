@@ -1,0 +1,29 @@
+{
+	"set": "NK",
+	"setName": "ニセコイ",
+	"side": "W",
+	"release": "30",
+	"id": "010",
+	"name": "",
+	"jpName": "胸の高まり 誠士郎",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の、《武器》か《令嬢》か《動物》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"武器"
+	]
+}

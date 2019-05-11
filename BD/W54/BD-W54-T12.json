@@ -1,0 +1,30 @@
+{
+	"set": "BD",
+	"setName": "[TD+]バンドリ！ ガールズバンドパーティ！ ［Roselia］",
+	"side": "W",
+	"release": "54",
+	"id": "T12",
+	"name": "",
+	"jpName": "“この音しか聞こえない”白金燐子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Roselia"
+	]
+}

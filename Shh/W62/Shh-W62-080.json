@@ -1,0 +1,33 @@
+{
+	"set": "Shh",
+	"setName": "角川スニーカー文庫",
+	"side": "W",
+	"release": "62",
+	"id": "080",
+	"name": "",
+	"jpName": "ハユルと接続改装",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを-1000。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"ハート",
+		"ハイブリッド",
+		"ギア",
+		"天地穹女神"
+	]
+}

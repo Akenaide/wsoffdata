@@ -1,0 +1,29 @@
+{
+	"set": "LL",
+	"setName": "ラブライブ！The School Idol Movie",
+	"side": "W",
+	"release": "E24",
+	"id": "17",
+	"name": "",
+	"jpName": "“SUNNY DAY SONG”高坂 穂乃果",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+		"【自】 あなたのクライマックス置場に「SUNNY DAY SONG」が置かれた時、前列にこのカードがいるなら、あなたのキャラすべてに、そのターン中、パワーを＋500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "NR",
+	"setName": "魔法少女リリカルなのは Reflection",
+	"side": "W",
+	"release": "58",
+	"id": "041",
+	"name": "",
+	"jpName": "真夏のレジャー ヴィータ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがないなら、このカードのパワーを?7500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「真夏のレジャー ヴィータ」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"人形"
+	]
+}

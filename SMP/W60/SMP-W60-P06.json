@@ -1,0 +1,29 @@
+{
+	"set": "SMP",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "60",
+	"id": "P06",
+	"name": "",
+	"jpName": "“休日の制服”しろは",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《サマポケ》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"時間"
+	]
+}

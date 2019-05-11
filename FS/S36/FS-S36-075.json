@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+	"side": "S",
+	"release": "36",
+	"id": "075",
+	"name": "",
+	"jpName": "“悲劇の魔術師”キャスター",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたの、《マスター》か《サーヴァント》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+		"【自】［(3) 手札の「叶っていた望み」を1枚控え室に置く］ 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の【スタンド】しているレベル3以下のキャラを1枚選び、【レスト】し、相手にＸダメージを与える。Ｘはそのキャラのソウルに等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"マスター"
+	]
+}

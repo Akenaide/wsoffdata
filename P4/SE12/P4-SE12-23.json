@@ -1,0 +1,30 @@
+{
+	"set": "P4",
+	"setName": "TVアニメ「ペルソナ４」",
+	"side": "S",
+	"release": "E12",
+	"id": "23",
+	"name": "",
+	"jpName": "自称特別捜査隊 完二",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 手札のこのカードをプレイするにあたり、あなたは自分の「大ショック！ 完二」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。",
+		"【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"不良",
+		"魔法"
+	]
+}

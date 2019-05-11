@@ -1,0 +1,30 @@
+{
+	"set": "SB",
+	"setName": "戦国BASARA",
+	"side": "S",
+	"release": "06",
+	"id": "029",
+	"name": "",
+	"jpName": "“詭計智将”毛利 元就",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのコスト0以下のキャラすべてに、パワーを＋1000。",
+		"【永】 アラーム このカードがクロックの1番上にあるなら、あなたのコスト0以下のキャラすべてに、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"武器",
+		"日輪"
+	]
+}

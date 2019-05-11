@@ -1,0 +1,30 @@
+{
+	"set": "NS",
+	"setName": "なのはStrikerS",
+	"side": "W",
+	"release": "04",
+	"id": "030",
+	"name": "",
+	"jpName": "スカリエッティの秘書ウーノ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラすべてに、パワーを＋1000。",
+		"【永】 他のあなたの、「次元犯罪者スカリエッティ」と「幻惑の使い手クアットロ」がいるなら、他のあなたの《メカ》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』という能力を与える。"
+	],
+	"specialAttrib": [
+		"メカ",
+		"秘書"
+	]
+}

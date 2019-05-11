@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」深海棲艦見ゆ",
+	"side": "S",
+	"release": "E28",
+	"id": "33",
+	"name": "",
+	"jpName": "離島棲鬼",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《深海棲艦》のキャラすべてに、パワーを＋1000。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《深海棲艦》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"深海棲艦",
+		"鬼"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"set": "LL",
+	"setName": "ラブライブ！The School Idol Movie",
+	"side": "W",
+	"release": "E24",
+	"id": "02",
+	"name": "",
+	"jpName": "“Angelic Angel”絢瀬 絵里",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードがアタックした時、クライマックス置場に「Angelic Angel」があるなら、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の山札の上から1枚を、クロック置場に置く。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "DG",
+	"setName": "ディスガイア D2",
+	"side": "S",
+	"release": "E17",
+	"id": "25",
+	"name": "",
+	"jpName": "特撮好き フロン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたはすべてのプレイヤーの山札の上から3枚を、控え室に置く。",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"天使",
+		"悪魔"
+	]
+}

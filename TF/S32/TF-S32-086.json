@@ -1,0 +1,30 @@
+{
+	"set": "TF",
+	"setName": "テラフォーマーズ",
+	"side": "S",
+	"release": "32",
+	"id": "086",
+	"name": "",
+	"jpName": "“託された希望”小町 小吉",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《改造》のキャラが2枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+		"【自】 他のあなたの《改造》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"改造",
+		"虫"
+	]
+}

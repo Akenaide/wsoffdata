@@ -1,0 +1,29 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "41",
+	"id": "093",
+	"name": "",
+	"jpName": "北条 加蓮",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
+		"【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

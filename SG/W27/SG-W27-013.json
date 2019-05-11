@@ -1,0 +1,29 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアG",
+	"side": "W",
+	"release": "27",
+	"id": "013",
+	"name": "",
+	"jpName": "心配する未来",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「未来の願い」があるなら、あなたは他の自分のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋3000。",
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

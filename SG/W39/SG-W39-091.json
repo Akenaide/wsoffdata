@@ -1,0 +1,30 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアＧＸ",
+	"side": "W",
+	"release": "39",
+	"id": "091",
+	"name": "",
+	"jpName": "形式番号XMH_020 ガリィ・トゥーマーン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"錬金術",
+		"人形"
+	]
+}

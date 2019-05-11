@@ -1,0 +1,29 @@
+{
+	"set": "P5",
+	"setName": "ペルソナ５",
+	"side": "S",
+	"release": "45",
+	"id": "057",
+	"name": "",
+	"jpName": "高巻 杏",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《怪盗》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"怪盗"
+	]
+}

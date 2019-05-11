@@ -1,0 +1,29 @@
+{
+	"set": "GG",
+	"setName": "翠星のガルガンティア",
+	"side": "S",
+	"release": "23",
+	"id": "095",
+	"name": "",
+	"jpName": "ヒディアーズ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《改造》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"改造"
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"set": "GBS",
+	"setName": "ゴブリンスレイヤー",
+	"side": "S",
+	"release": "63",
+	"id": "033",
+	"name": "",
+	"jpName": "魅惑の美貌 魔女",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "4500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
+		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"秩序",
+		"冒険者",
+		"‐"
+	]
+}

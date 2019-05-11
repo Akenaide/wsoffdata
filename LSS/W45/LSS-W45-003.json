@@ -1,0 +1,30 @@
+{
+	"set": "LSS",
+	"setName": "ラブライブ！サンシャイン!!",
+	"side": "W",
+	"release": "45",
+	"id": "003",
+	"name": "",
+	"jpName": "“青空Jumping Heart”国木田 花丸",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 あなたのクライマックス置場に「“青空Jumping Heart”花丸」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "LB",
+	"setName": "リトルバスターズ！カードミッション",
+	"side": "W",
+	"release": "E21",
+	"id": "23",
+	"name": "",
+	"jpName": "敏腕プロデューサー 美魚",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［手札のクライマックスを1枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の控え室の、《本》か《影》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"本",
+		"日傘"
+	]
+}

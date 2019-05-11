@@ -1,0 +1,29 @@
+{
+	"set": "LSS",
+	"setName": "ラブライブ！サンシャイン!!",
+	"side": "W",
+	"release": "45",
+	"id": "036",
+	"name": "",
+	"jpName": "“青空Jumping Heart”渡辺 曜",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。",
+		"【自】［(1) 手札の《音楽》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「“青空Jumping Heart”曜」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

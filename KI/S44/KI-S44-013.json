@@ -1,0 +1,30 @@
+{
+	"set": "KI",
+	"setName": "キズナイーバー",
+	"side": "S",
+	"release": "44",
+	"id": "013",
+	"name": "",
+	"jpName": "当惑する天河",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以上のキャラを1枚選び、そのターン中、ソウルを－1。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"キズナ",
+		"メガネ"
+	]
+}

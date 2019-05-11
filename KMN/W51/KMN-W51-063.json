@@ -1,0 +1,30 @@
+{
+	"set": "KMN",
+	"setName": "けものフレンズ",
+	"side": "W",
+	"release": "51",
+	"id": "063",
+	"name": "",
+	"jpName": "カフェの店員 アルパカ・スリ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたの《フレンズ》のキャラが手札から舞台に置かれた時、そのターン中、そのキャラのパワーを＋1000し、《お茶》を与える。",
+		"【起】［このカードを【レスト】する］ あなたは自分の控え室の《フレンズ》のキャラを1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"フレンズ",
+		"お茶"
+	]
+}

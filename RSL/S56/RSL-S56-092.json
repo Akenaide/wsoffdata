@@ -1,0 +1,30 @@
+{
+	"set": "RSL",
+	"setName": "少女☆歌劇 レヴュースタァライト",
+	"side": "S",
+	"release": "56",
+	"id": "092",
+	"name": "",
+	"jpName": "持病のあがり症？ 西條 クロディーヌ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "10000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、このカードを【レスト】する。",
+		"【自】 あなたの青のクライマックスがクライマックス置場に置かれた時、このカードを【スタンド】する。"
+	],
+	"specialAttrib": [
+		"レヴュー",
+		"子役"
+	]
+}

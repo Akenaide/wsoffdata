@@ -1,0 +1,30 @@
+{
+	"set": "IM",
+	"setName": "アイドルマスター２",
+	"side": "S",
+	"release": "14",
+	"id": "019",
+	"name": "",
+	"jpName": "べろちょろ やよい",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは相手の効果に選ばれない。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"カエル"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "AB",
+	"setName": "Angel Beats! Re: Edit",
+	"side": "W",
+	"release": "31",
+	"id": "013",
+	"name": "",
+	"jpName": "別れの言葉 かなで",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(1)］ あなたのクライマックス置場に「いつかどこかで」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"死",
+		"生徒会"
+	]
+}

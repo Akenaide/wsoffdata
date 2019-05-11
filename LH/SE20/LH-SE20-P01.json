@@ -1,0 +1,30 @@
+{
+	"set": "LH",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "E20",
+	"id": "P01",
+	"name": "",
+	"jpName": "手をとりあって アカツキ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「シロエ」を含むキャラがいるなら、このカードのパワーを＋1500。",
+		"【自】 他のあなたの、《武器》か《魔法》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"武器",
+		"忍"
+	]
+}

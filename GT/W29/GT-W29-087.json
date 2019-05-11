@@ -1,0 +1,29 @@
+{
+	"set": "GT",
+	"setName": "幻影ヲ駆ケル太陽",
+	"side": "W",
+	"release": "29",
+	"id": "087",
+	"name": "",
+	"jpName": "新人隊員 せいら",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「星とともの果てに」があるなら、そのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
+	],
+	"specialAttrib": [
+		"タロット",
+		"武器"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "NM",
+	"setName": "偽物語",
+	"side": "S",
+	"release": "24",
+	"id": "040",
+	"name": "",
+	"jpName": "身の潔白 神原駿河",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【起】［(1) あなたのキャラを1枚【レスト】する］ あなたは相手のキャラを1枚選び、そのターン中、パワーを－1000。"
+	],
+	"specialAttrib": [
+		"怪異",
+		"スポーツ"
+	]
+}

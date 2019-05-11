@@ -1,0 +1,30 @@
+{
+	"set": "P4",
+	"setName": "ペルソナ4",
+	"side": "S",
+	"release": "08",
+	"id": "062",
+	"name": "",
+	"jpName": "雪子＆アマテラス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の【スタンド】しているキャラがいないなら、このカードのパワーを＋2000。",
+		"【自】 このカードがアタックした時、クライマックス置場に「メシアライザー」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"扇子",
+		"メガネ"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "RG",
+	"setName": "とある科学の超電磁砲S",
+	"side": "W",
+	"release": "26",
+	"id": "008",
+	"name": "",
+	"jpName": "量産能力者計画 御坂妹",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【永】 記憶 あなたの思い出置場の《超能力》のキャラが2枚以上なら、他のあなたの《超能力》のキャラすべてに、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"クローン",
+		"超能力"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "PD",
+	"setName": "初音ミク -Project DIVA- X HD",
+	"side": "S",
+	"release": "E32",
+	"id": "05",
+	"name": "",
+	"jpName": "鏡音リン“卑怯オレンジ”",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分のカード名に「卑怯」を含むキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ヒーロー"
+	]
+}

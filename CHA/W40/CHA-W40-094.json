@@ -1,0 +1,30 @@
+{
+	"set": "CHA",
+	"setName": "Charlotte",
+	"side": "W",
+	"release": "40",
+	"id": "094",
+	"name": "",
+	"jpName": "“荒んだ心”乙坂 有宇",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、他のあなたの《能力者》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 あなたのクライマックス置場に「筋書き」が置かれた時、前列にこのカードがいるなら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かしてよい。"
+	],
+	"specialAttrib": [
+		"能力者",
+		"生徒会"
+	]
+}

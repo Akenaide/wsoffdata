@@ -1,0 +1,30 @@
+{
+	"set": "RW",
+	"setName": "Rewrite Harvest festa!",
+	"side": "W",
+	"release": "20",
+	"id": "043",
+	"name": "",
+	"jpName": "“せいいっぱいの力”朱音",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「竜神の祭壇」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+		"【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"オカルト"
+	]
+}

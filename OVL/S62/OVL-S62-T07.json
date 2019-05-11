@@ -1,0 +1,30 @@
+{
+	"set": "OVL",
+	"setName": "[TD+]オーバーロード",
+	"side": "S",
+	"release": "62",
+	"id": "T07",
+	"name": "",
+	"jpName": "第7階層の守護者 デミウルゴス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【永】あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「死の支配者 アインズ」を1枚選び、このカードがいた枠に置く。』"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	]
+}

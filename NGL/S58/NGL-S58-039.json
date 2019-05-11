@@ -1,0 +1,30 @@
+{
+	"set": "NGL",
+	"setName": "ノーゲーム・ノーライフ",
+	"side": "S",
+	"release": "58",
+	"id": "039",
+	"name": "",
+	"jpName": "怒涛の猛攻 いづな",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたの《ゲーム》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+		"【自】[(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"獣人種"
+	]
+}

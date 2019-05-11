@@ -1,0 +1,30 @@
+{
+	"set": "RZ",
+	"setName": "[TD+]Re:ゼロから始める異世界生活",
+	"side": "S",
+	"release": "46",
+	"id": "T36",
+	"name": "",
+	"jpName": "殺意の瞳 レム",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードはサイドアタックできない。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《魔法》か《武器》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"メイド"
+	]
+}

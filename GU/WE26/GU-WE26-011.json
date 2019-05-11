@@ -1,0 +1,30 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？？",
+	"side": "W",
+	"release": "E26",
+	"id": "011",
+	"name": "",
+	"jpName": "ハプニング 千夜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「ハプニング 千夜」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"甘兎庵",
+		"和菓子"
+	]
+}

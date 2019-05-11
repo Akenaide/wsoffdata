@@ -1,0 +1,30 @@
+{
+	"set": "P4",
+	"setName": "Ｐ４Ｕ",
+	"side": "S",
+	"release": "E15",
+	"id": "35",
+	"name": "",
+	"jpName": "潜入捜査 直斗",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《男装》か《女装》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】［(1) ］ このカードがアタックした時、クライマックス置場に「放送室突入！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"男装",
+		"探偵"
+	]
+}

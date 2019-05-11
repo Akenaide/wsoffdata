@@ -1,0 +1,30 @@
+{
+	"set": "NGL",
+	"setName": "ノーゲーム・ノーライフ",
+	"side": "S",
+	"release": "58",
+	"id": "102",
+	"name": "",
+	"jpName": "人類種のために クラミー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "9000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 舞台のこのカードのレベルを-2。",
+		"【自】 他のあなたの《ゲーム》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"人類種"
+	]
+}

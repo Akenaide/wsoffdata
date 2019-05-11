@@ -1,0 +1,30 @@
+{
+	"set": "FZ",
+	"setName": "Fate/Zero",
+	"side": "S",
+	"release": "17",
+	"id": "035",
+	"name": "",
+	"jpName": "“セイバーの左手”ランサー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		"【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	]
+}

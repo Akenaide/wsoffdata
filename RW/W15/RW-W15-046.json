@@ -1,0 +1,25 @@
+{
+	"set": "RW",
+	"setName": "Rewrite",
+	"side": "W",
+	"release": "15",
+	"id": "046",
+	"name": "",
+	"jpName": "アサヒハルカの呪い",
+	"cardType": "EV",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "0",
+	"soul": "0",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"このカードは、あなたのカード名に「ルチア」を含むキャラがいないなら、手札からプレイできない。",
+		"相手のキャラすべてに、そのターン中、パワーを－1500。"
+	],
+	"specialAttrib": []
+}

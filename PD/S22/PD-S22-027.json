@@ -1,0 +1,30 @@
+{
+	"set": "PD",
+	"setName": "初音ミク -Project DIVA- f",
+	"side": "S",
+	"release": "22",
+	"id": "027",
+	"name": "",
+	"jpName": "初音ミク“わがまま工場長”",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「Sadistic.Music∞Factory」があるなら、あなたはそのキャラをクロック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"工場"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "GC",
+	"setName": "ギルティクラウン",
+	"side": "S",
+	"release": "16",
+	"id": "054",
+	"name": "",
+	"jpName": "迷いを見抜くいのり",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが『シフト』を使った時、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 他のあなたのキャラすべてに、パワーを＋500。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"葬儀社"
+	]
+}

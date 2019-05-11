@@ -1,0 +1,30 @@
+{
+	"set": "RW",
+	"setName": "TVアニメ「Rewrite」",
+	"side": "W",
+	"release": "48",
+	"id": "063",
+	"name": "",
+	"jpName": "“万能執事”咲夜",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのカード名に「朱音」か「ちはや」か「咲夜」を含むキャラの枚数×500に等しい。",
+		"【起】【カウンター】 助太刀500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋500）"
+	],
+	"specialAttrib": [
+		"執事",
+		"メガネ"
+	]
+}

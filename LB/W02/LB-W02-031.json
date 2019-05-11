@@ -1,0 +1,29 @@
+{
+	"set": "LB",
+	"setName": "リトルバスターズ!",
+	"side": "W",
+	"release": "02",
+	"id": "031",
+	"name": "",
+	"jpName": "三枝 葉留佳",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードとバトルしているレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【自】 このカードがアタックした時、クライマックス置場に「たった一つの取り柄」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"ビー玉"
+	]
+}

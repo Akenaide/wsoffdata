@@ -1,0 +1,30 @@
+{
+	"set": "IMC",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "41",
+	"id": "P06",
+	"name": "",
+	"jpName": "サマーアイドルフェス 小梅",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【自】 このカードがアタックした時、クライマックス置場に「お願い！シンデレラ」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋4500。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"オカルト"
+	]
+}

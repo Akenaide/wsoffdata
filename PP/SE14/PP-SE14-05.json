@@ -1,0 +1,31 @@
+{
+	"set": "PP",
+	"setName": "PSYCHO-PASS サイコパス",
+	"side": "S",
+	"release": "E14",
+	"id": "05",
+	"name": "",
+	"jpName": "狡噛 慎也",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×500に等しい。",
+		"【永】 他のあなたの《公安》のキャラが1枚以下なら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+		"【自】 このカードが手札から舞台に置かれた時か「“潜在犯”狡噛」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"サイコパス",
+		"公安"
+	]
+}

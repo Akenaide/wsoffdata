@@ -1,0 +1,30 @@
+{
+	"set": "DG",
+	"setName": "魔界戦記ディスガイア4",
+	"side": "S",
+	"release": "E08",
+	"id": "15",
+	"name": "",
+	"jpName": "天使長 フロン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+		"【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは自分の山札を見て《悪魔》か《天使》か《愛》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"天使",
+		"愛"
+	]
+}

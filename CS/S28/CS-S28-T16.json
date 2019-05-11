@@ -1,0 +1,30 @@
+{
+	"set": "CS",
+	"setName": "2014年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "28",
+	"id": "T16",
+	"name": "",
+	"jpName": "おやつの時間 しんのすけ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《家族》か《幼稚園》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(2)］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4500。"
+	],
+	"specialAttrib": [
+		"家族",
+		"幼稚園"
+	]
+}

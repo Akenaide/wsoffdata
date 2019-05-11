@@ -1,0 +1,30 @@
+{
+	"set": "NGL",
+	"setName": "[TD+]ノーゲーム・ノーライフ",
+	"side": "S",
+	"release": "58",
+	"id": "T06",
+	"name": "",
+	"jpName": "挑発する挑戦者 空",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"人類種"
+	]
+}

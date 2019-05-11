@@ -1,0 +1,30 @@
+{
+	"set": "CS",
+	"setName": "クレヨンしんちゃん",
+	"side": "S",
+	"release": "28",
+	"id": "012",
+	"name": "",
+	"jpName": "幸せな家族 野原一家",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《家族》か《幼稚園》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"家族",
+		"動物"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+	"side": "S",
+	"release": "36",
+	"id": "009",
+	"name": "",
+	"jpName": "“本気の強襲”士郎",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「“熾天覆う七つの円環”」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上からＸ枚を、このカードの下にマーカーとして置き、そのターン中、このカードのパワーを＋1500。Ｘはあなたの、《武器》か《宝石》のキャラの枚数に等しい。",
+		"【自】 相手のアタックフェイズの始めに、あなたはこのカードの下のマーカーをすべて控え室に置く。それらのカードのトリガーアイコンの[SOUL]1つにつき、そのターン中、このカードの正面のキャラのソウルを－1。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"武器"
+	]
+}

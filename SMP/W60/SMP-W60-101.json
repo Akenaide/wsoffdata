@@ -1,0 +1,30 @@
+{
+	"set": "SMP",
+	"setName": "Summer Pockets",
+	"side": "W",
+	"release": "60",
+	"id": "101",
+	"name": "",
+	"jpName": "ちびしろは",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは相手の効果に選ばれない。",
+		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"時間"
+	]
+}

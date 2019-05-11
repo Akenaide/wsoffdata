@@ -1,0 +1,30 @@
+{
+	"set": "MK2",
+	"setName": "2012年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "19",
+	"id": "103",
+	"name": "",
+	"jpName": "新たな指揮官 姫百合",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《探偵》か《警察》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"探偵",
+		"警察"
+	]
+}

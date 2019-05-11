@@ -1,0 +1,30 @@
+{
+	"set": "TF",
+	"setName": "テラフォーマーズ",
+	"side": "S",
+	"release": "32",
+	"id": "011",
+	"name": "",
+	"jpName": "“アネックス1号の乗組員”イワン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［手札の「“アネックス1号の乗組員”エレナ」を1枚控え室に置き、このカードを【レスト】する］ あなたのキャラすべてに、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"改造",
+		"植物"
+	]
+}

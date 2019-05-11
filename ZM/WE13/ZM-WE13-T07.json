@@ -1,0 +1,30 @@
+{
+	"set": "ZM",
+	"setName": "2012年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "E13",
+	"id": "T07",
+	"name": "",
+	"jpName": "シャルロット・エレーヌ・オルレアン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"王族"
+	]
+}

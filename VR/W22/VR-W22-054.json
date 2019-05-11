@@ -1,0 +1,30 @@
+{
+	"set": "VR",
+	"setName": "ビビッドレッド・オペレーション",
+	"side": "W",
+	"release": "22",
+	"id": "054",
+	"name": "",
+	"jpName": "水着のれい",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《謎》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"鍵",
+		"謎"
+	]
+}

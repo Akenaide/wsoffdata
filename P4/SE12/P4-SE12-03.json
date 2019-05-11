@@ -1,0 +1,30 @@
+{
+	"set": "P4",
+	"setName": "TVアニメ「ペルソナ４」",
+	"side": "S",
+	"release": "E12",
+	"id": "03",
+	"name": "",
+	"jpName": "フードコートの菜々子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「悠」か「主人公」を含むキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"ジュネス",
+		"テレビ"
+	]
+}

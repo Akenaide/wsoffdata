@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」深海棲艦見ゆ",
+	"side": "S",
+	"release": "E28",
+	"id": "15",
+	"name": "",
+	"jpName": "バーサーカーモード 港湾棲姫",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「港湾棲姫」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードがアタックした時、クライマックス置場に「ナニモ…ワカッテイナイ…」があるなら、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の山札の上から1枚を、クロック置場に置く。"
+	],
+	"specialAttrib": [
+		"深海棲艦",
+		"姫"
+	]
+}

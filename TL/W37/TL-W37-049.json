@@ -1,0 +1,30 @@
+{
+	"set": "TL",
+	"setName": "To LOVEる-とらぶる-ダークネス2nd",
+	"side": "W",
+	"release": "37",
+	"id": "049",
+	"name": "",
+	"jpName": "“猫の着信音”唯",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+		"【自】 このカードがアタックした時、クライマックス置場に「魅惑ボイス」があるなら、そのターン中、このカードのパワーを＋Ｘし、相手は『助太刀』を手札からプレイできない。Ｘは他のあなたの、《動物》か《植物》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"風紀委員",
+		"動物"
+	]
+}

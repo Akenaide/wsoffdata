@@ -1,0 +1,29 @@
+{
+	"set": "P5",
+	"setName": "ペルソナ５",
+	"side": "S",
+	"release": "45",
+	"id": "020",
+	"name": "",
+	"jpName": "現役高校生探偵 明智",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《怪盗》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の《怪盗》のキャラを1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"探偵"
+	]
+}

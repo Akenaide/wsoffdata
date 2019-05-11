@@ -1,0 +1,30 @@
+{
+	"set": "APO",
+	"setName": "[TD+]Fate/Apocrypha",
+	"side": "S",
+	"release": "53",
+	"id": "T17",
+	"name": "",
+	"jpName": "“迎撃”黒のアーチャー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(1) このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを?2000。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"先生"
+	]
+}

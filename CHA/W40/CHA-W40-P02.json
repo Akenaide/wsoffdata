@@ -1,0 +1,30 @@
+{
+	"set": "CHA",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "40",
+	"id": "P02",
+	"name": "",
+	"jpName": "“大興奮！”乙坂 歩未",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"能力者",
+		"ピザソース"
+	]
+}

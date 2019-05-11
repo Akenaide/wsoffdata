@@ -1,0 +1,29 @@
+{
+	"set": "PD",
+	"setName": "初音ミク -Project DIVA- f",
+	"side": "S",
+	"release": "22",
+	"id": "062",
+	"name": "",
+	"jpName": "ＭＥＩＫＯ“ノエル・ルージュ”",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

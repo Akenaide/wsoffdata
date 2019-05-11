@@ -1,0 +1,30 @@
+{
+	"set": "SS",
+	"setName": "灼眼のシャナ",
+	"side": "W",
+	"release": "14",
+	"id": "085",
+	"name": "",
+	"jpName": "開かれる器 ヘカテー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「器の回収」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。"
+	],
+	"specialAttrib": [
+		"炎",
+		"巫女"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "OVL",
+	"setName": "オーバーロード",
+	"side": "S",
+	"release": "62",
+	"id": "044",
+	"name": "",
+	"jpName": "資産運用 アインズ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+		"【自】他のあなたの、《異形種》か《ナザリック》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《異形種》か《ナザリック》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	]
+}

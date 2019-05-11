@@ -1,0 +1,30 @@
+{
+	"set": "CGS",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "S01",
+	"id": "P09",
+	"name": "",
+	"jpName": "賽銭 しよ子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "10000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】［お店で1パック購入する］ あなたが購入したパックの中にSPのカードがあるなら、あなたは《幸運》を得る。",
+		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+	],
+	"specialAttrib": [
+		"カードゲーム",
+		"銭"
+	]
+}

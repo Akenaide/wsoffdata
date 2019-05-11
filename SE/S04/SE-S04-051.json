@@ -1,0 +1,30 @@
+{
+	"set": "SE",
+	"setName": "シャイニング・フォース イクサ",
+	"side": "S",
+	"release": "04",
+	"id": "051",
+	"name": "",
+	"jpName": "リームシアン・ラ・ヴァース",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"王族"
+	]
+}

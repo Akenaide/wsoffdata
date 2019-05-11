@@ -1,0 +1,30 @@
+{
+	"set": "SB",
+	"setName": "戦国BASARA",
+	"side": "S",
+	"release": "06",
+	"id": "093",
+	"name": "",
+	"jpName": "“合戦の天才”上杉 謙信",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 この能力は1ターンにつき2回まで発動できる。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"武器",
+		"薔薇"
+	]
+}

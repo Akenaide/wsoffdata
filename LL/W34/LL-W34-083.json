@@ -1,0 +1,30 @@
+{
+	"set": "LL",
+	"setName": "ラブライブ！Vol.2",
+	"side": "W",
+	"release": "34",
+	"id": "083",
+	"name": "",
+	"jpName": "ライブの差し入れ 真姫",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【自】 あなたのクライマックス置場に「みんなで決めた答え」が置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"令嬢"
+	]
+}

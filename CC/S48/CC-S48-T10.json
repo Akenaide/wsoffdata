@@ -1,0 +1,30 @@
+{
+	"set": "CC",
+	"setName": "[TD+]チェインクロニクル ～ヘクセイタスの閃～",
+	"side": "S",
+	"release": "48",
+	"id": "T10",
+	"name": "",
+	"jpName": "年代記を持つ少女 フィーナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列の中央の枠のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+	],
+	"specialAttrib": [
+		"マナ",
+		"年代記"
+	]
+}

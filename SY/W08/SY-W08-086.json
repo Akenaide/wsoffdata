@@ -1,0 +1,30 @@
+{
+	"set": "SY",
+	"setName": "涼宮ハルヒの憂鬱",
+	"side": "W",
+	"release": "08",
+	"id": "086",
+	"name": "",
+	"jpName": "ギタリスト 長門",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[DRAW]なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"宇宙人",
+		"音楽"
+	]
+}

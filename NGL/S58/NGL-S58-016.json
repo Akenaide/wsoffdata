@@ -1,0 +1,29 @@
+{
+	"set": "NGL",
+	"setName": "ノーゲーム・ノーライフ",
+	"side": "S",
+	"release": "58",
+	"id": "016",
+	"name": "",
+	"jpName": "記憶の共有 空",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場に「似たもの同士」があるなら、このカードのパワーを＋5000し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"人類種"
+	]
+}

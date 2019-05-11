@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "20",
+	"id": "P02",
+	"name": "",
+	"jpName": "入浴中のアスナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは相手の効果に選ばれない。",
+		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

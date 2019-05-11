@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night [Unlimited Blade Works]",
+	"side": "S",
+	"release": "34",
+	"id": "060",
+	"name": "",
+	"jpName": "弓兵の真価 アーチャー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置く。",
+		"【自】 このカードがアタックした時、あなたは他の自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	]
+}

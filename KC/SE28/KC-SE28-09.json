@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」深海棲艦見ゆ",
+	"side": "S",
+	"release": "E28",
+	"id": "09",
+	"name": "",
+	"jpName": "飛行場姫",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《深海棲艦》のキャラすべてに、パワーを＋1500。",
+		"【自】［(3)］ あなたのクライマックス置場に「ダカラ…ムリナノヨ…」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"深海棲艦",
+		"姫"
+	]
+}

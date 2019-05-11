@@ -1,0 +1,30 @@
+{
+	"set": "KF",
+	"setName": "THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "05",
+	"id": "086",
+	"name": "",
+	"jpName": "椎 拳崇",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 アラーム このカードがクロックの1番上にあるなら、あなたの、《超能力》か《酒》か《竜》のキャラすべてに、パワーを＋1000。",
+		"【自】 チェンジ ［このカードをクロック置場に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「セーラー服のアテナ」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"超能力",
+		"竜"
+	]
+}

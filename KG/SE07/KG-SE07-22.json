@@ -1,0 +1,29 @@
+{
+	"set": "KG",
+	"setName": "刀語",
+	"side": "S",
+	"release": "E07",
+	"id": "22",
+	"name": "",
+	"jpName": "増殖の人鳥",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(4)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードを1枚選び、山札に戻す。その山札をシャッフルする。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《忍》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"忍"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"set": "SW",
+	"setName": "[TD]STAR WARS",
+	"side": "S",
+	"release": "49",
+	"id": "T16",
+	"name": "",
+	"jpName": "“守るべき存在”レイ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《フォースの覚醒》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"フォースの覚醒"
+	]
+}

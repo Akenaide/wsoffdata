@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "艦隊これくしょん -艦これ-",
+	"side": "S",
+	"release": "25",
+	"id": "028",
+	"name": "",
+	"jpName": "飛鷹型軽空母2番艦 隼鷹",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは相手の効果に選ばれない。",
+		"【永】 他のあなたの《艦娘》のキャラすべてに、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"軽空母"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "OVL",
+	"setName": "オーバーロード",
+	"side": "S",
+	"release": "62",
+	"id": "063",
+	"name": "",
+	"jpName": "第4階層の守護者 ガルガンチュア",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "3",
+	"power": "8500",
+	"soul": "3",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】舞台のこのカードのレベルを－2。",
+		"【永】他のあなたの、《異形種》か《ナザリック》のキャラ1枚につき、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	]
+}

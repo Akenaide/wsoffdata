@@ -1,0 +1,30 @@
+{
+	"set": "DC3",
+	"setName": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+	"side": "W",
+	"release": "46",
+	"id": "097",
+	"name": "",
+	"jpName": "律儀な腹ペコ珍獣 美琴",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードが《新聞》か《愛》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、レベルを＋4。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"新聞",
+		"愛"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "MK2",
+	"setName": "探偵オペラ ミルキィホームズ２",
+	"side": "S",
+	"release": "19",
+	"id": "026",
+	"name": "",
+	"jpName": "チア衣装のエリー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［あなたの《探偵》のキャラを2枚【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。"
+	],
+	"specialAttrib": [
+		"探偵",
+		"本"
+	]
+}

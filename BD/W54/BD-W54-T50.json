@@ -1,0 +1,30 @@
+{
+	"set": "BD",
+	"setName": "[TD+]バンドリ！ ガールズバンドパーティ！ ［Afterglow］",
+	"side": "W",
+	"release": "54",
+	"id": "T50",
+	"name": "",
+	"jpName": "“頼れる姉御肌”宇田川巴",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ 他のあなたの《音楽》のキャラすべてに、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Afterglow"
+	]
+}

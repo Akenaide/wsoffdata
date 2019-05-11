@@ -1,0 +1,30 @@
+{
+	"set": "LB",
+	"setName": "アニメ「リトルバスターズ！」",
+	"side": "W",
+	"release": "21",
+	"id": "010a",
+	"name": "",
+	"jpName": "“一刀両断”唯湖",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+		"【自】 このカードがアタックした時、クライマックス置場に「無敵の来ヶ谷」があるなら、そのターン中、このカードのパワーを＋3000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}

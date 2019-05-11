@@ -1,0 +1,31 @@
+{
+	"set": "KF",
+	"setName": "THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "05",
+	"id": "076",
+	"name": "",
+	"jpName": "氷の美少女クーラ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《改造》か《クローン》のキャラすべてに、パワーを＋500。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+		"【自】［(1)］ あなたのクライマックス置場に「ダイアモンドエッジ」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、【スタンド】して相手の舞台のキャラのいない他の枠に動かす。"
+	],
+	"specialAttrib": [
+		"改造",
+		"人形"
+	]
+}

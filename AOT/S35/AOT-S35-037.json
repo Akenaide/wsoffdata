@@ -1,0 +1,30 @@
+{
+	"set": "AOT",
+	"setName": "進撃の巨人",
+	"side": "S",
+	"release": "35",
+	"id": "037",
+	"name": "",
+	"jpName": "“気さくな人柄”ハンジ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《兵団》のキャラすべてに、パワーを＋1000。",
+		"【自】 あなたのクライマックス置場に「真相」が置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《兵団》のキャラなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"兵団",
+		"武器"
+	]
+}

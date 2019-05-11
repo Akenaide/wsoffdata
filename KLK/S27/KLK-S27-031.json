@@ -1,0 +1,29 @@
+{
+	"set": "KLK",
+	"setName": "キルラキル",
+	"side": "S",
+	"release": "27",
+	"id": "031",
+	"name": "",
+	"jpName": "羅暁の秘書 鳳凰丸",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の《服》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"服",
+		"秘書"
+	]
+}

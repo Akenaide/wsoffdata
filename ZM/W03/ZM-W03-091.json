@@ -1,0 +1,30 @@
+{
+	"set": "ZM",
+	"setName": "ゼロの使い魔",
+	"side": "W",
+	"release": "03",
+	"id": "091",
+	"name": "",
+	"jpName": "エレオノール・アルベルティーヌ・ル・ブラン・ド・ラ・ブロワ・ド・ラ・ヴァリエール",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「刻印を探せ！」があるなら、あなたは1枚引く。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"メガネ"
+	]
+}

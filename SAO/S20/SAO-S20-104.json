@@ -1,0 +1,31 @@
+{
+	"set": "SAO",
+	"setName": "2012年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "20",
+	"id": "104",
+	"name": "",
+	"jpName": "キリト＆アスナ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、このカードのパワーを＋1000。",
+		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+		"【起】［(1)］ 次の相手のターンの終わりまで、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

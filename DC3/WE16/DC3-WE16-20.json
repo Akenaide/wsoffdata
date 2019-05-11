@@ -1,0 +1,28 @@
+{
+	"set": "DC3",
+	"setName": "アニメ「D.C.III～ダ・カーポIII～」",
+	"side": "W",
+	"release": "E16",
+	"id": "20",
+	"name": "",
+	"jpName": "所長のアシスタント ゆず",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"探偵"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "MB",
+	"setName": "MELTY BLOOD",
+	"side": "S",
+	"release": "10",
+	"id": "062",
+	"name": "",
+	"jpName": "Ｇ秋葉",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードが手札から舞台に置かれた時かキャラの【起】の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置く。",
+		"【起】［(1) 手札を1枚控え室に置く］ そのターン中、このカードのパワーを＋5500。"
+	],
+	"specialAttrib": [
+		"血",
+		"科学"
+	]
+}

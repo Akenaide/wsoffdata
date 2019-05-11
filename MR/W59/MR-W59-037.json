@@ -1,0 +1,30 @@
+{
+	"set": "MR",
+	"setName": "マギアレコード 魔法少女まどか☆マギカ外伝",
+	"side": "W",
+	"release": "59",
+	"id": "037",
+	"name": "",
+	"jpName": "魔法少女の素質 まどか",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 他のあなたのバトル中の《魔法》のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"ヒール"
+	]
+}

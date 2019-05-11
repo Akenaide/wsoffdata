@@ -1,0 +1,30 @@
+{
+	"set": "GBS",
+	"setName": "[TD+]ゴブリンスレイヤー",
+	"side": "S",
+	"release": "63",
+	"id": "T18",
+	"name": "",
+	"jpName": "ひよこみたいな女神官",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時か「親鳥みたいなゴブリンスレイヤー」の【自】の効果で舞台に置かれた時、そのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+	],
+	"specialAttrib": [
+		"秩序",
+		"冒険者"
+	]
+}

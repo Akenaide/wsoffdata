@@ -1,0 +1,27 @@
+{
+	"set": "LH",
+	"setName": "ログ・ホライズン",
+	"side": "S",
+	"release": "E20",
+	"id": "50",
+	"name": "",
+	"jpName": "略式・全力管制戦闘",
+	"cardType": "CX",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"DRAW"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+		"（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+	],
+	"specialAttrib": []
+}

@@ -1,0 +1,29 @@
+{
+	"set": "LSS",
+	"setName": "ラブライブ！サンシャイン!!",
+	"side": "W",
+	"release": "E27",
+	"id": "02",
+	"name": "",
+	"jpName": "“MIRAI TICKET”黒澤 ルビィ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

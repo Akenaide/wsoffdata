@@ -1,0 +1,30 @@
+{
+	"set": "DS2",
+	"setName": "TVアニメ「デビルサバイバー2」",
+	"side": "S",
+	"release": "E16",
+	"id": "40",
+	"name": "",
+	"jpName": "“悪魔使い”オトメ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《サマナー》のキャラすべてに、レベルを＋1し、パワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"サマナー",
+		"医者"
+	]
+}

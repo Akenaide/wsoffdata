@@ -1,0 +1,29 @@
+{
+	"set": "LB",
+	"setName": "リトルバスターズ! エクスタシー",
+	"side": "W",
+	"release": "06",
+	"id": "080",
+	"name": "",
+	"jpName": "身構える沙耶",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋2000。",
+		"【自】 このカードがアタックした時、クライマックス置場に「屋上の罠」があるなら、あなたは1枚引く。"
+	],
+	"specialAttrib": [
+		"武器"
+	]
+}

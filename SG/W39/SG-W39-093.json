@@ -1,0 +1,30 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアＧＸ",
+	"side": "W",
+	"release": "39",
+	"id": "093",
+	"name": "",
+	"jpName": "父への思い 翼",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「風輪火斬 月煌」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}

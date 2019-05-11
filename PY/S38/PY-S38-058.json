@@ -1,0 +1,30 @@
+{
+	"set": "PY",
+	"setName": "ぷよぷよ",
+	"side": "S",
+	"release": "38",
+	"id": "058",
+	"name": "",
+	"jpName": "おにおん",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの前列の「おに子」1枚につき、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"ぷよ",
+		"ツノ"
+	]
+}

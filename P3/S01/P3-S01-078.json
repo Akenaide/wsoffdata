@@ -1,0 +1,30 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ3",
+	"side": "S",
+	"release": "01",
+	"id": "078",
+	"name": "",
+	"jpName": "美鶴＆ペンテシレア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"生徒会",
+		"神"
+	]
+}

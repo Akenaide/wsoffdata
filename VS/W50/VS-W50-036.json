@@ -1,0 +1,31 @@
+{
+	"set": "VS",
+	"setName": "ViVid Strike!",
+	"side": "W",
+	"release": "50",
+	"id": "036",
+	"name": "",
+	"jpName": "必殺の打撃 ミウラ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《格闘》のキャラか「スターセイバー」を1枚選び、手札に戻してよい。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「抜剣」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"格闘",
+		"家事"
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL",
+	"side": "S",
+	"release": "09",
+	"id": "006",
+	"name": "",
+	"jpName": "“天輪の鎧”エルザ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「循環の剣」があるなら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。",
+		"【起】［(1)］ そのターン中、このカードのソウルを＋1。",
+		"【起】［あなたの《魔法》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	]
+}

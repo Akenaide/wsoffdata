@@ -1,0 +1,30 @@
+{
+	"set": "AW",
+	"setName": "アクセル・ワールド -インフィニット・バースト-",
+	"side": "S",
+	"release": "43",
+	"id": "013",
+	"name": "",
+	"jpName": "料理は苦手 黒雪姫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのキャラがダイレクトアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"生徒会",
+		"ネット"
+	]
+}

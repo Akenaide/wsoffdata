@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "03",
+	"id": "106",
+	"name": "",
+	"jpName": "ちび桜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「士郎」を含むキャラすべてに、パワーを+500。",
+		"【自】 アンコール [手札のキャラを１枚控え室に置く] （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。 そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"マスター",
+		"スポーツ"
+	]
+}

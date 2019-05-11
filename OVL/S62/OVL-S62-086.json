@@ -1,0 +1,30 @@
+{
+	"set": "OVL",
+	"setName": "オーバーロード",
+	"side": "S",
+	"release": "62",
+	"id": "086",
+	"name": "",
+	"jpName": "不可視化の魔法 イビルアイ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の、青か《漆黒》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
+	],
+	"specialAttrib": [
+		"異形種",
+		"蒼の薔薇"
+	]
+}

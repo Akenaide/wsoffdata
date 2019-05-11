@@ -1,0 +1,29 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ 2nd SEASON",
+	"side": "W",
+	"release": "43",
+	"id": "116",
+	"name": "",
+	"jpName": "司会のお仕事 瑞樹",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの青のキャラすべてに、パワーを＋1000。",
+		"【自】［このカードを【レスト】する］ 相手のドローフェイズの始めに、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、レベルを－1し、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

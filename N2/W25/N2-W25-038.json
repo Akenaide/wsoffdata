@@ -1,0 +1,30 @@
+{
+	"set": "N2",
+	"setName": "魔法少女リリカルなのは The MOVIE 2nd A's",
+	"side": "W",
+	"release": "25",
+	"id": "038",
+	"name": "",
+	"jpName": "エクセリオンモード なのは",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の《魔法》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】［(2)］ このカードがアタックした時、クライマックス置場に「エクセリオンバスターA.C.S」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、そのターン中、このカードのパワーを＋3000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	]
+}

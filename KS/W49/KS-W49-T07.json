@@ -1,0 +1,29 @@
+{
+	"set": "KS",
+	"setName": "[TD+]この素晴らしい世界に祝福を！",
+	"side": "W",
+	"release": "49",
+	"id": "T07",
+	"name": "",
+	"jpName": "“究極の攻撃魔法”めぐみん",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《冒険者》か《魔法》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"魔法"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"set": "OMS",
+	"setName": "おそ松さん",
+	"side": "S",
+	"release": "41",
+	"id": "017",
+	"name": "",
+	"jpName": "“おでん屋”チビ太",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックス置場に「仕込みの極意」が置かれた時、他のあなたの黄のキャラが4枚以上なら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"おでん"
+	]
+}

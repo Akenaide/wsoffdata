@@ -1,0 +1,29 @@
+{
+	"set": "TF",
+	"setName": "テラフォーマーズ",
+	"side": "S",
+	"release": "32",
+	"id": "037",
+	"name": "",
+	"jpName": "“人類の脅威”テラフォーマー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "6000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「テラフォーマー」を含むキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】［(2)］ このカードのバトル相手が【リバース】した時、他のあなたのカード名に「テラフォーマー」を含むキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたはそのバトル相手をクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"虫"
+	]
+}

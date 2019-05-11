@@ -1,0 +1,29 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン",
+	"side": "S",
+	"release": "20",
+	"id": "013",
+	"name": "",
+	"jpName": "団長 ヒースクリフ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「闘技場でのデュエル」があるなら、あなたは相手のコスト1以下のキャラを1枚選び、手札に戻し、そのターン中、このカードは【リバース】しない。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

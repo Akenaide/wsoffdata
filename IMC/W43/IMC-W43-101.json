@@ -1,0 +1,30 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ 2nd SEASON",
+	"side": "W",
+	"release": "43",
+	"id": "101",
+	"name": "",
+	"jpName": "変わるために アナスタシア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「美波」か「アナスタシア」か「蘭子」を含むキャラすべてに、パワーを＋1000。",
+		"【自】 すべてのプレイヤーのアタックフェイズの始めに、あなたの控え室に「この空の下」があるなら、あなたは自分のキャラを1枚選び、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"星"
+	]
+}

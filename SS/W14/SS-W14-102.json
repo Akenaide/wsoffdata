@@ -1,0 +1,29 @@
+{
+	"set": "SS",
+	"setName": "2011年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "14",
+	"id": "102",
+	"name": "",
+	"jpName": "養育係 ヴィルヘルミナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《炎》のキャラでないなら、そのターン中、このカードは次の能力を得る。『【永】 このカードはフロントアタックできない。』（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"炎",
+		"メイド"
+	]
+}

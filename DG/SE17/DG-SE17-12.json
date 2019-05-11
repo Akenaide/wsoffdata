@@ -1,0 +1,30 @@
+{
+	"set": "DG",
+	"setName": "ディスガイア D2",
+	"side": "S",
+	"release": "E17",
+	"id": "12",
+	"name": "",
+	"jpName": "プリニガーX",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
+		"【永】 大活躍 (相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)",
+		"【起】［他のあなたの舞台の《プリニー》のキャラを1枚このカードの下にマーカーとして裏向きに置く］ そのターン中、このカードのソウルを＋1。"
+	],
+	"specialAttrib": [
+		"プリニー"
+	]
+}

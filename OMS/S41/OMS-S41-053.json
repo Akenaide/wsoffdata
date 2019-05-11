@@ -1,0 +1,29 @@
+{
+	"set": "OMS",
+	"setName": "おそ松さん",
+	"side": "S",
+	"release": "41",
+	"id": "053",
+	"name": "",
+	"jpName": "“ずっと一緒に”松野兄弟",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「松」を含むキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［(1)］ あなたのクライマックス置場に「伝説の６つ子」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「松」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"６つ子"
+	]
+}

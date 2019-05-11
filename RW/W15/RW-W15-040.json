@@ -1,0 +1,29 @@
+{
+	"set": "RW",
+	"setName": "Rewrite",
+	"side": "W",
+	"release": "15",
+	"id": "040",
+	"name": "",
+	"jpName": "ひまわり畑のルチア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードが【レスト】しているなら、このカードは《手袋》をすべて失い、すべてのプレイヤーの前列のカード名に「ルチア」か｢静流｣を含まないキャラすべてに、パワーを－500。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"手袋"
+	]
+}

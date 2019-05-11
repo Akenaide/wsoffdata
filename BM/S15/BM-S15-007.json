@@ -1,0 +1,30 @@
+{
+	"set": "BM",
+	"setName": "化物語",
+	"side": "S",
+	"release": "15",
+	"id": "007",
+	"name": "",
+	"jpName": "吸血鬼の忍野忍",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋1000。",
+		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。"
+	],
+	"specialAttrib": [
+		"怪異",
+		"血"
+	]
+}

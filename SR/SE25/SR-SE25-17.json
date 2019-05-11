@@ -1,0 +1,30 @@
+{
+	"set": "SR",
+	"setName": "シャイニング・レゾナンス",
+	"side": "S",
+	"release": "E25",
+	"id": "17",
+	"name": "",
+	"jpName": "流浪の魔術師 アグナム",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《音楽》か《竜》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 他のあなたの、《音楽》か《竜》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"竜"
+	]
+}

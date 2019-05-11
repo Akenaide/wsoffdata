@@ -1,0 +1,30 @@
+{
+	"set": "TF",
+	"setName": "テラフォーマーズ",
+	"side": "S",
+	"release": "32",
+	"id": "095",
+	"name": "",
+	"jpName": "“引き継いだ力”膝丸 燈",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《改造》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 相手の【スタンド】しているキャラが【レスト】した時、そのターン中、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"改造",
+		"虫"
+	]
+}

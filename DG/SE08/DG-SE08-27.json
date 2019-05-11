@@ -1,0 +1,30 @@
+{
+	"set": "DG",
+	"setName": "魔界戦記ディスガイア4",
+	"side": "S",
+	"release": "E08",
+	"id": "27",
+	"name": "",
+	"jpName": "暴君 ヴァルバトーゼ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《悪魔》のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"血"
+	]
+}

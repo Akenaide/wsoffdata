@@ -1,0 +1,30 @@
+{
+	"set": "NK",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E22",
+	"id": "P02",
+	"name": "",
+	"jpName": "愛と正義と甘味の魔法少女 マジカルパティシエ小咲ちゃん",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《お菓子》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置く。残りのカードを山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"お菓子",
+		"魔法"
+	]
+}

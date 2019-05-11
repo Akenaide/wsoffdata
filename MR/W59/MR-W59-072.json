@@ -1,0 +1,29 @@
+{
+	"set": "MR",
+	"setName": "マギアレコード 魔法少女まどか☆マギカ外伝",
+	"side": "W",
+	"release": "59",
+	"id": "072",
+	"name": "",
+	"jpName": "メンバーのために かえで",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。",
+		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"魔法"
+	]
+}

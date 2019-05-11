@@ -1,0 +1,30 @@
+{
+	"set": "CGS",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "S01",
+	"id": "P12",
+	"name": "",
+	"jpName": "戌年 しよ子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、「柴犬 しよ子」と「プードル犬 しよ子」がいるなら、あなたの手札のこのカードのレベルを?1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《カードゲーム》のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"カードゲーム",
+		"和服"
+	]
+}

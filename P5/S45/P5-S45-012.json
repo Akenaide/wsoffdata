@@ -1,0 +1,29 @@
+{
+	"set": "P5",
+	"setName": "ペルソナ５",
+	"side": "S",
+	"release": "45",
+	"id": "012",
+	"name": "",
+	"jpName": "運命の『囚われ』 主人公",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「主人公＆アルセーヌ / JOKER」すべてに、パワーを＋500し、次の能力を与える。『【自】 あなたのターン中、このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』",
+		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×1000に等しい。"
+	],
+	"specialAttrib": [
+		"怪盗"
+	]
+}

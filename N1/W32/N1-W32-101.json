@@ -1,0 +1,30 @@
+{
+	"set": "N1",
+	"setName": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+	"side": "W",
+	"release": "32",
+	"id": "101",
+	"name": "",
+	"jpName": "最強のライバル フェイト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのカード名に「なのは」か「フェイト」を含むキャラすべてに、パワーを＋1500。",
+		"【自】 あなたのクライマックス置場に「激戦の攻防」が置かれた時、あなたは相手の舞台にいるキャラの特徴を1つ選び、相手のキャラすべては、そのターン中、その特徴をすべて失う。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クローン"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"set": "GL",
+	"setName": "天元突破グレンラガン",
+	"side": "S",
+	"release": "52",
+	"id": "097",
+	"name": "",
+	"jpName": "キョムガン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋6000。",
+		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分の控え室の「ムガン」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"アンチスパイラル"
+	]
+}

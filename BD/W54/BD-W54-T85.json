@@ -1,0 +1,30 @@
+{
+	"set": "BD",
+	"setName": "[TD+]バンドリ！ ガールズバンドパーティ！［Poppin’Party］",
+	"side": "W",
+	"release": "54",
+	"id": "T85",
+	"name": "",
+	"jpName": "“最高のステージに！”戸山香澄",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Poppin'Party"
+	]
+}

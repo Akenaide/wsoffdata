@@ -1,0 +1,30 @@
+{
+	"set": "RW",
+	"setName": "Rewrite",
+	"side": "W",
+	"release": "15",
+	"id": "045",
+	"name": "",
+	"jpName": "江坂 宗源",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のキャラが4枚以上なら、このカードのパワーを＋1000。",
+		"【永】 あなたの控え室のクライマックスが4枚以上なら、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"武器",
+		"だじゃれ"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "MF",
+	"setName": "2011年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "13",
+	"id": "101",
+	"name": "",
+	"jpName": "あの日のランカ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、レベルを＋1し、パワーを＋500。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"愛"
+	]
+}

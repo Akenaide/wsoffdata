@@ -1,0 +1,30 @@
+{
+	"set": "BM",
+	"setName": "化物語",
+	"side": "S",
+	"release": "15",
+	"id": "057",
+	"name": "",
+	"jpName": "完全武装 戦場ヶ原ひたぎ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《怪異》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードがアタックした時、クライマックス置場に「ひたぎクラブ」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"怪異",
+		"文房具"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "OVL",
+	"setName": "オーバーロード",
+	"side": "S",
+	"release": "62",
+	"id": "036",
+	"name": "",
+	"jpName": "ご褒美の指輪 マーレ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】応援 このカードの前のあなたの、《異形種》か《ナザリック》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"人間種",
+		"ナザリック"
+	]
+}

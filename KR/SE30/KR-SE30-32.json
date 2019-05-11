@@ -1,0 +1,30 @@
+{
+	"set": "KR",
+	"setName": "境界のRINNE",
+	"side": "S",
+	"release": "E30",
+	"id": "32",
+	"name": "",
+	"jpName": "“恋する死神”鳳",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「“輪廻への導き”りんね」すべてに、パワーを＋1000。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+	],
+	"specialAttrib": [
+		"死神",
+		"令嬢"
+	]
+}

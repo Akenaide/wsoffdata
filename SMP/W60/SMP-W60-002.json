@@ -1,0 +1,31 @@
+{
+	"set": "SMP",
+	"setName": "Summer Pockets",
+	"side": "W",
+	"release": "60",
+	"id": "002",
+	"name": "",
+	"jpName": "“私が出来ること”しろは",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《サマポケ》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「一筋の光」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室のキャラを1枚まで選び、手札に戻す。",
+		"【自】 バトル中のこのカードが【リバース】した時、他のあなたの《サマポケ》のキャラが1枚以下なら、このカードをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"時間"
+	]
+}

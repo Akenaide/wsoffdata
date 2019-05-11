@@ -1,0 +1,31 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night",
+	"side": "S",
+	"release": "03",
+	"id": "061",
+	"name": "",
+	"jpName": "凛＆アーチャー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、クライマックス置場に「別れの言葉」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+		"【起】［手札の《武器》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"サーヴァント"
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ 2nd SEASON",
+	"side": "W",
+	"release": "43",
+	"id": "034",
+	"name": "",
+	"jpName": "ファミリアツイン 莉嘉",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの黄のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《音楽》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ギャル"
+	]
+}

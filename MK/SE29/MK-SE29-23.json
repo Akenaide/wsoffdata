@@ -1,0 +1,30 @@
+{
+	"set": "MK",
+	"setName": "劇場版 探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
+	"side": "S",
+	"release": "E29",
+	"id": "23",
+	"name": "",
+	"jpName": "ナウい装備 咲",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《警察》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"警察",
+		"ヘッドフォン"
+	]
+}

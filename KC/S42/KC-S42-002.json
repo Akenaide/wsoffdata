@@ -1,0 +1,31 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+	"side": "S",
+	"release": "42",
+	"id": "002",
+	"name": "",
+	"jpName": "大鳳型装甲空母 大鳳改",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 相手が【起】を使った時、そのターン中、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"装甲空母"
+	]
+}

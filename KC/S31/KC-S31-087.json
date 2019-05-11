@@ -1,0 +1,31 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」第二艦隊",
+	"side": "S",
+	"release": "31",
+	"id": "087",
+	"name": "",
+	"jpName": "長門型戦艦1番艦 長門改",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの手札が4枚以上なら、このカードのパワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"戦艦"
+	]
+}

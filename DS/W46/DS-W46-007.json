@@ -1,0 +1,30 @@
+{
+	"set": "DS",
+	"setName": "「D.S. -Dal Segno-」＆「D.C.Ⅲ With You ～ダ・カーポⅢ～ ウィズユー」",
+	"side": "W",
+	"release": "46",
+	"id": "007",
+	"name": "",
+	"jpName": "常夏の楽園 ひまり",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《風南島》のキャラが2枚以上なら、このカードのパワーを＋2000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたの思い出置場に「不思議な帽子の親友 めです」がないなら、相手は自分の控え室のカードを1枚選び、山札に戻してよい。そうしたら、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"風南島",
+		"帽子"
+	]
+}

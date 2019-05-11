@@ -1,0 +1,30 @@
+{
+	"set": "MK",
+	"setName": "劇場版 探偵オペラ ミルキィホームズ ～逆襲のミルキィホームズ～",
+	"side": "S",
+	"release": "E29",
+	"id": "32",
+	"name": "",
+	"jpName": "どん底からの再起 小衣",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［手札の「駄々っ子 小衣」を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の《警察》のキャラを1枚選び、そのターン中、パワーを＋5500。"
+	],
+	"specialAttrib": [
+		"警察",
+		"仮面"
+	]
+}

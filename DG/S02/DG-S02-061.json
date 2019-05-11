@@ -1,0 +1,30 @@
+{
+	"set": "DG",
+	"setName": "魔界戦記ディスガイア",
+	"side": "S",
+	"release": "02",
+	"id": "061",
+	"name": "",
+	"jpName": "超魔王ラハール",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【起】［このカードを思い出にする］ あなたは自分の控え室の、《天使》か《悪魔》のキャラを2枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"武器"
+	]
+}

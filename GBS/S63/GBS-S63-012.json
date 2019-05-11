@@ -1,0 +1,32 @@
+{
+	"set": "GBS",
+	"setName": "ゴブリンスレイヤー",
+	"side": "S",
+	"release": "63",
+	"id": "012",
+	"name": "",
+	"jpName": "歴戦の観察眼 鉱人道士",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。"
+	],
+	"specialAttrib": [
+		"秩序",
+		"冒険者",
+		"‐"
+	]
+}

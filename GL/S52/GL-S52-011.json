@@ -1,0 +1,30 @@
+{
+	"set": "GL",
+	"setName": "天元突破グレンラガン",
+	"side": "S",
+	"release": "52",
+	"id": "011",
+	"name": "",
+	"jpName": "科学局長官 リーロン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《大グレン団》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"大グレン団",
+		"メカ"
+	]
+}

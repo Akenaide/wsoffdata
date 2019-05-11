@@ -1,0 +1,30 @@
+{
+	"set": "AB",
+	"setName": "Angel Beats! Re: Edit",
+	"side": "W",
+	"release": "31",
+	"id": "008",
+	"name": "",
+	"jpName": "心配するかなで",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《死》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"死",
+		"生徒会"
+	]
+}

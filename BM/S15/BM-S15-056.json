@@ -1,0 +1,30 @@
+{
+	"set": "BM",
+	"setName": "化物語",
+	"side": "S",
+	"release": "15",
+	"id": "056",
+	"name": "",
+	"jpName": "悪魔の左手 神原駿河",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「ひたぎ」を含むキャラがいるなら、このカードのパワーを＋1500。",
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「悪魔が去ったのち」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"怪異",
+		"スポーツ"
+	]
+}

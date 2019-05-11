@@ -1,0 +1,29 @@
+{
+	"set": "P4",
+	"setName": "ペルソナ4",
+	"side": "S",
+	"release": "08",
+	"id": "081",
+	"name": "",
+	"jpName": "直斗＆ヤマトタケル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《男装》か《女装》のキャラなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"男装",
+		"メガネ"
+	]
+}

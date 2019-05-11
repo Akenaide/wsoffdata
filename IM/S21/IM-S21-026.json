@@ -1,0 +1,30 @@
+{
+	"set": "IM",
+	"setName": "アニメ「アイドルマスター」",
+	"side": "S",
+	"release": "21",
+	"id": "026",
+	"name": "",
+	"jpName": "走る！花嫁 あずさ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+		"【起】［(1) あなたの思い出置場の「寄り道」を1枚控え室に置く］ あなたは自分のクロック置場のレベル2以下の《音楽》のキャラを1枚選び、舞台の好きな枠に置く。あなたは自分の山札の上から1枚を、クロック置場に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"愛"
+	]
+}

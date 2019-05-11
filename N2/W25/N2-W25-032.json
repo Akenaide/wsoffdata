@@ -1,0 +1,31 @@
+{
+	"set": "N2",
+	"setName": "魔法少女リリカルなのは The MOVIE 2nd A's",
+	"side": "W",
+	"release": "25",
+	"id": "032",
+	"name": "",
+	"jpName": "怒りの眼差し ヴィータ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。",
+		"【自】［(1)］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の上に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"人形"
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！",
+	"side": "W",
+	"release": "54",
+	"id": "096",
+	"name": "",
+	"jpName": "“ステージ”花園たえ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
+		"【自】 あなたのクライマックスフェイズの始めに、あなたの手札が3枚以下なら、このカードを控え室に置く。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《音楽》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Poppin’Party"
+	]
+}

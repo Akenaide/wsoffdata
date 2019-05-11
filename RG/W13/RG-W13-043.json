@@ -1,0 +1,30 @@
+{
+	"set": "RG",
+	"setName": "禁書目録II＆超電磁砲",
+	"side": "W",
+	"release": "13",
+	"id": "043",
+	"name": "",
+	"jpName": "バックアップ担当 初春",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+		"【起】［あなたの、《超能力》かカード名に「佐天」を含むキャラを1枚【レスト】する］  そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"超能力",
+		"風紀委員"
+	]
+}

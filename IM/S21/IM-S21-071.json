@@ -1,0 +1,29 @@
+{
+	"set": "IM",
+	"setName": "アニメ「アイドルマスター」",
+	"side": "S",
+	"release": "21",
+	"id": "071",
+	"name": "",
+	"jpName": "全員集合！765プロ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのクライマックス置場に「READY!!」が置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+		"【自】［手札の「CHANGE!!!!」を1枚控え室に置く］ すべてのプレイヤーのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の《音楽》のキャラすべてに、そのターン中、『【自】 アンコール ［(1)］』を与える。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

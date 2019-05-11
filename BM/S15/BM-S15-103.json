@@ -1,0 +1,30 @@
+{
+	"set": "BM",
+	"setName": "2011年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "15",
+	"id": "103",
+	"name": "",
+	"jpName": "深窓の令嬢 戦場ヶ原ひたぎ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《怪異》のキャラを1枚選び、手札に戻してよい。",
+		"【起】[あなたの《怪異》のキャラを2枚【レスト】する] そのターン中、このカードのパワーを＋2500。"
+	],
+	"specialAttrib": [
+		"怪異",
+		"文房具"
+	]
+}

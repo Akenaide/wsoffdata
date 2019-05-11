@@ -1,0 +1,29 @@
+{
+	"set": "SAO",
+	"setName": "2012年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "20",
+	"id": "T05",
+	"name": "",
+	"jpName": "熟練の料理スキル アスナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《アバター》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

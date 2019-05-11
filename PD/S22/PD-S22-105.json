@@ -1,0 +1,29 @@
+{
+	"set": "PD",
+	"setName": "2013年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "22",
+	"id": "105",
+	"name": "",
+	"jpName": "初音ミク“オリジナル”",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+		"【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

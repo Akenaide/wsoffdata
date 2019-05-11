@@ -1,0 +1,29 @@
+{
+	"set": "IM",
+	"setName": "アニメ「アイドルマスター」",
+	"side": "S",
+	"release": "21",
+	"id": "011",
+	"name": "",
+	"jpName": "秘密の歌姫 小鳥",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "9500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを山札に戻す。その山札をシャッフルする。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ドレス"
+	]
+}

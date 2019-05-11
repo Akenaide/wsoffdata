@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "劇場版 ソードアート・オンライン -オーディナル・スケール-",
+	"side": "S",
+	"release": "51",
+	"id": "093",
+	"name": "",
+	"jpName": "緊急参戦 クライン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《アバター》か《ネット》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	]
+}

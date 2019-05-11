@@ -1,0 +1,29 @@
+{
+	"set": "DC3",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "PR",
+	"id": "002",
+	"name": "",
+	"jpName": "やれやれ シャルル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の《新聞》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"新聞",
+		"生徒会"
+	]
+}

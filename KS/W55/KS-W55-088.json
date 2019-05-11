@@ -1,0 +1,30 @@
+{
+	"set": "KS",
+	"setName": "この素晴らしい世界に祝福を！２",
+	"side": "W",
+	"release": "55",
+	"id": "088",
+	"name": "",
+	"jpName": "“我こそは”アクア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、他のあなたの、《冒険者》か《女神》か《アクシズ教徒》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【永】 相手の《死》のキャラがいるなら、このカードは『【永】 大活躍』を得る。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"女神"
+	]
+}

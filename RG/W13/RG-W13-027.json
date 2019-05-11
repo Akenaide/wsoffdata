@@ -1,0 +1,30 @@
+{
+	"set": "RG",
+	"setName": "禁書目録II＆超電磁砲",
+	"side": "W",
+	"release": "13",
+	"id": "027",
+	"name": "",
+	"jpName": "水辺の佐天",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。",
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、次の相手のターンの終わりまで、相手はイベントを手札からプレイできない。"
+	],
+	"specialAttrib": [
+		"特徴なし"
+	]
+}

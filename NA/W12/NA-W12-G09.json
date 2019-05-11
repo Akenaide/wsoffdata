@@ -1,0 +1,30 @@
+{
+	"set": "NA",
+	"setName": "2011年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "12",
+	"id": "G09",
+	"name": "",
+	"jpName": "高速戦魔導師 フェイト",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のカード名に「なのは」を含むキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたのキャラすべてに、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クローン"
+	]
+}

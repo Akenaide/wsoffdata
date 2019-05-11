@@ -1,0 +1,30 @@
+{
+	"set": "NS",
+	"setName": "なのはStrikerS",
+	"side": "W",
+	"release": "04",
+	"id": "011",
+	"name": "",
+	"jpName": "キャロ＆ヴォルテール",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(4)］ あなたのクライマックス置場に「龍騎招来」が置かれた時、他のあなたのキャラがいないなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラすべてを、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"竜"
+	]
+}

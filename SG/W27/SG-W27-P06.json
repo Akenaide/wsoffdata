@@ -1,0 +1,30 @@
+{
+	"set": "SG",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "27",
+	"id": "P06",
+	"name": "",
+	"jpName": "信じる仲間 クリス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列の右の枠にこのカードがいるなら、このカードのパワーを＋1000。",
+		"【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}

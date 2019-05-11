@@ -1,0 +1,28 @@
+{
+	"set": "SG",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "39",
+	"id": "P12",
+	"name": "",
+	"jpName": "脅威に立ち向かう響",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

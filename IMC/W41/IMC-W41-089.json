@@ -1,0 +1,30 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "41",
+	"id": "089",
+	"name": "",
+	"jpName": "高垣 楓",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列の中央の枠にこのカードがいるなら、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"神秘"
+	]
+}

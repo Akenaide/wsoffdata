@@ -1,0 +1,30 @@
+{
+	"set": "IM",
+	"setName": "THE IDOLM@STER",
+	"side": "S",
+	"release": "07",
+	"id": "012",
+	"name": "",
+	"jpName": "いたずら好きな亜美＆真美",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【起】［このカードを思い出にする］ あなたは自分の控え室の「双海 亜美」を1枚までと「双海 真美」を1枚まで選び、舞台の別々の枠に置く。そのターン中、それらのキャラのパワーを＋3000し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"双子"
+	]
+}

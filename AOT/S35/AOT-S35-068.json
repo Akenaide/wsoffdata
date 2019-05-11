@@ -1,0 +1,30 @@
+{
+	"set": "AOT",
+	"setName": "進撃の巨人",
+	"side": "S",
+	"release": "35",
+	"id": "068",
+	"name": "",
+	"jpName": "“第104期訓練兵団”ジャン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋2000。",
+		"【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
+	],
+	"specialAttrib": [
+		"兵団",
+		"武器"
+	]
+}

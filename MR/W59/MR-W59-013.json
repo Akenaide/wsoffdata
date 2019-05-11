@@ -1,0 +1,30 @@
+{
+	"set": "MR",
+	"setName": "マギアレコード 魔法少女まどか☆マギカ外伝",
+	"side": "W",
+	"release": "59",
+	"id": "013",
+	"name": "",
+	"jpName": "“光、降り注いで”フェリシア＆さな",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、相手の前列のキャラすべてに、そのターン中、パワーを?1000。",
+		"【起】【カウンター】 助太刀0 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋0）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"アビリティ"
+	]
+}

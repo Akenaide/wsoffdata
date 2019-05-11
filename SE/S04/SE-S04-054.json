@@ -1,0 +1,30 @@
+{
+	"set": "SE",
+	"setName": "シャイニング・フォース イクサ",
+	"side": "S",
+	"release": "04",
+	"id": "054",
+	"name": "",
+	"jpName": "魔女アミタリリ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"魔法"
+	]
+}

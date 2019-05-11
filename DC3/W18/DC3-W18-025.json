@@ -1,0 +1,30 @@
+{
+	"set": "DC3",
+	"setName": "D.C.III～ダ・カーポIII～",
+	"side": "W",
+	"release": "18",
+	"id": "025",
+	"name": "",
+	"jpName": "ふたりの記念 サラ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックス置場に「“大好き”の証拠」が置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"スポーツ"
+	]
+}

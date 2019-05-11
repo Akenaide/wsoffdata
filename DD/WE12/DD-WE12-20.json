@@ -1,0 +1,30 @@
+{
+	"set": "DD",
+	"setName": "DOG DAYS",
+	"side": "W",
+	"release": "E12",
+	"id": "20",
+	"name": "",
+	"jpName": "リコッタ・エルマール",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ あなたのクライマックス置場に「リコのサポート」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。",
+		"【起】［あなたの《動物》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"動物",
+		"科学"
+	]
+}

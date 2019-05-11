@@ -1,0 +1,30 @@
+{
+	"set": "AW",
+	"setName": "2012年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "18",
+	"id": "102",
+	"name": "",
+	"jpName": "奇跡の生還 黒雪姫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【起】［(1) このカードを【レスト】する］ あなたは相手のレベル0以下のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"生徒会",
+		"アバター"
+	]
+}

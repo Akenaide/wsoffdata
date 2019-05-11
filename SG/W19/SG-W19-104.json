@@ -1,0 +1,30 @@
+{
+	"set": "SG",
+	"setName": "2012年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "19",
+	"id": "104",
+	"name": "",
+	"jpName": "シンフォギアの装者 翼",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000し、ソウルを＋1。",
+		"【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"set": "PD",
+	"setName": "初音ミク -Project DIVA- f",
+	"side": "S",
+	"release": "22",
+	"id": "064",
+	"name": "",
+	"jpName": "巡音ルカ“アムール”",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"愛"
+	]
+}

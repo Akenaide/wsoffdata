@@ -1,0 +1,29 @@
+{
+	"set": "LB",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E21",
+	"id": "P01",
+	"name": "",
+	"jpName": "秘球！？にゃんこアタック！ 鈴",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたの《動物》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"動物",
+		"スポーツ"
+	]
+}

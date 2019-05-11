@@ -1,0 +1,30 @@
+{
+	"set": "DC",
+	"setName": "D.C. D.C.II",
+	"side": "W",
+	"release": "01",
+	"id": "005",
+	"name": "",
+	"jpName": "鷺澤 頼子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、ソウルを＋1。",
+		"【自】 他のあなたのキャラとバトルしているキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"動物",
+		"メイド"
+	]
+}

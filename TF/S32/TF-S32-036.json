@@ -1,0 +1,29 @@
+{
+	"set": "TF",
+	"setName": "テラフォーマーズ",
+	"side": "S",
+	"release": "32",
+	"id": "036",
+	"name": "",
+	"jpName": "“アネックス1号の乗組員”シーラ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《改造》のキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「マルコス」か「アレックス」か「小吉」を含むキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"改造"
+	]
+}

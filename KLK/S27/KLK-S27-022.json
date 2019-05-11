@@ -1,0 +1,30 @@
+{
+	"set": "KLK",
+	"setName": "キルラキル",
+	"side": "S",
+	"release": "27",
+	"id": "022",
+	"name": "",
+	"jpName": "運命の糸車 縫",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《服》なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置いてよい。そうしたら、相手は自分の控え室のレベル0以下のキャラを1枚まで選び、そのキャラがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"服",
+		"眼帯"
+	]
+}

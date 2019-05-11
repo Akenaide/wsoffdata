@@ -1,0 +1,30 @@
+{
+	"set": "KS",
+	"setName": "この素晴らしい世界に祝福を！",
+	"side": "W",
+	"release": "49",
+	"id": "027",
+	"name": "",
+	"jpName": "“アイデアの聴取”クリス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場に「“スティール成功…？”クリス」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《冒険者》のキャラが4枚以上なら、あなたは自分の控え室の《冒険者》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"盗賊"
+	]
+}

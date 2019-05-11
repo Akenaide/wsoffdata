@@ -1,0 +1,30 @@
+{
+	"set": "GF",
+	"setName": "2014年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "33",
+	"id": "T19",
+	"name": "",
+	"jpName": "貴方への本 村上文緒",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
+		"【起】［(1) このカードを【レスト】する］ あなたは自分のキャラを2枚まで選び、次の相手のターンの終わりまで、『【自】アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
+	],
+	"specialAttrib": [
+		"ガール",
+		"本"
+	]
+}

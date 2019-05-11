@@ -1,0 +1,30 @@
+{
+	"set": "MM",
+	"setName": "魔法少女まどか☆マギカ",
+	"side": "W",
+	"release": "17",
+	"id": "038",
+	"name": "",
+	"jpName": "暁美 ほむら",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのストックが4枚以下なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］ 』を得る。",
+		"【永】 このカードの正面のキャラのソウルを－1。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"時間"
+	]
+}

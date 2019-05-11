@@ -1,0 +1,30 @@
+{
+	"set": "PY",
+	"setName": "ぷよぷよ",
+	"side": "S",
+	"release": "38",
+	"id": "045",
+	"name": "",
+	"jpName": "オトモから逃げまわる さかな王子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは自分の山札を上から3枚まで見て、「みどりぷよ」を1枚まで選んで相手に見せ、ストック置場に置き、残りのカードを控え室に置く。",
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"ぷよ",
+		"王族"
+	]
+}

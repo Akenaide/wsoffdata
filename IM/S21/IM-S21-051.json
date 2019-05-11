@@ -1,0 +1,29 @@
+{
+	"set": "IM",
+	"setName": "アニメ「アイドルマスター」",
+	"side": "S",
+	"release": "21",
+	"id": "051",
+	"name": "",
+	"jpName": "みんなといっしょに！ 響",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたの、《音楽》かカード名に「ハム蔵」を含むキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"動物"
+	]
+}

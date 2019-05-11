@@ -1,0 +1,30 @@
+{
+	"set": "DS2",
+	"setName": "TVアニメ「デビルサバイバー2」",
+	"side": "S",
+	"release": "E16",
+	"id": "19",
+	"name": "",
+	"jpName": "姉御肌 ヒナコ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"サマナー",
+		"メガネ"
+	]
+}

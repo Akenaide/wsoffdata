@@ -1,0 +1,30 @@
+{
+	"set": "CC",
+	"setName": "[TD+]チェインクロニクル ～ヘクセイタスの閃～",
+	"side": "S",
+	"release": "48",
+	"id": "T12",
+	"name": "",
+	"jpName": "マナの才能 アラム",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの「未来へ託す ユーリ」がいるなら、このカードのパワーを＋4000。",
+		"【永】 他のあなたの《マナ》のキャラ1枚につき、このカードのパワーを＋500。"
+	],
+	"specialAttrib": [
+		"マナ",
+		"武器"
+	]
+}

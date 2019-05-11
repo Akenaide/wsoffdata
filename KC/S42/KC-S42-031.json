@@ -1,0 +1,31 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+	"side": "S",
+	"release": "42",
+	"id": "031",
+	"name": "",
+	"jpName": "Bismarck級戦艦1番艦 Bismarck drei",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「Bismarck級戦艦1番艦 Bismarck」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+		"【自】 このカードがアタックした時、クライマックス置場に「艦隊戦か…腕が鳴るわね！」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"戦艦"
+	]
+}

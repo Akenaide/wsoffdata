@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "艦隊これくしょん -艦これ-",
+	"side": "S",
+	"release": "25",
+	"id": "159",
+	"name": "",
+	"jpName": "妙高型重巡2番艦 那智",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《艦娘》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"重巡洋艦"
+	]
+}

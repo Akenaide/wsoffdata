@@ -1,0 +1,29 @@
+{
+	"set": "RN",
+	"setName": "ロボティクス・ノーツ",
+	"side": "W",
+	"release": "16",
+	"id": "030",
+	"name": "",
+	"jpName": "初めての対戦 綯",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 バトル中のこのカードが【リバース】した時、他のあなたの《科学》のキャラが3枚以上なら、あなたはこのカードをストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"科学",
+		"スポーツ"
+	]
+}

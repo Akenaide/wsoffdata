@@ -1,0 +1,30 @@
+{
+	"set": "SB",
+	"setName": "2009年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "06",
+	"id": "T13",
+	"name": "",
+	"jpName": "“天衣無縫”長曾我部 元親",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《武器》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+		"【自】 他のあなたの《眼帯》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"武器",
+		"眼帯"
+	]
+}

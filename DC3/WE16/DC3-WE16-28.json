@@ -1,0 +1,30 @@
+{
+	"set": "DC3",
+	"setName": "アニメ「D.C.III～ダ・カーポIII～」",
+	"side": "W",
+	"release": "E16",
+	"id": "28",
+	"name": "",
+	"jpName": "放課後の約束 さら",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《新聞》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《新聞》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"新聞",
+		"スポーツ"
+	]
+}

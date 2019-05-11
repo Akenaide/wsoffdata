@@ -1,0 +1,30 @@
+{
+	"set": "KF",
+	"setName": "THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "05",
+	"id": "026",
+	"name": "",
+	"jpName": "冷徹なる暗殺者ハイデルン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《軍隊》のキャラすべてに、パワーを＋500。",
+		"【自】 相手が『【自】 アンコール』を使った時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。（ルールによる『【自】 アンコール ［(3)］』も含む）"
+	],
+	"specialAttrib": [
+		"軍隊",
+		"眼帯"
+	]
+}

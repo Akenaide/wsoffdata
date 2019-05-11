@@ -1,0 +1,30 @@
+{
+	"set": "NA",
+	"setName": "2011年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "12",
+	"id": "G10",
+	"name": "",
+	"jpName": "砲撃魔導師 なのは",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【自】［(3)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	]
+}

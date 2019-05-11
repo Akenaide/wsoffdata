@@ -1,0 +1,30 @@
+{
+	"set": "KS",
+	"setName": "[TD+]この素晴らしい世界に祝福を！",
+	"side": "W",
+	"release": "49",
+	"id": "T09",
+	"name": "",
+	"jpName": "我が名はめぐみん",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《冒険者》か《魔法》のキャラの枚数×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《冒険者》か《魔法》のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"魔法"
+	]
+}

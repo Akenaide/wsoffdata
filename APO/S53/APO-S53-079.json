@@ -1,0 +1,31 @@
+{
+	"set": "APO",
+	"setName": "Fate/Apocrypha",
+	"side": "S",
+	"release": "53",
+	"id": "079",
+	"name": "",
+	"jpName": "ゴルド・ムジーク・ユグドミレニア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「ホムンクルス」すべてに、パワーを＋1000。",
+		"【永】 応援 このカードの前のあなたの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《ホムンクルス》のキャラを1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"錬金術"
+	]
+}

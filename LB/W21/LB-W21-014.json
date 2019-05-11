@@ -1,0 +1,30 @@
+{
+	"set": "LB",
+	"setName": "アニメ「リトルバスターズ！」",
+	"side": "W",
+	"release": "21",
+	"id": "014",
+	"name": "",
+	"jpName": "“筋肉危機一髪”真人",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてに、そのターン中、《筋肉》を与える。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"筋肉",
+		"武器"
+	]
+}

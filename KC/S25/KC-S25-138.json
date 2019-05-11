@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "艦隊これくしょん -艦これ-",
+	"side": "S",
+	"release": "25",
+	"id": "138",
+	"name": "",
+	"jpName": "飛龍型正規空母 飛龍",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「二航戦出撃します！」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+		"【自】 あなたのドローフェイズの始めに、他のあなたの前列のキャラがいないなら、そのターン中、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"正規空母"
+	]
+}

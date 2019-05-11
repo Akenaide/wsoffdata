@@ -1,0 +1,30 @@
+{
+	"set": "P5",
+	"setName": "ペルソナ５",
+	"side": "S",
+	"release": "45",
+	"id": "007",
+	"name": "",
+	"jpName": "竜司＆キャプテン・キッド / SKULL",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ほんと、待たせちまったな」があるなら、あなたは他の自分のキャラを1枚までと相手のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"怪盗",
+		"スポーツ"
+	]
+}

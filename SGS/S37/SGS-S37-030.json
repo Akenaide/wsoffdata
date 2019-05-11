@@ -1,0 +1,28 @@
+{
+	"set": "SGS",
+	"setName": "スクールガールストライカーズ",
+	"side": "S",
+	"release": "37",
+	"id": "030",
+	"name": "",
+	"jpName": "情報通 アコ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの《ストライカー》のキャラが2枚以上なら、このカードのパワーを＋1000し、このカードは《情報》を得る。",
+		"【自】 このカードがアタックした時、あなたは自分の《ストライカー》のキャラを2枚まで選び、そのターン中、パワーを＋500し、《情報》を与える。"
+	],
+	"specialAttrib": [
+		"ストライカー",
+		"新聞"
+	]
+}

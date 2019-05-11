@@ -1,0 +1,31 @@
+{
+	"set": "GBS",
+	"setName": "ゴブリンスレイヤー",
+	"side": "S",
+	"release": "63",
+	"id": "020",
+	"name": "",
+	"jpName": "最後の戦い 剣聖",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの「最後の戦い 勇者」がいるなら、このカードのパワーを＋4000。",
+		"【自】 このカードがアタックした時、あなたは他の自分の「最後の戦い 勇者」を1枚選び、そのターン中、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"秩序",
+		"冒険者",
+		"‐"
+	]
+}

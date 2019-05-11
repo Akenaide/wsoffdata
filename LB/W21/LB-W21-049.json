@@ -1,0 +1,30 @@
+{
+	"set": "LB",
+	"setName": "アニメ「リトルバスターズ！」",
+	"side": "W",
+	"release": "21",
+	"id": "049",
+	"name": "",
+	"jpName": "“心からの信頼”葉留佳",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"ビー玉",
+		"双子"
+	]
+}

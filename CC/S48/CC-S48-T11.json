@@ -1,0 +1,30 @@
+{
+	"set": "CC",
+	"setName": "[TD+]チェインクロニクル ～ヘクセイタスの閃～",
+	"side": "S",
+	"release": "48",
+	"id": "T11",
+	"name": "",
+	"jpName": "未来へ託す ユーリ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの「マナの才能 アラム」がいるなら、このカードのパワーを＋4000。",
+		"【自】［手札の《マナ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マナの才能 アラム」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"マナ",
+		"武器"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "MB",
+	"setName": "MELTY BLOOD",
+	"side": "S",
+	"release": "10",
+	"id": "018",
+	"name": "",
+	"jpName": "真祖殺しの真祖 アルクェイド",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列のカード名に「志貴」を含むキャラがいるなら、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"王族",
+		"血"
+	]
+}

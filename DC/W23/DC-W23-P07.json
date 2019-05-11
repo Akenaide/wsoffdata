@@ -1,0 +1,31 @@
+{
+	"set": "DC",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "23",
+	"id": "P07",
+	"name": "",
+	"jpName": "本物の笑顔 ことり",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 この能力は1ターンにつき2回まで発動する。あなたのキャラが手札からクロック置場に置かれた時、そのターン中、このカードのパワーを＋3000。",
+		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+		"【起】［あなたの《音楽》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"音楽"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "IM",
+	"setName": "THE IDOLM@STER",
+	"side": "S",
+	"release": "07",
+	"id": "043",
+	"name": "",
+	"jpName": "正義の味方 響",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《動物》のキャラすべてに、そのターン中、《愛》を与える。",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"動物"
+	]
+}

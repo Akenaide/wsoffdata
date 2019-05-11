@@ -1,0 +1,30 @@
+{
+	"set": "CL",
+	"setName": "CLANNAD Vol.01",
+	"side": "W",
+	"release": "E01",
+	"id": "22",
+	"name": "",
+	"jpName": "名誉図書委員ことみ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《本》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"本",
+		"音楽"
+	]
+}

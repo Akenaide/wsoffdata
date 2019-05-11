@@ -1,0 +1,29 @@
+{
+	"set": "DS2",
+	"setName": "TVアニメ「デビルサバイバー2」",
+	"side": "S",
+	"release": "E16",
+	"id": "10",
+	"name": "",
+	"jpName": "人見知り イオ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 他のあなたの《サマナー》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"サマナー"
+	]
+}

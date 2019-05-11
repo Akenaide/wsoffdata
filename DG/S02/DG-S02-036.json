@@ -1,0 +1,30 @@
+{
+	"set": "DG",
+	"setName": "魔界戦記ディスガイア",
+	"side": "S",
+	"release": "02",
+	"id": "036",
+	"name": "",
+	"jpName": "“愛マニア”フロン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】他のあなたの、《愛》かカード名に「愛」を含むキャラすべてに、パワーを＋1000。",
+		"【自】 あなたのクライマックス置場に「悪魔にも愛を」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"天使",
+		"愛"
+	]
+}
