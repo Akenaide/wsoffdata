@@ -1,0 +1,28 @@
+{
+	"set": "SY",
+	"setName": "パワーアップセット 涼宮ハルヒの憂鬱",
+	"side": "W",
+	"release": "P02",
+	"id": "01",
+	"name": "",
+	"jpName": "ひと休み みくる",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "PS",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置いてよい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「ひと休み みくる」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"時間",
+		"SOS団"
+	]
+}

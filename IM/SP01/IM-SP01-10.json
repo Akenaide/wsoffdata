@@ -1,0 +1,31 @@
+{
+	"set": "IM",
+	"setName": "パワーアップセット アイドルマスター",
+	"side": "S",
+	"release": "P01",
+	"id": "10",
+	"name": "",
+	"jpName": "M@STERS OF IDOL WORLD!! 高槻やよい",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "PS",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「CM出演 やよい」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"カエル"
+	]
+}

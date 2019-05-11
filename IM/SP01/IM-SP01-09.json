@@ -1,0 +1,30 @@
+{
+	"set": "IM",
+	"setName": "パワーアップセット アイドルマスター",
+	"side": "S",
+	"release": "P01",
+	"id": "09",
+	"name": "",
+	"jpName": "M@STERS OF IDOL WORLD!! 天海春香",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "PS",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"お菓子"
+	]
+}
