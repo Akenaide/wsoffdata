@@ -2,6 +2,9 @@
 
 echo "yay"
 
+git fetch
+git checkout origin/master
+
 wsoffcli fetch 
 MYDATE=`date -I`
 git checkout -b $MYDATE
