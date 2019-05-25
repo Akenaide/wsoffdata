@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」",
+	"side": "S",
+	"release": "64",
+	"id": "026",
+	"name": "",
+	"jpName": "怪物の一睨 ライダー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「石化の魔眼」があるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 このカードの正面のキャラはフロントアタックできない。』『【永】 このカードの正面のキャラのパワーを－3000。』"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	]
+}

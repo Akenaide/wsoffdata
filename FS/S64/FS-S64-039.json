@@ -1,0 +1,31 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」",
+	"side": "S",
+	"release": "64",
+	"id": "039",
+	"name": "",
+	"jpName": "反英雄の騎兵 ライダー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 他のあなたの、《マスター》か《サーヴァント》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	]
+}

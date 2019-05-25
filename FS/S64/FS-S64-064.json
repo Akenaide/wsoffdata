@@ -1,0 +1,32 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」",
+	"side": "S",
+	"release": "64",
+	"id": "064",
+	"name": "",
+	"jpName": "圧倒する力 セイバーオルタ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+		""
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	]
+}

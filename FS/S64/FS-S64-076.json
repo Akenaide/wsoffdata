@@ -1,0 +1,31 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」",
+	"side": "S",
+	"release": "64",
+	"id": "076",
+	"name": "",
+	"jpName": "今後の方針 凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「曰くの英霊 アーチャー」すべてに、パワーを＋1000。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"宝石"
+	]
+}

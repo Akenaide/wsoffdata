@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」",
+	"side": "S",
+	"release": "64",
+	"id": "103",
+	"name": "",
+	"jpName": "petit 凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは、あなたの、《マスター》か《サーヴァント》のキャラが1枚以下なら、手札からプレイできない。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"宝石"
+	]
+}

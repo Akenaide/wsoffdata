@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」",
+	"side": "S",
+	"release": "64",
+	"id": "069",
+	"name": "",
+	"jpName": "譲らぬ攻防 セイバーオルタ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「約束された勝利の剣」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」",
+	"side": "S",
+	"release": "64",
+	"id": "031",
+	"name": "",
+	"jpName": "FLUFFY 桜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、緑かカード名に「士郎」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの緑のキャラが2枚以上なら、このカードは次の能力を得る。『【自】 このカードのバトル相手でレベル1以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「I\u0026#39;m starved!」があるなら、あなたは他の自分のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"愛"
+	]
+}

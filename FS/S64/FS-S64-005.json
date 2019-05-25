@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」",
+	"side": "S",
+	"release": "64",
+	"id": "005",
+	"name": "",
+	"jpName": "風纏う聖剣 セイバー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋2000。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたの、《マスター》か《サーヴァント》のキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	]
+}
