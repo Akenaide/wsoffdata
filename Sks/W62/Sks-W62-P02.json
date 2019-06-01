@@ -1,0 +1,31 @@
+{
+	"set": "Sks",
+	"setName": "PRカード【WSサイド】",
+	"side": "W",
+	"release": "62",
+	"id": "P02",
+	"name": "",
+	"jpName": "ゆんゆん＆めぐみん",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"冒険者",
+		"魔法"
+	]
+}
