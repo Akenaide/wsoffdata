@@ -1,0 +1,30 @@
+{
+	"set": "Fkz",
+	"setName": "富士見ファンタジア文庫",
+	"side": "W",
+	"release": "65",
+	"id": "011",
+	"name": "",
+	"jpName": "理想の目覚め セラ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《ファンタジア文庫》か《忍》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"忍",
+		"血"
+	]
+}

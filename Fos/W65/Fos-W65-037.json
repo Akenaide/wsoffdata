@@ -1,0 +1,31 @@
+{
+	"set": "Fos",
+	"setName": "富士見ファンタジア文庫",
+	"side": "W",
+	"release": "65",
+	"id": "037",
+	"name": "",
+	"jpName": "勇者のお母さん 真々子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラすべてに、そのターン中、パワーを－1500。",
+		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"家族",
+		"武器"
+	]
+}

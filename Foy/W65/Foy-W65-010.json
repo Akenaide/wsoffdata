@@ -1,0 +1,31 @@
+{
+	"set": "Foy",
+	"setName": "富士見ファンタジア文庫",
+	"side": "W",
+	"release": "65",
+	"id": "010",
+	"name": "",
+	"jpName": "乱世の渦中 信奈",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+		"【起】［(1)］ あなたは自分の、《ファンタジア文庫》か《戦国》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"戦国",
+		"姫大名"
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"set": "Fdd",
+	"setName": "富士見ファンタジア文庫",
+	"side": "W",
+	"release": "65",
+	"id": "043",
+	"name": "",
+	"jpName": "治癒の少女 アーシア",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《ファンタジア文庫》か《悪魔》のキャラすべてに、パワーを＋1500。",
+		"【永】【CXコンボ】 あなたのクライマックス置場に「初めてのお友達」があるなら、あなたのキャラすべてに、パワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"悪魔",
+		"僧侶"
+	]
+}
