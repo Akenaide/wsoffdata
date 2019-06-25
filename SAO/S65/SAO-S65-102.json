@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "65",
+	"id": "102",
+	"name": "",
+	"jpName": "水面のきらめき アリス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《フラクトライト》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札の《フラクトライト》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"フラクトライト",
+		"神聖術"
+	]
+}

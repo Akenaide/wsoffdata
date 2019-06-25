@@ -1,12 +1,11 @@
 #!/bin/sh
 
 echo "yay"
+MYDATE=`date -I`
 
 git pull
 
-wsoffcli fetch 
-MYDATE=`date -I`
-git add .
+wsoffcli fetch && git add .
 git commit -m $MYDATE
 git push
 

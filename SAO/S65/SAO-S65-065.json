@@ -1,0 +1,25 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン アリシゼーション",
+	"side": "S",
+	"release": "65",
+	"id": "065",
+	"name": "",
+	"jpName": "敬神モジュール",
+	"cardType": "EV",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "0",
+	"soul": "0",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"このカードは、あなたのカード名に「アドミニストレータ」を含むキャラがいないなら、手札からプレイできない。",
+		"あなたは相手の後列のコスト1以下のキャラを1枚選び、控え室に置き、自分の控え室のレベルＸのキャラを1枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。Ｘはこの効果で控え室に置かれたキャラのコスト＋1に等しい。"
+	],
+	"specialAttrib": []
+}

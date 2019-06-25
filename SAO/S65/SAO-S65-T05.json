@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "[TD+]ソードアート・オンライン アリシゼーション",
+	"side": "S",
+	"release": "65",
+	"id": "T05",
+	"name": "",
+	"jpName": "“金木犀の騎士”アリス・シンセシス・サーティ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードはサイドアタックできない。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《フラクトライト》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"フラクトライト",
+		"整合騎士"
+	]
+}

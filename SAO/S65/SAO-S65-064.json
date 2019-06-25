@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン アリシゼーション",
+	"side": "S",
+	"release": "65",
+	"id": "064",
+	"name": "",
+	"jpName": "“剣の自動人形”ソードゴーレム",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "3",
+	"power": "9000",
+	"soul": "3",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「アドミニストレータ」か「クィネラ」を含むキャラがいるなら、このカードのパワーを＋1500。",
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"フラクトライト",
+		"武器"
+	]
+}
