@@ -1,0 +1,30 @@
+{
+	"set": "P4",
+	"setName": "TVアニメ「ペルソナ４」",
+	"side": "S",
+	"release": "E12",
+	"id": "41",
+	"name": "",
+	"jpName": "陽介＆ジライヤ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 手札のこのカードをプレイするにあたり、あなたは自分の「花村 陽介」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのソウルを＋1。"
+	],
+	"specialAttrib": [
+		"ジュネス",
+		"魔法"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "IM",
+	"setName": "アニメ「アイドルマスター」",
+	"side": "S",
+	"release": "21",
+	"id": "113",
+	"name": "",
+	"jpName": "伝説のアイドル舞",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【永】 このカードのパワーを＋Ｘ。Ｘは他のあなたのカード名に「愛」を含むキャラの中でレベルが1番高いキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックス置場に「ALIVE」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の「アイドルとしての才能 愛」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

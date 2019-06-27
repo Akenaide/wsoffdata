@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "艦隊これくしょん -艦これ-",
+	"side": "S",
+	"release": "25",
+	"id": "081",
+	"name": "",
+	"jpName": "金剛型戦艦2番艦 比叡改二",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "3",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR+",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×1000に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時か「金剛型戦艦2番艦 比叡」の【起】の効果で舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"戦艦"
+	]
+}

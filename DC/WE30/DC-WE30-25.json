@@ -1,0 +1,30 @@
+{
+	"set": "DC",
+	"setName": "ダ・カーポ vs リトルバスターズ！",
+	"side": "W",
+	"release": "E30",
+	"id": "25",
+	"name": "",
+	"jpName": "世話好き音夢",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《魔法》か《バナナ》か《風紀委員》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"風紀委員"
+	]
+}

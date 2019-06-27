@@ -1,0 +1,31 @@
+{
+	"set": "CL",
+	"setName": "CLANNAD Vol.03",
+	"side": "W",
+	"release": "E07",
+	"id": "69",
+	"name": "",
+	"jpName": "天才少女ことみ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、レベルを＋1。",
+		"【自】 あなたのドローフェイズの始めに、他のあなたのカード名に「朋也」を含むキャラがいないなら、このカードを【レスト】する。",
+		"【起】［(1) このカードを【レスト】する］ あなたは1枚引く。"
+	],
+	"specialAttrib": [
+		"本",
+		"音楽"
+	]
+}
