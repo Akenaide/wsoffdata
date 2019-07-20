@@ -1,0 +1,31 @@
+{
+	"set": "ND",
+	"setName": "魔法少女リリカルなのは Detonation",
+	"side": "W",
+	"release": "67",
+	"id": "028",
+	"name": "",
+	"jpName": "それぞれの戦い なのは",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《魔法》か《武器》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	]
+}

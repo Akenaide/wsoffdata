@@ -1,0 +1,29 @@
+{
+	"set": "ND",
+	"setName": "魔法少女リリカルなのは Detonation",
+	"side": "W",
+	"release": "67",
+	"id": "092",
+	"name": "",
+	"jpName": "過去を探る鍵 レヴィ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	]
+}

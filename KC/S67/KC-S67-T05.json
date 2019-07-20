@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "[TD+]艦隊これくしょん -艦これ-",
+	"side": "S",
+	"release": "67",
+	"id": "T05",
+	"name": "",
+	"jpName": "神威型補給艦1番艦 神威",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《艦娘》のキャラの枚数×1000に等しい。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"補給艦"
+	]
+}

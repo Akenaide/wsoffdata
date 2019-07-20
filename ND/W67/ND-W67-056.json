@@ -1,0 +1,30 @@
+{
+	"set": "ND",
+	"setName": "魔法少女リリカルなのは Detonation",
+	"side": "W",
+	"release": "67",
+	"id": "056",
+	"name": "",
+	"jpName": "時空管理局本局所属 はやて",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 この能力は1ターンにつき1回まで発動する。他のあなたの「ツインカノン はやて」が手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"本"
+	]
+}

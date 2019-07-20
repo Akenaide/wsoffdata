@@ -1,0 +1,29 @@
+{
+	"set": "ND",
+	"setName": "魔法少女リリカルなのは Detonation",
+	"side": "W",
+	"release": "67",
+	"id": "093",
+	"name": "",
+	"jpName": "主人への恩返し シュテル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「我等が渾身の恩返し」があるなら、あなたは自分の山札を上から1枚見て、《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	]
+}
