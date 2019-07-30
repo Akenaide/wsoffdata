@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」5th Phase",
+	"side": "S",
+	"release": "67",
+	"id": "075",
+	"name": "",
+	"jpName": "Nelson級戦艦1番艦 Nelson",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［(3) 【スタンド】しているこのカードを【レスト】する］ あなたのクライマックス置場に「行くぞ、もう一撃だ！」が置かれた時、前列の中央の枠にこのカードがいて、他のあなたの《艦娘》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、Nelson Touchする。",
+		"【リプレイ】 Nelson Touch あなたの前列のキャラすべてに、そのターン中、次の能力を与える。『【自】 あなたのアタックフェイズの始めに、相手にＸダメージを与える。Ｘはこのカードのソウルに等しい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"戦艦"
+	]
+}

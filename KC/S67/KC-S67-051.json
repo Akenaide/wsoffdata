@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」5th Phase",
+	"side": "S",
+	"release": "67",
+	"id": "051",
+	"name": "",
+	"jpName": "Lexington級正規空母2番艦 Saratoga Mk.II",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「サラの子たち、いい？」が置かれた時、あなたは自分の控え室の《艦娘》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"正規空母"
+	]
+}

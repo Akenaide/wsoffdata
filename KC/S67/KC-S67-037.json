@@ -1,0 +1,29 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」5th Phase",
+	"side": "S",
+	"release": "67",
+	"id": "037",
+	"name": "",
+	"jpName": "綾波型駆逐艦5番艦 天霧",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"駆逐艦"
+	]
+}

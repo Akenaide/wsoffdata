@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」5th Phase",
+	"side": "S",
+	"release": "67",
+	"id": "090",
+	"name": "",
+	"jpName": "最上型軽空母3番艦 鈴谷航改二",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［あなたのキャラを2枚【レスト】する］ このカードを控え室に置く。あなたは自分の控え室の「最上型航空巡洋艦3番艦 鈴谷改二」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"軽空母"
+	]
+}

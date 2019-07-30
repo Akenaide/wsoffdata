@@ -1,0 +1,30 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」5th Phase",
+	"side": "S",
+	"release": "67",
+	"id": "092",
+	"name": "",
+	"jpName": "Ark Royal級正規空母 Ark Royal",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《艦娘》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたは相手のキャラを1枚まで選び、そのターン中、ソウルを＋4し、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"正規空母"
+	]
+}
