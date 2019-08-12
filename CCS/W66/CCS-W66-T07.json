@@ -1,0 +1,29 @@
+{
+	"set": "CCS",
+	"setName": "[TD+]カードキャプターさくら クリアカード編",
+	"side": "W",
+	"release": "66",
+	"id": "T07",
+	"name": "",
+	"jpName": "“さくらの下の再会”李小狼",
+	"cardType": "種類：",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "6000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「桜」を含むキャラがいるなら、このカードのパワーを＋3000。\n【自】 他のあなたの《クリアカード編》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クリアカード編"
+	]
+}
