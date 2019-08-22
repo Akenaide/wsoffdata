@@ -1,0 +1,31 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら クリアカード編",
+	"side": "W",
+	"release": "66",
+	"id": "080",
+	"name": "",
+	"jpName": "“恋する”詩之本秋穂",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 舞台のこのカードのレベルを－3。",
+		"【永】 他のあなたの《クリアカード編》のキャラすべてに、パワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"本",
+		"クリアカード編"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら クリアカード編",
+	"side": "W",
+	"release": "66",
+	"id": "094",
+	"name": "",
+	"jpName": "“みんなでお花見”木之本桜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】【CXコンボ】［(1)］ あなたのキャラのトリガーチェックで「護る者同士」か「正反対の二人」がでた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クリアカード編"
+	]
+}

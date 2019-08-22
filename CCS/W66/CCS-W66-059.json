@@ -1,0 +1,30 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら クリアカード編",
+	"side": "W",
+	"release": "66",
+	"id": "059",
+	"name": "",
+	"jpName": "“なかよしのふたり”桜＆知世",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《クリアカード編》のキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クリアカード編"
+	]
+}

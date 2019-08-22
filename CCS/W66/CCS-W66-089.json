@@ -1,0 +1,30 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら クリアカード編",
+	"side": "W",
+	"release": "66",
+	"id": "089",
+	"name": "",
+	"jpName": "“とろける”木之本桜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラは他の枠に動かせない。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クリアカード編"
+	]
+}

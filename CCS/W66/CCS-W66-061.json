@@ -1,0 +1,30 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら クリアカード編",
+	"side": "W",
+	"release": "66",
+	"id": "061",
+	"name": "",
+	"jpName": "“凛々しい王子様”木之本桜",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《クリアカード編》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クリアカード編"
+	]
+}
