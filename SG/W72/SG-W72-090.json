@@ -1,0 +1,30 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアXD UNLIMITED EXTEND",
+	"side": "W",
+	"release": "72",
+	"id": "090",
+	"name": "",
+	"jpName": "【羅刹零ノ型：知】翼",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場に「イグナイトモジュール」があるなら、このカードは次の能力を得る。『【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋4500。そうでないなら、このカードのパワーを－1500。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て「“剣にあらず”翼」を1枚まで選び、控え室に置き、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアXD UNLIMITED EXTEND",
+	"side": "W",
+	"release": "72",
+	"id": "014",
+	"name": "",
+	"jpName": "私服の未来",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「【我流・大地浸透勁：知】響」すべてに、パワーを＋1000。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}
