@@ -1,0 +1,29 @@
+{
+	"set": "SG",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "70",
+	"id": "P07",
+	"name": "",
+	"jpName": "休日のひととき 切歌\u0026調",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}
