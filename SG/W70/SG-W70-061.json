@@ -1,0 +1,30 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアAXZ",
+	"side": "W",
+	"release": "70",
+	"id": "061",
+	"name": "",
+	"jpName": "絆のユニゾン クリス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「Change the Future」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	]
+}
