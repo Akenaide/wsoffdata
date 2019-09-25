@@ -1,0 +1,31 @@
+{
+	"set": "CCS",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "66",
+	"id": "P03",
+	"name": "",
+	"jpName": "“新しい季節”木之本桜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《クリアカード編》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《クリアカード編》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クリアカード編",
+		"－"
+	]
+}
