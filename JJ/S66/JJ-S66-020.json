@@ -1,0 +1,30 @@
+{
+	"set": "JJ",
+	"setName": "ジョジョの奇妙な冒険 黄金の風",
+	"side": "S",
+	"release": "66",
+	"id": "020",
+	"name": "",
+	"jpName": "新たなる力 ジョルノ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋7500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「新たなる力 G・E」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"黄金の風",
+		"スタンド使い"
+	]
+}
