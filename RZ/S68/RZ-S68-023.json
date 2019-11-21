@@ -1,0 +1,30 @@
+{
+	"set": "RZ",
+	"setName": "Re:ゼロから始める異世界生活 Memory Snow",
+	"side": "S",
+	"release": "68",
+	"id": "023",
+	"name": "",
+	"jpName": "夜空に輝くスバル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《Memory Snow》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場の「何でもお任せ レム」が2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"Memory Snow"
+	]
+}

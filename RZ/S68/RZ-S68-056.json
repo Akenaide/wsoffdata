@@ -1,0 +1,31 @@
+{
+	"set": "RZ",
+	"setName": "Re:ゼロから始める異世界生活 Memory Snow",
+	"side": "S",
+	"release": "68",
+	"id": "056",
+	"name": "",
+	"jpName": "瞳に映る世界 エミリア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の「何でもお任せ レム」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"Memory Snow"
+	]
+}

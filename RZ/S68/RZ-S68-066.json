@@ -1,0 +1,30 @@
+{
+	"set": "RZ",
+	"setName": "Re:ゼロから始める異世界生活 Memory Snow",
+	"side": "S",
+	"release": "68",
+	"id": "066",
+	"name": "",
+	"jpName": "でいとの朝 エミリア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【起】［あなたの《Memory Snow》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"Memory Snow"
+	]
+}

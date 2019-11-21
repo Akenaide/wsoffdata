@@ -1,0 +1,30 @@
+{
+	"set": "RZ",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "68",
+	"id": "103",
+	"name": "",
+	"jpName": "ドット レム [Memory Snow]",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《Memory Snow》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのキャラがダイレクトアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"Memory Snow"
+	]
+}

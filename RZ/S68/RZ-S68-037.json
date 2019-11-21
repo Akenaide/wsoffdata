@@ -1,0 +1,30 @@
+{
+	"set": "RZ",
+	"setName": "Re:ゼロから始める異世界生活 Memory Snow",
+	"side": "S",
+	"release": "68",
+	"id": "037",
+	"name": "",
+	"jpName": "嬉し気に毒を吐くラム",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"Memory Snow"
+	]
+}
