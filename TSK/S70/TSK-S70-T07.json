@@ -1,0 +1,30 @@
+{
+	"set": "TSK",
+	"setName": "[TD+]転生したらスライムだった件",
+	"side": "S",
+	"release": "70",
+	"id": "T07",
+	"name": "",
+	"jpName": "“自由組合の冒険者”エレン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《魔大陸》のキャラすべてに、パワーを＋1000。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"魔大陸",
+		"冒険者"
+	]
+}
