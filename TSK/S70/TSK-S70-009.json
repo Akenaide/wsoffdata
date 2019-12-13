@@ -1,0 +1,30 @@
+{
+	"set": "TSK",
+	"setName": "転生したらスライムだった件",
+	"side": "S",
+	"release": "70",
+	"id": "009",
+	"name": "",
+	"jpName": "共に歩む道 リムル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは相手の後列の、レベルが相手のレベルより高いキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
+	],
+	"specialAttrib": [
+		"魔大陸",
+		"スライム"
+	]
+}

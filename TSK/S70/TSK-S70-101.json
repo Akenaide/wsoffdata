@@ -1,0 +1,30 @@
+{
+	"set": "TSK",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "70",
+	"id": "101",
+	"name": "",
+	"jpName": "豊かな谷間のある生活 リムル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"魔大陸",
+		"煩悩"
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"set": "TSK",
+	"setName": "転生したらスライムだった件",
+	"side": "S",
+	"release": "70",
+	"id": "004",
+	"name": "",
+	"jpName": "居合の一撃 ハクロウ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラすべてに、そのターン中、パワーを－500。",
+		"【自】 このカードがアタックした時、あなたは他の自分の《魔大陸》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《魔大陸》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"魔大陸",
+		"剣術"
+	]
+}

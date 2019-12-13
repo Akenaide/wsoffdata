@@ -1,0 +1,30 @@
+{
+	"set": "TSK",
+	"setName": "転生したらスライムだった件",
+	"side": "S",
+	"release": "70",
+	"id": "092",
+	"name": "",
+	"jpName": "温泉で一息 リムル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《魔大陸》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札の《魔大陸》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"魔大陸",
+		"スライム"
+	]
+}

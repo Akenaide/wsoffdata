@@ -1,0 +1,30 @@
+{
+	"set": "TSK",
+	"setName": "転生したらスライムだった件",
+	"side": "S",
+	"release": "70",
+	"id": "072",
+	"name": "",
+	"jpName": "秘策 リムル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「窮余の一策」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"魔大陸",
+		"スライム"
+	]
+}
