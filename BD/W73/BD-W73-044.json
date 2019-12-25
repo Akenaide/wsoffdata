@@ -1,0 +1,30 @@
+{
+	"set": "BD",
+	"setName": "「BanG Dream!」Vol.2",
+	"side": "W",
+	"release": "73",
+	"id": "044",
+	"name": "",
+	"jpName": "狂犬 マスキング",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。",
+		"【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"RAISE A SUILEN"
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"set": "BD",
+	"setName": "「BanG Dream!」Vol.2",
+	"side": "W",
+	"release": "73",
+	"id": "074",
+	"name": "",
+	"jpName": "“重なる音楽”白鷺千聖",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「“カサナルユメ”マルヤマアヤ」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「雨上がり」があるなら、あなたは自分の控え室の《Pastel＊Palettes》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Pastel＊Palettes"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "73",
+	"id": "102",
+	"name": "",
+	"jpName": "止まらない音楽 丸山彩",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたの《Pastel＊Palettes》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《Pastel＊Palettes》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Pastel＊Palettes"
+	]
+}
