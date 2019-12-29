@@ -1,5 +1,4 @@
 #!/bin/bash
-echo $PATH
 
 echo "yay"
 MYDATE=`date -I`
