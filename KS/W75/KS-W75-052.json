@@ -1,0 +1,30 @@
+{
+	"set": "KS",
+	"setName": "この素晴らしい世界に祝福を！ Re:Edit",
+	"side": "W",
+	"release": "75",
+	"id": "052",
+	"name": "",
+	"jpName": "めぐみん\u0026ゆんゆん",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"魔法"
+	]
+}
