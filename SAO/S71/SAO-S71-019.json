@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "71",
+	"id": "019",
+	"name": "",
+	"jpName": "《オーディナル・スケール》  アスナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分の《Anniversary》のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【永】 このカードのバトル中、相手はイベントを手札からプレイできない。』』"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アバター"
+	]
+}
