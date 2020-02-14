@@ -1,0 +1,29 @@
+{
+	"set": "GRI",
+	"setName": "[TD+]グリザイアの果実",
+	"side": "S",
+	"release": "72",
+	"id": "T17",
+	"name": "",
+	"jpName": "勝者のご褒美 幸",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《グリザイア》のキャラ1枚につき、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"メイド"
+	]
+}

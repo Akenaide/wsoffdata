@@ -1,0 +1,30 @@
+{
+	"set": "GRI",
+	"setName": "[TD+]グリザイアの果実",
+	"side": "S",
+	"release": "72",
+	"id": "T06",
+	"name": "",
+	"jpName": "甘えん坊 蒔菜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"パン"
+	]
+}
