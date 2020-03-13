@@ -1,0 +1,29 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実",
+	"side": "S",
+	"release": "72",
+	"id": "065",
+	"name": "",
+	"jpName": "ずっとあなたと 天音＆雄二",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"グリザイア"
+	]
+}

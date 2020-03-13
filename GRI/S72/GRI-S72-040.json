@@ -1,0 +1,30 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実",
+	"side": "S",
+	"release": "72",
+	"id": "040",
+	"name": "",
+	"jpName": "レーゾン・デートル 由美子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《グリザイア》のキャラの枚数に等しい。",
+		"【起】［手札を2枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋7000。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"令嬢"
+	]
+}

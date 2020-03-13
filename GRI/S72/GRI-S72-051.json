@@ -1,0 +1,30 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実",
+	"side": "S",
+	"release": "72",
+	"id": "051",
+	"name": "",
+	"jpName": "懺悔の果実 天音",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《グリザイア》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】【CXコンボ】［手札の《グリザイア》のキャラを1枚控え室に置く］ あなたのクライマックス置場に「夏祭りの夜」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【スタンド】する。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"家事"
+	]
+}

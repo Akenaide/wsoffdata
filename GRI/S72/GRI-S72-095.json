@@ -1,0 +1,30 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実",
+	"side": "S",
+	"release": "72",
+	"id": "095",
+	"name": "",
+	"jpName": "高鳴る鼓動 由美子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《グリザイア》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《グリザイア》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"令嬢"
+	]
+}

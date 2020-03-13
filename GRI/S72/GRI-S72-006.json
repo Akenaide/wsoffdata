@@ -1,0 +1,30 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実",
+	"side": "S",
+	"release": "72",
+	"id": "006",
+	"name": "",
+	"jpName": "ニャンメルと一緒 みちる",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［(2) このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"ツンデレ"
+	]
+}

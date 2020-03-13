@@ -1,0 +1,30 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実",
+	"side": "S",
+	"release": "72",
+	"id": "043",
+	"name": "",
+	"jpName": "エンジェリックハウル 天音",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《グリザイア》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分のストックの上から1枚を、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"家事"
+	]
+}
