@@ -1,0 +1,30 @@
+{
+	"set": "SBY",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "77",
+	"id": "104",
+	"name": "",
+	"jpName": "ちびかえで",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《思春期》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《思春期》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。"
+	],
+	"specialAttrib": [
+		"思春期",
+		"動物"
+	]
+}
