@@ -1,0 +1,30 @@
+{
+	"set": "SKR",
+	"setName": "[TD+]新サクラ大戦",
+	"side": "S",
+	"release": "73",
+	"id": "T07",
+	"name": "",
+	"jpName": "ブリーフィング あざみ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《華撃団》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《華撃団》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"華撃団",
+		"忍"
+	]
+}

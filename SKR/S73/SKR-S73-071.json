@@ -1,0 +1,29 @@
+{
+	"set": "SKR",
+	"setName": "新サクラ大戦",
+	"side": "S",
+	"release": "73",
+	"id": "071",
+	"name": "",
+	"jpName": "帝都に現れた災禍 夜叉",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラすべてに、そのターン中、パワーを－1500。",
+		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+	],
+	"specialAttrib": [
+		"謎"
+	]
+}

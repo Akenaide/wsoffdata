@@ -1,0 +1,29 @@
+{
+	"set": "SKR",
+	"setName": "[TD+]新サクラ大戦",
+	"side": "S",
+	"release": "73",
+	"id": "T17",
+	"name": "",
+	"jpName": "帝劇のスタァ 初穂＆さくら",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"華撃団"
+	]
+}
