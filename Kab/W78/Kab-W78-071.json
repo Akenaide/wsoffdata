@@ -1,0 +1,28 @@
+{
+	"set": "Kab",
+	"setName": "Key 20th Anniversary",
+	"side": "W",
+	"release": "78",
+	"id": "071",
+	"name": "",
+	"jpName": "SSSの通信士 遊佐",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》か《死》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+		"【自】［手札の、《Anniversary》か《死》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"死"
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"set": "Kcl",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "78",
+	"id": "123",
+	"name": "",
+	"jpName": "快晴の下 杏",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(1) このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"双子",
+		"委員長"
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"set": "Klb",
+	"setName": "Key 20th Anniversary",
+	"side": "W",
+	"release": "78",
+	"id": "096",
+	"name": "",
+	"jpName": "えきぞちっく（自称）なマスコット クド",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「なかなか懐かない子猫 鈴」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《Anniversary》か《動物》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"動物"
+	]
+}

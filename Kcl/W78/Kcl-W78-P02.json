@@ -1,0 +1,29 @@
+{
+	"set": "Kcl",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "78",
+	"id": "P02",
+	"name": "",
+	"jpName": "好きな事には饒舌に 渚",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》か《だんご》のキャラなら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す）",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《Anniversary》か《だんご》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"演劇",
+		"だんご"
+	]
+}

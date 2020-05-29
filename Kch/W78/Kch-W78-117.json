@@ -1,0 +1,31 @@
+{
+	"set": "Kch",
+	"setName": "Key 20th Anniversary",
+	"side": "W",
+	"release": "78",
+	"id": "117",
+	"name": "",
+	"jpName": "迎春 友利 奈緒\u0026西森 柚咲",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、あなたはイベントと『助太刀』を、手札からプレイできない。』",
+		"【自】 このカードがアタックした時、あなたは自分の、《Anniversary》か《能力者》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの、《Anniversary》か《能力者》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"能力者",
+		"生徒会"
+	]
+}

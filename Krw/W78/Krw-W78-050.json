@@ -1,0 +1,31 @@
+{
+	"set": "Krw",
+	"setName": "Key 20th Anniversary",
+	"side": "W",
+	"release": "78",
+	"id": "050",
+	"name": "",
+	"jpName": "正義の委員長 ルチア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《Anniversary》かカード名に「ルチア」か「静流」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラすべてに、そのターン中、パワーを－2000。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"委員長",
+		"オカルト"
+	]
+}
