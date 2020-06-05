@@ -1,0 +1,30 @@
+{
+	"set": "LOD",
+	"setName": "ロストディケイド",
+	"side": "S",
+	"release": "74",
+	"id": "046",
+	"name": "",
+	"jpName": "烈火王座の主 フィア",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+		"【起】［このカードを思い出にする］ あなたは自分の山札を上から4枚まで見て、《冒険者》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"炎"
+	]
+}

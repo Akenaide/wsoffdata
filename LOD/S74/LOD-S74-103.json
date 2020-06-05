@@ -1,0 +1,30 @@
+{
+	"set": "LOD",
+	"setName": "ロストディケイド",
+	"side": "S",
+	"release": "74",
+	"id": "103",
+	"name": "",
+	"jpName": "さあメルキオールへ！ キャロライン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《冒険者》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札の《冒険者》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"科学"
+	]
+}
