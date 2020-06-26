@@ -1,0 +1,30 @@
+{
+	"set": "FGO",
+	"setName": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+	"side": "S",
+	"release": "75",
+	"id": "031",
+	"name": "",
+	"jpName": "賢王の号令 ギルガメッシュ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[TREASURE]なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"バビロニア",
+		"賢王"
+	]
+}

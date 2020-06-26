@@ -1,0 +1,30 @@
+{
+	"set": "FGO",
+	"setName": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+	"side": "S",
+	"release": "75",
+	"id": "102",
+	"name": "",
+	"jpName": "SD ギルガメッシュ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の上から3枚を、控え室に置く。",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"バビロニア",
+		"賢王"
+	]
+}

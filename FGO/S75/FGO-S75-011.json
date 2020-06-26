@@ -1,0 +1,30 @@
+{
+	"set": "FGO",
+	"setName": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+	"side": "S",
+	"release": "75",
+	"id": "011",
+	"name": "",
+	"jpName": "貫く覚悟 エレシュキガル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の、《カルデア》か《バビロニア》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「女神の矜持」があるなら、あなたは自分の山札を上から3枚まで見て、《カルデア》か《バビロニア》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"バビロニア",
+		"女神"
+	]
+}

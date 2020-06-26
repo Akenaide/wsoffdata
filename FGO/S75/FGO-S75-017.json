@@ -1,0 +1,30 @@
+{
+	"set": "FGO",
+	"setName": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+	"side": "S",
+	"release": "75",
+	"id": "017",
+	"name": "",
+	"jpName": "狂気の所業 ゴルゴーン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードはサイドアタックできない。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《カルデア》か《バビロニア》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"バビロニア",
+		"女神"
+	]
+}

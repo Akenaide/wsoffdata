@@ -1,0 +1,30 @@
+{
+	"set": "FGO",
+	"setName": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+	"side": "S",
+	"release": "75",
+	"id": "082",
+	"name": "",
+	"jpName": "振り上げる盾 マシュ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "6000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《カルデア》か《バビロニア》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"カルデア",
+		"シールダー"
+	]
+}
