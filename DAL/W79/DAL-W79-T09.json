@@ -1,0 +1,29 @@
+{
+	"set": "DAL",
+	"setName": "[TD+]デート・ア・ライブ",
+	"side": "W",
+	"release": "79",
+	"id": "T09",
+	"name": "",
+	"jpName": "溢れる気持ち 狂三",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《デート》か《精霊》のキャラ1枚につき、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	]
+}
