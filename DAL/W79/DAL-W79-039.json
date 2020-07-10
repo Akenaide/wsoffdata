@@ -1,0 +1,28 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ",
+	"side": "W",
+	"release": "79",
+	"id": "039",
+	"name": "",
+	"jpName": "咄嗟の判断 折紙",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"デート",
+		"AST"
+	]
+}

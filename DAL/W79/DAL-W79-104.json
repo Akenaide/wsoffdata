@@ -1,0 +1,30 @@
+{
+	"set": "DAL",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "79",
+	"id": "104",
+	"name": "",
+	"jpName": "複雑な心境 十香",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	]
+}

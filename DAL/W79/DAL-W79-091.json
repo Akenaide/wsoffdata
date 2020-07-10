@@ -1,0 +1,30 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ",
+	"side": "W",
+	"release": "79",
+	"id": "091",
+	"name": "",
+	"jpName": "青空の下で 十香",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《デート》か《精霊》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ",
+	"side": "W",
+	"release": "79",
+	"id": "062",
+	"name": "",
+	"jpName": "災厄の降臨 十香",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《デート》か《精霊》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 あなたのアタックフェイズの始めに、クライマックス置場に「怒りの矛先」があり、前列にこのカードがいるなら、あなたは他の自分の、《デート》か《精霊》のキャラを1枚選び、【スタンド】してよい。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	]
+}
