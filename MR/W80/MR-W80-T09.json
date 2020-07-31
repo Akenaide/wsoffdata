@@ -1,0 +1,29 @@
+{
+	"set": "MR",
+	"setName": "[TD+]TVアニメ「マギアレコード 魔法少女まどか☆マギカ外伝」",
+	"side": "W",
+	"release": "80",
+	"id": "T09",
+	"name": "",
+	"jpName": "メンバーのまとめ役 ももこ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《魔法》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】［(3)］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"魔法"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"set": "MR",
+	"setName": "[TD+]TVアニメ「マギアレコード 魔法少女まどか☆マギカ外伝」",
+	"side": "W",
+	"release": "80",
+	"id": "T17",
+	"name": "",
+	"jpName": "神浜西のテリトリー やちよ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《魔法》のキャラの枚数×1000に等しい。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"モデル"
+	]
+}

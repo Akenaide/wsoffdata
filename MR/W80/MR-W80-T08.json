@@ -1,0 +1,29 @@
+{
+	"set": "MR",
+	"setName": "[TD+]TVアニメ「マギアレコード 魔法少女まどか☆マギカ外伝」",
+	"side": "W",
+	"release": "80",
+	"id": "T08",
+	"name": "",
+	"jpName": "仲直り レナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたの《魔法》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。",
+		"【自】 アンコール ［手札の《魔法》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"魔法"
+	]
+}
