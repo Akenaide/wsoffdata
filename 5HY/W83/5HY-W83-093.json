@@ -1,0 +1,30 @@
+{
+	"set": "5HY",
+	"setName": "五等分の花嫁",
+	"side": "W",
+	"release": "83",
+	"id": "093",
+	"name": "",
+	"jpName": "おやすみ中 中野 二乃",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《五つ子》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［手札を1枚控え室に置く］ あなたのクライマックスフェイズ中かアタックフェイズ中、あなたのキャラが【スタンド】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"五つ子",
+		"料理"
+	]
+}

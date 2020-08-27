@@ -1,0 +1,30 @@
+{
+	"set": "5HY",
+	"setName": "五等分の花嫁　五月",
+	"side": "W",
+	"release": "83",
+	"id": "T87",
+	"name": "",
+	"jpName": "咲く火花 中野 五月",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《五つ子》のキャラの枚数×1000に等しい。",
+		"【自】 アンコール ［手札の《五つ子》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"五つ子",
+		"真面目"
+	]
+}
