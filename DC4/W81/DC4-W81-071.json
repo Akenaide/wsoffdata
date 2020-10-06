@@ -1,0 +1,32 @@
+{
+	"set": "DC4",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "071",
+	"name": "",
+	"jpName": "眩い満月 諳子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の緑のカードを1枚まで選び、ストック置場に置く。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「目覚めのキス」が置かれた時、前列にこのカードがいるなら、あなたは自分の、《Anniversary》か《魔法》のキャラを2枚まで選び、次の相手のターンの終わりまで、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"料理"
+	]
+}

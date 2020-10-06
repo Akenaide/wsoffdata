@@ -1,0 +1,31 @@
+{
+	"set": "DC",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "029",
+	"name": "",
+	"jpName": "無邪気な笑顔 美夏",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［手札を1枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のレベル0以下の、《Anniversary》か《メカ》か《委員長》のキャラを1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"メカ",
+		"バナナ"
+	]
+}

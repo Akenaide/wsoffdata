@@ -1,0 +1,29 @@
+{
+	"set": "DC4",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "084",
+	"name": "",
+	"jpName": "静かな決意 未羽",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「鏡の迷路」があり、他のあなたの、《Anniversary》か《魔法》のキャラがいるなら、そのターン中、このカードのパワーを＋1000し、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》か《魔法》のキャラなら手札に加える。（そうでないなら元に戻す）",
+		"【自】［手札を1枚控え室に置く］ あなたの「0から生まれる恋のフラグ ひより」が舞台から控え室に置かれた時、控え室にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に【レスト】して置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"風紀委員"
+	]
+}

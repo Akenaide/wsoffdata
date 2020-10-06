@@ -1,0 +1,32 @@
+{
+	"set": "DC4",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "074",
+	"name": "",
+	"jpName": "一緒にお料理 二乃",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《Anniversary》か《魔法》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《Anniversary》か《魔法》のキャラを1枚選び、思い出にしてよい。",
+		"【自】［(1)］ あなたがレベルアップした時、あなたはコストを払ってよい。そうしたら、あなたは自分の思い出置場の、《Anniversary》か《魔法》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"家族"
+	]
+}

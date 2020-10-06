@@ -1,0 +1,32 @@
+{
+	"set": "DC4",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "061",
+	"name": "",
+	"jpName": "ふたりの特別な時間 有里咲",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたは相手のキャラを1枚選び、手札に戻してよい。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。",
+		"【自】 記憶 ［手札を2枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたのレベルが3以上で、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"ー"
+	]
+}

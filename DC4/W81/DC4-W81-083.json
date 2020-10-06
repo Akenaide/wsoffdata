@@ -1,0 +1,32 @@
+{
+	"set": "DC4",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "083",
+	"name": "",
+	"jpName": "デートバトル延長決定！ ひより",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《魔法》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+		"【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「ナイスキャッチ！」があるなら、あなたは自分の山札の上から3枚を公開し、その山札をシャッフルする。それらのカードの持つ色の合計が2色なら、あなたは相手に1ダメージを与える。3色以上なら、あなたは相手に3ダメージを2回与える。（ダメージキャンセルは発生する）",
+		""
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"銃"
+	]
+}

@@ -1,0 +1,32 @@
+{
+	"set": "DC",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "008",
+	"name": "",
+	"jpName": "“Perfect affection”音姫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列にこのカードがいるなら、あなたの、《Anniversary》か《魔法》か《生徒会》のキャラすべてに、パワーを＋1500。",
+		"【永】 記憶 あなたの思い出が4枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』",
+		"【自】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、他のあなたの、《Anniversary》か《魔法》か《生徒会》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"生徒会"
+	]
+}

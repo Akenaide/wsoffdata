@@ -1,0 +1,31 @@
+{
+	"set": "DC",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "025",
+	"name": "",
+	"jpName": "“正義の魔法使い”音姫",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 あなたのクライマックス置場に「幸せの予感」が置かれた時、前列にこのカードがいて、他のあなたの、《Anniversary》か《魔法》か《生徒会》のキャラが4枚以上なら、あなたは自分の控え室の、「くすぐったい毎日 音姫」か「“Perfect affection”音姫」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋5000。",
+		"【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「くすぐったい毎日 音姫」か「“Perfect affection”音姫」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"生徒会"
+	]
+}

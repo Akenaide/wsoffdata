@@ -1,0 +1,31 @@
+{
+	"set": "DC",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "013",
+	"name": "",
+	"jpName": "桜内 音姫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《Anniversary》か《魔法》のキャラすべてに、パワーを＋1000。",
+		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「最後のお見舞い」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、相手はイベントと『助太刀』を手札からプレイできない。",
+		"【自】［(1) このカードを思い出にする］ あなたのアタックフェイズの始めに、あなたのレベルが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「付属制服の桜姫」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法"
+	]
+}
