@@ -1,0 +1,28 @@
+{
+	"set": "SMP",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "82",
+	"id": "P05",
+	"name": "",
+	"jpName": "“チャーハン・ラプソディ”うみ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋4000。",
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そうしたら、そのカードのトリガーアイコンの[SOUL]1つにつき、そのターン中、このカードのソウルを＋1。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"時間"
+	]
+}

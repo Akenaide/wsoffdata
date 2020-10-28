@@ -1,0 +1,31 @@
+{
+	"set": "SMP",
+	"setName": "Summer Pockets REFLECTION BLUE",
+	"side": "W",
+	"release": "82",
+	"id": "009",
+	"name": "",
+	"jpName": "“ひまわり畑”しろは",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《サマポケ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(2)］ このカードが手札から舞台に置かれた時、他のあなたのカード名に「“夏の思い出”」を含むキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"時間"
+	]
+}

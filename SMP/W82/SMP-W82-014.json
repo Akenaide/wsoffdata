@@ -1,0 +1,30 @@
+{
+	"set": "SMP",
+	"setName": "Summer Pockets REFLECTION BLUE",
+	"side": "W",
+	"release": "82",
+	"id": "014",
+	"name": "",
+	"jpName": "“ちょっとだけ……ばいばい”うみ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"時間"
+	]
+}
