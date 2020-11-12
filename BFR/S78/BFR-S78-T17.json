@@ -1,0 +1,30 @@
+{
+	"set": "BFR",
+	"setName": "[TD+]痛いのは嫌なので防御力に極振りしたいと思います。",
+	"side": "S",
+	"release": "78",
+	"id": "T17",
+	"name": "",
+	"jpName": "名脇役 イズ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"鍛冶"
+	]
+}
