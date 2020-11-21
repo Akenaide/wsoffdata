@@ -1,0 +1,29 @@
+{
+	"set": "BFR",
+	"setName": "痛いのは嫌なので防御力に極振りしたいと思います。",
+	"side": "S",
+	"release": "78",
+	"id": "074",
+	"name": "",
+	"jpName": "【毒竜】 メイプル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、相手のキャラすべてに、そのターン中、パワーを－1000。"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"盾"
+	]
+}

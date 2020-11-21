@@ -1,0 +1,30 @@
+{
+	"set": "BFR",
+	"setName": "痛いのは嫌なので防御力に極振りしたいと思います。",
+	"side": "S",
+	"release": "78",
+	"id": "096",
+	"name": "",
+	"jpName": "大海の衣 サリー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたは相手のキャラを1枚まで選び、そのターン中、ソウルを＋4し、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"武器"
+	]
+}
