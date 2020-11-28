@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」Vol.2",
+	"side": "S",
+	"release": "77",
+	"id": "058",
+	"name": "",
+	"jpName": "冷静沈着 凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】 集中 ［(3)］ あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の、《マスター》か《サーヴァント》のキャラを1枚選び、舞台の好きな枠に置く。Ｘはそれらのカードの、《マスター》か《サーヴァント》のキャラか「宝石剣ゼルレッチ」の枚数に等しい。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"宝石"
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」Vol.2",
+	"side": "S",
+	"release": "77",
+	"id": "050",
+	"name": "",
+	"jpName": "待ち構える者 セイバーオルタ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 あなたのクライマックス置場に「反転した極光」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《マスター》か《サーヴァント》か《影》のキャラなら、あなたは相手のキャラを2枚まで選び、そのターン中、パワーを－Ｘ。Ｘはあなたの「待ち構える者 セイバーオルタ」の枚数×1000に等しい。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	]
+}

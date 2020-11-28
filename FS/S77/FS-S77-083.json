@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」Vol.2",
+	"side": "S",
+	"release": "77",
+	"id": "083",
+	"name": "",
+	"jpName": "自嘲的な笑み イリヤ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《マスター》か《サーヴァント》のキャラすべてに、パワーを＋1500。",
+		"【起】［このカードを【レスト】する］ あなたは自分の手札を1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"ホムンクルス"
+	]
+}

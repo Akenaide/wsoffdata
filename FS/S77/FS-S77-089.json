@@ -1,0 +1,30 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」Vol.2",
+	"side": "S",
+	"release": "77",
+	"id": "089",
+	"name": "",
+	"jpName": "朽ちた教会での戦い 綺礼",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】［(1) 手札を1枚控え室に置く］ あなたの「浄化の光 綺礼」が舞台から控え室に置かれた時、控え室にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に【レスト】して置く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"神父"
+	]
+}
