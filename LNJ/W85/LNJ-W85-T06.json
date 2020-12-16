@@ -1,0 +1,29 @@
+{
+	"set": "LNJ",
+	"setName": "[TD+]ラブライブ！虹ヶ咲学園スクールアイドル同好会 feat.スクールアイドルフェスティバル ALL STARS",
+	"side": "W",
+	"release": "85",
+	"id": "T06",
+	"name": "",
+	"jpName": "愛されかすかす 中須 かすみ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"音楽"
+	]
+}

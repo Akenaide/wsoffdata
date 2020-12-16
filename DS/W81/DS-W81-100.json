@@ -16,10 +16,12 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"CHOICE"
+	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+		"（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
 	],
 	"specialAttrib": [
 		"ー",
