@@ -1,0 +1,30 @@
+{
+	"set": "KNK",
+	"setName": "[TD+]彼女、お借りします",
+	"side": "W",
+	"release": "86",
+	"id": "T06",
+	"name": "",
+	"jpName": "別れの挨拶 瑠夏",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"リボン"
+	]
+}

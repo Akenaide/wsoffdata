@@ -1,0 +1,30 @@
+{
+	"set": "PRD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "84",
+	"id": "P01",
+	"name": "",
+	"jpName": "次なる冒険へ ぺコリーヌ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、他のあなたの《ランドソル》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードがアタックした時、他のあなたの《ランドソル》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	]
+}
