@@ -1,0 +1,30 @@
+{
+	"set": "PRD",
+	"setName": "アニメ プリンセスコネクト！Re:Dive",
+	"side": "W",
+	"release": "84",
+	"id": "068",
+	"name": "",
+	"jpName": "王宮騎士団団員 マツリ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の《ランドソル》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは相手のレベル2以上のキャラの枚数×1000に等しい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	]
+}

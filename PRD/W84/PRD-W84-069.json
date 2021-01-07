@@ -1,0 +1,30 @@
+{
+	"set": "PRD",
+	"setName": "アニメ プリンセスコネクト！Re:Dive",
+	"side": "W",
+	"release": "84",
+	"id": "069",
+	"name": "",
+	"jpName": "王宮騎士団団長 ジュン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ランドソル》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【永】 このカードは相手の効果に選ばれない。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	]
+}

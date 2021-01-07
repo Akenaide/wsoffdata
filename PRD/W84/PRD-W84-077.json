@@ -1,0 +1,30 @@
+{
+	"set": "PRD",
+	"setName": "アニメ プリンセスコネクト！Re:Dive",
+	"side": "W",
+	"release": "84",
+	"id": "077",
+	"name": "",
+	"jpName": "霊能少女 シノブ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ランドソル》のキャラすべてに、パワーを＋1000。",
+		"【起】［手札のキャラを1枚控え室に置く］ あなたは自分の控え室の「霊能少女 シノブ」を1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりに、そのキャラを控え室に置く。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	]
+}
