@@ -1,0 +1,30 @@
+{
+	"set": "PRD",
+	"setName": "アニメ プリンセスコネクト！Re:Dive",
+	"side": "W",
+	"release": "84",
+	"id": "014",
+	"name": "",
+	"jpName": "奇妙な看護師 ナナカ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上からＸ枚を、控え室に置く。Ｘはあなたの《ランドソル》のキャラの枚数に等しい。",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	]
+}
