@@ -1,0 +1,30 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします",
+	"side": "W",
+	"release": "86",
+	"id": "095",
+	"name": "",
+	"jpName": "私の立場 瑠夏",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《かのかり》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】［手札の「“そんなの耐えれませんっ!!”瑠夏」を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"リボン"
+	]
+}

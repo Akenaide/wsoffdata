@@ -1,0 +1,30 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします",
+	"side": "W",
+	"release": "86",
+	"id": "033",
+	"name": "",
+	"jpName": "一口どうぞ 墨",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの《かのかり》のキャラの枚数に等しい。",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"ダイアモンド"
+	]
+}
