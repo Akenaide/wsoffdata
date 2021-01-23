@@ -1,0 +1,30 @@
+{
+	"set": "ALL",
+	"setName": "[TDR]アサルトリリィ BOUQUET",
+	"side": "S",
+	"release": "76",
+	"id": "T28",
+	"name": "",
+	"jpName": "強化リリィ 鶴紗",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《リリィ》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"一柳隊"
+	]
+}
