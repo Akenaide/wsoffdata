@@ -1,0 +1,32 @@
+{
+	"set": "PI",
+	"setName": "Fate/kaleid liner Prisma☆Illya プリズマ☆ファンタズム",
+	"side": "S",
+	"release": "E36",
+	"id": "25",
+	"name": "",
+	"jpName": "自由な虎 大河",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"ファンタズム",
+		"先生"
+	],
+	"version": "2",
+	"cardcode": "PI/SE36-25"
+}

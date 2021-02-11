@@ -1,0 +1,32 @@
+{
+	"set": "PI",
+	"setName": "Fate/kaleid liner Prisma☆Illya プリズマ☆ファンタズム",
+	"side": "S",
+	"release": "E36",
+	"id": "28",
+	"name": "",
+	"jpName": "“熱烈歓迎”綺礼",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』"
+	],
+	"specialAttrib": [
+		"ファンタズム",
+		"神父"
+	],
+	"version": "2",
+	"cardcode": "PI/SE36-28"
+}

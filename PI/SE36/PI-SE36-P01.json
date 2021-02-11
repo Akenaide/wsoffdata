@@ -1,0 +1,33 @@
+{
+	"set": "PI",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "E36",
+	"id": "P01",
+	"name": "",
+	"jpName": "いつでも一緒 美遊＆イリヤ＆クロエ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋1000。",
+		"【永】 舞台にこのカードがいるなら、このカードは《武器》を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、相手のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"ファンタズム",
+		"魔法"
+	],
+	"version": "2",
+	"cardcode": "PI/SE36-P01"
+}
