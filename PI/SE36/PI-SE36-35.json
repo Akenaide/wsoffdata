@@ -1,0 +1,33 @@
+{
+	"set": "PI",
+	"setName": "Fate/kaleid liner Prisma☆Illya プリズマ☆ファンタズム",
+	"side": "S",
+	"release": "E36",
+	"id": "35",
+	"name": "",
+	"jpName": "“お泊まり会”美遊＆クロエ＆イリヤ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "AR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを手札に戻してよい。",
+		"【自】 このカードが【リバース】した時、他のあなたの、《武器》か《魔法》のキャラが2枚以上で、このカードのバトル相手のレベルが3以下なら、あなたはそのバトル相手を【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "PI/SE36-35"
+}
