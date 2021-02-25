@@ -1,0 +1,32 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン アリシゼーション Vol.2",
+	"side": "S",
+	"release": "80",
+	"id": "045",
+	"name": "",
+	"jpName": "整合騎士団副長 ファナティオ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《フラクトライト》のキャラが4枚以上なら、あなたは自分の控え室の《フラクトライト》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"フラクトライト",
+		"整合騎士"
+	],
+	"version": "2",
+	"cardcode": "SAO/S80-045"
+}

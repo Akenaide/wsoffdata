@@ -1,0 +1,32 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン アリシゼーション Vol.2",
+	"side": "S",
+	"release": "80",
+	"id": "052",
+	"name": "",
+	"jpName": "気合十分 リーファ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フラクトライト》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《フラクトライト》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+	],
+	"specialAttrib": [
+		"フラクトライト",
+		"女神"
+	],
+	"version": "2",
+	"cardcode": "SAO/S80-052"
+}

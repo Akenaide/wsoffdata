@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン アリシゼーション Vol.2",
+	"side": "S",
+	"release": "80",
+	"id": "053",
+	"name": "",
+	"jpName": "整合騎士 デュソルバート",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室の「整合騎士団長 ベルク―リ」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《整合騎士》か《貴族》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時、相手のキャラすべてに、そのターン中、パワーを－1000。"
+	],
+	"specialAttrib": [
+		"フラクトライト",
+		"整合騎士"
+	],
+	"version": "2",
+	"cardcode": "SAO/S80-053"
+}

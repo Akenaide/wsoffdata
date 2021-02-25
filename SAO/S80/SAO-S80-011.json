@@ -1,0 +1,32 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン アリシゼーション Vol.2",
+	"side": "S",
+	"release": "80",
+	"id": "011",
+	"name": "",
+	"jpName": "不安な夜 アリス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《フラクトライト》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
+	],
+	"specialAttrib": [
+		"フラクトライト",
+		"整合騎士"
+	],
+	"version": "2",
+	"cardcode": "SAO/S80-011"
+}

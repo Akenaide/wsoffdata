@@ -1,0 +1,30 @@
+{
+	"set": "SAO",
+	"setName": "PRカード【Wサイド】",
+	"side": "S",
+	"release": "80",
+	"id": "101",
+	"name": "",
+	"jpName": "スイーツクッキング アリス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《フラクトライト》のキャラの枚数×1000に等しい。",
+		"【起】［このカードを控え室に置く］ あなたは自分の《フラクトライト》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"フラクトライト",
+		"整合騎士"
+	],
+	"version": "2",
+	"cardcode": "SAO/S80-101"
+}

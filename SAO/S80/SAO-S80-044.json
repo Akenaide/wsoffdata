@@ -1,0 +1,32 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン アリシゼーション Vol.2",
+	"side": "S",
+	"release": "80",
+	"id": "044",
+	"name": "",
+	"jpName": "漢気の大将 ベルク―リ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《フラクトライト》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】［(2) 手札を2枚控え室に置く］ 相手のクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"フラクトライト",
+		"整合騎士"
+	],
+	"version": "2",
+	"cardcode": "SAO/S80-044"
+}

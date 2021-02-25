@@ -1,0 +1,32 @@
+{
+	"set": "SAO",
+	"setName": "PRカード【Wサイド】",
+	"side": "S",
+	"release": "80",
+	"id": "P01",
+	"name": "",
+	"jpName": "今どきの女の子 アリス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《フラクトライト》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《フラクトライト》のキャラ1枚につき、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"フラクトライト",
+		"整合騎士"
+	],
+	"version": "2",
+	"cardcode": "SAO/S80-P01"
+}
