@@ -1,0 +1,32 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ 283プロ イルミネーションスターズ",
+	"side": "S",
+	"release": "81",
+	"id": "T013",
+	"name": "",
+	"jpName": "ビヨンドザブルースカイ 風野灯織",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"イルミネーションスターズ"
+	],
+	"version": "2",
+	"cardcode": "ISC/S81-T013"
+}

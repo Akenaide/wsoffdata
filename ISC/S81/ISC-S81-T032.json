@@ -1,0 +1,32 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ 283プロ アンティーカ",
+	"side": "S",
+	"release": "81",
+	"id": "T032",
+	"name": "",
+	"jpName": "ビヨンドザブルースカイ 田中摩美々",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラすべてに、そのターン中、パワーを－500。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"アンティーカ"
+	],
+	"version": "2",
+	"cardcode": "ISC/S81-T032"
+}

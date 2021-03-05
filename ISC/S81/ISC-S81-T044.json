@@ -1,0 +1,32 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ 283プロ 放課後クライマックスガールズ",
+	"side": "S",
+	"release": "81",
+	"id": "T044",
+	"name": "",
+	"jpName": "ビヨンドザブルースカイ 杜野凛世",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「放課後クライマックスガールズ」が置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"放課後クライマックスガールズ"
+	],
+	"version": "2",
+	"cardcode": "ISC/S81-T044"
+}
