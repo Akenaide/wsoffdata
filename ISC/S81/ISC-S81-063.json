@@ -1,0 +1,32 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ",
+	"side": "S",
+	"release": "81",
+	"id": "063",
+	"name": "",
+	"jpName": "霧・音・燦・燦 幽谷霧子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《音楽》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"アンティーカ"
+	],
+	"version": "2",
+	"cardcode": "ISC/S81-063"
+}

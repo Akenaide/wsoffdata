@@ -1,0 +1,32 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ",
+	"side": "S",
+	"release": "81",
+	"id": "047",
+	"name": "",
+	"jpName": "リフレッシュサマー 福丸小糸",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 他のあなたの《音楽》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ノクチル"
+	],
+	"version": "2",
+	"cardcode": "ISC/S81-047"
+}

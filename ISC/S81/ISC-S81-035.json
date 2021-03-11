@@ -1,0 +1,33 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ",
+	"side": "S",
+	"release": "81",
+	"id": "035",
+	"name": "",
+	"jpName": "ROOKIE! 市川雛菜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、「クリアマリンカーム 浅倉 透」と「パーティーのやくそく 福丸小糸」すべてに、パワーを＋1000。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ノクチル"
+	],
+	"version": "2",
+	"cardcode": "ISC/S81-035"
+}
