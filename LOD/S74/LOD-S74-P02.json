@@ -1,0 +1,30 @@
+{
+	"set": "LOD",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "74",
+	"id": "P02",
+	"name": "",
+	"jpName": "種を超えた友情  サンドラ＆フェル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《冒険者》のキャラ1枚につき、このカードのパワーを＋500。\n【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《冒険者》のキャラの枚数に等しい。\n"
+	],
+	"specialAttrib": [
+		"冒険者"
+	],
+	"version": "2",
+	"cardcode": "LOD/S74-P02"
+}

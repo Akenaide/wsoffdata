@@ -1,0 +1,33 @@
+{
+	"set": "TSK",
+	"setName": "転生したらスライムだった件 Vol.2",
+	"side": "S",
+	"release": "82",
+	"id": "076",
+	"name": "",
+	"jpName": "ずっとそばに シズ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの後列の《魔大陸》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《魔大陸》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"魔大陸",
+		"仮面"
+	],
+	"version": "2",
+	"cardcode": "TSK/S82-076"
+}
