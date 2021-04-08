@@ -1,0 +1,32 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ BOUQUET",
+	"side": "S",
+	"release": "76",
+	"id": "019",
+	"name": "",
+	"jpName": "少しの口添え 汐里",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《リリィ》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"水夕会"
+	],
+	"version": "2",
+	"cardcode": "ALL/S76-019"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ BOUQUET",
+	"side": "S",
+	"release": "76",
+	"id": "018",
+	"name": "",
+	"jpName": "猫の集会所 鶴紗",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《リリィ》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「小さなぬくもり」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の「凛々しく咲く 鶴紗」を1枚まで選び、手札に戻し、自分の控え室の《リリィ》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"一柳隊"
+	],
+	"version": "2",
+	"cardcode": "ALL/S76-018"
+}
