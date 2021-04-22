@@ -1,0 +1,31 @@
+{
+	"set": "LNJ",
+	"setName": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 feat.スクールアイドルフェスティバル ALL STARS",
+	"side": "W",
+	"release": "85",
+	"id": "028",
+	"name": "",
+	"jpName": "ホームページ公開！ 中須 かすみ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】 共鳴 ［(1) 手札の「ホームページ公開！ 中須 かすみ」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LNJ/W85-028"
+}

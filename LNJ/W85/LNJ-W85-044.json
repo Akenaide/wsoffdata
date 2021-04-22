@@ -1,0 +1,32 @@
+{
+	"set": "LNJ",
+	"setName": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 feat.スクールアイドルフェスティバル ALL STARS",
+	"side": "W",
+	"release": "85",
+	"id": "044",
+	"name": "",
+	"jpName": "ドンドン行くよ！ 宮下 愛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LNJ/W85-044"
+}

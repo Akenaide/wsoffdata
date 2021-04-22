@@ -1,0 +1,32 @@
+{
+	"set": "LNJ",
+	"setName": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 feat.スクールアイドルフェスティバル ALL STARS",
+	"side": "W",
+	"release": "85",
+	"id": "030",
+	"name": "",
+	"jpName": "後輩としての自覚 桜坂 しずく",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【起】［このカードを控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。",
+		"【起】［このカードを控え室に置く］ あなたは自分の控え室の「心が躍ります♪ 桜坂 しずく」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LNJ/W85-030"
+}

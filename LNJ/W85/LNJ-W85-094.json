@@ -1,0 +1,31 @@
+{
+	"set": "LNJ",
+	"setName": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 feat.スクールアイドルフェスティバル ALL STARS",
+	"side": "W",
+	"release": "85",
+	"id": "094",
+	"name": "",
+	"jpName": "穏やかな日々 エマ・ヴェルデ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのレベルを＋1し、このカードは相手の効果に選ばれない。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LNJ/W85-094"
+}
