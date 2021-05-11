@@ -1,0 +1,30 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・バレット",
+	"side": "W",
+	"release": "E33",
+	"id": "038",
+	"name": "",
+	"jpName": "“【天秤の弾】”白の女王",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の、《デート》か《精霊》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "2",
+	"cardcode": "DAL/WE33-038"
+}

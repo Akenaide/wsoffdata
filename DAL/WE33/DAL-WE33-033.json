@@ -1,0 +1,30 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・バレット",
+	"side": "W",
+	"release": "E33",
+	"id": "033",
+	"name": "",
+	"jpName": "くノ一 唯",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		"【自】［(1)］ このカードが舞台から、控え室か思い出置場に置かれた時、あなたのキャラすべてが、《デート》か《精霊》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「くノ一 唯」を1枚まで選び、舞台の好きな枠に【レスト】して置き、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "2",
+	"cardcode": "DAL/WE33-033"
+}

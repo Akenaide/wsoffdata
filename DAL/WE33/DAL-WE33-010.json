@@ -1,0 +1,32 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・バレット",
+	"side": "W",
+	"release": "E33",
+	"id": "010",
+	"name": "",
+	"jpName": "合理的な判断 狂三",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の控え室の、《デート》か《精霊》のキャラを1枚選び、クロック置場の上か下に置く。1枚置いたなら、ターンの終わりに、あなたは自分のクロックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "2",
+	"cardcode": "DAL/WE33-010"
+}

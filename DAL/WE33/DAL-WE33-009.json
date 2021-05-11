@@ -1,0 +1,30 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・バレット",
+	"side": "W",
+	"release": "E33",
+	"id": "009",
+	"name": "",
+	"jpName": "泰然自若 狂三",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、黄のクライマックスを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+		"【起】［このカードを控え室に置く］ あなたは自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "2",
+	"cardcode": "DAL/WE33-009"
+}
