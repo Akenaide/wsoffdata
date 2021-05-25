@@ -1,0 +1,31 @@
+{
+	"set": "GT",
+	"setName": "幻影ヲ駆ケル太陽",
+	"side": "W",
+	"release": "29",
+	"id": "032S",
+	"name": "",
+	"jpName": "オオカミ少女 るな",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《タロット》のキャラでないなら、そのターン中、このカードは次の能力を得る。『【永】 このカードはフロントアタックできない。』（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"タロット",
+		"動物"
+	],
+	"version": "2",
+	"cardcode": "GT/W29-032S"
+}

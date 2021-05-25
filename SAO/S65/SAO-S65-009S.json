@@ -1,0 +1,32 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン アリシゼーション",
+	"side": "S",
+	"release": "65",
+	"id": "009S",
+	"name": "",
+	"jpName": "煌めく金木犀 アリス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《フラクトライト》のキャラすべてに、パワーを＋2000し、次の能力を与える。『【永】 このカードのバトル中、相手はイベントを手札からプレイできない。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"フラクトライト",
+		"整合騎士"
+	],
+	"version": "2",
+	"cardcode": "SAO/S65-009S"
+}

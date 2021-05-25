@@ -1,0 +1,33 @@
+{
+	"set": "DC",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "011S",
+	"name": "",
+	"jpName": "付属制服の桜姫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の、《Anniversary》か《魔法》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法"
+	],
+	"version": "2",
+	"cardcode": "DC/W81-011S"
+}

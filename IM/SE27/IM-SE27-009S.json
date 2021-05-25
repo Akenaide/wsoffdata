@@ -1,0 +1,33 @@
+{
+	"set": "IM",
+	"setName": "アイドルマスター ミニキャラパック『765pro』",
+	"side": "S",
+	"release": "E27",
+	"id": "009S",
+	"name": "",
+	"jpName": "ONE FOR ALL 響",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードと同じカード名のカードと、「“今を大切に”響」は、デッキに合計4枚まで入れることができる。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［あなたの《動物》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"動物"
+	],
+	"version": "2",
+	"cardcode": "IM/SE27-009S"
+}

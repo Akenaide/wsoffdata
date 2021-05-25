@@ -1,0 +1,33 @@
+{
+	"set": "LL",
+	"setName": "ラブライブ！",
+	"side": "W",
+	"release": "24",
+	"id": "081S",
+	"name": "",
+	"jpName": "音ノ木坂学院１年生 真姫",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"令嬢"
+	],
+	"version": "2",
+	"cardcode": "LL/W24-081S"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "KS",
+	"setName": "[TD+]この素晴らしい世界に祝福を！",
+	"side": "W",
+	"release": "49",
+	"id": "T17S",
+	"name": "",
+	"jpName": "“女神の誇り”アクア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《冒険者》か《女神》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"女神"
+	],
+	"version": "2",
+	"cardcode": "KS/W49-T17S"
+}

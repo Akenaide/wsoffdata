@@ -1,0 +1,32 @@
+{
+	"set": "MG",
+	"setName": "\u003c物語\u003eシリーズ セカンドシーズン",
+	"side": "S",
+	"release": "39",
+	"id": "005S",
+	"name": "",
+	"jpName": "ウロボロスのあやとり 千石撫子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックス置場に「成りたての神様」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のキャラを1枚選び、手札に戻してよい。』"
+	],
+	"specialAttrib": [
+		"怪異",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "MG/S39-005S"
+}

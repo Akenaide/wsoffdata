@@ -1,0 +1,33 @@
+{
+	"set": "N2",
+	"setName": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+	"side": "W",
+	"release": "32",
+	"id": "035S",
+	"name": "",
+	"jpName": "守るべきもの シグナム",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "N2/W32-035S"
+}

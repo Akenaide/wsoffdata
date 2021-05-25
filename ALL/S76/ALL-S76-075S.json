@@ -1,0 +1,32 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ BOUQUET",
+	"side": "S",
+	"release": "76",
+	"id": "075S",
+	"name": "",
+	"jpName": "あなたを待つ間 夢結",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"一柳隊"
+	],
+	"version": "2",
+	"cardcode": "ALL/S76-075S"
+}

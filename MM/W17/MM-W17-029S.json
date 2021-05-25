@@ -1,0 +1,31 @@
+{
+	"set": "MM",
+	"setName": "魔法少女まどか☆マギカ",
+	"side": "W",
+	"release": "17",
+	"id": "029S",
+	"name": "",
+	"jpName": "因果の終着点 まどか",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
+		"【自】 あなたが山札をリフレッシュした時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法"
+	],
+	"version": "2",
+	"cardcode": "MM/W17-029S"
+}

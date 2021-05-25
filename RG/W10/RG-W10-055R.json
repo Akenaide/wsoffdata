@@ -1,0 +1,32 @@
+{
+	"set": "RG",
+	"setName": "禁書目録＆超電磁砲",
+	"side": "W",
+	"release": "10",
+	"id": "055R",
+	"name": "",
+	"jpName": "先輩と後輩 美琴＆黒子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《超能力》のキャラすべてに、レベルを＋1し、パワーを＋500。",
+		"【自】［手札のクライマックス1枚を控え室に置く］ あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[COMEBACK]なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"超能力",
+		"風紀委員"
+	],
+	"version": "2",
+	"cardcode": "RG/W10-055R"
+}

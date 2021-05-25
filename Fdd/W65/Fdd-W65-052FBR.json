@@ -1,0 +1,33 @@
+{
+	"set": "Fdd",
+	"setName": "富士見ファンタジア文庫",
+	"side": "W",
+	"release": "65",
+	"id": "052FBR",
+	"name": "",
+	"jpName": "魔性の微笑み リアス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "FBR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのソウルを＋1し、《悪魔》を与える。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《ファンタジア文庫》か《悪魔》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"悪魔",
+		"王"
+	],
+	"version": "2",
+	"cardcode": "Fdd/W65-052FBR"
+}

@@ -1,0 +1,33 @@
+{
+	"set": "DBG",
+	"setName": "神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "032S",
+	"name": "",
+	"jpName": "心のままに 伊座並 杏子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "4000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場のイベントが3枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×1000に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《夏》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"夏",
+		"家族"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-032S"
+}

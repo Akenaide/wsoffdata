@@ -1,0 +1,32 @@
+{
+	"set": "MK",
+	"setName": "探偵オペラ　ミルキィホームズ",
+	"side": "S",
+	"release": "11",
+	"id": "007SP",
+	"name": "",
+	"jpName": "ネコミミ ネロ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、クライマックス置場に「こっそりとトイズ」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"探偵",
+		"動物"
+	],
+	"version": "2",
+	"cardcode": "MK/S11-007SP"
+}

@@ -1,0 +1,33 @@
+{
+	"set": "AOT",
+	"setName": "進撃の巨人",
+	"side": "S",
+	"release": "35",
+	"id": "058R",
+	"name": "",
+	"jpName": "“城壁の彼方”ミカサ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードはサイドアタックできない。",
+		"【永】 他のあなたの《兵団》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「少女が見た世界」があるなら、相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"兵団",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "AOT/S35-058R"
+}

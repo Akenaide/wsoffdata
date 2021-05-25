@@ -1,0 +1,32 @@
+{
+	"set": "AB",
+	"setName": "Angel Beats! Re: Edit",
+	"side": "W",
+	"release": "31",
+	"id": "109R",
+	"name": "",
+	"jpName": "サブリーダー ひさ子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"死",
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "AB/W31-109R"
+}

@@ -1,0 +1,33 @@
+{
+	"set": "IM",
+	"setName": "アイドルマスター ミニキャラパック『765pro』",
+	"side": "S",
+	"release": "E27",
+	"id": "002S",
+	"name": "",
+	"jpName": "ONE FOR ALL 雪歩",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードと同じカード名のカードと、「先輩として雪歩」は、デッキに合計4枚まで入れることができる。",
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《お茶》のキャラが3枚以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		"【起】【カウンター】 助太刀1500 レベル1 [(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"お茶"
+	],
+	"version": "2",
+	"cardcode": "IM/SE27-002S"
+}

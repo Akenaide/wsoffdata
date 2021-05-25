@@ -1,0 +1,33 @@
+{
+	"set": "OMS",
+	"setName": "おそ松さん",
+	"side": "S",
+	"release": "41",
+	"id": "036R",
+	"name": "",
+	"jpName": "“スイーツ男子”カラ松",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラとこのカードのレベルの合計が6以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－4500。",
+		"【自】 このカードがアタックした時、クライマックス置場に「ハリネズミのジレンマ」があるなら、あなたは自分のクロックの上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"６つ子",
+		"まゆげ"
+	],
+	"version": "2",
+	"cardcode": "OMS/S41-036R"
+}

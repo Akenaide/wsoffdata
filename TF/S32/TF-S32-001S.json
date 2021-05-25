@@ -1,0 +1,32 @@
+{
+	"set": "TF",
+	"setName": "テラフォーマーズ",
+	"side": "S",
+	"release": "32",
+	"id": "001S",
+	"name": "",
+	"jpName": "“幹部乗組員”ジョセフ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室の「“幹部乗組員”ジョセフ」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのキャラすべてが《改造》なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"改造"
+	],
+	"version": "2",
+	"cardcode": "TF/S32-001S"
+}

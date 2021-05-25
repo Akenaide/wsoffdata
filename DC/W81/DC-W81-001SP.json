@@ -1,0 +1,31 @@
+{
+	"set": "DC",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "001SP",
+	"name": "",
+	"jpName": "“Special Day～太陽の神様～”音夢",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《魔法》か《バナナ》のキャラがいるなら、そのターン中、このカードのレベルを＋1し、パワーを＋1500。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《Anniversary》か《魔法》か《バナナ》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"風紀委員"
+	],
+	"version": "2",
+	"cardcode": "DC/W81-001SP"
+}

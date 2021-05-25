@@ -1,0 +1,33 @@
+{
+	"set": "ND",
+	"setName": "魔法少女リリカルなのは Detonation",
+	"side": "W",
+	"release": "67",
+	"id": "029S",
+	"name": "",
+	"jpName": "それぞれの戦い アミタ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、あなたは他の自分の《フォーミュラ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《フォーミュラ》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"武器",
+		"フォーミュラ"
+	],
+	"version": "2",
+	"cardcode": "ND/W67-029S"
+}

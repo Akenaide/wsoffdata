@@ -1,0 +1,32 @@
+{
+	"set": "FH",
+	"setName": "Fate/hollow ataraxia",
+	"side": "S",
+	"release": "E03",
+	"id": "042SP",
+	"name": "",
+	"jpName": "破城槌 イリヤ＆バーサーカー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
+		"【起】［手札を1枚控え室に置く］ そのターン中、このカードのパワーを＋2500。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"サーヴァント"
+	],
+	"version": "2",
+	"cardcode": "FH/SE03-042SP"
+}

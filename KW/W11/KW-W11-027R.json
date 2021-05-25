@@ -1,0 +1,32 @@
+{
+	"set": "KW",
+	"setName": "Angel Beats! ＆ クドわふたー",
+	"side": "W",
+	"release": "11",
+	"id": "027R",
+	"name": "",
+	"jpName": "夢を追う女の子 椎菜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（そうでないなら元に戻す。クライマックスのレベルは0として扱う）",
+		"【自】 このカードがアタックした時、クライマックス置場に「暴発事故」があるなら、あなたは他の自分のキャラを1枚まで選び、ストック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
+	],
+	"specialAttrib": [
+		"動物",
+		"科学"
+	],
+	"version": "2",
+	"cardcode": "KW/W11-027R"
+}

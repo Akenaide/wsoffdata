@@ -1,0 +1,32 @@
+{
+	"set": "IM",
+	"setName": "アニメ「アイドルマスター」",
+	"side": "S",
+	"release": "21",
+	"id": "005R",
+	"name": "",
+	"jpName": "REST@RT やよい",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「自分REST@RT」があるなら、そのターン中、このカードのパワーを＋4000。",
+		"【自】 このカードがアタックした時、クライマックス置場に「自分REST@RT」があるなら、次の相手のターンの終わりまで、このカードは『【自】 アンコール ［(1)］』を得る。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"カエル"
+	],
+	"version": "2",
+	"cardcode": "IM/S21-005R"
+}

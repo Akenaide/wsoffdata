@@ -1,0 +1,33 @@
+{
+	"set": "NK",
+	"setName": "ニセコイ",
+	"side": "W",
+	"release": "30",
+	"id": "076SP",
+	"name": "",
+	"jpName": "乙女心 小咲",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の「約束のペンダント」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《鍵》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《鍵》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"お菓子",
+		"鍵"
+	],
+	"version": "2",
+	"cardcode": "NK/W30-076SP"
+}

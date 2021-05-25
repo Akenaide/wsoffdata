@@ -1,0 +1,32 @@
+{
+	"set": "TSK",
+	"setName": "転生したらスライムだった件 Vol.2",
+	"side": "S",
+	"release": "82",
+	"id": "071S",
+	"name": "",
+	"jpName": "果敢に立ち向かうシズ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《魔大陸》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【自】【CXコンボ】 記憶 このカードがアタックした時、クライマックス置場に「爆炎の支配者」があり、あなたの思い出が4枚以上なら、相手に4ダメージを与え、アンコールステップの始めに、このカードを控え室に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"魔大陸",
+		"仮面"
+	],
+	"version": "2",
+	"cardcode": "TSK/S82-071S"
+}

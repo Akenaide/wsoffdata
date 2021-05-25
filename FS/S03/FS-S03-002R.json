@@ -1,0 +1,32 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night",
+	"side": "S",
+	"release": "03",
+	"id": "002R",
+	"name": "",
+	"jpName": "騎士王セイバー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《マスター》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【永】 他のあなたの「衛宮 士郎」がいるなら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "FS/S03-002R"
+}

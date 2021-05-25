@@ -1,0 +1,32 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night [Unlimited Blade Works]Vol.Ⅱ",
+	"side": "S",
+	"release": "36",
+	"id": "008S",
+	"name": "",
+	"jpName": "“王の財宝”ギルガメッシュ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「“王の財宝”」があるなら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードのトリガーアイコンの[SOUL]1つにつき、次の行動を行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）",
+		"【起】［手札の《武器》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "FS/S36-008S"
+}

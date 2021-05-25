@@ -1,0 +1,32 @@
+{
+	"set": "SS",
+	"setName": "灼眼のシャナ",
+	"side": "W",
+	"release": "14",
+	"id": "041SP",
+	"name": "",
+	"jpName": "『弔詞の詠み手』マージョリー・ドー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［(2)] このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"炎",
+		"本"
+	],
+	"version": "2",
+	"cardcode": "SS/W14-041SP"
+}

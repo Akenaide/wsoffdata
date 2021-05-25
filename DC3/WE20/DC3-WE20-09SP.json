@@ -1,0 +1,32 @@
+{
+	"set": "DC3",
+	"setName": "D.C.～ダ・カーポ～サクラサクパック",
+	"side": "W",
+	"release": "E20",
+	"id": "09SP",
+	"name": "",
+	"jpName": "新入生歓迎！ 立夏",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《新聞》か《生徒会》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"新聞",
+		"生徒会"
+	],
+	"version": "2",
+	"cardcode": "DC3/WE20-09SP"
+}

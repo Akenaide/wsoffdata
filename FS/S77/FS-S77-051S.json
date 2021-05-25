@@ -1,0 +1,32 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」Vol.2",
+	"side": "S",
+	"release": "77",
+	"id": "051S",
+	"name": "",
+	"jpName": "期間限定の共闘 凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《マスター》か《サーヴァント》のキャラを1枚選び、手札に戻してよい。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードの与えたダメージがキャンセルされなかった時、あなたのクライマックス置場に「姉妹の繋がり」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"マスター",
+		"宝石"
+	],
+	"version": "2",
+	"cardcode": "FS/S77-051S"
+}

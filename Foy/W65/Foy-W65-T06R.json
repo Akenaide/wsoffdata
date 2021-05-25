@@ -1,0 +1,33 @@
+{
+	"set": "Foy",
+	"setName": "[TD+]富士見ファンタジア文庫",
+	"side": "W",
+	"release": "65",
+	"id": "T06R",
+	"name": "",
+	"jpName": "織田家当主 信奈",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《ファンタジア文庫》か《戦国》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたの、《ファンタジア文庫》か《戦国》のキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"戦国",
+		"姫大名"
+	],
+	"version": "2",
+	"cardcode": "Foy/W65-T06R"
+}

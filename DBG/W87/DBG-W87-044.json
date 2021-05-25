@@ -1,0 +1,32 @@
+{
+	"set": "DBG",
+	"setName": "神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "044",
+	"name": "",
+	"jpName": "疑問の声  成神 空",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の《夏》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室のイベントの枚数×1500に等しい。",
+		"【自】 このカードがアタックした時、他のあなたの《夏》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。"
+	],
+	"specialAttrib": [
+		"夏",
+		"映画"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-044"
+}

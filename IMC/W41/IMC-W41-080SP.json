@@ -1,0 +1,32 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "41",
+	"id": "080SP",
+	"name": "",
+	"jpName": "神崎 蘭子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、クライマックス置場に「-LEGNE- 仇なす剣 光の旋律」があるなら、あなたは自分の山札の上から5枚を、控え室に置き、相手にＸダメージを与え、そのターン中、このカードのパワーを＋2000。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"闇"
+	],
+	"version": "2",
+	"cardcode": "IMC/W41-080SP"
+}

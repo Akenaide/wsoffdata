@@ -1,0 +1,32 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実",
+	"side": "S",
+	"release": "72",
+	"id": "057S",
+	"name": "",
+	"jpName": "幸せな日々 幸",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《グリザイア》のキャラすべてに、パワーを＋1500。",
+		"【自】［(2) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたの控え室のイベントの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"メイド"
+	],
+	"version": "2",
+	"cardcode": "GRI/S72-057S"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "MK",
+	"setName": "探偵オペラ　ミルキィホームズ",
+	"side": "S",
+	"release": "11",
+	"id": "026S",
+	"name": "",
+	"jpName": "本好きなエリー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ハロウィンナイト エリー」を1枚選び、このカードがいた枠に置く。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"探偵",
+		"本"
+	],
+	"version": "2",
+	"cardcode": "MK/S11-026S"
+}

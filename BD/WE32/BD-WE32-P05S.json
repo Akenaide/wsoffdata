@@ -1,0 +1,32 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E32",
+	"id": "P05S",
+	"name": "",
+	"jpName": "“さあ、行こう！”戸山香澄",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"\n【自】［①］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Poppin'Party"
+	],
+	"version": "2",
+	"cardcode": "BD/WE32-P05S"
+}

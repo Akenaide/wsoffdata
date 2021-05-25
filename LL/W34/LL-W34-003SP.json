@@ -1,0 +1,32 @@
+{
+	"set": "LL",
+	"setName": "ラブライブ！Vol.2",
+	"side": "W",
+	"release": "34",
+	"id": "003SP",
+	"name": "",
+	"jpName": "“Happy maker!”東條 希",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(1)］ あなたのクライマックス置場に「大切な友達」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LL/W34-003SP"
+}

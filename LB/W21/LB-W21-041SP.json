@@ -1,0 +1,32 @@
+{
+	"set": "LB",
+	"setName": "アニメ「リトルバスターズ！」",
+	"side": "W",
+	"release": "21",
+	"id": "041SP",
+	"name": "",
+	"jpName": "“ふたりはひとつ”美魚",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋1000。",
+		"【永】 他のあなたのレベル2以上のキャラすべてに、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"本",
+		"マネージャー"
+	],
+	"version": "2",
+	"cardcode": "LB/W21-041SP"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」",
+	"side": "S",
+	"release": "64",
+	"id": "004S",
+	"name": "",
+	"jpName": "杯に伸ばす手 セイバー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の「黒い影」を1枚選び、このカードをそのカードの下にマーカーとして裏向きに置いてよい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "FS/S64-004S"
+}

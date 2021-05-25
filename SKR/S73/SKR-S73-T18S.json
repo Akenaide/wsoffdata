@@ -1,0 +1,32 @@
+{
+	"set": "SKR",
+	"setName": "[TD+]新サクラ大戦",
+	"side": "S",
+	"release": "73",
+	"id": "T18S",
+	"name": "",
+	"jpName": "“太正浪漫”さくら",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2500し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"華撃団",
+		"剣術"
+	],
+	"version": "2",
+	"cardcode": "SKR/S73-T18S"
+}

@@ -1,0 +1,31 @@
+{
+	"set": "P4",
+	"setName": "ペルソナ4",
+	"side": "S",
+	"release": "08",
+	"id": "002SP",
+	"name": "",
+	"jpName": "主人公＆伊邪那岐大神",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×1000に等しい。",
+		"【自】 このカードがアタックした時、クライマックス置場に「幾万の真言」があるなら、そのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+	],
+	"specialAttrib": [
+		"神"
+	],
+	"version": "2",
+	"cardcode": "P4/S08-002SP"
+}

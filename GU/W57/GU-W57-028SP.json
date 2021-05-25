@@ -1,0 +1,33 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？？ ～Dear My Sister～",
+	"side": "W",
+	"release": "57",
+	"id": "028SP",
+	"name": "",
+	"jpName": "Welcome！ ココア",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+		"【自】【CXコンボ】 記憶 あなたのクライマックス置場に「ただいま」が置かれた時、あなたのレベルが3以上で、思い出置場にこのカードがあるなら、あなたはこのカードを舞台のキャラのいない枠に置いてよい。"
+	],
+	"specialAttrib": [
+		"ラビットハウス",
+		"Dear My Sister"
+	],
+	"version": "2",
+	"cardcode": "GU/W57-028SP"
+}

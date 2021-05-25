@@ -1,0 +1,33 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」到着！欧州からの増派艦隊",
+	"side": "S",
+	"release": "42",
+	"id": "075SP",
+	"name": "",
+	"jpName": "Vittorio Veneto級戦艦2番艦 Italia",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か「Vittorio Veneto級戦艦2番艦 Littorio」の【起】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 他のあなたの《艦娘》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
+		"【自】［(2) 手札の「真夏のひととき Littorio」を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「イタリアの本当の力、お見せします！」があるなら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"戦艦"
+	],
+	"version": "2",
+	"cardcode": "KC/S42-075SP"
+}

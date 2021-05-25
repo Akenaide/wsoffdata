@@ -1,0 +1,33 @@
+{
+	"set": "SKR",
+	"setName": "新サクラ大戦",
+	"side": "S",
+	"release": "73",
+	"id": "051SP",
+	"name": "",
+	"jpName": "嵐を呼ぶ乙女 初穂",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、あなたのキャラすべてが《華撃団》なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"華撃団",
+		"巫女"
+	],
+	"version": "2",
+	"cardcode": "SKR/S73-051SP"
+}

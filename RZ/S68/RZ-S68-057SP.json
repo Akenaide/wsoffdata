@@ -1,0 +1,32 @@
+{
+	"set": "RZ",
+	"setName": "Re:ゼロから始める異世界生活 Memory Snow",
+	"side": "S",
+	"release": "68",
+	"id": "057SP",
+	"name": "",
+	"jpName": "“Memory Snow”エミリア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Memory Snow》のキャラが2枚以上なら、あなたは自分のクロック置場のキャラを1枚選び、思い出にしてよい。",
+		"【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「穏やかな時間」があり、他のあなたの《Memory Snow》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、次の効果のうちあなたが選んだ1つを行う。『あなたは相手のストックすべてを、控え室に置き、相手は自分の山札の上から同じ枚数をストック置場に置き、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋6000。』『相手に2ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"Memory Snow"
+	],
+	"version": "2",
+	"cardcode": "RZ/S68-057SP"
+}

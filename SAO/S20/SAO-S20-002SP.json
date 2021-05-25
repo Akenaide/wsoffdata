@@ -1,0 +1,32 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンライン",
+	"side": "S",
+	"release": "20",
+	"id": "002SP",
+	"name": "",
+	"jpName": "《閃光》のアスナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋4000し、ソウルを＋1。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置く。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SAO/S20-002SP"
+}

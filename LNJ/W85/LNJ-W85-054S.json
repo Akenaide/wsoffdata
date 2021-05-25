@@ -1,0 +1,31 @@
+{
+	"set": "LNJ",
+	"setName": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 feat.スクールアイドルフェスティバル ALL STARS",
+	"side": "W",
+	"release": "85",
+	"id": "054S",
+	"name": "",
+	"jpName": "ぴょんぴょんハート 上原 歩夢",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、次の行動を2回行う。『あなたは自分の《音楽》のキャラを1枚選び、そのターン中、ソウルを＋1。』",
+		"【自】 このカードが【リバース】した時、他のあなたの《音楽》のキャラが2枚以上で、このカードのバトル相手のレベルが3以下なら、あなたはそのバトル相手を【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LNJ/W85-054S"
+}

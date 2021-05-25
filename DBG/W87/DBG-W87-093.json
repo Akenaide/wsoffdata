@@ -1,0 +1,31 @@
+{
+	"set": "DBG",
+	"setName": "神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "093",
+	"name": "",
+	"jpName": "夏の定番 神宮司 ひかり",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《夏》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"夏",
+		"映画"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-093"
+}

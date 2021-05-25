@@ -1,0 +1,32 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！",
+	"side": "W",
+	"release": "54",
+	"id": "037S",
+	"name": "",
+	"jpName": "“はいっ、プレゼント♪”上原ひまり",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《音楽》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Afterglow"
+	],
+	"version": "2",
+	"cardcode": "BD/W54-037S"
+}

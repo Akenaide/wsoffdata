@@ -1,0 +1,31 @@
+{
+	"set": "MM",
+	"setName": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+	"side": "W",
+	"release": "35",
+	"id": "027SP",
+	"name": "",
+	"jpName": "“とても辛いこと”まどか",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の自分のレベル以下のレベルの《魔法》のキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の山札の上から1枚を、クロック置場に置く。"
+	],
+	"specialAttrib": [
+		"魔法"
+	],
+	"version": "2",
+	"cardcode": "MM/W35-027SP"
+}

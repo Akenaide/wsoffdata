@@ -1,0 +1,32 @@
+{
+	"set": "DBG",
+	"setName": "[TD+]神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "T05",
+	"name": "",
+	"jpName": "告白の時 伊座並 杏子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"夏",
+		"家族"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-T05"
+}

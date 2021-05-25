@@ -1,0 +1,33 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアＧＸ",
+	"side": "W",
+	"release": "39",
+	"id": "051SP",
+	"name": "",
+	"jpName": "“後輩との絆”クリス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "3",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「MEGA DETH FUGA」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+		"【自】 記憶 あなたのアンコールステップの始めに、あなたの思い出置場に「イグナイトモジュール」がないなら、このカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SG/W39-051SP"
+}

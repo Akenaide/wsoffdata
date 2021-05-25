@@ -1,0 +1,32 @@
+{
+	"set": "BD",
+	"setName": "スペシャルパック　「バンドリ！ ガールズバンドパーティ！ 」",
+	"side": "W",
+	"release": "E31",
+	"id": "014SPM",
+	"name": "",
+	"jpName": "“煌めくステージへ”若宮イヴ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SPM",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「煌めくステージへ」があるなら、あなたは自分の山札を見て《Pastel＊Palettes》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Pastel＊Palettes"
+	],
+	"version": "2",
+	"cardcode": "BD/WE31-014SPM"
+}

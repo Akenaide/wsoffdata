@@ -1,0 +1,32 @@
+{
+	"set": "KF",
+	"setName": "THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "05",
+	"id": "032R",
+	"name": "",
+	"jpName": "略奪者アッシュ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "3000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは他の舞台のキャラすべての特徴を得る。このカードの持つ異なる特徴１つにつき、このカードのパワーを＋1000。",
+		"【自】 あなたのクライマックス置場に「ジェルミナール」が置かれた時、あなたは自分のクロックの上から1枚までを、ストック置場に置き、そのターン中、相手はイベントと『助太刀』を手札からプレイできない。",
+		"【自】 このカードとバトル中のキャラが【リバース】した時、あなたはそのキャラを思い出にする。"
+	],
+	"specialAttrib": [
+		"特徴なし"
+	],
+	"version": "2",
+	"cardcode": "KF/S05-032R"
+}

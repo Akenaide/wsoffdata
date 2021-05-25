@@ -1,0 +1,32 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実",
+	"side": "S",
+	"release": "72",
+	"id": "007S",
+	"name": "",
+	"jpName": "懺悔の果実 みちる",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
+		"【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「斜陽差す放課 みちる」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"ツンデレ"
+	],
+	"version": "2",
+	"cardcode": "GRI/S72-007S"
+}

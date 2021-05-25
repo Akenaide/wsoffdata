@@ -1,0 +1,32 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」深海棲艦見ゆ",
+	"side": "S",
+	"release": "E28",
+	"id": "32SP",
+	"name": "",
+	"jpName": "水母棲姫",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたの《深海棲艦》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"深海棲艦",
+		"姫"
+	],
+	"version": "2",
+	"cardcode": "KC/SE28-32SP"
+}

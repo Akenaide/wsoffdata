@@ -1,0 +1,32 @@
+{
+	"set": "DBG",
+	"setName": "神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "017",
+	"name": "",
+	"jpName": "自称ヒロイン ひな",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにイベントがあるなら、あなたのキャラすべてに、そのターン中、ソウルを＋1。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"夏",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-017"
+}

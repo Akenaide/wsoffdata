@@ -1,0 +1,33 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "41",
+	"id": "012S",
+	"name": "",
+	"jpName": "凸レーション 莉嘉",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「LET’S GO HAPPY!!」があるなら、あなたは自分の控え室のカードを1枚まで選び、山札に戻し、その山札をシャッフルする。",
+		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ギャル"
+	],
+	"version": "2",
+	"cardcode": "IMC/W41-012S"
+}

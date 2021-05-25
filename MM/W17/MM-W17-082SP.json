@@ -1,0 +1,33 @@
+{
+	"set": "MM",
+	"setName": "魔法少女まどか☆マギカ",
+	"side": "W",
+	"release": "17",
+	"id": "082SP",
+	"name": "",
+	"jpName": "美樹 さやか",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"愛"
+	],
+	"version": "2",
+	"cardcode": "MM/W17-082SP"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "ND",
+	"setName": "魔法少女リリカルなのは Detonation",
+	"side": "W",
+	"release": "67",
+	"id": "005S",
+	"name": "",
+	"jpName": "戦いの行方 フェイト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「母親として リンディ」か「新たなる物語 なのは」を1枚選び、思い出にしてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クローン"
+	],
+	"version": "2",
+	"cardcode": "ND/W67-005S"
+}

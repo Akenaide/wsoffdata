@@ -1,0 +1,32 @@
+{
+	"set": "DAL",
+	"setName": "[TD+]デート・ア・ライブ",
+	"side": "W",
+	"release": "79",
+	"id": "T17SP",
+	"name": "",
+	"jpName": "精霊との対峙 折紙",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［手札を2枚控え室に置く］ このカードがアタックした時、他のあなたの、《デート》か《精霊》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の後列のコスト1以下のキャラを1枚選び、山札の下に置く。"
+	],
+	"specialAttrib": [
+		"デート",
+		"AST"
+	],
+	"version": "2",
+	"cardcode": "DAL/W79-T17SP"
+}

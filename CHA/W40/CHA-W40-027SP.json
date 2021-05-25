@@ -1,0 +1,33 @@
+{
+	"set": "CHA",
+	"setName": "Charlotte",
+	"side": "W",
+	"release": "40",
+	"id": "027SP",
+	"name": "",
+	"jpName": "“大切な何か”乙坂 有宇",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 このカードのパワーを＋Ｘ。Ｘは相手の思い出置場のキャラのレベルの合計×2000に等しい。",
+		"【自】 あなたのクライマックス置場に「いつか聴いた音」が置かれた時、前列にこのカードがいるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－5000し、次の能力を与える。『【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。』"
+	],
+	"specialAttrib": [
+		"能力者",
+		"生徒会"
+	],
+	"version": "2",
+	"cardcode": "CHA/W40-027SP"
+}

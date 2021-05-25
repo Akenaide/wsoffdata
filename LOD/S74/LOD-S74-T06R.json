@@ -1,0 +1,32 @@
+{
+	"set": "LOD",
+	"setName": "[TD+]ロストディケイド",
+	"side": "S",
+	"release": "74",
+	"id": "T06R",
+	"name": "",
+	"jpName": "双翼の祭司 サンドラ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《冒険者》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"ヒール"
+	],
+	"version": "2",
+	"cardcode": "LOD/S74-T06R"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "N1",
+	"setName": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+	"side": "W",
+	"release": "32",
+	"id": "008S",
+	"name": "",
+	"jpName": "もうひとりの魔法少女フェイト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「母を想うフェイト」を1枚選び、このカードがいた枠に置く。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クローン"
+	],
+	"version": "2",
+	"cardcode": "N1/W32-008S"
+}

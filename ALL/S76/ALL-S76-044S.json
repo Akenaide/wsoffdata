@@ -1,0 +1,32 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ BOUQUET",
+	"side": "S",
+	"release": "76",
+	"id": "044S",
+	"name": "",
+	"jpName": "“アールヴヘイム”亜羅椰",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+		"【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「その気になってもらいます」があり、他のあなたの《リリィ》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"アールヴヘイム"
+	],
+	"version": "2",
+	"cardcode": "ALL/S76-044S"
+}

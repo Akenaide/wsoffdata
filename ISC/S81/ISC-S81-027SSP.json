@@ -1,0 +1,33 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ",
+	"side": "S",
+	"release": "81",
+	"id": "027SSP",
+	"name": "",
+	"jpName": "オ♡フ♡レ♡コ 黛冬優子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "3500",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ストレイライト"
+	],
+	"version": "2",
+	"cardcode": "ISC/S81-027SSP"
+}

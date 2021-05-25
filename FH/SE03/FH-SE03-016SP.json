@@ -1,0 +1,33 @@
+{
+	"set": "FH",
+	"setName": "Fate/hollow ataraxia",
+	"side": "S",
+	"release": "E03",
+	"id": "016SP",
+	"name": "",
+	"jpName": "過去の記憶 バゼット＆ランサー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。",
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【起】［(1)］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"サーヴァント"
+	],
+	"version": "2",
+	"cardcode": "FH/SE03-016SP"
+}

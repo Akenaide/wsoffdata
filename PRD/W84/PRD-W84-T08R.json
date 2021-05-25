@@ -1,0 +1,32 @@
+{
+	"set": "PRD",
+	"setName": "[TD+]アニメ プリンセスコネクト！Re:Dive",
+	"side": "W",
+	"release": "84",
+	"id": "T08R",
+	"name": "",
+	"jpName": "初めての採取クエスト コッコロ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(1) このカードを【レスト】する］ あなたの手札が2枚以下なら、あなたは1枚引く。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	],
+	"version": "2",
+	"cardcode": "PRD/W84-T08R"
+}

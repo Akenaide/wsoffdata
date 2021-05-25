@@ -1,0 +1,32 @@
+{
+	"set": "RZ",
+	"setName": "[TD+]Re:ゼロから始める異世界生活",
+	"side": "S",
+	"release": "46",
+	"id": "T43SP",
+	"name": "",
+	"jpName": "愛おしの光 レム",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】 ［① 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から5枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"メイド"
+	],
+	"version": "2",
+	"cardcode": "RZ/S46-T43SP"
+}

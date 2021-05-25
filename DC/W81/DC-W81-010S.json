@@ -1,0 +1,34 @@
+{
+	"set": "DC",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "010S",
+	"name": "",
+	"jpName": "聖なる夜の奇跡 アイシア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《Anniversary》か《魔法》か《新聞》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"オモチャ"
+	],
+	"version": "2",
+	"cardcode": "DC/W81-010S"
+}

@@ -1,0 +1,33 @@
+{
+	"set": "DC4",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "067SP",
+	"name": "",
+	"jpName": "あたしの特等席 ちよ子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《Anniversary》か《魔法》か《ネット》のキャラすべてに、パワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、あなたはイベントと『助太刀』を、手札からプレイできない。』"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"ネット",
+		"ー"
+	],
+	"version": "2",
+	"cardcode": "DC4/W81-067SP"
+}

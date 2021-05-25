@@ -1,0 +1,32 @@
+{
+	"set": "DC3",
+	"setName": "D.C.III～ダ・カーポIII～",
+	"side": "W",
+	"release": "18",
+	"id": "076S",
+	"name": "",
+	"jpName": "甘えんぼうモード 葵",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《メイド》か《ウェイトレス》のキャラすべてに、パワーを＋1000。",
+		"【自】 あなたのクライマックス置場に「夢いっぱい」が置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のクロックの上から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"新聞",
+		"ウェイトレス"
+	],
+	"version": "2",
+	"cardcode": "DC3/W18-076S"
+}

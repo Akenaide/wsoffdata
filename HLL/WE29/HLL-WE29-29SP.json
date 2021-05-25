@@ -1,0 +1,32 @@
+{
+	"set": "HLL",
+	"setName": "「ひなろじ ～from Luck ＆ Logic～」Vol.2",
+	"side": "W",
+	"release": "E29",
+	"id": "29SP",
+	"name": "",
+	"jpName": "全弾発射！ 万博",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か「お祭り 万博」の【起】の効果で舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+		"【自】［(3) 手札の、《定理者》か《使者》のキャラか「万博の発明品」を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたの控え室の「万博の発明品」の枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"定理者",
+		"使者"
+	],
+	"version": "2",
+	"cardcode": "HLL/WE29-29SP"
+}

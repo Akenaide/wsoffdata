@@ -1,0 +1,31 @@
+{
+	"set": "RW",
+	"setName": "Rewrite",
+	"side": "W",
+	"release": "15",
+	"id": "002SP",
+	"name": "",
+	"jpName": "千里 朱音",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「笑顔と涙」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。その後、そのターン中、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"魔法"
+	],
+	"version": "2",
+	"cardcode": "RW/W15-002SP"
+}

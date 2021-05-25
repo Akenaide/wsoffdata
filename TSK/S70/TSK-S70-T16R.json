@@ -1,0 +1,32 @@
+{
+	"set": "TSK",
+	"setName": "[TD+]転生したらスライムだった件",
+	"side": "S",
+	"release": "70",
+	"id": "T16R",
+	"name": "",
+	"jpName": "忠誠心 ランガ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《魔大陸》のキャラの枚数×1000に等しい。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+	],
+	"specialAttrib": [
+		"魔大陸",
+		"影"
+	],
+	"version": "2",
+	"cardcode": "TSK/S70-T16R"
+}

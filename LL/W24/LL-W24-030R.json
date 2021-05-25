@@ -1,0 +1,32 @@
+{
+	"set": "LL",
+	"setName": "ラブライブ！",
+	"side": "W",
+	"release": "24",
+	"id": "030R",
+	"name": "",
+	"jpName": "音ノ木坂学院３年生 希",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"占い"
+	],
+	"version": "2",
+	"cardcode": "LL/W24-030R"
+}

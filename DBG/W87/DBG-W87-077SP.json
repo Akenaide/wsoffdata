@@ -1,0 +1,33 @@
+{
+	"set": "DBG",
+	"setName": "神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "077SP",
+	"name": "",
+	"jpName": "闘牌の日 天願 賀子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】［(1)］ このカードが、手札か山札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「闘牌の日 天願 賀子」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"夏",
+		"麻雀"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-077SP"
+}

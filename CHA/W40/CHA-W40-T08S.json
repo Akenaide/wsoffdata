@@ -1,0 +1,32 @@
+{
+	"set": "CHA",
+	"setName": "2015年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "40",
+	"id": "T08S",
+	"name": "",
+	"jpName": "“青春の行方”友利 奈緒",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】 あなたのクライマックス置場に「絶望の旋律」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《能力者》のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、あなたのキャラすべてに、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"能力者",
+		"生徒会"
+	],
+	"version": "2",
+	"cardcode": "CHA/W40-T08S"
+}

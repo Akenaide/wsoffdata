@@ -1,0 +1,33 @@
+{
+	"set": "FZ",
+	"setName": "Fate/Zero",
+	"side": "S",
+	"release": "17",
+	"id": "002SP",
+	"name": "",
+	"jpName": "理想の王 セイバー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。",
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《サーヴァント》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"王族"
+	],
+	"version": "2",
+	"cardcode": "FZ/S17-002SP"
+}

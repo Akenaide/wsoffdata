@@ -1,0 +1,32 @@
+{
+	"set": "RSL",
+	"setName": "少女☆歌劇 レヴュースタァライト",
+	"side": "S",
+	"release": "56",
+	"id": "046SP",
+	"name": "",
+	"jpName": "私のキラめき 露崎 まひる",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《レヴュー》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"レヴュー",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "RSL/S56-046SP"
+}

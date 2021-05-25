@@ -1,0 +1,32 @@
+{
+	"set": "OVL",
+	"setName": "オーバーロード",
+	"side": "S",
+	"release": "62",
+	"id": "006S",
+	"name": "",
+	"jpName": "ツアレ救出作戦 セバス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《異形種》か《ナザリック》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「鋼の執事」があるなら、あなたは相手のキャラを1枚まで選び、手札に戻し、自分の控え室の《ナザリック》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "2",
+	"cardcode": "OVL/S62-006S"
+}

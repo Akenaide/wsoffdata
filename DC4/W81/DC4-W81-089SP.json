@@ -1,0 +1,33 @@
+{
+	"set": "DC4",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "089SP",
+	"name": "",
+	"jpName": "恋のはじまり 有里栖",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。",
+		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「この恋は、世界を変える」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から5枚を、控え室に置き、相手にＸダメージを与え、そのターン中、このカードのパワーを＋1000。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"令嬢"
+	],
+	"version": "2",
+	"cardcode": "DC4/W81-089SP"
+}

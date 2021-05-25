@@ -1,0 +1,32 @@
+{
+	"set": "OMS",
+	"setName": "おそ松さん",
+	"side": "S",
+	"release": "41",
+	"id": "070S",
+	"name": "",
+	"jpName": "“F６”一松",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのカード名に「松」を含むキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「松」を含むキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"６つ子",
+		"動物"
+	],
+	"version": "2",
+	"cardcode": "OMS/S41-070S"
+}

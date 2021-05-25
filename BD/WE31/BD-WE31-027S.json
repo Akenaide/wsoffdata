@@ -1,0 +1,32 @@
+{
+	"set": "BD",
+	"setName": "スペシャルパック　「バンドリ！ ガールズバンドパーティ！ 」",
+	"side": "W",
+	"release": "E31",
+	"id": "027S",
+	"name": "",
+	"jpName": "“重なり合う青薔薇”白金燐子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】【CXコンボ】［手札を1枚控え室に置き、あなたの【スタンド】している《Roselia》のキャラを2枚【レスト】する］ あなたのクライマックス置場に「重なり合う青薔薇」が置かれた時、あなたのレベルが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Roselia"
+	],
+	"version": "2",
+	"cardcode": "BD/WE31-027S"
+}

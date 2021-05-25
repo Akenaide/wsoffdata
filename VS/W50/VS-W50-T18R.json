@@ -1,0 +1,33 @@
+{
+	"set": "VS",
+	"setName": "[TD+]ViVid Strike!",
+	"side": "W",
+	"release": "50",
+	"id": "T18R",
+	"name": "",
+	"jpName": "“純白のトータルファイター”リンネ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《格闘》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】［(3)］ このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、他のあなたの《格闘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に同じダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"格闘",
+		"令嬢"
+	],
+	"version": "2",
+	"cardcode": "VS/W50-T18R"
+}

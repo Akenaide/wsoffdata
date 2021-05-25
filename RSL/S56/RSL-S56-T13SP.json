@@ -1,0 +1,32 @@
+{
+	"set": "RSL",
+	"setName": "[TD+]少女☆歌劇 レヴュースタァライト",
+	"side": "S",
+	"release": "56",
+	"id": "T13SP",
+	"name": "",
+	"jpName": "運命の舞台 愛城 華恋",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《レヴュー》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+		"【自】［(1)］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。"
+	],
+	"specialAttrib": [
+		"レヴュー",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "RSL/S56-T13SP"
+}

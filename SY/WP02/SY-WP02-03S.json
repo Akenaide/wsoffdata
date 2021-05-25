@@ -1,0 +1,30 @@
+{
+	"set": "SY",
+	"setName": "パワーアップセット 涼宮ハルヒの憂鬱",
+	"side": "W",
+	"release": "P02",
+	"id": "03S",
+	"name": "",
+	"jpName": "ひと休み ハルヒ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の、《団長》か《SOS団》のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"団長",
+		"SOS団"
+	],
+	"version": "2",
+	"cardcode": "SY/WP02-03S"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "BD",
+	"setName": "「BanG Dream!」Vol.2",
+	"side": "W",
+	"release": "73",
+	"id": "027SPb",
+	"name": "",
+	"jpName": "“あたしたちの音楽”上原ひまり",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SPb",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「あたしたちのメロディ」があるなら、そのターン中、このカードのパワーを＋1000し、あなたは自分の山札の上から2枚を、控え室に置き、それらのカードの『アラーム』を持つカードかイベント1枚につき、次の行動を行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Afterglow"
+	],
+	"version": "2",
+	"cardcode": "BD/W73-027SPb"
+}

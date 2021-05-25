@@ -1,0 +1,32 @@
+{
+	"set": "MK",
+	"setName": "探偵オペラ　ミルキィホームズ",
+	"side": "S",
+	"release": "11",
+	"id": "051S",
+	"name": "",
+	"jpName": "シャーロック・シェリンフォード",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《探偵》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ドジっ子探偵 シャロ」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"探偵",
+		"カメラ"
+	],
+	"version": "2",
+	"cardcode": "MK/S11-051S"
+}

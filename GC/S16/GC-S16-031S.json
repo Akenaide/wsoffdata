@@ -1,0 +1,32 @@
+{
+	"set": "GC",
+	"setName": "ギルティクラウン",
+	"side": "S",
+	"release": "16",
+	"id": "031S",
+	"name": "",
+	"jpName": "空を見上げる集",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは自分のストックの上から1枚を、控え室に置く。",
+		"【自】 このカードがアタックした時、クライマックス置場に｢王の素質｣があるなら、あなたは自分のストックの上から1枚を、手札に戻し、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"葬儀社",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "GC/S16-031S"
+}

@@ -1,0 +1,29 @@
+{
+	"set": "RW",
+	"setName": "Rewrite",
+	"side": "W",
+	"release": "15",
+	"id": "068R",
+	"name": "",
+	"jpName": "贖罪",
+	"cardType": "CX",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL",
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。"
+	],
+	"specialAttrib": [],
+	"version": "2",
+	"cardcode": "RW/W15-068R"
+}

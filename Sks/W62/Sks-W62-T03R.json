@@ -1,0 +1,31 @@
+{
+	"set": "Sks",
+	"setName": "[TD+]角川スニーカー文庫",
+	"side": "W",
+	"release": "62",
+	"id": "T03R",
+	"name": "",
+	"jpName": "負けず嫌いのアークウィザード めぐみん",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《スニーカー文庫》か《冒険者》か《魔法》のキャラの枚数×1000に等しい。",
+		"【自】 バトル中のこのカードが【リバース】した時、相手は1枚引いてよい。そうしたら、相手は自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"冒険者",
+		"魔法"
+	],
+	"version": "2",
+	"cardcode": "Sks/W62-T03R"
+}

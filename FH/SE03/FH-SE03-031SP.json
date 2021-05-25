@@ -1,0 +1,32 @@
+{
+	"set": "FH",
+	"setName": "Fate/hollow ataraxia",
+	"side": "S",
+	"release": "E03",
+	"id": "031SP",
+	"name": "",
+	"jpName": "遠坂神社の神主アーチャー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室の「遠坂神社の巫女 凛」が3枚以上なら、このカードのパワーを＋1500。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "FH/SE03-031SP"
+}

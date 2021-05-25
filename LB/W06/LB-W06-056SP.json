@@ -1,0 +1,31 @@
+{
+	"set": "LB",
+	"setName": "リトルバスターズ! エクスタシー",
+	"side": "W",
+	"release": "06",
+	"id": "056SP",
+	"name": "",
+	"jpName": "“エクスタシーモード”沙耶",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋1000。",
+		"【自】 相手のアンコールステップの始めに、あなたのクロックが6枚なら、あなたはこのカードを【レスト】し、自分のクロックすべてを、山札に戻す。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "LB/W06-056SP"
+}

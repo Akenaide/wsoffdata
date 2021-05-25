@@ -1,0 +1,32 @@
+{
+	"set": "LS",
+	"setName": "らき☆すた",
+	"side": "W",
+	"release": "05",
+	"id": "052R",
+	"name": "",
+	"jpName": "ツンデレ特急かがみ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「バレンタイン」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。",
+		"【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは相手のキャラを1枚選び、そのターン中、《お菓子》を与え、レベルを－1。"
+	],
+	"specialAttrib": [
+		"双子",
+		"お菓子"
+	],
+	"version": "2",
+	"cardcode": "LS/W05-052R"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "KS",
+	"setName": "映画 この素晴らしい世界に祝福を！紅伝説",
+	"side": "W",
+	"release": "76",
+	"id": "040S",
+	"name": "",
+	"jpName": "“照れ笑い”めぐみん",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の、《冒険者》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《冒険者》か《魔法》のキャラの枚数×500に等しい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"魔法"
+	],
+	"version": "2",
+	"cardcode": "KS/W76-040S"
+}

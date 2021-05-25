@@ -1,0 +1,31 @@
+{
+	"set": "GU",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E26",
+	"id": "P08S",
+	"name": "",
+	"jpName": "もふもふあったかい チマメ隊",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札の青のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、他のあなたの青のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"ラビットハウス"
+	],
+	"version": "2",
+	"cardcode": "GU/WE26-P08S"
+}

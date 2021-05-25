@@ -1,0 +1,32 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL",
+	"side": "S",
+	"release": "09",
+	"id": "027SP",
+	"name": "",
+	"jpName": "妖精の尻尾の魔導士 ルーシィ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋1500。",
+		"【自】［(2)］ あなたのクライマックス置場に「星霊の力」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下の《鍵》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"鍵"
+	],
+	"version": "2",
+	"cardcode": "FT/S09-027SP"
+}

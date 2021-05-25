@@ -1,0 +1,33 @@
+{
+	"set": "SGS",
+	"setName": "スクールガールストライカーズ",
+	"side": "S",
+	"release": "37",
+	"id": "004SP",
+	"name": "",
+	"jpName": "沙島 悠水",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの黄のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋1000し、このカードは相手の効果に選ばれない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"ストライカー",
+		"料理"
+	],
+	"version": "2",
+	"cardcode": "SGS/S37-004SP"
+}

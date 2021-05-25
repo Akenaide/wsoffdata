@@ -1,0 +1,32 @@
+{
+	"set": "GC",
+	"setName": "ギルティクラウン",
+	"side": "S",
+	"release": "16",
+	"id": "077SP",
+	"name": "",
+	"jpName": "篠宮 綾瀬",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【自】［(1) 手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、 あなたは相手のキャラを1枚選び、【スタンド】して相手の舞台のキャラのいない他の枠に動かし、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"葬儀社",
+		"車椅子"
+	],
+	"version": "2",
+	"cardcode": "GC/S16-077SP"
+}

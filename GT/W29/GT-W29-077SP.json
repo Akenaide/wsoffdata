@@ -1,0 +1,33 @@
+{
+	"set": "GT",
+	"setName": "幻影ヲ駆ケル太陽",
+	"side": "W",
+	"release": "29",
+	"id": "077SP",
+	"name": "",
+	"jpName": "星の力 せいら",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《タロット》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【起】［手札を1枚控え室に置く］ あなたは他の自分の《タロット》のキャラを1枚選び、そのターン中、パワーを＋1500し、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"タロット",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "GT/W29-077SP"
+}

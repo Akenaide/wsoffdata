@@ -1,0 +1,33 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」Vol.2",
+	"side": "S",
+	"release": "77",
+	"id": "042SP",
+	"name": "",
+	"jpName": "戦う覚悟 凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 共鳴 ［手札の「宝石剣ゼルレッチ」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"宝石"
+	],
+	"version": "2",
+	"cardcode": "FS/S77-042SP"
+}

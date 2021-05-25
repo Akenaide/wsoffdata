@@ -1,0 +1,32 @@
+{
+	"set": "APO",
+	"setName": "Fate/Apocrypha",
+	"side": "S",
+	"release": "53",
+	"id": "028SP",
+	"name": "",
+	"jpName": "“最後の一閃”赤のセイバー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(2) あなたのレベル置場の表向きのカードを1枚裏向きにする］ このカードがアタックした時、クライマックス置場に「燦然と輝く王剣」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与え、次の相手のターンの終わりまで、このカードのパワーを＋3500。Ｘはあなたのレベル置場の裏向きのカードの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"王族"
+	],
+	"version": "2",
+	"cardcode": "APO/S53-028SP"
+}

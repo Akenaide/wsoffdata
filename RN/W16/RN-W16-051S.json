@@ -1,0 +1,32 @@
+{
+	"set": "RN",
+	"setName": "ロボティクス・ノーツ",
+	"side": "W",
+	"release": "16",
+	"id": "051S",
+	"name": "",
+	"jpName": "小さくても力持ち 淳和",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《科学》のキャラすべてに、パワーを＋1000。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードは次の能力を得る。『【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』"
+	],
+	"specialAttrib": [
+		"科学",
+		"スポーツ"
+	],
+	"version": "2",
+	"cardcode": "RN/W16-051S"
+}

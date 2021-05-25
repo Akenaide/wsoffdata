@@ -1,0 +1,32 @@
+{
+	"set": "RW",
+	"setName": "Rewrite Harvest festa!",
+	"side": "W",
+	"release": "20",
+	"id": "002S",
+	"name": "",
+	"jpName": "“いたずらなキス”ちはや",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。",
+		"【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"お菓子",
+		"オカルト"
+	],
+	"version": "2",
+	"cardcode": "RW/W20-002S"
+}

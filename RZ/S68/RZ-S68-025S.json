@@ -1,0 +1,33 @@
+{
+	"set": "RZ",
+	"setName": "Re:ゼロから始める異世界生活 Memory Snow",
+	"side": "S",
+	"release": "68",
+	"id": "025S",
+	"name": "",
+	"jpName": "超芸術家 ラム",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「素晴らしきスバワール様像」がいるなら、このカードのパワーを＋2000。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「理想の融合 レム」を1枚選び、舞台の好きな枠に置く。",
+		"【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「期待の眼差し」があり、他のあなたの《Memory Snow》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"Memory Snow"
+	],
+	"version": "2",
+	"cardcode": "RZ/S68-025S"
+}

@@ -1,0 +1,33 @@
+{
+	"set": "N2",
+	"setName": "魔法少女リリカルなのは The MOVIE 1st ＆ 2nd A's",
+	"side": "W",
+	"release": "32",
+	"id": "053S",
+	"name": "",
+	"jpName": "決意の眼差し なのは",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の《魔法》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが3枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "N2/W32-053S"
+}

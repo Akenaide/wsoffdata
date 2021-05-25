@@ -1,0 +1,32 @@
+{
+	"set": "SY",
+	"setName": "涼宮ハルヒの憂鬱",
+	"side": "W",
+	"release": "08",
+	"id": "026R",
+	"name": "",
+	"jpName": "異時間同位体 みくる＆みくる（大）",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「禁則事項です」があるなら、次の相手のターンの終わりまで、相手はイベントを手札からプレイできない。",
+		"【自】 このカードがアタックした時、クライマックス置場に「禁則事項です」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"時間",
+		"SOS団"
+	],
+	"version": "2",
+	"cardcode": "SY/W08-026R"
+}

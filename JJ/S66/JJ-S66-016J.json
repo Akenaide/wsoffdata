@@ -1,0 +1,32 @@
+{
+	"set": "JJ",
+	"setName": "ジョジョの奇妙な冒険 黄金の風",
+	"side": "S",
+	"release": "66",
+	"id": "016J",
+	"name": "",
+	"jpName": "死を撒く煙 フーゴ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "JJR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《黄金の風》なら、このカードのパワーを＋1000。",
+		"【自】［手札を2枚控え室に置く］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"黄金の風",
+		"スタンド使い"
+	],
+	"version": "2",
+	"cardcode": "JJ/S66-016J"
+}

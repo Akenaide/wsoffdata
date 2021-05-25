@@ -1,0 +1,32 @@
+{
+	"set": "MM",
+	"setName": "劇場版 魔法少女まどか☆マギカ[新編]叛逆の物語",
+	"side": "W",
+	"release": "35",
+	"id": "081S",
+	"name": "",
+	"jpName": "“あたしの役目”さやか",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】[(2) このカードを【レスト】する］ あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"愛"
+	],
+	"version": "2",
+	"cardcode": "MM/W35-081S"
+}

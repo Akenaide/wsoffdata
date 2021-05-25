@@ -1,0 +1,32 @@
+{
+	"set": "LL",
+	"setName": "ラブライブ！",
+	"side": "W",
+	"release": "24",
+	"id": "031S",
+	"name": "",
+	"jpName": "音ノ木坂学院３年生 絵里",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"生徒会"
+	],
+	"version": "2",
+	"cardcode": "LL/W24-031S"
+}

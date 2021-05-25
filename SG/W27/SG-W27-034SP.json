@@ -1,0 +1,33 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアG",
+	"side": "W",
+	"release": "27",
+	"id": "034SP",
+	"name": "",
+	"jpName": "“レセプターチルドレン”切歌",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場に、「月読 調」と「暁 切歌」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの「“レセプターチルドレン”調」1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SG/W27-034SP"
+}

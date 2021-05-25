@@ -1,0 +1,30 @@
+{
+	"set": "VS",
+	"setName": "ViVid Strike!",
+	"side": "W",
+	"release": "50",
+	"id": "007S",
+	"name": "",
+	"jpName": "基本の構え アインハルト",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】［(1) このカードをバトル中のキャラの下にマーカーとして裏向きに置く］ 他のあなたのバトル中のマーカーを持つカード名に「フーカ」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《格闘》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"格闘",
+		"覇王流"
+	],
+	"version": "2",
+	"cardcode": "VS/W50-007S"
+}

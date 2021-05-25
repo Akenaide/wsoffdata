@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "スペシャルパック　「バンドリ！ ガールズバンドパーティ！ 」",
+	"side": "W",
+	"release": "E31",
+	"id": "017H",
+	"name": "",
+	"jpName": "“煌めくステージへ”丸山彩",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "HR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは、色条件を満たさずに手札からプレイできる。",
+		"【永】 あなたの《Pastel＊Palettes》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを?1。",
+		"【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのクライマックス置場に「煌めくステージへ」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《Pastel＊Palettes》のキャラなら舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋3000。（そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Pastel＊Palettes"
+	],
+	"version": "2",
+	"cardcode": "BD/WE31-017H"
+}

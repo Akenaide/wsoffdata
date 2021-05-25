@@ -1,0 +1,33 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします",
+	"side": "W",
+	"release": "86",
+	"id": "027S",
+	"name": "",
+	"jpName": "待ち焦がれる 墨",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのカード名に「墨」を含むキャラすべてに、パワーを＋1500。",
+		"【自】 経験 ［手札を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたのレベル置場に「人見知りの“彼女” 墨」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"ダイアモンド"
+	],
+	"version": "2",
+	"cardcode": "KNK/W86-027S"
+}

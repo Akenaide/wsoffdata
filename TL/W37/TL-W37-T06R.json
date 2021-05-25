@@ -1,0 +1,32 @@
+{
+	"set": "TL",
+	"setName": "2015年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "37",
+	"id": "T06R",
+	"name": "",
+	"jpName": "“心の迷い”芽亜",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"変身",
+		"お菓子"
+	],
+	"version": "2",
+	"cardcode": "TL/W37-T06R"
+}

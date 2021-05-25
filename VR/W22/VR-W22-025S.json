@@ -1,0 +1,32 @@
+{
+	"set": "VR",
+	"setName": "ビビッドレッド・オペレーション",
+	"side": "W",
+	"release": "22",
+	"id": "025S",
+	"name": "",
+	"jpName": "ビビッドグリーン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の《鍵》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、クライマックス置場に「ビビッドブレード」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"鍵",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "VR/W22-025S"
+}

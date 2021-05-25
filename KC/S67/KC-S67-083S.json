@@ -1,0 +1,32 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」5th Phase",
+	"side": "S",
+	"release": "67",
+	"id": "083S",
+	"name": "",
+	"jpName": "最上型航空巡洋艦3番艦 鈴谷改二",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。",
+		"【起】［あなたのキャラを2枚【レスト】する］ このカードを控え室に置く。あなたは自分の控え室の「最上型軽空母3番艦 鈴谷航改二」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"航空巡洋艦"
+	],
+	"version": "2",
+	"cardcode": "KC/S67-083S"
+}

@@ -1,0 +1,33 @@
+{
+	"set": "DBG",
+	"setName": "神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "002SP",
+	"name": "",
+	"jpName": "映画撮影の日 成神 空",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《夏》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"夏",
+		"映画"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-002SP"
+}

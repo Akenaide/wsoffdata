@@ -1,0 +1,32 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ3",
+	"side": "S",
+	"release": "01",
+	"id": "081R",
+	"name": "",
+	"jpName": "ゆかり＆イシス",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「父の遺志」があるなら、あなたは1枚引く。",
+		"【起】［(4)］ あなたは自分のクロックを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "P3/S01-081R"
+}

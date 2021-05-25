@@ -1,0 +1,32 @@
+{
+	"set": "FH",
+	"setName": "Fate/hollow ataraxia",
+	"side": "S",
+	"release": "E03",
+	"id": "020SP",
+	"name": "",
+	"jpName": "ドレス姿の桜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「エスコート」があるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500し、このカードのパワーを＋1500。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"マスター",
+		"ドレス"
+	],
+	"version": "2",
+	"cardcode": "FH/SE03-020SP"
+}

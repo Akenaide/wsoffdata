@@ -1,0 +1,29 @@
+{
+	"set": "IMC",
+	"setName": "2015年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "41",
+	"id": "T41SP",
+	"name": "",
+	"jpName": "始まりの一歩 凛",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "IMC/W41-T41SP"
+}

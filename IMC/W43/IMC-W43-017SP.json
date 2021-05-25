@@ -1,0 +1,33 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ 2nd SEASON",
+	"side": "W",
+	"release": "43",
+	"id": "017SP",
+	"name": "",
+	"jpName": "永遠の17歳 菜々",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの赤のキャラが3枚以上なら、このカードのパワーを＋2000。",
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ウサミン"
+	],
+	"version": "2",
+	"cardcode": "IMC/W43-017SP"
+}

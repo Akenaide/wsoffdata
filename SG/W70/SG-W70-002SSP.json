@@ -1,0 +1,31 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアAXZ",
+	"side": "W",
+	"release": "70",
+	"id": "002SSP",
+	"name": "",
+	"jpName": "“Alchemic Gold”響",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+		"【自】【CXコンボ】［(4)］ このカードがアタックした時、クライマックス置場に「TESTAMENT」があり、他のあなたの《音楽》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、次の行動を2回行う。『相手に1ダメージを与える。』』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "SG/W70-002SSP"
+}

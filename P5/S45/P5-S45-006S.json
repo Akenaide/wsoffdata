@@ -1,0 +1,31 @@
+{
+	"set": "P5",
+	"setName": "ペルソナ５",
+	"side": "S",
+	"release": "45",
+	"id": "006S",
+	"name": "",
+	"jpName": "“総攻撃”主人公 / JOKER",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《怪盗》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「THE SHOW\u0026#39;S OVER」があり、他のあなたの《怪盗》のキャラが4枚以上なら、あなたは1枚引き、自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"怪盗"
+	],
+	"version": "2",
+	"cardcode": "P5/S45-006S"
+}

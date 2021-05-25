@@ -1,0 +1,32 @@
+{
+	"set": "DBG",
+	"setName": "神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "070",
+	"name": "",
+	"jpName": "金魚すくいの達人 伊座並 杏子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「前に進むために 伊座並 杏子」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"夏",
+		"家族"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-070"
+}

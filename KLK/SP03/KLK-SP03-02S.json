@@ -1,0 +1,31 @@
+{
+	"set": "KLK",
+	"setName": "パワーアップセット キルラキル",
+	"side": "S",
+	"release": "P03",
+	"id": "02S",
+	"name": "",
+	"jpName": "“人衣一体”鮮血",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの、《服》か《家族》のキャラすべてに、パワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を見てよい。そうしたら、あなたはそのカードをこのカードの下にマーカーとして裏向きに置く。",
+		"【起】［このカードの下のマーカーを1枚控え室に置く］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"服",
+		"血"
+	],
+	"version": "2",
+	"cardcode": "KLK/SP03-02S"
+}

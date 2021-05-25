@@ -1,0 +1,32 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」深海棲艦見ゆ",
+	"side": "S",
+	"release": "E28",
+	"id": "03SP",
+	"name": "",
+	"jpName": "最終形態 北方棲姫",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場すべてが《深海棲艦》のキャラなら、このカードのパワーを＋1500。",
+		"【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"深海棲艦",
+		"姫"
+	],
+	"version": "2",
+	"cardcode": "KC/SE28-03SP"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "MB",
+	"setName": "MELTY BLOOD",
+	"side": "S",
+	"release": "10",
+	"id": "002R",
+	"name": "",
+	"jpName": "真祖の王族 アルクェイド",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(2)］ このカードがアタックした時、クライマックス置場に「空想具現化」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、ストック置場に置き、そのターン中、このカードのパワーを＋3000。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"王族",
+		"血"
+	],
+	"version": "2",
+	"cardcode": "MB/S10-002R"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "CCS",
+	"setName": "[TD+]カードキャプターさくら クリアカード編",
+	"side": "W",
+	"release": "66",
+	"id": "T18R",
+	"name": "",
+	"jpName": "“備えあれば”大道寺知世",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"\n【自】 このカードがアタックした時、あなたは他の自分の《クリアカード編》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"カメラ",
+		"クリアカード編"
+	],
+	"version": "2",
+	"cardcode": "CCS/W66-T18R"
+}

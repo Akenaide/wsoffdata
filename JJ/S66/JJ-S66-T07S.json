@@ -1,0 +1,32 @@
+{
+	"set": "JJ",
+	"setName": "[TD+]ジョジョの奇妙な冒険 黄金の風",
+	"side": "S",
+	"release": "66",
+	"id": "T07S",
+	"name": "",
+	"jpName": "黄金の意思 ジョルノ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「黄金体験」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《黄金の風》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札の「黄金体験 G･E」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"黄金の風",
+		"スタンド使い"
+	],
+	"version": "2",
+	"cardcode": "JJ/S66-T07S"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "LOD",
+	"setName": "ロストディケイド",
+	"side": "S",
+	"release": "74",
+	"id": "037S",
+	"name": "",
+	"jpName": "最初の団員 キャロライン＆ユア＆エレーナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+		"【永】 他のあなたの後列の《冒険者》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"冒険者"
+	],
+	"version": "2",
+	"cardcode": "LOD/S74-037S"
+}

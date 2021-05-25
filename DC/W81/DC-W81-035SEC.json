@@ -1,0 +1,34 @@
+{
+	"set": "DC",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "035SEC",
+	"name": "",
+	"jpName": "月明かりの告白 小恋",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SEC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、特徴を持たないか《Anniversary》か《音楽》か《演劇》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 前列にこのカードがいるなら、あなたの、特徴を持たないか《Anniversary》か《音楽》か《演劇》のキャラすべてに、パワーを＋1500。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「伝わる温もり」があるなら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"ー"
+	],
+	"version": "2",
+	"cardcode": "DC/W81-035SEC"
+}

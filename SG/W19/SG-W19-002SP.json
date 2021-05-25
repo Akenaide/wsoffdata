@@ -1,0 +1,31 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギア",
+	"side": "W",
+	"release": "19",
+	"id": "002SP",
+	"name": "",
+	"jpName": "立花 響",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か「ガングニール」の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、クライマックス置場に「守りたいものがあるんです！」があるなら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、次の相手のターンの終わりまで、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "SG/W19-002SP"
+}

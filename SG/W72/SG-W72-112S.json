@@ -1,0 +1,33 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアXD UNLIMITED EXTEND",
+	"side": "W",
+	"release": "72",
+	"id": "112S",
+	"name": "",
+	"jpName": "【DESTRUCTION SABBATH：力】クリス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "3",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「DESTRUCTION SABBATH」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+		"【自】 記憶 あなたのアンコールステップの始めに、あなたの思い出置場に「イグナイトモジュール」がないなら、このカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SG/W72-112S"
+}

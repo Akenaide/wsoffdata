@@ -1,0 +1,32 @@
+{
+	"set": "DBG",
+	"setName": "[TD+]神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "T06",
+	"name": "",
+	"jpName": "神との遭遇 成神 空",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《夏》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、あなたは他の自分の《夏》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《夏》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"夏",
+		"映画"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-T06"
+}

@@ -1,0 +1,31 @@
+{
+	"set": "GT",
+	"setName": "幻影ヲ駆ケル太陽",
+	"side": "W",
+	"release": "29",
+	"id": "051SP",
+	"name": "",
+	"jpName": "新人隊員　あかり",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1) 手札の「拓かれた運命」を1枚控え室に置き、このカードをクロック置場に置く］ バトル中のこのカードが【リバース】した時、他のあなたの《タロット》のキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは自分の控え室の「太陽の力 あかり」を1枚選び、このカードがいた枠に【レスト】して置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"タロット",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "GT/W29-051SP"
+}

@@ -1,0 +1,30 @@
+{
+	"set": "DBG",
+	"setName": "[TD+]神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "T02",
+	"name": "",
+	"jpName": "辛辣な言葉 伊座並 杏子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《夏》のキャラかイベントならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"夏",
+		"家族"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-T02"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "LSS",
+	"setName": "ラブライブ！サンシャイン!!",
+	"side": "W",
+	"release": "45",
+	"id": "002SP",
+	"name": "",
+	"jpName": "“青空Jumping Heart”黒澤 ルビィ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。",
+		"【自】 すべてのプレイヤーのアタックフェイズの始めに、あなたの控え室に「“恋になりたいAQUARIUM”黒澤 ルビィ」があるなら、そのターン中、このカードのパワーを＋1000し、このカードは相手の効果に選ばれない。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LSS/W45-002SP"
+}

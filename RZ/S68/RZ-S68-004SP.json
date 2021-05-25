@@ -1,0 +1,33 @@
+{
+	"set": "RZ",
+	"setName": "Re:ゼロから始める異世界生活 Memory Snow",
+	"side": "S",
+	"release": "68",
+	"id": "004SP",
+	"name": "",
+	"jpName": "“Memory Snow”スバル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「飛行強襲型大火力決戦兵器YUKI-USAGI」を1枚選び、手札に戻す。",
+		"【自】 記憶 このカードがアタックした時、あなたの思い出置場の「雪うさぎ」が4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"Memory Snow"
+	],
+	"version": "2",
+	"cardcode": "RZ/S68-004SP"
+}

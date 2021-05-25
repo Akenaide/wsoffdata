@@ -1,0 +1,33 @@
+{
+	"set": "Sks",
+	"setName": "[TD+]角川スニーカー文庫",
+	"side": "W",
+	"release": "62",
+	"id": "T18SP",
+	"name": "",
+	"jpName": "アクシズ教団の崇めるご神体 アクア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《スニーカー文庫》か《冒険者》か《女神》のキャラの枚数に等しい。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《スニーカー文庫》か《冒険者》か《女神》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"冒険者",
+		"女神"
+	],
+	"version": "2",
+	"cardcode": "Sks/W62-T18SP"
+}

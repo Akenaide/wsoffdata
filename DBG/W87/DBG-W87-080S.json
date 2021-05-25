@@ -1,0 +1,32 @@
+{
+	"set": "DBG",
+	"setName": "神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "080S",
+	"name": "",
+	"jpName": "リベルタス杯主催者 天願 賀子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《夏》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】【CXコンボ】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のレベルＸ以下の《夏》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「無限立直」の枚数に等しい。"
+	],
+	"specialAttrib": [
+		"夏",
+		"麻雀"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-080S"
+}

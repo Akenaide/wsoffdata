@@ -1,0 +1,32 @@
+{
+	"set": "FH",
+	"setName": "Fate/hollow ataraxia",
+	"side": "S",
+	"release": "E03",
+	"id": "007SP",
+	"name": "",
+	"jpName": "平穏な日常セイバー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 チェンジ ［このカードをクロック置場に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「水辺の王様セイバー」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"王族"
+	],
+	"version": "2",
+	"cardcode": "FH/SE03-007SP"
+}

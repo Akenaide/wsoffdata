@@ -1,0 +1,32 @@
+{
+	"set": "FZ",
+	"setName": "Fate/Zero",
+	"side": "S",
+	"release": "17",
+	"id": "008S",
+	"name": "",
+	"jpName": "聖杯の器 アイリスフィール",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の《サーヴァント》のキャラを2枚まで選び、そのターン中、ソウルを＋1。",
+		"【自】【クロック】 シフト レベル2 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+	],
+	"specialAttrib": [
+		"ホムンクルス",
+		"錬金術"
+	],
+	"version": "2",
+	"cardcode": "FZ/S17-008S"
+}

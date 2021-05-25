@@ -1,0 +1,31 @@
+{
+	"set": "EV",
+	"setName": "ヱヴァンゲリヲン新劇場版",
+	"side": "S",
+	"release": "12",
+	"id": "007S",
+	"name": "",
+	"jpName": "未来を託すミサト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのソウルを＋1。",
+		"【自】［(1)］ あなたのクライマックス置場に「託された未来」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以下のキャラなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを舞台の好きな枠に置く。（そうしないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"動物"
+	],
+	"version": "2",
+	"cardcode": "EV/S12-007S"
+}

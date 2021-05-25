@@ -1,0 +1,32 @@
+{
+	"set": "IAS",
+	"setName": "アイドルマスター ミリオンライブ！",
+	"side": "S",
+	"release": "61",
+	"id": "016SP",
+	"name": "",
+	"jpName": "デキるウェイトレス？　双海真美",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 この能力は1ターンにつき3回まで発動する。他のあなたのキャラが控え室から舞台に置かれた時、そのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"双子"
+	],
+	"version": "2",
+	"cardcode": "IAS/S61-016SP"
+}

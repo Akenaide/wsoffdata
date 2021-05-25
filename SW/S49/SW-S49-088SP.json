@@ -1,0 +1,32 @@
+{
+	"set": "SW",
+	"setName": "STAR WARS",
+	"side": "S",
+	"release": "49",
+	"id": "088SP",
+	"name": "",
+	"jpName": "“覚醒”レイ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000し、このカードの正面のキャラのソウルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「Lightsaber」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「The Force Awakens」があるなら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－1。』"
+	],
+	"specialAttrib": [
+		"フォースの覚醒"
+	],
+	"version": "2",
+	"cardcode": "SW/S49-088SP"
+}

@@ -1,0 +1,31 @@
+{
+	"set": "NM",
+	"setName": "偽物語",
+	"side": "S",
+	"release": "24",
+	"id": "026R",
+	"name": "",
+	"jpName": "守りたい人 戦場ヶ原ひたぎ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは他の自分の《怪異》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。』",
+		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"怪異"
+	],
+	"version": "2",
+	"cardcode": "NM/S24-026R"
+}

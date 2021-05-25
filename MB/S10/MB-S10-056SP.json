@@ -1,0 +1,31 @@
+{
+	"set": "MB",
+	"setName": "MELTY BLOOD",
+	"side": "S",
+	"release": "10",
+	"id": "056SP",
+	"name": "",
+	"jpName": "浅上女学院の生徒 秋葉",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+		"【起】［あなたの《血》のキャラを2枚【レスト】する］ あなたは相手の控え室のカードを1枚選び、山札の上に置く。"
+	],
+	"specialAttrib": [
+		"血"
+	],
+	"version": "2",
+	"cardcode": "MB/S10-056SP"
+}

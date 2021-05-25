@@ -1,0 +1,32 @@
+{
+	"set": "DG",
+	"setName": "魔界戦記ディスガイア",
+	"side": "S",
+	"release": "02",
+	"id": "027R",
+	"name": "",
+	"jpName": "暴君エトナ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、その山札をシャッフルし、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"プリニー"
+	],
+	"version": "2",
+	"cardcode": "DG/S02-027R"
+}

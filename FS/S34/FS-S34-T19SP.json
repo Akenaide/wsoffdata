@@ -1,0 +1,32 @@
+{
+	"set": "FS",
+	"setName": "2015年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "34",
+	"id": "T19SP",
+	"name": "",
+	"jpName": "宝石魔術師 凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 他のあなたの、《マスター》か《サーヴァント》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"宝石"
+	],
+	"version": "2",
+	"cardcode": "FS/S34-T19SP"
+}

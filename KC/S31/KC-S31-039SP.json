@@ -1,0 +1,32 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」第二艦隊",
+	"side": "S",
+	"release": "31",
+	"id": "039SP",
+	"name": "",
+	"jpName": "川内型軽巡3番艦 那珂改二",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "9000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。",
+		"【自】 このカードがアタックした時、クライマックス置場に「那珂ちゃんセンター、一番の見せ場です！」があるなら、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の山札の上から1枚を、クロック置場に置く。"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"軽巡洋艦"
+	],
+	"version": "2",
+	"cardcode": "KC/S31-039SP"
+}

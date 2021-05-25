@@ -1,0 +1,32 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ",
+	"side": "S",
+	"release": "81",
+	"id": "P01S",
+	"name": "",
+	"jpName": "夢に向かって 真乃\u0026灯織\u0026めぐる",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードの持つ色の合計が2色以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"イルミネーションスターズ"
+	],
+	"version": "2",
+	"cardcode": "ISC/S81-P01S"
+}

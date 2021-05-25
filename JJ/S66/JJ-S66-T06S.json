@@ -1,0 +1,33 @@
+{
+	"set": "JJ",
+	"setName": "[TD+]ジョジョの奇妙な冒険 黄金の風",
+	"side": "S",
+	"release": "66",
+	"id": "T06S",
+	"name": "",
+	"jpName": "黄金体験 G･E",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「黄金の意思 ジョルノ」すべてに、パワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《黄金の風》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"黄金の風",
+		"スタンド"
+	],
+	"version": "2",
+	"cardcode": "JJ/S66-T06S"
+}

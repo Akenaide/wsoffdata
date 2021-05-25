@@ -1,0 +1,32 @@
+{
+	"set": "DC",
+	"setName": "D.C. D.C.II プラスコミュニケーション",
+	"side": "W",
+	"release": "09",
+	"id": "002SP",
+	"name": "",
+	"jpName": "くすぐったい毎日 音姫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出が4枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】　このカードとバトル中のキャラが【リバース】した時、あなたはそのキャラをストック置場に置いてよい。』",
+		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"生徒会"
+	],
+	"version": "2",
+	"cardcode": "DC/W09-002SP"
+}

@@ -1,0 +1,30 @@
+{
+	"set": "SY",
+	"setName": "パワーアップセット 涼宮ハルヒの憂鬱",
+	"side": "W",
+	"release": "P02",
+	"id": "08S",
+	"name": "",
+	"jpName": "ひと休み 長門",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
+		"【自】［手札を1枚控え室に置き、このカードを控え室に置く］ 他のあなたの、《宇宙人》か《SOS団》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"宇宙人",
+		"SOS団"
+	],
+	"version": "2",
+	"cardcode": "SY/WP02-08S"
+}

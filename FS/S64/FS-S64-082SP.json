@@ -1,0 +1,33 @@
+{
+	"set": "FS",
+	"setName": "劇場版「Fate/stay night [Heaven’s Feel]」",
+	"side": "S",
+	"release": "64",
+	"id": "082SP",
+	"name": "",
+	"jpName": "ミステリアスな少女 イリヤスフィール",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「狂戦士の咆哮 バーサーカー」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの下から1枚を、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"ホムンクルス"
+	],
+	"version": "2",
+	"cardcode": "FS/S64-082SP"
+}

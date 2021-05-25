@@ -1,0 +1,32 @@
+{
+	"set": "DC3",
+	"setName": "D.C.III～ダ・カーポIII～",
+	"side": "W",
+	"release": "18",
+	"id": "048SP",
+	"name": "",
+	"jpName": "守りたい笑顔 シャルル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+		"【自】 記憶 このカードのバトル相手が【リバース】した時、あなたの思い出が3枚以上なら、あなたはそのキャラを山札の上に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"生徒会"
+	],
+	"version": "2",
+	"cardcode": "DC3/W18-048SP"
+}

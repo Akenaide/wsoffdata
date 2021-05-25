@@ -1,0 +1,33 @@
+{
+	"set": "ND",
+	"setName": "魔法少女リリカルなのは Detonation",
+	"side": "W",
+	"release": "67",
+	"id": "045SSP",
+	"name": "",
+	"jpName": "殲滅の白い光 はやて",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、青か《魔法》のキャラすべてに、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚まで見て、山札の上に置き、相手の山札を上から1枚まで見て、山札の上に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"本"
+	],
+	"version": "2",
+	"cardcode": "ND/W67-045SSP"
+}

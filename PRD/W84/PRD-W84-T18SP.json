@@ -1,0 +1,32 @@
+{
+	"set": "PRD",
+	"setName": "[TD+]アニメ プリンセスコネクト！Re:Dive",
+	"side": "W",
+	"release": "84",
+	"id": "T18SP",
+	"name": "",
+	"jpName": "ギルド結成！ キャル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、相手のキャラを1枚まで選び、手札に戻す。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	],
+	"version": "2",
+	"cardcode": "PRD/W84-T18SP"
+}

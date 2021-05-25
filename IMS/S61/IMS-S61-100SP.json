@@ -1,0 +1,32 @@
+{
+	"set": "IMS",
+	"setName": "アイドルマスター ミリオンライブ！",
+	"side": "S",
+	"release": "61",
+	"id": "100SP",
+	"name": "",
+	"jpName": "特別な時間　天空橋朋花",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】［このカードを【レスト】する］ あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置く。",
+		"【起】 集中 ［(1) 手札を2枚控え室に置く］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードの《音楽》のキャラ1枚につき、あなたは自分の控え室のレベル0以下のキャラを1枚まで選び、舞台の別々の枠に置き、そのターン中、そのキャラに《愛》を与える。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"聖母"
+	],
+	"version": "2",
+	"cardcode": "IMS/S61-100SP"
+}

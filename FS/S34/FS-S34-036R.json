@@ -1,0 +1,32 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night [Unlimited Blade Works]",
+	"side": "S",
+	"release": "34",
+	"id": "036R",
+	"name": "",
+	"jpName": "“英霊”ライダー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のレベル2以下のキャラを1枚選び、控え室に置いてよい。そうしたら、相手は自分の控え室のレベル0以下のキャラを1枚まで選び、そのキャラがいた枠に置く。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「放課後に踊る」があるなら、あなたはそのキャラをクロック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"サーヴァント",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "FS/S34-036R"
+}

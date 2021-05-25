@@ -1,0 +1,32 @@
+{
+	"set": "LB",
+	"setName": "リトルバスターズ! エクスタシー",
+	"side": "W",
+	"release": "06",
+	"id": "052R",
+	"name": "",
+	"jpName": "吹っ切れた佳奈多",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(4)］ このカードがアタックした時、クライマックス置場に「がんばる委員長」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたの《委員長》のキャラの枚数に等しい。（ダメージキャンセルは発生する）",
+		"【起】［あなたの《ビー玉》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"委員長",
+		"双子"
+	],
+	"version": "2",
+	"cardcode": "LB/W06-052R"
+}

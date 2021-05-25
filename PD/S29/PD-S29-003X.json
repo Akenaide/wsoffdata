@@ -1,0 +1,31 @@
+{
+	"set": "PD",
+	"setName": "初音ミク -Project DIVA- F 2nd",
+	"side": "S",
+	"release": "29",
+	"id": "003X",
+	"name": "",
+	"jpName": "鏡音レン“オリジナル”（F 2nd）",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "XR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "PD/S29-003X"
+}

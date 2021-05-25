@@ -1,0 +1,31 @@
+{
+	"set": "P5",
+	"setName": "2016年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "45",
+	"id": "T07S",
+	"name": "",
+	"jpName": "主人公 / JOKER",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《怪盗》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは相手の効果に選ばれない。",
+		"【永】 このカードの正面のキャラのソウルを－1。"
+	],
+	"specialAttrib": [
+		"怪盗"
+	],
+	"version": "2",
+	"cardcode": "P5/S45-T07S"
+}

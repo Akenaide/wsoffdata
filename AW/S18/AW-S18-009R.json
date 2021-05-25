@@ -1,0 +1,32 @@
+{
+	"set": "AW",
+	"setName": "アクセル・ワールド",
+	"side": "S",
+	"release": "18",
+	"id": "009R",
+	"name": "",
+	"jpName": "ブラック・ロータス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル3以下のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "AW/S18-009R"
+}

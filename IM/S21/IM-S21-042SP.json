@@ -1,0 +1,32 @@
+{
+	"set": "IM",
+	"setName": "アニメ「アイドルマスター」",
+	"side": "S",
+	"release": "21",
+	"id": "042SP",
+	"name": "",
+	"jpName": "覚醒する天才 美希",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】［(4) あなたのクライマックス置場の「マリオネットの心」を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"愛"
+	],
+	"version": "2",
+	"cardcode": "IM/S21-042SP"
+}

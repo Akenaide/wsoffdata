@@ -1,0 +1,33 @@
+{
+	"set": "PD",
+	"setName": "初音ミク -Project DIVA- X HD",
+	"side": "S",
+	"release": "E32",
+	"id": "32SP",
+	"name": "",
+	"jpName": "巡音ルカ“ドミネントストーン”",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"エレメント"
+	],
+	"version": "2",
+	"cardcode": "PD/SE32-32SP"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "IM",
+	"setName": "アニメ「アイドルマスター」",
+	"side": "S",
+	"release": "21",
+	"id": "024SP",
+	"name": "",
+	"jpName": "超！美少女アイドル 伊織",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［あなたのキャラを2枚【レスト】する］ あなたのクライマックス置場に「SMOKY THRILL」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"人形"
+	],
+	"version": "2",
+	"cardcode": "IM/S21-024SP"
+}

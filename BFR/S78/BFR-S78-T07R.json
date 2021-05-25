@@ -1,0 +1,31 @@
+{
+	"set": "BFR",
+	"setName": "[TD+]痛いのは嫌なので防御力に極振りしたいと思います。",
+	"side": "S",
+	"release": "78",
+	"id": "T07R",
+	"name": "",
+	"jpName": "心配性 マイ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ゲーム》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"双子"
+	],
+	"version": "2",
+	"cardcode": "BFR/S78-T07R"
+}

@@ -1,0 +1,30 @@
+{
+	"set": "PRD",
+	"setName": "アニメ プリンセスコネクト！Re:Dive",
+	"side": "W",
+	"release": "84",
+	"id": "085SP",
+	"name": "",
+	"jpName": "クエスト達成！ ミソギ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの《ランドソル》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「リトルリリカル大冒険」があり、あなたのキャラすべてが《ランドソル》なら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置き、そうでないならあなたはそのカードを手札に加えるか控え室に置く。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	],
+	"version": "2",
+	"cardcode": "PRD/W84-085SP"
+}

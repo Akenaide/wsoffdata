@@ -1,0 +1,30 @@
+{
+	"set": "JJ",
+	"setName": "[TD+]ジョジョの奇妙な冒険 黄金の風",
+	"side": "S",
+	"release": "66",
+	"id": "T09J",
+	"name": "",
+	"jpName": "黄金体験",
+	"cardType": "CX",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "－",
+	"soul": "0",
+	"rarity": "JJR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL",
+		"RETURN"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+		"（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+	],
+	"specialAttrib": [],
+	"version": "2",
+	"cardcode": "JJ/S66-T09J"
+}

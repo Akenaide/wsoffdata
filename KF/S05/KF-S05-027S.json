@@ -1,0 +1,31 @@
+{
+	"set": "KF",
+	"setName": "THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "05",
+	"id": "027S",
+	"name": "",
+	"jpName": "悪のカリスマ ギース",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「羅生門」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《暗黒街》か《不良》か《悪魔》のキャラの枚数×1000に等しい。",
+		"【起】［手札の、《暗黒街》か《不良》か《悪魔》のキャラを1枚控え室に置く］ あなたは相手のキャラを1枚選び、そのターン中、パワーを－1000。"
+	],
+	"specialAttrib": [
+		"暗黒街"
+	],
+	"version": "2",
+	"cardcode": "KF/S05-027S"
+}

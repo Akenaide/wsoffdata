@@ -1,0 +1,32 @@
+{
+	"set": "ISC",
+	"setName": "[TD+]アイドルマスター シャイニーカラーズ 283プロ ノクチル",
+	"side": "S",
+	"release": "81",
+	"id": "T108SP",
+	"name": "",
+	"jpName": "クリアマリンカーム 浅倉 透",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】［(2) 手札の《音楽》のキャラを2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、あなたの前列の中央の枠のキャラがアタックした時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ノクチル"
+	],
+	"version": "2",
+	"cardcode": "ISC/S81-T108SP"
+}

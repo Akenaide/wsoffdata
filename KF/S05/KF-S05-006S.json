@@ -1,0 +1,32 @@
+{
+	"set": "KF",
+	"setName": "THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "05",
+	"id": "006S",
+	"name": "",
+	"jpName": "炎の貴公子 京",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「完全勝利」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋3000。",
+		"【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「暴走庵」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"神器",
+		"日輪"
+	],
+	"version": "2",
+	"cardcode": "KF/S05-006S"
+}

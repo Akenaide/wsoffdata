@@ -1,0 +1,30 @@
+{
+	"set": "PD",
+	"setName": "初音ミク -Project DIVA- F 2nd",
+	"side": "S",
+	"release": "29",
+	"id": "034R",
+	"name": "",
+	"jpName": "初音ミク“サイレン”",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラならストック置場に置く。そうでないなら、そのカードをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "PD/S29-034R"
+}

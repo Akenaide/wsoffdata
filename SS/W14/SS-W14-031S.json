@@ -1,0 +1,32 @@
+{
+	"set": "SS",
+	"setName": "灼眼のシャナ",
+	"side": "W",
+	"release": "14",
+	"id": "031S",
+	"name": "",
+	"jpName": "シャナ＆アラストール",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《炎》のキャラすべてに、パワーを＋500。",
+		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手でレベル1以上のキャラが【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
+	],
+	"specialAttrib": [
+		"炎",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SS/W14-031S"
+}

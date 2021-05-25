@@ -1,0 +1,32 @@
+{
+	"set": "HLL",
+	"setName": "「ひなろじ ～from Luck ＆ Logic～」Vol.2",
+	"side": "W",
+	"release": "E29",
+	"id": "27SP",
+	"name": "",
+	"jpName": "癒しの光 リオン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《定理者》か《使者》のキャラすべてに、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』",
+		"【自】 このカードが手札から舞台に置かれた時か「誓いのとき リオン」の【起】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"定理者",
+		"使者"
+	],
+	"version": "2",
+	"cardcode": "HLL/WE29-27SP"
+}

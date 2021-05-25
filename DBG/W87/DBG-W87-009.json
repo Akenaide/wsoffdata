@@ -1,0 +1,30 @@
+{
+	"set": "DBG",
+	"setName": "神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "009",
+	"name": "",
+	"jpName": "佐藤 ひな",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。",
+		"【自】 このカードがアタックした時、あなたは他の自分の《夏》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《夏》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"夏",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-009"
+}

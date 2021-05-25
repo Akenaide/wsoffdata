@@ -1,0 +1,32 @@
+{
+	"set": "PD",
+	"setName": "初音ミク -Project DIVA- f",
+	"side": "S",
+	"release": "22",
+	"id": "006S",
+	"name": "",
+	"jpName": "鏡音リン“桜月”",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+		"【自】［(1) あなたの【スタンド】している《音楽》のキャラを2枚【レスト】する］ このカードがアタックした時、クライマックス置場に「天樂」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト1以下のキャラを1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"和服"
+	],
+	"version": "2",
+	"cardcode": "PD/S22-006S"
+}

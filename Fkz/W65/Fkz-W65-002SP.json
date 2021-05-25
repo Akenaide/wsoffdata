@@ -1,0 +1,33 @@
+{
+	"set": "Fkz",
+	"setName": "富士見ファンタジア文庫",
+	"side": "W",
+	"release": "65",
+	"id": "002SP",
+	"name": "",
+	"jpName": "ツンデレ魔装少女 ハルナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+		"【自】【CXコンボ】［(3)］ このカードがアタックした時、クライマックス置場に「ハチャメチャな日常」があるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"武器",
+		"魔装少女"
+	],
+	"version": "2",
+	"cardcode": "Fkz/W65-002SP"
+}

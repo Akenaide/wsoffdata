@@ -1,0 +1,32 @@
+{
+	"set": "RW",
+	"setName": "Rewrite Harvest festa!",
+	"side": "W",
+	"release": "20",
+	"id": "064SP",
+	"name": "",
+	"jpName": "“ひとつの目標”ルチア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【永】 前列に【リバース】していないこのカードがいるなら、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"委員長",
+		"オカルト"
+	],
+	"version": "2",
+	"cardcode": "RW/W20-064SP"
+}

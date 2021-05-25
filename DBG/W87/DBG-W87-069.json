@@ -1,0 +1,32 @@
+{
+	"set": "DBG",
+	"setName": "神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "069",
+	"name": "",
+	"jpName": "祭の日 国宝 阿修羅",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "6000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《夏》のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《夏》のキャラが4枚以上なら、あなたは自分の控え室の《夏》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"夏",
+		"スポーツ"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-069"
+}

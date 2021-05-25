@@ -1,0 +1,33 @@
+{
+	"set": "FS",
+	"setName": "Fate/stay night [Unlimited Blade Works]",
+	"side": "S",
+	"release": "34",
+	"id": "052SP",
+	"name": "",
+	"jpName": "デート日和 凛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している、《マスター》か《サーヴァント》のキャラを1枚選び、【レスト】する。",
+		"【自】[(2)］ このカードがアタックした時、クライマックス置場に「遠坂の魔術刻印」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたの控え室のクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"マスター",
+		"宝石"
+	],
+	"version": "2",
+	"cardcode": "FS/S34-052SP"
+}

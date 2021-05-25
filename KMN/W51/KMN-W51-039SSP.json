@@ -1,0 +1,32 @@
+{
+	"set": "KMN",
+	"setName": "けものフレンズ",
+	"side": "W",
+	"release": "51",
+	"id": "039SSP",
+	"name": "",
+	"jpName": "ジャングル人生 エリマキキツネザル",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《フレンズ》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。",
+		"【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"フレンズ"
+	],
+	"version": "2",
+	"cardcode": "KMN/W51-039SSP"
+}

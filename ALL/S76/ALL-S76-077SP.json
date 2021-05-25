@@ -1,0 +1,32 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ BOUQUET",
+	"side": "S",
+	"release": "76",
+	"id": "077SP",
+	"name": "",
+	"jpName": "百合ヶ丘のアーセナル 百由",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《リリィ》のキャラすべてに、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《リリィ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【自】 相手のアタックフェイズの始めに、あなたは自分の《リリィ》のキャラを1枚選び、自分の前列の中央のキャラのいない枠に動かしてよい。"
+	],
+	"specialAttrib": [
+		"リリィ"
+	],
+	"version": "2",
+	"cardcode": "ALL/S76-077SP"
+}

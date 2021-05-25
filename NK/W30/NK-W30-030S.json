@@ -1,0 +1,32 @@
+{
+	"set": "NK",
+	"setName": "ニセコイ",
+	"side": "W",
+	"release": "30",
+	"id": "030S",
+	"name": "",
+	"jpName": "水着の小咲",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《鍵》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 記憶 このカードのバトル相手が【リバース】した時、あなたの思い出置場に「約束のペンダント」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+	],
+	"specialAttrib": [
+		"お菓子",
+		"鍵"
+	],
+	"version": "2",
+	"cardcode": "NK/W30-030S"
+}

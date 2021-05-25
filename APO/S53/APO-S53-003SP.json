@@ -1,0 +1,32 @@
+{
+	"set": "APO",
+	"setName": "Fate/Apocrypha",
+	"side": "S",
+	"release": "53",
+	"id": "003SP",
+	"name": "",
+	"jpName": "“受け継ぐ祈り”ジーク",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。",
+		"【自】【CXコンボ】［手札を1枚控え室に置き、あなたの思い出置場の「“唸り”黒のバーサーカー」を1枚控え室に置き、このカードを控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「磔刑の雷樹」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「“邪竜”ファヴニール」を1枚まで選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"ホムンクルス",
+		"マスター"
+	],
+	"version": "2",
+	"cardcode": "APO/S53-003SP"
+}

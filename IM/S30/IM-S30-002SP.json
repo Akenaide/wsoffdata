@@ -1,0 +1,32 @@
+{
+	"set": "IM",
+	"setName": "劇場版『THE IDOLM@STER MOVIE 輝きの向こう側へ！』",
+	"side": "S",
+	"release": "30",
+	"id": "002SP",
+	"name": "",
+	"jpName": "“今を大切に”小鳥さん",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 記憶 あなたの思い出置場のイベントが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "IM/S30-002SP"
+}

@@ -1,0 +1,31 @@
+{
+	"set": "KC",
+	"setName": "艦隊これくしょん -艦これ-",
+	"side": "S",
+	"release": "25",
+	"id": "087SP",
+	"name": "",
+	"jpName": "球磨型雷巡3番艦 北上改二",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのクライマックス置場に「重雷装艦、出撃します！」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、相手にＸダメージを与える。Ｘは他のあなたの《重雷装巡洋艦》のキャラの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"重雷装巡洋艦"
+	],
+	"version": "2",
+	"cardcode": "KC/S25-087SP"
+}

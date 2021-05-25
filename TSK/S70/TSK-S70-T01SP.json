@@ -1,0 +1,30 @@
+{
+	"set": "TSK",
+	"setName": "[TD+]転生したらスライムだった件",
+	"side": "S",
+	"release": "70",
+	"id": "T01SP",
+	"name": "",
+	"jpName": "リムル＝テンペスト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《魔大陸》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《魔大陸》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"魔大陸",
+		"お茶"
+	],
+	"version": "2",
+	"cardcode": "TSK/S70-T01SP"
+}

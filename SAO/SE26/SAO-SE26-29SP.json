@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "ソードアート・オンラインⅡ Vol.2",
+	"side": "S",
+	"release": "E26",
+	"id": "29SP",
+	"name": "",
+	"jpName": "聖剣獲得へ キリト",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 相手のターン中、他のあなたの、《アバター》か《ネット》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SAO/SE26-29SP"
+}

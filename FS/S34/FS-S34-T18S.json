@@ -1,0 +1,32 @@
+{
+	"set": "FS",
+	"setName": "2015年度トライアルデッキ【S】",
+	"side": "S",
+	"release": "34",
+	"id": "T18S",
+	"name": "",
+	"jpName": "勝利のために　凛＆アーチャー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《マスター》か《サーヴァント》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"マスター",
+		"サーヴァント"
+	],
+	"version": "2",
+	"cardcode": "FS/S34-T18S"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "KC",
+	"setName": "「艦隊これくしょん -艦これ-」5th Phase",
+	"side": "S",
+	"release": "67",
+	"id": "054S",
+	"name": "",
+	"jpName": "Lexington級装甲空母2番艦 Saratoga Mk.II Mod.2",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「サラの子たち、いい？」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"装甲空母"
+	],
+	"version": "2",
+	"cardcode": "KC/S67-054S"
+}

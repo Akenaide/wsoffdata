@@ -1,0 +1,31 @@
+{
+	"set": "DBG",
+	"setName": "神様になった日",
+	"side": "W",
+	"release": "87",
+	"id": "084",
+	"name": "",
+	"jpName": "映画撮影の日 成神 陽太",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［(2) 手札の《夏》のキャラを2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「共に過ごした夏」があるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを2回与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"夏",
+		"スポーツ"
+	],
+	"version": "2",
+	"cardcode": "DBG/W87-084"
+}

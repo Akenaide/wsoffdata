@@ -1,0 +1,33 @@
+{
+	"set": "AW",
+	"setName": "アクセル・ワールド -インフィニット・バースト-",
+	"side": "S",
+	"release": "43",
+	"id": "055R",
+	"name": "",
+	"jpName": "アーダー・メイデン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードはサイドアタックできない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《アバター》か《ネット》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+		"【起】［(1)］ そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"巫女"
+	],
+	"version": "2",
+	"cardcode": "AW/S43-055R"
+}

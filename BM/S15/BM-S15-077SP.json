@@ -1,0 +1,31 @@
+{
+	"set": "BM",
+	"setName": "化物語",
+	"side": "S",
+	"release": "15",
+	"id": "077SP",
+	"name": "",
+	"jpName": "蛇に巻きつかれた少女 千石撫子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、クライマックス置場に「なでこスネイク」があるなら、あなたは自分の山札を見て「蛇に巻きつかれた少女 千石撫子」を2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"怪異"
+	],
+	"version": "2",
+	"cardcode": "BM/S15-077SP"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "ID",
+	"setName": "禁書目録II＆超電磁砲",
+	"side": "W",
+	"release": "13",
+	"id": "007SP",
+	"name": "",
+	"jpName": "異能の右手を持つ男 当麻",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 舞台のこのカードのレベルを－3。このカードは相手の効果に選ばれない。",
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《超能力》か《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"特徴なし"
+	],
+	"version": "2",
+	"cardcode": "ID/W13-007SP"
+}

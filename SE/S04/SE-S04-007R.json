@@ -1,0 +1,31 @@
+{
+	"set": "SE",
+	"setName": "シャイニング・フォース イクサ",
+	"side": "S",
+	"release": "04",
+	"id": "007R",
+	"name": "",
+	"jpName": "選ばれし者トウマ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル中、このカードとバトルしているキャラのレベルがこのカードのレベルより低いなら、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、クライマックス置場に「聖剣シャイニングフォース」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SE/S04-007R"
+}

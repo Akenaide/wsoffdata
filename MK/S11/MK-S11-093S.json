@@ -1,0 +1,31 @@
+{
+	"set": "MK",
+	"setName": "探偵オペラ　ミルキィホームズ",
+	"side": "S",
+	"release": "11",
+	"id": "093S",
+	"name": "",
+	"jpName": "元名探偵 小林",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《探偵》のキャラを1枚選び、そのターン中、レベルを＋1。"
+	],
+	"specialAttrib": [
+		"探偵"
+	],
+	"version": "2",
+	"cardcode": "MK/S11-093S"
+}

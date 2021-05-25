@@ -1,0 +1,32 @@
+{
+	"set": "GL",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "52",
+	"id": "P03S",
+	"name": "",
+	"jpName": "ヨーコ＆ニア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"大グレン団",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "GL/S52-P03S"
+}

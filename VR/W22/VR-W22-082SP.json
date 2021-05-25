@@ -1,0 +1,32 @@
+{
+	"set": "VR",
+	"setName": "ビビッドレッド・オペレーション",
+	"side": "W",
+	"release": "22",
+	"id": "082SP",
+	"name": "",
+	"jpName": "二葉 あおい",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、クライマックス置場に「ネイキッドインパクト」があるなら、あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"鍵",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "VR/W22-082SP"
+}

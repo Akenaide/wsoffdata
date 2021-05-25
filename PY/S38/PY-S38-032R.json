@@ -1,0 +1,32 @@
+{
+	"set": "PY",
+	"setName": "ぷよぷよ",
+	"side": "S",
+	"release": "38",
+	"id": "032R",
+	"name": "",
+	"jpName": "フェーリ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+	],
+	"specialAttrib": [
+		"ぷよ",
+		"オカルト"
+	],
+	"version": "2",
+	"cardcode": "PY/S38-032R"
+}

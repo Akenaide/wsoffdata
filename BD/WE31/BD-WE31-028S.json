@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "スペシャルパック　「バンドリ！ ガールズバンドパーティ！ 」",
+	"side": "W",
+	"release": "E31",
+	"id": "028S",
+	"name": "",
+	"jpName": "“重なり合う青薔薇”宇田川あこ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《Roselia》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「重なり合う青薔薇」があり、他のあなたの《音楽》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Roselia"
+	],
+	"version": "2",
+	"cardcode": "BD/WE31-028S"
+}

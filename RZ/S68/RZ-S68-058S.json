@@ -1,0 +1,32 @@
+{
+	"set": "RZ",
+	"setName": "Re:ゼロから始める異世界生活 Memory Snow",
+	"side": "S",
+	"release": "68",
+	"id": "058S",
+	"name": "",
+	"jpName": "楽しい宴会 レム",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Memory Snow》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+		"【自】【CXコンボ】 記憶 ［(1)］ このカードがアタックした時、クライマックス置場に「スバルくんのせいです」があり、あなたの思い出置場の「何でもお任せ レム」が2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を下から5枚まで見て、クライマックスを1枚まで選び、クロック置場に置き、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"Memory Snow"
+	],
+	"version": "2",
+	"cardcode": "RZ/S68-058S"
+}

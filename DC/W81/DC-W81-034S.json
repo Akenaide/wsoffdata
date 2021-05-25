@@ -1,0 +1,34 @@
+{
+	"set": "DC",
+	"setName": "サーカス 20th Anniversary",
+	"side": "W",
+	"release": "81",
+	"id": "034S",
+	"name": "",
+	"jpName": "ともに駆ける想い まゆき",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出が3枚以上なら、このカードのパワーを＋3000。",
+		"【永】 他のあなたの、《Anniversary》か《生徒会》か《スポーツ》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
+		"【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"生徒会",
+		"スポーツ"
+	],
+	"version": "2",
+	"cardcode": "DC/W81-034S"
+}

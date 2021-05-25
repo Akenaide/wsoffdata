@@ -1,0 +1,32 @@
+{
+	"set": "PY",
+	"setName": "ぷよぷよ",
+	"side": "S",
+	"release": "38",
+	"id": "009S",
+	"name": "",
+	"jpName": "ぷよ地獄を創造!? サタン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000し、相手は『助太刀』を手札からプレイできない。",
+		"【自】［(1) 手札の「きいろぷよ」を1枚控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"ぷよ",
+		"ツノ"
+	],
+	"version": "2",
+	"cardcode": "PY/S38-009S"
+}

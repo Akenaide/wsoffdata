@@ -1,0 +1,32 @@
+{
+	"set": "KC",
+	"setName": "艦隊これくしょん -艦これ-",
+	"side": "S",
+	"release": "25",
+	"id": "054SP",
+	"name": "",
+	"jpName": "高雄型重巡2番艦 愛宕",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場に「ぱんぱかぱーんっ！」があるなら、あなたは自分の控え室の《重巡洋艦》のキャラを2枚まで選び、ストック置場に好きな順番で置く。",
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが0以下なら、そのターン中、このカードのソウルを－2。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"艦娘",
+		"重巡洋艦"
+	],
+	"version": "2",
+	"cardcode": "KC/S25-054SP"
+}

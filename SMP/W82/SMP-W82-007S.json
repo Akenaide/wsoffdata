@@ -1,0 +1,33 @@
+{
+	"set": "SMP",
+	"setName": "Summer Pockets REFLECTION BLUE",
+	"side": "W",
+	"release": "82",
+	"id": "007S",
+	"name": "",
+	"jpName": "“鬼の仲間入り”識",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《サマポケ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の「“夏の思い出”識」を2枚まで選び、そのターン中、ソウルを＋1。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"鬼"
+	],
+	"version": "2",
+	"cardcode": "SMP/W82-007S"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアG",
+	"side": "W",
+	"release": "27",
+	"id": "082SP",
+	"name": "",
+	"jpName": "抜身の刀身 翼",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か「天羽々斬」の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい",
+		"。【自】［(1)］ このカードがアタックした時、クライマックス置場に「千ノ落涙」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SG/W27-082SP"
+}

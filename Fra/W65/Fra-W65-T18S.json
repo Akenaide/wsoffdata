@@ -1,0 +1,33 @@
+{
+	"set": "Fra",
+	"setName": "[TD+]富士見ファンタジア文庫",
+	"side": "W",
+	"release": "65",
+	"id": "T18S",
+	"name": "",
+	"jpName": "覚悟を決めた システィーナ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"魔法",
+		"優等生"
+	],
+	"version": "2",
+	"cardcode": "Fra/W65-T18S"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "IM",
+	"setName": "アニメ「アイドルマスター」",
+	"side": "S",
+	"release": "21",
+	"id": "041SP",
+	"name": "",
+	"jpName": "ゲットだぜ！ 響",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】 バトル中のこのカードが【リバース】した時、あなたのストックが相手のストックより少ないなら、あなたはこのカードをストック置場に置いてよい。』",
+		"【起】［(4) このカードを【レスト】する］ あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"動物"
+	],
+	"version": "2",
+	"cardcode": "IM/S21-041SP"
+}

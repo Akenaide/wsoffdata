@@ -1,0 +1,32 @@
+{
+	"set": "BD",
+	"setName": "「BanG Dream!」Vol.2",
+	"side": "W",
+	"release": "73",
+	"id": "006SPMb",
+	"name": "",
+	"jpName": "震えも味方に 丸山彩",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SPMb",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［手札の《Pastel＊Palettes》のキャラを4枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000し、相手にＸダメージを与える。Ｘはこの能力のコストで控え室に置かれたカードの持つ色の合計に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Pastel＊Palettes"
+	],
+	"version": "2",
+	"cardcode": "BD/W73-006SPMb"
+}

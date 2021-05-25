@@ -1,0 +1,31 @@
+{
+	"set": "TF",
+	"setName": "テラフォーマーズ",
+	"side": "S",
+	"release": "32",
+	"id": "076S",
+	"name": "",
+	"jpName": "“禍を生むもの”テラフォーマー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "5500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「テラフォーマー」を含むキャラすべてに、パワーを＋1500。",
+		"【自】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたのクライマックス置場に「BLACK BEETLE 死者と蟲」が置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下のカード名に「テラフォーマー」を含むキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"虫"
+	],
+	"version": "2",
+	"cardcode": "TF/S32-076S"
+}

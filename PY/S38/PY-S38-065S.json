@@ -1,0 +1,33 @@
+{
+	"set": "PY",
+	"setName": "ぷよぷよ",
+	"side": "S",
+	"release": "38",
+	"id": "065S",
+	"name": "",
+	"jpName": "ばっちぐー！ アミティ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「“ばたんきゅー”アミティ」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《ぷよ》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《ぷよ》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"ぷよ",
+		"帽子"
+	],
+	"version": "2",
+	"cardcode": "PY/S38-065S"
+}

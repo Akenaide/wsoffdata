@@ -1,0 +1,33 @@
+{
+	"set": "NGL",
+	"setName": "[TD+]ノーゲーム・ノーライフ",
+	"side": "S",
+	"release": "58",
+	"id": "T18S",
+	"name": "",
+	"jpName": "国王 白",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ゲーム》のキャラの枚数×1000に等しい。",
+		"【自】 このカードの与えたダメージがキャンセルされた時、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"人類種"
+	],
+	"version": "2",
+	"cardcode": "NGL/S58-T18S"
+}

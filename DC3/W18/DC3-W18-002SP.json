@@ -1,0 +1,32 @@
+{
+	"set": "DC3",
+	"setName": "D.C.III～ダ・カーポIII～",
+	"side": "W",
+	"release": "18",
+	"id": "002SP",
+	"name": "",
+	"jpName": "かけがえのない魔法 リッカ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《生徒会》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"生徒会"
+	],
+	"version": "2",
+	"cardcode": "DC3/W18-002SP"
+}
