@@ -1,0 +1,32 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアＸＶ",
+	"side": "W",
+	"release": "89",
+	"id": "060",
+	"name": "",
+	"jpName": "治療中 マリア",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "4000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[STANDBY]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SG/W89-060"
+}

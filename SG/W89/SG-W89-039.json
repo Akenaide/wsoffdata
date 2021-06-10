@@ -1,0 +1,32 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアＸＶ",
+	"side": "W",
+	"release": "89",
+	"id": "039",
+	"name": "",
+	"jpName": "いつでも一緒 調＆切歌",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SG/W89-039"
+}

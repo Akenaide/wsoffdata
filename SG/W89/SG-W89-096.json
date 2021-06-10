@@ -1,0 +1,31 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアＸＶ",
+	"side": "W",
+	"release": "89",
+	"id": "096",
+	"name": "",
+	"jpName": "ノーブルレッド ヴァネッサ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】［手札の、「ノーブルレッド ミラアルク」と「ノーブルレッド エルザ」を1枚ずつ控え室に置き、このカードを控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。"
+	],
+	"specialAttrib": [
+		"錬金術"
+	],
+	"version": "2",
+	"cardcode": "SG/W89-096"
+}

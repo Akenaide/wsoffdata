@@ -1,0 +1,32 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアＸＶ",
+	"side": "W",
+	"release": "89",
+	"id": "015",
+	"name": "",
+	"jpName": "\"また逢う日まで” エルフナイン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは、色条件を満たさずに手札からプレイできる。",
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［(1) このカードを【レスト】する］ あなたの思い出が5枚以下なら、あなたは自分の控え室の《錬金術》のキャラを1枚選び、思い出にする。"
+	],
+	"specialAttrib": [
+		"錬金術"
+	],
+	"version": "2",
+	"cardcode": "SG/W89-015"
+}

@@ -1,0 +1,31 @@
+{
+	"set": "SG",
+	"setName": "戦姫絶唱シンフォギアＸＶ",
+	"side": "W",
+	"release": "89",
+	"id": "112",
+	"name": "",
+	"jpName": "明日の世界へ クリス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SG/W89-112"
+}
