@@ -1,0 +1,32 @@
+{
+	"set": "BD",
+	"setName": "Poppin’Party×Roselia",
+	"side": "W",
+	"release": "E35",
+	"id": "41",
+	"name": "",
+	"jpName": "“夢を撃ち抜く瞬間に！”湊友希那",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【起】［手札の《Roselia》のキャラを1枚控え室に置く］ あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《Roselia》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこの効果で控え室に置かれたキャラのパワーに等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Roselia"
+	],
+	"version": "2",
+	"cardcode": "BD/WE35-41"
+}
