@@ -1,0 +1,32 @@
+{
+	"set": "ALL",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "76",
+	"id": "P26",
+	"name": "",
+	"jpName": "“そばにいるだけで”夢結＆梨璃",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《リリィ》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"一柳隊"
+	],
+	"version": "2",
+	"cardcode": "ALL/S76-P26"
+}

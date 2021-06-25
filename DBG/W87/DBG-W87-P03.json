@@ -1,0 +1,29 @@
+{
+	"set": "DBG",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "87",
+	"id": "P03",
+	"name": "",
+	"jpName": "人類の選択",
+	"cardType": "EV",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "0",
+	"soul": "0",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【カウンター】 あなたは相手の舞台にいるキャラの特徴を1つ選び、相手のキャラすべては、そのターン中、その特徴をすべて失う。",
+		"このカードを思い出にする。\n"
+	],
+	"specialAttrib": [],
+	"version": "2",
+	"cardcode": "DBG/W87-P03"
+}
