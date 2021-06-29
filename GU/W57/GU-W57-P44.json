@@ -8,21 +8,22 @@
 	"jpName": "“ハピハピ♪バースデイソング”メグ",
 	"cardType": "CH",
 	"colour": "BLUE",
-	"level": "1",
-	"cost": "0",
-	"power": "2500",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
 	"soul": "1",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL"
+	],
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠の青のキャラに、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、青か《Dear My Sister》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
-		"小説",
+		"バレエ",
 		"Dear My Sister"
 	],
 	"version": "2",
