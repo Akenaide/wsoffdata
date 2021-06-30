@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "Morfonica×RAISE A SUILEN",
+	"side": "W",
+	"release": "E34",
+	"id": "11",
+	"name": "",
+	"jpName": "“Rausch und/and Craziness Ⅱ”レイヤ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル中、相手はイベントを手札からプレイできない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「Beautiful Birthday」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたは相手の山札を上から1枚見て、山札の上か下に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"RAISE A SUILEN"
+	],
+	"version": "2",
+	"cardcode": "BD/WE34-11"
+}

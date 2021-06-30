@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "Morfonica×RAISE A SUILEN",
+	"side": "W",
+	"release": "E34",
+	"id": "09",
+	"name": "",
+	"jpName": "“Morfonica”広町七深",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 舞台のこのカードのレベルを－2。",
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードの正面のキャラに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Morfonica"
+	],
+	"version": "2",
+	"cardcode": "BD/WE34-09"
+}

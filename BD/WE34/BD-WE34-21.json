@@ -1,0 +1,32 @@
+{
+	"set": "BD",
+	"setName": "Morfonica×RAISE A SUILEN",
+	"side": "W",
+	"release": "E34",
+	"id": "21",
+	"name": "",
+	"jpName": "決勝のステージ マスキング",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"RAISE A SUILEN"
+	],
+	"version": "2",
+	"cardcode": "BD/WE34-21"
+}
