@@ -1,0 +1,35 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？ BLOOM",
+	"side": "W",
+	"release": "88",
+	"id": "002S",
+	"name": "",
+	"jpName": "“一緒にお仕事！” ココア＆シャロ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「“Halloween Night” シャロ」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 応援 このカードの前のあなたの、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラすべてに、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"フルール",
+		"ド",
+		"ラパン",
+		"BLOOM"
+	],
+	"version": "2",
+	"cardcode": "GU/W88-002S"
+}

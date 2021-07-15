@@ -1,0 +1,32 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？ BLOOM",
+	"side": "W",
+	"release": "88",
+	"id": "042",
+	"name": "",
+	"jpName": "“大人コーデ” リゼ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列にこのカードがいるなら、あなたの、《BLOOM》か《ラビットハウス》のキャラすべてに、パワーを＋1500。",
+		"【自】【CXコンボ】［(1) あなたのクライマックス置場の「気づいてた？」を1枚控え室に置く］ あなたのクライマックスフェイズ中、このカードが「気づいてた？」の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】し、あなたのキャラすべてに、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"ラビットハウス",
+		"BLOOM"
+	],
+	"version": "2",
+	"cardcode": "GU/W88-042"
+}

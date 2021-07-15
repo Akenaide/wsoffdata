@@ -1,0 +1,29 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？ BLOOM",
+	"side": "W",
+	"release": "88",
+	"id": "015",
+	"name": "",
+	"jpName": "キラキラしているから",
+	"cardType": "CX",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "CC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"CHOICE"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+		"（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+	],
+	"specialAttrib": [],
+	"version": "2",
+	"cardcode": "GU/W88-015"
+}

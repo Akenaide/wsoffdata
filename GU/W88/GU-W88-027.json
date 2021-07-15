@@ -1,0 +1,33 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？ BLOOM",
+	"side": "W",
+	"release": "88",
+	"id": "027",
+	"name": "",
+	"jpName": "“息ぴったり” 千夜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、他のあなたの、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラ1枚につき、このカードのパワーを＋500。",
+		"【永】 他のあなたの前列の「“息ぴったり” ココア」がいるなら、このカードのパワーを＋2000。",
+		"【自】 相手のアタックフェイズの始めに、あなたは自分の「“息ぴったり” ココア」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
+	],
+	"specialAttrib": [
+		"甘兎庵",
+		"BLOOM"
+	],
+	"version": "2",
+	"cardcode": "GU/W88-027"
+}

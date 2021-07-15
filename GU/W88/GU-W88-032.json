@@ -1,0 +1,32 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？ BLOOM",
+	"side": "W",
+	"release": "88",
+	"id": "032",
+	"name": "",
+	"jpName": "“Halloween Night” リゼ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《BLOOM》か《ラビットハウス》のキャラが2枚以上なら、このカードのパワーを＋3500し、このカードは『【自】 アンコール ［手札の、《BLOOM》か《ラビットハウス》のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"ラビットハウス",
+		"BLOOM"
+	],
+	"version": "2",
+	"cardcode": "GU/W88-032"
+}
