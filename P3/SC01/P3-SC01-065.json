@@ -1,0 +1,32 @@
+{
+	"set": "P3",
+	"setName": "ヴァイスシュヴァルツクロニクル ペルソナ3",
+	"side": "S",
+	"release": "C01",
+	"id": "065",
+	"name": "",
+	"jpName": "チドリ＆メーディア",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがプレイされて舞台に置かれた時、あなたはすべてのプレイヤーに、1ダメージを与える。",
+		"【自】［(1)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「順平＆トリスメギストス」を1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "P3/SC01-065"
+}

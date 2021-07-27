@@ -1,0 +1,32 @@
+{
+	"set": "P3",
+	"setName": "ヴァイスシュヴァルツクロニクル ペルソナ3",
+	"side": "S",
+	"release": "C01",
+	"id": "030",
+	"name": "",
+	"jpName": "風花＆ユノ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "4500",
+	"soul": "2",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】【クロック】 アラーム このカードがクロックの１番上にあるなら、緑のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「切れない絆」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "P3/SC01-030"
+}

@@ -1,0 +1,33 @@
+{
+	"set": "P3",
+	"setName": "ヴァイスシュヴァルツクロニクル ペルソナ3",
+	"side": "S",
+	"release": "C01",
+	"id": "036",
+	"name": "",
+	"jpName": "アイギス＆アテナ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 大活躍",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「命ある者」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。",
+		"【起】 【CXコンボ】［(4)］ あなたは自分のクロックか控え室の「命ある者」を1枚選び、クライマックス置場に置く。"
+	],
+	"specialAttrib": [
+		"メカ",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "P3/SC01-036"
+}

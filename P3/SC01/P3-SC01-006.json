@@ -1,0 +1,33 @@
+{
+	"set": "P3",
+	"setName": "ヴァイスシュヴァルツクロニクル ペルソナ3",
+	"side": "S",
+	"release": "C01",
+	"id": "006",
+	"name": "",
+	"jpName": "主人公＆メサイア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは相手の効果に選ばれない。",
+		"【永】 大活躍 (相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)",
+		"【起】［(6)］ あなたは他の自分と相手のキャラすべてを、手札に戻す。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "P3/SC01-006"
+}

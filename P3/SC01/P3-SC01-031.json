@@ -1,0 +1,32 @@
+{
+	"set": "P3",
+	"setName": "ヴァイスシュヴァルツクロニクル ペルソナ3",
+	"side": "S",
+	"release": "C01",
+	"id": "031",
+	"name": "",
+	"jpName": "メティス＆プシュケイ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「機械の乙女」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。",
+		"【起】［(3)］ あなたは相手の前列のキャラすべてに、そのターン中、パワーを－1500。"
+	],
+	"specialAttrib": [
+		"メカ",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "P3/SC01-031"
+}

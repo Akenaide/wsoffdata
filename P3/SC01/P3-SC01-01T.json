@@ -1,0 +1,32 @@
+{
+	"set": "P3",
+	"setName": "ヴァイスシュヴァルツクロニクル ペルソナ3",
+	"side": "S",
+	"release": "C01",
+	"id": "01T",
+	"name": "",
+	"jpName": "天田＆カーラ・ネミ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがプレイされて舞台に置かれた時、そのターン中、このカードのソウルを＋1。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「復讐の終わり」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "P3/SC01-01T"
+}

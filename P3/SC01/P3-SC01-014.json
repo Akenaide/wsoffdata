@@ -1,0 +1,32 @@
+{
+	"set": "P3",
+	"setName": "ヴァイスシュヴァルツクロニクル ペルソナ3",
+	"side": "S",
+	"release": "C01",
+	"id": "014",
+	"name": "",
+	"jpName": "神木 秋成",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがレベルアップした時、このカードを控え室に置く。",
+		"【自】 このカードが舞台から控え室に置かれた時、相手は自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"病気",
+		"童話"
+	],
+	"version": "2",
+	"cardcode": "P3/SC01-014"
+}
