@@ -1,0 +1,32 @@
+{
+	"set": "MTI",
+	"setName": "[TD+]無職転生 ～異世界行ったら本気だす～",
+	"side": "S",
+	"release": "83",
+	"id": "T09",
+	"name": "",
+	"jpName": "“剣の鍛錬”パウロ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《六面世界》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"六面世界",
+		"剣士"
+	],
+	"version": "2",
+	"cardcode": "MTI/S83-T09"
+}

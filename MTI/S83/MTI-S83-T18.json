@@ -1,0 +1,32 @@
+{
+	"set": "MTI",
+	"setName": "[TD+]無職転生 ～異世界行ったら本気だす～",
+	"side": "S",
+	"release": "83",
+	"id": "T18",
+	"name": "",
+	"jpName": "“思わぬ失敗”ロキシー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室の《六面世界》のキャラを1枚ずつ選び、入れ替える。"
+	],
+	"specialAttrib": [
+		"六面世界",
+		"魔術"
+	],
+	"version": "2",
+	"cardcode": "MTI/S83-T18"
+}

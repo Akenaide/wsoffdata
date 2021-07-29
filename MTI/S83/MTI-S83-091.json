@@ -1,0 +1,32 @@
+{
+	"set": "MTI",
+	"setName": "無職転生 ～異世界行ったら本気だす～",
+	"side": "S",
+	"release": "83",
+	"id": "091",
+	"name": "",
+	"jpName": "“ルディの家庭教師”ロキシー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《六面世界》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「豪雷積層雲」があるなら、次の行動を2回行う。『あなたは自分の山札の上から1枚を公開する。そのカードが《六面世界》のキャラかイベントなら手札に加える。』（そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"六面世界",
+		"魔術"
+	],
+	"version": "2",
+	"cardcode": "MTI/S83-091"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "MTI",
+	"setName": "無職転生 ～異世界行ったら本気だす～",
+	"side": "S",
+	"release": "83",
+	"id": "104",
+	"name": "",
+	"jpName": "エリス・ボレアス・グレイラット",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "9000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
+		"【自】 他のあなたの《六面世界》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《六面世界》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"六面世界",
+		"剣士"
+	],
+	"version": "2",
+	"cardcode": "MTI/S83-104"
+}
