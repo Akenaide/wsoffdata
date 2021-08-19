@@ -1,0 +1,30 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実 Vol.2",
+	"side": "S",
+	"release": "84",
+	"id": "073S",
+	"name": "",
+	"jpName": "薄暮の誓い 幸",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《グリザイア》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（公開したカードは元に戻す）",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"メイド"
+	],
+	"version": "2",
+	"cardcode": "GRI/S84-073S"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実 Vol.2",
+	"side": "S",
+	"release": "84",
+	"id": "124",
+	"name": "",
+	"jpName": "天才の遺伝子 テュポーン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "2",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【永】 相手のカード名に「雄二」を含むキャラがいるなら、このカードは『【永】 大活躍』を得る。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "GRI/S84-124"
+}

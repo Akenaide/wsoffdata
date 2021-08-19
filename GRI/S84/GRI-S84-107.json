@@ -1,0 +1,32 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実 Vol.2",
+	"side": "S",
+	"release": "84",
+	"id": "107",
+	"name": "",
+	"jpName": "学園祭でもメイド 幸",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《グリザイア》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"メイド"
+	],
+	"version": "2",
+	"cardcode": "GRI/S84-107"
+}

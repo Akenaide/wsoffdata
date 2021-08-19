@@ -1,0 +1,32 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実 Vol.2",
+	"side": "S",
+	"release": "84",
+	"id": "029",
+	"name": "",
+	"jpName": "心に空いた穴 雄二＆JB",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《グリザイア》のキャラが4枚以上なら、あなたは自分の控え室の《グリザイア》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "GRI/S84-029"
+}

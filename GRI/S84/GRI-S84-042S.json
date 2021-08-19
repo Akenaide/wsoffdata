@@ -1,0 +1,32 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実 Vol.2",
+	"side": "S",
+	"release": "84",
+	"id": "042S",
+	"name": "",
+	"jpName": "変わらぬ決意 蒔菜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《グリザイア》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"パン"
+	],
+	"version": "2",
+	"cardcode": "GRI/S84-042S"
+}

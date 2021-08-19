@@ -1,0 +1,32 @@
+{
+	"set": "GRI",
+	"setName": "グリザイアの果実 Vol.2",
+	"side": "S",
+	"release": "84",
+	"id": "053",
+	"name": "",
+	"jpName": "クリスマスガール 天音",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《グリザイア》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】【CXコンボ】［このカードを控え室に置き、あなたのクライマックス置場の「思い出語り」を1枚控え室に置く］ あなたのアンコールステップの始めに、他のあなたの《グリザイア》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《グリザイア》のキャラか「追撃」を2枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"家事"
+	],
+	"version": "2",
+	"cardcode": "GRI/S84-053"
+}
