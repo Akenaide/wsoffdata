@@ -1,0 +1,31 @@
+{
+	"set": "LSP",
+	"setName": "[TD+]ラブライブ！スーパースター!!",
+	"side": "W",
+	"release": "92",
+	"id": "T18R",
+	"name": "",
+	"jpName": "葉月 恋",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。",
+		"【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LSP/W92-T18R"
+}
