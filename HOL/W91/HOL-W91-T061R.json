@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "[TD+]ホロライブプロダクション ホロライブゲーマーズ",
+	"side": "W",
+	"release": "91",
+	"id": "T061R",
+	"name": "",
+	"jpName": "どうぶつ番長 戌神ころね",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《ホロライブ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"ゲーマーズ"
+	],
+	"version": "2",
+	"cardcode": "HOL/W91-T061R"
+}

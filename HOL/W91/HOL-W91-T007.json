@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "[TD+]ホロライブプロダクション ホロライブ0期生",
+	"side": "W",
+	"release": "91",
+	"id": "T007",
+	"name": "",
+	"jpName": "エアスカウトを受ける星街すいせい",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"0期生"
+	],
+	"version": "2",
+	"cardcode": "HOL/W91-T007"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "[TD+]ホロライブプロダクション ホロライブ3期生",
+	"side": "W",
+	"release": "91",
+	"id": "T089",
+	"name": "",
+	"jpName": "怒り狂った兎 兎田ぺこら",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"3期生"
+	],
+	"version": "2",
+	"cardcode": "HOL/W91-T089"
+}

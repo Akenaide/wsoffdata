@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "[TD+]ホロライブプロダクション ホロライブ2期生",
+	"side": "W",
+	"release": "91",
+	"id": "T042",
+	"name": "",
+	"jpName": "FAMS 百鬼あやめ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"2期生"
+	],
+	"version": "2",
+	"cardcode": "HOL/W91-T042"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "[TD+]ホロライブプロダクション ホロライブ5期生",
+	"side": "W",
+	"release": "91",
+	"id": "T117R",
+	"name": "",
+	"jpName": "春パワー 桃鈴ねね",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×1000に等しい。",
+		"【自】［(1) このカードを控え室に置く］ このカードがフロントアタックされたターン中、アンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「緑担当 獅白ぼたん」を1枚まで選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"5期生"
+	],
+	"version": "2",
+	"cardcode": "HOL/W91-T117R"
+}

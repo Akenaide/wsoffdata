@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "[TD+]ホロライブプロダクション ホロライブ3期生",
+	"side": "W",
+	"release": "91",
+	"id": "T080SP",
+	"name": "",
+	"jpName": "宝鐘海賊団船長 宝鐘マリン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か「穏やかな時間 潤羽るしあ」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の《ホロライブ》のキャラを3枚まで選び、そのターン中、パワーを＋500し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"3期生"
+	],
+	"version": "2",
+	"cardcode": "HOL/W91-T080SP"
+}
