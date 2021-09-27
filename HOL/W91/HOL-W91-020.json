@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "ホロライブプロダクション",
+	"side": "W",
+	"release": "91",
+	"id": "020",
+	"name": "",
+	"jpName": "戌神ころね",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のイベントを1枚選び、手札に戻す。",
+		"【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「おうちデート」があるなら、相手に2ダメージを与え、あなたは相手の控え室のクライマックスを1枚選び、山札に戻し、相手はその山札をシャッフルする。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"ゲーマーズ"
+	],
+	"version": "2",
+	"cardcode": "HOL/W91-020"
+}

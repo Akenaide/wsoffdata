@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "ホロライブプロダクション",
+	"side": "W",
+	"release": "91",
+	"id": "053",
+	"name": "",
+	"jpName": "天音かなた",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"4期生"
+	],
+	"version": "2",
+	"cardcode": "HOL/W91-053"
+}

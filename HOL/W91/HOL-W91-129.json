@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "ホロライブプロダクション",
+	"side": "W",
+	"release": "91",
+	"id": "129",
+	"name": "",
+	"jpName": "白銀ノエル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《ホロライブ》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】［他のあなたの舞台の《ホロライブ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《ホロライブ》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚までを、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"3期生"
+	],
+	"version": "2",
+	"cardcode": "HOL/W91-129"
+}
