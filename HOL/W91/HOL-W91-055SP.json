@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "ホロライブプロダクション",
+	"side": "W",
+	"release": "91",
+	"id": "055SP",
+	"name": "",
+	"jpName": "#みおーん絵 大神ミオ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ホロライブ》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「流星の空」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室の「夏祭りとりんご飴 大神ミオ」を1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"ゲーマーズ"
+	],
+	"version": "2",
+	"cardcode": "HOL/W91-055SP"
+}

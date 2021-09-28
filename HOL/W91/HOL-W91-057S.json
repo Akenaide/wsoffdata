@@ -1,0 +1,33 @@
+{
+	"set": "HOL",
+	"setName": "ホロライブプロダクション",
+	"side": "W",
+	"release": "91",
+	"id": "057S",
+	"name": "",
+	"jpName": "姫森ルーナ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "11500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 舞台のこのカードのレベルを－3。このカードの正面のキャラはサイドアタックできない。",
+		"【自】［手札の《ホロライブ》のキャラを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"4期生"
+	],
+	"version": "2",
+	"cardcode": "HOL/W91-057S"
+}
