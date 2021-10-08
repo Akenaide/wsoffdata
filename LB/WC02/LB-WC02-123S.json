@@ -10,17 +10,16 @@
 	"colour": "RED",
 	"level": "0",
 	"cost": "0",
-	"power": "0",
-	"soul": "0",
+	"power": "1000",
+	"soul": "1",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [
-		"SOUL"
-	],
+	"trigger": [],
 	"ability": [
-		"－"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"特徴なし"
