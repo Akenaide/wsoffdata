@@ -1,0 +1,32 @@
+{
+	"set": "WTR",
+	"setName": "ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "002SP",
+	"name": "",
+	"jpName": "迅速果断 小南 桐絵",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《トリオン》のキャラがいるなら、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「真っ二つ」が置かれた時、他のあなたの《トリオン》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+	],
+	"specialAttrib": [
+		"トリオン",
+		"玉狛第1"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-002SP"
+}

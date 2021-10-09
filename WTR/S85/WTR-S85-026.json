@@ -1,0 +1,32 @@
+{
+	"set": "WTR",
+	"setName": "ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "026",
+	"name": "",
+	"jpName": "実戦派の狙撃手 当真 勇",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置いてよい。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《トリオン》のキャラが4枚以上なら、あなたは自分の控え室の《トリオン》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"トリオン",
+		"冬島隊"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-026"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "WTR",
+	"setName": "[TD+]ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "T11",
+	"name": "",
+	"jpName": "最善の道は 迅 悠一",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《トリオン》のキャラすべてに、パワーを＋1000。",
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"トリオン",
+		"玉狛支部"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-T11"
+}

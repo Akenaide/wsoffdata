@@ -1,0 +1,30 @@
+{
+	"set": "WTR",
+	"setName": "ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "001SP",
+	"name": "",
+	"jpName": "激しい剣撃 太刀川 慶",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《トリオン》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+	],
+	"specialAttrib": [
+		"トリオン",
+		"太刀川隊"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-001SP"
+}

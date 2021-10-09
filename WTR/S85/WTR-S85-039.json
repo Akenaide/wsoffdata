@@ -1,0 +1,30 @@
+{
+	"set": "WTR",
+	"setName": "ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "039",
+	"name": "",
+	"jpName": "連携するトリオン兵 アイドラ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「連携するトリオン兵 アイドラ」を3枚まで選び、このカードの下にマーカーとして表向きに置く。"
+	],
+	"specialAttrib": [
+		"トリオン"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-039"
+}

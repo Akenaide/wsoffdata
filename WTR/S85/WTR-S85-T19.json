@@ -1,0 +1,29 @@
+{
+	"set": "WTR",
+	"setName": "[TD+]ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "T19",
+	"name": "",
+	"jpName": "真実の行方 ヒュース",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの《トリオン》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"トリオン"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-T19"
+}

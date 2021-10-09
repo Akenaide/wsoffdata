@@ -1,0 +1,32 @@
+{
+	"set": "WTR",
+	"setName": "[TD+]ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "T20",
+	"name": "",
+	"jpName": "空からの襲撃 空閑 遊真",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《トリオン》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルし、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"トリオン",
+		"玉狛第2"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-T20"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "WTR",
+	"setName": "[TD+]ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "T22",
+	"name": "",
+	"jpName": "成長する隊長 三雲 修",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《トリオン》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"トリオン",
+		"玉狛第2"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-T22"
+}

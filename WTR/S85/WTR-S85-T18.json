@@ -1,0 +1,30 @@
+{
+	"set": "WTR",
+	"setName": "[TD+]ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "T18",
+	"name": "",
+	"jpName": "新技を備えて 雨取 千佳",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、あなたは他の自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《トリオン》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"トリオン",
+		"玉狛第2"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-T18"
+}
