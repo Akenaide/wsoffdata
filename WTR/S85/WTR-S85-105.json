@@ -1,0 +1,30 @@
+{
+	"set": "WTR",
+	"setName": "ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "105",
+	"name": "",
+	"jpName": "このあいだは！小南 桐絵",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"トリオン",
+		"玉狛第1"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-105"
+}

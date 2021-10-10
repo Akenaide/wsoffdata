@@ -1,0 +1,29 @@
+{
+	"set": "WTR",
+	"setName": "ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "079TGR",
+	"name": "",
+	"jpName": "生駒旋空",
+	"cardType": "CX",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "TGR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL",
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のトリガーアイコンに[SOUL]があるキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [],
+	"version": "2",
+	"cardcode": "WTR/S85-079TGR"
+}

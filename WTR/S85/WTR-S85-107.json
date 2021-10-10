@@ -1,0 +1,29 @@
+{
+	"set": "WTR",
+	"setName": "ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "107",
+	"name": "",
+	"jpName": "おほめのことば 林藤 陽太郎とヒュース",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。",
+		"【自】 このカードがアタックした時、あなたは他の自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《トリオン》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"トリオン"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-107"
+}

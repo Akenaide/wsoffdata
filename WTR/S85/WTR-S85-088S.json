@@ -1,0 +1,32 @@
+{
+	"set": "WTR",
+	"setName": "ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "088S",
+	"name": "",
+	"jpName": "嘘を見抜く 空閑 遊真",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の手札を見る。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"トリオン",
+		"玉狛第2"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-088S"
+}

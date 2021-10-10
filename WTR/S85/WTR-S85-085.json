@@ -1,0 +1,32 @@
+{
+	"set": "WTR",
+	"setName": "ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "085",
+	"name": "",
+	"jpName": "玉狛支部所属オペレーター 宇佐美 栞",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"トリオン",
+		"玉狛支部"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-085"
+}

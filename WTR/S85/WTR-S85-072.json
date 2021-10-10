@@ -1,0 +1,32 @@
+{
+	"set": "WTR",
+	"setName": "ワールドトリガー",
+	"side": "S",
+	"release": "85",
+	"id": "072",
+	"name": "",
+	"jpName": "おおらかな銃手 北添 尋",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《トリオン》のキャラの枚数×1000に等しい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"トリオン",
+		"影浦隊"
+	],
+	"version": "2",
+	"cardcode": "WTR/S85-072"
+}
