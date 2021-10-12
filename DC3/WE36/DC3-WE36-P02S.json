@@ -1,0 +1,32 @@
+{
+	"set": "DC3",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E36",
+	"id": "P02S",
+	"name": "",
+	"jpName": "“君と旅する時の魔法”シャルル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《新聞》か《生徒会》のキャラすべてに、パワーを＋2000。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
+	],
+	"specialAttrib": [
+		"新聞",
+		"生徒会"
+	],
+	"version": "2",
+	"cardcode": "DC3/WE36-P02S"
+}
