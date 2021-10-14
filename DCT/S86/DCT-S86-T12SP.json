@@ -1,0 +1,30 @@
+{
+	"set": "DCT",
+	"setName": "[TD+]D_CIDE TRAUMEREI",
+	"side": "S",
+	"release": "86",
+	"id": "T12SP",
+	"name": "",
+	"jpName": "照らされた鮮血 える",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ノッカーアップ》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+	],
+	"specialAttrib": [
+		"ノッカーアップ",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "DCT/S86-T12SP"
+}

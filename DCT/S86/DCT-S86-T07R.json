@@ -1,0 +1,32 @@
+{
+	"set": "DCT",
+	"setName": "[TD+]D_CIDE TRAUMEREI",
+	"side": "S",
+	"release": "86",
+	"id": "T07R",
+	"name": "",
+	"jpName": "橙田 ありや",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「道はただ延々と」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「登校の約束 ありや」を1枚まで選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"ノッカーアップ",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "DCT/S86-T07R"
+}

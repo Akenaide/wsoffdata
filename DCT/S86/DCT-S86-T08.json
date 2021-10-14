@@ -1,0 +1,32 @@
+{
+	"set": "DCT",
+	"setName": "[TD+]D_CIDE TRAUMEREI",
+	"side": "S",
+	"release": "86",
+	"id": "T08",
+	"name": "",
+	"jpName": "織田 龍平",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたの《ノッカーアップ》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。",
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"ノッカーアップ",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "DCT/S86-T08"
+}
