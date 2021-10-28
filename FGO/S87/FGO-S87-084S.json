@@ -1,0 +1,33 @@
+{
+	"set": "FGO",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"side": "S",
+	"release": "87",
+	"id": "084S",
+	"name": "",
+	"jpName": "由来を知る資格 マシュ・キリエライト",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「いまは遙か理想の城」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「聖なる盾の騎士 マシュ・キリエライト」を1枚まで選び、このカードがいた枠に置く。",
+		"【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"カルデア",
+		"シールダー"
+	],
+	"version": "2",
+	"cardcode": "FGO/S87-084S"
+}

@@ -1,0 +1,33 @@
+{
+	"set": "FGO",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"side": "S",
+	"release": "87",
+	"id": "008",
+	"name": "",
+	"jpName": "祝福された暴走 モードレッド",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、他のあなたの後列の「神霊 獅子王」か「嵐の王の名の下に 獅子王」がいるなら、このカードのパワーを＋4000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"キャメロット",
+		"円卓の騎士"
+	],
+	"version": "2",
+	"cardcode": "FGO/S87-008"
+}

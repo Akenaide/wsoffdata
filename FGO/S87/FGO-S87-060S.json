@@ -1,0 +1,33 @@
+{
+	"set": "FGO",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"side": "S",
+	"release": "87",
+	"id": "060S",
+	"name": "",
+	"jpName": "初代ハサン・サッバーハ“山の翁”",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの後列のキャラが1枚以下なら、このカードはアタックできない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－4500。",
+		"【自】 すべてのプレイヤーのアタックフェイズの始めに、前列にこのカードがいるなら、そのターン中、すべてのプレイヤーは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+	],
+	"specialAttrib": [
+		"キャメロット",
+		"山の翁"
+	],
+	"version": "2",
+	"cardcode": "FGO/S87-060S"
+}

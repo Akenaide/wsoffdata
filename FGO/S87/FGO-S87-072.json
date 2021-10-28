@@ -1,0 +1,32 @@
+{
+	"set": "FGO",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"side": "S",
+	"release": "87",
+	"id": "072",
+	"name": "",
+	"jpName": "誇り高き暗殺者 呪腕のハサン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
+	],
+	"specialAttrib": [
+		"キャメロット",
+		"山の翁"
+	],
+	"version": "2",
+	"cardcode": "FGO/S87-072"
+}
