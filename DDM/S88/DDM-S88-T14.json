@@ -1,0 +1,31 @@
+{
+	"set": "DDM",
+	"setName": "[TD+]ダンジョンに出会いを求めるのは間違っているだろうか",
+	"side": "S",
+	"release": "88",
+	"id": "T14",
+	"name": "",
+	"jpName": "兎もおだてりゃ木に登る ベル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"ファミリア",
+		"冒険者"
+	],
+	"version": "2",
+	"cardcode": "DDM/S88-T14"
+}

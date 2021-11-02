@@ -1,0 +1,32 @@
+{
+	"set": "DDM",
+	"setName": "[TD+]ダンジョンに出会いを求めるのは間違っているだろうか",
+	"side": "S",
+	"release": "88",
+	"id": "T15",
+	"name": "",
+	"jpName": "迷宮都市でのひととき ベル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"ファミリア",
+		"冒険者"
+	],
+	"version": "2",
+	"cardcode": "DDM/S88-T15"
+}
