@@ -1,0 +1,32 @@
+{
+	"set": "ZLS",
+	"setName": "[TD+]ゾンビランドサガ リベンジ",
+	"side": "W",
+	"release": "93",
+	"id": "T17",
+	"name": "",
+	"jpName": "ゾンビィアイドル さくら",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《SAGA》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードが舞台から控え室に置かれた時、あなたは自分の手札を1枚選び、控え室に置く。そうしたら、このカードを手札に戻す。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"SAGA",
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "ZLS/W93-T17"
+}

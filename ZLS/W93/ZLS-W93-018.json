@@ -1,0 +1,32 @@
+{
+	"set": "ZLS",
+	"setName": "ゾンビランドサガ リベンジ",
+	"side": "W",
+	"release": "93",
+	"id": "018",
+	"name": "",
+	"jpName": "大人になったら サキ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《SAGA》のキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"SAGA",
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "ZLS/W93-018"
+}

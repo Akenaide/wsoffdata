@@ -1,0 +1,32 @@
+{
+	"set": "ZLS",
+	"setName": "[TD+]ゾンビランドサガ リベンジ",
+	"side": "W",
+	"release": "93",
+	"id": "T06",
+	"name": "",
+	"jpName": "本能のままに たえ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《SAGA》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《SAGA》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"SAGA",
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "ZLS/W93-T06"
+}

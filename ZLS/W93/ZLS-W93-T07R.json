@@ -1,0 +1,32 @@
+{
+	"set": "ZLS",
+	"setName": "[TD+]ゾンビランドサガ リベンジ",
+	"side": "W",
+	"release": "93",
+	"id": "T07R",
+	"name": "",
+	"jpName": "“大河よ共に泣いてくれ”愛",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《SAGA》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、相手に3ダメージを与え、そのターン中、このカードのパワーを＋2000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"SAGA",
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "ZLS/W93-T07R"
+}

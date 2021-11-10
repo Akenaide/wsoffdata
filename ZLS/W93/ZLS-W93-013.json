@@ -1,0 +1,32 @@
+{
+	"set": "ZLS",
+	"setName": "ゾンビランドサガ リベンジ",
+	"side": "W",
+	"release": "93",
+	"id": "013",
+	"name": "",
+	"jpName": "私たちに出来る事 純子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたのターン中、あなたの思い出置場に「運命へのリベンジ」があるなら、このカードのパワーを＋10000。",
+		"【自】 共鳴 ［手札を1枚控え室に置き、手札の「運命へのリベンジ」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルし、そのターン中、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"SAGA",
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "ZLS/W93-013"
+}

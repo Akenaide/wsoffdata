@@ -1,0 +1,32 @@
+{
+	"set": "ZLS",
+	"setName": "ゾンビランドサガ リベンジ",
+	"side": "W",
+	"release": "93",
+	"id": "017",
+	"name": "",
+	"jpName": "私たちに出来る事 リリィ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《SAGA》のキャラが4枚以上なら、あなたは自分の控え室の《SAGA》のキャラを1枚選び、ストック置場に置いてよい。",
+		"【自】 このカードがアタックした時、他のあなたの《SAGA》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"SAGA",
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "ZLS/W93-017"
+}
