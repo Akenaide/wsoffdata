@@ -1,0 +1,33 @@
+{
+	"set": "ZLS",
+	"setName": "ゾンビランドサガ リベンジ",
+	"side": "W",
+	"release": "93",
+	"id": "085",
+	"name": "",
+	"jpName": "アンコールの前に リリィ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《SAGA》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《SAGA》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+	],
+	"specialAttrib": [
+		"SAGA",
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "ZLS/W93-085"
+}

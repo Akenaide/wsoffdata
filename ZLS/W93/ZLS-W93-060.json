@@ -1,0 +1,32 @@
+{
+	"set": "ZLS",
+	"setName": "ゾンビランドサガ リベンジ",
+	"side": "W",
+	"release": "93",
+	"id": "060",
+	"name": "",
+	"jpName": "飛び入り参加 たえ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《SAGA》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+		"【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"SAGA",
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "ZLS/W93-060"
+}

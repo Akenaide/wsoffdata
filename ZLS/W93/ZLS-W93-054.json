@@ -1,0 +1,32 @@
+{
+	"set": "ZLS",
+	"setName": "ゾンビランドサガ リベンジ",
+	"side": "W",
+	"release": "93",
+	"id": "054",
+	"name": "",
+	"jpName": "“フランシュシュ”サキ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻す。あなたは自分の手札を1枚選び、控え室に置いてよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがダイレクトアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"SAGA",
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "ZLS/W93-054"
+}
