@@ -1,0 +1,31 @@
+{
+	"set": "DC3",
+	"setName": "ポートレートブースター 舞台「D.C.Ⅲ ～ダ・カーポⅢ～君と旅する時の魔法」",
+	"side": "W",
+	"release": "E36",
+	"id": "10",
+	"name": "",
+	"jpName": "しあわせな時間 シャルル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードのバトル中、あなたは『助太刀』を手札からプレイできない。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《Anniversary》か《魔法》か《新聞》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"新聞"
+	],
+	"version": "2",
+	"cardcode": "DC3/WE36-10"
+}
