@@ -1,0 +1,30 @@
+{
+	"set": "DDM",
+	"setName": "ダンジョンに出会いを求めるのは間違っているだろうか",
+	"side": "S",
+	"release": "88",
+	"id": "051",
+	"name": "",
+	"jpName": "縄張り争い ヴェルフ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたの手札の「兎鎧」のコストを－1。",
+		"【起】［(1) このカードを【レスト】する］ あなたは自分の山札を上からＸ枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘはあなたの控え室の「兎鎧」の枚数＋1に等しい。（クライマックスのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"ファミリア",
+		"鍛冶師"
+	],
+	"version": "2",
+	"cardcode": "DDM/S88-051"
+}

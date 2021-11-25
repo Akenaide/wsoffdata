@@ -1,0 +1,33 @@
+{
+	"set": "DDM",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "88",
+	"id": "102",
+	"name": "",
+	"jpName": "中層攻略 ヴェルフ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+		"【自】 このカードがアタックした時、他のあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"特徴なし",
+		"ファミリア",
+		"鍛冶師"
+	],
+	"version": "2",
+	"cardcode": "DDM/S88-102"
+}

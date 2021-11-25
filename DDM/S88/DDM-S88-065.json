@@ -1,0 +1,31 @@
+{
+	"set": "DDM",
+	"setName": "ダンジョンに出会いを求めるのは間違っているだろうか",
+	"side": "S",
+	"release": "88",
+	"id": "065",
+	"name": "",
+	"jpName": "冒険者への試練 オッタル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラが2枚以上なら、このカードのレベルを＋5し、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"ファミリア",
+		"冒険者"
+	],
+	"version": "2",
+	"cardcode": "DDM/S88-065"
+}

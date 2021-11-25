@@ -1,0 +1,31 @@
+{
+	"set": "DDM",
+	"setName": "ダンジョンに出会いを求めるのは間違っているだろうか",
+	"side": "S",
+	"release": "88",
+	"id": "043",
+	"name": "",
+	"jpName": "本日のお弁当 シル",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードがアタックした時、あなたは他の自分の、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室のイベントの枚数×1500に等しい。"
+	],
+	"specialAttrib": [
+		"豊穣の女主人"
+	],
+	"version": "2",
+	"cardcode": "DDM/S88-043"
+}

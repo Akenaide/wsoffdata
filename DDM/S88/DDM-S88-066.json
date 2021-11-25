@@ -1,0 +1,32 @@
+{
+	"set": "DDM",
+	"setName": "ダンジョンに出会いを求めるのは間違っているだろうか",
+	"side": "S",
+	"release": "88",
+	"id": "066",
+	"name": "",
+	"jpName": "対魔力魔法 ヴェルフ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】 アンコール ［(1) あなたの舞台のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"ファミリア",
+		"鍛冶師"
+	],
+	"version": "2",
+	"cardcode": "DDM/S88-066"
+}

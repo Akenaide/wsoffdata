@@ -1,0 +1,30 @@
+{
+	"set": "DDM",
+	"setName": "ダンジョンに出会いを求めるのは間違っているだろうか",
+	"side": "S",
+	"release": "88",
+	"id": "030",
+	"name": "",
+	"jpName": "男の浪漫 ヘルメス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚とそのキャラの特徴を1つ選び、そのターン中、そのキャラはその特徴をすべて失う。",
+		"【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"ファミリア",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "DDM/S88-030"
+}

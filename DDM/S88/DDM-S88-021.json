@@ -1,0 +1,32 @@
+{
+	"set": "DDM",
+	"setName": "ダンジョンに出会いを求めるのは間違っているだろうか",
+	"side": "S",
+	"release": "88",
+	"id": "021",
+	"name": "",
+	"jpName": "ベテラン冒険者 ガレス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋2500。",
+		"【永】 このカードのレベルが3以上なら、このカードのパワーを＋4500。"
+	],
+	"specialAttrib": [
+		"ファミリア",
+		"冒険者"
+	],
+	"version": "2",
+	"cardcode": "DDM/S88-021"
+}
