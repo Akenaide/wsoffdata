@@ -1,0 +1,33 @@
+{
+	"set": "DDM",
+	"setName": "ダンジョンに出会いを求めるのは間違っているだろうか",
+	"side": "S",
+	"release": "88",
+	"id": "083",
+	"name": "",
+	"jpName": "ロリ神 ヘスティア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「人の営み ヘスティア」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"ファミリア",
+		"神"
+	],
+	"version": "2",
+	"cardcode": "DDM/S88-083"
+}
