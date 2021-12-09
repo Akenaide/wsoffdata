@@ -1,0 +1,32 @@
+{
+	"set": "LSP",
+	"setName": "ラブライブ!スーパースター!!",
+	"side": "W",
+	"release": "92",
+	"id": "004SPa",
+	"name": "",
+	"jpName": "普通科 千砂都",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の《音楽》のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LSP/W92-004SPa"
+}

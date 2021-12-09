@@ -1,0 +1,32 @@
+{
+	"set": "LSP",
+	"setName": "ラブライブ!スーパースター!!",
+	"side": "W",
+	"release": "92",
+	"id": "096",
+	"name": "",
+	"jpName": "クーカー 恋",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場の、「Liella! 恋」か「結ばれる想い 恋」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 このカードのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+		"【自】 チェンジ あなたのクライマックスフェイズの始めに、あなたは自分のレベル置場の、「Liella! 恋」か「結ばれる想い 恋」を1枚とこのカードを選び、入れ替えてよい。（舞台に置くキャラは【スタンド】して置かれる）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LSP/W92-096"
+}

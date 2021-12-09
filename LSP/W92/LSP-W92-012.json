@@ -1,0 +1,31 @@
+{
+	"set": "LSP",
+	"setName": "ラブライブ!スーパースター!!",
+	"side": "W",
+	"release": "92",
+	"id": "012",
+	"name": "",
+	"jpName": "島の露天風呂 かのん",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「どこまでも飛んでいける」があり、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LSP/W92-012"
+}

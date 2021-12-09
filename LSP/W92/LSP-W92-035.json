@@ -1,0 +1,31 @@
+{
+	"set": "LSP",
+	"setName": "ラブライブ!スーパースター!!",
+	"side": "W",
+	"release": "92",
+	"id": "035",
+	"name": "",
+	"jpName": "内緒で集合 千砂都",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1500に等しい。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「新しいことを見つける楽しさ」があるなら、あなたは相手の控え室のカードをＸ枚まで選び、山札に戻し、相手はその山札をシャッフルする。Ｘはあなたの《音楽》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LSP/W92-035"
+}
