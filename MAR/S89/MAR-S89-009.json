@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "Marvel/Card Collection",
+	"side": "S",
+	"release": "89",
+	"id": "009",
+	"name": "",
+	"jpName": "マッチョな破壊王 ドラックス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】 あなたのトリガーアイコンが[RETURN]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から2枚までを、ストック置場に置く。』"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-009"
+}

@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "Marvel/Card Collection",
+	"side": "S",
+	"release": "89",
+	"id": "088",
+	"name": "",
+	"jpName": "ファルコン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札の《MARVEL》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ウィンター・ソルジャー」を1枚選び、舞台の好きな枠に置く。",
+		"【自】 このカードがアタックした時、他のあなたの「ウィンター・ソルジャー」がいるなら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-088"
+}

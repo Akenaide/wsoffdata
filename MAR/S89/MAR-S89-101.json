@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "Marvel/Card Collection",
+	"side": "S",
+	"release": "89",
+	"id": "101",
+	"name": "",
+	"jpName": "オーディンの息子 ソー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《MARVEL》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-101"
+}

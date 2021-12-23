@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "Marvel/Card Collection",
+	"side": "S",
+	"release": "89",
+	"id": "024",
+	"name": "",
+	"jpName": "最強のヒーロー ハルク",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《MARVEL》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-024"
+}

@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "Marvel/Card Collection",
+	"side": "S",
+	"release": "89",
+	"id": "065",
+	"name": "",
+	"jpName": "若き科学の天才 スパイダーマン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《MARVEL》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】【CXコンボ】［あなたのクライマックス置場の「スーパーヒーロー スパイダーマン」を1枚控え室に置く］ あなたのアンコールステップの始めに、前列にこのカードがいて、他のあなたの《MARVEL》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《MARVEL》のキャラを2枚まで選び、手札に戻し、相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-065"
+}

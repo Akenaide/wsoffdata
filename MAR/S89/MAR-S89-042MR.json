@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "Marvel/Card Collection",
+	"side": "S",
+	"release": "89",
+	"id": "042MR",
+	"name": "",
+	"jpName": "ブラック・ウィドウ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "MR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたのキャラすべてに、そのターン中、パワーを＋2000。",
+		"【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「超一流のエージェント ブラック・ウィドウ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-042MR"
+}

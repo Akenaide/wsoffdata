@@ -1,0 +1,32 @@
+{
+	"set": "MAR",
+	"setName": "Marvel/Card Collection",
+	"side": "S",
+	"release": "89",
+	"id": "063",
+	"name": "",
+	"jpName": "美しきエージェント ブラック・ウィドウ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「超人 ハルク」すべてに、次の能力を与える。『【永】 あなたは自分の「超人 ハルク」の【自】の効果によるダメージを受けない。』",
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-063"
+}

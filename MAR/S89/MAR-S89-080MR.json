@@ -1,0 +1,29 @@
+{
+	"set": "MAR",
+	"setName": "Marvel/Card Collection",
+	"side": "S",
+	"release": "89",
+	"id": "080MR",
+	"name": "",
+	"jpName": "ヴィブラニウム製左腕 ウィンター・ソルジャー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "MR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、他のあなたの《MARVEL》のキャラがいるなら、そのターン中、このカードのレベルを＋1し、パワーを＋1000。",
+		"【自】 このカードがアタックした時、あなたは他の自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《MARVEL》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-080MR"
+}

@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "Marvel/Card Collection",
+	"side": "S",
+	"release": "89",
+	"id": "089S",
+	"name": "",
+	"jpName": "ウィンター・ソルジャー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「ファルコン」がいるなら、このカードのパワーを＋4000。",
+		"【自】 相手のアタックフェイズの始めに、あなたは自分の「ファルコン」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-089S"
+}

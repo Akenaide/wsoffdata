@@ -1,0 +1,32 @@
+{
+	"set": "MAR",
+	"setName": "Marvel/Card Collection",
+	"side": "S",
+	"release": "89",
+	"id": "062",
+	"name": "",
+	"jpName": "億万長者の起業家 アイアンマン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋3000。",
+		"【起】［手札の《MARVEL》のキャラを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-062"
+}

@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "[TD+]Marvel Avengers",
+	"side": "S",
+	"release": "89",
+	"id": "T05",
+	"name": "",
+	"jpName": "雷のパワー ソー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《MARVEL》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+		"【自】 アンコール ［手札の《MARVEL》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-T05"
+}

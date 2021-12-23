@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "Marvel/Card Collection",
+	"side": "S",
+	"release": "89",
+	"id": "050S",
+	"name": "",
+	"jpName": "ウォーマシン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがないなら、このカードのパワーを－10000し、このカードは次の能力を得る。『【永】 このカードは他の枠に動かせない。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「Iron Man Armor」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/S89-050S"
+}
