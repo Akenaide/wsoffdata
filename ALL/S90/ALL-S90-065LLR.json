@@ -1,0 +1,32 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Vol.2",
+	"side": "S",
+	"release": "90",
+	"id": "065LLR",
+	"name": "",
+	"jpName": "“旬なリリィ”ミリアム",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "LLR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《リリィ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』このカードは次のあなたのスタンドフェイズに【スタンド】しない。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"一柳隊"
+	],
+	"version": "2",
+	"cardcode": "ALL/S90-065LLR"
+}

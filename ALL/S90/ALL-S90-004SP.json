@@ -1,0 +1,34 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Vol.2",
+	"side": "S",
+	"release": "90",
+	"id": "004SP",
+	"name": "",
+	"jpName": "“努力は憧れを追って”紅巴",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《リリィ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが『共鳴』を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の手札を1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"グラン",
+		"エプレ"
+	],
+	"version": "2",
+	"cardcode": "ALL/S90-004SP"
+}

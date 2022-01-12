@@ -1,0 +1,32 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Vol.2",
+	"side": "S",
+	"release": "90",
+	"id": "044",
+	"name": "",
+	"jpName": "“旬なリリィ”梅",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】［手札のクライマックスを1枚控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《リリィ》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、その《リリィ》のキャラのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"一柳隊"
+	],
+	"version": "2",
+	"cardcode": "ALL/S90-044"
+}
