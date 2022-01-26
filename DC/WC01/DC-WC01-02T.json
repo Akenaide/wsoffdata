@@ -1,0 +1,33 @@
+{
+	"set": "DC",
+	"setName": "ヴァイスシュヴァルツクロニクル D.C. D.C.II",
+	"side": "W",
+	"release": "C01",
+	"id": "02T",
+	"name": "",
+	"jpName": "私服のことり",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 大活躍 (相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)",
+		"【自】 このカードがプレイされて舞台に置かれた時、あなたは相手の手札を見る。",
+		"【自】 【CXコンボ】 このカードがアタックした時、クライマックス置場に「結婚式の歌姫」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "DC/WC01-02T"
+}

@@ -1,0 +1,31 @@
+{
+	"set": "DC",
+	"setName": "ヴァイスシュヴァルツクロニクル D.C. D.C.II",
+	"side": "W",
+	"release": "C01",
+	"id": "E05",
+	"name": "",
+	"jpName": "水着のななか",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "2",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたは自分の山札の上から1枚を、ストック置場に置く。（クライマックスのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"水着"
+	],
+	"version": "2",
+	"cardcode": "DC/WC01-E05"
+}

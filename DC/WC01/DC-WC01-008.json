@@ -1,0 +1,32 @@
+{
+	"set": "DC",
+	"setName": "ヴァイスシュヴァルツクロニクル D.C. D.C.II",
+	"side": "W",
+	"release": "C01",
+	"id": "008",
+	"name": "",
+	"jpName": "簡易スーツの和泉子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは相手の効果に選ばれない。",
+		"【自】 このカードがフロントアタックされた時、相手は自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"宇宙人",
+		"シャケ"
+	],
+	"version": "2",
+	"cardcode": "DC/WC01-008"
+}

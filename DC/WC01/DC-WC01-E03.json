@@ -1,0 +1,31 @@
+{
+	"set": "DC",
+	"setName": "ヴァイスシュヴァルツクロニクル D.C. D.C.II",
+	"side": "W",
+	"release": "C01",
+	"id": "E03",
+	"name": "",
+	"jpName": "水着の由夢＆さくら",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのターン中、このカードのソウルを＋1。（クライマックスのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"水着"
+	],
+	"version": "2",
+	"cardcode": "DC/WC01-E03"
+}

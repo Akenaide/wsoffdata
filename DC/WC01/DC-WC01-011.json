@@ -1,0 +1,33 @@
+{
+	"set": "DC",
+	"setName": "ヴァイスシュヴァルツクロニクル D.C. D.C.II",
+	"side": "W",
+	"release": "C01",
+	"id": "011",
+	"name": "",
+	"jpName": "水着のさくら",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RE",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 大活躍 (相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)",
+		"【自】 【CXコンボ】 このカードがアタックした時、クライマックス置場に「魔法使いの見る夢」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
+		"【起】［(6)］ あなたは相手の前列のキャラすべてを、手札に戻す。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"水着"
+	],
+	"version": "2",
+	"cardcode": "DC/WC01-011"
+}
