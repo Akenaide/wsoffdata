@@ -1,0 +1,32 @@
+{
+	"set": "GU",
+	"setName": "ご注文はうさぎですか？ Re:Edit",
+	"side": "W",
+	"release": "94",
+	"id": "072",
+	"name": "",
+	"jpName": "Sing For You チノ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 記憶 ［(1) 手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「Sing For You」があり、あなたの思い出置場の「Sing For You サキ」が2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードをＸ枚まで選び、山札に戻し、相手はその山札をシャッフルし、相手に2ダメージを与える。Ｘはあなたの、青か《ラビットハウス》のキャラの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ラビットハウス",
+		"Sing For You"
+	],
+	"version": "2",
+	"cardcode": "GU/W94-072"
+}
