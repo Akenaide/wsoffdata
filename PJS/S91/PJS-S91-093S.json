@@ -1,0 +1,35 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+	"side": "S",
+	"release": "91",
+	"id": "093S",
+	"name": "",
+	"jpName": "黄昏の雨をぬぐって 巡音ルカ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、このカードのパワーを＋6000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Leo/need》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Leo/need》のキャラが4枚以上なら、あなたは自分の控え室の《Leo/need》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"バーチャル",
+		"シンガー",
+		"Leo/need"
+	],
+	"version": "2",
+	"cardcode": "PJS/S91-093S"
+}

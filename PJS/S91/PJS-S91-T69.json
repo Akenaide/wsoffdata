@@ -1,0 +1,33 @@
+{
+	"set": "PJS",
+	"setName": "[TD+]プロジェクトセカイ カラフルステージ！ feat. 初音ミク 25時、ナイトコードで。",
+	"side": "S",
+	"release": "91",
+	"id": "T69",
+	"name": "",
+	"jpName": "誰もが知る歌姫 初音ミク",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"バーチャル",
+		"シンガー"
+	],
+	"version": "2",
+	"cardcode": "PJS/S91-T69"
+}

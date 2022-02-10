@@ -1,0 +1,32 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+	"side": "S",
+	"release": "91",
+	"id": "035",
+	"name": "",
+	"jpName": "いっぱいの祝福 桐谷遥",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 記憶 ［(2)］ このカードがアタックした時、クライマックス置場に「アイドルじゃない私」があり、あなたの思い出置場の《音楽》のキャラが2枚以上で、あなたのキャラすべてが《MORE MORE JUMP！》なら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から3枚まで見て、カードを3枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"MORE MORE JUMP！"
+	],
+	"version": "2",
+	"cardcode": "PJS/S91-035"
+}
