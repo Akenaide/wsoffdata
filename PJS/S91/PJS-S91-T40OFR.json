@@ -1,0 +1,34 @@
+{
+	"set": "PJS",
+	"setName": "[TD+]プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vivid BAD SQUAD",
+	"side": "S",
+	"release": "91",
+	"id": "T40OFR",
+	"name": "",
+	"jpName": "はい。召し上がれ MEIKO",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "OFR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
+		"【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《音楽》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"バーチャル",
+		"シンガー",
+		"Vivid BAD SQUAD"
+	],
+	"version": "2",
+	"cardcode": "PJS/S91-T40OFR"
+}

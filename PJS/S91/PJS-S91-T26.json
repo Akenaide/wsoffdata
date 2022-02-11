@@ -1,0 +1,32 @@
+{
+	"set": "PJS",
+	"setName": "[TD+]プロジェクトセカイ カラフルステージ！ feat. 初音ミク MORE MORE JUMP！",
+	"side": "S",
+	"release": "91",
+	"id": "T26",
+	"name": "",
+	"jpName": "MORE MORE JUMP！ 桐谷遥",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"MORE MORE JUMP！"
+	],
+	"version": "2",
+	"cardcode": "PJS/S91-T26"
+}
