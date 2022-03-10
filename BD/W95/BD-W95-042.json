@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！ 5th Anniversary",
+	"side": "W",
+	"release": "95",
+	"id": "042",
+	"name": "",
+	"jpName": "“やっぱり、ブラック”レイヤ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"RAISE A SUILEN"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-042"
+}

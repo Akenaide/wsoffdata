@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！ 5th Anniversary",
+	"side": "W",
+	"release": "95",
+	"id": "007SSP",
+	"name": "",
+	"jpName": "“千年に一度の夜”奥沢美咲",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのレベルが2以上かこのカードの下にマーカーがあるなら、あなたのターン中、他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル×1000に等しい。",
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[CHOICE]のクライマックスがでた時、あなたは相手の控え室のカードを1枚まで選び、山札の下に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"ハロー、ハッピーワールド！"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-007SSP"
+}

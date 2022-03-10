@@ -11,12 +11,14 @@
 	"level": "2",
 	"cost": "2",
 	"power": "8000",
-	"soul": "0",
+	"soul": "2",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL"
+	],
 	"ability": [
 		"【自】［(3)］  相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、このカードの正面のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはフロントアタックできない。』（サイドアタックはできる）"
 	],

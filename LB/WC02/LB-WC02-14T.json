@@ -11,12 +11,14 @@
 	"level": "1",
 	"cost": "1",
 	"power": "3000",
-	"soul": "0",
+	"soul": "1",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL"
+	],
 	"ability": [
 		"【自】 あなたがレベルアップした時、あなたは自分の山札を上から1枚選び、ストック置場に置く。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックを上から1枚選び、控え室に置く。"

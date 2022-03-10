@@ -16,7 +16,9 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"DRAW"
+	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
 		"（本＠：このカードがトリガーした時、あなたは1枚引いてよい）"

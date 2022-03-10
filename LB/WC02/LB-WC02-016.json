@@ -11,12 +11,14 @@
 	"level": "2",
 	"cost": "2",
 	"power": "8000",
-	"soul": "0",
+	"soul": "2",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL"
+	],
 	"ability": [
 		"【起】［(4)］ 相手は自分の手札を1枚選び、控え室に置く。"
 	],

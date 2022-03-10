@@ -11,12 +11,14 @@
 	"level": "1",
 	"cost": "1",
 	"power": "4500",
-	"soul": "0",
+	"soul": "1",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL"
+	],
 	"ability": [
 		"【永】 他のあなたの赤と青のキャラがいるなら、このカードのパワーを＋1500。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"

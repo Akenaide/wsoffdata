@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！ 5th Anniversary",
+	"side": "W",
+	"release": "95",
+	"id": "032",
+	"name": "",
+	"jpName": "“反骨精神”美竹蘭",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ありのままでいること」があり、あなたのキャラすべてが《Anniversary》か《Afterglow》なら、相手に1ダメージを与え、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。（ダメージキャンセルは発生する）",
+		"【自】 このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Afterglow"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-032"
+}

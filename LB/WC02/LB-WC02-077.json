@@ -11,12 +11,14 @@
 	"level": "2",
 	"cost": "2",
 	"power": "7500",
-	"soul": "0",
+	"soul": "2",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL"
+	],
 	"ability": [
 		"【自】 【CXコンボ】 このカードがアタックした時、クライマックス置場に「２つの長い影」があるなら、あなたは1枚引く。",
 		"【起】［(3)］ あなたは自分のクロックを上から1枚選び、控え室に置く。"

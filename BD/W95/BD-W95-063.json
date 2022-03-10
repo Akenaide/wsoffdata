@@ -1,0 +1,34 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！ 5th Anniversary",
+	"side": "W",
+	"release": "95",
+	"id": "063",
+	"name": "",
+	"jpName": "“こらえきれない感情”白鷺千聖",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《Anniversary》か《Pastel＊Palettes》のキャラが4枚以上なら、このカードは、色条件を満たさずに手札からプレイでき、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、あなたの、《Anniversary》か《Pastel＊Palettes》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の、《Anniversary》か《Pastel＊Palettes》のキャラを1枚選び、山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Pastel＊Palettes"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-063"
+}

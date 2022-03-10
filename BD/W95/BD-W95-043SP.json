@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！ 5th Anniversary",
+	"side": "W",
+	"release": "95",
+	"id": "043SP",
+	"name": "",
+	"jpName": "“ハイテンション！”上原ひまり",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの、《Anniversary》か《Afterglow》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Afterglow"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-043SP"
+}

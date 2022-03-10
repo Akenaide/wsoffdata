@@ -11,12 +11,14 @@
 	"level": "2",
 	"cost": "1",
 	"power": "2000",
-	"soul": "0",
+	"soul": "1",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL"
+	],
 	"ability": [
 		"【自】 このカードとバトルしているキャラが【リバース】した時、あなたはこのカードを手札に戻してよい。",
 		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋3000）"

@@ -11,12 +11,14 @@
 	"level": "2",
 	"cost": "1",
 	"power": "8000",
-	"soul": "0",
+	"soul": "1",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL"
+	],
 	"ability": [
 		"【起】［(1)］ 次の相手のターンの終わりまで、相手は舞台にいるキャラの【起】を使えない。"
 	],

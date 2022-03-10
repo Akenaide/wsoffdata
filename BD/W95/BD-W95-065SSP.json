@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！ 5th Anniversary",
+	"side": "W",
+	"release": "95",
+	"id": "065SSP",
+	"name": "",
+	"jpName": "“朝焼けに包まれて”丸山彩",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［(1) あなたのクライマックス置場の「イベント前のワクワク」を1枚控え室に置く］ あなたのクライマックスフェイズ中、このカードが「イベント前のワクワク」の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】し、あなたは相手の控え室のカードを2枚まで選び、山札に戻し、相手はその山札をシャッフルする。",
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》か《Pastel＊Palettes》のキャラか「SNS映え？」なら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Pastel＊Palettes"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-065SSP"
+}

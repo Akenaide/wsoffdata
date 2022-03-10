@@ -1,0 +1,34 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！ 5th Anniversary",
+	"side": "W",
+	"release": "95",
+	"id": "064",
+	"name": "",
+	"jpName": "“STAR☆”戸山香澄",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《Poppin\u0026#39;Party》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが、手札か山札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
+		"【自】【CXコンボ】［(2)］ このカードのアタックの終わりに、クライマックス置場に「ついに来ちゃったね！」があり、他のあなたの、《Anniversary》か《Poppin\u0026#39;Party》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、次の相手のターンの終わりまで、このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Poppin'Party"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-064"
+}

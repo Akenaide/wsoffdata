@@ -11,12 +11,14 @@
 	"level": "1",
 	"cost": "1",
 	"power": "5500",
-	"soul": "0",
+	"soul": "1",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL"
+	],
 	"ability": [
 		"【自】 【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「クレーンゲーム」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],

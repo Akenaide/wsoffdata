@@ -11,12 +11,14 @@
 	"level": "3",
 	"cost": "2",
 	"power": "8500",
-	"soul": "0",
+	"soul": "2",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL"
+	],
 	"ability": [
 		"【永】 大活躍 (相手がアタックする時、@リバースしていないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)",
 		"【自】 【CXコンボ】 このカードがアタックした時、クライマックス置場に「深夜の儀式」があるなら、あなたは1枚引く。",

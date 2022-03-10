@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！ 5th Anniversary",
+	"side": "W",
+	"release": "95",
+	"id": "024S",
+	"name": "",
+	"jpName": "“舞台監督補”丸山彩",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの舞台のキャラの持つ色の合計×1000に等しい。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《Pastel＊Palettes》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Pastel＊Palettes"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-024S"
+}

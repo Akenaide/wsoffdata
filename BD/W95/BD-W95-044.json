@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！ 5th Anniversary",
+	"side": "W",
+	"release": "95",
+	"id": "044",
+	"name": "",
+	"jpName": "“和太鼓の魅力”宇田川巴",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《Anniversary》か《Afterglow》のキャラを1枚選び、手札に戻してよい。",
+		"【自】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Afterglow"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-044"
+}

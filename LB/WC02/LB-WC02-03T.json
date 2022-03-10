@@ -11,12 +11,14 @@
 	"level": "3",
 	"cost": "2",
 	"power": "8500",
-	"soul": "0",
+	"soul": "2",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL"
+	],
 	"ability": [
 		"【永】 大活躍",
 		"【自】 【CXコンボ】 このカードがアタックした時、クライマックス置場に「そよ風のハミング」があるなら、あなたは自分の山札を上から1枚選び、ストック置場に置き、そのターン中、このカードのパワーを＋3000。",

@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！ 5th Anniversary",
+	"side": "W",
+	"release": "95",
+	"id": "037SP",
+	"name": "",
+	"jpName": "“等身大の夜空”美竹蘭",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのクライマックスフェイズの始めに、あなたのクロックの1番上に『アラーム』を持つカードがあるなら、次の相手のターンの終わりまで、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2500。』を得る。",
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、次の行動を2回行う。『あなたは自分の、《Anniversary》か《Afterglow》のキャラを1枚選び、そのターン中、パワーを＋1500。』"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Afterglow"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-037SP"
+}

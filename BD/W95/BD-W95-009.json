@@ -1,0 +1,34 @@
+{
+	"set": "BD",
+	"setName": "バンドリ！ ガールズバンドパーティ！ 5th Anniversary",
+	"side": "W",
+	"release": "95",
+	"id": "009",
+	"name": "",
+	"jpName": "“その手を通じ”若宮イヴ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の、《Anniversary》か《Pastel＊Palettes》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「最高のおもてなし」が置かれた時、前列にこのカードがいるなら、あなたは他の自分の、《Anniversary》か《Pastel＊Palettes》のキャラを1枚選び、【スタンド】してよい。",
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Pastel＊Palettes"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-009"
+}
