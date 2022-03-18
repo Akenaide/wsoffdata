@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "プレミアムブースター ホロライブプロダクション",
+	"side": "W",
+	"release": "E36",
+	"id": "50SP",
+	"name": "",
+	"jpName": "キミと願うミライ 兎田ぺこら",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《ホロライブ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"3期生"
+	],
+	"version": "2",
+	"cardcode": "HOL/WE36-50SP"
+}
