@@ -1,0 +1,33 @@
+{
+	"set": "RSL",
+	"setName": "ポートレートブースター 少女☆歌劇 レヴュースタァライト -The LIVE エーデル- Delight",
+	"side": "S",
+	"release": "E38",
+	"id": "24SP",
+	"name": "",
+	"jpName": "Delight 鶴姫 やちよ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの青のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"レヴュー",
+		"シークフェルト音楽学院"
+	],
+	"version": "2",
+	"cardcode": "RSL/SE38-24SP"
+}

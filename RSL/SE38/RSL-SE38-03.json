@@ -1,0 +1,32 @@
+{
+	"set": "RSL",
+	"setName": "ポートレートブースター 少女☆歌劇 レヴュースタァライト -The LIVE エーデル- Delight",
+	"side": "S",
+	"release": "E38",
+	"id": "03",
+	"name": "",
+	"jpName": "Delight 夢大路 文",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《レヴュー》のキャラの枚数×1000に等しい。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「温かい気高さ 夢大路 文」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《レヴュー》のキャラを1枚まで選び、手札に戻し、他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"レヴュー",
+		"凛明館女学校"
+	],
+	"version": "2",
+	"cardcode": "RSL/SE38-03"
+}
