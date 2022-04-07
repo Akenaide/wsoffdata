@@ -1,0 +1,32 @@
+{
+	"set": "KMD",
+	"setName": "小林さんちのメイドラゴン",
+	"side": "W",
+	"release": "96",
+	"id": "081MDR",
+	"name": "",
+	"jpName": "刺激的な毎日 ルコア＆真ヶ土翔太",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "2",
+	"rarity": "MDR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの前列の「悪魔的な抱擁 ルコア」と後列の「魔法の才能 真ヶ土翔太」がいるなら、このカードのパワーを＋8000。",
+		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"人間",
+		"ドラゴン"
+	],
+	"version": "2",
+	"cardcode": "KMD/W96-081MDR"
+}

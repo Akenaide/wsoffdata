@@ -1,0 +1,33 @@
+{
+	"set": "KMD",
+	"setName": "小林さんちのメイドラゴン",
+	"side": "W",
+	"release": "96",
+	"id": "060MDR",
+	"name": "",
+	"jpName": "ずっと一緒 カンナ＆才川リコ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "MDR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《人間》か《ドラゴン》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"人間",
+		"ドラゴン"
+	],
+	"version": "2",
+	"cardcode": "KMD/W96-060MDR"
+}

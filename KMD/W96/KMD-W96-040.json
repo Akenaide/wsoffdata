@@ -1,0 +1,32 @@
+{
+	"set": "KMD",
+	"setName": "小林さんちのメイドラゴン",
+	"side": "W",
+	"release": "96",
+	"id": "040",
+	"name": "",
+	"jpName": "同僚 滝谷真",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《人間》か《ドラゴン》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、他のあなたの「本気を出した引きこもり ファフニール」がいるなら、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"人間",
+		"オタク"
+	],
+	"version": "2",
+	"cardcode": "KMD/W96-040"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "KMD",
+	"setName": "[TD+]小林さんちのメイドラゴン",
+	"side": "W",
+	"release": "96",
+	"id": "T06",
+	"name": "",
+	"jpName": "思春期の到来 イルル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、そのターン中、このカードのパワーを＋4000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"ドラゴン",
+		"混沌勢"
+	],
+	"version": "2",
+	"cardcode": "KMD/W96-T06"
+}

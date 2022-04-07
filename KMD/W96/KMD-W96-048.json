@@ -1,0 +1,32 @@
+{
+	"set": "KMD",
+	"setName": "小林さんちのメイドラゴン",
+	"side": "W",
+	"release": "96",
+	"id": "048",
+	"name": "",
+	"jpName": "町の治安維持 トール",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"ドラゴン",
+		"メイド"
+	],
+	"version": "2",
+	"cardcode": "KMD/W96-048"
+}

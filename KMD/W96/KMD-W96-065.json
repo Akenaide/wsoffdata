@@ -1,0 +1,32 @@
+{
+	"set": "KMD",
+	"setName": "小林さんちのメイドラゴン",
+	"side": "W",
+	"release": "96",
+	"id": "065",
+	"name": "",
+	"jpName": "永遠の友達 才川リコ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"人間",
+		"小学生"
+	],
+	"version": "2",
+	"cardcode": "KMD/W96-065"
+}

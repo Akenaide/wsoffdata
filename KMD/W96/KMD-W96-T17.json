@@ -1,0 +1,32 @@
+{
+	"set": "KMD",
+	"setName": "[TD+]小林さんちのメイドラゴン",
+	"side": "W",
+	"release": "96",
+	"id": "T17",
+	"name": "",
+	"jpName": "参戦！ ファフニール",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2000。",
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"ドラゴン",
+		"引きこもり"
+	],
+	"version": "2",
+	"cardcode": "KMD/W96-T17"
+}

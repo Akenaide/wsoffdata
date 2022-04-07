@@ -1,0 +1,32 @@
+{
+	"set": "KMD",
+	"setName": "[TD+]小林さんちのメイドラゴン",
+	"side": "W",
+	"release": "96",
+	"id": "T07",
+	"name": "",
+	"jpName": "モデルポーズ ルコア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』"
+	],
+	"specialAttrib": [
+		"ドラゴン",
+		"傍観勢"
+	],
+	"version": "2",
+	"cardcode": "KMD/W96-T07"
+}

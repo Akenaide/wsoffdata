@@ -1,0 +1,32 @@
+{
+	"set": "KMD",
+	"setName": "[TD+]小林さんちのメイドラゴン",
+	"side": "W",
+	"release": "96",
+	"id": "T18R",
+	"name": "",
+	"jpName": "調和勢 エルマ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《人間》か《ドラゴン》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
+	],
+	"specialAttrib": [
+		"ドラゴン",
+		"調和勢"
+	],
+	"version": "2",
+	"cardcode": "KMD/W96-T18R"
+}
