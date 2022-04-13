@@ -1,0 +1,32 @@
+{
+	"set": "DCT",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "86",
+	"id": "P07",
+	"name": "",
+	"jpName": "夢見る力 蘭堂",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場に「明日の約束 亞希」があるなら、このカードのパワーを＋4500。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《ノッカーアップ》か《由良島》か《謎》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"ノッカーアップ",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "DCT/S86-P07"
+}
