@@ -1,0 +1,32 @@
+{
+	"set": "DCT",
+	"setName": "D_CIDE TRAUMEREI",
+	"side": "S",
+	"release": "86",
+	"id": "064",
+	"name": "",
+	"jpName": "楽勝 玲菜",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"ノッカーアップ",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "DCT/S86-064"
+}

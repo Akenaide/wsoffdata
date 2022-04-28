@@ -1,0 +1,33 @@
+{
+	"set": "DCT",
+	"setName": "D_CIDE TRAUMEREI",
+	"side": "S",
+	"release": "86",
+	"id": "002",
+	"name": "",
+	"jpName": "最高のアイドル ありや",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 前列にこのカードがいるなら、あなたの、《ノッカーアップ》か《由良島》のキャラすべてに、パワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、あなたは自分の山札を見て《ノッカーアップ》か《由良島》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"ノッカーアップ",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "DCT/S86-002"
+}

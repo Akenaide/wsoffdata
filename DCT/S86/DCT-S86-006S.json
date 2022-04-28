@@ -1,0 +1,32 @@
+{
+	"set": "DCT",
+	"setName": "D_CIDE TRAUMEREI",
+	"side": "S",
+	"release": "86",
+	"id": "006S",
+	"name": "",
+	"jpName": "“夢見る人” ありや",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場に、「神社の娘 ありや」か「明日の約束 亞希」があるなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたは他のキャラを1枚選び、そのターン中、レベルを＋1。』",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"ノッカーアップ",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "DCT/S86-006S"
+}

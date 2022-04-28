@@ -1,0 +1,32 @@
+{
+	"set": "DCT",
+	"setName": "D_CIDE TRAUMEREI",
+	"side": "S",
+	"release": "86",
+	"id": "069",
+	"name": "",
+	"jpName": "愛されギャル 玲菜",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの《ノッカーアップ》のキャラの枚数に等しい。",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"ノッカーアップ",
+		"渋谷"
+	],
+	"version": "2",
+	"cardcode": "DCT/S86-069"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "DCT",
+	"setName": "D_CIDE TRAUMEREI",
+	"side": "S",
+	"release": "86",
+	"id": "045",
+	"name": "",
+	"jpName": "女王様的魅力 愛莉",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのカード名に「玲菜」を含むキャラがいるなら、このカードのパワーを＋7500。",
+		"【自】 絆／「友達思い 玲菜」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「友達思い 玲菜」を1枚選び、手札に戻す）"
+	],
+	"specialAttrib": [
+		"ノッカーアップ",
+		"渋谷"
+	],
+	"version": "2",
+	"cardcode": "DCT/S86-045"
+}

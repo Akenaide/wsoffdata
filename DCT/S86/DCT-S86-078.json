@@ -1,0 +1,33 @@
+{
+	"set": "DCT",
+	"setName": "D_CIDE TRAUMEREI",
+	"side": "S",
+	"release": "86",
+	"id": "078",
+	"name": "",
+	"jpName": "ミステリアス転校生 える",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《ノッカーアップ》か《由良島》か《謎》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 応援 このカードの前のあなたの《ノッカーアップ》のキャラすべてに、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"ノッカーアップ",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "DCT/S86-078"
+}
