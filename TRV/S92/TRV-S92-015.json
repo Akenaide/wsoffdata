@@ -1,0 +1,31 @@
+{
+	"set": "TRV",
+	"setName": "東京リベンジャーズ",
+	"side": "S",
+	"release": "92",
+	"id": "015",
+	"name": "",
+	"jpName": "みんなを助けてくれ アッくん",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 バトル中のこのカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたはこのカードを思い出にしてよい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"リベンジ"
+	],
+	"version": "2",
+	"cardcode": "TRV/S92-015"
+}

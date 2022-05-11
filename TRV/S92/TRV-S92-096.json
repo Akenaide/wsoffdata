@@ -1,0 +1,31 @@
+{
+	"set": "TRV",
+	"setName": "東京リベンジャーズ",
+	"side": "S",
+	"release": "92",
+	"id": "096",
+	"name": "",
+	"jpName": "ムニャムニャ マイキー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "6000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《リベンジ》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】［(2) 手札の「創設メンバー 三ツ谷」を1枚控え室に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、このカードのバトル相手を【リバース】する。"
+	],
+	"specialAttrib": [
+		"リベンジ"
+	],
+	"version": "2",
+	"cardcode": "TRV/S92-096"
+}

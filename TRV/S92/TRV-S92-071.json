@@ -1,0 +1,31 @@
+{
+	"set": "TRV",
+	"setName": "東京リベンジャーズ",
+	"side": "S",
+	"release": "92",
+	"id": "071",
+	"name": "",
+	"jpName": "ちゃんと謝れよ 三ツ谷",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの[SOUL]の合計に等しい。（ダメージキャンセルは発生する）",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「親衛隊長」があるなら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"リベンジ"
+	],
+	"version": "2",
+	"cardcode": "TRV/S92-071"
+}

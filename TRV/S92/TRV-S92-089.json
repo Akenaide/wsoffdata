@@ -1,0 +1,32 @@
+{
+	"set": "TRV",
+	"setName": "東京リベンジャーズ",
+	"side": "S",
+	"release": "92",
+	"id": "089",
+	"name": "",
+	"jpName": "英雄になる為に 一虎",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの後列の《リベンジ》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《リベンジ》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+	],
+	"specialAttrib": [
+		"リベンジ"
+	],
+	"version": "2",
+	"cardcode": "TRV/S92-089"
+}

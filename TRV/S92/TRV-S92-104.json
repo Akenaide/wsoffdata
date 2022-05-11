@@ -1,0 +1,31 @@
+{
+	"set": "TRV",
+	"setName": "東京リベンジャーズ",
+	"side": "S",
+	"release": "92",
+	"id": "104",
+	"name": "",
+	"jpName": "幼い一面 マイキー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"リベンジ"
+	],
+	"version": "2",
+	"cardcode": "TRV/S92-104"
+}
