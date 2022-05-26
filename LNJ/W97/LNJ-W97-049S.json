@@ -1,0 +1,31 @@
+{
+	"set": "LNJ",
+	"setName": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+	"side": "W",
+	"release": "97",
+	"id": "049S",
+	"name": "",
+	"jpName": "スクールアイドルフェスティバル 上原 歩夢",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 経験 あなたがこのカードの『助太刀』を使った時、あなたのレベル置場のカードのレベルの合計が4以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "2",
+	"cardcode": "LNJ/W97-049S"
+}

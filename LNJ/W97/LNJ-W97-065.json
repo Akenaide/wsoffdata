@@ -1,0 +1,30 @@
+{
+	"set": "LNJ",
+	"setName": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+	"side": "W",
+	"release": "97",
+	"id": "065",
+	"name": "",
+	"jpName": "大好きを叫ぶ",
+	"cardType": "CX",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "CR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL",
+		"STANDBY"
+	],
+	"ability": [
+		"【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
+		"（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+	],
+	"specialAttrib": [],
+	"version": "2",
+	"cardcode": "LNJ/W97-065"
+}
