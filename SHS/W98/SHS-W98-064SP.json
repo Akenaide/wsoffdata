@@ -1,0 +1,33 @@
+{
+	"set": "SHS",
+	"setName": "冴えない彼女の育てかた Fine",
+	"side": "W",
+	"release": "98",
+	"id": "064SP",
+	"name": "",
+	"jpName": "一緒にお出かけ 詩羽",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《ゲーム》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのキャラすべてが《ゲーム》なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の《ゲーム》のキャラを1枚控え室に置く］』を得る。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"ゲーム",
+		"小説"
+	],
+	"version": "2",
+	"cardcode": "SHS/W98-064SP"
+}

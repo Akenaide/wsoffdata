@@ -1,0 +1,31 @@
+{
+	"set": "SHS",
+	"setName": "冴えない彼女の育てかた Fine",
+	"side": "W",
+	"release": "98",
+	"id": "068S",
+	"name": "",
+	"jpName": "ドレスアップ 恵",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《ゲーム》のキャラの枚数に等しい。",
+		"【自】［(1) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは相手の控え室のカードを1枚まで選び、山札の上に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ゲーム"
+	],
+	"version": "2",
+	"cardcode": "SHS/W98-068S"
+}
