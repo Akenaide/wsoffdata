@@ -1,0 +1,32 @@
+{
+	"set": "IMS",
+	"setName": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+	"side": "S",
+	"release": "93",
+	"id": "096SP",
+	"name": "",
+	"jpName": "太陽のスポットライト　二階堂千鶴",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"セレブ"
+	],
+	"version": "2",
+	"cardcode": "IMS/S93-096SP"
+}

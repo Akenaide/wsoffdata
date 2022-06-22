@@ -1,0 +1,32 @@
+{
+	"set": "IMS",
+	"setName": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+	"side": "S",
+	"release": "93",
+	"id": "018SP",
+	"name": "",
+	"jpName": "ハッピー・ホーリーナイト　北上麗花",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、次の行動を行う。『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"登山"
+	],
+	"version": "2",
+	"cardcode": "IMS/S93-018SP"
+}

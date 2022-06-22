@@ -1,0 +1,32 @@
+{
+	"set": "IMS",
+	"setName": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+	"side": "S",
+	"release": "93",
+	"id": "047",
+	"name": "",
+	"jpName": "はじける夏の味♪　佐竹美奈子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。",
+		"【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「BORN ON DREAM!」があり、あなたのキャラすべてが《音楽》なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"料理"
+	],
+	"version": "2",
+	"cardcode": "IMS/S93-047"
+}

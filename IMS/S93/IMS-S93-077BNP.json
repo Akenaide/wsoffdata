@@ -1,0 +1,32 @@
+{
+	"set": "IMS",
+	"setName": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+	"side": "S",
+	"release": "93",
+	"id": "077BNP",
+	"name": "",
+	"jpName": "運命の再会　中谷 育",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "BNP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。",
+		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"アニメ"
+	],
+	"version": "2",
+	"cardcode": "IMS/S93-077BNP"
+}

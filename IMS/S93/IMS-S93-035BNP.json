@@ -1,0 +1,32 @@
+{
+	"set": "IMS",
+	"setName": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+	"side": "S",
+	"release": "93",
+	"id": "035BNP",
+	"name": "",
+	"jpName": "大人になったら　箱崎星梨花",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "BNP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1500に等しい。",
+		"【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"箱入娘"
+	],
+	"version": "2",
+	"cardcode": "IMS/S93-035BNP"
+}

@@ -1,0 +1,31 @@
+{
+	"set": "PXR",
+	"setName": "[TD+]Toy Story",
+	"side": "S",
+	"release": "94",
+	"id": "T07",
+	"name": "",
+	"jpName": "ラグドール ドリー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-T07"
+}

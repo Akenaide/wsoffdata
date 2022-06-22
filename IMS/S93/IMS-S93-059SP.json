@@ -1,0 +1,33 @@
+{
+	"set": "IMS",
+	"setName": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+	"side": "S",
+	"release": "93",
+	"id": "059SP",
+	"name": "",
+	"jpName": "ニューイヤー・ゴング　福田のり子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"プロレス"
+	],
+	"version": "2",
+	"cardcode": "IMS/S93-059SP"
+}

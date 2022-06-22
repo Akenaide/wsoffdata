@@ -1,0 +1,31 @@
+{
+	"set": "PXR",
+	"setName": "[TD+]Toy Story",
+	"side": "S",
+	"release": "94",
+	"id": "T19",
+	"name": "",
+	"jpName": "受けた恩は忘れない エイリアン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、手札に戻す。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-T19"
+}

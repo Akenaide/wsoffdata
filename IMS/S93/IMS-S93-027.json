@@ -1,0 +1,33 @@
+{
+	"set": "IMS",
+	"setName": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+	"side": "S",
+	"release": "93",
+	"id": "027",
+	"name": "",
+	"jpName": "ファンタジックキャンドルナイト　大神 環",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】［あなたのクライマックス置場の「Arrive You ～それが運命でも～」を1枚控え室に置く］ このカードのアタックの終わりに、他のあなたの《音楽》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《音楽》のキャラかイベントを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"探検"
+	],
+	"version": "2",
+	"cardcode": "IMS/S93-027"
+}

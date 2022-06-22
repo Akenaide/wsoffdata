@@ -1,0 +1,33 @@
+{
+	"set": "IMS",
+	"setName": "アイドルマスター ミリオンライブ！ Welcome to the New St@ge",
+	"side": "S",
+	"release": "93",
+	"id": "075",
+	"name": "",
+	"jpName": "コットンキャンディバス　矢吹可奈",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の手札の「いつでもオンステージ！　春日未来」を1枚まで選び、このカードがいた枠に置く。』",
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"歌"
+	],
+	"version": "2",
+	"cardcode": "IMS/S93-075"
+}
