@@ -1,16 +1,16 @@
 {
-	"set": "MM",
-	"setName": "魔法少女まどか☆マギカ",
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
 	"side": "W",
-	"release": "17",
-	"id": "106",
+	"release": "E35",
+	"id": "P10",
 	"name": "",
-	"jpName": "ちびマミ",
+	"jpName": "“プロ意識ゾンビ”白鷺千聖",
 	"cardType": "CH",
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "2000",
+	"power": "1000",
 	"soul": "1",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
@@ -20,12 +20,14 @@
 		"SOUL"
 	],
 	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から3枚を、控え室に置く。",
 		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
 	],
 	"specialAttrib": [
-		"魔法",
-		"お茶"
+		"音楽",
+		"Pastel＊Palettes",
+		"SAGA"
 	],
 	"version": "2",
-	"cardcode": "MM/W17-106"
+	"cardcode": "BD/WE35-P10"
 }
