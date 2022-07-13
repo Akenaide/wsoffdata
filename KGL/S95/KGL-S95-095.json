@@ -1,0 +1,32 @@
+{
+	"set": "KGL",
+	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"side": "S",
+	"release": "95",
+	"id": "095",
+	"name": "",
+	"jpName": "作戦失敗 愛",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《秀知院》のキャラ1枚につき、このカードのパワーを＋2000。",
+		"【自】【クロック】 アラーム ［(1) 手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"秀知院",
+		"メイド"
+	],
+	"version": "2",
+	"cardcode": "KGL/S95-095"
+}

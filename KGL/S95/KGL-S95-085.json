@@ -1,0 +1,33 @@
+{
+	"set": "KGL",
+	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"side": "S",
+	"release": "95",
+	"id": "085",
+	"name": "",
+	"jpName": "恋愛頭脳戦？ かぐや",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「天才たちの真剣勝負 愛」すべてに、パワーを＋1000。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(1) 他のあなたの舞台のキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは1枚引く。"
+	],
+	"specialAttrib": [
+		"秀知院",
+		"副会長"
+	],
+	"version": "2",
+	"cardcode": "KGL/S95-085"
+}

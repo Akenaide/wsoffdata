@@ -1,0 +1,33 @@
+{
+	"set": "KGL",
+	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"side": "S",
+	"release": "95",
+	"id": "055",
+	"name": "",
+	"jpName": "中秋の名月 御行",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのイベントは、色条件を満たさずに手札からプレイできる。",
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［手札のクライマックスを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の《秀知院》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"秀知院",
+		"会長"
+	],
+	"version": "2",
+	"cardcode": "KGL/S95-055"
+}
