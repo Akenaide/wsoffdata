@@ -1,0 +1,32 @@
+{
+	"set": "5HY",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "101",
+	"id": "P01S",
+	"name": "",
+	"jpName": "一生の絆 一花＆二乃＆三玖＆四葉＆五月",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは、色条件を満たさずに手札からプレイできる。",
+		"【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"五つ子"
+	],
+	"version": "2",
+	"cardcode": "5HY/W101-P01S"
+}
