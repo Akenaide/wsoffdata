@@ -1,0 +1,31 @@
+{
+	"set": "PXR",
+	"setName": "[TD+]Monsters, Inc.",
+	"side": "S",
+	"release": "94",
+	"id": "T29",
+	"name": "",
+	"jpName": "謎の多いモンスター ロズ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、他のあなたの《PIXAR》のキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《PIXAR》のキャラを1枚選び、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-T29"
+}

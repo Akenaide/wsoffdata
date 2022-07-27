@@ -1,0 +1,31 @@
+{
+	"set": "PXR",
+	"setName": "[TD+]Monsters, Inc.",
+	"side": "S",
+	"release": "94",
+	"id": "T42SP",
+	"name": "",
+	"jpName": "サリー\u0026マイク\u0026ブー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+		"【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「父親のような愛情」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを2回与え、そのターン中、このカードのパワーを＋6000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-T42SP"
+}

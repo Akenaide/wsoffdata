@@ -1,0 +1,31 @@
+{
+	"set": "PXR",
+	"setName": "[TD+]Monsters, Inc.",
+	"side": "S",
+	"release": "94",
+	"id": "T41",
+	"name": "",
+	"jpName": "怖がらせ学部 サリー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《PIXAR》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-T41"
+}
