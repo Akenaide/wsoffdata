@@ -1,0 +1,32 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.2",
+	"side": "W",
+	"release": "99",
+	"id": "105",
+	"name": "",
+	"jpName": "デレさせドーム 美九",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《デート》か《精霊》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "2",
+	"cardcode": "DAL/W99-105"
+}

@@ -1,0 +1,33 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.2",
+	"side": "W",
+	"release": "99",
+	"id": "056S",
+	"name": "",
+	"jpName": "闇鍋パーティー 琴里",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"デート",
+		"ラタトスク"
+	],
+	"version": "2",
+	"cardcode": "DAL/W99-056S"
+}

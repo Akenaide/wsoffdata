@@ -1,0 +1,33 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.2",
+	"side": "W",
+	"release": "99",
+	"id": "031",
+	"name": "",
+	"jpName": "新たなる力 折紙",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの手札の「基礎顕現装置」のコストを－1。",
+		"【永】 応援 このカードの前のあなたの、《デート》か《精霊》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［(1) 【スタンド】しているこのカードを【レスト】する］ 他のあなたの「精霊を殺す精霊 折紙」のバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"デート",
+		"DEM"
+	],
+	"version": "2",
+	"cardcode": "DAL/W99-031"
+}

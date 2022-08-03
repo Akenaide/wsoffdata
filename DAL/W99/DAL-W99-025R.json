@@ -1,0 +1,30 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.2",
+	"side": "W",
+	"release": "99",
+	"id": "025R",
+	"name": "",
+	"jpName": "一番手は私たち！",
+	"cardType": "CX",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL",
+		"RETURN"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+		"（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+	],
+	"specialAttrib": [],
+	"version": "2",
+	"cardcode": "DAL/W99-025R"
+}

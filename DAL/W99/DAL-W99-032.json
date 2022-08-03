@@ -1,0 +1,32 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.2",
+	"side": "W",
+	"release": "99",
+	"id": "032",
+	"name": "",
+	"jpName": "邂逅 七罪",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 チェンジ ［このカードを手札に戻す］ あなたのメインフェイズの始めに、あなたのレベルが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の、《デート》か《精霊》のキャラを1枚まで選び、このカードがいた枠に置く。",
+		"【起】［このカードを【レスト】する］ あなたは自分の、《デート》か《精霊》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "2",
+	"cardcode": "DAL/W99-032"
+}

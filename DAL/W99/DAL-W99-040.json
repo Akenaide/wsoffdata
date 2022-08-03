@@ -1,0 +1,32 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.2",
+	"side": "W",
+	"release": "99",
+	"id": "040",
+	"name": "",
+	"jpName": "疑心暗鬼 七罪",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の「コーディネーター 四糸乃」がいるなら、このカードのパワーを＋4000。",
+		"【自】［手札の、《デート》か《精霊》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「コーディネーター 四糸乃」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "2",
+	"cardcode": "DAL/W99-040"
+}

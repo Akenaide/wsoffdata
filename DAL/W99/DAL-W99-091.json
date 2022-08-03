@@ -1,0 +1,30 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.2",
+	"side": "W",
+	"release": "99",
+	"id": "091",
+	"name": "",
+	"jpName": "癒しの力 美九",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。",
+		"【自】 このカードがアタックした時、あなたは他の自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《デート》か《精霊》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "2",
+	"cardcode": "DAL/W99-091"
+}

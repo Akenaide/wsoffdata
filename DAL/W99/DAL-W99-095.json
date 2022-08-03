@@ -1,0 +1,32 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.2",
+	"side": "W",
+	"release": "99",
+	"id": "095",
+	"name": "",
+	"jpName": "セーラー服 美九",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の、《デート》か《精霊》のキャラ1枚につき、このカードのパワーを＋4000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。』"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "2",
+	"cardcode": "DAL/W99-095"
+}
