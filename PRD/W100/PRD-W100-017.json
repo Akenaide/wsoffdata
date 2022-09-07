@@ -1,0 +1,32 @@
+{
+	"set": "PRD",
+	"setName": "アニメ プリンセスコネクト！Re:Dive Season 2",
+	"side": "W",
+	"release": "100",
+	"id": "017",
+	"name": "",
+	"jpName": "魔法少女 ナナカ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋4000。",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2以上なら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	],
+	"version": "2",
+	"cardcode": "PRD/W100-017"
+}

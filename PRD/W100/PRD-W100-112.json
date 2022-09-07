@@ -1,0 +1,32 @@
+{
+	"set": "PRD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "100",
+	"id": "112",
+	"name": "",
+	"jpName": "アイドル衣装 コッコロ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	],
+	"version": "2",
+	"cardcode": "PRD/W100-112"
+}

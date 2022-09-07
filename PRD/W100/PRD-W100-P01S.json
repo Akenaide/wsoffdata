@@ -1,0 +1,32 @@
+{
+	"set": "PRD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "100",
+	"id": "P01S",
+	"name": "",
+	"jpName": "新たな冒険 ペコリーヌ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "2",
+	"power": "6000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】［他のあなたの舞台の《ランドソル》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《ランドソル》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚までを、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	],
+	"version": "2",
+	"cardcode": "PRD/W100-P01S"
+}

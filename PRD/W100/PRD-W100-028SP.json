@@ -1,0 +1,33 @@
+{
+	"set": "PRD",
+	"setName": "アニメ プリンセスコネクト！Re:Dive Season 2",
+	"side": "W",
+	"release": "100",
+	"id": "028SP",
+	"name": "",
+	"jpName": "自称世界の美少女 チエル",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場に、「ダウナー系の少女 クロエ」と「自称世界の美少女 チエル」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの後列の《ランドソル》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ひとつの真実 ユニ」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	],
+	"version": "2",
+	"cardcode": "PRD/W100-028SP"
+}

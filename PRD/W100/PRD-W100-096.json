@@ -1,0 +1,32 @@
+{
+	"set": "PRD",
+	"setName": "アニメ プリンセスコネクト！Re:Dive Season 2",
+	"side": "W",
+	"release": "100",
+	"id": "096",
+	"name": "",
+	"jpName": "王都決戦 ミミ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。",
+		"【自】［(3) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、他のあなたの《ランドソル》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の後列のレベル2以下のキャラを1枚選び、クロック置場に置く。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	],
+	"version": "2",
+	"cardcode": "PRD/W100-096"
+}

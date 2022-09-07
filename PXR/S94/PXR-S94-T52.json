@@ -1,0 +1,31 @@
+{
+	"set": "PXR",
+	"setName": "[TD+]Cars",
+	"side": "S",
+	"release": "94",
+	"id": "T52",
+	"name": "",
+	"jpName": "新たな仲間 クルーズ・ラミレス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「再起をかけた挑戦」があり、他のあなたの《PIXAR》のキャラが2枚以上なら、相手に1ダメージを与え、そのターン中、このカードのソウルを＋1。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-T52"
+}

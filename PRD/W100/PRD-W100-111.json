@@ -1,0 +1,30 @@
+{
+	"set": "PRD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "100",
+	"id": "111",
+	"name": "",
+	"jpName": "アイドル衣装 ぺコリーヌ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードがアタックした時、あなたは自分の《ランドソル》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"ランドソル",
+		"ギルド"
+	],
+	"version": "2",
+	"cardcode": "PRD/W100-111"
+}
