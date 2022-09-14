@@ -1,0 +1,33 @@
+{
+	"set": "5HY",
+	"setName": "映画「五等分の花嫁」",
+	"side": "W",
+	"release": "101",
+	"id": "052OFR",
+	"name": "",
+	"jpName": "羞花閉月 中野 二乃",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "OFR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《五つ子》のキャラが2枚以上なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の《五つ子》のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"五つ子",
+		"料理"
+	],
+	"version": "2",
+	"cardcode": "5HY/W101-052OFR"
+}
