@@ -1,0 +1,31 @@
+{
+	"set": "SW",
+	"setName": "[CB] STAR WARS",
+	"side": "S",
+	"release": "49",
+	"id": "067_",
+	"name": "",
+	"jpName": "ハックス将軍",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中の赤のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		"【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+	],
+	"specialAttrib": [
+		"フォースの覚醒"
+	],
+	"version": "2",
+	"cardcode": "SW/S49-067_"
+}

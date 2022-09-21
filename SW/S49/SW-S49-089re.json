@@ -1,0 +1,31 @@
+{
+	"set": "SW",
+	"setName": "[CB] STAR WARS",
+	"side": "S",
+	"release": "49",
+	"id": "089re",
+	"name": "",
+	"jpName": "“夢を追う若者”ルーク",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、自分の控え室の「Lightsaber」を1枚まで選び、このカードの下にマーカーとして表向きに置く。",
+		"【自】【CXコンボ】［このカードの下のマーカーを1枚控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「A New Hope」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手に1ダメージをＸ回与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"新たなる希望"
+	],
+	"version": "2",
+	"cardcode": "SW/S49-089re"
+}

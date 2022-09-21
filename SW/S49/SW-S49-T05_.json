@@ -1,0 +1,31 @@
+{
+	"set": "SW",
+	"setName": "[CB] STAR WARS",
+	"side": "S",
+	"release": "49",
+	"id": "T05_",
+	"name": "",
+	"jpName": "“執拗な追跡”フィン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"フォースの覚醒"
+	],
+	"version": "2",
+	"cardcode": "SW/S49-T05_"
+}

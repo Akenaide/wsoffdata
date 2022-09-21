@@ -1,0 +1,31 @@
+{
+	"set": "SW",
+	"setName": "[CB] STAR WARS",
+	"side": "S",
+	"release": "49",
+	"id": "T07_",
+	"name": "",
+	"jpName": "“新たなる決意を胸に”チューバッカ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「“新たなる 決意を胸に”ハン・ソロ」がいるなら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時か「“新たなる決意を胸に”ハン・ソロ」の【自】の効果で舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フォースの覚醒》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"フォースの覚醒"
+	],
+	"version": "2",
+	"cardcode": "SW/S49-T07_"
+}
