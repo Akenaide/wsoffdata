@@ -1,0 +1,32 @@
+{
+	"set": "RSL",
+	"setName": "「劇場版 少女☆歌劇 レヴュースタァライト」",
+	"side": "S",
+	"release": "98",
+	"id": "053",
+	"name": "",
+	"jpName": "銀幕の舞台少女 愛城 華恋",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたの《レヴュー》のキャラが手札から舞台に置かれた時、そのターン中、そのキャラのパワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは相手の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"レヴュー",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "RSL/S98-053"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "RSL",
+	"setName": "「劇場版 少女☆歌劇 レヴュースタァライト」",
+	"side": "S",
+	"release": "98",
+	"id": "104",
+	"name": "",
+	"jpName": "飛び出し舞台少女 西條 クロディーヌ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"レヴュー",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "RSL/S98-104"
+}
