@@ -1,0 +1,31 @@
+{
+	"set": "PXR",
+	"setName": "PIXAR CHARACTERS",
+	"side": "S",
+	"release": "94",
+	"id": "093",
+	"name": "",
+	"jpName": "大空へ カール・フレドリクセン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】 記憶 ［(4) 手札を1枚控え室に置く］ あなたの思い出置場の《PIXAR》のキャラが2枚以上なら、あなたは自分の山札の上から1枚を公開する。そのカードが《PIXAR》のキャラかイベントなら、そのターン中、このカードは次の能力を得る。『【永】 後列に【スタンド】しているこのカードがいるなら、このカードはアタックを行うキャラとして選択してよい。そうしたら、このカードはダイレクトアタックする。』（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-093"
+}

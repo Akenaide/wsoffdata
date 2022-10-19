@@ -1,0 +1,32 @@
+{
+	"set": "PXR",
+	"setName": "PIXAR CHARACTERS",
+	"side": "S",
+	"release": "94",
+	"id": "094",
+	"name": "",
+	"jpName": "ソウルフル・ワールド ジョー＆22番",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "2",
+	"power": "6000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《PIXAR》のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。",
+		"【自】【CXコンボ】 記憶 ［(1)］ 思い出置場にこのカードがあり、あなたのクライマックス置場に「ソウルフル・ワールド」が置かれた時、あなたのレベルが2以上なら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に置いてよい。"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-094"
+}

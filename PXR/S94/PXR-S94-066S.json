@@ -1,0 +1,32 @@
+{
+	"set": "PXR",
+	"setName": "PIXAR CHARACTERS",
+	"side": "S",
+	"release": "94",
+	"id": "066S",
+	"name": "",
+	"jpName": "メリダ＆ハリス＆ヒューバート＆ヘイミッシュ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－Ｘ。Ｘは他のあなたの《PIXAR》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-066S"
+}
