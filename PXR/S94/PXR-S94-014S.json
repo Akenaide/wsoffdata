@@ -1,0 +1,31 @@
+{
+	"set": "PXR",
+	"setName": "PIXAR CHARACTERS",
+	"side": "S",
+	"release": "94",
+	"id": "014S",
+	"name": "",
+	"jpName": "料理の天才 レミー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《PIXAR》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-014S"
+}

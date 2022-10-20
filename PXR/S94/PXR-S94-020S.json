@@ -1,0 +1,32 @@
+{
+	"set": "PXR",
+	"setName": "PIXAR CHARACTERS",
+	"side": "S",
+	"release": "94",
+	"id": "020S",
+	"name": "",
+	"jpName": "僕らはいける。 ウッディ・プライド",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】［手札の《PIXAR》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「無限の彼方へ バズ・ライトイヤー」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-020S"
+}

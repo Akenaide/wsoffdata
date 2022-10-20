@@ -1,0 +1,32 @@
+{
+	"set": "PXR",
+	"setName": "PIXAR CHARACTERS",
+	"side": "S",
+	"release": "94",
+	"id": "002SSP",
+	"name": "",
+	"jpName": "僕らはいける。無限の彼方へ ウッディ＆バズ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《PIXAR》なら、このカードのパワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1) 手札の《PIXAR》のキャラを1枚控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「別れと出発」があり、他のあなたの《PIXAR》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手は自分の山札の上から6枚を公開し、その山札をシャッフルし、自分の山札の上からＸ枚を、クロック置場に置く。Ｘはそれらのカードのクライマックスの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "PXR/S94-002SSP"
+}
