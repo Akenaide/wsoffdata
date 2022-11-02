@@ -1,0 +1,32 @@
+{
+	"set": "OVL",
+	"setName": "オーバーロード Vol.2",
+	"side": "S",
+	"release": "99",
+	"id": "044",
+	"name": "",
+	"jpName": "入場コール アウラ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《異形種》か《ナザリック》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［(1) 【スタンド】しているこのカードを【レスト】する］ 他のあなたの「地形操作 マーレ」のバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"人間種",
+		"ナザリック"
+	],
+	"version": "2",
+	"cardcode": "OVL/S99-044"
+}

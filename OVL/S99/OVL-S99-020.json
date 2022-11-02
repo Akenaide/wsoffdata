@@ -1,0 +1,32 @@
+{
+	"set": "OVL",
+	"setName": "オーバーロード Vol.2",
+	"side": "S",
+	"release": "99",
+	"id": "020",
+	"name": "",
+	"jpName": "咄嗟の謝罪 ナーベラル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のクライマックス置場にクライマックスがあるなら、このカードの正面のキャラのソウルを－1。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《異形種》か《ナザリック》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "2",
+	"cardcode": "OVL/S99-020"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "OVL",
+	"setName": "オーバーロード Vol.2",
+	"side": "S",
+	"release": "99",
+	"id": "085",
+	"name": "",
+	"jpName": "村人への気持ち ジュゲム",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《カルネ村》のキャラが2枚以上なら、このカードのパワーを＋8000。",
+		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードのパワーを＋2000。』『【永】 大活躍』"
+	],
+	"specialAttrib": [
+		"亜人種",
+		"カルネ村"
+	],
+	"version": "2",
+	"cardcode": "OVL/S99-085"
+}

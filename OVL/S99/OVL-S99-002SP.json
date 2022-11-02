@@ -1,0 +1,33 @@
+{
+	"set": "OVL",
+	"setName": "オーバーロード Vol.2",
+	"side": "S",
+	"release": "99",
+	"id": "002SP",
+	"name": "",
+	"jpName": "本当の力 ナーベラル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《異形種》か《ナザリック》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "2",
+	"cardcode": "OVL/S99-002SP"
+}
