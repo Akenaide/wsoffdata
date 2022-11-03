@@ -1,0 +1,32 @@
+{
+	"set": "OVL",
+	"setName": "オーバーロード Vol.2",
+	"side": "S",
+	"release": "99",
+	"id": "093",
+	"name": "",
+	"jpName": "ゴブリン重装甲歩兵団",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
+		"【永】 他のあなたの《カルネ村》のキャラが2枚以上なら、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"亜人種",
+		"カルネ村"
+	],
+	"version": "2",
+	"cardcode": "OVL/S99-093"
+}
