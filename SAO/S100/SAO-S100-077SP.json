@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "077SP",
+	"name": "",
+	"jpName": "神威なる力 キリト",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 記憶 このカードがアタックした時、クライマックス置場に「夜空の剣」があり、他のあなたの《Anniversary》のキャラがいて、あなたの思い出置場に「Alicization」があるなら、あなたは自分の山札の上から1枚を、控え室に置き、相手にＸダメージを与える。Ｘはそのカードのコスト＋1に等しい。（クライマックスのコストは0として扱う。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"フラクトライト",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-077SP"
+}

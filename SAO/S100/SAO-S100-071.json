@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "071",
+	"name": "",
+	"jpName": "心の温度 アスナ＆リズベット",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
+		"【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[COMEBACK]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アバター",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-071"
+}

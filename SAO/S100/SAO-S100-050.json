@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "050",
+	"name": "",
+	"jpName": "不撓不屈 リーファ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《Anniversary》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 アンコール ［手札の《Anniversary》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"フラクトライト",
+		"女神"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-050"
+}

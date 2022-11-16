@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "082S",
+	"name": "",
+	"jpName": "《無制限飛行》シノン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"フラクトライト",
+		"女神"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-082S"
+}

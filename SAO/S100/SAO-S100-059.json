@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "059",
+	"name": "",
+	"jpName": "いつでも仲良し シリカ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。",
+		"【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「思い出の丘」があり、他のあなたの《Anniversary》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたは相手の控え室のカードを2枚まで選び、山札に戻し、相手はその山札をシャッフルする。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アバター",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-059"
+}

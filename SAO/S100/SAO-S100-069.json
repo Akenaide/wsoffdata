@@ -1,0 +1,32 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "069",
+	"name": "",
+	"jpName": "求め、盗み、奪う者 ガブリエル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"フラクトライト",
+		"ダークテリトリー"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-069"
+}

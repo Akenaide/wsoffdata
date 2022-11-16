@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "017",
+	"name": "",
+	"jpName": "新たな約束 アスナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2500。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アバター",
+		"プログレッシブ"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-017"
+}

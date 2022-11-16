@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "103",
+	"name": "",
+	"jpName": "レアアイテムゲット ミト",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 前列にこのカードがいるなら、あなたの、《Anniversary》か《プログレッシブ》のキャラすべてに、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アバター",
+		"プログレッシブ"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-103"
+}

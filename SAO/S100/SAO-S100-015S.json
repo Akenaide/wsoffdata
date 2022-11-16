@@ -1,0 +1,31 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "015S",
+	"name": "",
+	"jpName": "ゲームマスター 茅場",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは手札に戻せず、思い出にできない。』"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アバター",
+		"プログレッシブ"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-015S"
+}

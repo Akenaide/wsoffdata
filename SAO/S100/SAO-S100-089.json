@@ -1,0 +1,31 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "089",
+	"name": "",
+	"jpName": "《黒の剣士》キリト",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 相手のアタックフェイズの始めに、あなたは自分の《Anniversary》のキャラを1枚選び、自分の前列の中央のキャラのいない枠に動かしてよい。",
+		"【起】【CXコンボ】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のレベルＸ以下の《Anniversary》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「剣の世界」の枚数に等しい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アバター",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-089"
+}

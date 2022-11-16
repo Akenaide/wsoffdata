@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "040",
+	"name": "",
+	"jpName": "晴れた気持ち ファナティオ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"フラクトライト",
+		"整合騎士"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-040"
+}

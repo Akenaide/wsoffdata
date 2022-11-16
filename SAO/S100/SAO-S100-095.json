@@ -1,0 +1,32 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "095",
+	"name": "",
+	"jpName": "愛する世界のために ユージオ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×2000に等しい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"フラクトライト",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-095"
+}

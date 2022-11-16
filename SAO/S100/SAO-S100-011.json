@@ -1,0 +1,32 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "011",
+	"name": "",
+	"jpName": "真っ直ぐな道 アリス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの《Anniversary》のキャラすべてに、パワーを＋500。",
+		"【自】［あなたの控え室の《Anniversary》のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+		"【起】 集中 ［(1)］ あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードに「戦場に響く大音声 アリス」があるなら、あなたは自分の控え室の「戦場に響く大音声 アリス」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"フラクトライト",
+		"整合騎士"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-011"
+}

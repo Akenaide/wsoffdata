@@ -1,0 +1,31 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "066",
+	"name": "",
+	"jpName": "恐怖とともに《死銃》",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》のキャラなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－6000。（公開したカードは元に戻す）",
+		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アバター",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-066"
+}

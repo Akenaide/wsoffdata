@@ -1,0 +1,34 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "007S",
+	"name": "",
+	"jpName": "キミと一緒に アスナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの「共に明日へ ミト」すべてに、パワーを＋1000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』",
+		"【永】 他のあなたの、《Anniversary》か《プログレッシブ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アバター",
+		"プログレッシブ"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-007S"
+}

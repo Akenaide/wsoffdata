@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "070S",
+	"name": "",
+	"jpName": "感謝の気持ち シリカ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》のキャラなら、あなたは相手のキャラを1枚選び、そのターン中、レベルを－1。（公開したカードは元に戻す）",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを思い出にしてよい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アバター",
+		"武器"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-070S"
+}

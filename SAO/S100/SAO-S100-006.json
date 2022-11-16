@@ -1,0 +1,33 @@
+{
+	"set": "SAO",
+	"setName": "アニメ ソードアート・オンライン 10th Anniversary",
+	"side": "S",
+	"release": "100",
+	"id": "006",
+	"name": "",
+	"jpName": "戦場に響く大音声 アリス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《Anniversary》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「人界の守護」が置かれた時、前列にこのカードがいて、他のあなたの《Anniversary》のキャラが4枚以上なら、あなたは自分の控え室の、キャラか「Alicization」を1枚まで選び、手札に戻し、自分の控え室の《Anniversary》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"フラクトライト",
+		"整合騎士"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-006"
+}
