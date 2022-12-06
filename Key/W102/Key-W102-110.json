@@ -1,0 +1,33 @@
+{
+	"set": "Key",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "102",
+	"id": "110",
+	"name": "",
+	"jpName": "ロボットのみる夢 ゆめみ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"星"
+	],
+	"version": "2",
+	"cardcode": "Key/W102-110"
+}

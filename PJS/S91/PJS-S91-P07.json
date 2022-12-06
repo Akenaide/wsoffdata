@@ -1,0 +1,32 @@
+{
+	"set": "PJS",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "91",
+	"id": "P07",
+	"name": "",
+	"jpName": "アイノマテリアル/アイスドロップ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《MORE MORE JUMP！》のキャラが2枚以上なら、あなたは自分のクロック置場のキャラを1枚選び、思い出にしてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"MORE MORE JUMP！"
+	],
+	"version": "2",
+	"cardcode": "PJS/S91-P07"
+}
