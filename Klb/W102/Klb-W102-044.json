@@ -1,0 +1,34 @@
+{
+	"set": "Klb",
+	"setName": "Key all-star",
+	"side": "W",
+	"release": "102",
+	"id": "044",
+	"name": "",
+	"jpName": "双子ビーチバレー 葉留佳",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替えてよい。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。",
+		"【自】【CXコンボ】 あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスか「ソウルメイト」がでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"ビー玉",
+		"双子"
+	],
+	"version": "2",
+	"cardcode": "Klb/W102-044"
+}

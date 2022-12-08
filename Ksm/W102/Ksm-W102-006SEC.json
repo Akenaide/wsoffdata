@@ -1,0 +1,33 @@
+{
+	"set": "Ksm",
+	"setName": "Key all-star",
+	"side": "W",
+	"release": "102",
+	"id": "006SEC",
+	"name": "",
+	"jpName": "夏が来りて しろは",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SEC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「REFLECTION BLUE」が置かれた時、あなたのレベルが2以上で、他のあなたの、《Anniversary》か《サマポケ》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の、「夏の一滴 しろは」か「“夏の思い出”しろは」か「“ひまわり畑”しろは」を1枚まで選び、このカードがいた枠に置く。",
+		"【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"サマポケ",
+		"時間"
+	],
+	"version": "2",
+	"cardcode": "Ksm/W102-006SEC"
+}

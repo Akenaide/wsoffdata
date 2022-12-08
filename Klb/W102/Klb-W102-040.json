@@ -1,0 +1,32 @@
+{
+	"set": "Klb",
+	"setName": "Key all-star",
+	"side": "W",
+	"release": "102",
+	"id": "040",
+	"name": "",
+	"jpName": "真ヒロイン 理樹",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「人気投票第１位 恭介」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】 経験 このカードがアタックした時、クライマックス置場に「ベストフレンド」があり、あなたのレベル置場のカードのレベルの合計が5以上なら、そのターン中、このカードのパワーを＋1500し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+	],
+	"specialAttrib": [
+		"Anniversary"
+	],
+	"version": "2",
+	"cardcode": "Klb/W102-040"
+}

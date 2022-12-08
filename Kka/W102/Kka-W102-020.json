@@ -1,0 +1,31 @@
+{
+	"set": "Kka",
+	"setName": "Key all-star",
+	"side": "W",
+	"release": "102",
+	"id": "020",
+	"name": "",
+	"jpName": "持てる者 香里",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》か《冬》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。（公開したカードは元に戻す）",
+		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの、《Anniversary》か《冬》のキャラがいるなら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"冬",
+		"委員長"
+	],
+	"version": "2",
+	"cardcode": "Kka/W102-020"
+}

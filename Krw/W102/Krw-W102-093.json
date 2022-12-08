@@ -1,0 +1,33 @@
+{
+	"set": "Krw",
+	"setName": "Key all-star",
+	"side": "W",
+	"release": "102",
+	"id": "093",
+	"name": "",
+	"jpName": "持てる者 朱音",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、ストック置場に置き、残りのカードを山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"オカルト"
+	],
+	"version": "2",
+	"cardcode": "Krw/W102-093"
+}

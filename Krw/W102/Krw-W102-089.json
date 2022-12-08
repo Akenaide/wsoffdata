@@ -1,0 +1,31 @@
+{
+	"set": "Krw",
+	"setName": "Key all-star",
+	"side": "W",
+	"release": "102",
+	"id": "089",
+	"name": "",
+	"jpName": "良い記憶？ 篝",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《鍵》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードがアタックした時、あなたの控え室に黄のカードと緑のカードと赤のカードと青のカードが別々に1枚ずつあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"鍵",
+		"時間"
+	],
+	"version": "2",
+	"cardcode": "Krw/W102-089"
+}

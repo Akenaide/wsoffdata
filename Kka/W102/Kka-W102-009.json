@@ -1,0 +1,33 @@
+{
+	"set": "Kka",
+	"setName": "Key all-star",
+	"side": "W",
+	"release": "102",
+	"id": "009",
+	"name": "",
+	"jpName": "求めた温もり 真琴",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「丘の結婚式」があるなら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"冬",
+		"動物"
+	],
+	"version": "2",
+	"cardcode": "Kka/W102-009"
+}
