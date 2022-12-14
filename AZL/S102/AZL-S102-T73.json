@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "[TD]アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "T73",
+	"name": "",
+	"jpName": "ヴェーザー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"鉄血"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-T73"
+}

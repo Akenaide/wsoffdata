@@ -1,0 +1,30 @@
+{
+	"set": "AZL",
+	"setName": "[TD]アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "T02",
+	"name": "",
+	"jpName": "ベンソン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ユニオン"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-T02"
+}

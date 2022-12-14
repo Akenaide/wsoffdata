@@ -1,0 +1,30 @@
+{
+	"set": "AZL",
+	"setName": "[TD]アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "T26SP",
+	"name": "",
+	"jpName": "ジャベリン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのターン中、あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
+		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ロイヤル"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-T26SP"
+}

@@ -1,0 +1,30 @@
+{
+	"set": "AZL",
+	"setName": "[TD]アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "T05",
+	"name": "",
+	"jpName": "ハムマン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの前列の中央の枠の《艦船》のキャラに、パワーを＋1500。",
+		"【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の《艦船》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ユニオン"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-T05"
+}

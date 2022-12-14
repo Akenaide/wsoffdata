@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "[TD]アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "T74",
+	"name": "",
+	"jpName": "プリンツ・ハインリヒ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が5以上なら、他のあなたの《艦船》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"鉄血"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-T74"
+}
