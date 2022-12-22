@@ -1,0 +1,30 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "122S",
+	"name": "",
+	"jpName": "バッチ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの「ステフェン・ポッター」すべてに、次の能力を与える。『【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2000。』",
+		"【自】 この能力は1ターンにつき1回まで発動する。他のあなたの「ステフェン・ポッター」が手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《艦船》のキャラなら手札に加える。（そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ユニオン"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-122S"
+}

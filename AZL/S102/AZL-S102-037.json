@@ -1,0 +1,33 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "037",
+	"name": "",
+	"jpName": "長門",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《艦船》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、前列の中央の枠にこのカードがいて、他のあなたの《艦船》のキャラが4枚以上なら、あなたの《重桜》のキャラすべてに、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"重桜"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-037"
+}

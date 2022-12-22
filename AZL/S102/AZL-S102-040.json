@@ -1,0 +1,30 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "040",
+	"name": "",
+	"jpName": "天城",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの《艦船》のキャラすべてに、パワーを＋500。",
+		"【自】 あなたのトリガーアイコンが[TREASURE]のクライマックスがクライマックス置場に置かれた時、あなたは相手の前列のキャラを2枚まで選び、そのターン中、パワーを－1000。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"重桜"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-040"
+}

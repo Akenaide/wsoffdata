@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "029",
+	"name": "",
+	"jpName": "スウィフトシュア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《艦船》のキャラ1枚につき、このカードのパワーを＋2000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にトリガーアイコンが[CHOICE]のクライマックスがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《艦船》のキャラなら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ロイヤル"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-029"
+}

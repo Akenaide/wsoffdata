@@ -1,0 +1,30 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "048S",
+	"name": "",
+	"jpName": "朝潮",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《艦船》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にトリガーアイコンが[TREASURE]のクライマックスがあるなら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"重桜"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-048S"
+}

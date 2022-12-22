@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "067",
+	"name": "",
+	"jpName": "瑞鶴",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「翔鶴」がいるなら、このカードのパワーを＋4000。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「素直の皮肉屋」が置かれた時、前列にこのカードがいて、他のあなたの「翔鶴」がいるなら、あなたは自分の控え室の《艦船》のキャラを1枚まで選び、手札に戻し、自分の控え室の《艦船》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"重桜"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-067"
+}

@@ -1,0 +1,30 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "081",
+	"name": "",
+	"jpName": "U-110",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【起】［あなたの《艦船》のキャラを1枚【レスト】する］ あなたは自分のレベル置場の《艦船》のキャラと控え室の《艦船》のキャラを1枚ずつ選び、入れ替える。",
+		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の控え室の《艦船》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
+	],
+	"specialAttrib": [
+		"艦船",
+		"鉄血"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-081"
+}

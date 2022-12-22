@@ -1,0 +1,33 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "055S",
+	"name": "",
+	"jpName": "紀伊",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の「駿河」がいるなら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《艦船》のキャラを1枚選び、手札に戻してよい。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の《艦船》のキャラを3枚まで選び、そのターン中、パワーを＋500し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"重桜"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-055S"
+}

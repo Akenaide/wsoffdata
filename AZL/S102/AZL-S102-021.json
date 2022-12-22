@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "021",
+	"name": "",
+	"jpName": "クイーン・エリザベス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ロイヤル》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのトリガーアイコンが[CHOICE]のクライマックスがクライマックス置場に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ロイヤル"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-021"
+}

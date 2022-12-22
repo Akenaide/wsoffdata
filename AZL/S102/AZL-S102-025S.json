@@ -1,0 +1,30 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "025S",
+	"name": "",
+	"jpName": "エレバス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[CHOICE]のクライマックスがでた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《艦船》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ロイヤル"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-025S"
+}

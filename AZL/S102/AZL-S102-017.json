@@ -1,0 +1,31 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "017",
+	"name": "",
+	"jpName": "プリンス・オブ・ウェールズ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードは、色条件を満たさずに手札からプレイできる。",
+		"【永】 あなたのターン中、他のあなたの《ユニオン》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【永】 あなたのターン中、他のあなたの《ユニオン》のキャラが3枚以上なら、他のあなたの《ユニオン》のキャラすべてに、パワーを＋1000し、このカードのパワーを＋500。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ロイヤル"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-017"
+}

@@ -1,0 +1,30 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "078SP",
+	"name": "",
+	"jpName": "ウルリッヒ・フォン・フッテン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋2000。",
+		"【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"鉄血"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-078SP"
+}

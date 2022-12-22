@@ -1,0 +1,30 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン",
+	"side": "S",
+	"release": "102",
+	"id": "026",
+	"name": "",
+	"jpName": "グロリアス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、あなたのキャラすべてが《艦船》なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ロイヤル"
+	],
+	"version": "2",
+	"cardcode": "AZL/S102-026"
+}
