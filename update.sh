@@ -6,7 +6,7 @@ PWD=`pwd`
 
 git pull
 
-docker run --rm -v $PWD:/data akenaide/wsoffcli fetch -a && git add .
+docker run --rm -v $PWD:/data akenaide/wsoffcli:master fetch -a && git add .
 git commit -m $MYDATE && echo "commit"
 git push
 
