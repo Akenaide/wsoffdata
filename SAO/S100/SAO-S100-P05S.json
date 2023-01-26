@@ -1,0 +1,31 @@
+{
+	"set": "SAO",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "100",
+	"id": "P05S",
+	"name": "",
+	"jpName": "交わる想い アスナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードは次の能力を得る。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
+		"【起】［このカードを【レスト】する］ あなたは自分の、《Anniversary》か《プログレッシブ》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アバター",
+		"プログレッシブ"
+	],
+	"version": "2",
+	"cardcode": "SAO/S100-P05S"
+}
