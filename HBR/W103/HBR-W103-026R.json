@@ -1,0 +1,32 @@
+{
+	"set": "HBR",
+	"setName": "ヘブンバーンズレッド",
+	"side": "W",
+	"release": "103",
+	"id": "026R",
+	"name": "",
+	"jpName": "これからを夢見て",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL",
+		"RETURN"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+		"（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+	],
+	"specialAttrib": [
+		"特徴なし"
+	],
+	"version": "2",
+	"cardcode": "HBR/W103-026R"
+}

@@ -1,0 +1,33 @@
+{
+	"set": "HBR",
+	"setName": "ヘブンバーンズレッド",
+	"side": "W",
+	"release": "103",
+	"id": "034SP",
+	"name": "",
+	"jpName": "Lollipop Break 大島 四ツ葉",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 共鳴 ［手札の「果てなき慈愛の守護者 大島 一千子」を1枚公開する］ あなたのメインフェイズの始めに、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《セラフ》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。このカードは次のあなたのスタンドフェイズに【スタンド】しない。"
+	],
+	"specialAttrib": [
+		"セラフ",
+		"第31E部隊"
+	],
+	"version": "2",
+	"cardcode": "HBR/W103-034SP"
+}

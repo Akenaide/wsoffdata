@@ -1,0 +1,32 @@
+{
+	"set": "HBR",
+	"setName": "[TD]ヘブンバーンズレッド",
+	"side": "W",
+	"release": "103",
+	"id": "T19",
+	"name": "",
+	"jpName": "ティータイム 東城 つかさ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"セラフ",
+		"第31A部隊"
+	],
+	"version": "2",
+	"cardcode": "HBR/W103-T19"
+}

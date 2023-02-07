@@ -1,0 +1,33 @@
+{
+	"set": "HBR",
+	"setName": "ヘブンバーンズレッド",
+	"side": "W",
+	"release": "103",
+	"id": "086SP",
+	"name": "",
+	"jpName": "生者のホメオスタシス 樋口 聖華",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは自分の《セラフ》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"セラフ",
+		"第31B部隊"
+	],
+	"version": "2",
+	"cardcode": "HBR/W103-086SP"
+}

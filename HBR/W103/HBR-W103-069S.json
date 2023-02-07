@@ -1,0 +1,32 @@
+{
+	"set": "HBR",
+	"setName": "ヘブンバーンズレッド",
+	"side": "W",
+	"release": "103",
+	"id": "069S",
+	"name": "",
+	"jpName": "ロイヤルバトラー 柳 美音",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列にこのカードがいるなら、あなたの《セラフ》のキャラすべてに、パワーを＋1500。",
+		"【自】【CXコンボ】［(1) あなたのクライマックス置場の「第31F部隊」を1枚控え室に置く］ あなたのクライマックスフェイズ中、このカードが「第31F部隊」の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】し、あなたのキャラすべてに、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"セラフ",
+		"第31F部隊"
+	],
+	"version": "2",
+	"cardcode": "HBR/W103-069S"
+}
