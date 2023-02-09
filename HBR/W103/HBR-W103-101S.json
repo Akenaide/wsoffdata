@@ -6,7 +6,7 @@
 	"id": "101S",
 	"name": "",
 	"jpName": "夢中になれる音楽",
-	"cardType": "CH",
+	"cardType": "EV",
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
@@ -20,9 +20,7 @@
 	"ability": [
 		"集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の《セラフ》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《セラフ》のキャラの枚数に等しい。"
 	],
-	"specialAttrib": [
-		"特徴なし"
-	],
+	"specialAttrib": [],
 	"version": "2",
 	"cardcode": "HBR/W103-101S"
 }
