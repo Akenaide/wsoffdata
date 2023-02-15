@@ -1,0 +1,32 @@
+{
+	"set": "SW",
+	"setName": "プレミアムブースター / STAR WARS",
+	"side": "S",
+	"release": "E39",
+	"id": "014FOP",
+	"name": "",
+	"jpName": "“帝国の指揮官”ダース・ベイダー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "FOP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「スカウト・トルーパー」すべてに、パワーを＋1000。",
+		"【永】 応援 このカードの前のあなたの、赤か《シスの復讐》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「トルーパー」を含むキャラを1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"シスの復讐"
+	],
+	"version": "2",
+	"cardcode": "SW/SE39-014FOP"
+}

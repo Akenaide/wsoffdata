@@ -1,0 +1,29 @@
+{
+	"set": "MAR",
+	"setName": "プレミアムブースター / MARVEL",
+	"side": "S",
+	"release": "E40",
+	"id": "010",
+	"name": "",
+	"jpName": "ワカンダよ 永遠に ブラックパンサー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+		"【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/SE40-010"
+}

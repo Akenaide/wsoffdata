@@ -1,0 +1,32 @@
+{
+	"set": "SW",
+	"setName": "プレミアムブースター / STAR WARS",
+	"side": "S",
+	"release": "E39",
+	"id": "027FOP",
+	"name": "",
+	"jpName": "“ジェダイへの決意”ルーク",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "FOP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、青か《新たなる希望》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"新たなる希望"
+	],
+	"version": "2",
+	"cardcode": "SW/SE39-027FOP"
+}

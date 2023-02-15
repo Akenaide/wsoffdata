@@ -1,0 +1,31 @@
+{
+	"set": "SW",
+	"setName": "プレミアムブースター / STAR WARS",
+	"side": "S",
+	"release": "E39",
+	"id": "025",
+	"name": "",
+	"jpName": "“生ける神話”ルーク",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"最後のジェダイ"
+	],
+	"version": "2",
+	"cardcode": "SW/SE39-025"
+}

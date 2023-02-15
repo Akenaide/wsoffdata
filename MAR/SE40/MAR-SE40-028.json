@@ -1,0 +1,32 @@
+{
+	"set": "MAR",
+	"setName": "プレミアムブースター / MARVEL",
+	"side": "S",
+	"release": "E40",
+	"id": "028",
+	"name": "",
+	"jpName": "エイジ・オブ・ウルトロン アベンジャーズ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
+		"【自】 このカードがアタックした時、他のあなたの《MARVEL》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/SE40-028"
+}

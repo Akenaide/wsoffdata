@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "プレミアムブースター / MARVEL",
+	"side": "S",
+	"release": "E40",
+	"id": "017",
+	"name": "",
+	"jpName": "“最強”の力 アベンジャーズ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "6000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】 アンコール ［手札の《MARVEL》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/SE40-017"
+}

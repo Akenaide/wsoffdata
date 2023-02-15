@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "プレミアムブースター / MARVEL",
+	"side": "S",
+	"release": "E40",
+	"id": "018IFP",
+	"name": "",
+	"jpName": "\"I am Iron Man.\" アイアンマン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "IFP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「“最後”にして“最大”の戦い」があり、他のあなたの《MARVEL》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与える。』『あなたは自分の手札を2枚選び、控え室に置く。2枚置いたなら、相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "MAR/SE40-018IFP"
+}
