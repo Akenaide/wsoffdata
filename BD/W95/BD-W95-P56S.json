@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "95",
+	"id": "P56S",
+	"name": "",
+	"jpName": "“次のステージへ”美竹蘭",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《Anniversary》か《Afterglow》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「ありのままでいること」が置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、『アラーム』を持つキャラか「永遠の夕日」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Afterglow"
+	],
+	"version": "2",
+	"cardcode": "BD/W95-P56S"
+}
