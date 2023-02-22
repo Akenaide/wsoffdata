@@ -1,0 +1,32 @@
+{
+	"set": "ARI",
+	"setName": "ありふれた職業で世界最強",
+	"side": "S",
+	"release": "103",
+	"id": "094",
+	"name": "",
+	"jpName": "トドメの一撃 シア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、次の相手のターンの終わりまで、このカードのパワーを＋4500。"
+	],
+	"specialAttrib": [
+		"トータス",
+		"兎人族"
+	],
+	"version": "2",
+	"cardcode": "ARI/S103-094"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "ARI",
+	"setName": "ありふれた職業で世界最強",
+	"side": "S",
+	"release": "103",
+	"id": "009",
+	"name": "",
+	"jpName": "おねだり ユエ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《トータス》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】 アンコール ［手札の《トータス》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"トータス",
+		"吸血鬼族"
+	],
+	"version": "2",
+	"cardcode": "ARI/S103-009"
+}

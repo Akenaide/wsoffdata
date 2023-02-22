@@ -1,0 +1,30 @@
+{
+	"set": "ARI",
+	"setName": "ありふれた職業で世界最強",
+	"side": "S",
+	"release": "103",
+	"id": "011",
+	"name": "",
+	"jpName": "深夜の訪問 香織",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+		"【自】 このカードがアタックした時、あなたは他の自分の《トータス》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《トータス》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"トータス",
+		"クラスメイト"
+	],
+	"version": "2",
+	"cardcode": "ARI/S103-011"
+}

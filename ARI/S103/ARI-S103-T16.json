@@ -1,0 +1,32 @@
+{
+	"set": "ARI",
+	"setName": "[TD]ありふれた職業で世界最強",
+	"side": "S",
+	"release": "103",
+	"id": "T16",
+	"name": "",
+	"jpName": "力自慢 シア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《トータス》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+		"【自】 アンコール ［手札の《トータス》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"トータス",
+		"兎人族"
+	],
+	"version": "2",
+	"cardcode": "ARI/S103-T16"
+}

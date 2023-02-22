@@ -1,0 +1,31 @@
+{
+	"set": "ARI",
+	"setName": "ありふれた職業で世界最強",
+	"side": "S",
+	"release": "103",
+	"id": "039",
+	"name": "",
+	"jpName": "【占術師】シア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見てカードを1枚まで選び、山札の下に置き、残りのカードを山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"トータス",
+		"兎人族"
+	],
+	"version": "2",
+	"cardcode": "ARI/S103-039"
+}

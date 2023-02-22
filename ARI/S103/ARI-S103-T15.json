@@ -1,0 +1,32 @@
+{
+	"set": "ARI",
+	"setName": "[TD]ありふれた職業で世界最強",
+	"side": "S",
+	"release": "103",
+	"id": "T15",
+	"name": "",
+	"jpName": "あの快感をもう一度 ティオ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《トータス》のキャラすべてに、パワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《トータス》のキャラが4枚以上なら、あなたは自分の控え室の《トータス》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"トータス",
+		"竜人族"
+	],
+	"version": "2",
+	"cardcode": "ARI/S103-T15"
+}

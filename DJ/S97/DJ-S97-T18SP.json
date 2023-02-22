@@ -1,0 +1,32 @@
+{
+	"set": "DJ",
+	"setName": "[TD]D4DJ Groovy Mix Happy Around! \u0026 Lyrical Lily",
+	"side": "S",
+	"release": "97",
+	"id": "T18SP",
+	"name": "",
+	"jpName": "新たなステージへ！ 桜田美夢",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「晴天のハミングバード」があり、他のあなたの《音楽》のキャラが2枚以上なら、あなたは相手の山札の下から5枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Lyrical Lily"
+	],
+	"version": "2",
+	"cardcode": "DJ/S97-T18SP"
+}

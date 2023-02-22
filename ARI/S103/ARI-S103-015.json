@@ -1,0 +1,32 @@
+{
+	"set": "ARI",
+	"setName": "ありふれた職業で世界最強",
+	"side": "S",
+	"release": "103",
+	"id": "015",
+	"name": "",
+	"jpName": "戦闘訓練 ユエ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《トータス》のキャラが4枚以上なら、あなたは自分の控え室の《トータス》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"トータス",
+		"吸血鬼族"
+	],
+	"version": "2",
+	"cardcode": "ARI/S103-015"
+}
