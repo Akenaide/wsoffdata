@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "ホロライブプロダクション Vol.2",
+	"side": "W",
+	"release": "104",
+	"id": "034",
+	"name": "",
+	"jpName": "宇宙の彼方へ 大空スバル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《ホロライブ》のキャラ1枚につき、このカードのパワーを＋2000。",
+		"【自】 経験 このカードのバトル相手が【リバース】した時、あなたのレベル置場に、赤のカードと青のカードがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"2期生"
+	],
+	"version": "2",
+	"cardcode": "HOL/W104-034"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "ホロライブプロダクション Vol.2",
+	"side": "W",
+	"release": "104",
+	"id": "022SP",
+	"name": "",
+	"jpName": "未来へと踏み出す一歩 博衣こより",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】 共鳴 ［手札の「未来へと踏み出す一歩 ラプラス・ダークネス」を1枚公開し、このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000し、次の能力を与える。『【永】 このカードのバトル中、あなたは『助太刀』を手札からプレイできない。』"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"秘密結社holoX"
+	],
+	"version": "2",
+	"cardcode": "HOL/W104-022SP"
+}

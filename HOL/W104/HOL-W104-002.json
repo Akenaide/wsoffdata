@@ -1,0 +1,29 @@
+{
+	"set": "HOL",
+	"setName": "ホロライブプロダクション Vol.2",
+	"side": "W",
+	"release": "104",
+	"id": "002",
+	"name": "",
+	"jpName": "未来へと踏み出す一歩 森カリオペ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「Your Mori.」があり、あなたのキャラすべてが《ホロライブ》なら、あなたは自分の山札の上から4枚までを、控え室に置き、自分の控え室のレベルＸ以下の《ホロライブ》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋500。Ｘはこの効果で控え室に置かれたトリガーアイコンに[SOUL]があるカードの枚数に等しい。"
+	],
+	"specialAttrib": [],
+	"version": "2",
+	"cardcode": "HOL/W104-002"
+}
