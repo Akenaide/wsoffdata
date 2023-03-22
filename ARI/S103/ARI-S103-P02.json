@@ -1,0 +1,32 @@
+{
+	"set": "ARI",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "103",
+	"id": "P02",
+	"name": "",
+	"jpName": "バスタイム ユエ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、相手のクライマックス置場にクライマックスがあるなら、あなたは自分のバトル中の《トータス》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"トータス",
+		"吸血鬼族"
+	],
+	"version": "2",
+	"cardcode": "ARI/S103-P02"
+}

@@ -1,0 +1,32 @@
+{
+	"set": "HOL",
+	"setName": "PRカード【Sサイド】",
+	"side": "W",
+	"release": "104",
+	"id": "P02",
+	"name": "",
+	"jpName": "溶けてなくなる前に IRyS",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれたターン中、このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋2500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"ホロライブEnglish Project: HOPE"
+	],
+	"version": "2",
+	"cardcode": "HOL/W104-P02"
+}
