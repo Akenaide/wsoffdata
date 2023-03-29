@@ -1,0 +1,32 @@
+{
+	"set": "Dds",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "072",
+	"name": "",
+	"jpName": "マウスケティアーズ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋5500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場の、《Celebration》か《Disney》のキャラと控え室の、《Celebration》か《Disney》のキャラを1枚ずつ選び、入れ替えてよい。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"Disney"
+	],
+	"version": "2",
+	"cardcode": "Dds/S104-072"
+}

@@ -1,0 +1,33 @@
+{
+	"set": "Dpx",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "095S",
+	"name": "",
+	"jpName": "力を合わせて サリー＆マイク＆ブー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《Celebration》か《PIXAR》のキャラすべてに、パワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】［手札の「ゆかいなモンスターたち」を1枚思い出にする］ 相手のアタックフェイズの始めに、あなたの思い出が3枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－1000し、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"PIXAR"
+	],
+	"version": "2",
+	"cardcode": "Dpx/S104-095S"
+}

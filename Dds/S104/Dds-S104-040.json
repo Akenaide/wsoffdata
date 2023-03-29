@@ -1,0 +1,32 @@
+{
+	"set": "Dds",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "040",
+	"name": "",
+	"jpName": "ピノキオ＆フィガロ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《Celebration》か《Disney》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"Disney"
+	],
+	"version": "2",
+	"cardcode": "Dds/S104-040"
+}

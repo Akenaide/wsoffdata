@@ -1,0 +1,30 @@
+{
+	"set": "Dds",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "092",
+	"name": "",
+	"jpName": "雪だるま オラフ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは自分の、《Celebration》か《Disney》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの、《Celebration》か《Disney》のキャラの枚数×500に等しい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたはそのキャラを山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"Disney"
+	],
+	"version": "2",
+	"cardcode": "Dds/S104-092"
+}

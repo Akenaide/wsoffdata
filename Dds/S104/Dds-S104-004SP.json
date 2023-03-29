@@ -1,0 +1,32 @@
+{
+	"set": "Dds",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "004SP",
+	"name": "",
+	"jpName": "くまのぬいぐるみ プー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたのキャラが3枚以上なら、このカードのパワーを＋4000。",
+		"【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「くまのプーさん」があり、他のあなたのキャラが3枚以上なら、あなたは自分の山札の上から3枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"Disney"
+	],
+	"version": "2",
+	"cardcode": "Dds/S104-004SP"
+}

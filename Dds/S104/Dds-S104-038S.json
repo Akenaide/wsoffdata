@@ -1,0 +1,31 @@
+{
+	"set": "Dds",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "038S",
+	"name": "",
+	"jpName": "３つの願い ジーニー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】［あなたの控え室のカードを1枚このカードの下にマーカーとして表向きに置き、このカードを【レスト】する］ 次の3つの効果のうちあなたが選んだ1つを行う。『他のあなたの、《Celebration》か《Disney》のキャラがいるなら、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。』『あなたは自分の、《Celebration》か《Disney》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。』『あなたは相手の、レベルが相手のレベルより高いキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。』その後、このカードの下のマーカーが3枚以上なら、このカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"Disney"
+	],
+	"version": "2",
+	"cardcode": "Dds/S104-038S"
+}

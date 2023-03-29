@@ -1,0 +1,32 @@
+{
+	"set": "Dds",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "086",
+	"name": "",
+	"jpName": "モアナと海の仲間達",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《Celebration》か《Disney》のキャラが4枚以上なら、このカードのパワーを＋6000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの、《Celebration》か《Disney》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"Disney"
+	],
+	"version": "2",
+	"cardcode": "Dds/S104-086"
+}

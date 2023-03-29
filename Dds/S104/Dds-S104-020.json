@@ -1,0 +1,31 @@
+{
+	"set": "Dds",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "020",
+	"name": "",
+	"jpName": "マリー＆ベルリオーズ＆トゥルーズ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《Celebration》か《Disney》のキャラすべてに、パワーを＋1000し、《音楽》を与える。",
+		"【自】 あなたのトリガーアイコンが[CHOICE]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。",
+		"【起】［あなたの、《Celebration》か《Disney》のキャラを2枚【レスト】し、このカードを山札の下に置く］ あなたは1枚引く。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"Disney"
+	],
+	"version": "2",
+	"cardcode": "Dds/S104-020"
+}

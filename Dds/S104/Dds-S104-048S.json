@@ -1,0 +1,31 @@
+{
+	"set": "Dds",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "048S",
+	"name": "",
+	"jpName": "人間の子どもになるため ピノキオ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1000し、このカードは《人間》と《勇気》を得る。",
+		"【永】 他のあなたの、《Celebration》か《Disney》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】［あなたの控え室の、《Celebration》か《Disney》のキャラを1枚クロック置場の下に置く］ バトル中のこのカードが【リバース】した時、このカードの下にマーカーがないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして表向きに置き、このカードを【レスト】する。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"Disney"
+	],
+	"version": "2",
+	"cardcode": "Dds/S104-048S"
+}

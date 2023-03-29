@@ -1,0 +1,32 @@
+{
+	"set": "Dds",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "079SSP",
+	"name": "",
+	"jpName": "\"憧れの舞踏会\" シンデレラ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《Celebration》か《Disney》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「魔法の呪文」があり、あなたのキャラすべてが《Celebration》か《Disney》なら、相手は自分の山札の上から24枚を、控え室に置き、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"Disney"
+	],
+	"version": "2",
+	"cardcode": "Dds/S104-079SSP"
+}

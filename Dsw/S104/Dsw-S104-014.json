@@ -1,0 +1,33 @@
+{
+	"set": "Dsw",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "014",
+	"name": "",
+	"jpName": "フォースの力を秘めた孤児 グローグー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "3500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 フォース ［(1) 手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを2枚選び、それぞれを【スタンド】して入れ替える。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"マンダロリアン"
+	],
+	"version": "2",
+	"cardcode": "Dsw/S104-014"
+}

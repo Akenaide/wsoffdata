@@ -1,0 +1,33 @@
+{
+	"set": "Dds",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "084",
+	"name": "",
+	"jpName": "眠れる森の美女 オーロラ姫",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋500し、このカードは相手の効果に選ばれない。",
+		"【永】 他のあなたの、《Celebration》か《Disney》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】 あなたがレベルアップした時、このカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"Disney"
+	],
+	"version": "2",
+	"cardcode": "Dds/S104-084"
+}

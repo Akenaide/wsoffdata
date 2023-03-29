@@ -1,0 +1,32 @@
+{
+	"set": "Dmv",
+	"setName": "Disney100",
+	"side": "S",
+	"release": "104",
+	"id": "074S",
+	"name": "",
+	"jpName": "何度も立ち上がる キャプテン・マーベル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "3500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"MARVEL"
+	],
+	"version": "2",
+	"cardcode": "Dmv/S104-074S"
+}
