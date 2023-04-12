@@ -1,0 +1,34 @@
+{
+	"set": "LSS",
+	"setName": "プレミアムブースター ラブライブ！スクフェスシリーズ10th Anniversary",
+	"side": "W",
+	"release": "E39",
+	"id": "040SP",
+	"name": "",
+	"jpName": "Waiting for You 桜内 梨子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
+		"【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+		"【起】［手札を1枚控え室に置く］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "LSS/WE39-040SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_040sp.png",
+	"tags": null
+}

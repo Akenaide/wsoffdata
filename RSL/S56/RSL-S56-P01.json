@@ -11,16 +11,21 @@
 	"level": "0",
 	"cost": "0",
 	"power": "0",
-	"soul": "2",
+	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL",
+		"SOUL"
+	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
 	"specialAttrib": [],
-	"version": "2",
-	"cardcode": "RSL/S56-P01"
+	"version": "3",
+	"cardcode": "RSL/S56-P01",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_p01.png",
+	"tags": null
 }

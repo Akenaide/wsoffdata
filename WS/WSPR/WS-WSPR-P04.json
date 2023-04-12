@@ -1,12 +1,12 @@
 {
 	"set": "WS",
-	"setName": "PRカード【Sサイド】",
+	"setName": "PRカード【WSサイド】",
 	"side": "W",
 	"release": "SPR",
 	"id": "P04",
 	"name": "",
 	"jpName": "Happy 15th Anniversary !! [Spring]",
-	"cardType": "CH",
+	"cardType": "CX",
 	"colour": "RED",
 	"level": "0",
 	"cost": "0",
@@ -24,6 +24,8 @@
 		"（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
 	],
 	"specialAttrib": [],
-	"version": "2",
-	"cardcode": "WS/WSPR-P04"
+	"version": "3",
+	"cardcode": "WS/WSPR-P04",
+	"imageURL": "/wordpress/wp-content/images/cardlist/w/ws_wspr/ws_wspr_p04.png",
+	"tags": null
 }

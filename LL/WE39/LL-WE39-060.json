@@ -1,0 +1,33 @@
+{
+	"set": "LL",
+	"setName": "プレミアムブースター ラブライブ！スクフェスシリーズ10th Anniversary",
+	"side": "W",
+	"release": "E39",
+	"id": "060",
+	"name": "",
+	"jpName": "にくきゅうタッチ♪ 星空 凛",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを2枚まで選び、相手はそれらのカード以外の自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「元気いっぱいガッツポーズ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "LL/WE39-060",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_060.png",
+	"tags": null
+}
