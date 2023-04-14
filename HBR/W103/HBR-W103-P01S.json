@@ -1,0 +1,34 @@
+{
+	"set": "HBR",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "103",
+	"id": "P01S",
+	"name": "",
+	"jpName": "閃光のサーキットバースト 茅森 月歌",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《セラフ》のキャラの枚数×1000に等しい。",
+		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《セラフ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+	],
+	"specialAttrib": [
+		"セラフ",
+		"第31A部隊"
+	],
+	"version": "3",
+	"cardcode": "HBR/W103-P01S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w103/hbr_w103_p01s.png",
+	"tags": null
+}
