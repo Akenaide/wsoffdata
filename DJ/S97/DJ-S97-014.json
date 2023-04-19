@@ -1,0 +1,35 @@
+{
+	"set": "DJ",
+	"setName": "D4DJ Groovy Mix",
+	"side": "S",
+	"release": "97",
+	"id": "014",
+	"name": "",
+	"jpName": "ゆらゆら☆Jellyfish 水島茉莉花",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたが『加速』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[SHOT]のクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Merm4id"
+	],
+	"version": "3",
+	"cardcode": "DJ/S97-014",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_014.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "DJ",
+	"setName": "D4DJ Groovy Mix",
+	"side": "S",
+	"release": "97",
+	"id": "101",
+	"name": "",
+	"jpName": "おもてなしサプライズ 矢野緋彩",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「蠱惑の諜報員」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手は自分の山札の上から20枚を、控え室に置く。それらのカードのクライマックスの枚数が3枚以下なら、相手に1ダメージを2回与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"燐舞曲"
+	],
+	"version": "3",
+	"cardcode": "DJ/S97-101",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_101.png",
+	"tags": null
+}

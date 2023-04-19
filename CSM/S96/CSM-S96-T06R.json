@@ -1,0 +1,34 @@
+{
+	"set": "CSM",
+	"setName": "[TD]チェンソーマン",
+	"side": "S",
+	"release": "96",
+	"id": "T06R",
+	"name": "",
+	"jpName": "悪魔の名前 マキマ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《デビルハンター》か《悪魔》のキャラが4枚以上なら、あなたは自分の控え室の、《デビルハンター》か《悪魔》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"デビルハンター",
+		"公安"
+	],
+	"version": "3",
+	"cardcode": "CSM/S96-T06R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_t06r.png",
+	"tags": null
+}

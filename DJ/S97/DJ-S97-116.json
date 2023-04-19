@@ -1,0 +1,35 @@
+{
+	"set": "DJ",
+	"setName": "D4DJ Groovy Mix",
+	"side": "S",
+	"release": "97",
+	"id": "116",
+	"name": "",
+	"jpName": "歌の部屋の誕生日 青柳 椿",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の《音楽》のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"燐舞曲"
+	],
+	"version": "3",
+	"cardcode": "DJ/S97-116",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_116.png",
+	"tags": null
+}

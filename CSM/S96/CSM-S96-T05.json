@@ -1,0 +1,33 @@
+{
+	"set": "CSM",
+	"setName": "[TD]チェンソーマン",
+	"side": "S",
+	"release": "96",
+	"id": "T05",
+	"name": "",
+	"jpName": "血の匂い パワー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"デビルハンター",
+		"公安"
+	],
+	"version": "3",
+	"cardcode": "CSM/S96-T05",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_t05.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "DJ",
+	"setName": "D4DJ Groovy Mix",
+	"side": "S",
+	"release": "97",
+	"id": "039S",
+	"name": "",
+	"jpName": "眩い月の霜を纏って 天野愛莉",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたのレベルが3以上で、他のあなたの《音楽》のキャラが2枚以上なら、次の行動を2回行う。『あなたは自分の山札の上から1枚を公開してよい。そうしたら、そのカードが《音楽》のキャラかイベントなら、そのカードをストック置場に置く。』（そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Call of Artemis"
+	],
+	"version": "3",
+	"cardcode": "DJ/S97-039S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_039s.png",
+	"tags": null
+}

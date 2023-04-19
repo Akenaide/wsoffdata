@@ -1,0 +1,35 @@
+{
+	"set": "DJ",
+	"setName": "D4DJ Groovy Mix",
+	"side": "S",
+	"release": "97",
+	"id": "024",
+	"name": "",
+	"jpName": "カガヤイテPαrade w!th Us 日高さおり",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Merm4id"
+	],
+	"version": "3",
+	"cardcode": "DJ/S97-024",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_024.png",
+	"tags": null
+}

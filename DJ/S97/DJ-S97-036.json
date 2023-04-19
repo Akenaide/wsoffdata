@@ -1,0 +1,34 @@
+{
+	"set": "DJ",
+	"setName": "D4DJ Groovy Mix",
+	"side": "S",
+	"release": "97",
+	"id": "036",
+	"name": "",
+	"jpName": "やめられないんだよね～♪ 白鳥胡桃",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、相手の前列のキャラすべてに、そのターン中、パワーを－1500。（公開したカードは元に戻す）",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Lyrical Lily"
+	],
+	"version": "3",
+	"cardcode": "DJ/S97-036",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_036.png",
+	"tags": null
+}

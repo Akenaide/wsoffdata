@@ -1,0 +1,34 @@
+{
+	"set": "DJ",
+	"setName": "D4DJ Groovy Mix",
+	"side": "S",
+	"release": "97",
+	"id": "048",
+	"name": "",
+	"jpName": "鎖繋ぎの病みカワ天使-博愛- 愛本りんく",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1500に等しい。",
+		"【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「溢れる激流を制して」があり、他のあなたの《音楽》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《音楽》のキャラを1枚まで選び、手札に戻し、自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置く。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Happy Around!"
+	],
+	"version": "3",
+	"cardcode": "DJ/S97-048",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_048.png",
+	"tags": null
+}

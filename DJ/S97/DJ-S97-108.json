@@ -1,0 +1,33 @@
+{
+	"set": "DJ",
+	"setName": "D4DJ Groovy Mix",
+	"side": "S",
+	"release": "97",
+	"id": "108",
+	"name": "",
+	"jpName": "キミの心を頂きに 三宅葵依",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのキャラすべてが《燐舞曲》なら、このカードのパワーを＋2000。",
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《燐舞曲》のキャラの枚数×500に等しい。",
+		"【起】［手札を1枚控え室に置く］ この能力は1ターンにつき1回まで使える。そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"燐舞曲"
+	],
+	"version": "3",
+	"cardcode": "DJ/S97-108",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_108.png",
+	"tags": null
+}

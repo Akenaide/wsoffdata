@@ -1,0 +1,34 @@
+{
+	"set": "CSM",
+	"setName": "[TD]チェンソーマン",
+	"side": "S",
+	"release": "96",
+	"id": "T16",
+	"name": "",
+	"jpName": "心臓の秘密 デンジ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+		"【起】［このカードを控え室に置く］ あなたは自分の控え室の「悪魔を狩る悪魔 チェンソーマン」を1枚選び、自分の「チェンソーの悪魔 ポチタ」がいる枠に置き、その「チェンソーの悪魔 ポチタ」をその「悪魔を狩る悪魔 チェンソーマン」の下にマーカーとして表向きに置く。"
+	],
+	"specialAttrib": [
+		"デビルハンター",
+		"公安"
+	],
+	"version": "3",
+	"cardcode": "CSM/S96-T16",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_t16.png",
+	"tags": null
+}
