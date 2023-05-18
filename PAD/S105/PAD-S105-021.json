@@ -1,0 +1,35 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "021",
+	"name": "",
+	"jpName": "転生貂蝉",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1500。",
+		"【起】［このカードを山札の下に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"ドラゴン",
+		"悪魔",
+		"神"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-021",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_021.png",
+	"tags": null
+}

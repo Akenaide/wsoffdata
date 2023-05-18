@@ -1,0 +1,34 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "031",
+	"name": "",
+	"jpName": "彩妖精の水彩幻画師・アトリ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのキャラが2枚以上なら、このカードは青を得る。",
+		"【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(1) このカードを【レスト】する］ あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+	],
+	"specialAttrib": [
+		"バランス"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-031",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_031.png",
+	"tags": null
+}

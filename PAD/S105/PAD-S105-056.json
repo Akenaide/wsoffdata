@@ -1,0 +1,33 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "056",
+	"name": "",
+	"jpName": "極醒の霊央神・カミムスビ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "8000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれたターン中、あなたのアンコールステップの始めに、他のあなたの《神》のキャラが3枚以上で、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルし、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"神",
+		"回復"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-056",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_056.png",
+	"tags": null
+}

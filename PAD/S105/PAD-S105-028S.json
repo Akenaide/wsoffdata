@@ -1,0 +1,33 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "028S",
+	"name": "",
+	"jpName": "森衣の大魔女・アルジェ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたのキャラが2枚以上なら、このカードは黄を得る。",
+		"【自】 あなたのクライマックスフェイズの始めに、あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"回復"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-028S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_028s.png",
+	"tags": null
+}

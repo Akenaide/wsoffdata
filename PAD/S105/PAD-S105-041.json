@@ -1,0 +1,33 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "041",
+	"name": "",
+	"jpName": "大樹の精霊・アルラウネ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの緑のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのトリガーアイコンが[TREASURE]のクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"回復"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-041",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_041.png",
+	"tags": null
+}

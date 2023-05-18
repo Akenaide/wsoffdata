@@ -1,0 +1,34 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "014",
+	"name": "",
+	"jpName": "聖焔の花嫁・ブリギッド",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「聖焔の花嫁・ブリギッド」1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「銀翼の白迅帝・デイトナ」があり、他のあなたの黄のキャラが4枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の黄のキャラを1枚まで選び、手札に戻し、自分の控え室の黄のキャラを1枚まで選び、ストック置場に置く。』『［(2)］ あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、そのターン中、このカードのパワーを＋5000。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"神",
+		"体力"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-014",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_014.png",
+	"tags": null
+}

@@ -1,0 +1,32 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "044",
+	"name": "",
+	"jpName": "古城の守り猫・バステト",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"神",
+		"悪魔"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-044",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_044.png",
+	"tags": null
+}

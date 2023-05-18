@@ -1,0 +1,32 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "036",
+	"name": "",
+	"jpName": "北方の親愛神・メイメイ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の手札の「遠征のアレキサンダー」を1枚まで選び、このカードがいた枠に置く。』",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"神",
+		"回復"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-036",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_036.png",
+	"tags": null
+}

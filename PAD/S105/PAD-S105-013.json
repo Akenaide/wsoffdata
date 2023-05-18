@@ -1,0 +1,34 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "013",
+	"name": "",
+	"jpName": "賀正の天陽神・アテン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、あなたの舞台のキャラの持つ色の合計が4色以上なら、このカードのパワーを＋6000。",
+		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは1枚まで引く。"
+	],
+	"specialAttrib": [
+		"神",
+		"バランス"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-013",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_013.png",
+	"tags": null
+}

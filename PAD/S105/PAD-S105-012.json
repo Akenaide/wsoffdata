@@ -1,0 +1,35 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "012",
+	"name": "",
+	"jpName": "歓楽の玩龍喚士・コットン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの黄のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの黄のキャラが4枚以上なら、あなたは自分の控え室の黄のキャラを1枚選び、ストック置場に置いてよい。",
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[CHOICE]のクライマックスがでた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"ドラゴン",
+		"バランス"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-012",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_012.png",
+	"tags": null
+}

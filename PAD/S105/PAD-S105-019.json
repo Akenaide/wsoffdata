@@ -1,0 +1,32 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "019",
+	"name": "",
+	"jpName": "仮装祭の天使・イーリア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、黄か《神》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】［(1) 他のあなたの【スタンド】している、黄か《神》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て黄か《神》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"神",
+		"回復"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-019",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_019.png",
+	"tags": null
+}

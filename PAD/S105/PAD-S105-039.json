@@ -1,0 +1,35 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "039",
+	"name": "",
+	"jpName": "聖祝の獄幻姫・ロミア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、相手の後列のキャラ1枚につき、このカードのパワーを＋3000。",
+		"【自】［手札の緑のカードを3枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500し、ソウルを＋1し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"体力",
+		"攻撃"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-039",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_039.png",
+	"tags": null
+}

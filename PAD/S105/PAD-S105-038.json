@@ -1,0 +1,34 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "038",
+	"name": "",
+	"jpName": "遍照の花嫁・ルシャナ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+		"【起】［このカードを山札の下に置く］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』"
+	],
+	"specialAttrib": [
+		"神",
+		"バランス"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-038",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_038.png",
+	"tags": null
+}

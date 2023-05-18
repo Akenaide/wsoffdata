@@ -1,0 +1,36 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "033",
+	"name": "",
+	"jpName": "伝承・エンシェントドラゴンナイト -REX-",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の「熱狂のベーシスト・ロシェ」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがトリガーアイコンに[SOUL]があるカードか「熱狂のベーシスト・ロシェ」なら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の控え室の《ドラゴン》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"ドラゴン",
+		"マシン",
+		"バランス"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-033",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_033.png",
+	"tags": null
+}

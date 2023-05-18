@@ -1,0 +1,32 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "030S",
+	"name": "",
+	"jpName": "迎春の狩猟姫・アルテミス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+		"【自】 このカードがアタックした時、あなたのクライマックス置場にトリガーアイコンが[TREASURE]のクライマックスがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"神",
+		"攻撃"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-030S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_030s.png",
+	"tags": null
+}
