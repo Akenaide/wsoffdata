@@ -1,0 +1,34 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "096",
+	"name": "",
+	"jpName": "海王神・ネプチューン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、青か《神》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 あなたのターン中、相手がイベントか『助太刀』を使った時、前列にこのカードがいるなら、相手は自分のストックの上から1枚を、控え室に置く。",
+		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 このカードかこのカードのバトル相手が【リバース】した時、そのターン中、そのキャラは『【自】 アンコール』を使えない。』（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+	],
+	"specialAttrib": [
+		"神"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-096",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_096.png",
+	"tags": null
+}

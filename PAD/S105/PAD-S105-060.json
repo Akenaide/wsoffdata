@@ -1,0 +1,33 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "060",
+	"name": "",
+	"jpName": "聖夜の翠龍刀士・セリカ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置く。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"ドラゴン",
+		"攻撃",
+		"回復"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-060",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_060.png",
+	"tags": null
+}

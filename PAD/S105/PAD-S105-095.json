@@ -1,0 +1,35 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "095",
+	"name": "",
+	"jpName": "超転生ヌト",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"神",
+		"体力",
+		"攻撃"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-095",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_095.png",
+	"tags": null
+}

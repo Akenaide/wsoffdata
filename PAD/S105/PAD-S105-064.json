@@ -1,0 +1,35 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "064",
+	"name": "",
+	"jpName": "親愛の赤龍喚士・ソニア",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 あなたのアタックフェイズの始めに、前列にこのカードがいるなら、あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。",
+		"【自】［手札の赤のカードを3枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを2回与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ドラゴン",
+		"悪魔"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-064",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_064.png",
+	"tags": null
+}

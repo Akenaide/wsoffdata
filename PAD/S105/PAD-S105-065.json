@@ -1,0 +1,31 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "065",
+	"name": "",
+	"jpName": "ルビードラゴン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【起】［(1) このカードを控え室に置く］ あなたは自分の手札の自分のレベル以下のレベルの赤のキャラを1枚まで選び、このカードがいた枠に置く。",
+		"【起】［このカードを控え室に置く］ あなたは自分の赤のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置いてよい。』"
+	],
+	"specialAttrib": [
+		"強化合成用"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-065",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_065.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "PAD",
+	"setName": "[TD]パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "T17R",
+	"name": "",
+	"jpName": "友愛の灰幻魔・イルミナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"悪魔",
+		"攻撃",
+		"体力"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-T17R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t17r.png",
+	"tags": null
+}

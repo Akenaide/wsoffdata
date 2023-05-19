@@ -1,0 +1,32 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "084",
+	"name": "",
+	"jpName": "演舞の青龍姫・カリン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"神",
+		"ドラゴン"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-084",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_084.png",
+	"tags": null
+}

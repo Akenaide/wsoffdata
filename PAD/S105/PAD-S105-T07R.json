@@ -1,0 +1,35 @@
+{
+	"set": "PAD",
+	"setName": "[TD]パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "T07R",
+	"name": "",
+	"jpName": "聖典の管理者・メタトロン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"神",
+		"回復",
+		"体力"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-T07R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t07r.png",
+	"tags": null
+}

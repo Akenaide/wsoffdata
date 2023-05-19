@@ -1,0 +1,33 @@
+{
+	"set": "PAD",
+	"setName": "パズル＆ドラゴンズ",
+	"side": "S",
+	"release": "105",
+	"id": "088",
+	"name": "",
+	"jpName": "争奪の海賊龍・黒髭ティーチ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の、青か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、青か《ドラゴン》のキャラの枚数×500に等しい。",
+		"【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのトリガーチェックでトリガーアイコンが[GATE]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』"
+	],
+	"specialAttrib": [
+		"ドラゴン",
+		"悪魔",
+		"攻撃"
+	],
+	"version": "3",
+	"cardcode": "PAD/S105-088",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_088.png",
+	"tags": null
+}
