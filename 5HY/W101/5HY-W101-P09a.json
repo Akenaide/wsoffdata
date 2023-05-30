@@ -1,0 +1,34 @@
+{
+	"set": "5HY",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "101",
+	"id": "P09a",
+	"name": "",
+	"jpName": "しろくろドレス 一花",
+	"cardType": "EV",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1) あなたの舞台の《五つ子》のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－1。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"五つ子",
+		"オシャレ"
+	],
+	"version": "3",
+	"cardcode": "5HY/W101-P09a",
+	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w101/5hy_w101_p09a.png",
+	"tags": null
+}
