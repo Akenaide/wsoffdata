@@ -1,0 +1,33 @@
+{
+	"set": "LRC",
+	"setName": "[TD]リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "T16R",
+	"name": "",
+	"jpName": "仲間を救うため たきな",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×2000に等しい。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-T16R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t16r.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "LRC",
+	"setName": "リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "074",
+	"name": "",
+	"jpName": "几帳面な性格 たきな",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。",
+		"【起】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-074",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_074.png",
+	"tags": null
+}

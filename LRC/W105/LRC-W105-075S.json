@@ -1,0 +1,35 @@
+{
+	"set": "LRC",
+	"setName": "リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "075S",
+	"name": "",
+	"jpName": "どこにいようと たきな",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋3000。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。",
+		"【自】 記憶 経験 ［手札を2枚控え室に置く］ 思い出置場にこのカードがあり、あなたのクライマックスフェイズの始めに、あなたのレベル置場の、「遊びに行こう 千束」か「3コール たきな」が2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に置く。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-075S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_075s.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "LRC",
+	"setName": "[TD]リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "T15",
+	"name": "",
+	"jpName": "仲間を救うため クルミ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"ネット"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-T15",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t15.png",
+	"tags": null
+}

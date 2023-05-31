@@ -1,0 +1,34 @@
+{
+	"set": "LRC",
+	"setName": "リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "091",
+	"name": "",
+	"jpName": "初めての私服 たきな",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《リコリコ》か《武器》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《リコリコ》か《武器》のキャラすべてに、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-091",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_091.png",
+	"tags": null
+}

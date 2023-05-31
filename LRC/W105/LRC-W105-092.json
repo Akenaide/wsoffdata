@@ -1,0 +1,34 @@
+{
+	"set": "LRC",
+	"setName": "リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "092",
+	"name": "",
+	"jpName": "最後の時間 たきな",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋4000。",
+		"【自】 あなたのアタックフェイズの始めに、このカードが【スタンド】していて、他のあなたの前列のキャラが1枚以下なら、あなたは自分の山札の上から3枚までを、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-092",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_092.png",
+	"tags": null
+}

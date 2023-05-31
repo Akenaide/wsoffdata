@@ -1,0 +1,33 @@
+{
+	"set": "LRC",
+	"setName": "リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "082",
+	"name": "",
+	"jpName": "滲み出る殺意 たきな",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［(3) 手札の、《リコリコ》か《武器》のキャラを2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「彼女を救うために」があるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを2回与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-082",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_082.png",
+	"tags": null
+}

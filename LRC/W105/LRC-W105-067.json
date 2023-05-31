@@ -1,0 +1,32 @@
+{
+	"set": "LRC",
+	"setName": "リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "067",
+	"name": "",
+	"jpName": "相棒 千束＆たきな",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《リコリコ》か《武器》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「凸凹な名コンビ」があり、他のあなたの、《リコリコ》か《武器》のキャラが2枚以上なら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の、《リコリコ》か《武器》のキャラを1枚まで選び、手札に戻し、自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-067",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_067.png",
+	"tags": null
+}
