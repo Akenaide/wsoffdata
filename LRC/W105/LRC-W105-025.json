@@ -1,0 +1,34 @@
+{
+	"set": "LRC",
+	"setName": "リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "025",
+	"name": "",
+	"jpName": "ドローン援護 クルミ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の、《リコリコ》か《武器》のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「大手柄」があるなら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚まで選び、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"ネット"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-025",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_025.png",
+	"tags": null
+}

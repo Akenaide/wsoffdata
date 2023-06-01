@@ -1,0 +1,34 @@
+{
+	"set": "LRC",
+	"setName": "リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "007",
+	"name": "",
+	"jpName": "敏腕経理 たきな",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《リコリコ》か《武器》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【永】【CXコンボ】 経験 あなたのクライマックス置場に「喫茶リコリコ経営の危機」があり、前列にこのカードがいて、あなたのレベル置場に「営業開始♪ 千束＆たきな」があり、他のあなたの、《リコリコ》か《武器》のキャラがいるなら、他のあなたのすべての領域の、「酔いどれ？店員 ミズキ」と「ウォールナットの正体 クルミ」と「喫茶リコリコ 千束」と「喫茶リコリコ ミカ」のトリガーアイコンに[CHOICE]を与える。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-007",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_007.png",
+	"tags": null
+}

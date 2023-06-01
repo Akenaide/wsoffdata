@@ -1,0 +1,35 @@
+{
+	"set": "LRC",
+	"setName": "リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "009",
+	"name": "",
+	"jpName": "喫茶リコリコ たきな",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「営業開始♪ 千束＆たきな」すべてに、パワーを＋500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+		"【永】 応援 このカードの前のあなたの、《リコリコ》か《武器》のキャラすべてに、パワーを＋1500。",
+		"【起】［(3) このカードを【レスト】する］ あなたは自分の手札の「営業開始♪ 千束＆たきな」を1枚まで選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-009",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_009.png",
+	"tags": null
+}

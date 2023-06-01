@@ -1,0 +1,32 @@
+{
+	"set": "LRC",
+	"setName": "リコリス・リコイル",
+	"side": "W",
+	"release": "105",
+	"id": "056",
+	"name": "",
+	"jpName": "楽しい時間 千束",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋4000。",
+		"【自】 あなたのアタックフェイズの始めに、このカードが【スタンド】していて、他のあなたの前列のキャラが1枚以下なら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の山札を上から1枚見て、《リコリコ》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/W105-056",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_056.png",
+	"tags": null
+}
