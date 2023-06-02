@@ -16,7 +16,10 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": [
+		"SOUL",
+		"SOUL"
+	],
 	"ability": [
 		"【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
 	],
