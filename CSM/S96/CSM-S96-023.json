@@ -1,0 +1,34 @@
+{
+	"set": "CSM",
+	"setName": "チェンソーマン",
+	"side": "S",
+	"release": "96",
+	"id": "023",
+	"name": "",
+	"jpName": "一つ叶えてあげる マキマ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"デビルハンター",
+		"公安"
+	],
+	"version": "3",
+	"cardcode": "CSM/S96-023",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_023.png",
+	"tags": null
+}

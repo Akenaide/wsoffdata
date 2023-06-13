@@ -1,0 +1,35 @@
+{
+	"set": "CSM",
+	"setName": "チェンソーマン",
+	"side": "S",
+	"release": "96",
+	"id": "043",
+	"name": "",
+	"jpName": "一刀両断 サムライソード",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室の「高速の斬撃 サムライソード」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】［手札の緑のカードを2枚控え室に置く］ このカードがアタックした時、そのターン中、このカードのパワーを＋4000し、あなたはコストを払ってよい。そうしたら、相手は自分の山札の上から18枚を、控え室に置く。",
+		"【自】［(1) あなたの控え室の「高速の斬撃 サムライソード」を1枚山札の下に置く］ 相手のメインフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは【リバース】しない。"
+	],
+	"specialAttrib": [
+		"特徴なし",
+		"悪魔"
+	],
+	"version": "3",
+	"cardcode": "CSM/S96-043",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_043.png",
+	"tags": null
+}

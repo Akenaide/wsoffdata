@@ -1,0 +1,35 @@
+{
+	"set": "CSM",
+	"setName": "チェンソーマン",
+	"side": "S",
+	"release": "96",
+	"id": "096",
+	"name": "",
+	"jpName": "キャリア相談 早川アキ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 あなたの、クロックフェイズの始めかアタックフェイズの始めに、このカードのマーカーに「未来の悪魔」があるなら、あなたは自分の山札を上から3枚まで見て、山札の上に元の順番で置く。",
+		"【自】［手札のクライマックスを1枚控え室に置く］ あなたのクライマックスがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"デビルハンター",
+		"公安"
+	],
+	"version": "3",
+	"cardcode": "CSM/S96-096",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_096.png",
+	"tags": null
+}

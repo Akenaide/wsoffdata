@@ -1,0 +1,35 @@
+{
+	"set": "CSM",
+	"setName": "チェンソーマン",
+	"side": "S",
+	"release": "96",
+	"id": "065",
+	"name": "",
+	"jpName": "負け犬の声 デンジ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの与えるダメージは山札の下からダメージ処理を行う。",
+		"【自】【CXコンボ】［(1) あなたのクライマックス置場の「最強の大会」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】し、あなたは自分の手札の「天国への鎮魂歌 早川アキ」を1枚まで選び、舞台の好きな枠に置き、そのキャラとこのカードに、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
+		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"デビルハンター",
+		"公安"
+	],
+	"version": "3",
+	"cardcode": "CSM/S96-065",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_065.png",
+	"tags": null
+}

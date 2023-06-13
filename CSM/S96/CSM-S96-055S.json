@@ -1,0 +1,35 @@
+{
+	"set": "CSM",
+	"setName": "チェンソーマン",
+	"side": "S",
+	"release": "96",
+	"id": "055S",
+	"name": "",
+	"jpName": "公安対魔特異4課 マキマ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「初めての味 マキマ」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】【CXコンボ】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「秘められた力」を1枚選び、手札に戻すかストック置場に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「秘められた力」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《デビルハンター》か《悪魔》のキャラかイベントなら、あなたは相手のキャラを1枚まで選び、控え室に置き、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"デビルハンター",
+		"公安"
+	],
+	"version": "3",
+	"cardcode": "CSM/S96-055S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_055s.png",
+	"tags": null
+}

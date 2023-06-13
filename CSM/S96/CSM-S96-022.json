@@ -1,0 +1,32 @@
+{
+	"set": "CSM",
+	"setName": "チェンソーマン",
+	"side": "S",
+	"release": "96",
+	"id": "022",
+	"name": "",
+	"jpName": "日常の一幕 パワー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは自分の、《デビルハンター》か《悪魔》か《動物》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの、《デビルハンター》か《悪魔》か《動物》のキャラの枚数×1000に等しい。",
+		"【自】 アンコール ［あなたの控え室の、《デビルハンター》か《悪魔》か《動物》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"デビルハンター",
+		"公安"
+	],
+	"version": "3",
+	"cardcode": "CSM/S96-022",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_022.png",
+	"tags": null
+}

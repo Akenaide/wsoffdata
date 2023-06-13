@@ -1,0 +1,33 @@
+{
+	"set": "CSM",
+	"setName": "チェンソーマン",
+	"side": "S",
+	"release": "96",
+	"id": "034",
+	"name": "",
+	"jpName": "タバコの誘い 姫野",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 記憶 このカードがアタックした時、あなたの思い出置場に「Easy revenge!」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《デビルハンター》か《悪魔》のキャラか「Easy revenge!」なら、あなたのキャラすべてに、そのターン中、パワーを＋4000し、ソウルを＋1。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"デビルハンター",
+		"公安"
+	],
+	"version": "3",
+	"cardcode": "CSM/S96-034",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_034.png",
+	"tags": null
+}
