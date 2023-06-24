@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "[TD]ウマ娘 プリティーダービー 第1R",
+	"side": "W",
+	"release": "106",
+	"id": "T16R",
+	"name": "",
+	"jpName": "静かなる疾走者 サイレンススズカ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「きっとここから、必ずここで」があり、他のあなたの《ウマ娘》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのソウルを－1。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-T16R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t16r.png",
+	"tags": null
+}

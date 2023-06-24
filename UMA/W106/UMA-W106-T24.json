@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "[TD]ウマ娘 プリティーダービー 第2R",
+	"side": "W",
+	"release": "106",
+	"id": "T24",
+	"name": "",
+	"jpName": "硬派で頑固な一匹狼 ナリタブライアン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-T24",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t24.png",
+	"tags": null
+}
