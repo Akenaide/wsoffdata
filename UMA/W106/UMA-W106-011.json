@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "011",
+	"name": "",
+	"jpName": "スペシャルドリーマー スペシャルウィーク",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「みんなにとっての“日本一”」があり、このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から3枚見て、キャラかイベントを1枚までとクライマックスを1枚まで選び、クロック置場に好きな順番で置き、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-011",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_011.png",
+	"tags": null
+}

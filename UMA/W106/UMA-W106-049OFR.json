@@ -1,0 +1,34 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "049OFR",
+	"name": "",
+	"jpName": "努力は裏切らない！ ダイワスカーレット",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "OFR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル中、相手はイベントを手札からプレイできない。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラがいるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+		"【自】 チェンジ ［このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「うるさい監視役 ウオッカ」を1枚まで選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-049OFR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_049ofr.png",
+	"tags": null
+}

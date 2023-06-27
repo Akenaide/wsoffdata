@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "063SP",
+	"name": "",
+	"jpName": "めんこいめんこいむつのはな ユキノビジン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋1000。",
+		"【自】［このカードの下のマーカーを1枚控え室に置き、このカードを【レスト】する］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-063SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_063sp.png",
+	"tags": null
+}

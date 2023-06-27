@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "106",
+	"id": "156",
+	"name": "",
+	"jpName": "天衣無縫の陽気なウマ娘 ミスターシービー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(3) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたは自分の山札を上から1枚見て、山札の上か下に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-156",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_156.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "018",
+	"name": "",
+	"jpName": "Rocket☆Star シーキングザパール",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《ウマ娘》なら、このカードのパワーを＋7000し、ソウルを＋1。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「登場、暴走、団長」があり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《ウマ娘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードの与えたダメージがキャンセルされた時、次の相手のターンの終わりまで、このカードのパワーを＋4000。』"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-018",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_018.png",
+	"tags": null
+}

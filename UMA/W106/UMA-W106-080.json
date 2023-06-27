@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "080",
+	"name": "",
+	"jpName": "天嗤う鏑矢 ナリタブライアン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列にこのカードがいるなら、あなたの《ウマ娘》のキャラすべてに、パワーを＋1500。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「才能の塊」があり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-080",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_080.png",
+	"tags": null
+}

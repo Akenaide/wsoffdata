@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "108",
+	"name": "",
+	"jpName": "電光石火の自称・江戸っ子 イナリワン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋2000。",
+		"【自】［このカードの下のマーカーを1枚控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを2回まで払う。次の行動をＸ回行う。『あなたは自分の控え室のキャラを1枚選び、手札に戻す。』Ｘはこの能力のコストを払った回数に等しい。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-108",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_108.png",
+	"tags": null
+}

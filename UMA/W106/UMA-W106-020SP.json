@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "020SP",
+	"name": "",
+	"jpName": "エル☆Número 1 エルコンドルパサー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのメインフェイズ中、このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋2000し、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラなら舞台の好きな枠に置く。（そうでないなら元に戻す）",
+		"【自】［手札を1枚控え室に置く］ このカードがアタックした時、このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-020SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_020sp.png",
+	"tags": null
+}

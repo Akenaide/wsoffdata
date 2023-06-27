@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "034",
+	"name": "",
+	"jpName": "未来のトップウマドル スマートファルコン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ウマ娘》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-034",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_034.png",
+	"tags": null
+}

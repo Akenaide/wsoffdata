@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "061SP",
+	"name": "",
+	"jpName": "超特急！フルカラー特殊PP アグネスデジタル",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+		"【自】 このカードがアタックした時、あなたは他の自分の《ウマ娘》のキャラを2枚まで選び、次の相手のターンの終わりまで、パワーを＋1500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-061SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_061sp.png",
+	"tags": null
+}

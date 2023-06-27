@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "100SP",
+	"name": "",
+	"jpName": "Nevertheless ナリタタイシン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-100SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_100sp.png",
+	"tags": null
+}

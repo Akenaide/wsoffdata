@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "092OFR",
+	"name": "",
+	"jpName": "Step! Smile! Wink! トウカイテイオー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "OFR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。",
+		"【自】［(1) 手札の「Step! Smile! Wink! トウカイテイオー」を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-092OFR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_092ofr.png",
+	"tags": null
+}

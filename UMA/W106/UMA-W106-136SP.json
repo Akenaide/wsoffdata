@@ -1,0 +1,34 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "136SP",
+	"name": "",
+	"jpName": "プラタナス・ウィッチ スイープトウショウ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋1000。",
+		"【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置き、あなたは自分の山札の上から1枚を、ストック置場に置く。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-136SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_136sp.png",
+	"tags": null
+}

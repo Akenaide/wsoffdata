@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "089",
+	"name": "",
+	"jpName": "ローゼスドリーム ライスシャワー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《ウマ娘》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-089",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_089.png",
+	"tags": null
+}

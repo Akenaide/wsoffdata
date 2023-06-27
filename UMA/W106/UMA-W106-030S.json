@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "ウマ娘 プリティーダービー",
+	"side": "W",
+	"release": "106",
+	"id": "030S",
+	"name": "",
+	"jpName": "北米の怪鳥！ エルコンドルパサー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ウマ娘》のキャラなら、そのターン中、このカードのソウルを＋1。（公開したカードは元に戻す）",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W106-030S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_030s.png",
+	"tags": null
+}
