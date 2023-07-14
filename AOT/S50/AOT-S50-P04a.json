@@ -1,0 +1,34 @@
+{
+	"set": "AOT",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "50",
+	"id": "P04a",
+	"name": "",
+	"jpName": "しろくろ兵団 リヴァイ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2500し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"兵団",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "AOT/S50-P04a",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s50/aot_s50_p04a.png",
+	"tags": null
+}
