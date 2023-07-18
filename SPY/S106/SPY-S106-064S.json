@@ -1,0 +1,34 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "064S",
+	"name": "",
+	"jpName": "殺人術の使い手 ヨル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《バーリント市》のキャラなら、相手にＸダメージを与える。Ｘはそのキャラのレベルに等しい。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"殺し屋"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-064S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_064s.png",
+	"tags": null
+}

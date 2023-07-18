@@ -1,0 +1,34 @@
+{
+	"set": "SPY",
+	"setName": "[TD]SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "T16",
+	"name": "",
+	"jpName": "入学試験 ヨル",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《バーリント市》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"殺し屋"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-T16",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_t16.png",
+	"tags": null
+}

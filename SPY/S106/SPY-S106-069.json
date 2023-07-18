@@ -1,0 +1,32 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "069",
+	"name": "",
+	"jpName": "戦闘中 ヨル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《バーリント市》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"殺し屋"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-069",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_069.png",
+	"tags": null
+}

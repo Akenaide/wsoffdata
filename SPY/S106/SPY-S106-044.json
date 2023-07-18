@@ -1,0 +1,35 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "044",
+	"name": "",
+	"jpName": "大切な家族 アーニャ＆ボンド",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《バーリント市》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《バーリント市》のキャラが4枚以上なら、あなたは自分の控え室の《バーリント市》のキャラを1枚選び、ストック置場に置いてよい。",
+		"【自】［手札を1枚控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"フォージャー家"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-044",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_044.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "034",
+	"name": "",
+	"jpName": "完璧な父親 ロイド",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 チェンジ 相手のアンコールステップの始めに、このカードが【レスト】しているなら、あなたはこのカードのマーカーか自分の控え室の、「諜報員〈黄昏〉」を1枚選び、このカードがいる枠に【レスト】して置いてよい。そうしたら、このカードをそのキャラの下にマーカーとして表向きに置く。"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"WISE"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-034",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_034.png",
+	"tags": null
+}

@@ -1,0 +1,31 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "022SPY",
+	"name": "",
+	"jpName": "はは仕込みの必殺パンチ",
+	"cardType": "EV",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "0",
+	"soul": "0",
+	"rarity": "SPYR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"このカードは、あなたの《バーリント市》のキャラがいないなら、手札からプレイできない。このカードを思い出にする。",
+		"あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックしてもソウルが減少しない。』",
+		"【永】 記憶 思い出置場にこのカードがあるなら、あなたの『チェンジ』を持つキャラすべてに、パワーを＋1000し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+		"【自】 記憶 思い出置場にこのカードがあるなら、相手のアンコールステップの始めに、このカードを控え室に置く。"
+	],
+	"specialAttrib": [],
+	"version": "3",
+	"cardcode": "SPY/S106-022SPY",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_022spy.png",
+	"tags": null
+}

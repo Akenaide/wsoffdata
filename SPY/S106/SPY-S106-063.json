@@ -1,0 +1,35 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "063",
+	"name": "",
+	"jpName": "花びらに横たわる ヨル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(2) 手札のトリガーアイコンが[COMEBACK]のクライマックスを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の手札の「殺人術の使い手 ヨル」を1枚まで選び、舞台の好きな枠に置く。』",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"殺し屋"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-063",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_063.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "SPY",
+	"setName": "[TD]SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "T17",
+	"name": "",
+	"jpName": "平和を想う ロイド",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、他のあなたの「仮初めの家族 ロイド＆アーニャ＆ヨル」すべてに、そのターン中、パワーを＋1000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"WISE"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-T17",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_t17.png",
+	"tags": null
+}

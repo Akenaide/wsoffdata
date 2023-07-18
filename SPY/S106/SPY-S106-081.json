@@ -1,0 +1,32 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "081",
+	"name": "",
+	"jpName": "管理者 シルヴィア・シャーウッド",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+		"【自】 このカードがアタックした時、あなたは他の自分の《バーリント市》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《バーリント市》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"WISE"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-081",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_081.png",
+	"tags": null
+}

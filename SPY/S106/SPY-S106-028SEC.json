@@ -1,0 +1,33 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "028SEC",
+	"name": "",
+	"jpName": "優しい微笑み ロイド",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SEC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《バーリント市》のキャラがいるなら、このカードのパワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、次の行動を2回行う。『あなたは自分の山札の上から1枚を、控え室に置いてよい。』",
+		"【自】［(1) このカードを控え室に置く］ 他のあなたの《バーリント市》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"WISE"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-028SEC",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_028sec.png",
+	"tags": null
+}

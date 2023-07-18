@@ -1,0 +1,33 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "082",
+	"name": "",
+	"jpName": "医療事務員 フィオナ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの《バーリント市》のキャラが2枚以上なら、あなたのターン中、このカードのパワーを＋4000し、相手のターン中、このカードのパワーを＋6000。",
+		"【自】 このカードのバトル相手のアタックの終わりに、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。",
+		"【自】 チェンジ 相手のアンコールステップの始めに、このカードが【レスト】しているなら、あなたはこのカードのマーカーか自分の控え室の、「〈夜帷〉 フィオナ・フロスト」を1枚選び、このカードがいる枠に【レスト】して置いてよい。そうしたら、このカードをそのキャラの下にマーカーとして表向きに置く。"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"WISE"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-082",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_082.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "004",
+	"name": "",
+	"jpName": "ブラックベル家の娘 ベッキー・ブラックベル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 応援 相手のターン中、このカードの前のあなたの《バーリント市》のキャラすべてに、パワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《バーリント市》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"イーデン校"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-004",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_004.png",
+	"tags": null
+}

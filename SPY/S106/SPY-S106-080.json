@@ -1,0 +1,34 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "080",
+	"name": "",
+	"jpName": "諜報員〈黄昏〉",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「任務は潜んでスマートに」があり、あなたの手札が6枚以下なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。このダメージがキャンセルされたなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+		"【自】 チェンジ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはこのカードのマーカーか自分の控え室の、「完璧な父親 ロイド」を1枚選び、このカードがいる枠に【レスト】して置いてよい。そうしたら、このカードをそのキャラの下にマーカーとして表向きに置く。"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"WISE"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-080",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_080.png",
+	"tags": null
+}

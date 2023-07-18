@@ -1,0 +1,31 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "025",
+	"name": "",
+	"jpName": "一緒にお出かけ",
+	"cardType": "CX",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "CR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"CHOICE"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+		"（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+	],
+	"specialAttrib": [],
+	"version": "3",
+	"cardcode": "SPY/S106-025",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_025.png",
+	"tags": null
+}

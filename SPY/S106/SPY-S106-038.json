@@ -1,0 +1,32 @@
+{
+	"set": "SPY",
+	"setName": "SPY×FAMILY",
+	"side": "S",
+	"release": "106",
+	"id": "038",
+	"name": "",
+	"jpName": "私服姿 ヨル",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《バーリント市》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"バーリント市",
+		"殺し屋"
+	],
+	"version": "3",
+	"cardcode": "SPY/S106-038",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_038.png",
+	"tags": null
+}
