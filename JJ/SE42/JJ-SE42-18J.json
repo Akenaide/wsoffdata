@@ -1,0 +1,33 @@
+{
+	"set": "JJ",
+	"setName": "ジョジョの奇妙な冒険 ストーンオーシャン",
+	"side": "S",
+	"release": "E42",
+	"id": "18J",
+	"name": "",
+	"jpName": "博打の代償 ミラション",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "JJR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、相手は上か下を宣言する。相手は自分の山札の上から1枚を、控え室に置き、そのカードのレベルが0以下で相手が上と宣言したか、1以上で相手が下と宣言したなら、相手は自分のストックの上から1枚を、控え室に置く。0以下で相手が下と宣言したか、1以上で相手が上と宣言したなら、相手は自分の山札の上から1枚を、ストック置場に置いてよい。（クライマックスのレベルは0として扱う）",
+		"【起】［あなたのキャラを2枚【レスト】する］ あなたのキャラすべてに、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"スタンド使い"
+	],
+	"version": "3",
+	"cardcode": "JJ/SE42-18J",
+	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se42/jj_se42_18j.png",
+	"tags": null
+}

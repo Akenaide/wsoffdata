@@ -1,0 +1,34 @@
+{
+	"set": "JJ",
+	"setName": "ジョジョの奇妙な冒険 スターダストクルセイダース",
+	"side": "S",
+	"release": "E41",
+	"id": "54J",
+	"name": "",
+	"jpName": "騎士道精神 ポルナレフ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "JJR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《スタンド使い》か《スタンド》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の、《スタンド使い》か《スタンド》のキャラを1枚選び、山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"スタンド使い"
+	],
+	"version": "3",
+	"cardcode": "JJ/SE41-54J",
+	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se41/jj_se41_54j.png",
+	"tags": null
+}

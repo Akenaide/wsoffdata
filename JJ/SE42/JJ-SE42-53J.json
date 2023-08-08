@@ -1,0 +1,35 @@
+{
+	"set": "JJ",
+	"setName": "ジョジョの奇妙な冒険 ストーンオーシャン",
+	"side": "S",
+	"release": "E42",
+	"id": "53J",
+	"name": "",
+	"jpName": "譲れない戦い ウェザー・R＆W・R",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "JJR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《スタンド使い》か《スタンド》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《スタンド使い》か《スタンド》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたは2枚まで引き、自分の手札を1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"スタンド使い",
+		"スタンド"
+	],
+	"version": "3",
+	"cardcode": "JJ/SE42-53J",
+	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se42/jj_se42_53j.png",
+	"tags": null
+}

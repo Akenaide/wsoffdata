@@ -1,0 +1,35 @@
+{
+	"set": "JJ",
+	"setName": "ジョジョの奇妙な冒険 スターダストクルセイダース",
+	"side": "S",
+	"release": "E41",
+	"id": "12J",
+	"name": "",
+	"jpName": "ダニエル・J・ダービー＆オシリス神",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "JJR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、「魂」を賭けたゲームをする。",
+		"【起】［このカードを【レスト】する］ あなたは他の自分のキャラを1枚選び、ストック置場に置く。",
+		"【リプレイ】 「魂」を賭けたゲームをする すべてのプレイヤーは自分のキャラを1枚選び、自分の山札の上から1枚を、控え室に置く。あなたのこの効果で控え室に置かれたカードのレベルが相手のこの効果で控え室に置かれたカードのレベルより低いなら、あなたは自分が選んだキャラを控え室に置く。そうでないなら、相手は自分が選んだキャラを控え室に置く。（クライマックスのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"スタンド使い",
+		"スタンド"
+	],
+	"version": "3",
+	"cardcode": "JJ/SE41-12J",
+	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se41/jj_se41_12j.png",
+	"tags": null
+}

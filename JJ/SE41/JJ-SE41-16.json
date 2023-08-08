@@ -1,0 +1,34 @@
+{
+	"set": "JJ",
+	"setName": "ジョジョの奇妙な冒険 スターダストクルセイダース",
+	"side": "S",
+	"release": "E41",
+	"id": "16",
+	"name": "",
+	"jpName": "スガスガしい気分 DIO",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《スタンド使い》か《スタンド》のキャラが2枚以上なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の黄のカードを1枚控え室に置く］』を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"スタンド使い"
+	],
+	"version": "3",
+	"cardcode": "JJ/SE41-16",
+	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se41/jj_se41_16.png",
+	"tags": null
+}

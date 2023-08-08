@@ -1,0 +1,33 @@
+{
+	"set": "JJ",
+	"setName": "ジョジョの奇妙な冒険 ストーンオーシャン",
+	"side": "S",
+	"release": "E42",
+	"id": "21",
+	"name": "",
+	"jpName": "記憶の略取 Ws",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の、《スタンド使い》か《スタンド》のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「DISCを巡る攻防」が置かれた時、前列にこのカードがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 相手のすべての領域のキャラすべては、カード名をすべて失い、カード名を得ない。』"
+	],
+	"specialAttrib": [
+		"スタンド"
+	],
+	"version": "3",
+	"cardcode": "JJ/SE42-21",
+	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se42/jj_se42_21.png",
+	"tags": null
+}
