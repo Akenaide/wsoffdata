@@ -1,0 +1,36 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E42",
+	"id": "P10",
+	"name": "",
+	"jpName": "“新しい世界に”白金燐子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《Anniversary》か《Roselia》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《Anniversary》か《Roselia》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Roselia"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-P10",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p10.png",
+	"tags": null
+}

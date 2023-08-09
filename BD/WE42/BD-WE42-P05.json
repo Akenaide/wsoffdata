@@ -1,0 +1,36 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E42",
+	"id": "P05",
+	"name": "",
+	"jpName": "“２人で見た星空”氷川紗夜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたは[GATE]の効果で自分の控え室の、「“青薔薇の道”湊友希那」か「想いの懸け橋」を選んでよい。",
+		"【永】 応援 このカードの前のあなたの、《Anniversary》か《Roselia》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、他のあなたの、「“青薔薇の道”湊友希那」と「“反骨精神”美竹蘭」がいるなら、あなたは相手の山札の下から1枚までを、控え室に置く。この効果で相手の控え室に置かれたカードがクライマックスなら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Roselia"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-P05",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p05.png",
+	"tags": null
+}
