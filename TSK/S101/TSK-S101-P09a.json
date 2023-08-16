@@ -1,0 +1,34 @@
+{
+	"set": "TSK",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "101",
+	"id": "P09a",
+	"name": "",
+	"jpName": "しろくろ巫女姫 シュナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、相手のクライマックス置場にクライマックスがあるなら、あなたは自分のバトル中の《魔大陸》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"魔大陸",
+		"巫女"
+	],
+	"version": "3",
+	"cardcode": "TSK/S101-P09a",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_p09a.png",
+	"tags": null
+}
