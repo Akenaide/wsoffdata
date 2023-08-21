@@ -1,0 +1,34 @@
+{
+	"set": "PJS",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "91",
+	"id": "P24",
+	"name": "",
+	"jpName": "どんな結末がお望みだい？/星空オーケストラ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、あなたはイベントと『助太刀』を、手札からプレイできない。』",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ワンダーランズ×ショウタイム"
+	],
+	"version": "3",
+	"cardcode": "PJS/S91-P24",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p24.png",
+	"tags": null
+}
