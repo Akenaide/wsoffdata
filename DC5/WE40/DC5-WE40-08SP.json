@@ -1,0 +1,35 @@
+{
+	"set": "DC5",
+	"setName": "プレミアムブースター D.C.～ダ・カーポ～ 20th Anniversary",
+	"side": "W",
+	"release": "E40",
+	"id": "08SP",
+	"name": "",
+	"jpName": "約束したから 愛乃亜",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは自分の、《Anniversary》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "DC5/WE40-08SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc5_we40_08sp.png",
+	"tags": null
+}

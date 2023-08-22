@@ -1,0 +1,36 @@
+{
+	"set": "DC3",
+	"setName": "プレミアムブースター D.C.～ダ・カーポ～ 20th Anniversary",
+	"side": "W",
+	"release": "E40",
+	"id": "36DCP",
+	"name": "",
+	"jpName": "ジル・ハサウェイ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "DCP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「孤高のカトレア」があるなら、相手に1ダメージを与え、あなたはそのキャラを山札の上に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"特徴なし",
+		"Anniversary",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "DC3/WE40-36DCP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc3_we40_36dcp.png",
+	"tags": null
+}

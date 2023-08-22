@@ -1,0 +1,35 @@
+{
+	"set": "DC3",
+	"setName": "プレミアムブースター D.C.～ダ・カーポ～ 20th Anniversary",
+	"side": "W",
+	"release": "E40",
+	"id": "11",
+	"name": "",
+	"jpName": "魅惑のお誘い シャルル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》か《魔法》か《生徒会》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"生徒会"
+	],
+	"version": "3",
+	"cardcode": "DC3/WE40-11",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc3_we40_11.png",
+	"tags": null
+}

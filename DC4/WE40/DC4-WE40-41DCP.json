@@ -1,0 +1,35 @@
+{
+	"set": "DC4",
+	"setName": "プレミアムブースター D.C.～ダ・カーポ～ 20th Anniversary",
+	"side": "W",
+	"release": "E40",
+	"id": "41DCP",
+	"name": "",
+	"jpName": "これからの未来の話 有里栖",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "DCP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《Anniversary》か《魔法》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「ふたりの思い出の１ページ」があり、他のあなたの、《Anniversary》か《魔法》のキャラが4枚以上なら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分の控え室の、《Anniversary》か《魔法》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"令嬢"
+	],
+	"version": "3",
+	"cardcode": "DC4/WE40-41DCP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc4_we40_41dcp.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "DC5",
+	"setName": "プレミアムブースター D.C.～ダ・カーポ～ 20th Anniversary",
+	"side": "W",
+	"release": "E40",
+	"id": "13",
+	"name": "",
+	"jpName": "\"恋\"した魔法使い 瑞花",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「未来への別れ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋1000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "DC5/WE40-13",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc5_we40_13.png",
+	"tags": null
+}

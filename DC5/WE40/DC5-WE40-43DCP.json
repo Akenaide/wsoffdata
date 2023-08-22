@@ -1,0 +1,35 @@
+{
+	"set": "DC5",
+	"setName": "プレミアムブースター D.C.～ダ・カーポ～ 20th Anniversary",
+	"side": "W",
+	"release": "E40",
+	"id": "43DCP",
+	"name": "",
+	"jpName": "明日の自分へ、明日の君へ 雪那",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "DCP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「命を賭けた純愛」が置かれた時、前列にこのカードがいて、他のあなたのキャラが3枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"生徒会"
+	],
+	"version": "3",
+	"cardcode": "DC5/WE40-43DCP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc5_we40_43dcp.png",
+	"tags": null
+}

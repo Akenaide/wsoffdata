@@ -1,0 +1,35 @@
+{
+	"set": "DC5",
+	"setName": "プレミアムブースター D.C.～ダ・カーポ～ 20th Anniversary",
+	"side": "W",
+	"release": "E40",
+	"id": "27DCP",
+	"name": "",
+	"jpName": "アクセサリー教室 可子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "DCP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《Anniversary》か《魔法》のキャラを1枚選び、手札に戻す。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"アクセサリー"
+	],
+	"version": "3",
+	"cardcode": "DC5/WE40-27DCP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc5_we40_27dcp.png",
+	"tags": null
+}

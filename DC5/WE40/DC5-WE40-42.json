@@ -1,0 +1,35 @@
+{
+	"set": "DC5",
+	"setName": "プレミアムブースター D.C.～ダ・カーポ～ 20th Anniversary",
+	"side": "W",
+	"release": "E40",
+	"id": "42",
+	"name": "",
+	"jpName": "一人の女の子として 雪那",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"生徒会"
+	],
+	"version": "3",
+	"cardcode": "DC5/WE40-42",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc5_we40_42.png",
+	"tags": null
+}
