@@ -1,0 +1,33 @@
+{
+	"set": "DC3",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E40",
+	"id": "P03",
+	"name": "",
+	"jpName": "\"ミライへの伝言\"姫乃",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのソウルを＋1。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《魔法》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "DC3/WE40-P03",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc3_we40_p03.png",
+	"tags": null
+}

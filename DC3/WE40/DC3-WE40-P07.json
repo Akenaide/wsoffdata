@@ -1,0 +1,35 @@
+{
+	"set": "DC3",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E40",
+	"id": "P07",
+	"name": "",
+	"jpName": "両手に花の海水浴 シャルル＆リッカ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《Anniversary》か《魔法》か《生徒会》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"生徒会"
+	],
+	"version": "3",
+	"cardcode": "DC3/WE40-P07",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc3_we40_p07.png",
+	"tags": null
+}
