@@ -1,0 +1,35 @@
+{
+	"set": "Goi",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "041",
+	"name": "",
+	"jpName": "人生相談 桐乃",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［手札を3枚控え室に置く］ このカードがアタックした時、クライマックス置場に「友達との口喧嘩」があり、他のあなたのキャラが2枚以上なら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置き、コストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 このカードのアタックの終わりに、あなたは相手に2ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"ゲーム",
+		"モデル"
+	],
+	"version": "3",
+	"cardcode": "Goi/WS02-041",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/goi_ws02_041.png",
+	"tags": null
+}

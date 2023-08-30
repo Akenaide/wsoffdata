@@ -1,0 +1,33 @@
+{
+	"set": "Gid",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "116",
+	"name": "",
+	"jpName": "純白のシスター インデックス",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+		"【自】 このカードがアタックした時、あなたは他の自分の、《電撃文庫》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"魔法",
+		"本"
+	],
+	"version": "3",
+	"cardcode": "Gid/WS02-116",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gid_ws02_116.png",
+	"tags": null
+}

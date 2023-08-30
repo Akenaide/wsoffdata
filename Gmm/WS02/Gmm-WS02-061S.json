@@ -1,0 +1,33 @@
+{
+	"set": "Gmm",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "061S",
+	"name": "",
+	"jpName": "壊れたまーちゃん",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の前列の中央の枠のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"電撃文庫"
+	],
+	"version": "3",
+	"cardcode": "Gmm/WS02-061S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gmm_ws02_061s.png",
+	"tags": null
+}

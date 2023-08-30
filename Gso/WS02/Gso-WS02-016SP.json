@@ -1,0 +1,33 @@
+{
+	"set": "Gso",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "016SP",
+	"name": "",
+	"jpName": "せせらぎに身をゆだね アリス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《電撃文庫》か《フラクトライト》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの、《電撃文庫》か《フラクトライト》のキャラの枚数×500に等しい。",
+		"【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"フラクトライト",
+		"整合騎士"
+	],
+	"version": "3",
+	"cardcode": "Gso/WS02-016SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gso_ws02_016sp.png",
+	"tags": null
+}

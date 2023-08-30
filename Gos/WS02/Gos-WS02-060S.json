@@ -1,0 +1,34 @@
+{
+	"set": "Gos",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "060S",
+	"name": "",
+	"jpName": "俺を好きなのはお前だけかよ 三色院菫子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《電撃文庫》のキャラが4枚以上なら、このカードのパワーを＋6000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《電撃文庫》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"本"
+	],
+	"version": "3",
+	"cardcode": "Gos/WS02-060S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gos_ws02_060s.png",
+	"tags": null
+}

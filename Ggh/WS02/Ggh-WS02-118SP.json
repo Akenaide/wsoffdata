@@ -1,0 +1,36 @@
+{
+	"set": "Ggh",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "118SP",
+	"name": "",
+	"jpName": "境界線上の二人 ホライゾン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《電撃文庫》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《電撃文庫》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"武蔵",
+		"学生"
+	],
+	"version": "3",
+	"cardcode": "Ggh/WS02-118SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/ggh_ws02_118sp.png",
+	"tags": null
+}

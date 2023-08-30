@@ -1,0 +1,35 @@
+{
+	"set": "Gny",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "046SP",
+	"name": "",
+	"jpName": "ネトゲの嫁 アコ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《電撃文庫》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［(1) このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたは自分のクロックの上から1枚を、控え室に置く。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"ゲーム",
+		"アレイキャッツ"
+	],
+	"version": "3",
+	"cardcode": "Gny/WS02-046SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gny_ws02_046sp.png",
+	"tags": null
+}

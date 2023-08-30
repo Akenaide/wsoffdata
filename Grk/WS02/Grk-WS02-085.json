@@ -1,0 +1,34 @@
+{
+	"set": "Grk",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "085",
+	"name": "",
+	"jpName": "\"氷の絶対女王政\" 紗季",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場に「\u0026#34;雨上がりに咲く花\u0026#34; 智花」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「眠れない夜」が置かれた時、前列にこのカードがいるなら、あなたは他の自分の《電撃文庫》のキャラを1枚選び、【スタンド】してよい。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"スポーツ"
+	],
+	"version": "3",
+	"cardcode": "Grk/WS02-085",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/grk_ws02_085.png",
+	"tags": null
+}

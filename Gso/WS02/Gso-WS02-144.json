@@ -1,0 +1,35 @@
+{
+	"set": "Gso",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "144",
+	"name": "",
+	"jpName": "ゴンドラの旅 アスナ＆キリト",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードがレベル1以下のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"アバター",
+		"プログレッシブ"
+	],
+	"version": "3",
+	"cardcode": "Gso/WS02-144",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gso_ws02_144.png",
+	"tags": null
+}

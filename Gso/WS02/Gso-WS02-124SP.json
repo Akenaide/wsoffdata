@@ -1,0 +1,33 @@
+{
+	"set": "Gso",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "124SP",
+	"name": "",
+	"jpName": "巡り合う二人 キリト＆アスナ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《電撃文庫》か《アバター》か《ネット》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+		"【自】 加速 ［(1) あなたの山札の上から1枚をクロック置場に置き、手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《電撃文庫》か《アバター》か《ネット》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"アバター",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "Gso/WS02-124SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gso_ws02_124sp.png",
+	"tags": null
+}

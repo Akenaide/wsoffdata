@@ -1,0 +1,36 @@
+{
+	"set": "Gid",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "127SP",
+	"name": "",
+	"jpName": "大切な存在 当麻＆インデックス",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "11500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 舞台のこのカードのレベルを－3。このカードは相手の効果に選ばれず、このカードの正面のキャラはサイドアタックできない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「一〇万三〇〇〇冊の魔道書図書館」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、次の行動を2回行う。『あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』』"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"魔法",
+		"本"
+	],
+	"version": "3",
+	"cardcode": "Gid/WS02-127SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gid_ws02_127sp.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "Gkb",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "134SP",
+	"name": "",
+	"jpName": "人と二輪車 キノ＆エルメス",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
+		"【自】 あなたのターンの終わりに、あなたは他の自分の、「旅人 キノ」か「Anniversary キノ」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたはこのカードの下のマーカーの、「旅人 キノ」か「Anniversary キノ」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"旅",
+		"モトラド"
+	],
+	"version": "3",
+	"cardcode": "Gkb/WS02-134SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gkb_ws02_134sp.png",
+	"tags": null
+}

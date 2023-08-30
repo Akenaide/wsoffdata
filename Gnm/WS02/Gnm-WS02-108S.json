@@ -1,0 +1,35 @@
+{
+	"set": "Gnm",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "108S",
+	"name": "",
+	"jpName": "新たな出会い、新たな授業 カティ＆シェラ＆ナナオ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《電撃文庫》のキャラすべてに、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"魔法",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "Gnm/WS02-108S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gnm_ws02_108s.png",
+	"tags": null
+}

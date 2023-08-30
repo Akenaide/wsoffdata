@@ -1,0 +1,35 @@
+{
+	"set": "Gsc",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "021",
+	"name": "",
+	"jpName": "正義のヒーロー ドッコイダー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋6000し、このカードは次の2つの能力を得る。『【永】 このカードの正面のキャラはサイドアタックできない。』『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「正義のヒーロー ドッコイダー」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"コスモス荘",
+		"パワードスーツ"
+	],
+	"version": "3",
+	"cardcode": "Gsc/WS02-021",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gsc_ws02_021.png",
+	"tags": null
+}

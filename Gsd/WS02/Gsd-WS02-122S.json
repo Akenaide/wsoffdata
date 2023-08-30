@@ -1,0 +1,35 @@
+{
+	"set": "Gsd",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "122S",
+	"name": "",
+	"jpName": "代行者と護衛官 雛菊＆さくら",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの前列の中央の枠の《電撃文庫》のキャラに、パワーを＋1500。",
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－500。",
+		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、舞台の別々の枠に置く。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"大和",
+		"代行者"
+	],
+	"version": "3",
+	"cardcode": "Gsd/WS02-122S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gsd_ws02_122s.png",
+	"tags": null
+}
