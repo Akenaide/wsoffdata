@@ -1,0 +1,35 @@
+{
+	"set": "Gbl",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "010",
+	"name": "",
+	"jpName": "想定外の再会 豚＆セレス＆黒豚",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の手札を見る。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"イェスマ",
+		"動物"
+	],
+	"version": "3",
+	"cardcode": "Gbl/WS02-010",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gbl_ws02_010.png",
+	"tags": null
+}

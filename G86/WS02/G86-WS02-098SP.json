@@ -1,0 +1,35 @@
+{
+	"set": "G86",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "098SP",
+	"name": "",
+	"jpName": "死者のいない戦場 シン＆レーナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の《電撃文庫》のキャラを1枚選び、山札の下に置いてよい。",
+		"【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"第86独立機動打撃群"
+	],
+	"version": "3",
+	"cardcode": "G86/WS02-098SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/g86_ws02_098sp.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "Goi",
+	"setName": "[TD]電撃文庫 ヴァイスサイド",
+	"side": "W",
+	"release": "S02",
+	"id": "T21",
+	"name": "",
+	"jpName": "もしもの物語 あやせ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、あなたはイベントと『助太刀』を、手札からプレイできない。』",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《電撃文庫》のキャラが4枚以上なら、あなたは自分の控え室の《電撃文庫》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"モデル"
+	],
+	"version": "3",
+	"cardcode": "Goi/WS02-T21",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/goi_ws02_t21.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "Gaw",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "002",
+	"name": "",
+	"jpName": "《ネガ・ネビュラス》 黒雪姫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのキャラすべてが《電撃文庫》か《アバター》か《ネット》なら、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「激動のレクリエーション」があり、あなたの手札が6枚以下なら、あなたは自分の控え室の、《電撃文庫》か《アバター》か《ネット》のキャラを1枚まで選び、手札に戻し、自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"生徒会",
+		"アバター"
+	],
+	"version": "3",
+	"cardcode": "Gaw/WS02-002",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gaw_ws02_002.png",
+	"tags": null
+}

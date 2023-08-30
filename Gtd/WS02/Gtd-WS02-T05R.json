@@ -1,0 +1,35 @@
+{
+	"set": "Gtd",
+	"setName": "[TD]電撃文庫 ヴァイスサイド",
+	"side": "W",
+	"release": "S02",
+	"id": "T05R",
+	"name": "",
+	"jpName": "Anniversary 大河",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋5000。",
+		"【自】 絆／「それぞれの想い 実乃梨＆大河＆亜美」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「それぞれの想い 実乃梨＆大河＆亜美」を1枚選び、手札に戻す）"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"青春",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "Gtd/WS02-T05R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gtd_ws02_t05r.png",
+	"tags": null
+}

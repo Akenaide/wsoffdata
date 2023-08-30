@@ -1,0 +1,35 @@
+{
+	"set": "Gkb",
+	"setName": "[TD]電撃文庫 シュヴァルツサイド",
+	"side": "W",
+	"release": "S02",
+	"id": "T29",
+	"name": "",
+	"jpName": "Anniversary キノ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の《電撃文庫》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《電撃文庫》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"旅",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "Gkb/WS02-T29",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gkb_ws02_t29.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "G86",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "107SP",
+	"name": "",
+	"jpName": "共に戦場へ レーナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《電撃文庫》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、次の相手のターンの終わりまで、レベルを＋1。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"第86独立機動打撃群"
+	],
+	"version": "3",
+	"cardcode": "G86/WS02-107SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/g86_ws02_107sp.png",
+	"tags": null
+}

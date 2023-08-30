@@ -1,0 +1,36 @@
+{
+	"set": "Gtd",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "020S",
+	"name": "",
+	"jpName": "共同戦線 竜児＆大河",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたが自分の手札の、「手乗りタイガー 大河」か「それぞれの想い 実乃梨＆大河＆亜美」のコストを払う時、このカードの下のマーカー2枚を、ストック1枚のかわりに控え室に置いてよい。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、《お弁当》を与える。あなたのマーカー置場のカードの合計が3枚以下なら、あなたは自分の控え室の《電撃文庫》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置く。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"青春",
+		"家事"
+	],
+	"version": "3",
+	"cardcode": "Gtd/WS02-020S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gtd_ws02_020s.png",
+	"tags": null
+}

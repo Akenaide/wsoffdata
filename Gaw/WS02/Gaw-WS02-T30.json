@@ -1,0 +1,35 @@
+{
+	"set": "Gaw",
+	"setName": "[TD]電撃文庫 シュヴァルツサイド",
+	"side": "W",
+	"release": "S02",
+	"id": "T30",
+	"name": "",
+	"jpName": "二人の王 黒雪姫＆ニコ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「赤と黒の対峙」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から5枚を、控え室に置き、相手にＸダメージを与え、自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、そのターン中、このカードのパワーを＋1000。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"生徒会",
+		"ネット"
+	],
+	"version": "3",
+	"cardcode": "Gaw/WS02-T30",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gaw_ws02_t30.png",
+	"tags": null
+}

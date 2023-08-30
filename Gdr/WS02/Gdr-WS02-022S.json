@@ -1,0 +1,34 @@
+{
+	"set": "Gdr",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "022S",
+	"name": "",
+	"jpName": "動乱の街 池袋",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列の「動乱の街 池袋」1枚につき、このカードのパワーを＋1000し、ソウルを＋1。",
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"池袋"
+	],
+	"version": "3",
+	"cardcode": "Gdr/WS02-022S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gdr_ws02_022s.png",
+	"tags": null
+}

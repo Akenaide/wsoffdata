@@ -1,0 +1,35 @@
+{
+	"set": "Gaw",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "031S",
+	"name": "",
+	"jpName": "大天使メタトロン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 記憶 思い出置場にこのカードがあるなら、あなたのターン中、あなたが『加速』を使った時、あなたは自分の山札を上から4枚まで見て、クライマックスを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+		"【起】［このカードを思い出にする］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"ビーイング",
+		"ネット"
+	],
+	"version": "3",
+	"cardcode": "Gaw/WS02-031S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gaw_ws02_031s.png",
+	"tags": null
+}

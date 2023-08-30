@@ -1,0 +1,35 @@
+{
+	"set": "Gaw",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "019",
+	"name": "",
+	"jpName": "水着の親友 黒雪姫＆フーコ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《電撃文庫》か《アバター》か《ネット》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［(1)］ あなたのキャラのトリガーチェックでトリガーアイコンが[RETURN]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"生徒会",
+		"ネット"
+	],
+	"version": "3",
+	"cardcode": "Gaw/WS02-019",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gaw_ws02_019.png",
+	"tags": null
+}

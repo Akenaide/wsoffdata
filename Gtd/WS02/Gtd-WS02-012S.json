@@ -1,0 +1,36 @@
+{
+	"set": "Gtd",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "012S",
+	"name": "",
+	"jpName": "ファッションモデル 亜美",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、他のあなたのキャラが2枚以上なら、あなたは自分の控え室の《電撃文庫》のキャラを2枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"青春",
+		"モデル"
+	],
+	"version": "3",
+	"cardcode": "Gtd/WS02-012S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gtd_ws02_012s.png",
+	"tags": null
+}

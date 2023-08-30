@@ -1,0 +1,33 @@
+{
+	"set": "Gsb",
+	"setName": "[TD]電撃文庫 シュヴァルツサイド",
+	"side": "W",
+	"release": "S02",
+	"id": "T35",
+	"name": "",
+	"jpName": "Anniversary 雪菜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードはサイドアタックできない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《電撃文庫》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"絃神島",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "Gsb/WS02-T35",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gsb_ws02_t35.png",
+	"tags": null
+}

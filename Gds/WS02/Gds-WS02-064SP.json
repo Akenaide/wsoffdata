@@ -1,0 +1,33 @@
+{
+	"set": "Gds",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "064SP",
+	"name": "",
+	"jpName": "宇宙を目指して エリオ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは他のあなたの《電撃文庫》のキャラの枚数に等しい。",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「青春の始まり エリオ」を1枚選び、思い出にしてよい。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"青春",
+		"宇宙"
+	],
+	"version": "3",
+	"cardcode": "Gds/WS02-064SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gds_ws02_064sp.png",
+	"tags": null
+}

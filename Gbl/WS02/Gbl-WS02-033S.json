@@ -1,0 +1,35 @@
+{
+	"set": "Gbl",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "033S",
+	"name": "",
+	"jpName": "憧れた日常 ジェス＆豚",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「美しい夕景」があり、他のあなたの《電撃文庫》のキャラが2枚以上なら、あなたは自分のクロックの上から1枚までを、控え室に置き、他のあなたのキャラすべてに、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"魔法",
+		"動物"
+	],
+	"version": "3",
+	"cardcode": "Gbl/WS02-033S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gbl_ws02_033s.png",
+	"tags": null
+}

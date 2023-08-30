@@ -1,0 +1,35 @@
+{
+	"set": "Gem",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "069S",
+	"name": "",
+	"jpName": "素敵な出逢い ムラマサ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札を見て《電撃文庫》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【自】 共鳴 ［手札の「エロマンガ先生 紗霧」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"小説",
+		"和服"
+	],
+	"version": "3",
+	"cardcode": "Gem/WS02-069S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gem_ws02_069s.png",
+	"tags": null
+}

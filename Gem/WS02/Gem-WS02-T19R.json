@@ -1,0 +1,35 @@
+{
+	"set": "Gem",
+	"setName": "[TD]電撃文庫 ヴァイスサイド",
+	"side": "W",
+	"release": "S02",
+	"id": "T19R",
+	"name": "",
+	"jpName": "Anniversary 紗霧",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、他のあなたの《電撃文庫》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+		"【自】 相手のアタックフェイズの始めに、あなたは自分の「最後の人生相談 桐乃」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"イラストレーター",
+		"引きこもり"
+	],
+	"version": "3",
+	"cardcode": "Gem/WS02-T19R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gem_ws02_t19r.png",
+	"tags": null
+}

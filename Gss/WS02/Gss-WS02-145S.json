@@ -1,0 +1,36 @@
+{
+	"set": "Gss",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "145S",
+	"name": "",
+	"jpName": "“祭礼の蛇” 坂井悠二",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードはサイドアタックしてもソウルが減少しない。",
+		"【自】［このカードを控え室に置く］ 他のあなたの、《電撃文庫》か《炎》かカード名に「近衛」を含むキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋4500。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"炎",
+		"蛇"
+	],
+	"version": "3",
+	"cardcode": "Gss/WS02-145S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gss_ws02_145s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "Gby",
+	"setName": "電撃文庫",
+	"side": "W",
+	"release": "S02",
+	"id": "048",
+	"name": "",
+	"jpName": "当たり前の日常 麻衣",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《電撃文庫》か《思春期》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の控え室の、《電撃文庫》か《思春期》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"思春期",
+		"料理"
+	],
+	"version": "3",
+	"cardcode": "Gby/WS02-048",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gby_ws02_048.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "Gso",
+	"setName": "[TD]電撃文庫 シュヴァルツサイド",
+	"side": "W",
+	"release": "S02",
+	"id": "T34SP",
+	"name": "",
+	"jpName": "月下に佇む キリト",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。2回行ったら、あなたは自分のストックの上から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"アバター",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "Gso/WS02-T34SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gso_ws02_t34sp.png",
+	"tags": null
+}
