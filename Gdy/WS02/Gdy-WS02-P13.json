@@ -1,0 +1,35 @@
+{
+	"set": "Gdy",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "S02",
+	"id": "P13",
+	"name": "",
+	"jpName": "電撃文庫30周年記念 日葵",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《電撃文庫》のキャラが4枚以上なら、このカードのパワーを＋6000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《電撃文庫》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"アクセサリー",
+		"花"
+	],
+	"version": "3",
+	"cardcode": "Gdy/WS02-P13",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gdy_ws02_p13.png",
+	"tags": null
+}

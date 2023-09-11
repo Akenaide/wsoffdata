@@ -1,0 +1,35 @@
+{
+	"set": "Gso",
+	"setName": "PRカード【Sサイド】",
+	"side": "W",
+	"release": "S02",
+	"id": "P01",
+	"name": "",
+	"jpName": "創生の光 アスナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの、《電撃文庫》か《フラクトライト》のキャラの枚数に等しい。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"フラクトライト",
+		"女神"
+	],
+	"version": "3",
+	"cardcode": "Gso/WS02-P01",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gso_ws02_p01.png",
+	"tags": null
+}
