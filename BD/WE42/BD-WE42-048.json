@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター バンドリ！ ガールズバンドパーティ！ Countdown Collection",
+	"side": "W",
+	"release": "E42",
+	"id": "048",
+	"name": "",
+	"jpName": "バンドのまとめ役 羽沢つぐみ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "5500",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《Afterglow》のキャラすべてに、パワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【クロック】 アラーム ［(1)］ このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「永遠の夕日」を1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Afterglow"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-048",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_048.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター バンドリ！ ガールズバンドパーティ！ Countdown Collection",
+	"side": "W",
+	"release": "E42",
+	"id": "052",
+	"name": "",
+	"jpName": "継続してきた演奏 青葉モカ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードと同じカード名のカードと、「“受け止めたい思い”青葉モカ」は、デッキに合計4枚まで入れることができる。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「That Is How I Roll!」があるなら、あなたは相手の山札を上から2枚まで見てカードを2枚まで選び、控え室に置き、残りのカードを山札の上に好きな順番で置き、自分の山札を上から2枚まで見てカードを2枚まで選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。",
+		"【自】 このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Afterglow"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-052",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_052.png",
+	"tags": null
+}

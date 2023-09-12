@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター バンドリ！ ガールズバンドパーティ！ Countdown Collection",
+	"side": "W",
+	"release": "E42",
+	"id": "097",
+	"name": "",
+	"jpName": "自分のアイドル道 大和麻弥",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、他のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【永】 このカードはこのカードの下の表向きのマーカーすべての色を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Pastel＊Palettes"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-097",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_097.png",
+	"tags": null
+}

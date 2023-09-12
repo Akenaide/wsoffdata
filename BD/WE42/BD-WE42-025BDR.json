@@ -1,0 +1,34 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター バンドリ！ ガールズバンドパーティ！ Countdown Collection",
+	"side": "W",
+	"release": "E42",
+	"id": "025BDR",
+	"name": "",
+	"jpName": "日常のワンシーン 丸山彩",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "BDR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［手札の《Pastel＊Palettes》のキャラを4枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000し、相手にＸダメージを与える。Ｘはこの能力のコストで控え室に置かれたカードの持つ色の合計に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Pastel＊Palettes"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-025BDR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_025bdr.png",
+	"tags": null
+}

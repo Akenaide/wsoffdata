@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター バンドリ！ ガールズバンドパーティ！ Countdown Collection",
+	"side": "W",
+	"release": "E42",
+	"id": "022SP",
+	"name": "",
+	"jpName": "幸せな空間 松原花音",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ハロー、ハッピーワールド！"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-022SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_022sp.png",
+	"tags": null
+}

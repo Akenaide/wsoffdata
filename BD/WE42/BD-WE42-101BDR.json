@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター バンドリ！ ガールズバンドパーティ！ Countdown Collection",
+	"side": "W",
+	"release": "E42",
+	"id": "101BDR",
+	"name": "",
+	"jpName": "最強の音楽 チュチュ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "BDR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの後列の《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"RAISE A SUILEN"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-101BDR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_101bdr.png",
+	"tags": null
+}
