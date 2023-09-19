@@ -1,0 +1,33 @@
+{
+	"set": "KF",
+	"setName": "プレミアムブースター THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "E43",
+	"id": "55",
+	"name": "",
+	"jpName": "Kを超えるもの",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「クロウバイツ」が置かれた時、あなたは自分の控え室のレベル0以下のカードを1枚選び、ストック置場に置いてよい。（クライマックスのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"改造"
+	],
+	"version": "3",
+	"cardcode": "KF/SE43-55",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_55.png",
+	"tags": null
+}
