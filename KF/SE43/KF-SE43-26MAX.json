@@ -1,0 +1,33 @@
+{
+	"set": "KF",
+	"setName": "プレミアムブースター THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "E43",
+	"id": "26MAX",
+	"name": "",
+	"jpName": "フリーエージェント マリー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "MAX",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"動物"
+	],
+	"version": "3",
+	"cardcode": "KF/SE43-26MAX",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_26max.png",
+	"tags": null
+}

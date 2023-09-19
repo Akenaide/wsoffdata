@@ -1,0 +1,34 @@
+{
+	"set": "KF",
+	"setName": "プレミアムブースター THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "E43",
+	"id": "12",
+	"name": "",
+	"jpName": "略奪者アッシュ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "3000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは他の舞台のキャラすべての特徴を得る。このカードの持つ異なる特徴1つにつき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「ジェルミナール」が置かれた時、あなたは自分のクロックの上から1枚までを、ストック置場に置き、そのターン中、相手はイベントと『助太刀』を手札からプレイできない。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。"
+	],
+	"specialAttrib": [
+		"特徴なし"
+	],
+	"version": "3",
+	"cardcode": "KF/SE43-12",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_12.png",
+	"tags": null
+}

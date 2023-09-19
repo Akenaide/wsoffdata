@@ -1,0 +1,34 @@
+{
+	"set": "KF",
+	"setName": "プレミアムブースター THE KING OF FIGHTERS",
+	"side": "S",
+	"release": "E43",
+	"id": "28",
+	"name": "",
+	"jpName": "炎の貴公子 京",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［(1) このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたのレベルが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「暴走庵」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"神器",
+		"日輪"
+	],
+	"version": "3",
+	"cardcode": "KF/SE43-28",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_28.png",
+	"tags": null
+}
