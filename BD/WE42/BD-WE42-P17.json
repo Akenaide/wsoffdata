@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "[TDP]BanG Dream! [MyGO!!!!!]",
+	"side": "W",
+	"release": "E42",
+	"id": "P17",
+	"name": "",
+	"jpName": "“次のステージへ”弦巻こころ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。",
+		"【自】 チェンジ ［このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「“世界を繋ぐ笑顔”弦巻こころ」を1枚まで選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"ハロー、ハッピーワールド！"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-P17",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p17.png",
+	"tags": null
+}

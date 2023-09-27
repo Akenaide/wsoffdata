@@ -1,0 +1,34 @@
+{
+	"set": "BTR",
+	"setName": "ぼっち・ざ・ろっく！",
+	"side": "W",
+	"release": "107",
+	"id": "019",
+	"name": "",
+	"jpName": "白に染まる 後藤ひとり",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「将来を憂う叫び」があるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。』『あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、自分の山札の上から1枚までを、ストック置場に置く。』"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "BTR/W107-019",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_019.png",
+	"tags": null
+}

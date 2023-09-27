@@ -1,0 +1,34 @@
+{
+	"set": "BTR",
+	"setName": "ぼっち・ざ・ろっく！",
+	"side": "W",
+	"release": "107",
+	"id": "003S",
+	"name": "",
+	"jpName": "夢への確信 伊地知虹夏",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「道を照らす光」があり、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻すかストック置場に置いてよい。ストック置場に置いたなら、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"しっかり者"
+	],
+	"version": "3",
+	"cardcode": "BTR/W107-003S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_003s.png",
+	"tags": null
+}

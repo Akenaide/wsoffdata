@@ -1,0 +1,34 @@
+{
+	"set": "BD",
+	"setName": "[TDP]BanG Dream! [MyGO!!!!!]",
+	"side": "W",
+	"release": "E42",
+	"id": "T05",
+	"name": "",
+	"jpName": "“声を抱えて生きる”千早愛音",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"MyGO!!!!!"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-T05",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_t05.png",
+	"tags": null
+}

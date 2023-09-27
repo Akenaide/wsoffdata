@@ -1,0 +1,37 @@
+{
+	"set": "BD",
+	"setName": "[TDP]BanG Dream! [MyGO!!!!!]",
+	"side": "W",
+	"release": "E42",
+	"id": "P15",
+	"name": "",
+	"jpName": "“次のステージへ”丸山彩",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《Pastel＊Palettes》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【起】【CXコンボ】 経験 ［このカードを控え室に置く］ あなたのレベル置場に「“朝焼けに包まれて”丸山彩」があるなら、あなたは自分の控え室の「イベント前のワクワク」を1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Pastel＊Palettes"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-P15",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p15.png",
+	"tags": null
+}
