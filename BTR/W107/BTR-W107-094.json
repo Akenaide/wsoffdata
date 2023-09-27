@@ -1,0 +1,34 @@
+{
+	"set": "BTR",
+	"setName": "ぼっち・ざ・ろっく！",
+	"side": "W",
+	"release": "107",
+	"id": "094",
+	"name": "",
+	"jpName": "迸るパワー 後藤ひとり",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のカード名に「ひとり」を含むキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室のカード名に「ひとり」を含むキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "BTR/W107-094",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_094.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "BTR",
+	"setName": "ぼっち・ざ・ろっく！",
+	"side": "W",
+	"release": "107",
+	"id": "044S",
+	"name": "",
+	"jpName": "ベース換金術 山田リョウ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 手札のこのカードをプレイするにあたり、あなたは自分の「“ぼっちちゃん” 後藤ひとり」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"変人"
+	],
+	"version": "3",
+	"cardcode": "BTR/W107-044S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_044s.png",
+	"tags": null
+}

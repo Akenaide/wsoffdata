@@ -1,0 +1,33 @@
+{
+	"set": "BTR",
+	"setName": "ぼっち・ざ・ろっく！",
+	"side": "W",
+	"release": "107",
+	"id": "070SSP",
+	"name": "",
+	"jpName": "目指せ！ロックスター！ 後藤ひとり",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の《音楽》のキャラを1枚選び、山札の下に置いてよい。",
+		"【自】【CXコンボ】 経験 ［手札を2枚控え室に置き、あなたの思い出置場の「失態の歴史」を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「現状を壊すオーバードライブ」があり、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3000し、次の行動を2回行う。『あなたは自分の山札の上から1枚を、控え室に置き、相手にＸダメージを与える。Ｘはそのカードがクライマックスなら2、そうでないなら1に等しい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "BTR/W107-070SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_070ssp.png",
+	"tags": null
+}

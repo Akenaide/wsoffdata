@@ -1,0 +1,35 @@
+{
+	"set": "BTR",
+	"setName": "ぼっち・ざ・ろっく！",
+	"side": "W",
+	"release": "107",
+	"id": "075S",
+	"name": "",
+	"jpName": "夕焼けの帰り道 喜多郁代",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「普通じゃないことへの憧れ 喜多郁代」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋4000。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「増えていく思い出」が置かれた時、前列にこのカードがいるなら、あなたは他の自分の《音楽》のキャラを1枚選び、【スタンド】してよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"人気者"
+	],
+	"version": "3",
+	"cardcode": "BTR/W107-075S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_075s.png",
+	"tags": null
+}

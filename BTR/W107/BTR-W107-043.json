@@ -1,0 +1,34 @@
+{
+	"set": "BTR",
+	"setName": "ぼっち・ざ・ろっく！",
+	"side": "W",
+	"release": "107",
+	"id": "043",
+	"name": "",
+	"jpName": "隠してた名前 喜多郁代",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋2500し、このカードは相手の効果に選ばれない。",
+		"【自】［(1) 手札の《音楽》のキャラを2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"人気者"
+	],
+	"version": "3",
+	"cardcode": "BTR/W107-043",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_043.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "BTR",
+	"setName": "ぼっち・ざ・ろっく！",
+	"side": "W",
+	"release": "107",
+	"id": "045KBR",
+	"name": "",
+	"jpName": "金欠の末路 山田リョウ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "KBR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［他のあなたの舞台のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
+		"【自】［(2)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のストックすべてを、控え室に置き、相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"変人"
+	],
+	"version": "3",
+	"cardcode": "BTR/W107-045KBR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_045kbr.png",
+	"tags": null
+}
