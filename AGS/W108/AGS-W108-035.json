@@ -1,0 +1,34 @@
+{
+	"set": "AGS",
+	"setName": "アリス・ギア・アイギス Expansion",
+	"side": "W",
+	"release": "108",
+	"id": "035",
+	"name": "",
+	"jpName": "溢れ出る気持ち のどか",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か『合体』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【永】 経験 あなたのレベル置場に「溢れ出る気持ち のどか」があるなら、このカードは次の2つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋1000。』『【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《アリスギア》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。』"
+	],
+	"specialAttrib": [
+		"アリスギア",
+		"アクトレス"
+	],
+	"version": "3",
+	"cardcode": "AGS/W108-035",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_035.png",
+	"tags": null
+}

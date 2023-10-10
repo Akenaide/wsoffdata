@@ -1,0 +1,34 @@
+{
+	"set": "AGS",
+	"setName": "[TD]アリス・ギア・アイギス Expansion",
+	"side": "W",
+	"release": "108",
+	"id": "T19R",
+	"name": "",
+	"jpName": "セレブ姿 ゆみ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《アリスギア》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは2枚引き、自分の手札を2枚選び、控え室に置く。このカードは次のあなたのスタンドフェイズに【スタンド】しない。"
+	],
+	"specialAttrib": [
+		"アリスギア",
+		"アクトレス"
+	],
+	"version": "3",
+	"cardcode": "AGS/W108-T19R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_t19r.png",
+	"tags": null
+}

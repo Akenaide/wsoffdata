@@ -1,0 +1,33 @@
+{
+	"set": "AGS",
+	"setName": "アリス・ギア・アイギス Expansion",
+	"side": "W",
+	"release": "108",
+	"id": "022",
+	"name": "",
+	"jpName": "事務所にお泊り 愛花",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「一条 綾香」がいるなら、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"アリスギア",
+		"アクトレス"
+	],
+	"version": "3",
+	"cardcode": "AGS/W108-022",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_022.png",
+	"tags": null
+}

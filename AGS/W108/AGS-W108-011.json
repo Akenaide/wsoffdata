@@ -1,0 +1,33 @@
+{
+	"set": "AGS",
+	"setName": "アリス・ギア・アイギス Expansion",
+	"side": "W",
+	"release": "108",
+	"id": "011",
+	"name": "",
+	"jpName": "実況担当 杏奈",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《アリスギア》のキャラならこのカードの下にマーカーとして表向きに置いてよい。（そうしないなら元に戻す）",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"アリスギア",
+		"アクトレス"
+	],
+	"version": "3",
+	"cardcode": "AGS/W108-011",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_011.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "AGS",
+	"setName": "[TD]アリス・ギア・アイギス Expansion",
+	"side": "W",
+	"release": "108",
+	"id": "T20",
+	"name": "",
+	"jpName": "アクトレス適性判定司会 芹菜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋10000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に元の順番で置く。"
+	],
+	"specialAttrib": [
+		"アリスギア",
+		"アクトレス"
+	],
+	"version": "3",
+	"cardcode": "AGS/W108-T20",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_t20.png",
+	"tags": null
+}

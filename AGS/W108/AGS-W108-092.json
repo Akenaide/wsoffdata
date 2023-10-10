@@ -1,0 +1,35 @@
+{
+	"set": "AGS",
+	"setName": "アリス・ギア・アイギス Expansion",
+	"side": "W",
+	"release": "108",
+	"id": "092",
+	"name": "",
+	"jpName": "百科 文嘉",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札のクライマックスを1枚控え室に置く］ あなたのトリガーアイコンが[GATE]のクライマックスがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+		"【自】［手札のクライマックスを1枚控え室に置く］ 他のあなたのキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋3000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《アリスギア》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"アリスギア",
+		"アクトレス"
+	],
+	"version": "3",
+	"cardcode": "AGS/W108-092",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_092.png",
+	"tags": null
+}

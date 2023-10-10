@@ -1,0 +1,32 @@
+{
+	"set": "AGS",
+	"setName": "アリス・ギア・アイギス Expansion",
+	"side": "W",
+	"release": "108",
+	"id": "006S",
+	"name": "",
+	"jpName": "蛙坂 来弥",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』",
+		"【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の山札を見て《アリスギア》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"アリスギア",
+		"アクトレス"
+	],
+	"version": "3",
+	"cardcode": "AGS/W108-006S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_006s.png",
+	"tags": null
+}

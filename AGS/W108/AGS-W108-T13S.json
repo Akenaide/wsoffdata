@@ -1,0 +1,34 @@
+{
+	"set": "AGS",
+	"setName": "[TD]アリス・ギア・アイギス Expansion",
+	"side": "W",
+	"release": "108",
+	"id": "T13S",
+	"name": "",
+	"jpName": "“成子坂製作所（仮）”夜露",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1)］ このカードのアタックの終わりに、クライマックス置場に「特訓、お付き合いしますよ！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から5枚を、控え室に置き、相手にＸダメージを与え、次の相手のターンの終わりまで、このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"アリスギア",
+		"アクトレス"
+	],
+	"version": "3",
+	"cardcode": "AGS/W108-T13S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_t13s.png",
+	"tags": null
+}

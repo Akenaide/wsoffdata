@@ -1,0 +1,32 @@
+{
+	"set": "AGS",
+	"setName": "アリス・ギア・アイギス Expansion",
+	"side": "W",
+	"release": "108",
+	"id": "038",
+	"name": "",
+	"jpName": "暴走 のどか",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「憧れの人と一緒に」が置かれた時、あなたは他の自分の《アリスギア》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、《アリスギア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』"
+	],
+	"specialAttrib": [
+		"アリスギア",
+		"アクトレス"
+	],
+	"version": "3",
+	"cardcode": "AGS/W108-038",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_038.png",
+	"tags": null
+}
