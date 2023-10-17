@@ -1,0 +1,33 @@
+{
+	"set": "SS",
+	"setName": "プレミアムブースター 灼眼のシャナ",
+	"side": "W",
+	"release": "E41",
+	"id": "07",
+	"name": "",
+	"jpName": "囚われのシャナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《炎》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"炎",
+		"メロンパン"
+	],
+	"version": "3",
+	"cardcode": "SS/WE41-07",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we41/ss_we41_07.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "SS",
+	"setName": "プレミアムブースター 灼眼のシャナ",
+	"side": "W",
+	"release": "E41",
+	"id": "56",
+	"name": "",
+	"jpName": "『将軍』シュドナイ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《炎》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"炎",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "SS/WE41-56",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we41/ss_we41_56.png",
+	"tags": null
+}

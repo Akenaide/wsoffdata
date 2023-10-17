@@ -1,0 +1,35 @@
+{
+	"set": "SS",
+	"setName": "プレミアムブースター 灼眼のシャナ",
+	"side": "W",
+	"release": "E41",
+	"id": "36SHP",
+	"name": "",
+	"jpName": "誇り高き者 シャナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SHP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《炎》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 他のあなたの《炎》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
+		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"炎",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "SS/WE41-36SHP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we41/ss_we41_36shp.png",
+	"tags": null
+}
