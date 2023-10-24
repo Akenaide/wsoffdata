@@ -1,0 +1,33 @@
+{
+	"set": "SIN",
+	"setName": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+	"side": "W",
+	"release": "109",
+	"id": "005SP",
+	"name": "",
+	"jpName": "お散歩役員のお世話 天王寺 璃奈",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIN/W109-005SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sin_w109/sin_w109_005sp.png",
+	"tags": null
+}

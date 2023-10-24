@@ -1,0 +1,33 @@
+{
+	"set": "SIS",
+	"setName": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+	"side": "W",
+	"release": "109",
+	"id": "119S",
+	"name": "",
+	"jpName": "熱いパッション 小原 鞠莉",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。",
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIS/W109-119S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sis_w109/sis_w109_119s.png",
+	"tags": null
+}

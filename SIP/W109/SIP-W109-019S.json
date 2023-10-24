@@ -1,0 +1,33 @@
+{
+	"set": "SIP",
+	"setName": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+	"side": "W",
+	"release": "109",
+	"id": "019S",
+	"name": "",
+	"jpName": "ガーリーと合わせて 桜小路 きな子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚選び、手札に加え、残りのカードを山札の上に好きな順番で置く。",
+		"【自】【CXコンボ】［(1)］ この能力は1ターンにつき1回まで発動する。このカードがアタックした時、クライマックス置場に「爽快な都会の景色」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、このカードを【スタンド】する。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIP/W109-019S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sip_w109/sip_w109_019s.png",
+	"tags": null
+}

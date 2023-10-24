@@ -1,0 +1,33 @@
+{
+	"set": "SIS",
+	"setName": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+	"side": "W",
+	"release": "109",
+	"id": "064",
+	"name": "",
+	"jpName": "トリオの旋律 桜内 梨子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIS/W109-064",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sis_w109/sis_w109_064.png",
+	"tags": null
+}

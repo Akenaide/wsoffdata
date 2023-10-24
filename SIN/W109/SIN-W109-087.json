@@ -1,0 +1,33 @@
+{
+	"set": "SIN",
+	"setName": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+	"side": "W",
+	"release": "109",
+	"id": "087",
+	"name": "",
+	"jpName": "ハッピーイースター 宮下 愛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIN/W109-087",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sin_w109/sin_w109_087.png",
+	"tags": null
+}

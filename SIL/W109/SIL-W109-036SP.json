@@ -1,0 +1,34 @@
+{
+	"set": "SIL",
+	"setName": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+	"side": "W",
+	"release": "109",
+	"id": "036SP",
+	"name": "",
+	"jpName": "夕暮れの生徒会室 絢瀬 絵里",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「一緒に歌おう 高坂 穂乃果」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。』",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「気がつけば夕暮れ」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIL/W109-036SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sil_w109/sil_w109_036sp.png",
+	"tags": null
+}

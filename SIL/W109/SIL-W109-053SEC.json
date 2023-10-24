@@ -1,0 +1,33 @@
+{
+	"set": "SIL",
+	"setName": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+	"side": "W",
+	"release": "109",
+	"id": "053SEC",
+	"name": "",
+	"jpName": "満開の桜 高坂 穂乃果",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SEC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が9以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋2500。』『あなたは自分の控え室のクライマックスを1枚まで選び、手札に戻す。』",
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《音楽》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIL/W109-053SEC",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sil_w109/sil_w109_053sec.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "SIP",
+	"setName": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+	"side": "W",
+	"release": "109",
+	"id": "065",
+	"name": "",
+	"jpName": "ミラクルライブ♪ 澁谷 かのん",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「重なる私たちの歌声」が置かれた時、前列にこのカードがいるなら、あなたは他の自分の《音楽》のキャラを1枚選び、【スタンド】してよい。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIP/W109-065",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sip_w109/sip_w109_065.png",
+	"tags": null
+}

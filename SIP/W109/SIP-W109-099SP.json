@@ -1,0 +1,33 @@
+{
+	"set": "SIP",
+	"setName": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+	"side": "W",
+	"release": "109",
+	"id": "099SP",
+	"name": "",
+	"jpName": "衣装スタイリスト 唐 可可",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、あなたは自分のクロックの下から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1) 手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「イメージを『形』に！」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、相手は自分の山札の上から3枚を公開し、その山札をシャッフルする。それらのカードにクライマックスがあるなら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIP/W109-099SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sip_w109/sip_w109_099sp.png",
+	"tags": null
+}

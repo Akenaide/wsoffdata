@@ -1,0 +1,33 @@
+{
+	"set": "SIN",
+	"setName": "ラブライブ！スクールアイドルフェスティバル2 MIRACLE LIVE!",
+	"side": "W",
+	"release": "109",
+	"id": "002",
+	"name": "",
+	"jpName": "精進あるのみ 三船 栞子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［他のあなたの舞台の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+		"【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「夢のライブを追いかけて」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、相手に2ダメージを与え、あなたは他の自分のキャラを1枚選び、そのターン中、この能力を与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIN/W109-002",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sin_w109/sin_w109_002.png",
+	"tags": null
+}
