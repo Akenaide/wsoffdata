@@ -1,0 +1,34 @@
+{
+	"set": "GT",
+	"setName": "2013年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "29",
+	"id": "103SP",
+	"name": "",
+	"jpName": "太陽の継承者 あかり",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《タロット》のキャラを1枚選び、手札に戻してよい。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"タロット",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "GT/W29-103SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_103sp.png",
+	"tags": null
+}
