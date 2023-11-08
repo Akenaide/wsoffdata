@@ -1,0 +1,33 @@
+{
+	"set": "YHN",
+	"setName": "幻日のヨハネ -SUNSHINE in the MIRROR-",
+	"side": "W",
+	"release": "111",
+	"id": "T20",
+	"name": "",
+	"jpName": "凸凹姉妹 ヨハネ＆ライラプス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】［(2) 手札の《心の音》のキャラを1枚控え室に置く］ 他のあなたの「仲間と出会えた喜び ヨハネ」がアタックした時、クライマックス置場に「これからもずっと一緒」があり、前列にこのカードがいて、あなたの手札が6枚以下なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"心の音"
+	],
+	"version": "3",
+	"cardcode": "YHN/W111-T20",
+	"imageURL": "/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_t20.png",
+	"tags": null
+}

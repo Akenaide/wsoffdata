@@ -1,0 +1,33 @@
+{
+	"set": "YHN",
+	"setName": "幻日のヨハネ -SUNSHINE in the MIRROR-",
+	"side": "W",
+	"release": "111",
+	"id": "036S",
+	"name": "",
+	"jpName": "繋がる心、始まる友情 ヨハネ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1) 手札を1枚控え室に置く］ このカードのアタック中、あなたがカードを引いた時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「ひとみしりのハーモニー」が置かれた時、前列にこのカードがいるなら、そのターン中、このカードのパワーを＋1000し、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードは【リバース】しない。』『【自】 このカードがアタックした時、あなたは2枚まで引き、自分の手札を同じ枚数選び、控え室に置く。』"
+	],
+	"specialAttrib": [
+		"心の音"
+	],
+	"version": "3",
+	"cardcode": "YHN/W111-036S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_036s.png",
+	"tags": null
+}

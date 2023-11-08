@@ -1,0 +1,33 @@
+{
+	"set": "YHN",
+	"setName": "幻日のヨハネ -SUNSHINE in the MIRROR-",
+	"side": "W",
+	"release": "111",
+	"id": "084",
+	"name": "",
+	"jpName": "重なる心の音 リコ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1)］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「ひとりぼっちだから分かり合えた心」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《心の音》のキャラなら、このカードを【スタンド】する。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"心の音"
+	],
+	"version": "3",
+	"cardcode": "YHN/W111-084",
+	"imageURL": "/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_084.png",
+	"tags": null
+}
