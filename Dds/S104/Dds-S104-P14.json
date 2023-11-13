@@ -1,0 +1,35 @@
+{
+	"set": "Dds",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "104",
+	"id": "P14",
+	"name": "",
+	"jpName": "眠れる森の美女 オーロラ姫",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋500し、このカードは相手の効果に選ばれない。",
+		"【永】 他のあなたの、《Celebration》か《Disney》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】 あなたがレベルアップした時、このカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"Celebration",
+		"Disney"
+	],
+	"version": "3",
+	"cardcode": "Dds/S104-P14",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_p14.png",
+	"tags": null
+}
