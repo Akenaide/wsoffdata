@@ -1,0 +1,35 @@
+{
+	"set": "AYT",
+	"setName": "あやかしトライアングル",
+	"side": "W",
+	"release": "110",
+	"id": "008S",
+	"name": "",
+	"jpName": "“祓忍具職人”恋緒",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたは[RETURN]の効果で相手のキャラを手札に戻せない。",
+		"【自】 あなたのトリガーアイコンが[RETURN]のクライマックスがトリガーした時、他のあなたの「“祓忍具職人”恋緒」がいないなら、あなたは相手のキャラを1枚選び、ストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"小美呼市",
+		"祓忍"
+	],
+	"version": "3",
+	"cardcode": "AYT/W110-008S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_008s.png",
+	"tags": null
+}

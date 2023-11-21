@@ -1,0 +1,34 @@
+{
+	"set": "AYT",
+	"setName": "あやかしトライアングル",
+	"side": "W",
+	"release": "110",
+	"id": "017S",
+	"name": "",
+	"jpName": "気合十分 ルーシー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+		"【自】【CXコンボ】［(3) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「サブカル女子のコレクション」があるなら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+	],
+	"specialAttrib": [
+		"小美呼市",
+		"花鳥風月"
+	],
+	"version": "3",
+	"cardcode": "AYT/W110-017S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_017s.png",
+	"tags": null
+}

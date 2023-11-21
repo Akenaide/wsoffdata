@@ -1,0 +1,35 @@
+{
+	"set": "AYT",
+	"setName": "あやかしトライアングル",
+	"side": "W",
+	"release": "110",
+	"id": "003",
+	"name": "",
+	"jpName": "常夏のひととき 恋緒",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《小美呼市》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』",
+		"【自】 このカードがアタックした時、他のあなたの《小美呼市》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"小美呼市",
+		"祓忍"
+	],
+	"version": "3",
+	"cardcode": "AYT/W110-003",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_003.png",
+	"tags": null
+}

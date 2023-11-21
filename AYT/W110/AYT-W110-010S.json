@@ -1,0 +1,34 @@
+{
+	"set": "AYT",
+	"setName": "あやかしトライアングル",
+	"side": "W",
+	"release": "110",
+	"id": "010S",
+	"name": "",
+	"jpName": "たっぷりの愛情をこめて 祭里",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「慣れない光景」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から3枚を公開し、その山札をシャッフルし、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの[SOUL]の合計に等しい。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"小美呼市",
+		"祓忍"
+	],
+	"version": "3",
+	"cardcode": "AYT/W110-010S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_010s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "AYT",
+	"setName": "あやかしトライアングル",
+	"side": "W",
+	"release": "110",
+	"id": "016",
+	"name": "",
+	"jpName": "幼馴染みへの困惑 祭里",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「トクベツな関係 すず」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』",
+		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の控え室の《小美呼市》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"小美呼市",
+		"祓忍"
+	],
+	"version": "3",
+	"cardcode": "AYT/W110-016",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_016.png",
+	"tags": null
+}

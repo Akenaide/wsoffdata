@@ -1,0 +1,34 @@
+{
+	"set": "AYT",
+	"setName": "あやかしトライアングル",
+	"side": "W",
+	"release": "110",
+	"id": "071",
+	"name": "",
+	"jpName": "常夏のひととき 弥生",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルする。",
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《小美呼市》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"小美呼市",
+		"花鳥風月"
+	],
+	"version": "3",
+	"cardcode": "AYT/W110-071",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_071.png",
+	"tags": null
+}

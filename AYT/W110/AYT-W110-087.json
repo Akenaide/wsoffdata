@@ -1,0 +1,34 @@
+{
+	"set": "AYT",
+	"setName": "あやかしトライアングル",
+	"side": "W",
+	"release": "110",
+	"id": "087",
+	"name": "",
+	"jpName": "圧倒的防衛術 シロガネ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
+		"【起】［このカードを控え室に置く］ あなたは自分の控え室の「常夏のひととき すず」を1枚選び、このカードがいた枠に置き、そのターン中、そのキャラのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"小美呼市",
+		"妖"
+	],
+	"version": "3",
+	"cardcode": "AYT/W110-087",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_087.png",
+	"tags": null
+}

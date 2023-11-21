@@ -1,0 +1,34 @@
+{
+	"set": "AYT",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "110",
+	"id": "102",
+	"name": "",
+	"jpName": "ちびルーシー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《小美呼市》のキャラの枚数×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《小美呼市》のキャラが4枚以上なら、あなたは自分の控え室の《小美呼市》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"小美呼市",
+		"花鳥風月"
+	],
+	"version": "3",
+	"cardcode": "AYT/W110-102",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_102.png",
+	"tags": null
+}

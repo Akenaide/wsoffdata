@@ -1,0 +1,35 @@
+{
+	"set": "AYT",
+	"setName": "あやかしトライアングル",
+	"side": "W",
+	"release": "110",
+	"id": "072SP",
+	"name": "",
+	"jpName": "止まらない欲望 すず",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 舞台のこのカードのレベルを－3。このカードは相手の効果に選ばれない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場のキャラを1枚選び、思い出にしてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「夢の時間」があり、他のあなたの《小美呼市》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与える。』『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"小美呼市",
+		"妖巫女"
+	],
+	"version": "3",
+	"cardcode": "AYT/W110-072SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_072sp.png",
+	"tags": null
+}
