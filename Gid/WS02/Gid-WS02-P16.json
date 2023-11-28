@@ -1,0 +1,36 @@
+{
+	"set": "Gid",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "S02",
+	"id": "P16",
+	"name": "",
+	"jpName": "虹の波長 インデックス",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《電撃文庫》か《魔法》かカード名に「当麻」を含むキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"魔法",
+		"本"
+	],
+	"version": "3",
+	"cardcode": "Gid/WS02-P16",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gid_ws02_p16.png",
+	"tags": null
+}

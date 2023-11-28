@@ -1,0 +1,35 @@
+{
+	"set": "Gmf",
+	"setName": "PRカード【Sサイド】",
+	"side": "W",
+	"release": "S02",
+	"id": "P12",
+	"name": "",
+	"jpName": "電撃文庫30周年記念 アノス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《電撃文庫》のキャラすべてに、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"電撃文庫",
+		"魔族",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "Gmf/WS02-P12",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gmf_ws02_p12.png",
+	"tags": null
+}
