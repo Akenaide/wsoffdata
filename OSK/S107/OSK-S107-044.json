@@ -1,0 +1,34 @@
+{
+	"set": "OSK",
+	"setName": "【推しの子】",
+	"side": "S",
+	"release": "107",
+	"id": "044",
+	"name": "",
+	"jpName": "吸い寄せられる天性の瞳 アイ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《芸能界》のキャラすべてに、パワーを＋1500。",
+		"【自】［(1) 手札を1枚控え室に置く］ あなたのアンコールステップの始めに、前列にこのカードがいて、相手の前列のキャラがいないか相手の前列のキャラすべてが【リバース】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、控え室に置き、相手にＸダメージを与える。Ｘはそのカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"芸能界",
+		"アイドル"
+	],
+	"version": "3",
+	"cardcode": "OSK/S107-044",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_044.png",
+	"tags": null
+}
