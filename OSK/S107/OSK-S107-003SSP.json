@@ -1,0 +1,35 @@
+{
+	"set": "OSK",
+	"setName": "【推しの子】",
+	"side": "S",
+	"release": "107",
+	"id": "003SSP",
+	"name": "",
+	"jpName": "\"B小町\"MEMちょ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのキャラすべてが《芸能界》なら、このカードのパワーを＋1000。",
+		"【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が3以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚選び、手札に加え、残りのカードを山札の上に好きな順番で置く。』『［手札を1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《芸能界》のキャラを1枚選び、手札に戻す。』"
+	],
+	"specialAttrib": [
+		"芸能界",
+		"アイドル"
+	],
+	"version": "3",
+	"cardcode": "OSK/S107-003SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_003ssp.png",
+	"tags": null
+}

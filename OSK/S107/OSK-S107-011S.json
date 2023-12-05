@@ -1,0 +1,32 @@
+{
+	"set": "OSK",
+	"setName": "【推しの子】",
+	"side": "S",
+	"release": "107",
+	"id": "011S",
+	"name": "",
+	"jpName": "白く眩しい光 有馬かな",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、クライマックス置場にトリガーアイコンが[CHOICE]のクライマックスがあるなら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、そのターン中、このカードのパワーを＋1000。",
+		"【自】 経験 このカードがアタックした時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《芸能界》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"芸能界",
+		"女優"
+	],
+	"version": "3",
+	"cardcode": "OSK/S107-011S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_011s.png",
+	"tags": null
+}

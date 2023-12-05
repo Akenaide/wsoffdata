@@ -1,0 +1,32 @@
+{
+	"set": "OSK",
+	"setName": "【推しの子】",
+	"side": "S",
+	"release": "107",
+	"id": "001",
+	"name": "",
+	"jpName": "\"B小町\"ルビー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたは自分の《芸能界》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"芸能界",
+		"アイドル"
+	],
+	"version": "3",
+	"cardcode": "OSK/S107-001",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_001.png",
+	"tags": null
+}
