@@ -1,0 +1,35 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.2",
+	"side": "S",
+	"release": "109",
+	"id": "060SSP",
+	"name": "",
+	"jpName": "アウトドアクッキング！ 青柳冬弥",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「お腹は正直」があり、他のあなたの《音楽》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から6枚を、控え室に置き、相手に1ダメージをＸ回与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Vivid BAD SQUAD"
+	],
+	"version": "3",
+	"cardcode": "PJS/S109-060SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_060ssp.png",
+	"tags": null
+}

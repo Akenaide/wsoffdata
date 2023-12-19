@@ -1,0 +1,33 @@
+{
+	"set": "SFN",
+	"setName": "[TD]葬送のフリーレン",
+	"side": "S",
+	"release": "108",
+	"id": "T15",
+	"name": "",
+	"jpName": "清掃の依頼 フリーレン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】【カウンター】 助太刀2500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "SFN/S108-T15",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_t15.png",
+	"tags": null
+}

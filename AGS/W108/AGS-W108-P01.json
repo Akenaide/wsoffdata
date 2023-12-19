@@ -1,0 +1,32 @@
+{
+	"set": "AGS",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "108",
+	"id": "P01",
+	"name": "",
+	"jpName": "キラキラな瞳 のどか",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の《アリスギア》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		"【自】 あなたのトリガーアイコンが[COMEBACK]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+	],
+	"specialAttrib": [
+		"アリスギア",
+		"アクトレス"
+	],
+	"version": "3",
+	"cardcode": "AGS/W108-P01",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_p01.png",
+	"tags": null
+}

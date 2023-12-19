@@ -1,0 +1,34 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.2",
+	"side": "S",
+	"release": "109",
+	"id": "002",
+	"name": "",
+	"jpName": "えむ隊員は調査中！ 鳳えむ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「嵐の前のフィッシング」があり、他のあなたの《音楽》のキャラがいて、あなたの控え室のイベントが4枚以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき2回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に3ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ワンダーランズ×ショウタイム"
+	],
+	"version": "3",
+	"cardcode": "PJS/S109-002",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_002.png",
+	"tags": null
+}

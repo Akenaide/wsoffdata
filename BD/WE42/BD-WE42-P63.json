@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E42",
+	"id": "P63",
+	"name": "",
+	"jpName": "“やっぱり、ブラック”レイヤ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"RAISE A SUILEN"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-P63",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p63.png?ver=20231215",
+	"tags": null
+}

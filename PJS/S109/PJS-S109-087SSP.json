@@ -1,0 +1,34 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.2",
+	"side": "S",
+	"release": "109",
+	"id": "087SSP",
+	"name": "",
+	"jpName": "諦めたくないから 東雲絵名",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。",
+		"【自】【CXコンボ】［(2) 手札の《音楽》のキャラを1枚公開し、山札の下に置く］ このカードがアタックした時、クライマックス置場に「取り消したメッセージ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたは相手の控え室のカードを2枚まで選び、山札に戻し、相手はその山札をシャッフルする。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"25時、ナイトコードで。"
+	],
+	"version": "3",
+	"cardcode": "PJS/S109-087SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_087ssp.png",
+	"tags": null
+}

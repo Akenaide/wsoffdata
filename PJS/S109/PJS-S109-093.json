@@ -1,0 +1,36 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.2",
+	"side": "S",
+	"release": "109",
+	"id": "093",
+	"name": "",
+	"jpName": "風に舞う花びらの中で 初音ミク",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"バーチャル",
+		"シンガー",
+		"25時、ナイトコードで。"
+	],
+	"version": "3",
+	"cardcode": "PJS/S109-093",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_093.png",
+	"tags": null
+}

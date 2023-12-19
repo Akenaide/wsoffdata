@@ -1,0 +1,37 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.2",
+	"side": "S",
+	"release": "109",
+	"id": "064S",
+	"name": "",
+	"jpName": "みんなも美味しいパンケーキ！ KAITO",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てトリガーアイコンが[COMEBACK]のクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【自】 あなたのトリガーアイコンが[COMEBACK]のクライマックスがトリガーした時、あなたは相手の山札を上から1枚見て、山札の上か下に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"バーチャル",
+		"シンガー",
+		"Vivid BAD SQUAD"
+	],
+	"version": "3",
+	"cardcode": "PJS/S109-064S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_064s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E42",
+	"id": "P39",
+	"name": "",
+	"jpName": "“隣にいること”青葉モカ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「“止まらずに、前へ”美竹蘭」がいるなら、他のあなたのキャラすべてに、パワーを＋500。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Afterglow"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-P39",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p39.png?ver=20231215",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E42",
+	"id": "P66",
+	"name": "",
+	"jpName": "“勧誘、ギタリスト！”パレオ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+		"【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《RAISE A SUILEN》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"RAISE A SUILEN"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-P66",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p66.png?ver=20231215",
+	"tags": null
+}

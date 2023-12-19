@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E42",
+	"id": "P69",
+	"name": "",
+	"jpName": "“新たな幕開け”戸山香澄",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Poppin'Party"
+	],
+	"version": "3",
+	"cardcode": "BD/WE42-P69",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p69.png?ver=20231215",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.2",
+	"side": "S",
+	"release": "109",
+	"id": "031SSP",
+	"name": "",
+	"jpName": "見つけられた答え 日野森志歩",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時か「仲間を想うということ 望月穂波」の【起】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「昼休みの語らい」があり、あなたの舞台の《音楽》のキャラの持つ色の合計が4色以上なら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Leo/need"
+	],
+	"version": "3",
+	"cardcode": "PJS/S109-031SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_031ssp.png",
+	"tags": null
+}

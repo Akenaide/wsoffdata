@@ -1,0 +1,34 @@
+{
+	"set": "SFN",
+	"setName": "[TD]葬送のフリーレン",
+	"side": "S",
+	"release": "108",
+	"id": "T04",
+	"name": "",
+	"jpName": "“勇者”ヒンメル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「僕達の冒険」があり、他のあなたの、《冒険者》か《魔法》のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、《冒険者》か《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "SFN/S108-T04",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_t04.png",
+	"tags": null
+}
