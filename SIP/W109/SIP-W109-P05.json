@@ -1,0 +1,33 @@
+{
+	"set": "SIP",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "109",
+	"id": "P05",
+	"name": "",
+	"jpName": "くるくるアイス 唐 可可",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIP/W109-P05",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sip_w109/sip_w109_p05.png",
+	"tags": null
+}
