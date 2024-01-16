@@ -1,0 +1,35 @@
+{
+	"set": "RSK",
+	"setName": "リアセカイ",
+	"side": "S",
+	"release": "E44",
+	"id": "42",
+	"name": "",
+	"jpName": "アウトドア リサ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《メルヴァニア》か《リアル》のキャラが4枚以上なら、このカードのパワーを＋6000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《メルヴァニア》か《リアル》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《メルヴァニア》か《リアル》のキャラが4枚以上なら、あなたは自分の控え室の、《メルヴァニア》か《リアル》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"メルヴァニア",
+		"トレジャーハンター"
+	],
+	"version": "3",
+	"cardcode": "RSK/SE44-42",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_42.png",
+	"tags": null
+}

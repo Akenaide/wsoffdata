@@ -1,0 +1,35 @@
+{
+	"set": "RSK",
+	"setName": "リアセカイ",
+	"side": "S",
+	"release": "E44",
+	"id": "08",
+	"name": "",
+	"jpName": "雑貨店の娘 ミヤビ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《メルヴァニア》か《リアル》のキャラすべてに、パワーを＋1000。",
+		"【自】［(2) 手札を1枚控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－2。",
+		"【起】 共鳴 ［手札の「冒険者 ナルミ」を1枚公開し、このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"メルヴァニア",
+		"姉"
+	],
+	"version": "3",
+	"cardcode": "RSK/SE44-08",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_08.png",
+	"tags": null
+}

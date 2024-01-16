@@ -1,0 +1,34 @@
+{
+	"set": "RSK",
+	"setName": "リアセカイ",
+	"side": "S",
+	"release": "E44",
+	"id": "25",
+	"name": "",
+	"jpName": "ぶっきらぼうな優しさ ブラッド",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《メルヴァニア》か《リアル》のキャラがいるなら、そのターン中、このカードのパワーを＋4000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《メルヴァニア》か《リアル》のキャラが4枚以上なら、あなたは自分の控え室の、《メルヴァニア》か《リアル》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"メルヴァニア",
+		"商人"
+	],
+	"version": "3",
+	"cardcode": "RSK/SE44-25",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_25.png",
+	"tags": null
+}

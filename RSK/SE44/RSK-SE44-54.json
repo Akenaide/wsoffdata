@@ -1,0 +1,35 @@
+{
+	"set": "RSK",
+	"setName": "リアセカイ",
+	"side": "S",
+	"release": "E44",
+	"id": "54",
+	"name": "",
+	"jpName": "筋トレ大好き ヒビキ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《メルヴァニア》か《リアル》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"メルヴァニア",
+		"筋肉"
+	],
+	"version": "3",
+	"cardcode": "RSK/SE44-54",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_54.png",
+	"tags": null
+}

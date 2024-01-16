@@ -1,0 +1,34 @@
+{
+	"set": "RSK",
+	"setName": "リアセカイ",
+	"side": "S",
+	"release": "E44",
+	"id": "31",
+	"name": "",
+	"jpName": "冒険者 ナルミ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 経験 共鳴 ［(1) 手札を1枚控え室に置き、手札のあなたのレベル置場のキャラと同じカード名のキャラを1枚公開する］ このカードがアタックした時、クライマックス置場に「僕の冒険譚」があり、他のあなたの、《メルヴァニア》か《リアル》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを－10し、次の2つの効果のうちあなたが選んだ1つを2回行う。『相手に3ダメージを与える。』『相手に4ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"メルヴァニア",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "RSK/SE44-31",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_31.png",
+	"tags": null
+}

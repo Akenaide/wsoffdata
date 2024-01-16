@@ -1,0 +1,32 @@
+{
+	"set": "RSK",
+	"setName": "リアセカイ",
+	"side": "S",
+	"release": "E44",
+	"id": "06SP",
+	"name": "",
+	"jpName": "生理指標の変化 ハジメ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《メルヴァニア》か《リアル》のキャラが2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』",
+		"【自】［他のあなたの舞台の、《メルヴァニア》か《リアル》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《メルヴァニア》か《リアル》のキャラか「法魔の鏡」なら手札に加える。（そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"メルヴァニア",
+		"錬金術"
+	],
+	"version": "3",
+	"cardcode": "RSK/SE44-06SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_06sp.png",
+	"tags": null
+}

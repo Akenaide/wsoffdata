@@ -1,0 +1,34 @@
+{
+	"set": "RSK",
+	"setName": "リアセカイ",
+	"side": "S",
+	"release": "E44",
+	"id": "10",
+	"name": "",
+	"jpName": "エルフの弓遣い チッタ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、他のあなたの、《メルヴァニア》か《リアル》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"メルヴァニア",
+		"エルフ"
+	],
+	"version": "3",
+	"cardcode": "RSK/SE44-10",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_10.png",
+	"tags": null
+}
