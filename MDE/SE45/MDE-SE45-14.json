@@ -1,0 +1,35 @@
+{
+	"set": "MDE",
+	"setName": "プレミアムブースター マクロスΔ",
+	"side": "S",
+	"release": "E45",
+	"id": "14",
+	"name": "",
+	"jpName": "“死神”メッサー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "0",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
+		"【永】 経験 あなたのレベル置場に「“死神”メッサー」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの「“歌は生命”カナメ」がいるなら、このカードは次の2つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋3000。』『【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「“死神”メッサー」を1枚選び、舞台の好きな枠に置く。』"
+	],
+	"specialAttrib": [
+		"パイロット",
+		"Δ小隊"
+	],
+	"version": "3",
+	"cardcode": "MDE/SE45-14",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mde_se45/mde_se45_14.png",
+	"tags": null
+}

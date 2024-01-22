@@ -1,0 +1,35 @@
+{
+	"set": "MDE",
+	"setName": "プレミアムブースター マクロスΔ",
+	"side": "S",
+	"release": "E45",
+	"id": "13",
+	"name": "",
+	"jpName": "いけないボーダーライン 美雲",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの山札が5枚以下かあなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、このカードのパワーを＋6000。",
+		"【自】【CXコンボ】［あなたのクライマックス置場の「いけないボーダーライン」を1枚控え室に置く］ あなたのアンコールステップの始めに、前列にこのカードがいて、他のあなたの、《音楽》か《パイロット》のキャラがいて、このカードの正面のキャラがいないか【リバース】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《音楽》か《パイロット》のキャラを2枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ワルキューレ"
+	],
+	"version": "3",
+	"cardcode": "MDE/SE45-13",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mde_se45/mde_se45_13.png",
+	"tags": null
+}

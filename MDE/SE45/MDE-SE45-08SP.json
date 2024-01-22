@@ -1,0 +1,34 @@
+{
+	"set": "MDE",
+	"setName": "プレミアムブースター マクロスΔ",
+	"side": "S",
+	"release": "E45",
+	"id": "08SP",
+	"name": "",
+	"jpName": "“歌は生命”カナメ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《音楽》か《パイロット》のキャラがいるなら、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「AXIA〜ダイスキでダイキライ〜」があるなら、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、前列のキャラのいない枠に置き、そのターン中、あなたは4回目以降のアタックができない。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ワルキューレ"
+	],
+	"version": "3",
+	"cardcode": "MDE/SE45-08SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mde_se45/mde_se45_08sp.png",
+	"tags": null
+}
