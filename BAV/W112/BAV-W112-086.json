@@ -1,0 +1,34 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "086",
+	"name": "",
+	"jpName": "棗イロハ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《キヴォトス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［手札を2枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"万魔殿"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-086",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_086.png",
+	"tags": null
+}

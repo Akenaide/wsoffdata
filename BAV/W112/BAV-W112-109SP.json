@@ -1,0 +1,35 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "109SP",
+	"name": "",
+	"jpName": "早瀬ユウカ（体操服）",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《キヴォトス》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、このカードのパワーを＋2000。",
+		"【自】 経験 ［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚までを、控え室に置き、自分の控え室のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"セミナー"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-109SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_109sp.png",
+	"tags": null
+}

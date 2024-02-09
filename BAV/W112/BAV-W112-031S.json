@@ -1,0 +1,34 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "031S",
+	"name": "",
+	"jpName": "朝顔ハナエ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《キヴォトス》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"救護騎士団"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-031S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_031s.png",
+	"tags": null
+}

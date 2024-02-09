@@ -1,0 +1,34 @@
+{
+	"set": "BAV",
+	"setName": "[TD]ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "T07",
+	"name": "",
+	"jpName": "空崎ヒナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
+		"【自】【CXコンボ】 経験 ［(3) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ゲヘナ学園風紀委員長」があり、あなたのレベル置場のカードのレベルの合計が4以上なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置き、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"風紀委員会"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-T07",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_t07.png",
+	"tags": null
+}

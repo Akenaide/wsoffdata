@@ -1,0 +1,34 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "117SP",
+	"name": "",
+	"jpName": "天童アリス",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+		"【自】【CXコンボ】［(5) 手札を3枚控え室に置く］ このカードがアタックした時、クライマックス置場に「友情と勇気と光のロマン」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000し、次の行動を2回行う。『あなたは相手の山札の下から8枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"ゲーム開発部"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-117SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_117sp.png",
+	"tags": null
+}

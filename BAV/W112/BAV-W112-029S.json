@@ -1,0 +1,35 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "029S",
+	"name": "",
+	"jpName": "栗村アイリ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《キヴォトス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたのターン中、あなたが【起】を使った時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+		"【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、次の相手のターンの終わりまで、レベルを＋1し、《チョコミント》を与える。"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"放課後スイーツ部"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-029S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_029s.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "021",
+	"name": "",
+	"jpName": "古関ウイ（水着）",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000し、《コーヒー》を与える。",
+		"【起】［(2) 他のあなたの《キヴォトス》のキャラを1枚【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"図書委員会"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-021",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_021.png",
+	"tags": null
+}

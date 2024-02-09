@@ -1,0 +1,34 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "069",
+	"name": "",
+	"jpName": "空井サキ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《キヴォトス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の、「月雪ミヤコ」か「霞沢ミユ」か「風倉モエ」を1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"RABBIT小隊"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-069",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_069.png",
+	"tags": null
+}

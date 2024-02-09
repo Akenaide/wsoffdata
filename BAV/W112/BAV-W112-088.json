@@ -1,0 +1,34 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "088",
+	"name": "",
+	"jpName": "伊草ハルカ（正月）",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "3000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
+		"【起】【CXコンボ】［このカードを【レスト】する］ あなたは自分の山札を見てクライマックスを1枚まで選んで公開し、自分の控え室の「便利屋68」を1枚選び、それらのクライマックスを入れ替え、その山札をシャッフルし、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"便利屋68"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-088",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_088.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "110SP",
+	"name": "",
+	"jpName": "小鳥遊ホシノ（水着）",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、あなたの《キヴォトス》のキャラすべてに、パワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「アビドスリゾート復旧対策委員会」があるなら、そのターン中、このカードのパワーを＋2000し、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与える。』『［手札を2枚控え室に置く］ あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"対策委員会"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-110SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_110sp.png",
+	"tags": null
+}

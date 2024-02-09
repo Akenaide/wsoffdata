@@ -1,0 +1,35 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "058S",
+	"name": "",
+	"jpName": "秤アツコ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、「槌永ヒヨリ」と「戒野ミサキ」がいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の《キヴォトス》のキャラを1枚選び、山札の下に置いてよい。",
+		"【自】［手札を1枚控え室に置く］ 相手のターン中、バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"アリウススクワッド"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-058S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_058s.png",
+	"tags": null
+}

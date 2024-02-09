@@ -1,0 +1,34 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ",
+	"side": "W",
+	"release": "112",
+	"id": "003SP",
+	"name": "",
+	"jpName": "聖園ミカ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《キヴォトス》のキャラの枚数に等しい。",
+		"【自】 経験 ［手札を2枚控え室に置く］ このカードがアタックした時、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、あなたは相手の山札の下から4枚を、控え室に置き、相手に1ダメージをＸ回与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"ティーパーティー"
+	],
+	"version": "3",
+	"cardcode": "BAV/W112-003SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_003sp.png",
+	"tags": null
+}
