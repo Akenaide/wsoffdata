@@ -1,0 +1,30 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "021",
+	"name": "",
+	"jpName": "さくらカード",
+	"cardType": "EV",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"このカードは、あなたのカード名に「桜」を含むキャラがいないなら、手札からプレイできない。次の2つの効果のうちあなたが選んだ1つを行う。",
+		"『あなたの《Anniversary》のキャラがいるなら、あなたは1枚引く。』",
+		"『あなたは相手のレベル1以上のキャラを1枚選び、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替え、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。Ｘはこの効果であなたが選んだ相手のキャラのレベル－1に等しい。』"
+	],
+	"specialAttrib": [],
+	"version": "3",
+	"cardcode": "CCS/W113-021",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_021.png",
+	"tags": null
+}

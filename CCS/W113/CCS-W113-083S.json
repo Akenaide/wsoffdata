@@ -1,0 +1,34 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "083S",
+	"name": "",
+	"jpName": "“ひつじ注意報”木之本桜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの《Anniversary》のキャラすべてに、パワーを＋500。",
+		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の山札を上から3枚まで見て、イベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+		"【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"さくらカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-083S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_083s.png",
+	"tags": null
+}

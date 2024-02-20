@@ -1,0 +1,35 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "020",
+	"name": "",
+	"jpName": "木之本藤隆＆木之本桃矢＆木之本桜",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは相手の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"クロウカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-020",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_020.png",
+	"tags": null
+}

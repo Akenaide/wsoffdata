@@ -1,0 +1,35 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "009",
+	"name": "",
+	"jpName": "“すてきなクリスマス”木之本桜",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《Anniversary》のキャラの枚数に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラが4枚以上なら、あなたは自分の山札の上から1枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋4500。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"さくらカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-009",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_009.png",
+	"tags": null
+}

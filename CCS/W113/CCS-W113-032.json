@@ -1,0 +1,35 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "032",
+	"name": "",
+	"jpName": "“与えられた使命”木之本桜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを山札の上に好きな順番で置き、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"クロウカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-032",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_032.png",
+	"tags": null
+}

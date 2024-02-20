@@ -1,0 +1,35 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "096",
+	"name": "",
+	"jpName": "“想いを抱きしめて”木之本桜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《Anniversary》のキャラが4枚以上なら、このカードのパワーを＋6000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"さくらカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-096",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_096.png",
+	"tags": null
+}

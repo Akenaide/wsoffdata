@@ -1,0 +1,35 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "027S",
+	"name": "",
+	"jpName": "“内緒話”木之本桜",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「みんなと一緒なら」があり、他のあなたの《Anniversary》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与える。』『［(2)］ あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラはプレイヤーにダメージを与えることができない。』』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"さくらカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-027S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_027s.png",
+	"tags": null
+}

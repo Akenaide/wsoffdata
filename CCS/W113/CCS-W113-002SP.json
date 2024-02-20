@@ -1,0 +1,36 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "002SP",
+	"name": "",
+	"jpName": "“守護者”ケロちゃん",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《Anniversary》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、このカードのパワーを＋3000。",
+		"【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場の異なるカード名の「クロウカード」か「さくらカード」か「固着」が2枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』『あなたは自分のクロックの上から好きな枚数を、控え室に置き、あなたに1ダメージをＸ回与える。Ｘはこの効果で控え室に置かれたカードの枚数に等しい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"さくらカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-002SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_002sp.png",
+	"tags": null
+}

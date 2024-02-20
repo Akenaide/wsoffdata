@@ -1,0 +1,36 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "005",
+	"name": "",
+	"jpName": "“カードキャプター誕生”木之本桜",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列の中央の枠の「“歩んだ軌跡” 木之本桜」に、パワーを＋1500し、『【自】 アンコール ［手札の《Anniversary》のキャラを1枚控え室に置く］』を与える。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"クロウカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-005",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_005.png",
+	"tags": null
+}

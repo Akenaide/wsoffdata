@@ -1,0 +1,33 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "058",
+	"name": "",
+	"jpName": "“影を照らす魔法”木之本桜",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+		"【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを山札の下に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、《Anniversary》のキャラかイベントを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"さくらカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-058",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_058.png",
+	"tags": null
+}

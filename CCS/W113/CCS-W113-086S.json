@@ -1,0 +1,35 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "086S",
+	"name": "",
+	"jpName": "“なかよし”木之本桜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《Anniversary》のキャラが2枚以上なら、このカードのパワーを＋8000。",
+		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードのパワーを＋2000。』『【永】 大活躍』"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"クロウカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-086S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_086s.png",
+	"tags": null
+}

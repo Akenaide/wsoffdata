@@ -1,0 +1,36 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "003",
+	"name": "",
+	"jpName": "“歩んだ軌跡” 木之本桜",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 経験 ［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「大いなる力」があるなら、あなたはコストを払ってよい。そうしたら、あなたのレベル置場の異なるカード名の「クロウカード」か「さくらカード」か「固着」が2枚以上なら、相手に2ダメージを与え、3枚以上なら、あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"クリアカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-003",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_003.png",
+	"tags": null
+}

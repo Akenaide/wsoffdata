@@ -1,0 +1,35 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "060",
+	"name": "",
+	"jpName": "“親友のために”大道寺知世",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "5500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【自】【CXコンボ】［(1) あなたのクライマックス置場の「かけがえのないお友達」を1枚控え室に置く］ あなたのクライマックスフェイズ中、このカードが「かけがえのないお友達」の効果で舞台に置かれた時、他のあなたの《Anniversary》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル2以下の《Anniversary》のキャラを1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"クリアカード編",
+		"カメラ"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-060",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_060.png",
+	"tags": null
+}

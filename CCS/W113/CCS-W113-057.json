@@ -1,0 +1,35 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "057",
+	"name": "",
+	"jpName": "“Catch You Catch Me”木之本桜",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《Anniversary》のキャラすべてに、パワーを＋1500。",
+		"【自】【CXコンボ】 経験 あなたのクライマックス置場に「カードキャプター始動！」が置かれた時、前列にこのカードがいて、あなたのレベル置場に「クロウカード」と「さくらカード」と「固着」があり、他のあなたの《Anniversary》のキャラが2枚以上なら、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードは次の能力を得る。『【自】［(1)］ このカードがダイレクトアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から3枚まで見て、カードを3枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。』"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"クロウカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-057",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_057.png",
+	"tags": null
+}

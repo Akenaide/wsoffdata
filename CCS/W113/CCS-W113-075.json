@@ -1,0 +1,35 @@
+{
+	"set": "CCS",
+	"setName": "カードキャプターさくら 25th Anniversary",
+	"side": "W",
+	"release": "113",
+	"id": "075",
+	"name": "",
+	"jpName": "“チア活動”木之本桜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場の異なるカード名の「クロウカード」か「さくらカード」か「固着」が2枚以上なら、そのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』3枚以上なら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+		"【自】【CXコンボ】［(1) 手札を3枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「新作衣装撮影会」があるなら、あなたはコストを払ってよい。そうしたら、他のあなたの「“チア活動”木之本桜」すべてを【スタンド】する。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"クリアカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-075",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_075.png",
+	"tags": null
+}
