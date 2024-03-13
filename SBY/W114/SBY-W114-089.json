@@ -1,0 +1,33 @@
+{
+	"set": "SBY",
+	"setName": "ブースターパック 『青春ブタ野郎』シリーズ",
+	"side": "W",
+	"release": "114",
+	"id": "089",
+	"name": "",
+	"jpName": "母に向き合う 梓川 咲太",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。",
+		"【自】［(3) 手札を1枚控え室に置く］ このカードのアタックの終わりに、他のあなたの前列の「未来への約束 桜島 麻衣」がいるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"思春期"
+	],
+	"version": "3",
+	"cardcode": "SBY/W114-089",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_089.png",
+	"tags": null
+}

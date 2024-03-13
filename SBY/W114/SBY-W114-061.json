@@ -1,0 +1,34 @@
+{
+	"set": "SBY",
+	"setName": "ブースターパック 『青春ブタ野郎』シリーズ",
+	"side": "W",
+	"release": "114",
+	"id": "061",
+	"name": "",
+	"jpName": "大学合格 桜島 麻衣",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 記憶 このカードがアタックした時、あなたの思い出置場の異なるカード名のカードが2枚以上なら、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1500に等しい。",
+		"【起】［【スタンド】しているこのカードを思い出にする］ あなたは自分の山札を見て「君と過ごした一年間 桜島 麻衣」か「不可思議のカルテ 桜島 麻衣」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"思春期",
+		"料理"
+	],
+	"version": "3",
+	"cardcode": "SBY/W114-061",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_061.png",
+	"tags": null
+}

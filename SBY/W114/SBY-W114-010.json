@@ -1,0 +1,35 @@
+{
+	"set": "SBY",
+	"setName": "ブースターパック 『青春ブタ野郎』シリーズ",
+	"side": "W",
+	"release": "114",
+	"id": "010",
+	"name": "",
+	"jpName": "二人の想い抱きしめて 梓川 花楓",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの手札の「のこされた夢」のコストを－1。",
+		"【永】 他のあなたのすべての領域の「のこされた夢」のトリガーアイコンに[SOUL]を与える。",
+		"【永】 応援 このカードの前のあなたの《思春期》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+	],
+	"specialAttrib": [
+		"思春期",
+		"動物"
+	],
+	"version": "3",
+	"cardcode": "SBY/W114-010",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_010.png",
+	"tags": null
+}

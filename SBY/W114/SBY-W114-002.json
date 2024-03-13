@@ -1,0 +1,35 @@
+{
+	"set": "SBY",
+	"setName": "ブースターパック 『青春ブタ野郎』シリーズ",
+	"side": "W",
+	"release": "114",
+	"id": "002",
+	"name": "",
+	"jpName": "踊る気持ち 豊浜 のどか",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの後列の《思春期》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』『相手は自分の山札の上から10枚を、控え室に置き、そのターン中、このカードのパワーを＋3000。』"
+	],
+	"specialAttrib": [
+		"思春期",
+		"オシャレ"
+	],
+	"version": "3",
+	"cardcode": "SBY/W114-002",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_002.png",
+	"tags": null
+}

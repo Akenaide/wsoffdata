@@ -1,0 +1,34 @@
+{
+	"set": "SBY",
+	"setName": "ブースターパック 『青春ブタ野郎』シリーズ",
+	"side": "W",
+	"release": "114",
+	"id": "054",
+	"name": "",
+	"jpName": "未来への約束 桜島 麻衣",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 このカードが手札から舞台に置かれた時か「届いた想い」の効果で舞台に置かれた時、あなたは自分の控え室の「いつか家族に」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「いつか家族に」があり、他のあなたの《思春期》のキャラがいるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードの正面のキャラがアタックした時、次の行動を3回行う。『あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』』"
+	],
+	"specialAttrib": [
+		"思春期",
+		"料理"
+	],
+	"version": "3",
+	"cardcode": "SBY/W114-054",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_054.png",
+	"tags": null
+}

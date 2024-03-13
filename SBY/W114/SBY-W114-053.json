@@ -1,0 +1,35 @@
+{
+	"set": "SBY",
+	"setName": "ブースターパック 『青春ブタ野郎』シリーズ",
+	"side": "W",
+	"release": "114",
+	"id": "053",
+	"name": "",
+	"jpName": "二人きりのお泊り 桜島 麻衣",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《思春期》のキャラが4枚以上なら、あなたは自分の控え室の《思春期》のキャラを1枚選び、ストック置場に置いてよい。",
+		"【自】 記憶 あなたのトリガーアイコンが[COMEBACK]のクライマックスがトリガーした時、あなたの思い出置場の異なるカード名のカードが2枚以上なら、あなたは相手の山札を上から1枚見て、山札の上か下に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"思春期",
+		"料理"
+	],
+	"version": "3",
+	"cardcode": "SBY/W114-053",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_053.png",
+	"tags": null
+}
