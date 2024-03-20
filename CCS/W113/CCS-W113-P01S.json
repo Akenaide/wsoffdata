@@ -1,0 +1,35 @@
+{
+	"set": "CCS",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "113",
+	"id": "P01S",
+	"name": "",
+	"jpName": "“いってきまーす！”木之本桜",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは、色条件を満たさずに手札からプレイできる。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「クロウカード」か「さくらカード」か「固着」を1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"クロウカード編",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "CCS/W113-P01S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_p01s.png",
+	"tags": null
+}

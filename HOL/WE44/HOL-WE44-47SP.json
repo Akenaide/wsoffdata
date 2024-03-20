@@ -1,0 +1,35 @@
+{
+	"set": "HOL",
+	"setName": "プレミアムブースター ホロライブプロダクション Summer Collection",
+	"side": "W",
+	"release": "E44",
+	"id": "47SP",
+	"name": "",
+	"jpName": "Summer Splash Party! アユンダ・リス",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの「未来へと踏み出す一歩 アユンダ・リス」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。",
+		"【起】［このカードを【レスト】する］ あなたは自分の「未来へと踏み出す一歩 アユンダ・リス」を1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"ホロライブインドネシア1期生"
+	],
+	"version": "3",
+	"cardcode": "HOL/WE44-47SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we44/hol_we44_47sp.png",
+	"tags": null
+}

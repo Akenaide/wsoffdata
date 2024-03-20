@@ -1,0 +1,35 @@
+{
+	"set": "HOL",
+	"setName": "プレミアムブースター ホロライブプロダクション Summer Collection",
+	"side": "W",
+	"release": "E44",
+	"id": "33HLP",
+	"name": "",
+	"jpName": "Summer Splash Party! 赤井はあと",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "HLP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の手札の「赤井はあと」を1枚まで選び、このカードがいた枠に置く。』",
+		"【永】 応援 このカードの前のあなたの《ホロライブ》のキャラすべてに、パワーを＋1000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"1期生"
+	],
+	"version": "3",
+	"cardcode": "HOL/WE44-33HLP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we44/hol_we44_33hlp.png",
+	"tags": null
+}

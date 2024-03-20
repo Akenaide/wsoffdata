@@ -1,0 +1,35 @@
+{
+	"set": "HOL",
+	"setName": "プレミアムブースター ホロライブプロダクション Summer Collection",
+	"side": "W",
+	"release": "E44",
+	"id": "48HLP",
+	"name": "",
+	"jpName": "Summer Splash Party! 湊あくあ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "HLP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ あなたのクライマックスフェイズ中、クライマックス置場に「休日ゲーム」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「未来へ一緒に 湊あくあ」を1枚まで選び、舞台の好きな枠に置く。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"2期生"
+	],
+	"version": "3",
+	"cardcode": "HOL/WE44-48HLP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we44/hol_we44_48hlp.png",
+	"tags": null
+}

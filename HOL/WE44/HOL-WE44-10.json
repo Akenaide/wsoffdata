@@ -1,0 +1,35 @@
+{
+	"set": "HOL",
+	"setName": "プレミアムブースター ホロライブプロダクション Summer Collection",
+	"side": "W",
+	"release": "E44",
+	"id": "10",
+	"name": "",
+	"jpName": "Summer Splash Party! 大空スバル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのトリガーアイコンが[CHOICE]のクライマックスがトリガーした時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+		"【起】［手札の「夏の思い出 大空スバル」を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"2期生"
+	],
+	"version": "3",
+	"cardcode": "HOL/WE44-10",
+	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we44/hol_we44_10.png",
+	"tags": null
+}
