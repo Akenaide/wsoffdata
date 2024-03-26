@@ -1,0 +1,35 @@
+{
+	"set": "HOL",
+	"setName": "プレミアムセット ホロライブプロダクション feat.ヴァイスシュヴァルツアンバサダー",
+	"side": "W",
+	"release": "E45",
+	"id": "T09",
+	"name": "",
+	"jpName": "Happy 15th Anniversary !!  さくらみこ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "3500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《ホロライブ》のキャラが2枚以上なら、このカードのパワーを＋7000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《ホロライブ》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"ホロライブ",
+		"0期生"
+	],
+	"version": "3",
+	"cardcode": "HOL/WE45-T09",
+	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we45/hol_we45_t09.png",
+	"tags": null
+}
