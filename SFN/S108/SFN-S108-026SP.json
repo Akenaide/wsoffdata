@@ -1,0 +1,34 @@
+{
+	"set": "SFN",
+	"setName": "葬送のフリーレン",
+	"side": "S",
+	"release": "108",
+	"id": "026SP",
+	"name": "",
+	"jpName": "断頭台のアウラ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「服従の天秤」が置かれた時、前列にこのカードがいて、他のあなたの、《冒険者》か《魔法》のキャラが4枚以上なら、あなたはこのカードの正面のキャラを1枚選び、このカードのパワーより選んだキャラのパワーが低いなら、そのキャラをクロック置場に置く。高いなら、このカードをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"魔族"
+	],
+	"version": "3",
+	"cardcode": "SFN/S108-026SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_026sp.png",
+	"tags": null
+}

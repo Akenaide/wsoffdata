@@ -1,0 +1,30 @@
+{
+	"set": "SFN",
+	"setName": "葬送のフリーレン",
+	"side": "S",
+	"release": "108",
+	"id": "106S",
+	"name": "",
+	"jpName": "甘い葡萄を酸っぱい葡萄に変える魔法",
+	"cardType": "EV",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"このカードは、あなたの、《冒険者》か《魔法》のキャラがいないなら、手札からプレイできない。",
+		"あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。",
+		"このカードをストック置場に置く。"
+	],
+	"specialAttrib": [],
+	"version": "3",
+	"cardcode": "SFN/S108-106S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_106s.png",
+	"tags": null
+}

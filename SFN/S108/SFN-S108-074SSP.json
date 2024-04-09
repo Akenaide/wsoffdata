@@ -1,0 +1,34 @@
+{
+	"set": "SFN",
+	"setName": "葬送のフリーレン",
+	"side": "S",
+	"release": "108",
+	"id": "074SSP",
+	"name": "",
+	"jpName": "一番好きな魔法 フリーレン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「勇者」があり、あなたの控え室のカード名に「魔法」を含むイベントが3枚以上なら、次の3つの効果のうちあなたが選んだ1つを行う。『相手は自分の山札の上から12枚を、控え室に置き、そのターン中、このカードのパワーを＋1500。』『あなたは相手の山札を上から2枚まで見て、カードを1枚まで選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。』『［手札を2枚控え室に置く］ あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "SFN/S108-074SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_074ssp.png",
+	"tags": null
+}

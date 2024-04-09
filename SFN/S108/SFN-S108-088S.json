@@ -1,0 +1,34 @@
+{
+	"set": "SFN",
+	"setName": "葬送のフリーレン",
+	"side": "S",
+	"release": "108",
+	"id": "088S",
+	"name": "",
+	"jpName": "関所の通行 フリーレン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の、《冒険者》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室のイベントの枚数×1500に等しい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "SFN/S108-088S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_088s.png",
+	"tags": null
+}

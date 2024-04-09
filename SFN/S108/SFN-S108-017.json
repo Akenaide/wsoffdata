@@ -1,0 +1,33 @@
+{
+	"set": "SFN",
+	"setName": "葬送のフリーレン",
+	"side": "S",
+	"release": "108",
+	"id": "017",
+	"name": "",
+	"jpName": "勇者一行の像",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードはアタックできない。",
+		"【永】 記憶 思い出置場にこのカードがあり、このターン中、あなたが「旅立ちのきっかけ ヒンメル」をプレイしていないなら、あなたの手札の「旅立ちのきっかけ ヒンメル」のコストを－1。",
+		"【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の、「“勇者”ヒンメル」か「“故郷の花” フリーレン＆ヒンメル」を1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "SFN/S108-017",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_017.png",
+	"tags": null
+}

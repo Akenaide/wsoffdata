@@ -1,0 +1,33 @@
+{
+	"set": "SFN",
+	"setName": "葬送のフリーレン",
+	"side": "S",
+	"release": "108",
+	"id": "090S",
+	"name": "",
+	"jpName": "師匠との食事 フェルン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 あなたのキャラの与えたダメージがキャンセルされた時、そのターン中、あなたのキャラの与えた他のダメージがキャンセルされているなら、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして表向きに置く。",
+		"【自】 このカードの下にマーカーが置かれた時、このカードの下のマーカーが3枚以上なら、このカードを控え室に置く。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "SFN/S108-090S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_090s.png",
+	"tags": null
+}

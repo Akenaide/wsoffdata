@@ -1,0 +1,32 @@
+{
+	"set": "SFN",
+	"setName": "葬送のフリーレン",
+	"side": "S",
+	"release": "108",
+	"id": "077",
+	"name": "",
+	"jpName": "北側諸国での日々 フェルン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 この能力は1ターンにつき3回まで発動する。あなたの、メインフェイズ中かアタックフェイズ中、あなたがカードを引いた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		"【自】 あなたのアンコールステップの始めに、クライマックス置場にトリガーアイコンが[DRAW]のクライマックスがあり、他のあなたの「北側諸国での日々 フェルン」がいないなら、あなたは1枚引いてよい。"
+	],
+	"specialAttrib": [
+		"冒険者",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "SFN/S108-077",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_077.png",
+	"tags": null
+}
