@@ -1,0 +1,35 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "016WIR",
+	"name": "",
+	"jpName": "エレガンスオブホワイト 小宮果穂",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "WIR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクライマックス置場にトリガーアイコンが[SHOT]を得る。",
+		"【永】 他のあなたの前列の中央の枠のカード名に「果穂」か「智代子」か「樹里」か「凛世」か「夏葉」を含むキャラに、パワーを＋1000。",
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"放課後クライマックスガールズ"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-016WIR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_016wir.png",
+	"tags": null
+}

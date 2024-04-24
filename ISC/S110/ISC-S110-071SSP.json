@@ -1,0 +1,35 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "071SSP",
+	"name": "",
+	"jpName": "Have a bad day♥ 田中摩美々",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、手札に戻してよい。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から3枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
+		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"アンティーカ"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-071SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_071ssp.png",
+	"tags": null
+}

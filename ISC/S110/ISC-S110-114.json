@@ -1,0 +1,35 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "114",
+	"name": "",
+	"jpName": "はじけてスマイル 櫻木真乃",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋1000し、このカードは相手の効果に選ばれない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"イルミネーションスターズ"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-114",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_114.png",
+	"tags": null
+}

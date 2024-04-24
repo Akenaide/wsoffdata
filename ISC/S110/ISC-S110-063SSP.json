@@ -1,0 +1,35 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "063SSP",
+	"name": "",
+	"jpName": "縷・縷・屡・来 幽谷霧子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(3) 手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「煌・煌・星・娘」があり、他のあなたの『アラーム』か『シフト』を持つキャラがいるなら、相手に1ダメージを与え、あなたはコストを払ってよい。コストを払ったなら、相手に3ダメージを与え、そのターン中、このカードのパワーを＋1000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"アンティーカ"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-063SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_063ssp.png",
+	"tags": null
+}

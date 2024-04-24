@@ -1,0 +1,35 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "083WIR",
+	"name": "",
+	"jpName": "確認は必須 芹沢あさひ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "WIR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 アンコール ［手札の《音楽》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ストレイライト"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-083WIR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_083wir.png",
+	"tags": null
+}

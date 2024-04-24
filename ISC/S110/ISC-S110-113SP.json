@@ -1,0 +1,35 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "113SP",
+	"name": "",
+	"jpName": "うちのリボンは恋結び 月岡恋鐘",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1500。",
+		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の青のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
+		"【起】［手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"アンティーカ"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-113SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_113sp.png",
+	"tags": null
+}

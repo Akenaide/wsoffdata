@@ -1,0 +1,35 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "070SP",
+	"name": "",
+	"jpName": "CONTRAIL 緋田美琴",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、自分の控え室の「↓ろウTea 七草にちか」を1枚まで選び、このカードの下にマーカーとして表向きに置く。",
+		"【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「短二度、一番線」があるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードのマーカーの「↓ろウTea 七草にちか」を1枚とこのカードを選び、入れ替える。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"シーズ"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-070SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_070sp.png",
+	"tags": null
+}

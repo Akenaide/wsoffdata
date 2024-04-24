@@ -1,0 +1,35 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "003",
+	"name": "",
+	"jpName": "Noisy Rush 斑鳩ルカ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「杖たちの足跡」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、次の相手のターンの終わりまで、このカードのパワーを＋2000。（ダメージキャンセルは発生する）",
+		"【自】 経験 ［(1)］ このカードのバトル相手が【リバース】した時、あなたのレベル置場の裏向きのカードが3枚なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"コメティック"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-003",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_003.png",
+	"tags": null
+}

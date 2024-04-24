@@ -1,0 +1,35 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "031OFR",
+	"name": "",
+	"jpName": "↓ろウTea 七草にちか",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "OFR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時か「CONTRAIL 緋田美琴」の【CXコンボ】の効果で舞台に置かれた時、あなたは自分の控え室の「CONTRAIL 緋田美琴」を1枚まで選び、このカードの下にマーカーとして表向きに置き、自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻す。",
+		"【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「短二度、一番線」があり、このカードの下にマーカーがあるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与え、そのターン中、このカードのパワーを＋2000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"シーズ"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-031OFR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_031ofr.png",
+	"tags": null
+}

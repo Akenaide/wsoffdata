@@ -1,0 +1,35 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "109SSP",
+	"name": "",
+	"jpName": "Eyes On You 鈴木羽那",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「Noisy Rush 斑鳩ルカ」すべてに、パワーを＋1000。",
+		"【永】 他のあなたの「Hopeland 郁田はるき」がいるなら、他のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［手札を1枚控え室に置き、あなたのレベル置場の表向きのカードを1枚裏向きにし、このカードを【レスト】する］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"コメティック"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-109SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_109ssp.png",
+	"tags": null
+}

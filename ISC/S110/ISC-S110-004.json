@@ -1,0 +1,34 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "004",
+	"name": "",
+	"jpName": "たそかれスワッグ 八宮めぐる",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋1000。",
+		"【自】 経験 ［(2) 手札を1枚控え室に置く］ このカードがアタックした時、あなたのレベル置場のカードの持つ色の合計が3色以上で、他のあなたのキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを2回与える。』『相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"イルミネーションスターズ"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-004",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_004.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "124WIR",
+	"name": "",
+	"jpName": "一筆入魂 風野灯織",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "WIR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの右の枠の《音楽》のキャラに、パワーを＋1000。",
+		"【自】 経験 ［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場に、黄のカードと赤のカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"イルミネーションスターズ"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-124WIR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_124wir.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "ISC",
+	"setName": "[TD]アイドルマスター シャイニーカラーズ 283プロ シーズ",
+	"side": "S",
+	"release": "110",
+	"id": "T14R",
+	"name": "",
+	"jpName": "ビヨンドザブルースカイ 緋田美琴",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"シーズ"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-T14R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_t14r.png",
+	"tags": null
+}

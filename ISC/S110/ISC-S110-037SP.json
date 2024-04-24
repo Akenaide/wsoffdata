@@ -1,0 +1,34 @@
+{
+	"set": "ISC",
+	"setName": "アイドルマスター シャイニーカラーズ Shine More!",
+	"side": "S",
+	"release": "110",
+	"id": "037SP",
+	"name": "",
+	"jpName": "空と青とアイツ 芹沢あさひ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】［このカードをストック置場に置く］ あなたのクライマックスフェイズ中、クライマックス置場に「秋の実りの配達係」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「Housekeeping! 芹沢あさひ」を1枚まで選び、このカードがいた枠に置き、その山札をシャッフルし、そのターン中、そのキャラのパワーを＋5000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ストレイライト"
+	],
+	"version": "3",
+	"cardcode": "ISC/S110-037SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_037sp.png",
+	"tags": null
+}
