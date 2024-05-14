@@ -1,0 +1,32 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ３ リロード",
+	"side": "S",
+	"release": "E46",
+	"id": "01PER",
+	"name": "",
+	"jpName": "季節外れの転校生 望月 綾時",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "PER",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの、《リロード》か《魔法》か《武器》のキャラが3枚以上なら、あなたのCXフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"リロード",
+		"死"
+	],
+	"version": "3",
+	"cardcode": "P3/SE46-01PER",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_01per.png",
+	"tags": null
+}

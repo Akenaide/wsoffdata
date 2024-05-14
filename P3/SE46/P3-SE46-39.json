@@ -1,0 +1,35 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ３ リロード",
+	"side": "S",
+	"release": "E46",
+	"id": "39",
+	"name": "",
+	"jpName": "アルカナ“剛毅” コロマル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 相手が『集中』を使った時、その効果でCXが控え室に置かれたなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"リロード",
+		"動物",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "P3/SE46-39",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_39.png",
+	"tags": null
+}

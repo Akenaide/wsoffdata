@@ -1,0 +1,33 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ３ リロード",
+	"side": "S",
+	"release": "E46",
+	"id": "10",
+	"name": "",
+	"jpName": "“対シャドウ特別制圧兵装七式”アイギス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《リロード》か《魔法》か《武器》のキャラの枚数×500に等しい。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「TARGET NEUTRALIZED.」があり、他のあなたの、《リロード》か《魔法》か《武器》のキャラがいるなら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《リロード》か《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+	],
+	"specialAttrib": [
+		"リロード",
+		"メカ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "P3/SE46-10",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_10.png",
+	"tags": null
+}

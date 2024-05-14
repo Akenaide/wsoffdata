@@ -1,0 +1,35 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ３ リロード",
+	"side": "S",
+	"release": "E46",
+	"id": "38",
+	"name": "",
+	"jpName": "アルカナ“魔術師” 伊織 順平",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場に「“ストレガ”チドリ」があるなら、このカードのパワーを＋4500。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《リロード》か《魔法》か《武器》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"リロード",
+		"魔法",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "P3/SE46-38",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_38.png",
+	"tags": null
+}

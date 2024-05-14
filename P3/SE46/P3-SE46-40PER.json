@@ -1,0 +1,35 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ３ リロード",
+	"side": "S",
+	"release": "E46",
+	"id": "40PER",
+	"name": "",
+	"jpName": "“S.E.E.S.”真田 明彦",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "PER",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置く。他のあなたの、《リロード》か《魔法》か《武器》のキャラが4枚以上なら、控え室に置くかわりにストック置場に置いてよい。",
+		"【自】【CXコンボ】［(1) 手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「ON TO THE NEXT BOUT.」があり、あなたのキャラすべてが《リロード》なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。このダメージで公開されたレベル1以上のカードすべては、このダメージがキャンセルされてもクロック置場に公開された順番で置く。（CXのレベルは0として扱う。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"リロード",
+		"魔法",
+		"スポーツ"
+	],
+	"version": "3",
+	"cardcode": "P3/SE46-40PER",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_40per.png",
+	"tags": null
+}

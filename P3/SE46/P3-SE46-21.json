@@ -1,0 +1,34 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ３ リロード",
+	"side": "S",
+	"release": "E46",
+	"id": "21",
+	"name": "",
+	"jpName": "“S.E.E.S.”伊織 順平",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		"【自】 あなたがレベルアップした時、あなたはこのカードの下のマーカーをすべて控え室に置く。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、このカードの下にマーカーとして裏向きに置き、自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこのカードの下のマーカーの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"リロード",
+		"魔法",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "P3/SE46-21",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_21.png",
+	"tags": null
+}

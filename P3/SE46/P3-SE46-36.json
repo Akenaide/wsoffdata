@@ -1,0 +1,35 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ３ リロード",
+	"side": "S",
+	"release": "E46",
+	"id": "36",
+	"name": "",
+	"jpName": "真次郎＆カストール リロード",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを思い出にする］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"リロード",
+		"スポーツ",
+		"神"
+	],
+	"version": "3",
+	"cardcode": "P3/SE46-36",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_36.png",
+	"tags": null
+}

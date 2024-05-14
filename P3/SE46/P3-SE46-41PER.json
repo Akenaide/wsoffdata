@@ -1,0 +1,35 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ３ リロード",
+	"side": "S",
+	"release": "E46",
+	"id": "41PER",
+	"name": "",
+	"jpName": "“ストレガ”タカヤ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PER",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(3) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたは相手の控え室のカードを1枚まで選び、山札の上に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"リロード",
+		"魔法",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "P3/SE46-41PER",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_41per.png",
+	"tags": null
+}

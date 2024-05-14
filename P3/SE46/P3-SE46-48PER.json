@@ -1,0 +1,33 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ３ リロード",
+	"side": "S",
+	"release": "E46",
+	"id": "48PER",
+	"name": "",
+	"jpName": "風花＆ルキア リロード",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "PER",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室の、《リロード》か《魔法》か《武器》のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"リロード",
+		"魔法",
+		"神"
+	],
+	"version": "3",
+	"cardcode": "P3/SE46-48PER",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_48per.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ３ リロード",
+	"side": "S",
+	"release": "E46",
+	"id": "11SP",
+	"name": "",
+	"jpName": "最後の戦い 主人公",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにCXがあるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置いてよい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"リロード",
+		"魔法",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "P3/SE46-11SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_11sp.png",
+	"tags": null
+}

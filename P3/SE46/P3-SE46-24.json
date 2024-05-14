@@ -1,0 +1,33 @@
+{
+	"set": "P3",
+	"setName": "ペルソナ３ リロード",
+	"side": "S",
+	"release": "E46",
+	"id": "24",
+	"name": "",
+	"jpName": "“ストレガ”チドリ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－500。",
+		"【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、《リロード》か《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"リロード",
+		"魔法",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "P3/SE46-24",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_24.png",
+	"tags": null
+}
