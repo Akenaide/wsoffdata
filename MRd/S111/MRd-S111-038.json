@@ -1,0 +1,35 @@
+{
+	"set": "MRd",
+	"setName": "Disney ミラー・ウォリアーズ",
+	"side": "S",
+	"release": "111",
+	"id": "038",
+	"name": "",
+	"jpName": "“Vainglorious Vengeful Swordsman”フック船長",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが、手札か山札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』",
+		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"Mirrorverse",
+		"Disney"
+	],
+	"version": "3",
+	"cardcode": "MRd/S111-038",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_S111_038.png",
+	"tags": null
+}

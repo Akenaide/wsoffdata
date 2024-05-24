@@ -1,0 +1,35 @@
+{
+	"set": "MRd",
+	"setName": "Disney ミラー・ウォリアーズ",
+	"side": "S",
+	"release": "111",
+	"id": "003MSP",
+	"name": "",
+	"jpName": "“Stellar Sorcerer”ミッキーマウス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "MSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「“Stellar Sorcerer”ミッキーマウス」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】【CXコンボ】 このカードが、手札か山札から舞台に置かれた時、あなたは自分の控え室の「Cosmic Command」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】［(1)］ あなたのアタックフェイズの始めに、CX置場に「Cosmic Command」があり、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《Mirrorverse》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルし、そのターン中、そのキャラとこのカードのソウルを－1。"
+	],
+	"specialAttrib": [
+		"Mirrorverse",
+		"Disney"
+	],
+	"version": "3",
+	"cardcode": "MRd/S111-003MSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_S111_003msp.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "MRp",
+	"setName": "Disney ミラー・ウォリアーズ",
+	"side": "S",
+	"release": "111",
+	"id": "008",
+	"name": "",
+	"jpName": "“Heavy Hitting Cowboy”ウッディ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが、手札か山札から舞台に置かれた時、あなたは1枚まで引き、相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、あなたはイベントと『助太刀』を、手札からプレイできない。』",
+		"【自】 このカードが、手札か山札から舞台に置かれた時、あなたは自分の、《Mirrorverse》か《PIXAR》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの、《Mirrorverse》か《PIXAR》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"Mirrorverse",
+		"PIXAR"
+	],
+	"version": "3",
+	"cardcode": "MRp/S111-008",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrp_S111_008.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "MRd",
+	"setName": "Disney ミラー・ウォリアーズ",
+	"side": "S",
+	"release": "111",
+	"id": "002",
+	"name": "",
+	"jpName": "“Illuminated Warrior”ラプンツェル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下か6枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《Mirrorverse》か《Disney》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+		"【自】 このカードが、手札か山札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』『あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルし、そのターン中、このカードのパワーを＋2000。』"
+	],
+	"specialAttrib": [
+		"Mirrorverse",
+		"Disney"
+	],
+	"version": "3",
+	"cardcode": "MRd/S111-002",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_S111_002.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "MRd",
+	"setName": "Disney ミラー・ウォリアーズ",
+	"side": "S",
+	"release": "111",
+	"id": "072",
+	"name": "",
+	"jpName": "“Draconic Mage”マレフィセント",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［(1) あなたの舞台のキャラを2枚控え室に置く］ 控え室にこのカードがあり、あなたのCX置場に「Electroclasm」が置かれた時、あなたのレベルが2以上なら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に置き、そのターン中、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《Mirrorverse》か《Disney》のキャラなら、相手にＸダメージを与える。Ｘはそのカードのレベルに等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Mirrorverse",
+		"Disney"
+	],
+	"version": "3",
+	"cardcode": "MRd/S111-072",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_S111_072.png",
+	"tags": null
+}

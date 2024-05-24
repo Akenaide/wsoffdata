@@ -1,0 +1,35 @@
+{
+	"set": "MRd",
+	"setName": "Disney ミラー・ウォリアーズ",
+	"side": "S",
+	"release": "111",
+	"id": "007SP",
+	"name": "",
+	"jpName": "“Stellar-Powered Walking Disaster”グーフィー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「“Stellar Sorcerer”ミッキーマウス」すべてに、次の能力を与える。『【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から2枚まで見て、カードを1枚まで選び、山札の下に置き、残りのカードを山札の上に好きな順番で置く。』",
+		"【永】 他のあなたの、《Mirrorverse》か《Disney》のキャラすべてに、パワーを＋1500。",
+		"【自】［手札を1枚控え室に置く］ このカードが、手札か山札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"Mirrorverse",
+		"Disney"
+	],
+	"version": "3",
+	"cardcode": "MRd/S111-007SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_S111_007sp.png",
+	"tags": null
+}

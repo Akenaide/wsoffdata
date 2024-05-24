@@ -1,0 +1,32 @@
+{
+	"set": "MRd",
+	"setName": "Disney ミラー・ウォリアーズ",
+	"side": "S",
+	"release": "111",
+	"id": "009S",
+	"name": "",
+	"jpName": "スクルージ・マクダック",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。",
+		"【自】 このカードがアタックした時、あなたは他の自分の、《Mirrorverse》か《Disney》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Mirrorverse》か《Disney》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"Mirrorverse",
+		"Disney"
+	],
+	"version": "3",
+	"cardcode": "MRd/S111-009S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_S111_009sr.png",
+	"tags": null
+}
