@@ -3,7 +3,7 @@
 echo "yay"
 MYDATE=`date -I`
 PWD=`pwd`
-DOCKER_IMAGE="akenaide/wsoffcli:master"
+DOCKER_IMAGE="akenaide/wsoffcli:v3.2.1"
 
 git pull
 docker pull $DOCKER_IMAGE
