@@ -1,0 +1,34 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "080S",
+	"name": "",
+	"jpName": "鉗子の監視 有坂",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、相手のCX置場にCXがあるなら、あなたは自分のバトル中の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"先生"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-080S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_080s.png",
+	"tags": null
+}

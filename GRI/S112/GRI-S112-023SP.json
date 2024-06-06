@@ -1,0 +1,34 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "023SP",
+	"name": "",
+	"jpName": "黎明の蝶 有坂",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《グリザイア》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロック置場の《グリザイア》のキャラを1枚まで選び、山札の下に置き、そのターン中、このカードのパワーを＋1500。』『あなたのキャラすべてに、そのターン中、パワーを＋2500し、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。』』"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"先生"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-023SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_023sp.png",
+	"tags": null
+}

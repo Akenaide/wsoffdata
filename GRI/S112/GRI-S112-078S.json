@@ -1,0 +1,35 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "078S",
+	"name": "",
+	"jpName": "甘い香りに誘われて ムラサキ＆クリス＆タイガ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《グリザイア》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのトリガーアイコンが[GATE]のCXがCX置場に置かれた時、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。",
+		"【起】［このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"料理"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-078S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_078s.png",
+	"tags": null
+}

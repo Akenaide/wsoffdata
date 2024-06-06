@@ -1,0 +1,34 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "010",
+	"name": "",
+	"jpName": "戦場の姉妹 マキ＆レナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《グリザイア》のキャラが4枚以上なら、あなたのCXフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-010",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_010.png",
+	"tags": null
+}

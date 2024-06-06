@@ -1,0 +1,34 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "054",
+	"name": "",
+	"jpName": "勇気の代償 ユーキ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【自】 アタックフェイズ中、あなたのキャラが、他の枠に動いた時、そのターン中、そのキャラのパワーを＋500し、そのキャラに次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストック置場に置く。』（CXのレベルは0として扱う。そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"ニンジャ"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-054",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_054.png",
+	"tags": null
+}

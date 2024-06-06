@@ -1,0 +1,33 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "055",
+	"name": "",
+	"jpName": "鬼の影 ハルト",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 記憶 ［手札を4枚控え室に置く］ あなたのアタックフェイズの始めに、CX置場に「美浜学園・A組」があり、あなたの思い出置場に「殺し屋の流儀 アオイ」があり、他のあなたの前列のキャラがいないなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋7000し、このカードは次の能力を得る。『【自】 この能力は1ターンにつき2回まで発動する。このカードのアタックの終わりに、あなたは相手の山札を上から3枚まで見て、カードを3枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置き、このカードを【スタンド】する。』"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"伝習員"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-055",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_055.png",
+	"tags": null
+}

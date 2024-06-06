@@ -1,0 +1,32 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "058S",
+	"name": "",
+	"jpName": "情報収集 ムラサキ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
+		"【自】 記憶 このカードが舞台から控え室に置かれた時、あなたの思い出置場に「タナトス・システム」があるなら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"ニンジャ"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-058S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_058s.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "075OFR",
+	"name": "",
+	"jpName": "少女達の日常 クリス",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "OFR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+		"【起】［(2) 手札のCXを1枚控え室に置き、このカードを【レスト】する］ 他のあなたの《グリザイア》のキャラがいるなら、あなたは自分のクロック置場の《グリザイア》のキャラを1枚選び、手札に戻す。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"料理"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-075OFR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_075ofr.png",
+	"tags": null
+}

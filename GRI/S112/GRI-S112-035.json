@@ -1,0 +1,35 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "035",
+	"name": "",
+	"jpName": "師弟関係 トーカ＆グミ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 あなたのトリガーアイコンが[TREASURE]のCXがトリガーした時、このカードの下のマーカーが1枚以下なら、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
+		"【自】 あなたのアンコールステップの始めに、このカードの下のマーカーが2枚以上なら、このカードの下のマーカーすべてを、控え室に置き、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-035",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_035.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "093S",
+	"name": "",
+	"jpName": "独断専行 クリス",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《グリザイア》のキャラが4枚以上なら、このカードのパワーを＋6000。",
+		"【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場に「タナトス・システム」があるなら、あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"料理"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-093S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_093s.png",
+	"tags": null
+}

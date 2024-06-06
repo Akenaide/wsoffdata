@@ -1,0 +1,34 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "065S",
+	"name": "",
+	"jpName": "“美浜学園” 野上",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《グリザイア》のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《グリザイア》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"助手"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-065S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_065s.png",
+	"tags": null
+}

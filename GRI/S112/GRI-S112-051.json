@@ -1,0 +1,32 @@
+{
+	"set": "GRI",
+	"setName": "グリザイア：ファントムトリガー",
+	"side": "S",
+	"release": "112",
+	"id": "051",
+	"name": "",
+	"jpName": "敏腕ガンスミス 山本",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+		"【起】［他のあなたの舞台の《グリザイア》のキャラを2枚控え室に置き、このカードを山札の下に置く］ あなたのレベルが3以上なら、あなたは自分の山札を見て「鬼の影 ハルト」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"グリザイア",
+		"ガンスミス"
+	],
+	"version": "3",
+	"cardcode": "GRI/S112-051",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_051.png",
+	"tags": null
+}
