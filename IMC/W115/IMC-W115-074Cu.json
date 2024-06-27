@@ -1,0 +1,34 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "074Cu",
+	"name": "",
+	"jpName": "秋風乙女 乙倉悠貴",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "Cu",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「Halloween♥Code」があり、他のあなたの《音楽》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"スポーツ"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-074Cu",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_074cu.png",
+	"tags": null
+}

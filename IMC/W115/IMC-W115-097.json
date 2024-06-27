@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "097",
+	"name": "",
+	"jpName": "セレブレイト・カレイド 速水 奏",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 あなたのCX置場に「Nightwear」が置かれた時、前列にこのカードがいるなら、相手に1ダメージを与え、そのターン中、このカードは次の能力を得る。『【自】［(2)］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面の【リバース】しているキャラを1枚選び、クロック置場に置く。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"キス"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-097",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_097.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "062",
+	"name": "",
+	"jpName": "偉大なる休憩主 双葉 杏",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは2枚引き、自分の手札を2枚選び、控え室に置く。このカードは次のあなたのスタンドフェイズに【スタンド】しない。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"飴"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-062",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_062.png",
+	"tags": null
+}

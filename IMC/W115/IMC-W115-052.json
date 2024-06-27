@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "052",
+	"name": "",
+	"jpName": "おめざめ☆あかりんご 辻野あかり",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】【CXコンボ】 あなたのCX置場に「無限L∞PだLOVE♡」があるなら、相手のキャラすべてに、《愛》を与える。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(2)］ このカードのアタックの終わりに、CX置場に「無限L∞PだLOVE♡」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の《愛》のキャラの枚数以下の好きな数を宣言し、相手にＸダメージを与える。Ｘはあなたの宣言した数に等しい。（マイナスの数は宣言できない。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"りんご"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-052",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_052.png",
+	"tags": null
+}

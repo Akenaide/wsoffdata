@@ -1,0 +1,34 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "073",
+	"name": "",
+	"jpName": "キラッ！満開スマイル 島村卯月",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがトリガーした時、あなたは自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"笑顔"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-073",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_073.png",
+	"tags": null
+}

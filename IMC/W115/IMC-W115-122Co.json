@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "122Co",
+	"name": "",
+	"jpName": "サマーサイダー 久川 颯",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "Co",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室の、黄のCXと青のCXがそれぞれ2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"双子"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-122Co",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_122co.png",
+	"tags": null
+}
