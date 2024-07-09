@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "005SP",
+	"name": "",
+	"jpName": "黒き森の乙女 高森藍子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 あなたのターン中、このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"カメラ"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-005SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_005sp.png",
+	"tags": null
+}

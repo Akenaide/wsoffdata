@@ -1,0 +1,32 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "017SP",
+	"name": "",
+	"jpName": "ドレスアップ☆ウサミン 安部菜々",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
+		"【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは他のあなたの《音楽》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ウサミン"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-017SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_017sp.png",
+	"tags": null
+}

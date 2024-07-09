@@ -1,0 +1,34 @@
+{
+	"set": "YRC",
+	"setName": "[TD]『ゆるキャン△ SEASON３』",
+	"side": "W",
+	"release": "116",
+	"id": "T09R",
+	"name": "",
+	"jpName": "火起こし リン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《ゆるキャン△》のキャラの枚数に等しい。",
+		"【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「ソロキャン」があるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ゆるキャン△",
+		"バイク"
+	],
+	"version": "3",
+	"cardcode": "YRC/W116-T09R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_t09r.png",
+	"tags": null
+}

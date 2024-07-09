@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "[TD]アイドルマスター シンデレラガールズ Type:Cool",
+	"side": "W",
+	"release": "115",
+	"id": "T41Co",
+	"name": "",
+	"jpName": "ギフト・フォー・アンサー 森久保乃々",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "Co",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋2000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+		"【自】 この能力は1ターンにつき3回まで発動する。他のあなたのキャラが控え室から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ポエム"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-T41Co",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t41co.png",
+	"tags": null
+}

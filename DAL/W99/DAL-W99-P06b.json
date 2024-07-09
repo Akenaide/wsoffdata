@@ -1,0 +1,32 @@
+{
+	"set": "DAL",
+	"setName": "PRカード【Sサイド】",
+	"side": "W",
+	"release": "99",
+	"id": "P06b",
+	"name": "",
+	"jpName": "しろくろメイド 十香",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 あなたのトリガーアイコンが[DRAW]のCXがCX置場に置かれた時、そのターン中、このカードのパワーを＋500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。』（CXのレベルは0として扱う。そうでないなら元に戻す）",
+		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《デート》か《精霊》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "DAL/W99-P06b",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w99/dal_w99_p06b.png",
+	"tags": null
+}

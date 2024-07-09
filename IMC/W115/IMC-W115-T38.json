@@ -1,0 +1,33 @@
+{
+	"set": "IMC",
+	"setName": "[TD]アイドルマスター シンデレラガールズ Type:Cool",
+	"side": "W",
+	"release": "115",
+	"id": "T38",
+	"name": "",
+	"jpName": "運命の待ち人 神崎蘭子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"闇"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-T38",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t38.png",
+	"tags": null
+}

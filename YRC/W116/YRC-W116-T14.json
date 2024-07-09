@@ -1,0 +1,32 @@
+{
+	"set": "YRC",
+	"setName": "[TD]『ゆるキャン△ SEASON３』",
+	"side": "W",
+	"release": "116",
+	"id": "T14",
+	"name": "",
+	"jpName": "各務原なでしこ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（CXのレベルは0として扱う。公開したカードは元に戻す）",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"ゆるキャン△",
+		"料理"
+	],
+	"version": "3",
+	"cardcode": "YRC/W116-T14",
+	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_t14.png",
+	"tags": null
+}

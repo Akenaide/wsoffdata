@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "003",
+	"name": "",
+	"jpName": "恋するスウィーティーサマー 佐藤 心",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル×1000に等しい。",
+		"【自】［(2) あなたの舞台のキャラを1枚控え室に置き、このカードを【レスト】する］ 相手のアタックフェイズの始めに、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－2。』",
+		"【起】［手札の「恋するスウィーティーサマー 佐藤 心」を1枚控え室に置く］ この能力は1ターンにつき1回まで使える。あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"裁縫"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-003",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_003.png",
+	"tags": null
+}

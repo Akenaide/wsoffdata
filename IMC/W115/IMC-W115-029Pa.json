@@ -1,0 +1,34 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "029Pa",
+	"name": "",
+	"jpName": "海のぱわー☆ 堀 裕子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "Pa",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋4000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「チカラ！イズ！ぱわー！！」があり、他のあなたの《音楽》のキャラが2枚以上なら、次の行動を2回行う。『あなたは自分の山札の上から1枚を、控え室に置く。そのカードのトリガーアイコンに[SOUL]があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋5000。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"超能力"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-029Pa",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_029pa.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "019SP",
+	"name": "",
+	"jpName": "ハートイグニッション 日野 茜",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのすべての領域のトリガーアイコンが[CHOICE]を与える。",
+		"【自】 あなたのCXフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのパワーを＋Ｘ。Ｘはこのカードのソウル×1500に等しい。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"熱血"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-019SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_019sp.png",
+	"tags": null
+}

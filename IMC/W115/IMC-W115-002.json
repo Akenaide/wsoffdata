@@ -1,0 +1,34 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "002",
+	"name": "",
+	"jpName": "甘カワ☆ニゅーいヤー 大槻 唯",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「Go Just Go!」があり、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ギャル"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-002",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_002.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "アイドルマスター シンデレラガールズ Next Twinkle!",
+	"side": "W",
+	"release": "115",
+	"id": "020SP",
+	"name": "",
+	"jpName": "メリー・メニー・プレゼント 十時愛梨",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"お菓子"
+	],
+	"version": "3",
+	"cardcode": "IMC/W115-020SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_020sp.png",
+	"tags": null
+}

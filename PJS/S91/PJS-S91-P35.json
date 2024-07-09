@@ -1,0 +1,34 @@
+{
+	"set": "PJS",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "91",
+	"id": "P35",
+	"name": "",
+	"jpName": "トワイライトライト/私は雨",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"25時、ナイトコードで。"
+	],
+	"version": "3",
+	"cardcode": "PJS/S91-P35",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p35.png",
+	"tags": null
+}
