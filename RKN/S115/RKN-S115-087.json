@@ -1,0 +1,34 @@
+{
+	"set": "RKN",
+	"setName": "るろうに剣心 －明治剣客浪漫譚－",
+	"side": "S",
+	"release": "115",
+	"id": "087",
+	"name": "",
+	"jpName": "最強を墓前に添えるまで 四乃森蒼紫",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《明治剣客浪漫譚》なら、このカードのパワーを＋5000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にトリガーアイコンが[GATE]のCXがあるなら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"明治剣客浪漫譚",
+		"御庭番衆"
+	],
+	"version": "3",
+	"cardcode": "RKN/S115-087",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_087.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "RKN",
+	"setName": "るろうに剣心 －明治剣客浪漫譚－",
+	"side": "S",
+	"release": "115",
+	"id": "050",
+	"name": "",
+	"jpName": "“飛天御剣流”の使い手 緋村剣心",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列にこのカードがいるなら、あなたの《明治剣客浪漫譚》のキャラすべてに、パワーを＋1500。",
+		"【自】【CXコンボ】［(2)］ このカードがアタックした時、CX置場に「“飛天御剣流”」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札すべてを、控え室に置き、自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"明治剣客浪漫譚",
+		"剣客"
+	],
+	"version": "3",
+	"cardcode": "RKN/S115-050",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_050.png",
+	"tags": null
+}

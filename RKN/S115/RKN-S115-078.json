@@ -1,0 +1,35 @@
+{
+	"set": "RKN",
+	"setName": "るろうに剣心 －明治剣客浪漫譚－",
+	"side": "S",
+	"release": "115",
+	"id": "078",
+	"name": "",
+	"jpName": "修羅の忍び 四乃森蒼紫",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "4000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
+		"【永】 記憶 あなたの思い出置場に「御庭番衆 隠密 癋見」と「御庭番衆の火術使い 火男」と「御庭番衆警護担当 式尉」と「御庭番衆密偵方 般若」があるなら、他のあなたのカード名に「蒼紫」を含むキャラすべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは相手の山札を上から1枚見て、山札の上か下に置く。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"明治剣客浪漫譚",
+		"御庭番衆"
+	],
+	"version": "3",
+	"cardcode": "RKN/S115-078",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_078.png",
+	"tags": null
+}

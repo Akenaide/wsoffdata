@@ -1,0 +1,35 @@
+{
+	"set": "RKN",
+	"setName": "るろうに剣心 －明治剣客浪漫譚－",
+	"side": "S",
+	"release": "115",
+	"id": "043SP",
+	"name": "",
+	"jpName": "神速の抜刀術 緋村剣心",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《明治剣客浪漫譚》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 共鳴 ［(2) 手札の《明治剣客浪漫譚》のキャラを1枚控え室に置き、手札の「人斬り抜刀斎 緋村剣心」を2枚公開する］ このカードがアタックした時、CX置場に「揺るがない信念」があり、他のあなたの《明治剣客浪漫譚》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを2回与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"明治剣客浪漫譚",
+		"剣客"
+	],
+	"version": "3",
+	"cardcode": "RKN/S115-043SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_043sp.png",
+	"tags": null
+}

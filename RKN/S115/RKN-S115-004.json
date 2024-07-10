@@ -1,0 +1,34 @@
+{
+	"set": "RKN",
+	"setName": "るろうに剣心 －明治剣客浪漫譚－",
+	"side": "S",
+	"release": "115",
+	"id": "004",
+	"name": "",
+	"jpName": "背中に刻む“悪一文字” 相楽左之助",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《明治剣客浪漫譚》なら、このカードは次の2つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋3000。』『【自】 アンコール ［手札の《明治剣客浪漫譚》のキャラを1枚控え室に置く］』",
+		"【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「正義の拳」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルし、あなたは相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"明治剣客浪漫譚",
+		"喧嘩屋"
+	],
+	"version": "3",
+	"cardcode": "RKN/S115-004",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_004.png",
+	"tags": null
+}

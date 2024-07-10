@@ -1,0 +1,34 @@
+{
+	"set": "RKN",
+	"setName": "るろうに剣心 －明治剣客浪漫譚－",
+	"side": "S",
+	"release": "115",
+	"id": "032S",
+	"name": "",
+	"jpName": "弱き者を助け強き者を挫く 明神弥彦",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《明治剣客浪漫譚》なら、このカードのパワーを＋5000。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「己が剣に背負うもの」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"明治剣客浪漫譚",
+		"剣士"
+	],
+	"version": "3",
+	"cardcode": "RKN/S115-032S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_032s.png",
+	"tags": null
+}

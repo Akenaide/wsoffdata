@@ -1,0 +1,35 @@
+{
+	"set": "RKN",
+	"setName": "るろうに剣心 －明治剣客浪漫譚－",
+	"side": "S",
+	"release": "115",
+	"id": "021",
+	"name": "",
+	"jpName": "諦めきれぬ大願 月岡津南",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《明治剣客浪漫譚》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の控え室の「革命の狼煙」を1枚選び、このカードの下にマーカーとして表向きに置く。",
+		"【起】［このカードの下のマーカーを1枚控え室に置く］ あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"明治剣客浪漫譚",
+		"浮世絵師"
+	],
+	"version": "3",
+	"cardcode": "RKN/S115-021",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_021.png",
+	"tags": null
+}

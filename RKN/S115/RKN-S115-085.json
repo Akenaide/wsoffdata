@@ -1,0 +1,35 @@
+{
+	"set": "RKN",
+	"setName": "るろうに剣心 －明治剣客浪漫譚－",
+	"side": "S",
+	"release": "115",
+	"id": "085",
+	"name": "",
+	"jpName": "秘剣『飛飯綱』 石動雷十太",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "5000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル相手は【リバース】しない。",
+		"【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【起】［(4) 手札を3枚控え室に置く］ そのターン中、このカードは次の能力を得る。『【永】 後列に【スタンド】しているこのカードがいるなら、このカードはアタックを行うキャラとして選択してよい。そうしたら、このカードはダイレクトアタックする。』"
+	],
+	"specialAttrib": [
+		"明治剣客浪漫譚",
+		"剣術"
+	],
+	"version": "3",
+	"cardcode": "RKN/S115-085",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_085.png",
+	"tags": null
+}

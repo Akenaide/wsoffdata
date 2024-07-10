@@ -1,0 +1,35 @@
+{
+	"set": "RKN",
+	"setName": "るろうに剣心 －明治剣客浪漫譚－",
+	"side": "S",
+	"release": "115",
+	"id": "094",
+	"name": "",
+	"jpName": "新撰組一番隊組長 沖田総司",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手の控え室のCXが3枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードのパワーを＋4000。』『【永】 大活躍』",
+		"【自】 あなたのドローフェイズの始めに、あなたは自分の山札の上から1枚を、クロック置場に置いてよい。そうしないなら、このカードを思い出にする。"
+	],
+	"specialAttrib": [
+		"明治剣客浪漫譚",
+		"新撰組"
+	],
+	"version": "3",
+	"cardcode": "RKN/S115-094",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_094.png",
+	"tags": null
+}

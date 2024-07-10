@@ -1,0 +1,35 @@
+{
+	"set": "RKN",
+	"setName": "るろうに剣心 －明治剣客浪漫譚－",
+	"side": "S",
+	"release": "115",
+	"id": "003",
+	"name": "",
+	"jpName": "麗しき女医 高荷 恵",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《明治剣客浪漫譚》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《明治剣客浪漫譚》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"明治剣客浪漫譚",
+		"医学"
+	],
+	"version": "3",
+	"cardcode": "RKN/S115-003",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_003.png",
+	"tags": null
+}
