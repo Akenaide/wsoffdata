@@ -1,0 +1,32 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "034",
+	"name": "",
+	"jpName": "映画の世界の少女 つばき",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】【CXコンボ】［(1) このカードを思い出にし、あなたのCX置場の「またの名を、カスカベ防衛隊！」を1枚控え室に置く］ あなたのアンコールステップの始めに、他のあなたの《MOVIE》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
+		"【自】 記憶 ［このカードを控え室に置く］ 思い出置場にこのカードがあるなら、あなたのターンの終わりに、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"MOVIE"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-034",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_034.png",
+	"tags": null
+}

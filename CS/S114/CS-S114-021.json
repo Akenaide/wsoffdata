@@ -1,0 +1,35 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "021",
+	"name": "",
+	"jpName": "オタケベ!カスカベ野生王国 しんのすけ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《MOVIE》か《家族》のキャラの枚数×1000に等しい。",
+		"【起】［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"幼稚園"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-021",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_021.png",
+	"tags": null
+}

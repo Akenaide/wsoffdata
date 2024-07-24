@@ -1,0 +1,35 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "064SP",
+	"name": "",
+	"jpName": "“SRI”特捜員 ジャッキー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《MOVIE》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"サンバ",
+		"ツンデレ"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-064SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_064sp.png",
+	"tags": null
+}

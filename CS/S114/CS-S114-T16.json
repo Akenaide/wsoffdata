@@ -1,0 +1,35 @@
+{
+	"set": "CS",
+	"setName": "[TD] 映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "T16",
+	"name": "",
+	"jpName": "忍術修行中！ マサオくん",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"幼稚園",
+		"泣き虫"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-T16",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_t16.png",
+	"tags": null
+}

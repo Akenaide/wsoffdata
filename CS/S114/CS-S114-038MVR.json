@@ -1,0 +1,36 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "038MVR",
+	"name": "",
+	"jpName": "超時空!嵐を呼ぶオラの花嫁 しんのすけ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "MVR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の「オラはにんきもの しんのすけ」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《MOVIE》か《家族》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の、《MOVIE》か《家族》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"幼稚園"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-038MVR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_038mvr.png",
+	"tags": null
+}

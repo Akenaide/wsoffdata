@@ -1,0 +1,33 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "039S",
+	"name": "",
+	"jpName": "選ばれし勇者 しんのすけ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+		"【起】［手札を2枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の自分のレベル以下のレベルの、《MOVIE》か《家族》のキャラを1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"幼稚園"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-039S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_039s.png",
+	"tags": null
+}

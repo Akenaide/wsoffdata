@@ -1,0 +1,33 @@
+{
+	"set": "CS",
+	"setName": "[TD] 映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "T12SP",
+	"name": "",
+	"jpName": "世界を救え しんのすけ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《MOVIE》か《家族》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"幼稚園"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-T12SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_t12sp.png",
+	"tags": null
+}

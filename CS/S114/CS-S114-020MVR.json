@@ -1,0 +1,35 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "020MVR",
+	"name": "",
+	"jpName": "嵐を呼ぶ 栄光のヤキニクロード しんのすけ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "MVR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の、《MOVIE》か《家族》のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「今夜は焼肉！」があり、他のあなたの、《MOVIE》か《家族》のキャラが4枚以上なら、あなたは自分の控え室の、《MOVIE》か《家族》のキャラを1枚まで選び、手札に戻し、次の相手のターンの終わりまで、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の、《MOVIE》か《家族》のキャラを1枚控え室に置く］』を得る。"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"幼稚園"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-020MVR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_020mvr.png",
+	"tags": null
+}

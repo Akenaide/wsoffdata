@@ -1,0 +1,35 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "007",
+	"name": "",
+	"jpName": "暗黒タマタマ大追跡 しんのすけ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［他のあなたの舞台の、《MOVIE》か《家族》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+		"【自】【CXコンボ】［(4) 手札の「暗黒タマタマ大追跡 しんのすけ」を2枚控え室に置き、手札を2枚控え室に置き、あなたのCX置場の「大騒ぎの救出劇」を1枚控え室に置く］ あなたのアタックフェイズの始めに、他のあなたの前列のキャラがいないなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを5回与え、次の相手のターンの終わりまで、このカードのパワーを＋9000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"幼稚園"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-007",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_007.png",
+	"tags": null
+}

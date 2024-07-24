@@ -1,0 +1,35 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "003",
+	"name": "",
+	"jpName": "ヘンダーランドの大冒険 しんのすけ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。",
+		"【自】【CXコンボ】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたのCX置場に「どたばた追いかけっこ」があるなら、あなたは自分の控え室の、《MOVIE》か《家族》のキャラを2枚まで選び、ストック置場に好きな順番で置き、次の行動を3回まで行う。『あなたは1枚引き、自分の手札を1枚選び、控え室に置く。』"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"幼稚園"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-003",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_003.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "067S",
+	"name": "",
+	"jpName": "お尋ね者 シロ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
+		"【自】［このカードを控え室に置く］ 他のあなたの、《MOVIE》か《家族》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"動物"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-067S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_067s.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "051",
+	"name": "",
+	"jpName": "やさしいかーちゃん みさえ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
+		"【自】 このカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《MOVIE》か《家族》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"主婦"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-051",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_051.png",
+	"tags": null
+}

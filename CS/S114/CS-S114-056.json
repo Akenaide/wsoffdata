@@ -1,0 +1,33 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "056",
+	"name": "",
+	"jpName": "伝説を呼ぶ 踊れ!アミーゴ! しんのすけ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは自分の、《MOVIE》か《家族》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「“世界サンバ化計画”進行中」があり、他のあなたのキャラが2枚以上なら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の、《MOVIE》か《家族》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"幼稚園"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-056",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_056.png",
+	"tags": null
+}

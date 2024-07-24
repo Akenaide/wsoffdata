@@ -1,0 +1,35 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "002SP",
+	"name": "",
+	"jpName": "キラキラ大好き ひまわり",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《MOVIE》か《家族》なら、このカードのパワーを＋1000。",
+		"【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"宝石"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-002SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_002sp.png",
+	"tags": null
+}

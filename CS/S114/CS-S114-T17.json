@@ -1,0 +1,35 @@
+{
+	"set": "CS",
+	"setName": "[TD] 映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "T17",
+	"name": "",
+	"jpName": "忍術修行中！ しんのすけ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［手札の、《MOVIE》か《家族》のキャラを2枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の手札の「アクション仮面変身セット しんのすけ」を1枚まで選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"家族",
+		"幼稚園"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-T17",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_t17.png",
+	"tags": null
+}

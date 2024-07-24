@@ -1,0 +1,33 @@
+{
+	"set": "CS",
+	"setName": "映画クレヨンしんちゃん",
+	"side": "S",
+	"release": "114",
+	"id": "096",
+	"name": "",
+	"jpName": "ぷにぷに拳の使い手 玉蘭",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、他のあなたの《MOVIE》のキャラが2枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『そのターン中、このカードのパワーを＋6000。』『あなたは他の自分の《MOVIE》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。』"
+	],
+	"specialAttrib": [
+		"MOVIE",
+		"拳法"
+	],
+	"version": "3",
+	"cardcode": "CS/S114-096",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_096.png",
+	"tags": null
+}
