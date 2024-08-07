@@ -1,0 +1,35 @@
+{
+	"set": "HBR",
+	"setName": "ヘブンバーンズレッド Vol.2",
+	"side": "W",
+	"release": "117",
+	"id": "096SP",
+	"name": "",
+	"jpName": "ブラッド・レリーフ マリア・デ・アンジェリス",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《セラフ》のキャラが2枚以上なら、あなたは自分のクロック置場のキャラを1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+		"【自】 このカードがアタックした時、このカードの下にマーカーがあるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《セラフ》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"セラフ",
+		"第31X部隊"
+	],
+	"version": "3",
+	"cardcode": "HBR/W117-096SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w117/hbr_w117_096sp.png",
+	"tags": null
+}

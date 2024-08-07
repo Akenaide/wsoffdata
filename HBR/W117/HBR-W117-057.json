@@ -1,0 +1,35 @@
+{
+	"set": "HBR",
+	"setName": "ヘブンバーンズレッド Vol.2",
+	"side": "W",
+	"release": "117",
+	"id": "057",
+	"name": "",
+	"jpName": "木漏れ日の庭 丸山 奏多",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《セラフ》のキャラが2枚以上なら、このカードのパワーを＋8000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《セラフ》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《セラフ》のキャラが4枚以上なら、あなたは自分の控え室の《セラフ》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"セラフ",
+		"第31F部隊"
+	],
+	"version": "3",
+	"cardcode": "HBR/W117-057",
+	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w117/hbr_w117_057.png",
+	"tags": null
+}

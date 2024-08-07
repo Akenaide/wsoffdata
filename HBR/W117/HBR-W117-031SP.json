@@ -1,0 +1,35 @@
+{
+	"set": "HBR",
+	"setName": "ヘブンバーンズレッド Vol.2",
+	"side": "W",
+	"release": "117",
+	"id": "031SP",
+	"name": "",
+	"jpName": "Sweet Phantasy 大島 一千子",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《セラフ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。ＸはそれらのカードのCXの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"セラフ",
+		"第31E部隊"
+	],
+	"version": "3",
+	"cardcode": "HBR/W117-031SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w117/hbr_w117_031sp.png",
+	"tags": null
+}
