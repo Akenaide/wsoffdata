@@ -1,0 +1,33 @@
+{
+	"set": "SW",
+	"setName": "プレミアムブースター / STAR WARS Vol.2",
+	"side": "S",
+	"release": "E47",
+	"id": "42FOP",
+	"name": "",
+	"jpName": "“トグルータの戦士”アソーカ・タノ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "FOP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「Meeting of Force wielder」があり、他のあなたのキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"アソーカ"
+	],
+	"version": "3",
+	"cardcode": "SW/SE47-42FOP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se47/sw_se47_42fop.png",
+	"tags": null
+}

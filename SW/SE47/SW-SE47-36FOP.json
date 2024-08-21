@@ -1,0 +1,33 @@
+{
+	"set": "SW",
+	"setName": "プレミアムブースター / STAR WARS Vol.2",
+	"side": "S",
+	"release": "E47",
+	"id": "36FOP",
+	"name": "",
+	"jpName": "“ジェダイを探す旅”グローグー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "FOP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは手札に戻せず、思い出にできない。』",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"マンダロリアン"
+	],
+	"version": "3",
+	"cardcode": "SW/SE47-36FOP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se47/sw_se47_36fop.png",
+	"tags": null
+}

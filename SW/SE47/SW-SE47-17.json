@@ -1,0 +1,35 @@
+{
+	"set": "SW",
+	"setName": "プレミアムブースター / STAR WARS Vol.2",
+	"side": "S",
+	"release": "E47",
+	"id": "17",
+	"name": "",
+	"jpName": "“決別の戦い”ボバ・フェット",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』",
+		"【自】 経験 ［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのレベル置場のカードのレベルの合計が4以上なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"ボバ",
+		"フェット"
+	],
+	"version": "3",
+	"cardcode": "SW/SE47-17",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se47/sw_se47_17.png",
+	"tags": null
+}

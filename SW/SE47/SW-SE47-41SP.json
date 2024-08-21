@@ -1,0 +1,34 @@
+{
+	"set": "SW",
+	"setName": "プレミアムブースター / STAR WARS Vol.2",
+	"side": "S",
+	"release": "E47",
+	"id": "41SP",
+	"name": "",
+	"jpName": "“別の銀河での戦い”アソーカ・タノ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。』『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』"
+	],
+	"specialAttrib": [
+		"アソーカ"
+	],
+	"version": "3",
+	"cardcode": "SW/SE47-41SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se47/sw_se47_41sp.png",
+	"tags": null
+}

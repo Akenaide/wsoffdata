@@ -1,0 +1,33 @@
+{
+	"set": "SW",
+	"setName": "プレミアムブースター / STAR WARS Vol.2",
+	"side": "S",
+	"release": "E47",
+	"id": "10",
+	"name": "",
+	"jpName": "“マンダロアを取り戻すために”ボ=カターン・クライズ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「Great Warriors」があり、他のあなたのキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（CXのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"マンダロリアン"
+	],
+	"version": "3",
+	"cardcode": "SW/SE47-10",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se47/sw_se47_10.png",
+	"tags": null
+}

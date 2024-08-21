@@ -1,0 +1,33 @@
+{
+	"set": "SW",
+	"setName": "プレミアムブースター / STAR WARS Vol.2",
+	"side": "S",
+	"release": "E47",
+	"id": "08FOP",
+	"name": "",
+	"jpName": "“ベスカーの鎧”マンダロリアン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "FOP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
+		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+	],
+	"specialAttrib": [
+		"マンダロリアン"
+	],
+	"version": "3",
+	"cardcode": "SW/SE47-08FOP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se47/sw_se47_08fop.png",
+	"tags": null
+}
