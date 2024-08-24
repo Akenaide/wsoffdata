@@ -1,0 +1,33 @@
+{
+	"set": "Dds",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "104",
+	"id": "P17S",
+	"name": "",
+	"jpName": "ずっと一緒 ドナルドダック＆デイジーダック",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋5500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場の《Disney》のキャラと控え室の《Disney》のキャラを1枚ずつ選び、入れ替えてよい。"
+	],
+	"specialAttrib": [
+		"Disney"
+	],
+	"version": "3",
+	"cardcode": "Dds/S104-P17S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_p17s.png",
+	"tags": null
+}
