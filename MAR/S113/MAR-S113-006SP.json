@@ -1,0 +1,33 @@
+{
+	"set": "MAR",
+	"setName": "MARVEL Vol.2",
+	"side": "S",
+	"release": "113",
+	"id": "006SP",
+	"name": "",
+	"jpName": "“宇宙一の凸凹チーム”ガーディアンズ・オブ・ギャラクシー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「GROUNDED」があり、あなたの手札が6枚以下なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。このダメージがキャンセルされたなら、相手に2ダメージを与える。このダメージがキャンセルされたなら、あなたは相手の山札の上から3枚を、クロック置場に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S113-006SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_006sp.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "MAR",
+	"setName": "MARVEL Vol.2",
+	"side": "S",
+	"release": "113",
+	"id": "063",
+	"name": "",
+	"jpName": "“THE MAD TITAN”サノス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(1) 手札を2枚控え室に置く］ このカードのアタックの終わりに、他のあなたの《MARVEL》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から3枚を公開し、その山札をシャッフルする。あなたはこの効果で公開されたカードのトリガーアイコンの[SOUL]の合計以下の好きな数を宣言し、相手にＸダメージを与える。Ｘはあなたの宣言した数に等しい。（マイナスの数は宣言できない。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S113-063",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_063.png",
+	"tags": null
+}

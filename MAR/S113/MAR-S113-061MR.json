@@ -1,0 +1,34 @@
+{
+	"set": "MAR",
+	"setName": "MARVEL Vol.2",
+	"side": "S",
+	"release": "113",
+	"id": "061MR",
+	"name": "",
+	"jpName": "アイアンマン＆アイアンハート",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "MR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「アイアンマン＆アイアンハート」がいないなら、他のあなたのすべての領域のトリガーアイコンが[COMEBACK]を与える。",
+		"【永】 応援 このカードの前のあなたの《MARVEL》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがCX置場に置かれた時、あなたは自分のカード名に「アイアンマン」を含むキャラを3枚まで選び、そのターン中、パワーを＋500し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S113-061MR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_061mr.png",
+	"tags": null
+}

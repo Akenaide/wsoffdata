@@ -1,0 +1,34 @@
+{
+	"set": "MAR",
+	"setName": "MARVEL Vol.2",
+	"side": "S",
+	"release": "113",
+	"id": "013MR",
+	"name": "",
+	"jpName": "ノリノリな賞金稼ぎ スター・ロード",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "MR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたは[RETURN]の効果で相手のキャラを手札に戻せない。",
+		"【自】 あなたのトリガーアイコンが[RETURN]のCXがトリガーした時、他のあなたの「ノリノリな賞金稼ぎ スター・ロード」がいないなら、あなたは相手のキャラを1枚選び、ストック置場に置いてよい。",
+		"【起】［このカードを【レスト】する］ あなたは自分か相手の、山札の上から1枚を公開してよい。そのカードがCXでないなら、そのカードを控え室に置く。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S113-013MR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_013mr.png",
+	"tags": null
+}

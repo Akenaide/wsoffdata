@@ -1,0 +1,33 @@
+{
+	"set": "MAR",
+	"setName": "MARVEL Vol.2",
+	"side": "S",
+	"release": "113",
+	"id": "004S",
+	"name": "",
+	"jpName": "ノヴァ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+		"【起】［このカードを山札の下に置く］ あなたは自分の山札を上から3枚まで見て、カードを1枚選び、手札に加え、残りのカードを山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S113-004S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_004s.png",
+	"tags": null
+}

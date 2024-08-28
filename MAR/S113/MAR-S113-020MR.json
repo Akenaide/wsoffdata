@@ -1,0 +1,34 @@
+{
+	"set": "MAR",
+	"setName": "MARVEL Vol.2",
+	"side": "S",
+	"release": "113",
+	"id": "020MR",
+	"name": "",
+	"jpName": "“The Saga Of The Mighty Thor”ジェーン・フォスター",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "MR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたが自分の「“GOD OF THUNDER REBORN”ソー」の【CXコンボ】で得た【自】のコストを払う時、手札のこのカードを、ストック2枚のかわりに控え室に置いてよい。",
+		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×1000に等しい。",
+		"【起】［(2) 手札の《MARVEL》のキャラを1枚控え室に置き、このカードを【レスト】する］ あなたのレベルが2以上で、他のあなたの《MARVEL》のキャラが3枚以上なら、あなたは自分の控え室の「“GOD OF THUNDER REBORN”ソー」を1枚選び、舞台のキャラのいない枠に置く。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S113-020MR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_020mr.png",
+	"tags": null
+}

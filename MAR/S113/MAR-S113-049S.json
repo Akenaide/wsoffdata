@@ -1,0 +1,33 @@
+{
+	"set": "MAR",
+	"setName": "MARVEL Vol.2",
+	"side": "S",
+	"release": "113",
+	"id": "049S",
+	"name": "",
+	"jpName": "BLACK, WHITE \u0026 BLOOD デッドプール",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは手札に戻せず、思い出にできない。』",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S113-049S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_049s.png",
+	"tags": null
+}

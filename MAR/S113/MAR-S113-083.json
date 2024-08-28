@@ -1,0 +1,31 @@
+{
+	"set": "MAR",
+	"setName": "MARVEL Vol.2",
+	"side": "S",
+	"release": "113",
+	"id": "083",
+	"name": "",
+	"jpName": "神出鬼没のヒーロー アントマン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《MARVEL》のキャラがいるなら、あなたは相手のキャラを1枚選び、そのターン中、レベルを＋1か－1。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の山札を見て《MARVEL》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S113-083",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_083.png",
+	"tags": null
+}
