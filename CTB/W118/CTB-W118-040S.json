@@ -1,0 +1,35 @@
+{
+	"set": "CTB",
+	"setName": "『キャプテン翼』",
+	"side": "W",
+	"release": "118",
+	"id": "040S",
+	"name": "",
+	"jpName": "ウルグアイJr.ユース代表 ビクトリーノ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か「ウルグアイJr.ユース代表 ビクトリーノ」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(2) 手札を1枚控え室に置く］ 控え室にこのカードがあり、あなたのCXフェイズの始めに、あなたのレベルが3以上で、あなたのキャラすべてが《サッカー》なら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に置く。",
+		"【自】 このカードの下に表向きのマーカーが置かれた時、そのターン中、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"サッカー",
+		"ウルグアイ代表"
+	],
+	"version": "3",
+	"cardcode": "CTB/W118-040S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_040s.png",
+	"tags": null
+}

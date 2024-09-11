@@ -1,0 +1,32 @@
+{
+	"set": "CTB",
+	"setName": "『キャプテン翼』",
+	"side": "W",
+	"release": "118",
+	"id": "069",
+	"name": "",
+	"jpName": "見守る視線 沢田タケシ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《サッカー》のキャラか「サッカーボール」なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。（公開したカードは元に戻す）",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《サッカー》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"サッカー",
+		"日本代表"
+	],
+	"version": "3",
+	"cardcode": "CTB/W118-069",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_069.png",
+	"tags": null
+}

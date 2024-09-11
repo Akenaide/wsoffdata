@@ -1,0 +1,35 @@
+{
+	"set": "CTB",
+	"setName": "『キャプテン翼』",
+	"side": "W",
+	"release": "118",
+	"id": "051",
+	"name": "",
+	"jpName": "イタリアJr.ユース代表 ヘルナンデス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《サッカー》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのトリガーアイコンが[TREASURE]のCXがCX置場に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+		"【自】 あなたのトリガーアイコンが[TREASURE]のCXがトリガーした時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"サッカー",
+		"イタリア代表"
+	],
+	"version": "3",
+	"cardcode": "CTB/W118-051",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_051.png",
+	"tags": null
+}

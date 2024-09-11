@@ -1,0 +1,35 @@
+{
+	"set": "CTB",
+	"setName": "『キャプテン翼』",
+	"side": "W",
+	"release": "118",
+	"id": "015",
+	"name": "",
+	"jpName": "武蔵中学校キャプテン 三杉 淳",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［このカードの下のマーカーを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"サッカー",
+		"武蔵中"
+	],
+	"version": "3",
+	"cardcode": "CTB/W118-015",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_015.png",
+	"tags": null
+}

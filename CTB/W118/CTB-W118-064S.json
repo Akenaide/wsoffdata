@@ -1,0 +1,34 @@
+{
+	"set": "CTB",
+	"setName": "『キャプテン翼』",
+	"side": "W",
+	"release": "118",
+	"id": "064S",
+	"name": "",
+	"jpName": "フィールドを駆ける 日向小次郎",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［(2) 手札を1枚控え室に置き、このカードの下のマーカーを1枚山札の下に置く］ このカードがアタックした時、CX置場に「タイガーショット」があるなら、あなたはコストを払ってよい。そうしたら、あなたは好きな数を宣言し、相手にＸダメージを与え、そのターン中、このカードのパワーを＋2000。Ｘはあなたの宣言した数に等しい。』（マイナスの数は宣言できない。ダメージキャンセルは発生する）",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の《サッカー》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"サッカー",
+		"日本代表"
+	],
+	"version": "3",
+	"cardcode": "CTB/W118-064S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_064s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "CTB",
+	"setName": "『キャプテン翼』",
+	"side": "W",
+	"release": "118",
+	"id": "079",
+	"name": "",
+	"jpName": "日本Jr.ユース代表 岬 太郎",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「日本Jr.ユース代表 大空 翼」を1枚選び、舞台の好きな枠に置く。",
+		"【自】 このカードの下に表向きのマーカーが置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』",
+		"【自】 あなたのアタックフェイズの始めに、このカードの下にマーカーがあるなら、あなたは自分のマーカーを持たない《サッカー》のキャラを1枚選び、このカードの下のマーカーを1枚そのキャラの下にマーカーとして表向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"サッカー",
+		"日本代表"
+	],
+	"version": "3",
+	"cardcode": "CTB/W118-079",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_079.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "CTB",
+	"setName": "『キャプテン翼』",
+	"side": "W",
+	"release": "118",
+	"id": "063",
+	"name": "",
+	"jpName": "日本Jr.ユース代表 立花和夫",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「スカイラブハリケーン2段発進」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
+		"【自】［(4) 手札を1枚控え室に置き、このカードの下のマーカーを1枚山札の下に置き、他のあなたの「日本Jr.ユース代表 立花政夫」の下のマーカーを1枚山札の下に置く］ このカードのアタックの終わりに、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】し、そのターン中、あなたは5回目以降のアタックができない。"
+	],
+	"specialAttrib": [
+		"サッカー",
+		"日本代表"
+	],
+	"version": "3",
+	"cardcode": "CTB/W118-063",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_063.png",
+	"tags": null
+}

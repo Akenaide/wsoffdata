@@ -1,0 +1,34 @@
+{
+	"set": "CTB",
+	"setName": "『キャプテン翼』",
+	"side": "W",
+	"release": "118",
+	"id": "045S",
+	"name": "",
+	"jpName": "ドイツJr.ユース代表 カルツ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたの控え室に「ドイツJr.ユース代表 シュナイダー」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にCXがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"サッカー",
+		"ドイツ代表"
+	],
+	"version": "3",
+	"cardcode": "CTB/W118-045S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_045s.png",
+	"tags": null
+}
