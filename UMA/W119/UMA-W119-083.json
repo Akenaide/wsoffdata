@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"side": "W",
+	"release": "119",
+	"id": "083",
+	"name": "",
+	"jpName": "最強への挑戦 ジャングルポケット",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "0",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「最強の証明」があるなら、あなたは自分の控え室の《ウマ娘》のキャラを1枚まで選び、手札に戻し、ターンの終わりに、次の行動を行う。『あなたは自分の前列の《ウマ娘》のキャラを1枚と自分の後列の《ウマ娘》のキャラを1枚選び、それぞれを【レスト】して入れ替えてよい。』",
+		"【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W119-083",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_083.png",
+	"tags": null
+}

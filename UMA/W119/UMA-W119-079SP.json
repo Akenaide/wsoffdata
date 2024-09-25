@@ -1,0 +1,35 @@
+{
+	"set": "UMA",
+	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"side": "W",
+	"release": "119",
+	"id": "079SP",
+	"name": "",
+	"jpName": "舞台の真ん中に ダンツフレーム",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "3000",
+	"soul": "3",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《ウマ娘》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、このカードのパワーを＋8000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードのアタックの終わりに、あなたは他の自分の《ウマ娘》のキャラを1枚選び、このカードをそのキャラの下にマーカーとして表向きに置いてよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W119-079SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_079sp.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"side": "W",
+	"release": "119",
+	"id": "051",
+	"name": "",
+	"jpName": "実証実験 アグネスタキオン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W119-051",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_051.png",
+	"tags": null
+}

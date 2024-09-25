@@ -1,0 +1,33 @@
+{
+	"set": "UMA",
+	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"side": "W",
+	"release": "119",
+	"id": "029SP",
+	"name": "",
+	"jpName": "勝利の栄光へ テイエムオペラオー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「覇道の軌跡」があり、このカードの下にマーカーがあり、他のあなたの《ウマ娘》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から1枚見て、好きな数を宣言し、相手にＸダメージを与える。Ｘはあなたの宣言した数に等しい。（見たカードは元に戻す。マイナスの数は宣言できない。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W119-029SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_029sp.png",
+	"tags": null
+}

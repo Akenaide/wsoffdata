@@ -1,0 +1,31 @@
+{
+	"set": "UMA",
+	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"side": "W",
+	"release": "119",
+	"id": "080SP",
+	"name": "",
+	"jpName": "勝利を目指して ダンツフレーム",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが『集中』を使った時、このカードの下にマーカーがあり、その効果でめくったCXが控え室に置かれたなら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+	],
+	"specialAttrib": [
+		"ウマ娘"
+	],
+	"version": "3",
+	"cardcode": "UMA/W119-080SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_080sp.png",
+	"tags": null
+}
