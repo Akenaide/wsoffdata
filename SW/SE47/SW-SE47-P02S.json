@@ -1,0 +1,33 @@
+{
+	"set": "SW",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "E47",
+	"id": "P02S",
+	"name": "",
+	"jpName": "“熟練の操作技術”マンダロリアン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"マンダロリアン"
+	],
+	"version": "3",
+	"cardcode": "SW/SE47-P02S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se47/sw_se47_p02s.png",
+	"tags": null
+}
