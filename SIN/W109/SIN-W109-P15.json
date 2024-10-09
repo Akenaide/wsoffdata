@@ -1,0 +1,31 @@
+{
+	"set": "SIN",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "109",
+	"id": "P15",
+	"name": "",
+	"jpName": "大切なあなたへ 天王寺 璃奈",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIN/W109-P15",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sin_w109/sin_w109_p15.png",
+	"tags": null
+}
