@@ -1,0 +1,36 @@
+{
+	"set": "Fsp",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "004",
+	"name": "",
+	"jpName": "《氷刃》のモニカ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「少女交戦中」があり、他のあなたの、《ファンタジア文庫》か《スパイ》のキャラが4枚以上なら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置き、自分の、《ファンタジア文庫》か《スパイ》のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"スパイ",
+		"灯"
+	],
+	"version": "3",
+	"cardcode": "Fsp/W120-004",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsp_w120/fsp_w120_004.png",
+	"tags": null
+}

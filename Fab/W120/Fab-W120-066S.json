@@ -1,0 +1,34 @@
+{
+	"set": "Fab",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "066S",
+	"name": "",
+	"jpName": "メープルキッチン いすず",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"甘ブリ"
+	],
+	"version": "3",
+	"cardcode": "Fab/W120-066S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fab_w120/fab_w120_066s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "Fdl",
+	"setName": "[TD]富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "T09",
+	"name": "",
+	"jpName": "女王様で無邪気な妹 琴里",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［他のあなたの舞台のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札の上に置く。",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の、《ファンタジア文庫》か《デート》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"デート",
+		"ラタトスク"
+	],
+	"version": "3",
+	"cardcode": "Fdl/W120-T09",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w120/fdl_w120_t09.png",
+	"tags": null
+}

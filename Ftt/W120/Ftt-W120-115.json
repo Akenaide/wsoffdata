@@ -1,0 +1,36 @@
+{
+	"set": "Ftt",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "115",
+	"name": "",
+	"jpName": "転生王女と天才令嬢 アニスフィア＆ユフィリア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《ファンタジア文庫》か《魔法》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の、《ファンタジア文庫》か《魔法》のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードがアタックした時、あなたは相手の控え室のカードを1枚まで選び、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"魔法",
+		"王族"
+	],
+	"version": "3",
+	"cardcode": "Ftt/W120-115",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ftt_w120/ftt_w120_115.png",
+	"tags": null
+}

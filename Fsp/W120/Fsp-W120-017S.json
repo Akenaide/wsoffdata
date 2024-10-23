@@ -1,0 +1,35 @@
+{
+	"set": "Fsp",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "017S",
+	"name": "",
+	"jpName": "少女悪戯中…？ アネット",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を2枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、ストック置場の下に置く。そうしたら、あなたは相手のストックの上から1枚を、控え室に置く。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"スパイ",
+		"灯"
+	],
+	"version": "3",
+	"cardcode": "Fsp/W120-017S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsp_w120/fsp_w120_017s.png",
+	"tags": null
+}

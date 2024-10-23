@@ -1,0 +1,35 @@
+{
+	"set": "Ftt",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "142S",
+	"name": "",
+	"jpName": "悪友の侯爵令嬢 ティルティ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《ファンタジア文庫》か《魔法》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"魔法",
+		"令嬢"
+	],
+	"version": "3",
+	"cardcode": "Ftt/W120-142S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ftt_w120/ftt_w120_142s.png",
+	"tags": null
+}

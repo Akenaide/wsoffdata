@@ -1,0 +1,36 @@
+{
+	"set": "Fdl",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "139",
+	"name": "",
+	"jpName": "情愛の〈シスター〉 二亜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を見てよい。そうしたら、あなたはそのカードをこのカードの下にマーカーとして裏向きに置く。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
+		"【自】 あなたのターン中、下にマーカーがあるこのカードが舞台から控え室に置かれた時、他のあなたの、《ファンタジア文庫》か《デート》のキャラがいるなら、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "Fdl/W120-139",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w120/fdl_w120_139.png",
+	"tags": null
+}

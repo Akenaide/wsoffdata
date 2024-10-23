@@ -1,0 +1,35 @@
+{
+	"set": "Fra",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "143",
+	"name": "",
+	"jpName": "成長の兆し リィエル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】 このカードがアタックした時、あなたは他の自分の、《ファンタジア文庫》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室のイベントの枚数×1500に等しい。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"魔法",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "Fra/W120-143",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fra_w120/fra_w120_143.png",
+	"tags": null
+}

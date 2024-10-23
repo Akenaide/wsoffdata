@@ -1,0 +1,35 @@
+{
+	"set": "Ffp",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "069S",
+	"name": "",
+	"jpName": "浜辺で戯れて かなめ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 控え室にこのカードがあるなら、あなたの第1ターンの始めに、あなたはこのカードをストック置場に置いてよい。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《ファンタジア文庫》か《ウィスパード》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"ウィスパード",
+		"優等生"
+	],
+	"version": "3",
+	"cardcode": "Ffp/W120-069S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ffp_w120/ffp_w120_069s.png",
+	"tags": null
+}

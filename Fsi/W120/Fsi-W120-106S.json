@@ -1,0 +1,35 @@
+{
+	"set": "Fsi",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "106S",
+	"name": "",
+	"jpName": "趣味の次に大事な人 真冬",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《ファンタジア文庫》か《生徒会》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 この能力は1ターンにつき1回まで発動する。このカードが【リバース】した時、あなたは自分の山札の上から4枚を、控え室に置く。それらのカードに「漢らしい純情乙女 深夏」があるなら、あなたはこのカードを【レスト】してよい。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"生徒会",
+		"オタク"
+	],
+	"version": "3",
+	"cardcode": "Fsi/W120-106S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsi_w120/fsi_w120_106s.png",
+	"tags": null
+}

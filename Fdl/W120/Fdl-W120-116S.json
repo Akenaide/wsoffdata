@@ -1,0 +1,35 @@
+{
+	"set": "Fdl",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "116S",
+	"name": "",
+	"jpName": "始原の〈デウス〉 澪",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、《精霊》を与える。",
+		"【自】【CXコンボ】［手札を1枚控え室に置き、他のあなたの舞台の《精霊》のキャラを1枚控え室に置く］ このカードがアタックした時、CX置場に「すべては愛する人のため」があり、あなたのキャラすべてが《ファンタジア文庫》か《デート》なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋3000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "Fdl/W120-116S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w120/fdl_w120_116s.png",
+	"tags": null
+}

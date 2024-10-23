@@ -1,0 +1,35 @@
+{
+	"set": "Fsh",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "055",
+	"name": "",
+	"jpName": "生まれたときからの幼なじみ 美智留",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 記憶 ［(1)］ あなたがこのカードの『助太刀』を使った時、あなたの思い出置場の、《ファンタジア文庫》か《ゲーム》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ファンタジア文庫》か《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"ゲーム",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "Fsh/W120-055",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsh_w120/fsh_w120_055.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "Ffp",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "059S",
+	"name": "",
+	"jpName": "浜辺で戯れて テレサ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《ファンタジア文庫》か《ミスリル》のキャラが4枚以上なら、あなたは自分の控え室の、《ファンタジア文庫》か《ミスリル》のキャラを1枚選び、ストック置場に置いてよい。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"ミスリル",
+		"ウィスパード"
+	],
+	"version": "3",
+	"cardcode": "Ffp/W120-059S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ffp_w120/ffp_w120_059s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "Fdl",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "103",
+	"name": "",
+	"jpName": "3人でのデェト 天香",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《ファンタジア文庫》か《デート》のキャラが4枚以上なら、あなたは自分の控え室の、《ファンタジア文庫》か《デート》のキャラを1枚選び、ストック置場に置いてよい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "Fdl/W120-103",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w120/fdl_w120_103.png",
+	"tags": null
+}

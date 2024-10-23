@@ -1,0 +1,35 @@
+{
+	"set": "Ffp",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "040S",
+	"name": "",
+	"jpName": "選択した未来 宗介＆かなめ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。",
+		"【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「戦うボーイ・ミーツ・ガール」があり、他のあなたの、《ファンタジア文庫》か《ミスリル》か《ウィスパード》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは好きな数を宣言し、相手にＸダメージを与える。Ｘはあなたの宣言した数に等しい。（マイナスの数は宣言できない。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"ミスリル",
+		"ウィスパード"
+	],
+	"version": "3",
+	"cardcode": "Ffp/W120-040S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ffp_w120/ffp_w120_040s.png",
+	"tags": null
+}

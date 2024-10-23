@@ -1,0 +1,35 @@
+{
+	"set": "Fdl",
+	"setName": "富士見ファンタジア文庫 Vol.2",
+	"side": "W",
+	"release": "120",
+	"id": "003S",
+	"name": "",
+	"jpName": "邁進する恋乙女 狂三",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋5000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「凱旋と決戦と」があり、他のあなたのキャラが3枚以上なら、あなたは自分の山札の上から4枚までを、控え室に置き、自分の控え室のレベルＸ以下の、《ファンタジア文庫》か《デート》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋500。Ｘはこの効果で控え室に置かれたトリガーアイコンに[SOUL]があるカードの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "Fdl/W120-003S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w120/fdl_w120_003s.png",
+	"tags": null
+}
