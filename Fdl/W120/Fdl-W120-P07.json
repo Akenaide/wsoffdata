@@ -1,0 +1,36 @@
+{
+	"set": "Fdl",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "120",
+	"id": "P07",
+	"name": "",
+	"jpName": "《姫騎士》十香",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】［このカードを【レスト】する］ あなたは自分の、《ファンタジア文庫》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋2500。",
+		"【起】［手札を1枚控え室に置き、このカードを【レスト】する］ あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "Fdl/W120-P07",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w120/fdl_w120_p07.png",
+	"tags": null
+}

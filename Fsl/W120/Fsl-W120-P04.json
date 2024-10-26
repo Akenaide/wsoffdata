@@ -1,0 +1,35 @@
+{
+	"set": "Fsl",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "120",
+	"id": "P04",
+	"name": "",
+	"jpName": "《勇者》リナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×2000に等しい。"
+	],
+	"specialAttrib": [
+		"ファンタジア文庫",
+		"魔法",
+		"天才"
+	],
+	"version": "3",
+	"cardcode": "Fsl/W120-P04",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsl_w120/fsl_w120_p04.png",
+	"tags": null
+}
