@@ -1,0 +1,35 @@
+{
+	"set": "YRC",
+	"setName": "『ゆるキャン△ SEASON３』",
+	"side": "W",
+	"release": "116",
+	"id": "050S",
+	"name": "",
+	"jpName": "食後の川根茶ソフト なでしこ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《ゆるキャン△》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《ゆるキャン△》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"ゆるキャン△",
+		"料理"
+	],
+	"version": "3",
+	"cardcode": "YRC/W116-050S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_050s.png",
+	"tags": null
+}

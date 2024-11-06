@@ -1,0 +1,34 @@
+{
+	"set": "YRC",
+	"setName": "『ゆるキャン△ SEASON３』",
+	"side": "W",
+	"release": "116",
+	"id": "058",
+	"name": "",
+	"jpName": "温泉を満喫 綾乃",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《ゆるキャン△》のキャラが2枚以上なら、このカードのパワーを＋6000。",
+		"【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「吊り橋の上で」があり、前列にこのカードがいて、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードは【リバース】しない。』"
+	],
+	"specialAttrib": [
+		"ゆるキャン△",
+		"バイク"
+	],
+	"version": "3",
+	"cardcode": "YRC/W116-058",
+	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_058.png",
+	"tags": null
+}
