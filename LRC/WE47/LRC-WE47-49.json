@@ -1,0 +1,35 @@
+{
+	"set": "LRC",
+	"setName": "プレミアムブースター リコリス・リコイル",
+	"side": "W",
+	"release": "E47",
+	"id": "49",
+	"name": "",
+	"jpName": "夏祭り満喫中 たきな",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《リコリコ》か《武器》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは2枚まで引き、手札を1枚選び、控え室に置く。』『［手札を1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。』",
+		"【自】 このカードがアタックした時、他のあなたの、《リコリコ》か《武器》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/WE47-49",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_49.png",
+	"tags": null
+}

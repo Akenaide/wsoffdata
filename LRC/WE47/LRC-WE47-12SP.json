@@ -1,0 +1,33 @@
+{
+	"set": "LRC",
+	"setName": "プレミアムブースター リコリス・リコイル",
+	"side": "W",
+	"release": "E47",
+	"id": "12SP",
+	"name": "",
+	"jpName": "リコリスの使命 千束",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1) あなたの控え室の、《リコリコ》か《武器》のキャラを1枚クロック置場の下に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/WE47-12SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_12sp.png",
+	"tags": null
+}

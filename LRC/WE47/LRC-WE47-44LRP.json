@@ -1,0 +1,35 @@
+{
+	"set": "LRC",
+	"setName": "プレミアムブースター リコリス・リコイル",
+	"side": "W",
+	"release": "E47",
+	"id": "44LRP",
+	"name": "",
+	"jpName": "巡る季節 たきな",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "LRP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋10000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「巡る季節 千束」を2枚まで選び、このカードの下にマーカーとして好きな順番で表向きに置く。",
+		"【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードのマーカーを2枚まで選び、ストック置場の下に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/WE47-44LRP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_44lrp.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "LRC",
+	"setName": "プレミアムブースター リコリス・リコイル",
+	"side": "W",
+	"release": "E47",
+	"id": "37SP",
+	"name": "",
+	"jpName": "トロピカルガール たきな",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードと同じカード名のカードと、「ファーストリコリス フキ」は、デッキに合計4枚まで入れることができる。",
+		"【自】 あなたのキャラがダイレクトアタックした時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+		"【起】［このカードをクロック置場に置く］ あなたは自分の山札を上から4枚まで見て、《リコリコ》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/WE47-37SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_37sp.png",
+	"tags": null
+}

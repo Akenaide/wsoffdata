@@ -1,0 +1,35 @@
+{
+	"set": "LRC",
+	"setName": "プレミアムブースター リコリス・リコイル",
+	"side": "W",
+	"release": "E47",
+	"id": "50",
+	"name": "",
+	"jpName": "雪降る夜に 千束＆たきな",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場に「雪降る夜に 千束＆たきな」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場の「雪降る夜に 千束＆たきな」と舞台のキャラを1枚ずつ選び、入れ替えてよい。（舞台に置くキャラは【スタンド】して置かれる）",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「星空探索」があり、他のあなたの、《リコリコ》か《武器》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋2000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/WE47-50",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_50.png",
+	"tags": null
+}

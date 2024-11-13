@@ -1,0 +1,35 @@
+{
+	"set": "LRC",
+	"setName": "プレミアムブースター リコリス・リコイル",
+	"side": "W",
+	"release": "E47",
+	"id": "28",
+	"name": "",
+	"jpName": "花火大会 千束＆たきな",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「2人の射的名人」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、相手は自分の山札の上から10枚を、控え室に置き、そのターン中、このカードのパワーを＋4000。（ダメージキャンセルは発生する）",
+		"【自】 このカードが[STANDBY]の効果で舞台に置かれた時、あなたはこのカードを手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/WE47-28",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_28.png",
+	"tags": null
+}

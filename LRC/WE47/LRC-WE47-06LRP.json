@@ -1,0 +1,35 @@
+{
+	"set": "LRC",
+	"setName": "プレミアムブースター リコリス・リコイル",
+	"side": "W",
+	"release": "E47",
+	"id": "06LRP",
+	"name": "",
+	"jpName": "ご賞味あれ♪ たきな",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "LRP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたが自分の「喫茶リコリコ たきな」の【起】のコストを払う時、手札のこのカードを、ストック1枚かストック2枚のかわりに控え室に置いてよい。",
+		"【起】［このカードを控え室に置く］ あなたは自分の山札を見て「敏腕経理 たきな」を1枚まで選び、このカードがいた枠に置き、その山札をシャッフルする。",
+		"【起】［(1) このカードを控え室に置く］ あなたのレベルが2以上なら、あなたは自分の控え室の「喫茶リコリコ たきな」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/WE47-06LRP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_06lrp.png",
+	"tags": null
+}

@@ -1,0 +1,32 @@
+{
+	"set": "LRC",
+	"setName": "プレミアムブースター リコリス・リコイル",
+	"side": "W",
+	"release": "E47",
+	"id": "16",
+	"name": "",
+	"jpName": "“Are you in trouble?”千束",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードのレベルが1以上なら、このカードを手札に戻す。（CXのレベルは0として扱う）",
+		"【自】 経験 ［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場に「滲み出る殺意 たきな」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/WE47-16",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_16.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "LRC",
+	"setName": "プレミアムブースター リコリス・リコイル",
+	"side": "W",
+	"release": "E47",
+	"id": "23LRP",
+	"name": "",
+	"jpName": "シーサーポーズ 千束",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "LRP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《リコリコ》か《武器》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがトリガーした時、相手は自分の山札の上から4枚を、控え室に置き、このカードの下にマーカーがないなら、あなたは自分の控え室のカードを1枚まで選び、このカードの下にマーカーとして表向きに置く。",
+		"【起】［(1) このカードの下のマーカーを1枚控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/WE47-23LRP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_23lrp.png",
+	"tags": null
+}

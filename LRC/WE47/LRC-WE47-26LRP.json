@@ -1,0 +1,35 @@
+{
+	"set": "LRC",
+	"setName": "プレミアムブースター リコリス・リコイル",
+	"side": "W",
+	"release": "E47",
+	"id": "26LRP",
+	"name": "",
+	"jpName": "最期の戦い 千束",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "LRP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】【CXコンボ】［あなたのCX置場の「貫く想い」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+		"【起】［手札の「最期の前に 千束」を1枚控え室に置き、このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"リコリコ",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "LRC/WE47-26LRP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_26lrp.png",
+	"tags": null
+}
