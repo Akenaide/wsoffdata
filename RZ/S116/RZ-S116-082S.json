@@ -1,0 +1,35 @@
+{
+	"set": "RZ",
+	"setName": "「Re:ゼロから始める異世界生活」Vol.3",
+	"side": "S",
+	"release": "116",
+	"id": "082S",
+	"name": "",
+	"jpName": "魔法少女 恋夢",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 すべての領域にあるこのカードのカード名は「レム」としても扱う。",
+		"【永】 あなたのターン中、あなたのキャラすべてが《魔法》か《武器》なら、このカードのパワーを＋2000。",
+		"【自】【CXコンボ】 あなたのCX置場に「心で繋がる不変の絆」が置かれた時、前列にこのカードがいて、他のあなたの前列の「魔法少女 愛夢」がいるなら、あなたは自分の控え室のキャラを2枚まで選び、1枚選び、手札に加え、残りのカードをストック置場に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"メイド"
+	],
+	"version": "3",
+	"cardcode": "RZ/S116-082S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s116/rz_s116_082s.png",
+	"tags": null
+}

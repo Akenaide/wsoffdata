@@ -1,0 +1,35 @@
+{
+	"set": "RZ",
+	"setName": "「Re:ゼロから始める異世界生活」Vol.3",
+	"side": "S",
+	"release": "116",
+	"id": "069S",
+	"name": "",
+	"jpName": "現した本性 ロズワール",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の思い出置場の「叡智の書」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+		"【自】 あなたの、クロックフェイズの始めかアタックフェイズの始めに、このカードの下にマーカーがあるなら、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"オッドアイ"
+	],
+	"version": "3",
+	"cardcode": "RZ/S116-069S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s116/rz_s116_069s.png",
+	"tags": null
+}
