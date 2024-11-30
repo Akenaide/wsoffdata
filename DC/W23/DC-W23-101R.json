@@ -1,0 +1,34 @@
+{
+	"set": "DC",
+	"setName": "2013年度トライアルデッキ【W】",
+	"side": "W",
+	"release": "23",
+	"id": "101R",
+	"name": "",
+	"jpName": "家庭教師のお姉ちゃん 音姫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"先生"
+	],
+	"version": "3",
+	"cardcode": "DC/W23-101R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_101r.png",
+	"tags": null
+}
