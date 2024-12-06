@@ -1,0 +1,35 @@
+{
+	"set": "NIK",
+	"setName": "勝利の女神：NIKKE",
+	"side": "S",
+	"release": "117",
+	"id": "110",
+	"name": "",
+	"jpName": "“ワード・オブ・キル”シン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "6000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは、あなたのレベル置場に、黄のカードと赤のカードと青のカードがないなら、手札からプレイできない。",
+		"【永】 他のあなたの《NIKKE》のキャラすべてに、パワーを＋1500。",
+		"【自】［(5)］ 相手のドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手の【スタンド】しているレベル3以下のキャラを1枚選び、【レスト】し、相手にＸダメージを与える。Ｘはそのキャラのソウルに等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"NIKKE",
+		"リアルカインドネス"
+	],
+	"version": "3",
+	"cardcode": "NIK/S117-110",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_110.png",
+	"tags": null
+}

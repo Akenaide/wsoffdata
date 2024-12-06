@@ -1,0 +1,35 @@
+{
+	"set": "NIK",
+	"setName": "勝利の女神：NIKKE",
+	"side": "S",
+	"release": "117",
+	"id": "050SP",
+	"name": "",
+	"jpName": "“トラブルシューター”シュガー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《NIKKE》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"NIKKE",
+		"カフェ",
+		"スウィーティー"
+	],
+	"version": "3",
+	"cardcode": "NIK/S117-050SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_050sp.png",
+	"tags": null
+}

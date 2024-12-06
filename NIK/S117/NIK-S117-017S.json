@@ -1,0 +1,35 @@
+{
+	"set": "NIK",
+	"setName": "勝利の女神：NIKKE",
+	"side": "S",
+	"release": "117",
+	"id": "017S",
+	"name": "",
+	"jpName": "甘いスイーツ ティア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場に、「甘いスイーツ ティア」と「“友だちと一緒なら！”ナガ」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 前列にこのカードがいるなら、あなたの《NIKKE》のキャラすべてに、パワーを＋1500。",
+		"【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「DAZZLING CUPID」があり、前列にこのカードがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の2つの能力を得る。『【永】 このカードは相手の効果に選ばれない。』『【永】 大活躍』"
+	],
+	"specialAttrib": [
+		"NIKKE",
+		"ダージリンパール"
+	],
+	"version": "3",
+	"cardcode": "NIK/S117-017S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_017s.png",
+	"tags": null
+}

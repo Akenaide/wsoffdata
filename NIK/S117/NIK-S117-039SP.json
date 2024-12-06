@@ -1,0 +1,34 @@
+{
+	"set": "NIK",
+	"setName": "勝利の女神：NIKKE",
+	"side": "S",
+	"release": "117",
+	"id": "039SP",
+	"name": "",
+	"jpName": "メアリー：ベイゴッデス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《NIKKE》のキャラが2枚以上なら、このカードのパワーを＋5000。",
+		"【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「BLUEWATER ISLAND」があり、前列にこのカードがいて、他のあなたの《NIKKE》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"NIKKE",
+		"セラフィム"
+	],
+	"version": "3",
+	"cardcode": "NIK/S117-039SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_039sp.png",
+	"tags": null
+}

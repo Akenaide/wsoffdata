@@ -1,0 +1,35 @@
+{
+	"set": "NIK",
+	"setName": "勝利の女神：NIKKE",
+	"side": "S",
+	"release": "117",
+	"id": "067",
+	"name": "",
+	"jpName": "無垢の愛 モダニア",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 手札のこのカードをプレイするにあたり、あなたは自分の「“リアライズ”マリアン」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の《NIKKE》のキャラを1枚選び、山札の下に置いてよい。",
+		"【自】［(3) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"NIKKE",
+		"ヘレティック"
+	],
+	"version": "3",
+	"cardcode": "NIK/S117-067",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_067.png",
+	"tags": null
+}

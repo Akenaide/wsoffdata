@@ -1,0 +1,34 @@
+{
+	"set": "NIK",
+	"setName": "勝利の女神：NIKKE",
+	"side": "S",
+	"release": "117",
+	"id": "015S",
+	"name": "",
+	"jpName": "“ダブルブースト”リター",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×1000に等しい。",
+		"【起】［(2) 手札のCXを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室のカードを1枚選び、山札に戻し、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"NIKKE",
+		"マイティツールズ"
+	],
+	"version": "3",
+	"cardcode": "NIK/S117-015S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_015s.png",
+	"tags": null
+}

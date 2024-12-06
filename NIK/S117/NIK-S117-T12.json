@@ -1,0 +1,33 @@
+{
+	"set": "NIK",
+	"setName": "[TD]勝利の女神：NIKKE",
+	"side": "S",
+	"release": "117",
+	"id": "T12",
+	"name": "",
+	"jpName": "No Caller ID",
+	"cardType": "CX",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"CHOICE"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
+		"（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+	],
+	"specialAttrib": [
+		"NIKKE"
+	],
+	"version": "3",
+	"cardcode": "NIK/S117-T12",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_t12.png",
+	"tags": null
+}

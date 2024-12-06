@@ -1,0 +1,34 @@
+{
+	"set": "NIK",
+	"setName": "勝利の女神：NIKKE",
+	"side": "S",
+	"release": "117",
+	"id": "024",
+	"name": "",
+	"jpName": "“ラプラスバスター”ラプラス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
+		"【自】［(4) あなたの舞台の《NIKKE》のキャラを3枚控え室に置き、手札を4枚控え室に置く］ このカードが手札から舞台に置かれたターン中、あなたのキャラが【リバース】した時、あなたの【リバース】しているキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを前列のキャラのいない枠に動かし、相手のキャラすべてを、控え室に置き、そのターン中、このカードは《ヒーロー》を得る。"
+	],
+	"specialAttrib": [
+		"NIKKE",
+		"メティス"
+	],
+	"version": "3",
+	"cardcode": "NIK/S117-024",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_024.png",
+	"tags": null
+}

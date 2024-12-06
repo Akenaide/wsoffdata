@@ -1,0 +1,35 @@
+{
+	"set": "NIK",
+	"setName": "勝利の女神：NIKKE",
+	"side": "S",
+	"release": "117",
+	"id": "079",
+	"name": "",
+	"jpName": "“偉大なる脱出”クエンシー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは、あなたのレベル置場に、黄のカードと赤のカードと青のカードがないなら、手札からプレイできない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置く。他のあなたの《NIKKE》のキャラが4枚以上なら、控え室に置くかわりにストック置場に置いてよい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"NIKKE",
+		"リアルカインドネス"
+	],
+	"version": "3",
+	"cardcode": "NIK/S117-079",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_079.png",
+	"tags": null
+}

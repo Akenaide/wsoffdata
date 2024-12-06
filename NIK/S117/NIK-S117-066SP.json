@@ -1,0 +1,35 @@
+{
+	"set": "NIK",
+	"setName": "勝利の女神：NIKKE",
+	"side": "S",
+	"release": "117",
+	"id": "066SP",
+	"name": "",
+	"jpName": "“お散歩トレーニング”ビスケット",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《NIKKE》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の《NIKKE》のキャラを1枚控え室に置く］』を得る。",
+		"【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「BOW WOW PARADISE」があり、他のあなたの《NIKKE》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"NIKKE",
+		"ハッピーズー"
+	],
+	"version": "3",
+	"cardcode": "NIK/S117-066SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_066sp.png",
+	"tags": null
+}

@@ -1,0 +1,36 @@
+{
+	"set": "NIK",
+	"setName": "勝利の女神：NIKKE",
+	"side": "S",
+	"release": "117",
+	"id": "086S",
+	"name": "",
+	"jpName": "プリバティ：アンカインド・メイド",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのCX置場にCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[SHOT]を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"NIKKE",
+		"メイド",
+		"フォー",
+		"ユー"
+	],
+	"version": "3",
+	"cardcode": "NIK/S117-086S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_086s.png",
+	"tags": null
+}
