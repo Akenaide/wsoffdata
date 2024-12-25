@@ -1,0 +1,34 @@
+{
+	"set": "GCR",
+	"setName": "プレミアムブースター ガールズバンドクライ",
+	"side": "S",
+	"release": "E48",
+	"id": "66GBC",
+	"name": "",
+	"jpName": "正しさの証明 ヒナ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "GBCR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［他のあなたの舞台の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、カードを1枚まで選び、ストック置場に置き、残りのカードを控え室に置く。",
+		"【自】【CXコンボ】 経験 ［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「ETERNAL FLAME 〜空の箱〜」があり、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、次の相手のターンの終わりまで、このカードのパワーを＋2000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ダイヤモンドダスト"
+	],
+	"version": "3",
+	"cardcode": "GCR/SE48-66GBC",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_66gbc.png",
+	"tags": null
+}

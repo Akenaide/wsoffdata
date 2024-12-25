@@ -1,0 +1,34 @@
+{
+	"set": "GCR",
+	"setName": "プレミアムブースター ガールズバンドクライ",
+	"side": "S",
+	"release": "E48",
+	"id": "67GBC",
+	"name": "",
+	"jpName": "ダイヤモンドダスト ナナ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "GBCR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。",
+		"【自】 経験 ［(1) 手札を1枚控え室に置く］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたのレベル置場のカードのレベルの合計が4以上なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ダイヤモンドダスト"
+	],
+	"version": "3",
+	"cardcode": "GCR/SE48-67GBC",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_67gbc.png",
+	"tags": null
+}

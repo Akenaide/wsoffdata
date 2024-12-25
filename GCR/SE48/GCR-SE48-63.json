@@ -1,0 +1,33 @@
+{
+	"set": "GCR",
+	"setName": "プレミアムブースター ガールズバンドクライ",
+	"side": "S",
+	"release": "E48",
+	"id": "63",
+	"name": "",
+	"jpName": "ダイヤモンドダスト ヒナ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋5000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。",
+		"【自】［(1)］ あなたのトリガーアイコンが[GATE]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置き、1枚まで引く。1枚引いたなら、あなたは自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ダイヤモンドダスト"
+	],
+	"version": "3",
+	"cardcode": "GCR/SE48-63",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_63.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "GCR",
+	"setName": "プレミアムブースター ガールズバンドクライ",
+	"side": "S",
+	"release": "E48",
+	"id": "28",
+	"name": "",
+	"jpName": "“目標!!武道館!!”智",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［手札を1枚控え室に置く］ あなたのトリガーアイコンが[COMEBACK]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"トゲナシトゲアリ"
+	],
+	"version": "3",
+	"cardcode": "GCR/SE48-28",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_28.png",
+	"tags": null
+}
