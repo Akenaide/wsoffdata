@@ -1,0 +1,35 @@
+{
+	"set": "PJS",
+	"setName": "コレクションパック プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+	"side": "S",
+	"release": "E49",
+	"id": "022",
+	"name": "",
+	"jpName": "不自由マスカレード 朝比奈まふゆ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "P",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのクライマックス置場に「『いい子』の私」が置かれた時、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルし、自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。",
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"25時、ナイトコードで。"
+	],
+	"version": "3",
+	"cardcode": "PJS/SE49-022",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_se49/pjs_se49_22.png",
+	"tags": null
+}

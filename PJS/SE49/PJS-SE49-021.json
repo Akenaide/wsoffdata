@@ -1,0 +1,35 @@
+{
+	"set": "PJS",
+	"setName": "コレクションパック プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+	"side": "S",
+	"release": "E49",
+	"id": "021",
+	"name": "",
+	"jpName": "思い出の花壇 宵崎奏",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "P",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 あなたのクライマックス置場に「儚さと美しさ」が置かれた時、前列にこのカードがいて、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"25時、ナイトコードで。"
+	],
+	"version": "3",
+	"cardcode": "PJS/SE49-021",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_se49/pjs_se49_21.png",
+	"tags": null
+}
