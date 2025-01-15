@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "123",
+	"name": "",
+	"jpName": "ビロクシ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたのCX置場にCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）",
+		"【自】 このカードがアタックした時、あなたのCX置場にCXがなく、他のあなたの《艦船》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ユニオン"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-123",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_123.png",
+	"tags": null
+}

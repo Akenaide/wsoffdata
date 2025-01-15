@@ -1,0 +1,35 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "018",
+	"name": "",
+	"jpName": "フランドル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋4000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「わたしたちに勝てると思う？」があるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】［(2)］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを＋6。』",
+		"【自】 経験 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたのレベル置場のカードのレベルの合計が5以上なら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ヴィシア"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-018",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_018.png",
+	"tags": null
+}

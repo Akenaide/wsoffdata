@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "014S",
+	"name": "",
+	"jpName": "ロイヤル・オーク",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】［手札の《艦船》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、思い出にし、アンコールステップの始めに、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ロイヤル"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-014S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_014s.png",
+	"tags": null
+}

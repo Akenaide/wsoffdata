@@ -1,0 +1,35 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "003S",
+	"name": "",
+	"jpName": "軽巡洋艦 ベルファスト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ロイヤル"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-003S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_003s.png",
+	"tags": null
+}

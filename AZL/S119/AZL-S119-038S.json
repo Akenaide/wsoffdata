@@ -1,0 +1,34 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "038S",
+	"name": "",
+	"jpName": "航空母艦 信濃",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルする。",
+		"【起】［手札の「航空母艦 信濃」を1枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から2枚までを、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"重桜"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-038S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_038s.png",
+	"tags": null
+}

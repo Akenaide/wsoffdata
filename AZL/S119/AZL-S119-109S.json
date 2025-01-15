@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "109S",
+	"name": "",
+	"jpName": "シアトル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋4000。",
+		"【自】［手札のCXを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは山札か控え室を宣言し、宣言した自分の領域を見て《艦船》のキャラを1枚まで選んで相手に見せ、手札に加える。山札を宣言したなら、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ユニオン"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-109S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_109s.png",
+	"tags": null
+}

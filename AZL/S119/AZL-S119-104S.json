@@ -1,0 +1,35 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "104S",
+	"name": "",
+	"jpName": "ラフィーⅡ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "5500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《艦船》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 経験 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の《艦船》のキャラを1枚まで選び、山札の下に置き、あなたのレベル置場のカードのレベルの合計が6以上なら、そのターン中、このカードのパワーを＋4500。",
+		"【自】 このカードが【リバース】した時、あなたはこのカードを手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ユニオン"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-104S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_104s.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "062",
+	"name": "",
+	"jpName": "暁",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋8000。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"重桜"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-062",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_062.png",
+	"tags": null
+}

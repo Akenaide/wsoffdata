@@ -1,0 +1,34 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "124",
+	"name": "",
+	"jpName": "ルイビル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《艦船》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ユニオン"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-124",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_124.png",
+	"tags": null
+}

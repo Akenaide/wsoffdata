@@ -1,0 +1,34 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "043",
+	"name": "",
+	"jpName": "四万十",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《艦船》のキャラがいるなら、このカードのパワーを＋6000。",
+		"【自】【CXコンボ】 経験 このカードがアタックした時、CX置場に「龍神の神威」があり、あなたのレベル置場のカードのレベルの合計が5以上で、他のあなたの《艦船》のキャラが4枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与え、あなたは相手の山札の上から4枚を、控え室に置く。』『あなたは自分の控え室のレベル1以上のキャラを2枚まで選び、手札に戻す。』"
+	],
+	"specialAttrib": [
+		"艦船",
+		"重桜"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-043",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_043.png",
+	"tags": null
+}

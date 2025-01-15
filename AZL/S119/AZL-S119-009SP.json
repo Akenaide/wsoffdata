@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "009SP",
+	"name": "",
+	"jpName": "ジェーナス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《艦船》のキャラがいるなら、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「みんなで記念撮影」があるなら、あなたは自分の控え室の《艦船》のキャラを1枚選び、手札に戻し、次の相手のターンの終わりまで、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ロイヤル"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-009SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_009sp.png",
+	"tags": null
+}

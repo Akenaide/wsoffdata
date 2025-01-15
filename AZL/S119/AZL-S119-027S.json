@@ -1,0 +1,34 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "027S",
+	"name": "",
+	"jpName": "ヴァンパイア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 経験 ［(1) 手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたのレベル置場のカードのレベルの合計が3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ロイヤル"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-027S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_027s.png",
+	"tags": null
+}

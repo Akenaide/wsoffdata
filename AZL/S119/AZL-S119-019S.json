@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "019S",
+	"name": "",
+	"jpName": "カリブディス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
+		"【自】 このカードがアタックした時、あなたは他の自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"ロイヤル"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-019S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_019s.png",
+	"tags": null
+}

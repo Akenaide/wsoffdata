@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "013",
+	"name": "",
+	"jpName": "シュルクーフ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 あなたのトリガーアイコンが[CHOICE]のCXがCX置場に置かれた時、あなたは自分の《艦船》のキャラを1枚選び、そのターン中、ソウルを＋1。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+	],
+	"specialAttrib": [
+		"艦船",
+		"アイリス"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-013",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_013.png",
+	"tags": null
+}

@@ -1,0 +1,32 @@
+{
+	"set": "AZL",
+	"setName": "アズールレーン Vol.2",
+	"side": "S",
+	"release": "119",
+	"id": "068SP",
+	"name": "",
+	"jpName": "超巡洋艦 エーギル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が1以上なら、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「お祝いに一杯飲もうじゃない」があり、他のあなたの《艦船》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、《艦船》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"艦船",
+		"鉄血"
+	],
+	"version": "3",
+	"cardcode": "AZL/S119-068SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_068sp.png",
+	"tags": null
+}
