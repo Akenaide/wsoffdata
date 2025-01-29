@@ -1,0 +1,34 @@
+{
+	"set": "AMG",
+	"setName": "[TD]甘神さんちの縁結び",
+	"side": "W",
+	"release": "121",
+	"id": "T10",
+	"name": "",
+	"jpName": "思いがけない初対面 夕奈",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、「思いがけない初対面 夜重」か「思いがけない初対面 朝姫」を1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"縁",
+		"巫女"
+	],
+	"version": "3",
+	"cardcode": "AMG/W121-T10",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_t10.png",
+	"tags": null
+}

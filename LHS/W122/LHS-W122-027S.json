@@ -1,0 +1,34 @@
+{
+	"set": "LHS",
+	"setName": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+	"side": "W",
+	"release": "122",
+	"id": "027S",
+	"name": "",
+	"jpName": "春風ブランコ 大沢 瑠璃乃",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から2枚を、控え室に置き、相手の山札を上からＸ枚まで見て、カードをＸ枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。Ｘはこの効果で控え室に置かれたカードのトリガーアイコンの[SOUL]の合計に等しい。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「ココン東西」があり、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の、CX置場か控え室の、CXを1枚まで選び、山札に戻し、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"みらくらぱーく！"
+	],
+	"version": "3",
+	"cardcode": "LHS/W122-027S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_027s.png",
+	"tags": null
+}

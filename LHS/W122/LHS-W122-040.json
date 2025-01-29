@@ -1,0 +1,35 @@
+{
+	"set": "LHS",
+	"setName": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+	"side": "W",
+	"release": "122",
+	"id": "040",
+	"name": "",
+	"jpName": "みらくりえーしょん 藤島 慈",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのトリガーアイコンに[SOUL]があるカードがトリガーした時、あなたは自分のアタック中のキャラを1枚まで選び、そのターン中、パワーを＋3000し、ソウルを－1。",
+		"【自】 あなたのトリガーアイコンが[SOUL]のCXがトリガーした時、他のあなたの「みらくりえーしょん 藤島 慈」がいないなら、あなたは自分のアタック中のキャラを1枚まで選び、そのターン中、ソウルを－2。1枚選んだなら、あなたは自分の控え室の《みらくらぱーく！》のキャラを1枚選び、ストック置場の下に置く。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《みらくらぱーく！》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"みらくらぱーく！"
+	],
+	"version": "3",
+	"cardcode": "LHS/W122-040",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_040.png",
+	"tags": null
+}

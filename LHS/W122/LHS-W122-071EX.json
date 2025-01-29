@@ -1,0 +1,34 @@
+{
+	"set": "LHS",
+	"setName": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ feat. Link！Like！ラブライブ！",
+	"side": "W",
+	"release": "122",
+	"id": "071EX",
+	"name": "",
+	"jpName": "Dream Believers 村野 さやか",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SEC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「AWOKE」があり、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の山札の上から3枚までを、控え室に置き、自分の控え室のレベルＸ以下の《音楽》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋500。Ｘはこの効果で控え室に置かれた《音楽》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"DOLLCHESTRA"
+	],
+	"version": "3",
+	"cardcode": "LHS/W122-071EX",
+	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_071ex.png",
+	"tags": null
+}
