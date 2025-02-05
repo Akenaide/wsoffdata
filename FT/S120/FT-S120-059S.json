@@ -1,0 +1,35 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL 100年クエスト",
+	"side": "S",
+	"release": "120",
+	"id": "059S",
+	"name": "",
+	"jpName": "追跡するガジル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《魔法》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、山札の下に置いてよい。（公開したカードは元に戻す）",
+		"【自】 このカードがダイレクトアタックした時、あなたは自分の控え室の《魔法》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"竜"
+	],
+	"version": "3",
+	"cardcode": "FT/S120-059S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_059s.png",
+	"tags": null
+}

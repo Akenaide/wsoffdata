@@ -1,0 +1,35 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL 100年クエスト",
+	"side": "S",
+	"release": "120",
+	"id": "008S",
+	"name": "",
+	"jpName": "白滅 ラクサス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、「白滅 ビックスロー」と「白滅 エバーグリーン」がいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"竜"
+	],
+	"version": "3",
+	"cardcode": "FT/S120-008S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_008s.png",
+	"tags": null
+}

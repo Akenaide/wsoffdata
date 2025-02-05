@@ -1,0 +1,35 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL 100年クエスト",
+	"side": "S",
+	"release": "120",
+	"id": "033S",
+	"name": "",
+	"jpName": "サタンソウル ミラジェーン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻す。",
+		"【自】 このカードがアタックした時、他のあなたの《魔法》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"ウェイトレス"
+	],
+	"version": "3",
+	"cardcode": "FT/S120-033S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_033s.png",
+	"tags": null
+}

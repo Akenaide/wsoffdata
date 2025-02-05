@@ -1,0 +1,35 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL 100年クエスト",
+	"side": "S",
+	"release": "120",
+	"id": "045S",
+	"name": "",
+	"jpName": "ビーストソウル エルフマン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "10500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《魔法》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《魔法》のキャラの枚数×1000に等しい。",
+		"【自】 あなたのアンコールステップの始めに、このカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"動物"
+	],
+	"version": "3",
+	"cardcode": "FT/S120-045S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_045s.png",
+	"tags": null
+}

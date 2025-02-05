@@ -1,0 +1,34 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL 100年クエスト",
+	"side": "S",
+	"release": "120",
+	"id": "044",
+	"name": "",
+	"jpName": "灰の魔法 スカリオン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《魔法》のキャラの枚数×1000に等しい。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「灰の魔法 スカリオン」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"竜"
+	],
+	"version": "3",
+	"cardcode": "FT/S120-044",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_044.png",
+	"tags": null
+}

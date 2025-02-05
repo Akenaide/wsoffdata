@@ -1,0 +1,35 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL 100年クエスト",
+	"side": "S",
+	"release": "120",
+	"id": "043S",
+	"name": "",
+	"jpName": "霊竜のレイス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋9500し、ソウルを＋1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「マカロフ」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の思い出置場の表向きのカードを1枚選び、裏向きにしてよい。そうしたら、あなたのターンの終わりに、そのカードを表向きにする。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"竜"
+	],
+	"version": "3",
+	"cardcode": "FT/S120-043S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_043s.png",
+	"tags": null
+}

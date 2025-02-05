@@ -1,0 +1,32 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL 100年クエスト",
+	"side": "S",
+	"release": "120",
+	"id": "041S",
+	"name": "",
+	"jpName": "刃竜のキリア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
+		"【起】［手札の《魔法》のキャラを1枚控え室に置く］ あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラなら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"竜"
+	],
+	"version": "3",
+	"cardcode": "FT/S120-041S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_041s.png",
+	"tags": null
+}

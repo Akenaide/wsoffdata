@@ -1,0 +1,34 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL 100年クエスト",
+	"side": "S",
+	"release": "120",
+	"id": "011",
+	"name": "",
+	"jpName": "竜の海 エルザ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《魔法》のキャラがいるなら、このカードのパワーを＋1500。",
+		"【自】【CXコンボ】 あなたのCX置場に「エルザの誘惑」が置かれた時、前列にこのカードがいて、他のあなたの《魔法》のキャラが4枚以上なら、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "FT/S120-011",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_011.png",
+	"tags": null
+}

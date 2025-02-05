@@ -1,0 +1,35 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL 100年クエスト",
+	"side": "S",
+	"release": "120",
+	"id": "032S",
+	"name": "",
+	"jpName": "星々が交わる時 ルーシィ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の「星霊の鍵のさらなる力」1枚につき、このカードのパワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』",
+		"【自】【CXコンボ】 記憶 このカードがアタックした時、CX置場に「星霊衣の輝き」があるなら、相手は自分の山札の上からＸ枚を、控え室に置く。Ｘはあなたの思い出置場の「星霊の鍵のさらなる力」の枚数×7に等しい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"鍵"
+	],
+	"version": "3",
+	"cardcode": "FT/S120-032S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_032s.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL 100年クエスト",
+	"side": "S",
+	"release": "120",
+	"id": "065S",
+	"name": "",
+	"jpName": "嫌な雨 トウカ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×2000に等しい。",
+		"【自】 チェンジ ［このカードを控え室に置く］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「変容する人格 白魔導士」を1枚選び、このカードがいた枠に置く。（CXフェイズの始めにこのカードがいないなら発動しない）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"動物"
+	],
+	"version": "3",
+	"cardcode": "FT/S120-065S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_065s.png",
+	"tags": null
+}

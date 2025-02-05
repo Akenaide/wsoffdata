@@ -1,0 +1,34 @@
+{
+	"set": "FT",
+	"setName": "FAIRY TAIL 100年クエスト",
+	"side": "S",
+	"release": "120",
+	"id": "036S",
+	"name": "",
+	"jpName": "斬心の悪魔 キリア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「魔導士ギルド ディアボロス」があり、他のあなたの《魔法》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"竜"
+	],
+	"version": "3",
+	"cardcode": "FT/S120-036S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_036s.png",
+	"tags": null
+}
