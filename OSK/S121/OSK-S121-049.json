@@ -1,0 +1,35 @@
+{
+	"set": "OSK",
+	"setName": "【推しの子】Vol.2",
+	"side": "S",
+	"release": "121",
+	"id": "049",
+	"name": "",
+	"jpName": "新衣装 有馬かな",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室の「新衣装 有馬かな」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《芸能界》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の《芸能界》のキャラを1枚控え室に置く］』を得る。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚までを、控え室に置き、自分の控え室の「新衣装 有馬かな」を1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"芸能界",
+		"女優"
+	],
+	"version": "3",
+	"cardcode": "OSK/S121-049",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s121/osk_s121_049.png",
+	"tags": null
+}

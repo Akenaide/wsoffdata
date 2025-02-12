@@ -1,0 +1,35 @@
+{
+	"set": "OSK",
+	"setName": "【推しの子】Vol.2",
+	"side": "S",
+	"release": "121",
+	"id": "016S",
+	"name": "",
+	"jpName": "謹賀新年 MEMちょ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場に「謹賀新年 MEMちょ」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの後列の《芸能界》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】【CXコンボ】 あなたのCX置場に「撮影の合間に」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《芸能界》のキャラを1枚まで選び、手札に戻し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+	],
+	"specialAttrib": [
+		"芸能界",
+		"アイドル"
+	],
+	"version": "3",
+	"cardcode": "OSK/S121-016S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s121/osk_s121_016s.png",
+	"tags": null
+}

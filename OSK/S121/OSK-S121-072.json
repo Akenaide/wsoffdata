@@ -1,0 +1,35 @@
+{
+	"set": "OSK",
+	"setName": "【推しの子】Vol.2",
+	"side": "S",
+	"release": "121",
+	"id": "072",
+	"name": "",
+	"jpName": "観劇デート アクア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋Ｘ。Ｘはそのキャラのレベル×1500に等しい。",
+		"【自】 相手のアタックフェイズの始めに、あなたは自分の《芸能界》のキャラを1枚選び、自分の前列の中央のキャラのいない枠に動かしてよい。",
+		"【起】【CXコンボ】［手札の、「巨星の演技」か「傷移しの鞘」を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の《芸能界》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"芸能界",
+		"俳優"
+	],
+	"version": "3",
+	"cardcode": "OSK/S121-072",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s121/osk_s121_072.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "OSK",
+	"setName": "【推しの子】Vol.2",
+	"side": "S",
+	"release": "121",
+	"id": "030S",
+	"name": "",
+	"jpName": "導かれし双星 アクア\u0026ルビー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《芸能界》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《芸能界》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを手札に戻してよい。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"芸能界"
+	],
+	"version": "3",
+	"cardcode": "OSK/S121-030S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s121/osk_s121_030s.png",
+	"tags": null
+}
