@@ -1,0 +1,34 @@
+{
+	"set": "GCR",
+	"setName": "[TD]ガールズバンドクライ",
+	"side": "S",
+	"release": "E48",
+	"id": "T14",
+	"name": "",
+	"jpName": "始まりの目撃者へ 仁菜",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。",
+		"【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「運命の華」があるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置き、相手の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"トゲナシトゲアリ"
+	],
+	"version": "3",
+	"cardcode": "GCR/SE48-T14",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_t14.png",
+	"tags": null
+}

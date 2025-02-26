@@ -1,0 +1,33 @@
+{
+	"set": "SIP",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "109",
+	"id": "P21",
+	"name": "",
+	"jpName": "マルをめぐった一日 嵐 千砂都",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがCX置場に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、次の相手のターンの終わりまで、ソウルを＋1し、次の能力を与える。『【自】 相手のターン中、このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIP/W109-P21",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sip_w109/sip_w109_p21.png",
+	"tags": null
+}

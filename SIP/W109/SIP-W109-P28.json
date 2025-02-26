@@ -1,0 +1,33 @@
+{
+	"set": "SIP",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "109",
+	"id": "P28",
+	"name": "",
+	"jpName": "デュエット ウィーン・マルガレーテ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 経験 ［(1) 手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIP/W109-P28",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sip_w109/sip_w109_p28.png",
+	"tags": null
+}

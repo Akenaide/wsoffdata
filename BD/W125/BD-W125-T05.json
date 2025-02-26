@@ -1,0 +1,34 @@
+{
+	"set": "BD",
+	"setName": "[TD] BanG Dream! [Ave Mujica]",
+	"side": "W",
+	"release": "125",
+	"id": "T05",
+	"name": "",
+	"jpName": "“Veritas”モーティス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Ave Mujica"
+	],
+	"version": "3",
+	"cardcode": "BD/W125-T05",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_t05.png",
+	"tags": null
+}

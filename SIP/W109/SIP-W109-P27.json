@@ -1,0 +1,33 @@
+{
+	"set": "SIP",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "109",
+	"id": "P27",
+	"name": "",
+	"jpName": "長いお鼻に掴まって 鬼塚 夏美",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
+		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のCXを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "SIP/W109-P27",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sip_w109/sip_w109_p27.png",
+	"tags": null
+}

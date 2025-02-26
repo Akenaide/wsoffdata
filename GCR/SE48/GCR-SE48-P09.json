@@ -1,0 +1,34 @@
+{
+	"set": "GCR",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "E48",
+	"id": "P09",
+	"name": "",
+	"jpName": "一生のバンド 桃香",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+		"【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"トゲナシトゲアリ"
+	],
+	"version": "3",
+	"cardcode": "GCR/SE48-P09",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_p09.png",
+	"tags": null
+}

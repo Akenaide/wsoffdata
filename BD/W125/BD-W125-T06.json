@@ -1,0 +1,34 @@
+{
+	"set": "BD",
+	"setName": "[TD] BanG Dream! [Ave Mujica]",
+	"side": "W",
+	"release": "125",
+	"id": "T06",
+	"name": "",
+	"jpName": "“Veritas”オブリビオニス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
+		"【自】［(2)］ このカードが手札から舞台に置かれたターン中、あなたのアンコールステップの始めに、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Ave Mujica"
+	],
+	"version": "3",
+	"cardcode": "BD/W125-T06",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_t06.png",
+	"tags": null
+}

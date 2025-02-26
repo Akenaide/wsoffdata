@@ -1,0 +1,34 @@
+{
+	"set": "BD",
+	"setName": "[TD] BanG Dream! [Ave Mujica]",
+	"side": "W",
+	"release": "125",
+	"id": "T13",
+	"name": "",
+	"jpName": "“Perdere Omnia”アモーリス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのCXフェイズの始めに、あなたは自分の《音楽》のキャラを2枚まで選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Ave Mujica"
+	],
+	"version": "3",
+	"cardcode": "BD/W125-T13",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_t13.png",
+	"tags": null
+}

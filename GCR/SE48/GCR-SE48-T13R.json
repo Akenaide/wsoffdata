@@ -1,0 +1,34 @@
+{
+	"set": "GCR",
+	"setName": "[TD]ガールズバンドクライ",
+	"side": "S",
+	"release": "E48",
+	"id": "T13R",
+	"name": "",
+	"jpName": "開戦の灯 すばる",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの《トゲナシトゲアリ》のキャラすべてに、パワーを＋1500。",
+		"【起】［このカードを山札の下に置く］ あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"トゲナシトゲアリ"
+	],
+	"version": "3",
+	"cardcode": "GCR/SE48-T13R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_t13r.png",
+	"tags": null
+}

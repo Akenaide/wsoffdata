@@ -1,0 +1,34 @@
+{
+	"set": "BD",
+	"setName": "MyGO!!!!! × Ave Mujica",
+	"side": "W",
+	"release": "125",
+	"id": "082",
+	"name": "",
+	"jpName": "エールを受け取って 高松燈",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、コストを払ってよい。コストを払ったなら、あなたは自分の手札の「進んだ先の景色 千早愛音」を1枚まで選び、舞台の好きな枠に置く。",
+		"【自】【CXコンボ】［(3) 手札の「進んだ先の景色 千早愛音」を1枚控え室に置く］ このカードのアタックの終わりに、CX置場に「碧天伴走」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の「進んだ先の景色 千早愛音」を1枚選び、【スタンド】し、そのターン中、そのキャラのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"MyGO!!!!!"
+	],
+	"version": "3",
+	"cardcode": "BD/W125-082",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_082.png",
+	"tags": null
+}

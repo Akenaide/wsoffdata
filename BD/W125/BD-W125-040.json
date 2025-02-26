@@ -1,0 +1,34 @@
+{
+	"set": "BD",
+	"setName": "MyGO!!!!! × Ave Mujica",
+	"side": "W",
+	"release": "125",
+	"id": "040",
+	"name": "",
+	"jpName": "すました態度 ティモリス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』",
+		"【自】［手札の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、他のあなたの《音楽》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Ave Mujica"
+	],
+	"version": "3",
+	"cardcode": "BD/W125-040",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_040.png",
+	"tags": null
+}
