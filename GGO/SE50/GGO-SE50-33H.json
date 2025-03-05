@@ -1,0 +1,34 @@
+{
+	"set": "GGO",
+	"setName": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+	"side": "S",
+	"release": "E50",
+	"id": "33H",
+	"name": "",
+	"jpName": "NPC？ ドク",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "HC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列の「NPC？ ジェイコブ」がいるなら、このカードのパワーを＋5500し、このカードは『【自】 アンコール ［手札の、《アバター》か《ネット》のキャラを1枚控え室に置く］』を得る。",
+		"【永】 他のあなたの「NPC？ ジェイコブ」すべてに、パワーを＋1500し、次の2つの能力を与える。『【永】 このカードは相手の効果に選ばれない。』『【自】 アンコール ［手札の、《アバター》か《ネット》のキャラかイベントを1枚控え室に置く］』"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "GGO/SE50-33H",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_33h.png",
+	"tags": null
+}

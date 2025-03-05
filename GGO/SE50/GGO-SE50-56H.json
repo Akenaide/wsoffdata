@@ -1,0 +1,35 @@
+{
+	"set": "GGO",
+	"setName": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+	"side": "S",
+	"release": "E50",
+	"id": "56H",
+	"name": "",
+	"jpName": "《ビトレイヤーズ》 デヴィッド",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "HC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"MMTM"
+	],
+	"version": "3",
+	"cardcode": "GGO/SE50-56H",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_56h.png",
+	"tags": null
+}

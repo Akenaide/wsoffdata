@@ -1,0 +1,35 @@
+{
+	"set": "GGO",
+	"setName": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+	"side": "S",
+	"release": "E50",
+	"id": "40SSP",
+	"name": "",
+	"jpName": "《LPFM》 ピトフーイ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 前列にこのカードがいるなら、あなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が5枚以下なら、あなたは自分の控え室のカードすべてを山札に戻す。そうしたら、あなたは自分の山札を見て《アバター》か《ネット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "GGO/SE50-40SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_40ssp.png",
+	"tags": null
+}

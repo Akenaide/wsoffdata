@@ -1,0 +1,35 @@
+{
+	"set": "GGO",
+	"setName": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+	"side": "S",
+	"release": "E50",
+	"id": "23",
+	"name": "",
+	"jpName": "“ピンクのウサギ”レン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「イカれたレン」すべてに、パワーを＋500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
+		"【永】 応援 このカードの前のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1500。",
+		"【起】［(3) このカードを【レスト】する］ あなたは自分の手札の「イカれたレン」を1枚まで選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "GGO/SE50-23",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_23.png",
+	"tags": null
+}

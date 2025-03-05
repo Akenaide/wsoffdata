@@ -1,0 +1,33 @@
+{
+	"set": "GGO",
+	"setName": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+	"side": "S",
+	"release": "E50",
+	"id": "19",
+	"name": "",
+	"jpName": "大はしゃぎ！ フカ次郎",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《アバター》か《ネット》のキャラの枚数×1000に等しい。",
+		"【自】 このカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（CXのレベルは0として扱う。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "GGO/SE50-19",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_19.png",
+	"tags": null
+}

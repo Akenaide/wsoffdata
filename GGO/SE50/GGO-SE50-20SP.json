@@ -1,0 +1,35 @@
+{
+	"set": "GGO",
+	"setName": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+	"side": "S",
+	"release": "E50",
+	"id": "20SP",
+	"name": "",
+	"jpName": "戦場を駆ける レン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】【CXコンボ】 あなたのCX置場に「決闘」があるなら、このカードのパワーを＋4000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(2) 手札を1枚控え室に置く］ あなたのアンコールステップの始めに、前列にこのカードがいて、相手の前列のキャラがいないか相手の前列のキャラすべてが【リバース】しているなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"アバター",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "GGO/SE50-20SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_20sp.png",
+	"tags": null
+}
