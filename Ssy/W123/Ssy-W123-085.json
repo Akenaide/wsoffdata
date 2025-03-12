@@ -1,0 +1,36 @@
+{
+	"set": "Ssy",
+	"setName": "角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "085",
+	"name": "",
+	"jpName": "始まりの季節 ハルヒ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "5000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の、《スニーカー文庫》か《SOS団》のキャラ1枚につき、このカードのパワーを＋2000。",
+		"【永】 他のあなたの、《スニーカー文庫》か《SOS団》のキャラすべてに、パワーを＋500。",
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"SOS団",
+		"団長"
+	],
+	"version": "3",
+	"cardcode": "Ssy/W123-085",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssy_w123_085.png",
+	"tags": null
+}

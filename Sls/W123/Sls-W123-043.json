@@ -1,0 +1,35 @@
+{
+	"set": "Sls",
+	"setName": "角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "043",
+	"name": "",
+	"jpName": "自由騎士 パーン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《スニーカー文庫》か《ロードス島》のキャラを1枚選び、手札に戻す。",
+		"【起】［このカードを山札の下に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"ロードス島",
+		"騎士"
+	],
+	"version": "3",
+	"cardcode": "Sls/W123-043",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sls_w123_043.png",
+	"tags": null
+}

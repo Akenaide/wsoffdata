@@ -1,0 +1,36 @@
+{
+	"set": "Sks",
+	"setName": "角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "123S",
+	"name": "",
+	"jpName": "サマーバケーション アクア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの「アークプリースト（駄女神） アクア」すべてに、レベルを－1し、パワーを＋1500。",
+		"【永】 他のあなたの、《スニーカー文庫》か《冒険者》か《女神》のキャラすべてに、パワーを＋500。",
+		"【自】 加速 ［(2) あなたの控え室の、《スニーカー文庫》か《冒険者》か《女神》のキャラを1枚クロック置場の下に置き、【スタンド】しているこのカードを【レスト】する］ あなたのアンコールステップの始めに、他のあなたの「アークプリースト（駄女神） アクア」がいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"冒険者",
+		"女神"
+	],
+	"version": "3",
+	"cardcode": "Sks/W123-123S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sks_w123_123s.png",
+	"tags": null
+}

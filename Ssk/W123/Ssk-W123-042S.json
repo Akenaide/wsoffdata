@@ -1,0 +1,36 @@
+{
+	"set": "Ssk",
+	"setName": "角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "042S",
+	"name": "",
+	"jpName": "背中を追いかけて ティアット",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《スニーカー文庫》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"妖精",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "Ssk/W123-042S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssk_w123_042s.png",
+	"tags": null
+}

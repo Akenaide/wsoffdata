@@ -1,0 +1,35 @@
+{
+	"set": "Ssy",
+	"setName": "[TD]角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "T07",
+	"name": "",
+	"jpName": "35th Anniversary ハルヒ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ あなたのCX置場に「SOS団入団試験！」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。』"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"SOS団",
+		"団長"
+	],
+	"version": "3",
+	"cardcode": "Ssy/W123-T07",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssy_w123_t07.png",
+	"tags": null
+}

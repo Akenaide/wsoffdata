@@ -1,0 +1,35 @@
+{
+	"set": "Stk",
+	"setName": "角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "107SEC",
+	"name": "",
+	"jpName": "二度目の恋 結女",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SEC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1) 手札の《スニーカー文庫》のキャラを1枚控え室に置く］ このカードがアタックした時、CX置場に「新たな関係」があり、他のあなたの《スニーカー文庫》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、次の相手のターンの終わりまで、このカードは『【永】 大活躍』を得る。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"本"
+	],
+	"version": "3",
+	"cardcode": "Stk/W123-107SEC",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/stk_w123_107sec.png",
+	"tags": null
+}

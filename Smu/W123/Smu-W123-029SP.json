@@ -1,0 +1,35 @@
+{
+	"set": "Smu",
+	"setName": "角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "029SP",
+	"name": "",
+	"jpName": "居てもいい居場所 ふゆほたる",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「最後の戦い」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"虫憑き",
+		"夢"
+	],
+	"version": "3",
+	"cardcode": "Smu/W123-029SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/smu_w123_029sp.png",
+	"tags": null
+}

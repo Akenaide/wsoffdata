@@ -1,0 +1,35 @@
+{
+	"set": "Sks",
+	"setName": "[TD]角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "T15",
+	"name": "",
+	"jpName": "Cheers！ ダクネス",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《スニーカー文庫》か《冒険者》か《煩悩》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"冒険者",
+		"煩悩"
+	],
+	"version": "3",
+	"cardcode": "Sks/W123-T15",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sks_w123_t15.png",
+	"tags": null
+}

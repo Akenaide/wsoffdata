@@ -1,0 +1,36 @@
+{
+	"set": "Sls",
+	"setName": "角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "035",
+	"name": "",
+	"jpName": "あなたの側に ディードリット",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】 このカードがアタックした時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－Ｘ。Ｘは他のあなたの、《スニーカー文庫》か《ロードス島》のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"ロードス島",
+		"エルフ"
+	],
+	"version": "3",
+	"cardcode": "Sls/W123-035",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sls_w123_035.png",
+	"tags": null
+}

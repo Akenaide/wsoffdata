@@ -1,0 +1,35 @@
+{
+	"set": "Ssy",
+	"setName": "角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "044",
+	"name": "",
+	"jpName": "holiday みくる",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、あなたのキャラすべてが《スニーカー文庫》か《SOS団》なら、このカードのパワーを＋6000。",
+		"【自】［手札の、《スニーカー文庫》か《SOS団》のキャラを1枚控え室に置き、このカードを思い出にする］ このカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「holiday みくる」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"SOS団",
+		"時間"
+	],
+	"version": "3",
+	"cardcode": "Ssy/W123-044",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssy_w123_044.png",
+	"tags": null
+}

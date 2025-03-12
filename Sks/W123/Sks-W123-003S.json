@@ -1,0 +1,34 @@
+{
+	"set": "Sks",
+	"setName": "角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "003S",
+	"name": "",
+	"jpName": "箱入り王女 アイリス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルする。",
+		"【起】［(1) 手札のこのカードを控え室に置く］ あなたのレベルが2以上なら、あなたは自分の山札を上から4枚まで見て、《スニーカー文庫》か《王族》か《冒険者》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"王族"
+	],
+	"version": "3",
+	"cardcode": "Sks/W123-003S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sks_w123_003s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "Sks",
+	"setName": "角川スニーカー文庫 Vol.2",
+	"side": "W",
+	"release": "123",
+	"id": "010",
+	"name": "",
+	"jpName": "冒険者（最弱職） カズマ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［(2) あなたの山札の上から1枚をクロック置場に置く］ あなたのアンコールステップの始めに、CX置場に「爆裂魔法」があり、あなたの手札が6枚以下で、他のあなたの前列の「サマーバケーション めぐみん」がいるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）",
+		"【起】［手札の「サマーバケーション めぐみん」を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、このカードの下にマーカーとして裏向きに置く。"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"冒険者",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "Sks/W123-010",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sks_w123_010.png",
+	"tags": null
+}
