@@ -1,0 +1,34 @@
+{
+	"set": "DDD",
+	"setName": "TVアニメ『ダンダダン』",
+	"side": "S",
+	"release": "118",
+	"id": "023SP",
+	"name": "",
+	"jpName": "アクロバティック美少女 アイラ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か『合体』で舞台に置かれた時、あなたは自分のクロック置場の、《人間》か《怪異》のキャラを1枚選び、山札の下に置いてよい。",
+		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「美少女戦士の肩書き」があり、他のあなたの、《人間》か《怪異》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがトリガーアイコンに[SOUL]のCXなら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"人間",
+		"美少女"
+	],
+	"version": "3",
+	"cardcode": "DDD/S118-023SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_023sp.png",
+	"tags": null
+}

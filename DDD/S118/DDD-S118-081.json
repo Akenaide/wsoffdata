@@ -1,0 +1,35 @@
+{
+	"set": "DDD",
+	"setName": "TVアニメ『ダンダダン』",
+	"side": "S",
+	"release": "118",
+	"id": "081",
+	"name": "",
+	"jpName": "オカルティック鬼ごっこ オカルン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の「オカルト！ 未知との遭遇」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"人間",
+		"オカルト"
+	],
+	"version": "3",
+	"cardcode": "DDD/S118-081",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_081.png",
+	"tags": null
+}

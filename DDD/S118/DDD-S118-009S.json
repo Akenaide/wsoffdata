@@ -1,0 +1,34 @@
+{
+	"set": "DDD",
+	"setName": "TVアニメ『ダンダダン』",
+	"side": "S",
+	"release": "118",
+	"id": "009S",
+	"name": "",
+	"jpName": "本気の追撃 オカルン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。",
+		"【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「オカルト世界」があるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与え、そのターン中、このカードのパワーを＋2000し、このカードのアタックの終わりに、他のあなたの「それよりもいい方法 モモ」がいないなら、あなたは自分の山札の上から3枚を、クロック置場に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"人間",
+		"オカルト"
+	],
+	"version": "3",
+	"cardcode": "DDD/S118-009S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_009s.png",
+	"tags": null
+}

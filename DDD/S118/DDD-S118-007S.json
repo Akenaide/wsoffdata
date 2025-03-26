@@ -1,0 +1,34 @@
+{
+	"set": "DDD",
+	"setName": "TVアニメ『ダンダダン』",
+	"side": "S",
+	"release": "118",
+	"id": "007S",
+	"name": "",
+	"jpName": "隠しごと オカルン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《人間》か《怪異》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】［(1)］ 控え室にこのカードがあり、あなたのCXフェイズ中、CX置場に「オカルト好き男子高校生」が置かれた時、あなたのレベルが2以上なら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"人間",
+		"オカルト"
+	],
+	"version": "3",
+	"cardcode": "DDD/S118-007S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_007s.png",
+	"tags": null
+}

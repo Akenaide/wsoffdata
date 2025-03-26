@@ -1,0 +1,35 @@
+{
+	"set": "DDD",
+	"setName": "TVアニメ『ダンダダン』",
+	"side": "S",
+	"release": "118",
+	"id": "047SP",
+	"name": "",
+	"jpName": "凄腕の霊媒師 星子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《人間》か《怪異》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の、《人間》か《怪異》のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"人間",
+		"霊媒師"
+	],
+	"version": "3",
+	"cardcode": "DDD/S118-047SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_047sp.png",
+	"tags": null
+}

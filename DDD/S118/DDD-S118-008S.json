@@ -1,0 +1,34 @@
+{
+	"set": "DDD",
+	"setName": "TVアニメ『ダンダダン』",
+	"side": "S",
+	"release": "118",
+	"id": "008S",
+	"name": "",
+	"jpName": "執念の追撃 オカルン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か「本気の一撃 オカルン」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「オカルト世界」があり、他のあなたの、《人間》か《怪異》のキャラが2枚以上なら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは相手に5ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"人間",
+		"オカルト"
+	],
+	"version": "3",
+	"cardcode": "DDD/S118-008S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_008s.png",
+	"tags": null
+}
