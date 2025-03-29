@@ -1,0 +1,32 @@
+{
+	"set": "GCR",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "E48",
+	"id": "P13S",
+	"name": "",
+	"jpName": "私たちの歌 桃香",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《トゲナシトゲアリ》のキャラか「怒りも喜びも哀しさも全部ぶちこめ。」なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。（公開したカードは元に戻す）",
+		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《トゲナシトゲアリ》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"トゲナシトゲアリ"
+	],
+	"version": "3",
+	"cardcode": "GCR/SE48-P13S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_p13s.png",
+	"tags": null
+}
