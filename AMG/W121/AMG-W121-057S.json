@@ -1,0 +1,35 @@
+{
+	"set": "AMG",
+	"setName": "甘神さんちの縁結び",
+	"side": "W",
+	"release": "121",
+	"id": "057S",
+	"name": "",
+	"jpName": "ニヤニヤ顔 夕奈",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の「縁結びの組紐」が2枚以上なら、他のあなたの《縁》のキャラすべてに、パワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、次の行動を2回行う。『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"縁",
+		"巫女"
+	],
+	"version": "3",
+	"cardcode": "AMG/W121-057S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_057s.png",
+	"tags": null
+}

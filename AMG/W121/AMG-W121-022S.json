@@ -1,0 +1,35 @@
+{
+	"set": "AMG",
+	"setName": "甘神さんちの縁結び",
+	"side": "W",
+	"release": "121",
+	"id": "022S",
+	"name": "",
+	"jpName": "自由人な迷子 夜重",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 記憶 あなたの思い出置場の「縁結びの組紐」が2枚以上なら、このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 記憶 この能力は1ターンにつき1回まで発動する。他のあなたの「甘神夜重」が手札から舞台に置かれた時、あなたの思い出置場の「縁結びの組紐」が2枚以上なら、あなたは自分の控え室の《縁》のキャラを1枚選び、ストック置場に置いてよい。",
+		"【起】［(3) このカードを【レスト】する］ あなたは自分の手札の「甘神夜重」を1枚まで選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"縁",
+		"巫女"
+	],
+	"version": "3",
+	"cardcode": "AMG/W121-022S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_022s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "AMG",
+	"setName": "甘神さんちの縁結び",
+	"side": "W",
+	"release": "121",
+	"id": "006S",
+	"name": "",
+	"jpName": "いたずら好きなボクっ娘 白日",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "7500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下か6枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが【リバース】した時、他のあなたの《縁》のキャラが2枚以上で、このカードのバトル相手のレベルが3以下なら、あなたはそのバトル相手をストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の《縁》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"縁",
+		"幼馴染"
+	],
+	"version": "3",
+	"cardcode": "AMG/W121-006S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_006s.png",
+	"tags": null
+}

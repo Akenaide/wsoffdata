@@ -1,0 +1,35 @@
+{
+	"set": "AMG",
+	"setName": "甘神さんちの縁結び",
+	"side": "W",
+	"release": "121",
+	"id": "045S",
+	"name": "",
+	"jpName": "君と縁を結んで 夕奈",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の「縁結びの組紐」が2枚以上なら、このカードのパワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 記憶 ［(1)］ このカードがアタックした時、CX置場に「夕焼けの猫」があり、あなたの思い出置場の「縁結びの組紐」が2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"縁",
+		"巫女"
+	],
+	"version": "3",
+	"cardcode": "AMG/W121-045S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_045s.png",
+	"tags": null
+}

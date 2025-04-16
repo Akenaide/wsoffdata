@@ -1,0 +1,35 @@
+{
+	"set": "AMG",
+	"setName": "甘神さんちの縁結び",
+	"side": "W",
+	"release": "121",
+	"id": "082S",
+	"name": "",
+	"jpName": "道を示す標 朝姫",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《縁》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
+		"【自】【CXコンボ】 あなたのCX置場に「「妹」のままではいられない」が置かれた時、前列にこのカードがいて、他のあなたの《縁》のキャラが4枚以上なら、あなたは自分の控え室の《縁》のキャラを2枚まで選び、2枚まで手札に戻し、残りのカードをストック置場に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"縁",
+		"巫女"
+	],
+	"version": "3",
+	"cardcode": "AMG/W121-082S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_082s.png",
+	"tags": null
+}

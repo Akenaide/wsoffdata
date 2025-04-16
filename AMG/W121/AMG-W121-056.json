@@ -1,0 +1,32 @@
+{
+	"set": "AMG",
+	"setName": "甘神さんちの縁結び",
+	"side": "W",
+	"release": "121",
+	"id": "056",
+	"name": "",
+	"jpName": "舞の奉納 夕奈",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 他のあなたの《縁》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「夕の舞」があり、他のあなたの《縁》のキャラが3枚以上なら、あなたは自分の山札を上から5枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1000。（CXのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"縁",
+		"巫女"
+	],
+	"version": "3",
+	"cardcode": "AMG/W121-056",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_056.png",
+	"tags": null
+}
