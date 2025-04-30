@@ -1,0 +1,34 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "125",
+	"id": "P19",
+	"name": "",
+	"jpName": "”我、悲しみを恐れるなかれ” ドロリス",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Ave Mujica"
+	],
+	"version": "3",
+	"cardcode": "BD/W125-P19",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_p19.png",
+	"tags": null
+}

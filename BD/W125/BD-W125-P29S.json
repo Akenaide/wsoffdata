@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "125",
+	"id": "P29S",
+	"name": "",
+	"jpName": "“気づかいの空回り”宇田川あこ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】［このカードを控え室に置く］ 他のあなたの、《Anniversary》か《Roselia》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Roselia"
+	],
+	"version": "3",
+	"cardcode": "BD/W125-P29S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_p29s.png",
+	"tags": null
+}

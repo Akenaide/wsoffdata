@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "125",
+	"id": "P35S",
+	"name": "",
+	"jpName": "“あなたがいたから”パレオ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
+		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのCXフェイズの始めに、あなたのレベルが3以上で、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“クローゼットの涙”チュチュ」を1枚選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"RAISE A SUILEN"
+	],
+	"version": "3",
+	"cardcode": "BD/W125-P35S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_p35s.png",
+	"tags": null
+}
