@@ -1,0 +1,36 @@
+{
+	"set": "Sst",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "62",
+	"id": "051P",
+	"name": "",
+	"jpName": "澪と主従契約",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の、《スニーカー文庫》か《魔法》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「澪の悦び」があるなら、あなたは相手にＸダメージを与えてよい。Ｘは相手の【リバース】しているキャラの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"スニーカー文庫",
+		"魔法",
+		"妹"
+	],
+	"version": "3",
+	"cardcode": "Sst/W62-051P",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sst_w62/sst_w62_051p.png",
+	"tags": null
+}
