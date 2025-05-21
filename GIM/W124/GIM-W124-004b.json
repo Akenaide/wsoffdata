@@ -1,0 +1,35 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "004b",
+	"name": "",
+	"jpName": "日々、発見的ステップ！ 倉本千奈",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のレベル1以上のキャラが5枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「あっちも行きたいですわ！」があるなら、そのターン中、このカードのパワーを＋4000し、あなたは自分の山札の上から1枚を公開する。そのカードが「日々、発見的ステップ！ 倉本千奈」かレベル0以下のキャラなら、相手に2ダメージを与える。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"お嬢様"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-004b",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_004b.png",
+	"tags": null
+}

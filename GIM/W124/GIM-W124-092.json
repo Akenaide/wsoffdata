@@ -1,0 +1,32 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "092",
+	"name": "",
+	"jpName": "全力、その後 月村手毬",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを手札に戻してよい。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"歌"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-092",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_092.png",
+	"tags": null
+}

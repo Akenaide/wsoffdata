@@ -1,0 +1,35 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "060",
+	"name": "",
+	"jpName": "学園生活 十王星南",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "10500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1000に等しい。",
+		"【自】 あなたのアンコールステップの始めに、このカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"生徒会長"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-060",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_060.png",
+	"tags": null
+}

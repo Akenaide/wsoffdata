@@ -1,0 +1,32 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "068a",
+	"name": "",
+	"jpName": "コントラスト 篠澤 広",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室の「コントラスト 篠澤 広」の枚数×1500に等しい。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"天才"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-068a",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_068a.png",
+	"tags": null
+}

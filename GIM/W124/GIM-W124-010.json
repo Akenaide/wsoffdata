@@ -1,0 +1,34 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "010",
+	"name": "",
+	"jpName": "仮装狂騒曲 篠澤 広",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻し、コストを払ってよい。コストを払ったなら、あなたは相手のキャラを1枚選び、手札に戻す。 ",
+		"【自】【クロック】 アラーム ［手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以上のキャラを1枚選び、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"天才"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-010",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_010.png",
+	"tags": null
+}

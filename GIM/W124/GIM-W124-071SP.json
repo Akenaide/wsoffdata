@@ -1,0 +1,34 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "071SP",
+	"name": "",
+	"jpName": "アイヴイ 月村手毬",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 記憶 このカードがアタックした時、CX置場に「何やってるんだろう、」があり、他のあなたの《音楽》のキャラが2枚以上なら、相手に1ダメージを与え、次の行動を行う。『あなたは相手の山札の下からＸ枚を、控え室に置いてよい。それらのカードにCXがあるなら、相手に1ダメージを与える。Ｘはあなたの思い出置場の《音楽》のキャラの枚数－1に等しい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"歌"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-071SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_071sp.png",
+	"tags": null
+}

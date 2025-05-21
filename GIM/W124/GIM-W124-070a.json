@@ -1,0 +1,34 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "070a",
+	"name": "",
+	"jpName": "ツキノカメ 秦谷美鈴",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分のクロックの上から1枚までを、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋500し、このカードは次の能力を得る。『【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"マイペース"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-070a",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_070a.png",
+	"tags": null
+}

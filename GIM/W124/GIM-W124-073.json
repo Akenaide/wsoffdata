@@ -1,0 +1,32 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "073",
+	"name": "",
+	"jpName": "Luna say maybe 月村手毬",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 あなたが『集中』を使った時、その効果でCXが控え室に置かれて、あなたの思い出が5枚以下なら、あなたは自分の控え室の「Luna say maybe 月村手毬」を1枚まで選び、思い出にする。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"歌"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-073",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_073.png",
+	"tags": null
+}

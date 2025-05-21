@@ -1,0 +1,35 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "043S",
+	"name": "",
+	"jpName": "キミとセミブルー 姫崎莉波",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "2000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
+		"【自】【CXコンボ】［あなたのCX置場の「次の桜の季節には。」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。",
+		"【起】［手札の「L.U.V 姫崎莉波」を1枚控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"料理"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-043S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_043s.png",
+	"tags": null
+}

@@ -1,0 +1,32 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "093",
+	"name": "",
+	"jpName": "君と出会い、夢に翔ける 紫雲清夏",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、他のあなたの《音楽》のキャラがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードのパワーを＋2000。",
+		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ギャル"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-093",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_093.png",
+	"tags": null
+}

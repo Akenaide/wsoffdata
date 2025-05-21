@@ -1,0 +1,32 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "036b",
+	"name": "",
+	"jpName": "Boom Boom Pow 花海咲季",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「お姉ちゃんに任せなさい！」があるなら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚まで選び、手札に戻す。この効果で公開されたカードが《音楽》のキャラならストック置場に置く。Ｘは公開されたカードのレベルに等しい。（CXのレベルは0として扱う。そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"勝負"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-036b",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_036b.png",
+	"tags": null
+}

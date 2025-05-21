@@ -1,0 +1,34 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "037b",
+	"name": "",
+	"jpName": "White Night! White Wish! 花海佑芽",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［他のあなたの舞台の《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。",
+		"【自】【CXコンボ】 経験 このカードがアタックした時、CX置場に「まだ上がりませんように！」があり、あなたの手札が5枚以下で、あなたのレベル置場のカードのレベルの合計が6以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルし、次の相手のターンの終わりまで、このカードのパワーを＋1500。』『［(1)］ あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"スポーツ"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-037b",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_037b.png",
+	"tags": null
+}

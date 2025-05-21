@@ -1,0 +1,35 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "003S",
+	"name": "",
+	"jpName": "ハッピーミルフィーユ 十王星南",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋5000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルする。",
+		"【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「仕事のつもりで臨みなさい」があり、前列にこのカードがいて、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、1枚まで手札に加え、残りのカードを控え室に置き、その山札をシャッフルし、次の相手のターンの終わりまで、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"生徒会長"
+	],
+	"version": "3",
+	"cardcode": "GIM/W124-003S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_003s.png",
+	"tags": null
+}

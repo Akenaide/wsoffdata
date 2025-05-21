@@ -1,0 +1,32 @@
+{
+	"set": "GIM",
+	"setName": "学園アイドルマスター",
+	"side": "W",
+	"release": "124",
+	"id": "067",
+	"name": "",
+	"jpName": "晴れたね",
+	"cardType": "CX",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "CR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL",
+		"STANDBY"
+	],
+	"ability": [
+		"【自】 このカードが手札からCX置場に置かれた時、[STANDBY]の効果を行う。",
+		"（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+	],
+	"specialAttrib": [],
+	"version": "3",
+	"cardcode": "GIM/W124-067",
+	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_067.png",
+	"tags": null
+}
