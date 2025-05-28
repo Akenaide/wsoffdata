@@ -1,0 +1,35 @@
+{
+	"set": "OVL",
+	"setName": "劇場版「オーバーロード」聖王国編",
+	"side": "S",
+	"release": "E51",
+	"id": "52",
+	"name": "",
+	"jpName": "蘇りし王 アインズ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《異形種》か《ナザリック》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがトリガーした時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
+		"【起】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE51-52",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se51/ovl_se51_52.png",
+	"tags": null
+}

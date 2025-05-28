@@ -1,0 +1,32 @@
+{
+	"set": "OVL",
+	"setName": "劇場版「オーバーロード」聖王国編",
+	"side": "S",
+	"release": "E51",
+	"id": "04H",
+	"name": "",
+	"jpName": "仮面の大悪魔 ヤルダバオト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "HR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「第十位階魔法〈隕石落下〉」があり、他のあなたのキャラが3枚以上なら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の、黄か《異形種》か《ナザリック》のキャラを1枚まで選び、手札に戻す。選んだキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋3000。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE51-04H",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se51/ovl_se51_04h.png",
+	"tags": null
+}

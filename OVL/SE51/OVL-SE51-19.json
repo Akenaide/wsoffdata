@@ -1,0 +1,33 @@
+{
+	"set": "OVL",
+	"setName": "劇場版「オーバーロード」聖王国編",
+	"side": "S",
+	"release": "E51",
+	"id": "19",
+	"name": "",
+	"jpName": "凶眼の狂信者 ネイア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 あなたのCX置場に「“正義”を知った日」が置かれた時、前列にこのカードがいて、他のあなたの、緑か《異形種》か《ナザリック》のキャラが4枚以上なら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"人間種"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE51-19",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se51/ovl_se51_19.png",
+	"tags": null
+}

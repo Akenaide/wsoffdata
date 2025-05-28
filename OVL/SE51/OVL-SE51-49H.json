@@ -1,0 +1,35 @@
+{
+	"set": "OVL",
+	"setName": "劇場版「オーバーロード」聖王国編",
+	"side": "S",
+	"release": "E51",
+	"id": "49H",
+	"name": "",
+	"jpName": "絶対なる忠誠 アルベド",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "HRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの、《異形種》か《ナザリック》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚までを、控え室に置き、自分の控え室の、《異形種》か《ナザリック》のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE51-49H",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se51/ovl_se51_49h.png",
+	"tags": null
+}
