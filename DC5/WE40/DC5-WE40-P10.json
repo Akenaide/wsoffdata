@@ -1,0 +1,35 @@
+{
+	"set": "DC5",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "E40",
+	"id": "P10",
+	"name": "",
+	"jpName": "サクラの国の魔法使い 瑞花",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 記憶 ［(2)］ このカードがアタックした時、CX置場に「未来への別れ」があり、他のあなたの、《Anniversary》か《魔法》のキャラが2枚以上で、あなたの思い出が2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "DC5/WE40-P10",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc5_we40_p10.png",
+	"tags": null
+}
