@@ -1,0 +1,35 @@
+{
+	"set": "AOH",
+	"setName": "あおぎり高校",
+	"side": "W",
+	"release": "127",
+	"id": "003",
+	"name": "",
+	"jpName": "とびっきりのワンショット！ 山黒音玄",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《あおぎり高校》のキャラが4枚以上なら、このカードは、色条件を満たさずに手札からプレイでき、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《あおぎり高校》のキャラがいるなら、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。",
+		"【自】［手札の《あおぎり高校》のキャラを1枚思い出にする］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"あおぎり高校",
+		"オタク"
+	],
+	"version": "3",
+	"cardcode": "AOH/W127-003",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_003.png",
+	"tags": null
+}

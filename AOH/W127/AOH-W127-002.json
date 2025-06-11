@@ -1,0 +1,34 @@
+{
+	"set": "AOH",
+	"setName": "あおぎり高校",
+	"side": "W",
+	"release": "127",
+	"id": "002",
+	"name": "",
+	"jpName": "とびっきりのワンショット！ 栗駒こまる",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《あおぎり高校》のキャラがいるなら、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「キャンディのように甘く」があり、他のあなたの《あおぎり高校》のキャラが3枚以上なら、あなたは自分の山札を上から3枚まで見て、《あおぎり高校》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。この効果で控え室に置かれたカードにCXがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"あおぎり高校",
+		"まろん組"
+	],
+	"version": "3",
+	"cardcode": "AOH/W127-002",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_002.png",
+	"tags": null
+}

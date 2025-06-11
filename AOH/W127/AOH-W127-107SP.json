@@ -1,0 +1,35 @@
+{
+	"set": "AOH",
+	"setName": "あおぎり高校",
+	"side": "W",
+	"release": "127",
+	"id": "107SP",
+	"name": "",
+	"jpName": "純白の装い 山黒音玄",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】【リンク】 ASMR",
+		"【自】 このカードが手札か思い出置場から舞台に置かれた時、そのターン中、このカードのパワーを＋2000し、次の行動を2回行う。『あなたは自分の山札の上から1枚を公開する。そのカードが《あおぎり高校》のキャラかイベントなら手札に加える。』（そうでないなら元に戻す）",
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがCXなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"あおぎり高校",
+		"オタク"
+	],
+	"version": "3",
+	"cardcode": "AOH/W127-107SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_107sp.png",
+	"tags": null
+}

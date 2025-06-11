@@ -1,0 +1,34 @@
+{
+	"set": "AOH",
+	"setName": "[TD]あおぎり高校",
+	"side": "W",
+	"release": "127",
+	"id": "T06SP",
+	"name": "",
+	"jpName": "夏の思い出 石狩あかり",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1)］ このカードがアタックした時、CX置場に「記憶にございません！」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは相手の控え室のカードを1枚まで選び、山札の上に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"あおぎり高校",
+		"ゲーム"
+	],
+	"version": "3",
+	"cardcode": "AOH/W127-T06SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_t06sp.png",
+	"tags": null
+}

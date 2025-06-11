@@ -1,0 +1,34 @@
+{
+	"set": "AOH",
+	"setName": "あおぎり高校",
+	"side": "W",
+	"release": "127",
+	"id": "101S",
+	"name": "",
+	"jpName": "とびっきりのワンショット！ 音霊魂子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室の『【リンク】 ASMR』を持つキャラを1枚まで選び、思い出にする。",
+		"【自】【CXコンボ】 記憶 ［(3) 手札を1枚控え室に置く］ このカードのアタックの終わりに、CX置場に「両片思い」があり、他のあなたの《あおぎり高校》のキャラが2枚以上で、あなたの思い出が3枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の思い出置場の『【リンク】 ASMR』を持つキャラを1枚までと、このカードを選び、入れ替える。"
+	],
+	"specialAttrib": [
+		"あおぎり高校",
+		"ラーメン"
+	],
+	"version": "3",
+	"cardcode": "AOH/W127-101S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_101s.png",
+	"tags": null
+}

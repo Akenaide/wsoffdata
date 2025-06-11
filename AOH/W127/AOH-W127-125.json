@@ -1,0 +1,35 @@
+{
+	"set": "AOH",
+	"setName": "あおぎり高校",
+	"side": "W",
+	"release": "127",
+	"id": "125",
+	"name": "",
+	"jpName": "春雨麗女",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《あおぎり高校》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、そのターン中、レベルを＋2。"
+	],
+	"specialAttrib": [
+		"あおぎり高校",
+		"酒"
+	],
+	"version": "3",
+	"cardcode": "AOH/W127-125",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_125.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "AOH",
+	"setName": "あおぎり高校",
+	"side": "W",
+	"release": "127",
+	"id": "008S",
+	"name": "",
+	"jpName": "玄人様ランチ 山黒音玄",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
+		"【自】【CXコンボ】［(3) 手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「内緒のアフターサービス」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを2回与え、そのターン中、このカードのパワーを＋1000。Ｘはあなたの思い出の枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"あおぎり高校",
+		"オタク"
+	],
+	"version": "3",
+	"cardcode": "AOH/W127-008S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_008s.png",
+	"tags": null
+}

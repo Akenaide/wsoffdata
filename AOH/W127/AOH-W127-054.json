@@ -1,0 +1,34 @@
+{
+	"set": "AOH",
+	"setName": "あおぎり高校",
+	"side": "W",
+	"release": "127",
+	"id": "054",
+	"name": "",
+	"jpName": "食べるの大好き！ ぷわぷわぽぷら",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。",
+		"【自】［あなたの、手札とストックすべてを控え室に置く］ このカードが手札から舞台に置かれたターン中、あなたのアンコールステップの始めに、あなたはコストを払ってよい。この能力のコストで控え室に置かれたカード6枚につき、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"あおぎり高校",
+		"くいしんぼう"
+	],
+	"version": "3",
+	"cardcode": "AOH/W127-054",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_054.png",
+	"tags": null
+}

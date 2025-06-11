@@ -1,0 +1,34 @@
+{
+	"set": "AOH",
+	"setName": "[TD]あおぎり高校",
+	"side": "W",
+	"release": "127",
+	"id": "T14SP",
+	"name": "",
+	"jpName": "夏の思い出 春雨麗女",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。",
+		"【自】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、あなたのキャラすべてが《あおぎり高校》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、相手にＸダメージを与える。Ｘはそのカードのレベル＋1に等しい。（CXのレベルは0として扱う。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"あおぎり高校",
+		"酒"
+	],
+	"version": "3",
+	"cardcode": "AOH/W127-T14SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_t14sp.png",
+	"tags": null
+}

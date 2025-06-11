@@ -1,0 +1,35 @@
+{
+	"set": "AOH",
+	"setName": "あおぎり高校",
+	"side": "W",
+	"release": "127",
+	"id": "090",
+	"name": "",
+	"jpName": "千代浦蝶美",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《あおぎり高校》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、このカードのパワーを＋6000。",
+		"【自】【CXコンボ】【ターン1】 このカードの与えたダメージがキャンセルされた時、あなたのCX置場に「早口言葉はお手の物！」があり、他のあなたの《あおぎり高校》のキャラが2枚以上なら、あなたは自分の山札の上から1枚までを、ストック置場に置き、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"あおぎり高校",
+		"アイドル"
+	],
+	"version": "3",
+	"cardcode": "AOH/W127-090",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_090.png",
+	"tags": null
+}
