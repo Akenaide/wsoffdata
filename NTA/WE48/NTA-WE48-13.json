@@ -1,0 +1,35 @@
+{
+	"set": "NTA",
+	"setName": "プレミアムブースター 魔法少女リリカルなのは 20th Anniversary",
+	"side": "W",
+	"release": "E48",
+	"id": "13",
+	"name": "",
+	"jpName": "水辺のひととき フェイト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのCX置場にトリガーアイコンが[SHOT]を得る。",
+		"【永】 あなたのターン中、あなたのキャラすべてが《魔法》か《武器》なら、このカードのパワーを＋6000。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「ホーネットジャベリン」があるなら、あなたは自分の控え室の、《魔法》か《武器》のキャラを1枚まで選び、ストック置場に置き、自分の山札を見て《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クローン"
+	],
+	"version": "3",
+	"cardcode": "NTA/WE48-13",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_13.png",
+	"tags": null
+}

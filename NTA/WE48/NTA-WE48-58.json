@@ -1,0 +1,34 @@
+{
+	"set": "NTA",
+	"setName": "プレミアムブースター 魔法少女リリカルなのは 20th Anniversary",
+	"side": "W",
+	"release": "E48",
+	"id": "58",
+	"name": "",
+	"jpName": "夜天の書と共に はやて",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「夜の終わり、旅の終わり」があり、他のあなたの、青か《魔法》か《武器》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与え、そのターン中、このカードのパワーを＋2000。Ｘはそれらのカードのレベル0以下のカードの枚数に等しい。（CXのレベルは0として扱う。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"本"
+	],
+	"version": "3",
+	"cardcode": "NTA/WE48-58",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_58.png",
+	"tags": null
+}

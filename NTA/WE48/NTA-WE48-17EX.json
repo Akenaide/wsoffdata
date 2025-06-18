@@ -1,0 +1,34 @@
+{
+	"set": "NTA",
+	"setName": "プレミアムブースター 魔法少女リリカルなのは 20th Anniversary",
+	"side": "W",
+	"release": "E48",
+	"id": "17EX",
+	"name": "",
+	"jpName": "閃光の戦斧と共に フェイト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SEC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。",
+		"【自】【CXコンボ】ターン1回＠［(3) 手札を1枚控え室に置く］ このカードのアタックの終わりに、CX置場に「なまえをよんで」があり、他のあなたの、《魔法》か《武器》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クローン"
+	],
+	"version": "3",
+	"cardcode": "NTA/WE48-17EX",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_17ex.png",
+	"tags": null
+}

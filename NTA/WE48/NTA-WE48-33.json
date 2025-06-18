@@ -1,0 +1,34 @@
+{
+	"set": "NTA",
+	"setName": "プレミアムブースター 魔法少女リリカルなのは 20th Anniversary",
+	"side": "W",
+	"release": "E48",
+	"id": "33",
+	"name": "",
+	"jpName": "新年をみんなと ヴィータ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から4枚を、控え室に置く。それらのカードにCXがあるなら、あなたは相手のレベル3以下のキャラを1枚選び、手札に戻してよい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"人形"
+	],
+	"version": "3",
+	"cardcode": "NTA/WE48-33",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_33.png",
+	"tags": null
+}

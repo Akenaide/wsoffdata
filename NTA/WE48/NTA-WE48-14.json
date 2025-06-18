@@ -1,0 +1,35 @@
+{
+	"set": "NTA",
+	"setName": "プレミアムブースター 魔法少女リリカルなのは 20th Anniversary",
+	"side": "W",
+	"release": "E48",
+	"id": "14",
+	"name": "",
+	"jpName": "リリカルウェディング フェイト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 あなたのトリガーアイコンが[CHOICE]のCXがトリガーした時、あなたは相手の山札を上から1枚見て、山札の上か下に置く。",
+		"【起】［このカードを【レスト】する］ あなたは自分の、《魔法》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クローン"
+	],
+	"version": "3",
+	"cardcode": "NTA/WE48-14",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_14.png",
+	"tags": null
+}

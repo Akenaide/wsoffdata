@@ -1,0 +1,34 @@
+{
+	"set": "NTA",
+	"setName": "プレミアムブースター 魔法少女リリカルなのは 20th Anniversary",
+	"side": "W",
+	"release": "E48",
+	"id": "56",
+	"name": "",
+	"jpName": "八神家の騎士 ザフィーラ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが青か《魔法》か《武器》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"魔法",
+		"使い魔"
+	],
+	"version": "3",
+	"cardcode": "NTA/WE48-56",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_56.png",
+	"tags": null
+}

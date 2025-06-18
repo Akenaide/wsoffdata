@@ -1,0 +1,35 @@
+{
+	"set": "NTA",
+	"setName": "プレミアムブースター 魔法少女リリカルなのは 20th Anniversary",
+	"side": "W",
+	"release": "E48",
+	"id": "37",
+	"name": "",
+	"jpName": "溢れる気持ち なのは＆フェイト",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場に「守るべき大切なもの なのは」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 応援 このカードの前のあなたの、《魔法》か《武器》のキャラすべてに、パワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《魔法》か《武器》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"武器"
+	],
+	"version": "3",
+	"cardcode": "NTA/WE48-37",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_37.png",
+	"tags": null
+}

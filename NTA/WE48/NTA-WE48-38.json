@@ -1,0 +1,35 @@
+{
+	"set": "NTA",
+	"setName": "プレミアムブースター 魔法少女リリカルなのは 20th Anniversary",
+	"side": "W",
+	"release": "E48",
+	"id": "38",
+	"name": "",
+	"jpName": "St.ヒルデ魔法学院 アインハルト",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《魔法》か《武器》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』『［手札を1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。』",
+		"【自】 このカードがアタックした時、他のあなたの、《魔法》か《武器》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"オッドアイ"
+	],
+	"version": "3",
+	"cardcode": "NTA/WE48-38",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_38.png",
+	"tags": null
+}

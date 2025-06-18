@@ -1,0 +1,35 @@
+{
+	"set": "NTA",
+	"setName": "プレミアムブースター 魔法少女リリカルなのは 20th Anniversary",
+	"side": "W",
+	"release": "E48",
+	"id": "16LCR",
+	"name": "",
+	"jpName": "夏の思い出 フェイト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "LCR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出置場の「母親として リンディ」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《魔法》か《武器》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の、《魔法》か《武器》のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"魔法",
+		"クローン"
+	],
+	"version": "3",
+	"cardcode": "NTA/WE48-16LCR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_16lcr.png",
+	"tags": null
+}
