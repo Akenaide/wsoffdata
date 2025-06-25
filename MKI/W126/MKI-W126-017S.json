@@ -1,0 +1,35 @@
+{
+	"set": "MKI",
+	"setName": "負けヒロインが多すぎる！",
+	"side": "W",
+	"release": "126",
+	"id": "017S",
+	"name": "",
+	"jpName": "姫宮華恋",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋10500。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「袴田草介」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+		"【自】 絆／「袴田草介」 ［手札を1枚控え室に置く］ （このカードが、手札から舞台またはプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「袴田草介」を1枚選び、手札に戻す）"
+	],
+	"specialAttrib": [
+		"青春",
+		"クラスメイト"
+	],
+	"version": "3",
+	"cardcode": "MKI/W126-017S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_017s.png",
+	"tags": null
+}

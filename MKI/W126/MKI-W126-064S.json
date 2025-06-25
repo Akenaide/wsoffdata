@@ -1,0 +1,35 @@
+{
+	"set": "MKI",
+	"setName": "負けヒロインが多すぎる！",
+	"side": "W",
+	"release": "126",
+	"id": "064S",
+	"name": "",
+	"jpName": "怯える知花",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下のマーカー1枚につき、このカードは次の能力を得る。『【永】 他のあなたの《青春》のキャラすべてに、パワーを＋500。』",
+		"【自】【ターン1】 他のあなたのキャラが【リバース】した時、このカードの下のマーカーが3枚以下なら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置いてよい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《青春》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"青春",
+		"マケイン"
+	],
+	"version": "3",
+	"cardcode": "MKI/W126-064S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_064s.png",
+	"tags": null
+}

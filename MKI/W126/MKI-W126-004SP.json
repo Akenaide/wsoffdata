@@ -1,0 +1,34 @@
+{
+	"set": "MKI",
+	"setName": "負けヒロインが多すぎる！",
+	"side": "W",
+	"release": "126",
+	"id": "004SP",
+	"name": "",
+	"jpName": "お兄様のジャケット 佳樹",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《青春》のキャラがいるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 共鳴 ［(2) 手札を1枚控え室に置き、手札の「温水和彦」を1枚公開する］ このカードがアタックした時、CX置場に「お兄様と学園祭デートです」があり、他のあなたの《青春》のキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。このダメージがキャンセルされたなら、あなたは相手に2ダメージを与えてよい。このダメージがキャンセルされたなら、あなたは相手に2ダメージを与えてよい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"青春",
+		"妹"
+	],
+	"version": "3",
+	"cardcode": "MKI/W126-004SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_004sp.png",
+	"tags": null
+}

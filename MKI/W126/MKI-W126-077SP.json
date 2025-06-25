@@ -1,0 +1,35 @@
+{
+	"set": "MKI",
+	"setName": "負けヒロインが多すぎる！",
+	"side": "W",
+	"release": "126",
+	"id": "077SP",
+	"name": "",
+	"jpName": "ナイスバディ 杏菜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 思い出置場にこのカードがあるなら、あなたはレベル4であることによって敗北しない。（レベル5になったら敗北する）",
+		"【自】 このカードが「ナイスバディ 杏菜」以外のカードの効果で思い出になった時、このカードを控え室に置く。",
+		"【自】【CXコンボ】 このカードのアタックの終わりに、CX置場に「そういうとこだよ」があるなら、次の2つの効果のうちあなたが選んだ1つを行う。『［(5) あなたの山札の上から3枚をクロック置場に置く］ このカードが手札から舞台に置かれたターンなら、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。』『相手に2ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"青春",
+		"マケイン"
+	],
+	"version": "3",
+	"cardcode": "MKI/W126-077SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_077sp.png",
+	"tags": null
+}

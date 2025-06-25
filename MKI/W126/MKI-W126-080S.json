@@ -1,0 +1,36 @@
+{
+	"set": "MKI",
+	"setName": "負けヒロインが多すぎる！",
+	"side": "W",
+	"release": "126",
+	"id": "080S",
+	"name": "",
+	"jpName": "凍り付く笑顔 杏菜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋8000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置く。",
+		"【自】 マーカーを持つこのカードが舞台から控え室に置かれた時、このカードをクロック置場に置く。",
+		"【起】［(1)］ あなたはこのカードの下のマーカーを1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"青春",
+		"マケイン"
+	],
+	"version": "3",
+	"cardcode": "MKI/W126-080S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_080s.png",
+	"tags": null
+}

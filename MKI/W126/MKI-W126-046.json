@@ -1,0 +1,35 @@
+{
+	"set": "MKI",
+	"setName": "負けヒロインが多すぎる！",
+	"side": "W",
+	"release": "126",
+	"id": "046",
+	"name": "",
+	"jpName": "興味津々 檸檬",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたが自分の手札のイベントのコストを払う時、このカードの下のマーカー1枚を、ストック1枚のかわりに控え室に置いてよい。",
+		"【自】【ターン1】 他のあなたのキャラが【リバース】した時、このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置いてよい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《青春》のキャラを1枚選び、そのターン中、パワーを＋2500。"
+	],
+	"specialAttrib": [
+		"青春",
+		"マケイン"
+	],
+	"version": "3",
+	"cardcode": "MKI/W126-046",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_046.png",
+	"tags": null
+}

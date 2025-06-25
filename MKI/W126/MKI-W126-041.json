@@ -1,0 +1,35 @@
+{
+	"set": "MKI",
+	"setName": "負けヒロインが多すぎる！",
+	"side": "W",
+	"release": "126",
+	"id": "041",
+	"name": "",
+	"jpName": "かわいく見られたい 檸檬",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードがアタックした時、そのターン中、このカードのパワーを＋1000し、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「最初で最後のわがまま」を1枚選び、手札に戻す。",
+		"【自】 このカードが【リバース】した時、このカードを思い出にする。",
+		"【起】 記憶 ［(1) 思い出置場のこのカードを控え室に置く］ あなたのレベルが2以上なら、あなたは自分の手札の「陸上ガール 檸檬」を1枚まで選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"青春",
+		"マケイン"
+	],
+	"version": "3",
+	"cardcode": "MKI/W126-041",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_041.png",
+	"tags": null
+}

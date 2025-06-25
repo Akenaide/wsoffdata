@@ -1,0 +1,35 @@
+{
+	"set": "MKI",
+	"setName": "負けヒロインが多すぎる！",
+	"side": "W",
+	"release": "126",
+	"id": "054",
+	"name": "",
+	"jpName": "引っ込み思案な女の子 知花",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "5500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《青春》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《青春》のキャラが2枚以上なら、このカードのパワーを＋5000。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、他のあなたの《青春》のキャラが2枚以上なら、あなたは自分のクロックの上から1枚までを、控え室に置き、コストを払ってよい。コストを払ったなら、次の行動を行う。『あなたは自分のクロックの上から2枚までを、控え室に置き、あなたに1ダメージをＸ回与える。Ｘはこの行動で控え室に置かれたカードの枚数に等しい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"青春",
+		"マケイン"
+	],
+	"version": "3",
+	"cardcode": "MKI/W126-054",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_054.png",
+	"tags": null
+}

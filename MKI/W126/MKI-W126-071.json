@@ -1,0 +1,35 @@
+{
+	"set": "MKI",
+	"setName": "負けヒロインが多すぎる！",
+	"side": "W",
+	"release": "126",
+	"id": "071",
+	"name": "",
+	"jpName": "励ます知花",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋3000。",
+		"【自】 このカードが【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、このカードを思い出にする。",
+		"【起】 記憶 ［(1) 思い出置場のこのカードを控え室に置く］ あなたのレベルが2以上なら、あなたは自分の手札の「その瞳に映るのは 知花」を1枚まで選び、舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"青春",
+		"マケイン"
+	],
+	"version": "3",
+	"cardcode": "MKI/W126-071",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_071.png",
+	"tags": null
+}
