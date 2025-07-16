@@ -1,0 +1,34 @@
+{
+	"set": "SMP",
+	"setName": "Summer Pockets REFLECTION BLUE Re:Edit",
+	"side": "W",
+	"release": "130",
+	"id": "106S",
+	"name": "",
+	"jpName": "“それは夏のせい”蒼",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"双子"
+	],
+	"version": "3",
+	"cardcode": "SMP/W130-106S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w130/smp_w130_106s.png",
+	"tags": null
+}

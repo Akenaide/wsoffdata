@@ -1,0 +1,36 @@
+{
+	"set": "SMP",
+	"setName": "Summer Pockets REFLECTION BLUE Re:Edit",
+	"side": "W",
+	"release": "130",
+	"id": "098S",
+	"name": "",
+	"jpName": "空門 藍",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2500。",
+		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋1500。",
+		"【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。",
+		"【自】 このカードがアタックした時、他のあなたの《サマポケ》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"双子"
+	],
+	"version": "3",
+	"cardcode": "SMP/W130-098S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w130/smp_w130_098s.png",
+	"tags": null
+}

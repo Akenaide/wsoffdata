@@ -1,0 +1,35 @@
+{
+	"set": "SMP",
+	"setName": "Summer Pockets REFLECTION BLUE Re:Edit",
+	"side": "W",
+	"release": "130",
+	"id": "080",
+	"name": "",
+	"jpName": "“残された時間”蒼",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋500。",
+		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「長い夢の終わり」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《双子》のキャラを1枚選び、【スタンド】する。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"双子"
+	],
+	"version": "3",
+	"cardcode": "SMP/W130-080",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w130/smp_w130_080.png",
+	"tags": null
+}

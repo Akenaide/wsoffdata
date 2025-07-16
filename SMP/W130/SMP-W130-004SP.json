@@ -1,0 +1,34 @@
+{
+	"set": "SMP",
+	"setName": "Summer Pockets REFLECTION BLUE Re:Edit",
+	"side": "W",
+	"release": "130",
+	"id": "004SP",
+	"name": "",
+	"jpName": "“夏の思い出”識",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《サマポケ》のキャラの枚数に等しい。",
+		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「最後に……君に逢いたかったな……」があり、このカードのソウルが3以下なら、あなたはコストを払ってよい。そうしたら、そのアタック中、このカードが相手にアタックのダメージを与える時、かわりに相手に1ダメージをＸ回与える。Ｘはこのカードのソウルに等しい。（このダメージは【自】の効果によるダメージではない。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"鬼"
+	],
+	"version": "3",
+	"cardcode": "SMP/W130-004SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w130/smp_w130_004sp.png",
+	"tags": null
+}
