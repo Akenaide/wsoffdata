@@ -1,0 +1,35 @@
+{
+	"set": "IAS",
+	"setName": "アイドルマスター 765PRO ALLSTARS",
+	"side": "S",
+	"release": "E52",
+	"id": "40SP",
+	"name": "",
+	"jpName": "Rebellion　我那覇 響",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《音楽》か《動物》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの、《音楽》か《動物》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"動物"
+	],
+	"version": "3",
+	"cardcode": "IAS/SE52-40SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_se52/ias_se52_40sp.png",
+	"tags": null
+}

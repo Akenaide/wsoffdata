@@ -1,0 +1,35 @@
+{
+	"set": "IAS",
+	"setName": "アイドルマスター 765PRO ALLSTARS",
+	"side": "S",
+	"release": "E52",
+	"id": "56",
+	"name": "",
+	"jpName": "DIAMOND　水瀬伊織",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「SMOKY THRILL」があり、他のあなたのキャラが3枚以上なら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。この効果で相手のカードが控え室に置かれなかったなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ぬいぐるみ"
+	],
+	"version": "3",
+	"cardcode": "IAS/SE52-56",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_se52/ias_se52_56.png",
+	"tags": null
+}

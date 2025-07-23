@@ -1,0 +1,35 @@
+{
+	"set": "IAS",
+	"setName": "アイドルマスター 765PRO ALLSTARS",
+	"side": "S",
+	"release": "E52",
+	"id": "13BNP",
+	"name": "",
+	"jpName": "天邪鬼はきまぐれ性　双海亜美",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "BNP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）",
+		"【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"双子"
+	],
+	"version": "3",
+	"cardcode": "IAS/SE52-13BNP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_se52/ias_se52_13bnp.png",
+	"tags": null
+}

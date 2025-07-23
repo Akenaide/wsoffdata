@@ -1,0 +1,35 @@
+{
+	"set": "IAS",
+	"setName": "アイドルマスター 765PRO ALLSTARS",
+	"side": "S",
+	"release": "E52",
+	"id": "26BNP",
+	"name": "",
+	"jpName": "ご機嫌ローズプリンセス　水瀬伊織",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "BNP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《音楽》のキャラが4枚以上なら、このカードのパワーを＋6000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ぬいぐるみ"
+	],
+	"version": "3",
+	"cardcode": "IAS/SE52-26BNP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_se52/ias_se52_26bnp.png",
+	"tags": null
+}

@@ -1,0 +1,32 @@
+{
+	"set": "IAS",
+	"setName": "アイドルマスター 765PRO ALLSTARS",
+	"side": "S",
+	"release": "E52",
+	"id": "34SP",
+	"name": "",
+	"jpName": "Pon De Beach　我那覇 響",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《音楽》か《動物》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードがアタックした時、CX置場にCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"動物"
+	],
+	"version": "3",
+	"cardcode": "IAS/SE52-34SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_se52/ias_se52_34sp.png",
+	"tags": null
+}
