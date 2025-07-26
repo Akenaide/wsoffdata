@@ -1,0 +1,35 @@
+{
+	"set": "DDD",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "118",
+	"id": "P05S",
+	"name": "",
+	"jpName": "超常的なパワー モモ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】［(1) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。』（ダメージキャンセルは発生する）",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"人間",
+		"超能力"
+	],
+	"version": "3",
+	"cardcode": "DDD/S118-P05S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_p05s.png",
+	"tags": null
+}

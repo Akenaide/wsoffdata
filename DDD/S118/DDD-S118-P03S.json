@@ -1,0 +1,35 @@
+{
+	"set": "DDD",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "118",
+	"id": "P03S",
+	"name": "",
+	"jpName": "オカルティックサマー オカルン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのCX置場にトリガーアイコンが[CHOICE]を得る。",
+		"【永】 あなたのターン中、他のあなたの、《人間》か《怪異》のキャラがいるなら、このカードのレベルを＋1し、パワーを＋5500。",
+		"【起】［【スタンド】しているこのカードを控え室に置く］ あなたのレベルが3以上なら、あなたは自分の手札の「本気の一撃 オカルン」を1枚まで選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"人間",
+		"オカルト"
+	],
+	"version": "3",
+	"cardcode": "DDD/S118-P03S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_p03s.png",
+	"tags": null
+}
