@@ -1,0 +1,34 @@
+{
+	"set": "KJ8",
+	"setName": "怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "010",
+	"name": "",
+	"jpName": "誇りある矜持 四ノ宮キコル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列にこのカードがいるなら、あなたの、《防衛隊》か《怪獣》のキャラすべてに、パワーを＋1000し、『【自】 アンコール ［手札の、《防衛隊》か《怪獣》のキャラを1枚控え室に置く］』を与える。",
+		"【自】［手札の、《防衛隊》か《怪獣》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの、《防衛隊》か《怪獣》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストック置場に置く。"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"エリート"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-010",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_010.png",
+	"tags": null
+}

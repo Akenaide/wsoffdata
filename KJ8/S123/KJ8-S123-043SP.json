@@ -1,0 +1,35 @@
+{
+	"set": "KJ8",
+	"setName": "怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "043SP",
+	"name": "",
+	"jpName": "思いを込めた一撃 怪獣８号",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《防衛隊》か《怪獣》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"怪獣"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-043SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_043sp.png",
+	"tags": null
+}

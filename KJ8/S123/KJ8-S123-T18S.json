@@ -1,0 +1,34 @@
+{
+	"set": "KJ8",
+	"setName": "[TD]怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "T18S",
+	"name": "",
+	"jpName": "コードネーム 怪獣８号",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、他のあなたの、《防衛隊》か《怪獣》のキャラがいるなら、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「歴史に残る大怪獣!?」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋1000。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"怪獣"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-T18S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_t18s.png",
+	"tags": null
+}

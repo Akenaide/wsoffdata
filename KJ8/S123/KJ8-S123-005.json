@@ -1,0 +1,35 @@
+{
+	"set": "KJ8",
+	"setName": "怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "005",
+	"name": "",
+	"jpName": "日本防衛隊長官 四ノ宮功",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、このカードは《大怪獣》と次の能力を得る。『【起】［(1) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。』",
+		"【永】 応援 このカードの前のあなたの、《防衛隊》か《怪獣》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《防衛隊》か《怪獣》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"長官"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-005",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_005.png",
+	"tags": null
+}

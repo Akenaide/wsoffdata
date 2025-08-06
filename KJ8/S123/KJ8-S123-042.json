@@ -1,0 +1,35 @@
+{
+	"set": "KJ8",
+	"setName": "怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "042",
+	"name": "",
+	"jpName": "迷いなき選択 怪獣８号",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋4000。",
+		"【永】 大活躍 （相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする）",
+		"【自】［手札の「迷いなき選択 怪獣８号」を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"怪獣"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-042",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_042.png",
+	"tags": null
+}

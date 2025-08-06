@@ -1,0 +1,34 @@
+{
+	"set": "KJ8",
+	"setName": "怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "019S",
+	"name": "",
+	"jpName": "臨戦態勢 保科宗四郎",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「これが今の私」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 あなたのCX置場に「これが今の私」が置かれた時、前列にこのカードがいて、他のあなたの、《防衛隊》か《怪獣》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から5枚まで見て、《防衛隊》か《怪獣》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』『相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。』"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"副隊長"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-019S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_019s.png",
+	"tags": null
+}

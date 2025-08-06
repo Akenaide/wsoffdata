@@ -1,0 +1,35 @@
+{
+	"set": "KJ8",
+	"setName": "怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "006SP",
+	"name": "",
+	"jpName": "副隊長の務め 保科宗四郎",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《防衛隊》か《怪獣》のキャラが4枚以上なら、このカードのパワーを＋6000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《防衛隊》か《怪獣》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《防衛隊》か《怪獣》のキャラが4枚以上なら、あなたは自分の控え室の、《防衛隊》か《怪獣》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"副隊長"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-006SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_006sp.png",
+	"tags": null
+}

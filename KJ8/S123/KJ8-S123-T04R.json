@@ -1,0 +1,32 @@
+{
+	"set": "KJ8",
+	"setName": "[TD]怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "T04R",
+	"name": "",
+	"jpName": "８号の行方 亜白ミナ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。（CXのレベルは0として扱う。公開したカードは元に戻す）",
+		"【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"隊長"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-T04R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_t04r.png",
+	"tags": null
+}

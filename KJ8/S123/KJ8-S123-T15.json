@@ -1,0 +1,35 @@
+{
+	"set": "KJ8",
+	"setName": "[TD]怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "T15",
+	"name": "",
+	"jpName": "作戦開始 市川レノ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたが自分のキャラの『チェンジ』のコストを払う時、このカードの下のマーカー1枚を、ストック1枚のかわりに控え室に置いてよい。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。そうしたら、あなたはそのカードをこのカードの下にマーカーとして裏向きに置く。"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"若き才能"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-T15",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_t15.png",
+	"tags": null
+}

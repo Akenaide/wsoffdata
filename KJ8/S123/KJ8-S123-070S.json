@@ -1,0 +1,35 @@
+{
+	"set": "KJ8",
+	"setName": "怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "070S",
+	"name": "",
+	"jpName": "最強の証明 鳴海弦",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《防衛隊》か《怪獣》のキャラが2枚以上なら、このカードのパワーを＋3000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは相手の山札を上から1枚見て、山札の上か控え室に置く。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"隊長"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-070S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_070s.png",
+	"tags": null
+}

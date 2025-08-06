@@ -1,0 +1,34 @@
+{
+	"set": "KJ8",
+	"setName": "怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "091S",
+	"name": "",
+	"jpName": "皆が追う背中 亜白ミナ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にCXがあるなら、あなたは自分の山札を見て《防衛隊》か《怪獣》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"隊長"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-091S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_091s.png",
+	"tags": null
+}

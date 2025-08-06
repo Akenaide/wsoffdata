@@ -1,0 +1,35 @@
+{
+	"set": "KJ8",
+	"setName": "怪獣８号",
+	"side": "S",
+	"release": "123",
+	"id": "056S",
+	"name": "",
+	"jpName": "強い信頼 市川レノ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《防衛隊》か《怪獣》のキャラがいるなら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせない。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「この瞬間だけ俺に」があるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置き、相手の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"防衛隊",
+		"若き才能"
+	],
+	"version": "3",
+	"cardcode": "KJ8/S123-056S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_056s.png",
+	"tags": null
+}
