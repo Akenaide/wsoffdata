@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター BanG Dream! 10th Anniversary！",
+	"side": "W",
+	"release": "E49",
+	"id": "09SP",
+	"name": "",
+	"jpName": "“幼馴染は留学生”弦巻こころ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「伝え合う心」があり、他のあなたのキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】【ターン1】 このカードの与えたダメージがキャンセルされた時、あなたは相手の控え室のカードをＸ枚まで選び、山札に戻し、相手はその山札をシャッフルし、あなたは相手にＸダメージを与える。Ｘは他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラの枚数に等しい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"ハロー、ハッピーワールド！"
+	],
+	"version": "3",
+	"cardcode": "BD/WE49-09SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_09sp.png",
+	"tags": null
+}

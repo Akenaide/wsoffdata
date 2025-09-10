@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター BanG Dream! 10th Anniversary！",
+	"side": "W",
+	"release": "E49",
+	"id": "10SP",
+	"name": "",
+	"jpName": "“夢と現実を飛び越える”仲町あられ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［(3) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたは相手の控え室のカードを1枚まで選び、山札の上に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"夢限大みゅーたいぷ"
+	],
+	"version": "3",
+	"cardcode": "BD/WE49-10SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_10sp.png",
+	"tags": null
+}

@@ -1,0 +1,36 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター BanG Dream! 10th Anniversary！",
+	"side": "W",
+	"release": "E49",
+	"id": "08SP",
+	"name": "",
+	"jpName": "“理由と目的”松原花音",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』",
+		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"ハロー、ハッピーワールド！"
+	],
+	"version": "3",
+	"cardcode": "BD/WE49-08SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_08sp.png",
+	"tags": null
+}

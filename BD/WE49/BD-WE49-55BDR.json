@@ -1,0 +1,36 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター BanG Dream! 10th Anniversary！",
+	"side": "W",
+	"release": "E49",
+	"id": "55BDR",
+	"name": "",
+	"jpName": "“きみの隣で花を編む”今井リサ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "BDR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《Roselia》のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"Roselia"
+	],
+	"version": "3",
+	"cardcode": "BD/WE49-55BDR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_55bdr.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター BanG Dream! 10th Anniversary！",
+	"side": "W",
+	"release": "E49",
+	"id": "34",
+	"name": "",
+	"jpName": "“夢と現実を飛び越える”宮永ののか",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
+		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》か《夢限大みゅーたいぷ》のキャラなら、あなたは自分の控え室の、《Anniversary》か《夢限大みゅーたいぷ》のキャラを1枚選び、手札に戻してよい。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"夢限大みゅーたいぷ"
+	],
+	"version": "3",
+	"cardcode": "BD/WE49-34",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_34.png",
+	"tags": null
+}

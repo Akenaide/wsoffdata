@@ -1,0 +1,36 @@
+{
+	"set": "BD",
+	"setName": "プレミアムブースター BanG Dream! 10th Anniversary！",
+	"side": "W",
+	"release": "E49",
+	"id": "24SP",
+	"name": "",
+	"jpName": "“私の向き合い方”ロック",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"RAISE A SUILEN"
+	],
+	"version": "3",
+	"cardcode": "BD/WE49-24SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_24sp.png",
+	"tags": null
+}
