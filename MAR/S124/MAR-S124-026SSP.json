@@ -1,0 +1,33 @@
+{
+	"set": "MAR",
+	"setName": "ブースターパック / MARVEL Vol.3 [MARVEL STUDIOS]",
+	"side": "S",
+	"release": "124",
+	"id": "026SSP",
+	"name": "",
+	"jpName": "X-MEN '97 マグニートー",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「磁力を支配し金属を自在に操る能力」があるなら、あなたは次の行動を行ってよい。『相手に4ダメージを与え、そのターン中、このカードのパワーを＋8000し、ソウルを－10。このダメージで公開されたカードすべては、このダメージがキャンセルされてもクロック置場に公開された順番で置き、与えたダメージがキャンセルされなかったなら、クロック置場に置くかわりに控え室に置く。』"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S124-026SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_026ssp.png",
+	"tags": null
+}

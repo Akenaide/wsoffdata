@@ -1,0 +1,34 @@
+{
+	"set": "MAR",
+	"setName": "ブースターパック / MARVEL Vol.3 [MARVEL STUDIOS]",
+	"side": "S",
+	"release": "124",
+	"id": "019S",
+	"name": "",
+	"jpName": "宇宙の秩序を取り戻すための戦い ソー",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《MARVEL》のキャラが4枚以上なら、このカードのパワーを＋6000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《MARVEL》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にトリガーアイコンが[CHOICE]のCXがあるなら、あなたは自分の控え室の「邪神 ロキ」を1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S124-019S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_019s.png",
+	"tags": null
+}

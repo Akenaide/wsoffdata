@@ -1,0 +1,33 @@
+{
+	"set": "MAR",
+	"setName": "ブースターパック / MARVEL Vol.3 [MARVEL STUDIOS]",
+	"side": "S",
+	"release": "124",
+	"id": "064",
+	"name": "",
+	"jpName": "人々を守れる力 スパイダーマン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《MARVEL》のキャラすべてに、パワーを＋1000。",
+		"【自】 アタックフェイズ中、あなたのキャラが、他の枠に動いた時、そのターン中、そのキャラに次の2つの能力を与える。『【永】 このカードの正面のキャラはサイドアタックできない。』『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストック置場に置く。』（CXのレベルは0として扱う。そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S124-064",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_064.png",
+	"tags": null
+}

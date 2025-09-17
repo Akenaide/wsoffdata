@@ -1,0 +1,34 @@
+{
+	"set": "MAR",
+	"setName": "ブースターパック / MARVEL Vol.3 [MARVEL STUDIOS]",
+	"side": "S",
+	"release": "124",
+	"id": "073",
+	"name": "",
+	"jpName": "偉大な王 ブラックパンサー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《MARVEL》のキャラ1枚につき、このカードのパワーを＋2000。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
+		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S124-073",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_073.png",
+	"tags": null
+}

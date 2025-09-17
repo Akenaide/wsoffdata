@@ -1,0 +1,33 @@
+{
+	"set": "MAR",
+	"setName": "ブースターパック / MARVEL Vol.3 [MARVEL STUDIOS]",
+	"side": "S",
+	"release": "124",
+	"id": "053EX",
+	"name": "",
+	"jpName": "生きたハイテク・ウェポン アイアンマン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SEC",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。",
+		"【自】【CXコンボ】［手札を3枚控え室に置く］ このカードがアタックした時、CX置場に「最後にして最大の逆襲」があり、他のあなたの《MARVEL》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与え、あなたは相手の控え室のカードを1枚まで選び、山札に戻し、相手はその山札をシャッフルし、あなたは相手の控え室のカードを1枚まで選び、山札の上に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S124-053EX",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_053ex.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "MAR",
+	"setName": "ブースターパック / MARVEL Vol.3 [MARVEL STUDIOS]",
+	"side": "S",
+	"release": "124",
+	"id": "021",
+	"name": "",
+	"jpName": "型破りな新チーム サンダーボルツ*",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "5500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは、色条件を満たさずに手札からプレイできる。",
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、このカードのパワーを＋8000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻し、コストを払ってよい。コストを払ったなら、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"MARVEL"
+	],
+	"version": "3",
+	"cardcode": "MAR/S124-021",
+	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_021.png",
+	"tags": null
+}
