@@ -1,0 +1,34 @@
+{
+	"set": "ISC",
+	"setName": "プレミアムブースター アイドルマスター シャイニーカラーズ",
+	"side": "S",
+	"release": "E53",
+	"id": "12WIR",
+	"name": "",
+	"jpName": "たまゆらフレーミング 八宮めぐる",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "WIR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】 経験 ［(3) 手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「春待ちララバイ」があり、あなたのレベル置場に、黄のカードと赤のカードと青のカードがあるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3000し、あなたの《イルミネーションスターズ》のキャラ2枚につき、次の行動を行う。『相手に2ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"イルミネーションスターズ"
+	],
+	"version": "3",
+	"cardcode": "ISC/SE53-12WIR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_se53/isc_se53_12wir.png",
+	"tags": null
+}

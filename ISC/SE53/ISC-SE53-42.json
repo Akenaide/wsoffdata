@@ -1,0 +1,35 @@
+{
+	"set": "ISC",
+	"setName": "プレミアムブースター アイドルマスター シャイニーカラーズ",
+	"side": "S",
+	"release": "E53",
+	"id": "42",
+	"name": "",
+	"jpName": "渦と淵 白瀬咲耶",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 あなたの後列の【レスト】している【起】を持つキャラが2枚以上なら、このカードの前のあなたのキャラすべてに、パワーを＋1500。",
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、あなたのCXフェイズの始めに、あなたは自分のキャラを1枚とこのカードを選び、入れ替えてよい。そうしたら、このカードを【レスト】してよい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"アンティーカ"
+	],
+	"version": "3",
+	"cardcode": "ISC/SE53-42",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_se53/isc_se53_42.png",
+	"tags": null
+}
