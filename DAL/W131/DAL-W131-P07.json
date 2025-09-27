@@ -1,0 +1,35 @@
+{
+	"set": "DAL",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "131",
+	"id": "P07",
+	"name": "",
+	"jpName": "チョコ作り 四糸乃＆十香＆琴里＆狂三",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは、色条件を満たさずに手札からプレイできる。",
+		"【永】 応援 このカードの前のあなたの、《デート》か《精霊》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "DAL/W131-P07",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_p07.png",
+	"tags": null
+}
