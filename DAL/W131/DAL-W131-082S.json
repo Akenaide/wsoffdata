@@ -1,0 +1,35 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.3",
+	"side": "W",
+	"release": "131",
+	"id": "082S",
+	"name": "",
+	"jpName": "星海に願う 二亜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【自】 あなたのトリガーアイコンが[DRAW]のCXがCX置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2500。",
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンが[DRAW]のCXの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "DAL/W131-082S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_082s.png",
+	"tags": null
+}

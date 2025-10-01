@@ -1,0 +1,35 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.3",
+	"side": "W",
+	"release": "131",
+	"id": "049S",
+	"name": "",
+	"jpName": "自慢の長い髪 六喰",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《デート》か《精霊》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがCX置場に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
+		"【起】 集中 ［他のあなたの舞台のキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[COMEBACK]のCX1枚につき、次の行動を行う。『あなたは相手のキャラを2枚選び、それぞれを【スタンド】して入れ替えてよい。』"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "DAL/W131-049S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_049s.png",
+	"tags": null
+}

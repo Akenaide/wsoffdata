@@ -1,0 +1,35 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.3",
+	"side": "W",
+	"release": "131",
+	"id": "081",
+	"name": "",
+	"jpName": "終わりの始まり 澪",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《デート》か《精霊》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［手札を1枚控え室に置く］ あなたのトリガーアイコンが[GATE]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。",
+		"【起】［(1) 他のあなたの舞台の《精霊》のキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "DAL/W131-081",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_081.png",
+	"tags": null
+}

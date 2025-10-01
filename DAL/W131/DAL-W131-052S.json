@@ -1,0 +1,35 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.3",
+	"side": "W",
+	"release": "131",
+	"id": "052S",
+	"name": "",
+	"jpName": "星海に舞う 狂三",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下か6枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの、《デート》か《精霊》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《デート》か《精霊》のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "DAL/W131-052S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_052s.png",
+	"tags": null
+}

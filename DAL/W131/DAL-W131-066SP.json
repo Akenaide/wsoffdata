@@ -1,0 +1,34 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.3",
+	"side": "W",
+	"release": "131",
+	"id": "066SP",
+	"name": "",
+	"jpName": "溢れる愛情 十香",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、《デート》か《精霊》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】［他のあなたの舞台の、《デート》か《精霊》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3000し、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは2枚まで引く。』『あなたは自分のクロックの上から1枚を、ストック置場に置く。』"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "DAL/W131-066SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_066sp.png",
+	"tags": null
+}

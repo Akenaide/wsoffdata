@@ -1,0 +1,35 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.3",
+	"side": "W",
+	"release": "131",
+	"id": "075",
+	"name": "",
+	"jpName": "読書の秋 二亜",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】【CXコンボ】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「受け入れた力」を1枚選び、手札に戻すかストック置場に置いてよい。",
+		"【自】【CXコンボ】 あなたのCX置場に「受け入れた力」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分の控え室の、《デート》か《精霊》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "DAL/W131-075",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_075.png",
+	"tags": null
+}

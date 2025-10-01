@@ -1,0 +1,32 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.3",
+	"side": "W",
+	"release": "131",
+	"id": "018SP",
+	"name": "",
+	"jpName": "力になりたい 七罪",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「原稿に込める想い」があるなら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分の控え室の、《デート》か《精霊》のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "DAL/W131-018SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_018sp.png",
+	"tags": null
+}

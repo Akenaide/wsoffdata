@@ -1,0 +1,34 @@
+{
+	"set": "DAL",
+	"setName": "デート・ア・ライブ Vol.3",
+	"side": "W",
+	"release": "131",
+	"id": "019S",
+	"name": "",
+	"jpName": "純白の契り 折紙",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《デート》か《精霊》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「渾身のチョコレート作り」があり、他のあなたの、《デート》か《精霊》のキャラが4枚以上なら、あなたは相手の山札を上から2枚まで見て、カードを1枚まで選び、山札の下に置き、残りのカードを山札の上に好きな順番で置き、自分の控え室の、《デート》か《精霊》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"デート",
+		"精霊"
+	],
+	"version": "3",
+	"cardcode": "DAL/W131-019S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_019s.png",
+	"tags": null
+}
