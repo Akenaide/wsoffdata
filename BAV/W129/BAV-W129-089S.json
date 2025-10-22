@@ -1,0 +1,35 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ The Animation",
+	"side": "W",
+	"release": "129",
+	"id": "089S",
+	"name": "",
+	"jpName": "就寝前のひととき ノノミ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたのストックが相手のストックより少ないなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の「対策委員会 ノノミ」を1枚選び、そのターン中、パワーを＋3000。"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"対策委員会"
+	],
+	"version": "3",
+	"cardcode": "BAV/W129-089S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_089s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ The Animation",
+	"side": "W",
+	"release": "129",
+	"id": "006S",
+	"name": "",
+	"jpName": "帰るべき場所 ホシノ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、「帰り道 アヤネ」と「アビドス高等学校2年生 ノノミ」がいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《キヴォトス》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 あなたのターン中、このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《キヴォトス》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"対策委員会"
+	],
+	"version": "3",
+	"cardcode": "BAV/W129-006S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_006s.png",
+	"tags": null
+}

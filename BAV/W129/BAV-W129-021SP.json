@@ -1,0 +1,35 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ The Animation",
+	"side": "W",
+	"release": "129",
+	"id": "021SP",
+	"name": "",
+	"jpName": "風紀委員会 イオリ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "5000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
+		"【自】【CXコンボ】 あなたのCX置場に「ゲヘナ学園最大戦力」が置かれた時、後列にこのカードがいて、他のあなたの《キヴォトス》のキャラが2枚以上なら、相手に1ダメージを与え、あなたは相手の山札を上から1枚見て、山札の上か控え室に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"風紀委員会"
+	],
+	"version": "3",
+	"cardcode": "BAV/W129-021SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_021sp.png",
+	"tags": null
+}

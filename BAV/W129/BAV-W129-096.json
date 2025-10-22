@@ -1,0 +1,34 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ The Animation",
+	"side": "W",
+	"release": "129",
+	"id": "096",
+	"name": "",
+	"jpName": "就寝前のひととき セリカ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《キヴォトス》のキャラの枚数×1500に等しい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"対策委員会"
+	],
+	"version": "3",
+	"cardcode": "BAV/W129-096",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_096.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ The Animation",
+	"side": "W",
+	"release": "129",
+	"id": "015",
+	"name": "",
+	"jpName": "就寝前のひととき アヤネ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《キヴォトス》のキャラが3枚以上なら、あなたのCXフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"対策委員会"
+	],
+	"version": "3",
+	"cardcode": "BAV/W129-015",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_015.png",
+	"tags": null
+}

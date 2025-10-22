@@ -1,0 +1,35 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ The Animation",
+	"side": "W",
+	"release": "129",
+	"id": "078",
+	"name": "",
+	"jpName": "青春の一幕 アヤネ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "3000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《キヴォトス》のキャラすべてに、パワーを＋1500。",
+		"【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードが、手札かレベル置場から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のCXを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+		"【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"対策委員会"
+	],
+	"version": "3",
+	"cardcode": "BAV/W129-078",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_078.png",
+	"tags": null
+}

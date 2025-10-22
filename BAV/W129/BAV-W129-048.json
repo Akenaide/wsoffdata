@@ -1,0 +1,35 @@
+{
+	"set": "BAV",
+	"setName": "ブルーアーカイブ The Animation",
+	"side": "W",
+	"release": "129",
+	"id": "048",
+	"name": "",
+	"jpName": "ゲヘナ学園 アル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《キヴォトス》なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の《便利屋68》のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の《便利屋68》のキャラを1枚選び、山札の下に置いてよい。",
+		"【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"キヴォトス",
+		"便利屋68"
+	],
+	"version": "3",
+	"cardcode": "BAV/W129-048",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_048.png",
+	"tags": null
+}
