@@ -1,0 +1,35 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします Vol.2",
+	"side": "W",
+	"release": "132",
+	"id": "066",
+	"name": "",
+	"jpName": "ヒミツ恋ゴコロ 墨",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《かのかり》のキャラ1枚につき、このカードのパワーを＋500。",
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
+		"【起】［このカードをストック置場に置く］ あなたは自分の控え室の《かのかり》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"ダイアモンド"
+	],
+	"version": "3",
+	"cardcode": "KNK/W132-066",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_066.png",
+	"tags": null
+}

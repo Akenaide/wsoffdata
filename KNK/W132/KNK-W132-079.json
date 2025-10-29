@@ -1,0 +1,35 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします Vol.2",
+	"side": "W",
+	"release": "132",
+	"id": "079",
+	"name": "",
+	"jpName": "『彼女』になりたい 瑠夏",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《かのかり》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「キスの味」があり、他のあなたの《かのかり》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《かのかり》のキャラか「カレーの材料」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"リボン"
+	],
+	"version": "3",
+	"cardcode": "KNK/W132-079",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_079.png",
+	"tags": null
+}

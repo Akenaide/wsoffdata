@@ -1,0 +1,35 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします Vol.2",
+	"side": "W",
+	"release": "132",
+	"id": "053S",
+	"name": "",
+	"jpName": "妄想の中 千鶴",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《かのかり》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《かのかり》のキャラすべてに、パワーを＋1000。",
+		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがCX置場に置かれた時、他のあなたの《かのかり》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"ダイアモンド"
+	],
+	"version": "3",
+	"cardcode": "KNK/W132-053S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_053s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします Vol.2",
+	"side": "W",
+	"release": "132",
+	"id": "073",
+	"name": "",
+	"jpName": "素敵な回り道 瑠夏",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［(1)］ 控え室にこのカードがあり、あなたのレベルが3以上なら、あなたのCXフェイズ中、CX置場に「『恋人』としては普通のこと」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に置く。",
+		"【自】 このカードがアタックした時、あなたは相手の控え室のカードを1枚まで選び、山札の上か下に置く。",
+		"【自】［(2) 手札の《かのかり》のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、控え室に置き、相手にＸダメージを与える。Ｘはそのカードのコスト＋1に等しい。（CXのコストは0として扱う。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"リボン"
+	],
+	"version": "3",
+	"cardcode": "KNK/W132-073",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_073.png",
+	"tags": null
+}

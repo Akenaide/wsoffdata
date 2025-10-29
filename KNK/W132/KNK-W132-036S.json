@@ -1,0 +1,34 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします Vol.2",
+	"side": "W",
+	"release": "132",
+	"id": "036S",
+	"name": "",
+	"jpName": "誕生日の二人 墨",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "7000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【ターン1】 あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《かのかり》のキャラの枚数×500に等しい。",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"ダイアモンド"
+	],
+	"version": "3",
+	"cardcode": "KNK/W132-036S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_036s.png",
+	"tags": null
+}

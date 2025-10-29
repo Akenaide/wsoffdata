@@ -1,0 +1,34 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします Vol.2",
+	"side": "W",
+	"release": "132",
+	"id": "018S",
+	"name": "",
+	"jpName": "あなたの力に 墨",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「前向きは笑顔から」があり、他のあなたの《かのかり》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードのパワーを＋2000し、このカードは次の2つの能力を得る。『【永】 このカードは相手の効果に選ばれない。』『【自】 このカードの正面のキャラがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。』",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の《かのかり》のキャラを1枚まで選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"ダイアモンド"
+	],
+	"version": "3",
+	"cardcode": "KNK/W132-018S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_018s.png",
+	"tags": null
+}

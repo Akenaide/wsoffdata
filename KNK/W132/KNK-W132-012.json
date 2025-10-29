@@ -1,0 +1,33 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします Vol.2",
+	"side": "W",
+	"release": "132",
+	"id": "012",
+	"name": "",
+	"jpName": "二人きりで話 麻美",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［(1)］ 相手のキャラが、舞台から手札に戻った時、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"かのかり"
+	],
+	"version": "3",
+	"cardcode": "KNK/W132-012",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_012.png",
+	"tags": null
+}

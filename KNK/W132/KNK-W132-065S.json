@@ -1,0 +1,34 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします Vol.2",
+	"side": "W",
+	"release": "132",
+	"id": "065S",
+	"name": "",
+	"jpName": "介抱 ちづる",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）",
+		"【起】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ あなたは自分の手札の「夏の装い 千鶴」を1枚まで選び、このカードがいた枠に置き、アンコールステップの始めに、そのキャラを手札に戻し、自分の思い出置場の「介抱 ちづる」を1枚選び、そのキャラがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"ダイアモンド"
+	],
+	"version": "3",
+	"cardcode": "KNK/W132-065S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_065s.png",
+	"tags": null
+}

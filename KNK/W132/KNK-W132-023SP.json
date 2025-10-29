@@ -1,0 +1,34 @@
+{
+	"set": "KNK",
+	"setName": "彼女、お借りします Vol.2",
+	"side": "W",
+	"release": "132",
+	"id": "023SP",
+	"name": "",
+	"jpName": "恋の目撃者 みに",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの[SOUL]の合計に等しい。（ダメージキャンセルは発生する）",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「感情に任せて」があるなら、あなたは自分のクロックの下から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"コスプレ"
+	],
+	"version": "3",
+	"cardcode": "KNK/W132-023SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_023sp.png",
+	"tags": null
+}
