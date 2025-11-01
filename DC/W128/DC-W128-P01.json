@@ -1,0 +1,35 @@
+{
+	"set": "DC",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "128",
+	"id": "P01",
+	"name": "",
+	"jpName": "Re:tune 音夢",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"風紀委員"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-P01",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_p01.png",
+	"tags": null
+}

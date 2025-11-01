@@ -1,0 +1,34 @@
+{
+	"set": "KNK",
+	"setName": "PRカード【Wサイド】",
+	"side": "W",
+	"release": "132",
+	"id": "P03",
+	"name": "",
+	"jpName": "皆の“彼女” 千鶴",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か「“君がいい” 千鶴」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「互いの気持ち」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋1000し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"かのかり",
+		"ダイアモンド"
+	],
+	"version": "3",
+	"cardcode": "KNK/W132-P03",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_p03.png",
+	"tags": null
+}
