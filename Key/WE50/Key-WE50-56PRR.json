@@ -1,0 +1,35 @@
+{
+	"set": "Key",
+	"setName": "プレミアムブースター Key 25th Anniversary",
+	"side": "W",
+	"release": "E50",
+	"id": "56PRR",
+	"name": "",
+	"jpName": "人間になりたい少女型アンドロイド フィリア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "PRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の、《Anniversary》か《アンドロイド》のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《Anniversary》か《アンドロイド》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"アンドロイド"
+	],
+	"version": "3",
+	"cardcode": "Key/WE50-56PRR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/key_we50_56prr.png",
+	"tags": null
+}

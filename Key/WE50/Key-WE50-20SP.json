@@ -1,0 +1,34 @@
+{
+	"set": "Key",
+	"setName": "プレミアムブースター Key 25th Anniversary",
+	"side": "W",
+	"release": "E50",
+	"id": "20SP",
+	"name": "",
+	"jpName": "ミステリアスな少女 ミア",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、相手のCX置場にCXがあるなら、あなたは自分のバトル中の、《Anniversary》か《ルーパーズ》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"ルーパーズ"
+	],
+	"version": "3",
+	"cardcode": "Key/WE50-20SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/key_we50_20sp.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "Ksm",
+	"setName": "プレミアムブースター Key 25th Anniversary",
+	"side": "W",
+	"release": "E50",
+	"id": "57",
+	"name": "",
+	"jpName": "海の家の看板娘 紬＆静久",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「絶景ビーチ」があり、他のあなたの、《Anniversary》か《サマポケ》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"サマポケ",
+		"ヌイグルミ"
+	],
+	"version": "3",
+	"cardcode": "Ksm/WE50-57",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/ksm_we50_57.png",
+	"tags": null
+}

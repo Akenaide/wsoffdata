@@ -1,0 +1,35 @@
+{
+	"set": "Kab",
+	"setName": "プレミアムブースター Key 25th Anniversary",
+	"side": "W",
+	"release": "E50",
+	"id": "14SSP",
+	"name": "",
+	"jpName": "一番の宝物 ユイ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「女の最高の幸せ」があり、他のあなたの《音楽》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは自分の山札の上から1枚を、控え室に置き、相手にＸダメージを与える。Ｘはこの効果であなたの控え室に置かれたカードのレベル＋1に等しい。（CXのレベルは0として扱う。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"死",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "Kab/WE50-14SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/kab_we50_14ssp.png",
+	"tags": null
+}
