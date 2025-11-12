@@ -1,0 +1,34 @@
+{
+	"set": "KMS",
+	"setName": "きんいろモザイク 15th Anniversary",
+	"side": "W",
+	"release": "133",
+	"id": "049",
+	"name": "",
+	"jpName": "スランプ脱却 勇",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《きんいろ》のキャラが2枚以上なら、このカードのパワーを＋5000。",
+		"【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「カリスマファッションモデル」があり、前列にこのカードがいて、他のあなたの《きんいろ》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"きんいろ",
+		"モデル"
+	],
+	"version": "3",
+	"cardcode": "KMS/W133-049",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_049.png",
+	"tags": null
+}

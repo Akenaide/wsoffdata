@@ -1,0 +1,35 @@
+{
+	"set": "KMS",
+	"setName": "きんいろモザイク 15th Anniversary",
+	"side": "W",
+	"release": "133",
+	"id": "067S",
+	"name": "",
+	"jpName": "大食いチャレンジ 陽子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【起】［(5) 手札を4枚控え室に置き、他のあなたの舞台の【スタンド】している《きんいろ》のキャラを1枚控え室に置く］ 相手は自分の山札の上から9枚を、控え室に置き、自分の山札の上からＸ枚を、クロック置場に置く。ＸはそれらのカードのCXの枚数に等しい。",
+		""
+	],
+	"specialAttrib": [
+		"きんいろ",
+		"大食い"
+	],
+	"version": "3",
+	"cardcode": "KMS/W133-067S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_067s.png",
+	"tags": null
+}

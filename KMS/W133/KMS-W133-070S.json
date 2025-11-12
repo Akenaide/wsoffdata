@@ -1,0 +1,35 @@
+{
+	"set": "KMS",
+	"setName": "きんいろモザイク 15th Anniversary",
+	"side": "W",
+	"release": "133",
+	"id": "070S",
+	"name": "",
+	"jpName": "意外な特技 穂乃花",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 記憶 思い出置場にこのカードがあるなら、あなたのCX置場に「夏といえば」が置かれた時、あなたは相手の山札を上から1枚見て、山札の上か控え室に置く。",
+		"【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の「夏の装い カレン」を1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"きんいろ",
+		"テニス部"
+	],
+	"version": "3",
+	"cardcode": "KMS/W133-070S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_070s.png",
+	"tags": null
+}

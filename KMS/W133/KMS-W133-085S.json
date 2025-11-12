@@ -1,0 +1,35 @@
+{
+	"set": "KMS",
+	"setName": "きんいろモザイク 15th Anniversary",
+	"side": "W",
+	"release": "133",
+	"id": "085S",
+	"name": "",
+	"jpName": "夏の装い 綾",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの山札が5枚以下かあなたの控え室のカードが5枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《きんいろ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"きんいろ",
+		"ツンデレ"
+	],
+	"version": "3",
+	"cardcode": "KMS/W133-085S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_085s.png",
+	"tags": null
+}

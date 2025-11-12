@@ -1,0 +1,33 @@
+{
+	"set": "KMS",
+	"setName": "きんいろモザイク 15th Anniversary",
+	"side": "W",
+	"release": "133",
+	"id": "038",
+	"name": "",
+	"jpName": "大好きな2人 忍＆アリス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルする。",
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。"
+	],
+	"specialAttrib": [
+		"きんいろ"
+	],
+	"version": "3",
+	"cardcode": "KMS/W133-038",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_038.png",
+	"tags": null
+}

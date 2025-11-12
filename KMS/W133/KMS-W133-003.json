@@ -1,0 +1,35 @@
+{
+	"set": "KMS",
+	"setName": "きんいろモザイク 15th Anniversary",
+	"side": "W",
+	"release": "133",
+	"id": "003",
+	"name": "",
+	"jpName": "のびやかな女の子 カレン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《きんいろ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《きんいろ》のキャラがいるなら、このカードのパワーを＋1500。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《きんいろ》のキャラが2枚以上なら、あなたは自分のクロック置場のキャラを1枚選び、思い出にしてよい。"
+	],
+	"specialAttrib": [
+		"きんいろ",
+		"金髪"
+	],
+	"version": "3",
+	"cardcode": "KMS/W133-003",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_003.png",
+	"tags": null
+}

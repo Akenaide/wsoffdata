@@ -1,0 +1,34 @@
+{
+	"set": "KMS",
+	"setName": "きんいろモザイク 15th Anniversary",
+	"side": "W",
+	"release": "133",
+	"id": "040S",
+	"name": "",
+	"jpName": "外国への憧れ 忍",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置き、自分の控え室の「典型的な女子高生 忍」を1枚まで選び、思い出にする。",
+		"【自】【CXコンボ】 記憶 ［手札の緑のカードを1枚控え室に置く］ このカードのアタックの終わりに、CX置場に「ゴミはゴミ箱へ！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、相手にＸダメージを与え、このカードが【レスト】しているなら、あなたは自分の思い出置場の「典型的な女子高生 忍」を1枚までとこのカードを選び、【レスト】して入れ替える。Ｘは公開されたカードのレベル＋1に等しい。（CXのレベルは0として扱う。ダメージキャンセルは発生する。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"きんいろ",
+		"純和風"
+	],
+	"version": "3",
+	"cardcode": "KMS/W133-040S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_040s.png",
+	"tags": null
+}

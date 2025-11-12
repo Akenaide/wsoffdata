@@ -1,0 +1,35 @@
+{
+	"set": "KMS",
+	"setName": "きんいろモザイク 15th Anniversary",
+	"side": "W",
+	"release": "133",
+	"id": "039",
+	"name": "",
+	"jpName": "典型的な女子高生 忍",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 相手のターン中、あなたの思い出置場の「外国への憧れ 忍」が2枚以上なら、このカードのパワーを＋3000。",
+		"【自】 このカードが手札か思い出置場から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【起】［このカードを【レスト】する］ あなたは自分の、控え室か思い出置場の、「外国への憧れ 忍」を1枚とこのカードを選び、入れ替える。"
+	],
+	"specialAttrib": [
+		"きんいろ",
+		"純和風"
+	],
+	"version": "3",
+	"cardcode": "KMS/W133-039",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_039.png",
+	"tags": null
+}

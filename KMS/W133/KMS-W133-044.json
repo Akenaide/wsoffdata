@@ -1,0 +1,35 @@
+{
+	"set": "KMS",
+	"setName": "きんいろモザイク 15th Anniversary",
+	"side": "W",
+	"release": "133",
+	"id": "044",
+	"name": "",
+	"jpName": "見た目年齢 忍",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のトリガーアイコンが[TREASURE]のCXが3枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《きんいろ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場の《きんいろ》のキャラが3枚以上なら、あなたは2枚まで引き、自分の手札を1枚選び、ストック置場に置く。"
+	],
+	"specialAttrib": [
+		"きんいろ",
+		"純和風"
+	],
+	"version": "3",
+	"cardcode": "KMS/W133-044",
+	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_044.png",
+	"tags": null
+}
