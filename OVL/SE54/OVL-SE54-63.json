@@ -1,0 +1,32 @@
+{
+	"set": "OVL",
+	"setName": "プレミアムブースター 原作 オーバーロード",
+	"side": "S",
+	"release": "E54",
+	"id": "63",
+	"name": "",
+	"jpName": "魔導王の玉座",
+	"cardType": "CX",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "0",
+	"soul": "0",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL",
+		"STANDBY"
+	],
+	"ability": [
+		"【自】 このカードが手札からCX置場に置かれた時、[STANDBY]の効果を行う。",
+		"（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+	],
+	"specialAttrib": [],
+	"version": "3",
+	"cardcode": "OVL/SE54-63",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_63.png",
+	"tags": null
+}

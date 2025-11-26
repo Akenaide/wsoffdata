@@ -1,0 +1,34 @@
+{
+	"set": "OVL",
+	"setName": "プレミアムブースター 原作 オーバーロード",
+	"side": "S",
+	"release": "E54",
+	"id": "10SP",
+	"name": "",
+	"jpName": "深紅の吸血鬼 シャルティア",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「PVN」があり、あなたの手札が6枚以下なら、あなたは自分の山札を上から3枚まで見て、《異形種》か《ナザリック》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードは次の能力を得る。『【自】【ターン1】 このカードの与えたダメージがキャンセルされた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE54-10SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_10sp.png",
+	"tags": null
+}

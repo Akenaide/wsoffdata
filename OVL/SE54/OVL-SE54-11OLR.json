@@ -1,0 +1,34 @@
+{
+	"set": "OVL",
+	"setName": "プレミアムブースター 原作 オーバーロード",
+	"side": "S",
+	"release": "E54",
+	"id": "11OLR",
+	"name": "",
+	"jpName": "“〈次元の移動〉”ナーベラル",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "OLR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《異形種》か《ナザリック》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE54-11OLR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_11olr.png",
+	"tags": null
+}

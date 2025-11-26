@@ -1,0 +1,34 @@
+{
+	"set": "OVL",
+	"setName": "プレミアムブースター 原作 オーバーロード",
+	"side": "S",
+	"release": "E54",
+	"id": "12OLR",
+	"name": "",
+	"jpName": "“戦闘メイド”ソリュシャン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "3500",
+	"soul": "2",
+	"rarity": "OLR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《異形種》か《ナザリック》のキャラ1枚につき、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《異形種》か《ナザリック》のキャラが4枚以上なら、あなたは自分の控え室の、《異形種》か《ナザリック》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE54-12OLR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_12olr.png",
+	"tags": null
+}

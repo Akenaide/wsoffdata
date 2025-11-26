@@ -1,0 +1,34 @@
+{
+	"set": "OVL",
+	"setName": "プレミアムブースター 原作 オーバーロード",
+	"side": "S",
+	"release": "E54",
+	"id": "09",
+	"name": "",
+	"jpName": "謀略の統治者 アインズ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 他のあなたの、黄か《異形種》か《ナザリック》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。",
+		"【自】［あなたのCX置場のトリガーアイコンが[CHOICE]のCXを1枚控え室に置く］ このカードのアタックの終わりに、あなたの手札が6枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、黄か《異形種》か《ナザリック》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE54-09",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_09.png",
+	"tags": null
+}

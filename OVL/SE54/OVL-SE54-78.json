@@ -1,0 +1,35 @@
+{
+	"set": "OVL",
+	"setName": "プレミアムブースター 原作 オーバーロード",
+	"side": "S",
+	"release": "E54",
+	"id": "78",
+	"name": "",
+	"jpName": "極大級魔法詠唱者 イビルアイ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋4000し、このカードは次の能力を得る。『【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、あなたは自分の控え室のキャラを1枚選び、ストック置場の下に置いてよい。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】［(3) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「集結“蒼の薔薇”」があるなら、相手に1ダメージを与え、あなたはコストを払ってよい。コストを払ったなら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"異形種",
+		"蒼の薔薇"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE54-78",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_78.png",
+	"tags": null
+}

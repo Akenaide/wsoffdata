@@ -1,0 +1,35 @@
+{
+	"set": "OVL",
+	"setName": "プレミアムブースター 原作 オーバーロード",
+	"side": "S",
+	"release": "E54",
+	"id": "32OLR",
+	"name": "",
+	"jpName": "大切な指輪 アルベド",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "OLR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを控え室に置く］ あなたは相手の後列のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
+		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE54-32OLR",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_32olr.png",
+	"tags": null
+}

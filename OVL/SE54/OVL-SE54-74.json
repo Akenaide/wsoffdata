@@ -1,0 +1,34 @@
+{
+	"set": "OVL",
+	"setName": "プレミアムブースター 原作 オーバーロード",
+	"side": "S",
+	"release": "E54",
+	"id": "74",
+	"name": "",
+	"jpName": "慈愛の姫君 ラナー",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札の、青か《漆黒》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは山札か控え室を宣言し、宣言した自分の領域を見て「忠犬 クライム」を1枚まで選び、舞台の好きな枠に置く。山札を宣言したなら、その山札をシャッフルする。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを山札の下に置いてよい。"
+	],
+	"specialAttrib": [
+		"人間種",
+		"王族"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE54-74",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_74.png",
+	"tags": null
+}

@@ -1,0 +1,32 @@
+{
+	"set": "OVL",
+	"setName": "プレミアムブースター 原作 オーバーロード",
+	"side": "S",
+	"release": "E54",
+	"id": "23SP",
+	"name": "",
+	"jpName": "死者の大魔法使い アインズ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードはサイドアタックできない。あなたのキャラすべてが緑か《異形種》か《ナザリック》なら、このカードのパワーを＋2000。",
+		"【自】 このカードが【リバース】した時、あなたのキャラすべてが緑か《異形種》か《ナザリック》なら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以下のキャラなら、あなたはこのカードをストック置場の下に置いてよい。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"異形種",
+		"ナザリック"
+	],
+	"version": "3",
+	"cardcode": "OVL/SE54-23SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_23sp.png",
+	"tags": null
+}
