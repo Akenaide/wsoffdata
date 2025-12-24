@@ -1,0 +1,35 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.3",
+	"side": "S",
+	"release": "125",
+	"id": "043S",
+	"name": "",
+	"jpName": "大事な準備 日野森志歩",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは相手の効果に選ばれず、このカードの下の表向きのマーカーすべての色を得る。",
+		"【永】 応援 このカードの前のあなたの《Leo/need》のキャラすべてに、パワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《Leo/need》のキャラを2枚まで選び、このカードの下にマーカーとして好きな順番で表向きに置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Leo/need"
+	],
+	"version": "3",
+	"cardcode": "PJS/S125-043S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_043s.png",
+	"tags": null
+}

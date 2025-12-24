@@ -1,0 +1,35 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.3",
+	"side": "S",
+	"release": "125",
+	"id": "094S",
+	"name": "",
+	"jpName": "描きたくなった表情 東雲絵名",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の《音楽》のキャラを1枚控え室に置く］』を得る。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"25時、ナイトコードで。"
+	],
+	"version": "3",
+	"cardcode": "PJS/S125-094S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_094s.png",
+	"tags": null
+}

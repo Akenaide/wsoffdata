@@ -1,0 +1,35 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.3",
+	"side": "S",
+	"release": "125",
+	"id": "032S",
+	"name": "",
+	"jpName": "全力のステージ 日野森志歩",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋1000。",
+		"【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは1枚引いてよい。』『相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストック置場に置く。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Leo/need"
+	],
+	"version": "3",
+	"cardcode": "PJS/S125-032S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_032s.png",
+	"tags": null
+}

@@ -1,0 +1,33 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.3",
+	"side": "S",
+	"release": "125",
+	"id": "096",
+	"name": "",
+	"jpName": "待望のメッセージ 星乃一歌",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードは相手の効果に選ばれず、このカードの下の表向きのマーカーすべての色を得る。他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
+		"【永】【CXコンボ】 このカードの下にマーカーがあるなら、あなたのCX置場の『【リンク】 Leo/need』を持つCXのカード名は、あなたの控え室の『【リンク】 Leo/need』を持つCXと同じカード名としても扱う。",
+		"【起】［(1) 手札を1枚控え室に置く］ このカードの下のマーカーすべてを、控え室に置き、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして表向きに置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Leo/need"
+	],
+	"version": "3",
+	"cardcode": "PJS/S125-096",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_096.png",
+	"tags": null
+}

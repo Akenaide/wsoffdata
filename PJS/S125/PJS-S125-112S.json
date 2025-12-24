@@ -1,0 +1,36 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.3",
+	"side": "S",
+	"release": "125",
+	"id": "112S",
+	"name": "",
+	"jpName": "それぞれの関わりかた 鏡音レン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分か相手の、山札の上からＸ枚を、控え室に置く。Ｘはあなたの控え室のトリガーアイコンが[GATE]のCXの枚数に等しい。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"バーチャル",
+		"シンガー",
+		"25時、ナイトコードで。"
+	],
+	"version": "3",
+	"cardcode": "PJS/S125-112S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_112s.png",
+	"tags": null
+}

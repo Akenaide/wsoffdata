@@ -1,0 +1,34 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.3",
+	"side": "S",
+	"release": "125",
+	"id": "005SP",
+	"name": "",
+	"jpName": "すべて受け止める覚悟を 天馬咲希",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋4000。",
+		"【自】【CXコンボ】［手札の《音楽》のキャラを1枚控え室に置く］ あなたのCX置場に「ムキムキになっちゃった！？」が置かれた時、前列にこのカードがいて、あなたの舞台の《音楽》のキャラの持つ色の合計が4色以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Leo/need"
+	],
+	"version": "3",
+	"cardcode": "PJS/S125-005SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_005sp.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.3",
+	"side": "S",
+	"release": "125",
+	"id": "089",
+	"name": "",
+	"jpName": "本当の想いを 朝比奈まふゆ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か「震える背に優しさを 宵崎奏」の【起】の効果で舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。",
+		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「何かが違う食卓」があり、他のあなたの《音楽》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から3枚まで見て、トリガーアイコンに[SOUL]があるカードを3枚まで選び、クロック置場に好きな順番で置き、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"25時、ナイトコードで。"
+	],
+	"version": "3",
+	"cardcode": "PJS/S125-089",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_089.png",
+	"tags": null
+}

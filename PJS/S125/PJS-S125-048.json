@@ -1,0 +1,32 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.3",
+	"side": "S",
+	"release": "125",
+	"id": "048",
+	"name": "",
+	"jpName": "テクニカルエキスパート 日野森志歩",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《音楽》のキャラの枚数×2000に等しい。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「今日は特別だから」があり、他のあなたの《音楽》のキャラが3枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Leo/need"
+	],
+	"version": "3",
+	"cardcode": "PJS/S125-048",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_048.png",
+	"tags": null
+}

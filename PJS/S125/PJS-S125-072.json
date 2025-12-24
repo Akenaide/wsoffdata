@@ -1,0 +1,34 @@
+{
+	"set": "PJS",
+	"setName": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク Vol.3",
+	"side": "S",
+	"release": "125",
+	"id": "072",
+	"name": "",
+	"jpName": "この想いさえ乗り越えて 望月穂波",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《音楽》のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】【CXコンボ】［(1)］ 控え室にこのカードがあり、あなたのレベルが2以上なら、あなたのCXフェイズ中、CX置場に「応援してくれるみんなと」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"Leo/need"
+	],
+	"version": "3",
+	"cardcode": "PJS/S125-072",
+	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_072.png",
+	"tags": null
+}
