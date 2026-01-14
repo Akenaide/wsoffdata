@@ -1,0 +1,35 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "068S",
+	"name": "",
+	"jpName": "野生の魂 カイウス・クオールズ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下か6枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《冒険》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、1枚引く。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"ザ テンペスト"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-068S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_068s.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "TAL",
+	"setName": "[TD]『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "T09SP",
+	"name": "",
+	"jpName": "公爵子息 ルーク・フォン・ファブレ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《冒険》のキャラの枚数×1000に等しい。",
+		"【自】【ターン1】［(3) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードのアタックの終わりに、他のあなたの《冒険》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"ジ アビス"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-T09SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_t09sp.png",
+	"tags": null
+}

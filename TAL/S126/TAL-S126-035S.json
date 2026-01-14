@@ -1,0 +1,35 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "035S",
+	"name": "",
+	"jpName": "エミルへの想い マルタ・ルアルディ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、「ラタトスクの騎士 エミル・キャスタニエ」と「ラタトスクモード エミル・キャスタニエ」すべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。』",
+		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1500。",
+		"【起】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"ラタトスクの騎士"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-035S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_035s.png",
+	"tags": null
+}

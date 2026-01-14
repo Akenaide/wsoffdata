@@ -1,0 +1,34 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "061S",
+	"name": "",
+	"jpName": "ローレライの剣士 ルーク・フォン・ファブレ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か「心の成長 ルーク・フォン・ファブレ」の【起】の効果で舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+		"【自】【CXコンボ】 経験 ［(2) 手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「存在を賭けた、誓いと約束」があり、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを2枚まで選び、山札の上に好きな順番で置き、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"冒険",
+		"ジ アビス"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-061S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_061s.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "109S",
+	"name": "",
+	"jpName": "真実を求める姫君 エステル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《冒険》のキャラすべてに、パワーを＋2000。",
+		"【自】［このカードを【レスト】する］ 他のあなたの《冒険》のキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のストックをシャッフルし、自分のストックの下から1枚を、控え室に置き、そのキャラを【レスト】する。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"ヴェスペリア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-109S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_109s.png",
+	"tags": null
+}

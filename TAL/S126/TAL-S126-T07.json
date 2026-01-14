@@ -1,0 +1,34 @@
+{
+	"set": "TAL",
+	"setName": "[TD]『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "T07",
+	"name": "",
+	"jpName": "秘めた意志 コレット・ブルーネル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】 あなたのCXがトリガーした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分の《冒険》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"シンフォニア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-T07",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_t07.png",
+	"tags": null
+}

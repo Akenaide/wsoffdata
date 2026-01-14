@@ -1,0 +1,35 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "087S",
+	"name": "",
+	"jpName": "ラシュアン村の農家の娘 ファラ・エルステッド",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、「ミンツ大学の学士 キール・ツァイベル」と「ラシュアン村の猟師 リッド・ハーシェル」がいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 あなたのCX置場に「変われる強さ 変わらぬ想い」が置かれた時、前列にこのカードがいて、他のあなたの、「ミンツ大学の学士 キール・ツァイベル」と「ラシュアン村の猟師 リッド・ハーシェル」がいるなら、あなたは自分の控え室のキャラを2枚まで選び、1枚選び、手札に戻し、残りのカードをストック置場に置く。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"エターニア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-087S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_087s.png",
+	"tags": null
+}

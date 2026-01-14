@@ -1,0 +1,33 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "008S",
+	"name": "",
+	"jpName": "騎士 クロエ・ヴァレンス",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストック置場に置く。』『あなたは相手の山札の下から3枚を、控え室に置く。それらのカードにCXがあるなら、相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"冒険",
+		"レジェンディア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-008S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_008s.png",
+	"tags": null
+}

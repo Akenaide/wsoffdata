@@ -1,0 +1,35 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "031S",
+	"name": "",
+	"jpName": "時空剣士 クレス・アルベイン",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「時空剣士 クレス・アルベイン」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札か思い出置場から舞台に置かれたターン中、このカードのアタックの終わりに、相手に1ダメージを与え、あなたは自分の控え室の《冒険》のキャラを1枚まで選び、ストック置場に置き、このカードを思い出にする。（ダメージキャンセルは発生する）",
+		"【自】【CXコンボ】 記憶 思い出置場にこのカードがあり、あなたのレベルが3以上なら、あなたのCX置場に「伝説のRPG」が置かれた時、あなたはこのカードを舞台のキャラのいない枠に置いてよい。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"ファンタジア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-031S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_031s.png",
+	"tags": null
+}

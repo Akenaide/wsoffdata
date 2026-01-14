@@ -1,0 +1,32 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "063",
+	"name": "",
+	"jpName": "神速の斬撃 ガイ・セシル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場の《冒険》のキャラと控え室の《冒険》のキャラを1枚ずつ選び、入れ替えてよい。",
+		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札の上から3枚までを、控え室に置き、自分の控え室のレベルＸ以下の《冒険》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《冒険》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"ジ アビス"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-063",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_063.png",
+	"tags": null
+}

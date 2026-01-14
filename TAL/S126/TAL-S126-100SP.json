@@ -1,0 +1,35 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "100SP",
+	"name": "",
+	"jpName": "学術閉鎖都市アスピオの研究者 リタ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《冒険》のキャラを1枚選び、手札に戻す。",
+		"【自】 このカードがアタックした時、他のあなたの《冒険》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"ヴェスペリア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-100SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_100sp.png",
+	"tags": null
+}

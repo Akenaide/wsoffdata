@@ -1,0 +1,35 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "101S",
+	"name": "",
+	"jpName": "氷のフォルスと情熱の心 ヴェイグ・リュングベル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのターン中、他のあなたの《冒険》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《冒険》のキャラを1枚まで選び、ストック置場に置き、次の行動を行う。『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』"
+	],
+	"specialAttrib": [
+		"冒険",
+		"リバース"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-101S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_101s.png",
+	"tags": null
+}

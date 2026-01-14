@@ -1,0 +1,34 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "045S",
+	"name": "",
+	"jpName": "世界再生の旅 コレット・ブルーネル",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《冒険》のキャラを1枚選び、手札に戻してよい。",
+		"【自】［手札の《冒険》のキャラを2枚控え室に置き、【スタンド】しているこのカードを控え室に置く］ あなたのアンコールステップの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与え、あなたは自分のクロックの下から2枚までを、控え室に置き、自分のキャラを2枚まで選び、【レスト】する。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"冒険",
+		"シンフォニア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-045S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_045s.png",
+	"tags": null
+}

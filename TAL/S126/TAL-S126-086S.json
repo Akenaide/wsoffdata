@@ -1,0 +1,34 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "086S",
+	"name": "",
+	"jpName": "導師守護役 アニス・タトリン",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、相手のCX置場にCXがあるなら、あなたは自分のバトル中の《冒険》のキャラを1枚選び、そのターン中、パワーを＋2000。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"冒険",
+		"ジ アビス"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-086S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_086s.png",
+	"tags": null
+}

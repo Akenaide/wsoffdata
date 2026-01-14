@@ -1,0 +1,34 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "118S",
+	"name": "",
+	"jpName": "心を閉ざした青年 ヴェイグ・リュングベル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《冒険》のキャラ1枚につき、このカードのパワーを＋2500。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「ふたつの種族が織り成す再誕の物語」があり、他のあなたの《冒険》のキャラが2枚以上なら、あなたは相手の山札を上から1枚見て、山札の上か下に置き、自分の控え室の《冒険》のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"リバース"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-118S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_118s.png",
+	"tags": null
+}

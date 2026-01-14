@@ -1,0 +1,34 @@
+{
+	"set": "TAL",
+	"setName": "[TD]『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "T08",
+	"name": "",
+	"jpName": "真っ直ぐで一途 ロイド・アーヴィング",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《冒険》のキャラがいるなら、このカードのパワーを＋6000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《冒険》のキャラが4枚以上なら、あなたは自分の控え室の《冒険》のキャラを1枚選び、ストック置場に置いてよい。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"シンフォニア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-T08",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_t08.png",
+	"tags": null
+}

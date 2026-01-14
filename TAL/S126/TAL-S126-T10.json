@@ -1,0 +1,34 @@
+{
+	"set": "TAL",
+	"setName": "[TD]『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "T10",
+	"name": "",
+	"jpName": "猟師の青年 リッド・ハーシェル",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TD",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋3500。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「冒険は終わらない」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"冒険",
+		"エターニア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-T10",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_t10.png",
+	"tags": null
+}

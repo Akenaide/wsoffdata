@@ -1,0 +1,32 @@
+{
+	"set": "TAL",
+	"setName": "[TD]『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "T16R",
+	"name": "",
+	"jpName": "記憶喪失の少女 ソフィ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、他のあなたの《冒険》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのCX置場に「続いていく物語」があり、他のあなたの《冒険》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《冒険》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"グレイセス エフ"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-T16R",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_t16.png",
+	"tags": null
+}

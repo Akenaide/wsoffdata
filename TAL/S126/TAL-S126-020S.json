@@ -1,0 +1,34 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "020S",
+	"name": "",
+	"jpName": "抜刀剣士 アスベル・ラント",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードが《冒険》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"冒険",
+		"グレイセス エフ"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-020S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_020s.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "067",
+	"name": "",
+	"jpName": "晶霊技師 メルディ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《冒険》のキャラを1枚選び、手札に戻す。",
+		"【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"エターニア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-067",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_067.png",
+	"tags": null
+}

@@ -1,0 +1,32 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "046",
+	"name": "",
+	"jpName": "皮肉屋な親友 チェスター・バークライト",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
+		"【自】【クロック】 アラーム ［手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以上のキャラを1枚選び、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"ファンタジア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-046",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_046.png",
+	"tags": null
+}

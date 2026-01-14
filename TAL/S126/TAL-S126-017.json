@@ -1,0 +1,35 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "017",
+	"name": "",
+	"jpName": "シャーリィの「兄」 セネル・クーリッジ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引くか相手のキャラを1枚まで選び、手札に戻す。",
+		"【自】 このカードがダイレクトアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《冒険》のキャラなら手札に加える。（そうでないなら元に戻す）",
+		"【自】 絆／「セネルの「妹」 シャーリィ・フェンネス」 ［手札のキャラを1枚控え室に置く］ （このカードが、手札から舞台またはプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「セネルの「妹」 シャーリィ・フェンネス」を1枚選び、手札に戻す）"
+	],
+	"specialAttrib": [
+		"冒険",
+		"レジェンディア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-017",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_017.png",
+	"tags": null
+}

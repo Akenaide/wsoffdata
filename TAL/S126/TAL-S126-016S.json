@@ -1,0 +1,35 @@
+{
+	"set": "TAL",
+	"setName": "『テイルズ オブ』シリーズ",
+	"side": "S",
+	"release": "126",
+	"id": "016S",
+	"name": "",
+	"jpName": "“ラントの天使” シェリア・バーンズ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたか相手の、レベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのキャラすべてが《冒険》なら、このカードのパワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"グレイセス エフ"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-016S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_016s.png",
+	"tags": null
+}
