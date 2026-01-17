@@ -1,0 +1,32 @@
+{
+	"set": "TAL",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "126",
+	"id": "P01S",
+	"name": "",
+	"jpName": "魔王 ダオス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "0",
+	"cost": "0",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《冒険》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てCXを1枚まで選んで公開し、自分の手札のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"冒険",
+		"ファンタジア"
+	],
+	"version": "3",
+	"cardcode": "TAL/S126-P01S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_p01s.png",
+	"tags": null
+}
