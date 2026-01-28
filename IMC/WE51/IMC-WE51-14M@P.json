@@ -1,0 +1,34 @@
+{
+	"set": "IMC",
+	"setName": "プレミアムブースター アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "E51",
+	"id": "14M@P",
+	"name": "",
+	"jpName": "Fantast!c Now☆ 赤城みりあ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "M@P",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2以上なら、そのターン中、このカードのパワーを＋6000。』",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"おしゃべり"
+	],
+	"version": "3",
+	"cardcode": "IMC/WE51-14M@P",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_14m@p.png",
+	"tags": null
+}

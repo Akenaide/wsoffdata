@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "プレミアムブースター アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "E51",
+	"id": "42",
+	"name": "",
+	"jpName": "フォーリン・パラダイス 島村卯月",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 あなたのアタックフェイズの始めに、CX置場に「Stage Bye Stage」があり、前列にこのカードがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『オールラブ・イズ・マイン !を発動する。』『あなたは自分の控え室の《音楽》のキャラを2枚まで選び、1枚選び、手札に戻し、残りのカードをストック置場に置く。』",
+		"【リプレイ】 オールラブ・イズ・マイン ! あなたは自分の赤のキャラの『このカードが手札から舞台に置かれた時』で始まる【自】を1つ選び、選んだ【自】を持つキャラの【自】としてプレイする。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"笑顔"
+	],
+	"version": "3",
+	"cardcode": "IMC/WE51-42",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_42.png",
+	"tags": null
+}

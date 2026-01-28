@@ -1,0 +1,34 @@
+{
+	"set": "IMC",
+	"setName": "プレミアムブースター アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "E51",
+	"id": "19",
+	"name": "",
+	"jpName": "綺羅星のエンプレス 諸星きらり",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】［手札の黄のカードを1枚控え室に置く］ あなたのCX置場に「ダンシング・デッド」が置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】【ターン1】 このカードの与えたダメージがキャンセルされた時、あなたは相手に3ダメージを与えてよい。このダメージがキャンセルされたなら、あなたは相手に4ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ハピハピ"
+	],
+	"version": "3",
+	"cardcode": "IMC/WE51-19",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_19.png",
+	"tags": null
+}

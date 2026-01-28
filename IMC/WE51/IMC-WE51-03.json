@@ -1,0 +1,33 @@
+{
+	"set": "IMC",
+	"setName": "プレミアムブースター アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "E51",
+	"id": "03",
+	"name": "",
+	"jpName": "ひみつの森のマイネ・リーベ 高森藍子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードは赤を得る。",
+		"【自】 このカードが【リバース】した時、あなたのキャラすべてが《音楽》で、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+		"【自】［(1) あなたの控え室の《音楽》のキャラを1枚クロック置場の下に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"カメラ"
+	],
+	"version": "3",
+	"cardcode": "IMC/WE51-03",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_03.png",
+	"tags": null
+}

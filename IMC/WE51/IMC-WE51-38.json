@@ -1,0 +1,34 @@
+{
+	"set": "IMC",
+	"setName": "プレミアムブースター アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "E51",
+	"id": "38",
+	"name": "",
+	"jpName": "ようこそぜいたくパーティー 双葉 杏",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［手札の赤のカードを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下の赤のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（CXのレベルは0として扱う。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"飴"
+	],
+	"version": "3",
+	"cardcode": "IMC/WE51-38",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_38.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "プレミアムブースター アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "E51",
+	"id": "41M@P",
+	"name": "",
+	"jpName": "クリア・ハッピーロール 一ノ瀬志希",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "M@P",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは黄を得る。",
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「Fin[e]～美しき終焉～」があり、他のあなたの、黄のキャラと青のキャラがそれぞれ2枚以上なら、あなたは相手の山札の下から1枚を、控え室に置く。そのカードのレベルが1以下なら、相手に2ダメージを与える。レベルが2以上なら、相手に1ダメージを3回与える。（CXのレベルは0として扱う。ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ギフテッド"
+	],
+	"version": "3",
+	"cardcode": "IMC/WE51-41M@P",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_41m@p.png",
+	"tags": null
+}

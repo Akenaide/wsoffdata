@@ -1,0 +1,34 @@
+{
+	"set": "IMC",
+	"setName": "プレミアムブースター アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "E51",
+	"id": "63SP",
+	"name": "",
+	"jpName": "ダンシング・レガリア ヘレン",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "14500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のターン中、このカードのパワーを－14000。",
+		"【自】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのCX置場にトリガーアイコンが[GATE]のCXがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"世界"
+	],
+	"version": "3",
+	"cardcode": "IMC/WE51-63SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_63sp.png",
+	"tags": null
+}

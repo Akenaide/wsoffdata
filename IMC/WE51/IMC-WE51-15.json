@@ -1,0 +1,34 @@
+{
+	"set": "IMC",
+	"setName": "プレミアムブースター アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "E51",
+	"id": "15",
+	"name": "",
+	"jpName": "悠久のミルククラウン 及川 雫",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "0",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の黄のキャラを1枚選び、そのターン中、ソウルを＋1。",
+		"【自】【CXコンボ】 あなたのCX置場に「ダンシング・デッド」が置かれた時、あなたの手札が6枚以下で、他のあなたの「綺羅星のエンプレス 諸星きらり」がいるなら、あなたは次の効果を行ってよい。『相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストック置場に置く。』"
+	],
+	"specialAttrib": [
+		"音楽",
+		"酪農"
+	],
+	"version": "3",
+	"cardcode": "IMC/WE51-15",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_15.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "プレミアムブースター アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "E51",
+	"id": "65M@P",
+	"name": "",
+	"jpName": "シャルム・シェルシュール 渋谷 凛",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "M@P",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「Drastic Melody」があるなら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置き、そのターン中、このカードは次の能力を得る。『【自】［(1) 手札の青のカードを3枚控え室に置く］ このカードのアタックの終わりに、あなたはコストを払ってよい。そうしたら、終わりなきランウェイを発動する。』",
+		"【リプレイ】 終わりなきランウェイ あなたは自分の青のキャラを1枚選び、相手にＸダメージを与える。Ｘはそのキャラのレベルに等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"花"
+	],
+	"version": "3",
+	"cardcode": "IMC/WE51-65M@P",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_65m@p.png",
+	"tags": null
+}

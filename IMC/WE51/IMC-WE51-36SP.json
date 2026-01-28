@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "プレミアムブースター アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "E51",
+	"id": "36SP",
+	"name": "",
+	"jpName": "自称・プリンス 輿水幸子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "1",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 このカードは青を得る。",
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのキャラが黄を持つなら、次の相手のターンの終わりまで、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。赤を持つなら、そのターン中、パワーを＋2000。青を持つなら、そのターン中、ソウルを＋1。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"カワイイ"
+	],
+	"version": "3",
+	"cardcode": "IMC/WE51-36SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_36sp.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "IMC",
+	"setName": "プレミアムブースター アイドルマスター シンデレラガールズ",
+	"side": "W",
+	"release": "E51",
+	"id": "13",
+	"name": "",
+	"jpName": "愛されクイーン・はぁと 佐藤 心",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの手札のこのカードのカード名は「恋するスウィーティーサマー 佐藤 心」としても扱う。",
+		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋3000。",
+		"【起】［【スタンド】しているこのカードをストック置場に置く］ あなたのレベルが2以上で、あなたの控え室のトリガーアイコンが[CHOICE]のCXが2枚以上なら、あなたは自分の控え室の「恋するスウィーティーサマー 佐藤 心」を1枚選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"裁縫"
+	],
+	"version": "3",
+	"cardcode": "IMC/WE51-13",
+	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_13.png",
+	"tags": null
+}
