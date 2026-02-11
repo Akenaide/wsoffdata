@@ -1,0 +1,35 @@
+{
+	"set": "UMA",
+	"setName": "アニメ『ウマ娘 シンデレラグレイ』",
+	"side": "W",
+	"release": "134",
+	"id": "027",
+	"name": "",
+	"jpName": "“ここで走る決意”フジマサマーチ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にトリガーアイコンが[SHOT]のCXがあるなら、あなたは自分の控え室の「“カサマツトレセン学園”フジマサマーチ」を1枚選び、手札に戻してよい。"
+	],
+	"specialAttrib": [
+		"ウマ娘",
+		"シンデレラグレイ"
+	],
+	"version": "3",
+	"cardcode": "UMA/W134-027",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_027.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "UMA",
+	"setName": "アニメ『ウマ娘 シンデレラグレイ』",
+	"side": "W",
+	"release": "134",
+	"id": "024",
+	"name": "",
+	"jpName": "“私のデビュー戦”ベルノライト",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
+		"【自】 経験 レベル置場にこのカードがあるなら、あなたのアタックフェイズの始めに、あなたは自分の《ウマ娘》のキャラを1枚選び、次の相手のターンの終わりまで、『【自】 アンコール ［あなたの控え室の《ウマ娘》のキャラを1枚クロック置場の下に置く］』を与える。"
+	],
+	"specialAttrib": [
+		"ウマ娘",
+		"シンデレラグレイ"
+	],
+	"version": "3",
+	"cardcode": "UMA/W134-024",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_024.png",
+	"tags": null
+}

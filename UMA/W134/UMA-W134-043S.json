@@ -1,0 +1,35 @@
+{
+	"set": "UMA",
+	"setName": "アニメ『ウマ娘 シンデレラグレイ』",
+	"side": "W",
+	"release": "134",
+	"id": "043S",
+	"name": "",
+	"jpName": "“宣戦布告”タマモクロス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのクロック置場に「“日本一のウマ娘”タマモクロス」があるなら、あなたの手札のこのカードのレベルを－1。",
+		"【自】【CXコンボ】【ターン1】 このカードの与えたダメージがキャンセルされた時、あなたのCX置場に「一瞬で場を支配する異才」があるなら、相手に1ダメージを与え、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。（ダメージキャンセルは発生する）",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻すかストック置場に置いてよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"ウマ娘",
+		"シンデレラグレイ"
+	],
+	"version": "3",
+	"cardcode": "UMA/W134-043S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_043s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "UMA",
+	"setName": "アニメ『ウマ娘 シンデレラグレイ』",
+	"side": "W",
+	"release": "134",
+	"id": "092S",
+	"name": "",
+	"jpName": "“勝つことが最低条件”オグリキャップ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋5000。",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラが4枚以上なら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、ストック置場に置いてよい。",
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2以上なら、そのターン中、このカードのパワーを＋6000。"
+	],
+	"specialAttrib": [
+		"ウマ娘",
+		"シンデレラグレイ"
+	],
+	"version": "3",
+	"cardcode": "UMA/W134-092S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_092s.png",
+	"tags": null
+}

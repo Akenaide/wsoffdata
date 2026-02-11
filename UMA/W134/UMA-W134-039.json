@@ -1,0 +1,35 @@
+{
+	"set": "UMA",
+	"setName": "アニメ『ウマ娘 シンデレラグレイ』",
+	"side": "W",
+	"release": "134",
+	"id": "039",
+	"name": "",
+	"jpName": "“現役最強”タマモクロス",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《ウマ娘》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋4500し、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻す。",
+		"【自】 経験 レベル置場にこのカードがあるなら、あなたのCXフェイズの始めに、あなたは自分の控え室のカードを1枚とこのカードを選び、入れ替えてよい。"
+	],
+	"specialAttrib": [
+		"ウマ娘",
+		"シンデレラグレイ"
+	],
+	"version": "3",
+	"cardcode": "UMA/W134-039",
+	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_039.png",
+	"tags": null
+}
