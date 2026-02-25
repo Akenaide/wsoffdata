@@ -1,0 +1,34 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "095",
+	"name": "",
+	"jpName": "“クエレブレ”美岳",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《リリィ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】 このカードがアタックした時、他のあなたの《リリィ》のキャラがいるなら、あなたはすべてのプレイヤーの山札の下から2枚を、控え室に置いてよい。それらのカードに、CXがないか「“クエレブレ”緋紅」があるなら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"クエレブレ"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-095",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_095.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "008S",
+	"name": "",
+	"jpName": "これまでもこれからも 高嶺",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの前列の「一騎当千 叶星」がいるなら、このカードのパワーを＋6000。",
+		"【自】［手札の《リリィ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの「一騎当千 叶星」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、山札の上に好きな順番で置き、1枚引く。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"グラン",
+		"エプレ"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-008S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_008s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "038",
+	"name": "",
+	"jpName": "“守護天使の契り”天葉＆樟美",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［(1)］ あなたのアタックフェイズの始めに、CX置場に「勇者たちの休日」があり、前列にこのカードがいて、他のあなたの《リリィ》のキャラがいるなら、あなたはコストを払うか自分の控え室の「“守護天使の契り”天葉＆樟美」を1枚まで選び、舞台の好きな枠に置く。コストを払ったなら、あなたは2枚引く。",
+		"【自】［手札を2枚控え室に置く］ このカードのバトル相手が【リバース】した時、他のあなたの《リリィ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのバトル相手をクロック置場に置く。",
+		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"アールヴヘイム"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-038",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_038.png",
+	"tags": null
+}

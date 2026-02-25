@@ -1,0 +1,35 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "016S",
+	"name": "",
+	"jpName": "好きなことを好きなだけ 灯莉",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×1000に等しい。",
+		"【自】［手札を1枚控え室に置く］ あなたのアタックフェイズの始めに、他のあなたの前列の、「ビジョンは明確 姫歌」と「酸いも甘いも 悠夏」がいるなら、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置き、あなたは相手の山札を上から1枚見て、山札の上か控え室に置く。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"グラン",
+		"エプレ"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-016S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_016s.png",
+	"tags": null
+}

@@ -1,0 +1,34 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "052",
+	"name": "",
+	"jpName": "純白に輝くリリィ 夢結",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《リリィ》なら、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「大切を数えよう」があり、他のあなたの《リリィ》のキャラがいるなら、そのターン中、このカードのソウルを－9し、このカードは次の能力を得る。『【自】［(2) 手札を2枚控え室に置く］ このカードのアタックの終わりに、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、相手に3ダメージを与え、相手に4ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"一柳隊"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-052",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_052.png",
+	"tags": null
+}

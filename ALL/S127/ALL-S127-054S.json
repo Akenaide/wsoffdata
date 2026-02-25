@@ -1,0 +1,35 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "054S",
+	"name": "",
+	"jpName": "小さな勇気 二水",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《リリィ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《リリィ》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"一柳隊"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-054S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_054s.png",
+	"tags": null
+}

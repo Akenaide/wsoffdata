@@ -1,0 +1,34 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "055",
+	"name": "",
+	"jpName": "突き進むリリィ 梨璃",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「大切を数えよう」を1枚選び、手札に戻すかストック置場に置いてよい。",
+		"【自】【CXコンボ】［このカードを表向きで他のあなたの前列の「純白に輝くリリィ 夢結」のマーカーにする］ このカードのアタックの終わりに、CX置場に「大切を数えよう」があり、他のあなたの《リリィ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《リリィ》のキャラを2枚まで選び、手札に戻し、相手は自分の控え室のCXを2枚選び、それらのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"一柳隊"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-055",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_055.png",
+	"tags": null
+}

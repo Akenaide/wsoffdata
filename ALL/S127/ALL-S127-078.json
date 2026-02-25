@@ -1,0 +1,33 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "078",
+	"name": "",
+	"jpName": "みんながいるなら 瑤",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 このカードの下にマーカーがあるなら、他のあなたの《リリィ》のキャラすべてに、パワーを＋1000。",
+		"【自】 このカードがレベル置場から舞台に置かれた時、あなたは自分の控え室の《リリィ》のキャラを1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
+		"【自】［手札を1枚控え室に置く］ あなたのトリガーアイコンが[GATE]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"ヘルヴォル"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-078",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_078.png",
+	"tags": null
+}

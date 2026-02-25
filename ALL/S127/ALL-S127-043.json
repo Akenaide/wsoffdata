@@ -1,0 +1,35 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "043",
+	"name": "",
+	"jpName": "“ローエングリン”雪陽",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《リリィ》のキャラが4枚以上なら、このカードのパワーを＋7500。",
+		"【自】 このカードが手札から舞台に置かれた時か「“ローエングリン”紗癒」の【自】の効果で舞台に置かれた時、他のあなたの《リリィ》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+		"【自】 このカードが手札から舞台に置かれた時か「“ローエングリン”紗癒」の【自】の効果で舞台に置かれた時、他のあなたの《リリィ》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"ローエングリン"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-043",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_043.png",
+	"tags": null
+}

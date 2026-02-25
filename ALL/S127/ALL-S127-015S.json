@@ -1,0 +1,35 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "015S",
+	"name": "",
+	"jpName": "優しさと強さ 紅巴",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ あなたがこのカードの『助太刀』を使った時、あなたの控え室のトリガーアイコンが[CHOICE]のCXが5枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"グラン",
+		"エプレ"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-015S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_015s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "061S",
+	"name": "",
+	"jpName": "探求者 ミリアム",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列にこのカードがいるなら、あなたの《リリィ》のキャラすべてに、パワーを＋1500。",
+		"【自】【CXコンボ】 あなたのアタックフェイズの始めに、CX置場に「アーセナルの絆」があるなら、あなたはこのカードを【スタンド】してよい。",
+		"【自】［(1) 手札を3枚控え室に置く］ このカードがアタックした時、他のあなたの《リリィ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"一柳隊"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-061S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_061s.png",
+	"tags": null
+}

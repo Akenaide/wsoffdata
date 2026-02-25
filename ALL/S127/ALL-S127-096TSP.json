@@ -1,0 +1,35 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "096TSP",
+	"name": "",
+	"jpName": "“ヘオロットセインツ”紅",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "TSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの、「“ヘオロットセインツ”楪」と「“ヘオロットセインツ”椛」がいるなら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 このカードの正面のキャラのソウルを－1。",
+		"【自】 アンコール ［手札の《リリィ》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"ヘオロットセインツ"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-096TSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_096tsp.png",
+	"tags": null
+}

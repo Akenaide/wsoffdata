@@ -1,0 +1,33 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "067",
+	"name": "",
+	"jpName": "好戦的なアーセナル 百由",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】［このカードを表向きで他のあなたの前列の「探求者 ミリアム」のマーカーにする］ このカードのアタックの終わりに、他のあなたの《リリィ》のキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚までを、控え室に置き、あなたは自分の「探求者 ミリアム」を1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』"
+	],
+	"specialAttrib": [
+		"リリィ"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-067",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_067.png",
+	"tags": null
+}

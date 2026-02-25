@@ -1,0 +1,35 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "006S",
+	"name": "",
+	"jpName": "叩き上げのリリィ 秋日",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《リリィ》のキャラが2枚以上なら、このカードのパワーを＋4000。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「リゾート・ナイトな二人」があり、他のあなたの《リリィ》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』『【自】 このカードが舞台から控え室に置かれた時、あなたは自分の控え室の、「恐れと強さ 鈴夢」かレベル2以上の《リリィ》のキャラを1枚選び、手札に戻してよい。』"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"グラン",
+		"エプレ"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-006S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_006s.png",
+	"tags": null
+}

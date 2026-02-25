@@ -1,0 +1,34 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "011",
+	"name": "",
+	"jpName": "圧倒的な実力 藤乃",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[CHOICE]のCX1枚につき、あなたは自分の控え室の《リリィ》のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"グラン",
+		"エプレ"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-011",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_011.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "073S",
+	"name": "",
+	"jpName": "純白に輝くリリィ 一葉",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《リリィ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 あなたのキャラすべてが《リリィ》なら、このカードのパワーを＋1000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《リリィ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚までを、控え室に置き、自分の控え室の《リリィ》のキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"ヘルヴォル"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-073S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_073s.png",
+	"tags": null
+}

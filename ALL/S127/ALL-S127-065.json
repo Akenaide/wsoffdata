@@ -1,0 +1,34 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "065",
+	"name": "",
+	"jpName": "あなた想う 結梨",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "4500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《リリィ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋9500し、このカードは次の2つの能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』『【自】 ターンの終わりに、このカードを思い出にする。』"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"一柳隊"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-065",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_065.png",
+	"tags": null
+}

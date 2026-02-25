@@ -1,0 +1,34 @@
+{
+	"set": "ALL",
+	"setName": "アサルトリリィ Last Bullet",
+	"side": "S",
+	"release": "127",
+	"id": "P24",
+	"name": "",
+	"jpName": "“ロネスネス”槿",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てCXを1枚まで選んで公開し、自分の手札のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。",
+		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の青のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+	],
+	"specialAttrib": [
+		"リリィ",
+		"ロネスネス"
+	],
+	"version": "3",
+	"cardcode": "ALL/S127-P24",
+	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_p24.png",
+	"tags": null
+}
