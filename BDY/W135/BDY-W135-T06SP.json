@@ -1,0 +1,34 @@
+{
+	"set": "BDY",
+	"setName": "BanG Dream! [夢限大みゅーたいぷ]",
+	"side": "W",
+	"release": "135",
+	"id": "T06SP",
+	"name": "",
+	"jpName": "“夢現妄想世界”仲町あられ",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻す。",
+		"【自】【CXコンボ】［(3) 手札を2枚控え室に置く］ このカードのアタックの終わりに、CX置場に「夢現妄想世界」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを2回与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"夢限大みゅーたいぷ"
+	],
+	"version": "3",
+	"cardcode": "BDY/W135-T06SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/b/bdy_w135/bdy_w135_t06sp.png",
+	"tags": null
+}

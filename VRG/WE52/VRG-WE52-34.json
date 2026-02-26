@@ -1,0 +1,35 @@
+{
+	"set": "VRG",
+	"setName": "VIRTUAL GIRL @ WORLD’S END",
+	"side": "W",
+	"release": "E52",
+	"id": "34",
+	"name": "",
+	"jpName": "“もうひとりのあたし”マキ＆サキ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたか相手の、控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。",
+		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《終末世界》か《音楽》のキャラなら、あなたはこのカードをストック置場に置いてよい。（公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"終末世界",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "VRG/WE52-34",
+	"imageURL": "/wordpress/wp-content/images/cardlist/v/vrg_we52/vrg_we52_34.png",
+	"tags": null
+}

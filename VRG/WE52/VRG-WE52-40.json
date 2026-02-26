@@ -1,0 +1,35 @@
+{
+	"set": "VRG",
+	"setName": "VIRTUAL GIRL @ WORLD’S END",
+	"side": "W",
+	"release": "E52",
+	"id": "40",
+	"name": "",
+	"jpName": "“完璧の仮面”片瀬凛",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "5000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋6000。",
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「サプライズゲスト」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』",
+		"【自】 チェンジ ［このカードを手札に戻す］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「\u0026#34;アルストロメリア\u0026#34;リンカ」を1枚まで選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"終末世界",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "VRG/WE52-40",
+	"imageURL": "/wordpress/wp-content/images/cardlist/v/vrg_we52/vrg_we52_40.png",
+	"tags": null
+}

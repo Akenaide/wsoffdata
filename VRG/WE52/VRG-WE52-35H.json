@@ -1,0 +1,35 @@
+{
+	"set": "VRG",
+	"setName": "VIRTUAL GIRL @ WORLD’S END",
+	"side": "W",
+	"release": "E52",
+	"id": "35H",
+	"name": "",
+	"jpName": "“アルストロメリア”リンカ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "HRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
+		"【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「サプライズゲスト」があり、他のあなたの、《終末世界》か《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、相手に4ダメージを与える。（ダメージキャンセルは発生する）",
+		"【自】 チェンジ ［このカードを手札に戻す］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「\u0026#34;完璧の仮面\u0026#34;片瀬凛」を1枚まで選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"終末世界",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "VRG/WE52-35H",
+	"imageURL": "/wordpress/wp-content/images/cardlist/v/vrg_we52/vrg_we52_35h.png",
+	"tags": null
+}

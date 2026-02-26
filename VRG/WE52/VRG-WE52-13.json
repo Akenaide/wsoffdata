@@ -1,0 +1,36 @@
+{
+	"set": "VRG",
+	"setName": "VIRTUAL GIRL @ WORLD’S END",
+	"side": "W",
+	"release": "E52",
+	"id": "13",
+	"name": "",
+	"jpName": "“写真の少女”常盤愛",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの、《終末世界》か《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはこのカードの下のマーカーの枚数×2000に等しい。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札すべてを、控え室に置いてよい。",
+		"【自】 あなたが山札をリフレッシュした時、他のあなたの「\u0026#34;写真の少女\u0026#34;常盤愛」がいないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置く。",
+		"【起】［このカードをストック置場に置く］ あなたの思い出置場に「\u0026#34;わたし『たち』の始まり\u0026#34;常盤愛」がないなら、あなたは自分の控え室の「\u0026#34;わたし『たち』の始まり\u0026#34;常盤愛」を1枚選び、思い出にする。"
+	],
+	"specialAttrib": [
+		"終末世界",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "VRG/WE52-13",
+	"imageURL": "/wordpress/wp-content/images/cardlist/v/vrg_we52/vrg_we52_13.png",
+	"tags": null
+}

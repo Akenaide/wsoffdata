@@ -1,0 +1,35 @@
+{
+	"set": "VRG",
+	"setName": "VIRTUAL GIRL @ WORLD’S END",
+	"side": "W",
+	"release": "E52",
+	"id": "55",
+	"name": "",
+	"jpName": "“二人の時間”アイ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "2500",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたの、《終末世界》か《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
+		"【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
+		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"終末世界",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "VRG/WE52-55",
+	"imageURL": "/wordpress/wp-content/images/cardlist/v/vrg_we52/vrg_we52_55.png",
+	"tags": null
+}
