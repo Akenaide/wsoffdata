@@ -1,0 +1,36 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "053S",
+	"name": "",
+	"jpName": "朝のハプニング 音夢",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 記憶 あなたの思い出置場の、《Anniversary》か《魔法》か《バナナ》のキャラが2枚以上なら、このカードのパワーを＋3000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《Anniversary》か《魔法》か《バナナ》のキャラの枚数に等しい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"風紀委員"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-053S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_053s.png",
+	"tags": null
+}

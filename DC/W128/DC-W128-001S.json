@@ -1,0 +1,32 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "001S",
+	"name": "",
+	"jpName": "桜並木を見上げて さくら",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《魔法》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋1500。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-001S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_001s.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "031",
+	"name": "",
+	"jpName": "背中合わせの告白 ことり",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
+		"【自】【CXコンボ】［このカードを手札に戻す］ あなたのCXフェイズ中、CX置場に「結婚式の歌姫」が置かれた時、他のあなたの、《Anniversary》か《魔法》か《音楽》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「気持ちを伝える方法 ことり＆純一」を1枚まで選び、このカードがいた枠に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-031",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_031.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "028S",
+	"name": "",
+	"jpName": "気持ちを伝える方法 ことり＆純一",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 記憶 あなたの思い出が3枚以上なら、このカードのパワーを＋4000し、このカードは次の能力を得る。『【自】 このカードのバトル相手のアタックの終わりに、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。』",
+		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「結婚式の歌姫」があるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-028S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_028s.png",
+	"tags": null
+}

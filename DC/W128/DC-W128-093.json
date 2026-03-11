@@ -1,0 +1,33 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "093",
+	"name": "",
+	"jpName": "正直で良い 純一＆眞子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "2000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《音楽》か《鍋》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《音楽》か《鍋》のキャラの枚数×500に等しい。",
+		"【自】 このカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたはこのカードを思い出にしてよい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"鍋"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-093",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_093.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "045S",
+	"name": "",
+	"jpName": "ささやかで欲張りな 音夢",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたのキャラがいるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
+		"【自】【CXコンボ】 記憶 共鳴 ［(2) 手札を2枚控え室に置き、手札の「安心とおんぶ 音夢\u0026amp;純一」を1枚公開する］ このカードがアタックした時、CX置場に「たった1つの願い」があり、あなたの思い出が2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。このダメージがキャンセルされなかったなら、あなたは相手に2ダメージを与える。このダメージがキャンセルされなかったなら、あなたは相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"風紀委員"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-045S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_045s.png",
+	"tags": null
+}

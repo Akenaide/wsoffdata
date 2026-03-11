@@ -1,0 +1,35 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "087S",
+	"name": "",
+	"jpName": "アイドルレッスン 眞子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《Anniversary》か《音楽》か《鍋》のキャラすべてに、パワーを＋1000。",
+		"【自】 他のあなたの「アイドルファーストステップ 眞子」がアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"音楽",
+		"鍋"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-087S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_087s.png",
+	"tags": null
+}

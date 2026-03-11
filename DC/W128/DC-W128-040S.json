@@ -1,0 +1,35 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "040S",
+	"name": "",
+	"jpName": "マスク姿のことり",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《Anniversary》か《魔法》か《音楽》のキャラがいるなら、あなたは自分か相手の、山札の上から3枚を、控え室に置く。",
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"音楽"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-040S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_040s.png",
+	"tags": null
+}

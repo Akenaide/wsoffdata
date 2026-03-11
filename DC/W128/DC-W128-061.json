@@ -1,0 +1,35 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "061",
+	"name": "",
+	"jpName": "最初で最後の嘘 風祈",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
+		"【起】［(1) あなたの思い出置場の、《Anniversary》か《魔法》のキャラを1枚控え室に置く］ あなたは自分の控え室の、《Anniversary》か《魔法》のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"鬼"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-061",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_061.png",
+	"tags": null
+}

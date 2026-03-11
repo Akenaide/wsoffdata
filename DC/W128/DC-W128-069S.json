@@ -1,0 +1,35 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "069S",
+	"name": "",
+	"jpName": "広辞苑な目覚まし 音夢",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの、《Anniversary》か《魔法》か《バナナ》のキャラ1枚につき、このカードのパワーを＋1500。",
+		"【自】 あなたのCXがCX置場に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《Anniversary》か《魔法》か《バナナ》のキャラの枚数×500に等しい。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法",
+		"風紀委員"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-069S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_069s.png",
+	"tags": null
+}

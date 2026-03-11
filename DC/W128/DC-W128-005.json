@@ -1,0 +1,35 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "005",
+	"name": "",
+	"jpName": "あなたがくれた思い出 頼子",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】［このカードを手札に戻す］ あなたのCX置場に「頼子の膝枕」が置かれた時、あなたの手札が6枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《Anniversary》か《動物》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
+		"【起】［(1) 手札のこのカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、《Anniversary》か《動物》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"動物",
+		"メイド"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-005",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_005.png",
+	"tags": null
+}

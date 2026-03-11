@@ -1,0 +1,34 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "003SSP",
+	"name": "",
+	"jpName": "旅立つ魔法使い さくら",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "12000",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 舞台のこのカードのレベルを－3。このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
+		"【自】【CXコンボ】 記憶 このカードのアタックの終わりに、CX置場に「枯れない桜」があり、あなたの思い出置場の、《Anniversary》か《魔法》のキャラが2枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを与える。』『［手札を1枚控え室に置く］ 他のあなたの前列の【スタンド】していない「旅立つ魔法使い さくら」が2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、3ダメージを2回与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-003SSP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_003ssp.png",
+	"tags": null
+}

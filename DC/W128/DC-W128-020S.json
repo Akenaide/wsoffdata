@@ -1,0 +1,34 @@
+{
+	"set": "DC",
+	"setName": "D.C. Re:tune ～ダ・カーポ～ リチューン",
+	"side": "W",
+	"release": "128",
+	"id": "020S",
+	"name": "",
+	"jpName": "桜の下の約束 さくら",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "5000",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出が3枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+	],
+	"specialAttrib": [
+		"Anniversary",
+		"魔法"
+	],
+	"version": "3",
+	"cardcode": "DC/W128-020S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_020s.png",
+	"tags": null
+}
