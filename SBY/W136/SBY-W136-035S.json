@@ -1,0 +1,33 @@
+{
+	"set": "SBY",
+	"setName": "青春ブタ野郎はサンタクロースの夢を見ない",
+	"side": "W",
+	"release": "136",
+	"id": "035S",
+	"name": "",
+	"jpName": "いじわるな問題 梓川 咲太",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは相手の山札の下からＸ枚を、控え室に置く。Ｘはあなたの《思春期》のキャラの枚数に等しい。",
+		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+	],
+	"specialAttrib": [
+		"思春期"
+	],
+	"version": "3",
+	"cardcode": "SBY/W136-035S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_035s.png",
+	"tags": null
+}

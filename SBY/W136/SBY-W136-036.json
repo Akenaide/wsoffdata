@@ -1,0 +1,35 @@
+{
+	"set": "SBY",
+	"setName": "青春ブタ野郎はサンタクロースの夢を見ない",
+	"side": "W",
+	"release": "136",
+	"id": "036",
+	"name": "",
+	"jpName": "新たな生徒 姫路 紗良",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室の「秘密の約束 姫路 紗良」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。",
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《思春期》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「紗良」を含むキャラを1枚まで選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"思春期",
+		"学生"
+	],
+	"version": "3",
+	"cardcode": "SBY/W136-036",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_036.png",
+	"tags": null
+}

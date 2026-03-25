@@ -1,0 +1,34 @@
+{
+	"set": "SBY",
+	"setName": "青春ブタ野郎はサンタクロースの夢を見ない",
+	"side": "W",
+	"release": "136",
+	"id": "053",
+	"name": "",
+	"jpName": "わたしに残っているもの 岩見沢 寧々",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 前列にこのカードがいるなら、あなたの《思春期》のキャラすべてに、パワーを＋1500。",
+		"【自】【CXコンボ】［(3) 手札を1枚控え室に置く］ あなたのアンコールステップの始めに、CX置場に「思春期は終わらない」があり、あなたの手札が6枚以下なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"思春期",
+		"モデル"
+	],
+	"version": "3",
+	"cardcode": "SBY/W136-053",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_053.png",
+	"tags": null
+}

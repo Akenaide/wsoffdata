@@ -1,0 +1,34 @@
+{
+	"set": "SBY",
+	"setName": "青春ブタ野郎はサンタクロースの夢を見ない",
+	"side": "W",
+	"release": "136",
+	"id": "017",
+	"name": "",
+	"jpName": "空気の味 広川 卯月",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 あなたのCXフェイズの始めに、前列にこのカードがいるなら、そのターン中、このカードのレベルを－1し、あなたは他の自分の《思春期》のキャラを1枚選び、そのターン中、このカードのレベルを＋Ｘ。Ｘは選んだキャラのレベルに等しい。",
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。"
+	],
+	"specialAttrib": [
+		"思春期",
+		"アイドル"
+	],
+	"version": "3",
+	"cardcode": "SBY/W136-017",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_017.png",
+	"tags": null
+}

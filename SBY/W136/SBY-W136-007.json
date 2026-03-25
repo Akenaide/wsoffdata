@@ -1,0 +1,34 @@
+{
+	"set": "SBY",
+	"setName": "青春ブタ野郎はサンタクロースの夢を見ない",
+	"side": "W",
+	"release": "136",
+	"id": "007",
+	"name": "",
+	"jpName": "迷えるシンガー 広川 卯月",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "1",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】［このカードをストック置場に置き、あなたのストックの下から1枚を、控え室に置く］ 他のあなたの《思春期》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
+		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"思春期",
+		"アイドル"
+	],
+	"version": "3",
+	"cardcode": "SBY/W136-007",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_007.png",
+	"tags": null
+}

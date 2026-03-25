@@ -1,0 +1,35 @@
+{
+	"set": "SBY",
+	"setName": "青春ブタ野郎はサンタクロースの夢を見ない",
+	"side": "W",
+	"release": "136",
+	"id": "088",
+	"name": "",
+	"jpName": "聞き流す忠告 赤城 郁実",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 経験 あなたのレベル置場に「今日という日 赤城 郁実」があるなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。』",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"思春期",
+		"ボランティア"
+	],
+	"version": "3",
+	"cardcode": "SBY/W136-088",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_088.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "SBY",
+	"setName": "青春ブタ野郎はサンタクロースの夢を見ない",
+	"side": "W",
+	"release": "136",
+	"id": "051S",
+	"name": "",
+	"jpName": "アルバイト 梓川 花楓",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "6500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《思春期》なら、このカードのパワーを＋4000。",
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《思春期》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
+		"【起】［(2) 手札のこのカードを控え室に置く］ あなたは自分の山札を見てCXを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"思春期",
+		"動物"
+	],
+	"version": "3",
+	"cardcode": "SBY/W136-051S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_051s.png",
+	"tags": null
+}

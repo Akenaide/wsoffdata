@@ -1,0 +1,35 @@
+{
+	"set": "SBY",
+	"setName": "青春ブタ野郎はサンタクロースの夢を見ない",
+	"side": "W",
+	"release": "136",
+	"id": "085",
+	"name": "",
+	"jpName": "大人な対応 赤城 郁実",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "1",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《思春期》のキャラすべてに、パワーを＋500。",
+		"【自】［(1)］ あなたのトリガーアイコンが[GATE]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置き、1枚まで引く。1枚引いたなら、あなたは自分の手札を1枚選び、控え室に置く。",
+		"【自】 あなたのトリガーアイコンが[GATE]のCXがCX置場に置かれた時、他のあなたの《思春期》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
+	],
+	"specialAttrib": [
+		"思春期",
+		"ボランティア"
+	],
+	"version": "3",
+	"cardcode": "SBY/W136-085",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_085.png",
+	"tags": null
+}

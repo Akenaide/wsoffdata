@@ -1,0 +1,35 @@
+{
+	"set": "SBY",
+	"setName": "青春ブタ野郎はサンタクロースの夢を見ない",
+	"side": "W",
+	"release": "136",
+	"id": "059",
+	"name": "",
+	"jpName": "見返すライブ 梓川 花楓",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "2",
+	"power": "4000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてが《思春期》なら、このカードのパワーを＋6000。",
+		"【自】【CXコンボ】［あなたのCX置場の「ファン活動」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。",
+		"【自】 このカードが控え室から舞台に置かれた時、あなたは相手の控え室のカードを1枚まで選び、山札に戻し、相手はその山札をシャッフルする。"
+	],
+	"specialAttrib": [
+		"思春期",
+		"動物"
+	],
+	"version": "3",
+	"cardcode": "SBY/W136-059",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_059.png",
+	"tags": null
+}
