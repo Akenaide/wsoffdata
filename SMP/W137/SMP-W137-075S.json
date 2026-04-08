@@ -1,0 +1,35 @@
+{
+	"set": "SMP",
+	"setName": "TVアニメ『Summer Pockets』",
+	"side": "W",
+	"release": "137",
+	"id": "075S",
+	"name": "",
+	"jpName": "“灯台と歌と少女”紬",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《サマポケ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
+		"【永】 他のあなたの《サマポケ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場のキャラを1枚まで選び、控え室に置き、他のあなたの《サマポケ》のキャラが4枚以上なら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－1。』"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"ヌイグルミ"
+	],
+	"version": "3",
+	"cardcode": "SMP/W137-075S",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_075s.png",
+	"tags": null
+}

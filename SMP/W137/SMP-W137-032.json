@@ -1,0 +1,35 @@
+{
+	"set": "SMP",
+	"setName": "TVアニメ『Summer Pockets』",
+	"side": "W",
+	"release": "137",
+	"id": "032",
+	"name": "",
+	"jpName": "猫のお出迎え 紬",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "1",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、舞台のこのカードのレベルを－1。",
+		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。",
+		"【永】 記憶 あなたの思い出置場に「蔵で見つけた写真」があるなら、このカードは『【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。』を得る。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"ヌイグルミ"
+	],
+	"version": "3",
+	"cardcode": "SMP/W137-032",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_032.png",
+	"tags": null
+}

@@ -1,0 +1,35 @@
+{
+	"set": "SMP",
+	"setName": "TVアニメ『Summer Pockets』",
+	"side": "W",
+	"release": "137",
+	"id": "016SP",
+	"name": "",
+	"jpName": "“ひと夏の宝物”鴎",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
+		"【永】 他のあなたの《サマポケ》のキャラが3枚以上なら、このカードのパワーを＋9500し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』",
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《サマポケ》のキャラが2枚以上なら、あなたは3枚まで引き、自分の手札を同じ枚数選び、控え室に置く。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"海賊"
+	],
+	"version": "3",
+	"cardcode": "SMP/W137-016SP",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_016sp.png",
+	"tags": null
+}

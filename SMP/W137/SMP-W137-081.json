@@ -1,0 +1,35 @@
+{
+	"set": "SMP",
+	"setName": "TVアニメ『Summer Pockets』",
+	"side": "W",
+	"release": "137",
+	"id": "081",
+	"name": "",
+	"jpName": "“鴎鴎そう鴎”鴎",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "7000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋1500。",
+		"【自】【ターン1】 他のあなたの《海賊》のキャラが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
+		"【自】【CXコンボ】［あなたの舞台の《海賊》のキャラを1枚控え室に置き、このカードを【レスト】する］ あなたのCX置場に「夢を追いかけて」が置かれた時、他のあなたの《サマポケ》のキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《海賊》のキャラを1枚選び、舞台のキャラのいない枠に置く。"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"海賊"
+	],
+	"version": "3",
+	"cardcode": "SMP/W137-081",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_081.png",
+	"tags": null
+}

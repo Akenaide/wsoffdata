@@ -1,0 +1,35 @@
+{
+	"set": "SMP",
+	"setName": "TVアニメ『Summer Pockets』",
+	"side": "W",
+	"release": "137",
+	"id": "026",
+	"name": "",
+	"jpName": "“あの夏の旗”鴎",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、このカードのパワーを＋2000。",
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《サマポケ》のキャラの枚数に等しい。",
+		"【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「スタート地点」があるなら、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを2回与える。』『相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"海賊"
+	],
+	"version": "3",
+	"cardcode": "SMP/W137-026",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_026.png",
+	"tags": null
+}

@@ -1,0 +1,32 @@
+{
+	"set": "SMP",
+	"setName": "TVアニメ『Summer Pockets』",
+	"side": "W",
+	"release": "137",
+	"id": "020",
+	"name": "",
+	"jpName": "“好奇心旺盛”鴎",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "4000",
+	"soul": "1",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "",
+	"trigger": [],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《サマポケ》のキャラがいるなら、このカードのパワーを＋3000。",
+		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「七つの海を越えて」があり、他のあなたの《サマポケ》のキャラが2枚以上なら、あなたは自分の山札の上から3枚まで公開し、《サマポケ》のキャラかイベントをＸ枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはこの効果で公開されたカードのレベルの合計が偶数なら2、奇数なら1に等しい。（CXのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"サマポケ",
+		"海賊"
+	],
+	"version": "3",
+	"cardcode": "SMP/W137-020",
+	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_020.png",
+	"tags": null
+}
