@@ -1,0 +1,33 @@
+{
+	"set": "THP",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "130",
+	"id": "P25",
+	"name": "",
+	"jpName": "ゆっくり魔理沙",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "ゆっくりしていってね！！！",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 すべての領域にあるこのカードは《幻想郷》を得る。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは『ゆっくりしていってね！！！』と宣言してよい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは自分のクロックの上から1枚を、控え室に置き、そのターン中、このカードのパワーを＋4000。"
+	],
+	"specialAttrib": [
+		"ゆっくり"
+	],
+	"version": "4",
+	"cardcode": "THP/S130-P25",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_p25.png",
+	"tags": null,
+	"expansionId": 13
+}

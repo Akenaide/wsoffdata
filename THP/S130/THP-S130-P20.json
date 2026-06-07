@@ -1,0 +1,33 @@
+{
+	"set": "THP",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "130",
+	"id": "P20",
+	"name": "",
+	"jpName": "夢と伝統を保守する巫女 靈夢",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "なによ、その服。もしかして、あんた邪教？\u003cbr\u003e（「東方夢時空　～ Phantasmagoria of Dim.Dream」より）",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 すべての領域にあるこのカードは《幻想郷》を得る。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+	],
+	"specialAttrib": [
+		"博麗神社"
+	],
+	"version": "4",
+	"cardcode": "THP/S130-P20",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_p20.png",
+	"tags": null,
+	"expansionId": 13
+}

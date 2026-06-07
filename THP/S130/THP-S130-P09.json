@@ -1,0 +1,34 @@
+{
+	"set": "THP",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "130",
+	"id": "P09",
+	"name": "",
+	"jpName": "巫女の留守を預かる仙人 華扇",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "0",
+	"cost": "0",
+	"power": "1000",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【起】【CXコンボ】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードの「魔法の下準備」か「博麗の巫女向け特訓メニュー」1枚につき、あなたは1枚まで引く。\u003cbr\u003e（手札を補充できるぞ。この能力は毎ターン積極的に使っていくのがオススメ！）"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"博麗神社"
+	],
+	"version": "4",
+	"cardcode": "THP/S130-P09",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_p09.png",
+	"tags": null,
+	"expansionId": 13
+}

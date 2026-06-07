@@ -1,0 +1,31 @@
+{
+	"set": "THP",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "130",
+	"id": "P16",
+	"name": "",
+	"jpName": "博麗の巫女向け特訓メニュー",
+	"cardType": "CX",
+	"colour": "BLUE",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
+	"soul": "0",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"DRAW"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[draw.gif]]：このカードがトリガーした時、あなたは1枚引いてよい）\u003cbr\u003e（トリガーチェックやダメージステップでこのカードがめくれるとラッキー！）"
+	],
+	"specialAttrib": null,
+	"version": "4",
+	"cardcode": "THP/S130-P16",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_p16.png",
+	"tags": null,
+	"expansionId": 13
+}

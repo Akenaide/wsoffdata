@@ -1,0 +1,32 @@
+{
+	"set": "THP",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "130",
+	"id": "132S",
+	"name": "",
+	"jpName": "怨霊も恐れ怯む少女 さとり",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "1",
+	"cost": "0",
+	"power": "4500",
+	"soul": "1",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": null,
+	"ability": [
+		"【自】 このカードがアタックした時、CX置場にトリガーアイコンが[[treasure.gif]]のCXがあり、他のあなたの《幻想郷》のキャラがいるなら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのアタックの終わりに、CX置場に「想起「テリブルスーヴニール」」があり、他のあなたの《幻想郷》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《幻想郷》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"地霊殿"
+	],
+	"version": "4",
+	"cardcode": "THP/S130-132S",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_132s.png",
+	"tags": null,
+	"expansionId": 13
+}

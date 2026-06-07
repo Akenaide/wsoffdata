@@ -1,0 +1,34 @@
+{
+	"set": "THP",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "130",
+	"id": "P05",
+	"name": "",
+	"jpName": "一攫千金の魔法使い 魔理沙",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「魔法の下準備」があるなら、あなたは相手に6ダメージを与えてよい。（ダメージキャンセルは発生する）\u003cbr\u003e（このデッキの切り札！「魔法の下準備」と一緒にプレイできるよう準備しておこう！）"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"魔法の森"
+	],
+	"version": "4",
+	"cardcode": "THP/S130-P05",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_p05.png",
+	"tags": null,
+	"expansionId": 13
+}

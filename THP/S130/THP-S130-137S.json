@@ -1,0 +1,34 @@
+{
+	"set": "THP",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "130",
+	"id": "137S",
+	"name": "",
+	"jpName": "楽園の素敵な巫女 霊夢",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】【CXコンボ】 あなたのアタックフェイズの始めに、CX置場に「「夢想天生」」があり、他のあなたの「少女綺想曲　～ Dream Battle 霊夢」がいて、他のあなたの前列のキャラがいないなら、そのターン中、このカードは次の能力を得る。『【自】［(4) 手札の「楽園の素敵な巫女 霊夢」を1枚控え室に置き、手札を4枚控え室に置く］ このカードのアタックの終わりに、あなたはコストを払ってよい。そうしたら、相手に1ダメージを2回、2ダメージを2回、3ダメージを2回、4ダメージを順番に与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"博麗神社"
+	],
+	"version": "4",
+	"cardcode": "THP/S130-137S",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_137s.png",
+	"tags": null,
+	"expansionId": 13
+}

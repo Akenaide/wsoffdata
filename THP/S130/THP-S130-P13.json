@@ -1,0 +1,34 @@
+{
+	"set": "THP",
+	"setName": "PRカード【Sサイド】",
+	"side": "S",
+	"release": "130",
+	"id": "P13",
+	"name": "",
+	"jpName": "彷徨わない亡霊 幽々子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "PR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e（クロックを回復できるぞ。0枚だと影響が無いので注意！）"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"白玉楼"
+	],
+	"version": "4",
+	"cardcode": "THP/S130-P13",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_p13.png",
+	"tags": null,
+	"expansionId": 13
+}
