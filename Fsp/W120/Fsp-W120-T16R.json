@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サラお姉ちゃんがジョニーを貸してくれたの",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋3000。"
 	],
@@ -25,8 +25,9 @@
 		"スパイ",
 		"灯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsp/W120-T16R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsp_w120/fsp_w120_t16r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsp_w120/fsp_w120_t16r.png",
+	"tags": null,
+	"expansionId": 488
 }

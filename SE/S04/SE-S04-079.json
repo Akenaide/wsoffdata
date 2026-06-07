@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私が作るって言ってるじゃない！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの『応援』を持つキャラが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたはＸ枚まで引き、自分の手札をＸ枚選び、控え室に置く。Ｘはそれらのカードのクライマックスの枚数×2に等しい。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_079.png",
+	"tags": null,
+	"expansionId": 14
 }

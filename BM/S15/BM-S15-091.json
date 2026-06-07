@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そう？　普通でしょう",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ 次の相手のターンの終わりまで、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_091.png",
+	"tags": null,
+	"expansionId": 60
 }

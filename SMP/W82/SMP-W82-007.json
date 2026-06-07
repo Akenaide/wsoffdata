@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "うきょおおぉぉぉーーー！　鬼だぞーーー！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《サマポケ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の「“夏の思い出”識」を2枚まで選び、そのターン中、ソウルを＋1。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【永】 応援 このカードの前のあなたの《サマポケ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのクライマックスフェイズの始めに、あなたは自分の「“夏の思い出”識」を2枚まで選び、そのターン中、ソウルを＋1。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"鬼"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_007.png",
+	"tags": null,
+	"expansionId": 311
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もうあんたたちの出番は無いと思いなさい",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「神津 玲」がいるなら、このカードのパワーを＋1000。",
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"警察"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_053.png",
+	"tags": null,
+	"expansionId": 50
 }

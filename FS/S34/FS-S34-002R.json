@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺はお前のマスターになる",
+	"trigger": null,
 	"ability": [
 		"【自】[(1)］ このカードがアタックした時、クライマックス置場に「悪への怒り」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《マスター》か《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-002R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_002rr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_002rr.png",
+	"tags": null,
+	"expansionId": 139
 }

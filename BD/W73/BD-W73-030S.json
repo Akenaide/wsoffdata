@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おー、いいじゃん",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 あなたのクライマックス置場に「あの日の景色」が置かれた時、前列にこのカードがいて、他のあなたの《Afterglow》のキャラがいるなら、そのターン中、このカードは次の2つの能力のうちあなたが選んだ1つを得る。『【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-030S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_030s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_030s.png",
+	"tags": null,
+	"expansionId": 286
 }

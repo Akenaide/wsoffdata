@@ -15,7 +15,7 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "終わらぬ連鎖を終わらせる。\u003cbr /\u003eそれを果たし得るのが聖杯だ",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"マスター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_003.png",
+	"tags": null,
+	"expansionId": 82
 }

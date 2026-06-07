@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "チクチクしました……",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「正義の体現者 セバス」を1枚まで選び、このカードがいた枠に防御キャラとして置く。"
 	],
@@ -24,8 +24,9 @@
 		"人間種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_014.png",
+	"tags": null,
+	"expansionId": 254
 }

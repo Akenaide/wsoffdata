@@ -15,16 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キタン「待たせたな！」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"大グレン団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GL/S52-007S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_007s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gl_s52/gl_s52_007s.png",
+	"tags": null,
+	"expansionId": 217
 }

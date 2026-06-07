@@ -15,18 +15,18 @@
 	"rarity": "Cu",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが赤なら、このカードのパワーを＋2000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にCXがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 あなたのキャラすべてが赤なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にCXがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ファッション"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T10Cu",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t10cu.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t10cu.png",
+	"tags": null,
+	"expansionId": 474
 }

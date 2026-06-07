@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "グレイス「今度は姉様を可愛がって差し上げるのじゃ」\u003cbr\u003e愛音「ちょ、ちょっと待っ……あああんっ」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】している、《スニーカー文庫》か《ハート・ハイブリッド・ギア》のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を見て《スニーカー文庫》か《ハート・ハイブリッド・ギア》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Shh/W62-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shh_w62/shh_w62_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shh_w62/shh_w62_101.png",
+	"tags": null,
+	"expansionId": 259
 }

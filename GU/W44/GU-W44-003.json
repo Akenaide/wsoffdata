@@ -15,22 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【自】 あなたのクライマックス置場に「幼馴染の二人」が置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋1000。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 あなたのクライマックス置場に「幼馴染の二人」が置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"特待生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_003.png",
+	"tags": null,
+	"expansionId": 174
 }

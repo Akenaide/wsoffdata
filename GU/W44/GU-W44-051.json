@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "木組みの街、何年ぶりかなぁ～ 昔と全然変わってない",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《パン》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、あなたは自分の《パン》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
+		"【永】 他のあなたの《パン》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《パン》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_051.png",
+	"tags": null,
+	"expansionId": 174
 }

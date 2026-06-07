@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの後列の《きんいろ》のキャラ1枚につき、このカードのパワーを＋2500。",
-		"【自】【CXコンボ】 記憶 思い出置場にこのカードがあり、あなたのレベルが2以上なら、あなたのCX置場に「誰より愛する金髪少女」が置かれた時、あなたはこのカードを舞台のキャラのいない枠に置いてよい。"
+		"【永】 他のあなたの後列の《きんいろ》のキャラ1枚につき、このカードのパワーを＋2500。\u003cbr\u003e【自】【CXコンボ】 記憶 思い出置場にこのカードがあり、あなたのレベルが2以上なら、あなたのCX置場に「誰より愛する金髪少女」が置かれた時、あなたはこのカードを舞台のキャラのいない枠に置いてよい。"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"テニス部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-066SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_066sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_066sp.png",
+	"tags": null,
+	"expansionId": 534
 }

@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしは待ってますから",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの《思春期》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 経験 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「初恋の思い出」があり、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードがアタックした時、他のあなたの《思春期》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 経験 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「初恋の思い出」があり、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_072.png",
+	"tags": null,
+	"expansionId": 290
 }

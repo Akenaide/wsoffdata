@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…それまで涼宮さんとお幸せに。じゃあね",
+	"trigger": null,
 	"ability": [
 		"【カウンター】あなたは相手のクライマックス置場のクライマックスを1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SY/W08-T16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_t16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_t16.png",
+	"tags": null,
+	"expansionId": 15
 }

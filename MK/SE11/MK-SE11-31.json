@@ -5,17 +5,17 @@
 	"release": "E11",
 	"id": "31",
 	"name": "",
-	"jpName": "バリツの秘密",
+	"jpName": "バリツの秘密　",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "『バリツ』",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/SE11-31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se11/mk_se11_31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se11/mk_se11_31.png",
+	"tags": null,
+	"expansionId": 69
 }

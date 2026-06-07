@@ -8,14 +8,14 @@
 	"jpName": "合格祝い",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ありがと、先輩！",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SBY/W136-045R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_045r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_045r.png",
+	"tags": null,
+	"expansionId": 547
 }

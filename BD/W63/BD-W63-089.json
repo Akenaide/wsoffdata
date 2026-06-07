@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あの日のことは……もう忘れてちょうだい",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《Roselia》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードがクライマックスなら、このカードをストック置場に置く。"
+		"【永】 他のあなたの《Roselia》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードがクライマックスなら、このカードをストック置場に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_089.png",
+	"tags": null,
+	"expansionId": 255
 }

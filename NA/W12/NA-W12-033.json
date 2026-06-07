@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あのっ、フェイト・テスタロッサといいます\u003cbr /\u003eよろしくお願いしますっ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《動物》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_033.png",
+	"tags": null,
+	"expansionId": 44
 }

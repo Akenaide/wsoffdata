@@ -8,14 +8,14 @@
 	"jpName": "魔王徴発令",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "言ったでしょう？ 先輩の大切なものを預かるって",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "AW/S18-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_055.png",
+	"tags": null,
+	"expansionId": 85
 }

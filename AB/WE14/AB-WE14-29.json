@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほかのみんなは？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの【レスト】しているキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/WE14-29",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_we14/ab_we14_29.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_we14/ab_we14_29.png",
+	"tags": null,
+	"expansionId": 81
 }

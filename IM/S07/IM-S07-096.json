@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これ、本当にいい歌詞ですね～。\u003cbr /\u003eあ、歌詞といえば、昨日もらったお菓子なんですけど～",
+	"trigger": null,
 	"ability": [
 		"あなたの手札があるなら、あなたは自分の手札をランダムに1枚選び公開し、Ｘ枚引く。Ｘは公開されたカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S07-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_096.png",
+	"tags": null,
+	"expansionId": 29
 }

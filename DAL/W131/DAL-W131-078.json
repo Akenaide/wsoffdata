@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《デート》か《精霊》のキャラの枚数×500に等しい。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのストックが4枚以下なら、あなたはそのキャラを山札の下に置いてよい。"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《デート》か《精霊》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのストックが4枚以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W131-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w131/dal_w131_078.png",
+	"tags": null,
+	"expansionId": 529
 }

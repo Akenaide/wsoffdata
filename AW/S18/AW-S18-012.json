@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我が名は《ブラック・ロータス》!! 僭王の支配に抗う者だ!!",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「宣告・貫通による死」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「本当の強さ 黒雪姫」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_012.png",
+	"tags": null,
+	"expansionId": 85
 }

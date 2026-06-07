@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マリア「あなたの覚悟はそんなもの？\u003cbr\u003eフフ、我慢しなさいッ！」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「クリス」か「マリア」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。"
+		"このカードは、あなたのカード名に「クリス」か「マリア」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の控え室のキャラを2枚まで選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SG/W52-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w52/sg_w52_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w52/sg_w52_077.png",
+	"tags": null,
+	"expansionId": 206
 }

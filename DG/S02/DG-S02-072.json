@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フロン「えーと……。これで仲直りは大成功～！……ですよね？」",
+	"trigger": null,
 	"ability": [
 		"あなたは相手の控え室のクライマックスを1枚選び、山札に戻す。そうしたら、その山札をシャッフルし、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DG/S02-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_072.png",
+	"tags": null,
+	"expansionId": 5
 }

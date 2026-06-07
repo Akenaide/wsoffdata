@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "六花「ああ！もう、おたんちん……」",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_036.png",
+	"tags": null,
+	"expansionId": 286
 }

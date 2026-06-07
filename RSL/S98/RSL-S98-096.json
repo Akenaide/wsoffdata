@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何と醜い……感情に\u003cbr\u003eまみれた、こんな姿！！\u003cbr\u003e\u003cbr\u003eもっと見せろ！天堂真矢！！\u003cbr\u003e観客はそれが観たいのよ！",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の山札を上から5枚まで見て、トリガーアイコンに[SOUL]があるカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+		"あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の山札を上から5枚まで見て、トリガーアイコンに[[soul.gif]]があるカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RSL/S98-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_096.png",
+	"tags": null,
+	"expansionId": 402
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それ以上北関東を馬鹿にすると、貴様も石灰まぜてゆであげるぞ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。",
 		"【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×2000に等しい。"
@@ -25,8 +25,9 @@
 		"服",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_081.png",
+	"tags": null,
+	"expansionId": 117
 }

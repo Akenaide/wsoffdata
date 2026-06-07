@@ -15,16 +15,17 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんの事かわからない…名前はグッチョ………",
+	"trigger": null,
 	"ability": [
 		"【永】 他のキャラすべてに、次の2つの能力を与える。『【永】 このカードはサイドアタックできない。』『【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。』"
 	],
 	"specialAttrib": [
 		"スタンド使い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/SE42-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se42/jj_se42_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_se42/jj_se42_08.png",
+	"tags": null,
+	"expansionId": 435
 }

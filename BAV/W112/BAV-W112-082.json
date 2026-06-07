@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "土木、建設、撤去……工務が必要なときは、いつでも呼んでくれ。革命とストライキなら……なお歓迎だ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは次の行動を行ってよい。『あなたは自分の山札を見て《キヴォトス》のキャラを1枚まで選び、控え室に置き、その山札をシャッフルする。』"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"工務部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_082.png",
+	"tags": null,
+	"expansionId": 460
 }

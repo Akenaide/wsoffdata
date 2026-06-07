@@ -15,19 +15,19 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《だんご》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「桜舞い散る坂道」があるなら、あなたは自分の控え室のレベルＸ以下の、《Anniversary》か《だんご》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの控え室の「桜舞い散る坂道」の枚数に等しい。"
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《だんご》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「桜舞い散る坂道」があるなら、あなたは自分の控え室のレベルＸ以下の、《Anniversary》か《だんご》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの控え室の「桜舞い散る坂道」の枚数に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"演劇",
 		"だんご"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kcl/W78-003SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kcl_w78/kcl_w78_003sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kcl_w78/kcl_w78_003sp.png",
+	"tags": null,
+	"expansionId": 296
 }

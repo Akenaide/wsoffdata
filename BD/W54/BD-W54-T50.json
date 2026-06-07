@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アタシ達一人ひとりの音が混じって重なりあって、『音』が『音楽』になる瞬間……アタシはそれが大好きなんだ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［このカードを【レスト】する］ 他のあなたの《音楽》のキャラすべてに、そのターン中、パワーを＋500。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ 他のあなたの《音楽》のキャラすべてに、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-T50",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_t50.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_t50.png",
+	"tags": null,
+	"expansionId": 224
 }

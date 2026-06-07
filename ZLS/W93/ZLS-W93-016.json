@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フランシュシュがもっともーっとエターナルになるために\u003cbr\u003eここは６号がばーんと羽ばたかなくちゃって！",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"SAGA",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZLS/W93-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zls_w93/zls_w93_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zls_w93/zls_w93_016.png",
+	"tags": null,
+	"expansionId": 366
 }

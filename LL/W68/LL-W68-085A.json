@@ -15,8 +15,8 @@
 	"rarity": "UA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "凛の守護星は冥王星で、人を惹き付ける魅力を持ってるみたいなんだけど…凛にもあるのかな？",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「凛の絶好調」があるなら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"星"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-085A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_085a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_085a.png",
+	"tags": null,
+	"expansionId": 272
 }

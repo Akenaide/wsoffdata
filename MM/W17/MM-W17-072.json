@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あんたさぁ、いつまで強情張ってるわけ？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_072.png",
+	"tags": null,
+	"expansionId": 74
 }

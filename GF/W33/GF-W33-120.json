@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…やあ、来たか。これを撮影したとして、間に合いそうかな？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードが青のカードなら、そのターン中、このカードは次の能力を得る。『【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。』"
 	],
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-120",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_120.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_120.png",
+	"tags": null,
+	"expansionId": 131
 }

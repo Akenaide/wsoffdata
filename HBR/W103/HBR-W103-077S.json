@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"セラフ",
 		"第31F部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W103-077S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w103/hbr_w103_077s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w103/hbr_w103_077s.png",
+	"tags": null,
+	"expansionId": 408
 }

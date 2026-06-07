@@ -16,15 +16,16 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"-"
 	],
 	"specialAttrib": [
 		"カードゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WS/WSPR-P25",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/ws_wspr/ws_wspr_p25.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/ws_wspr/ws_wspr_p25.png",
+	"tags": null,
+	"expansionId": 11
 }

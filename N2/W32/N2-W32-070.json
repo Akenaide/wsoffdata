@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フェイトちゃん…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W32-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w32/n2_w32_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w32/n2_w32_070.png",
+	"tags": null,
+	"expansionId": 127
 }

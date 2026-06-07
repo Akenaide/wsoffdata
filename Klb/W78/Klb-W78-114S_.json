@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "幸せですか",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置いてよい。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは海外流通版のみの収録になります。\u003c/font\u003e"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置いてよい。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは海外流通版のみの収録になります。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W78-114S_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klb_w78/klb_w78_114s_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klb_w78/klb_w78_114s_.png",
+	"tags": null,
+	"expansionId": 296
 }

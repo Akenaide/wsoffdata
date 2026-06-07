@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あ、そっか。ふたつあるんだから、\u003cbr /\u003eお願い、ふたつあっていいんだよね",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"お菓子",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_069.png",
+	"tags": null,
+	"expansionId": 96
 }

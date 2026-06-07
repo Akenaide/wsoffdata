@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アラストール「対策はないが……」\u003cbr /\u003eシャナ「押し切る！」",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE15-18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we15/ss_we15_18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we15/ss_we15_18.png",
+	"tags": null,
+	"expansionId": 83
 }

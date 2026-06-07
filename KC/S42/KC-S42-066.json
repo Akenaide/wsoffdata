@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "練習巡洋艦、香取です。心配しないで…。\u003cbr\u003e色々と優しく、指導させて頂きますから",
+	"trigger": null,
 	"ability": [
-		"【自】［(2)］ このカードが手札から舞台に置かれた時、他のあなたの「香取型練習巡洋艦2番艦 鹿島」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】［(2)］ このカードが手札から舞台に置かれた時、他のあなたの「香取型練習巡洋艦2番艦 鹿島」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"練習巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_066.png",
+	"tags": null,
+	"expansionId": 173
 }

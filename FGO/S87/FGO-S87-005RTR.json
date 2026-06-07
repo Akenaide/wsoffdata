@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "005RTR",
@@ -15,8 +15,8 @@
 	"rarity": "RTR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "裁きに情があってはならない。\u003cbr\u003e彼の王はついに人の心を切り捨てたのだ……",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《カルデア》か《キャメロット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"キャメロット",
 		"円卓の騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-005RTR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_005rtr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_005rtr.png",
+	"tags": null,
+	"expansionId": 363
 }

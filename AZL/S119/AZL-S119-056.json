@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "殿！自分は龍驤、日の出ずる国の武士なり！七生を以って殿に忠義を尽くす所存です！",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の山札を見て《艦船》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 相手のアタックフェイズの始めに、あなたは自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の山札を見て《艦船》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"重桜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_056.png",
+	"tags": null,
+	"expansionId": 499
 }

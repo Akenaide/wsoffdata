@@ -10,21 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フカ次郎「しかも６発も！　ピトさんありがとう！　愛してるうっ！」",
+	"trigger": null,
 	"ability": [
-		"集中 このカードは、あなたの、《アバター》か《ネット》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"すべてのプレイヤーは自分の山札の上から3枚をめくり、控え室に置く。あなたのこの効果で控え室に置かれたキャラのパワーの合計が、相手のこの効果で控え室に置かれたキャラのパワーの合計以上なら、あなたは自分の控え室の、《アバター》か《ネット》のキャラを2枚まで選び、手札に戻す。"
+		"集中 このカードは、あなたの、《アバター》か《ネット》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003eすべてのプレイヤーは自分の山札の上から3枚をめくり、控え室に置く。あなたのこの効果で控え室に置かれたキャラのパワーの合計が、相手のこの効果で控え室に置かれたキャラのパワーの合計以上なら、あなたは自分の控え室の、《アバター》か《ネット》のキャラを2枚まで選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GGO/SE50-36",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_36.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_se50/ggo_se50_36.png",
+	"tags": null,
+	"expansionId": 508
 }

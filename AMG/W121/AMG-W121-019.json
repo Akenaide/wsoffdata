@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 記憶 このカードがアタックした時、あなたの思い出置場に「縁結びの組紐」があるなら、そのターン中、このカードのパワーを＋3000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 記憶 このカードがアタックした時、あなたの思い出置場に「縁結びの組紐」があるなら、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"縁",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AMG/W121-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/amg_w121/amg_w121_019.png",
+	"tags": null,
+	"expansionId": 512
 }

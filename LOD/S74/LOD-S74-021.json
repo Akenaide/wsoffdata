@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あの…団長様？私のメガネを見かけませんでしたか？\u003cbr\u003eああ、これではなく、予備のメガネです",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《冒険者》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードがアタックした時、あなたは自分の《冒険者》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《冒険者》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《冒険者》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《冒険者》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《冒険者》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_021.png",
+	"tags": null,
+	"expansionId": 297
 }

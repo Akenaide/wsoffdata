@@ -10,21 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私たち、最高のパートナーになりましょう",
+	"trigger": null,
 	"ability": [
-		"あなたは相手の手札を見る。",
-		"あなたは自分の山札を見て《ファンタジア文庫》か《スパイ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"あなたは自分の、《ファンタジア文庫》か《スパイ》のキャラを1枚選び、そのターン中、パワーを＋2500。"
+		"あなたは相手の手札を見る。\u003cbr\u003eあなたは自分の山札を見て《ファンタジア文庫》か《スパイ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003eあなたは自分の、《ファンタジア文庫》か《スパイ》のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Fsp/W120-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsp_w120/fsp_w120_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsp_w120/fsp_w120_033.png",
+	"tags": null,
+	"expansionId": 489
 }

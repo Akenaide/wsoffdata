@@ -1,6 +1,6 @@
 {
 	"set": "HLL",
-	"setName": "「ひなろじ ～from Luck ＆ Logic～」Vol.1",
+	"setName": " 「ひなろじ ～from Luck ＆ Logic～」Vol.1",
 	"side": "W",
 	"release": "E28",
 	"id": "50",
@@ -8,24 +8,24 @@
 	"jpName": "“ゲートアクセス!!ジスフィア!”",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "出番ですわよ！七宝！",
 	"trigger": [
 		"DRAW"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[draw.gif]]：このカードがトリガーした時、あなたは1枚引いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "HLL/WE28-50",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we28/hll_we28_50.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we28/hll_we28_50.png",
+	"tags": null,
+	"expansionId": 210
 }

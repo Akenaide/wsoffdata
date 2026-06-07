@@ -15,21 +15,21 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "やっぱ勇者っつったら剣だろ。オレっちの剣捌き、見とけよ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 あなたの思い出置場に「“ストレガ”チドリ」があるなら、このカードのパワーを＋4500。",
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《リロード》か《魔法》か《武器》のキャラの枚数×1000に等しい。"
+		"【永】 記憶 あなたの思い出置場に「“ストレガ”チドリ」があるなら、このカードのパワーを＋4500。\u003cbr\u003e【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《リロード》か《魔法》か《武器》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"リロード",
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SE46-38",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_38.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_se46/p3_se46_38.png",
+	"tags": null,
+	"expansionId": 469
 }

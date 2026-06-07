@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの、《Celebration》か《Disney》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】【CXコンボ】［あなたのクライマックス置場の「ライオン・キング」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の2つの能力を得る。『【永】 このカードは相手の効果に選ばれない。』『【永】 大活躍』"
+		"【永】 あなたの、《Celebration》か《Disney》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】【CXコンボ】［あなたのクライマックス置場の「ライオン・キング」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の2つの能力を得る。『【永】 このカードは相手の効果に選ばれない。』『【永】 大活躍』"
 	],
 	"specialAttrib": [
 		"Celebration",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Dds/S104-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_006.png",
+	"tags": null,
+	"expansionId": 420
 }

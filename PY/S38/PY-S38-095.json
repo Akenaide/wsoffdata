@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほらほら、どいてどいて！\u003cbr/\u003eそこもお掃除したいの！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"家事"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_095.png",
+	"tags": null,
+	"expansionId": 160
 }

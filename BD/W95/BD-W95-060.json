@@ -8,14 +8,14 @@
 	"jpName": "言葉にできないもの",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "巴「今度作る曲は、『みんなで案を出し合いながら』って、つぐが言ったろ？」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のレベル1以下のキャラを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W95-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_060.png",
+	"tags": null,
+	"expansionId": 382
 }

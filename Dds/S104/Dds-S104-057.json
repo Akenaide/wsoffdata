@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】［このカードを控え室に置く］ 他のあなたの、《Celebration》か《Disney》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
-		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。』"
+		"【自】［このカードを控え室に置く］ 他のあなたの、《Celebration》か《Disney》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。\u003cbr\u003e【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。』"
 	],
 	"specialAttrib": [
 		"Celebration",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Dds/S104-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_057.png",
+	"tags": null,
+	"expansionId": 420
 }

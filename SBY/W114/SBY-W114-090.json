@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-		"【自】［このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「謎の少女 ランドセルガール」を1枚まで選び、このカードがいた枠に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】［このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「謎の少女 ランドセルガール」を1枚まで選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"ランドセル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W114-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w114/sby_w114_090.png",
+	"tags": null,
+	"expansionId": 463
 }

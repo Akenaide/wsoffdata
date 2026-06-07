@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "素人……？俺は素人ではない。専門家だ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《ファンタジア文庫》か《ミスリル》のキャラの枚数×500に等しい。"
 	],
@@ -25,8 +25,9 @@
 		"ミスリル",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ffp/W65-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ffp_w65/ffp_w65_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ffp_w65/ffp_w65_030.png",
+	"tags": null,
+	"expansionId": 264
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なななななっ いつっ！気付いてっ!?",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「鉛玉のプレゼント予告？」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードすべてが《ラビットハウス》か《Dear My Sister》のキャラなら、あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置き、自分の控え室のレベル1以下のキャラを1枚まで選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W57-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w57/gu_w57_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w57/gu_w57_046.png",
+	"tags": null,
+	"expansionId": 221
 }

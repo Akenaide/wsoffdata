@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さあ、断罪の時間だ！！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE15-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se15/p4_se15_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se15/p4_se15_34.png",
+	"tags": null,
+	"expansionId": 91
 }

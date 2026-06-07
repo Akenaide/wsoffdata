@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "才川リコ「2人の恋を応援するのよ！」",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《人間》か《ドラゴン》のキャラを1枚選び、手札に戻し、他の自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ドラゴン",
 		"小学生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMD/W96-T02R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t02r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmd_w96/kmd_w96_t02r.png",
+	"tags": null,
+	"expansionId": 385
 }

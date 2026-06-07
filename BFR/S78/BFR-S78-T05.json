@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さすがはストレングス極振り！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"盾"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BFR/S78-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bfr_s78/bfr_s78_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bfr_s78/bfr_s78_t05.png",
+	"tags": null,
+	"expansionId": 312
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "終わることは許されないというわけか",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《葬儀社》かカード名に「真名」を含むキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"葬儀社",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-123",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_123.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_123.png",
+	"tags": null,
+	"expansionId": 13
 }

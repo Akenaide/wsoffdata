@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[STANDBY]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[[standby.gif]]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"SAGA",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZLS/W93-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zls_w93/zls_w93_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zls_w93/zls_w93_057.png",
+	"tags": null,
+	"expansionId": 366
 }

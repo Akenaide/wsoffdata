@@ -15,19 +15,19 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "秘技！　ビー玉転がし！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードとバトルしているレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-		"【自】 【CXコンボ】 このカードがアタックした時、クライマックス置場に「たった一つの取り柄」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
+		"【自】 このカードとバトルしているレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\u003cbr\u003e【自】 【CXコンボ】 このカードがアタックした時、クライマックス置場に「たった一つの取り柄」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"ビー玉"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WC02-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_wc02/lb_wc02_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_wc02/lb_wc02_031.png",
+	"tags": null,
+	"expansionId": 358
 }

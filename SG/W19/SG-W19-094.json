@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "奏「あたしとあんた、両翼揃ったツヴァイウィングは、\u003cbr /\u003eどこまでも遠くへ飛んでいける！」",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W19-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w19/sg_w19_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w19/sg_w19_094.png",
+	"tags": null,
+	"expansionId": 79
 }

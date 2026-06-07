@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "テメェとオレは白と黒、表と裏、光と闇。ぶっ潰すか、ぶっ潰されるか…それだけだ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"不良"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_t03.png",
+	"tags": null,
+	"expansionId": 53
 }

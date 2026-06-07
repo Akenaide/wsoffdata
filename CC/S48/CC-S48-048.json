@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "皆さんとの絆を信じていますから",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《マナ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「チェインクロニクルの力」が置かれた時、前列にこのカードがいて、あなたの手札が5枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト0以下のキャラを2枚まで選び、舞台の別々の枠に置く。"
+		"【永】 他のあなたの《マナ》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「チェインクロニクルの力」が置かれた時、前列にこのカードがいて、あなたの手札が5枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト0以下のキャラを2枚まで選び、舞台の別々の枠に置く。"
 	],
 	"specialAttrib": [
 		"マナ",
 		"年代記"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_048.png",
+	"tags": null,
+	"expansionId": 193
 }

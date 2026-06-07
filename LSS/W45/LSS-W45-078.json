@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせない。』"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W45-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w45/lss_w45_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w45/lss_w45_078.png",
+	"tags": null,
+	"expansionId": 179
 }

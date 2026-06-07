@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "皆さま、甘いものはお好きですか？",
+	"trigger": null,
 	"ability": [
 		"【自】 加速 ［あなたの控え室の《音楽》のキャラを1枚クロック置場の下に置く］ 相手のクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_078.png",
+	"tags": null,
+	"expansionId": 286
 }

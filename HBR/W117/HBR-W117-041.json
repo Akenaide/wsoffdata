@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ご褒美だ！",
+	"trigger": null,
 	"ability": [
-		"【起】［(1) 手札を1枚控え室に置き、このカードを山札の下に置く］ あなたのレベルが2以上なら、あなたは自分の手札の「ピンチで最高 大島 六宇亜」を1枚まで選び、このカードがいた枠に置く。",
-		"【起】［(1) 他のあなたの《セラフ》のキャラを1枚とこのカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。このカードは次のあなたのスタンドフェイズに【スタンド】しない。"
+		"【起】［(1) 手札を1枚控え室に置き、このカードを山札の下に置く］ あなたのレベルが2以上なら、あなたは自分の手札の「ピンチで最高 大島 六宇亜」を1枚まで選び、このカードがいた枠に置く。\u003cbr\u003e【起】［(1) 他のあなたの《セラフ》のキャラを1枚とこのカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。このカードは次のあなたのスタンドフェイズに【スタンド】しない。"
 	],
 	"specialAttrib": [
 		"セラフ",
 		"第31E部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W117-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w117/hbr_w117_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w117/hbr_w117_041.png",
+	"tags": null,
+	"expansionId": 482
 }

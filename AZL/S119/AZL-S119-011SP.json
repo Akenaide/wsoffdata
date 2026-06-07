@@ -15,7 +15,7 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"艦船",
 		"ロイヤル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-011SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_011sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_011sp.png",
+	"tags": null,
+	"expansionId": 499
 }

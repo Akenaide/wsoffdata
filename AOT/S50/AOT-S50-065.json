@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰かがやらなくちゃいけないんだよ……誰かが自分の手を血で染めないと……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《兵団》か《巨人》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"巨人",
 		"兵団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S50-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s50/aot_s50_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s50/aot_s50_065.png",
+	"tags": null,
+	"expansionId": 207
 }

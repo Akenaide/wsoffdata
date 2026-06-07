@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "どうした。何かあったのか？",
 	"trigger": [
 		"SOUL"
 	],
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_025.png",
+	"tags": null,
+	"expansionId": 58
 }

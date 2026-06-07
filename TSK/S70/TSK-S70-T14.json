@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…私の旅の目的は…\u003cbr\u003e私を召喚した男を探すこと…",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの《魔大陸》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【自】 他のあなたの《魔大陸》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_t14.png",
+	"tags": null,
+	"expansionId": 281
 }

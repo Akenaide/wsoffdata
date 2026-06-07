@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "早く雨がやみますように",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードを思い出にする。あなたは相手のバトル中のキャラを1枚選び、そのターン中、ソウルを＋Ｘ。Ｘはあなたの思い出置場の「小鳥さんのてるてる坊主」の枚数×4に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S30-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_097.png",
+	"tags": null,
+	"expansionId": 129
 }

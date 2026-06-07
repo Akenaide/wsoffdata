@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サレンさんのお店の新人さんかしら。ご機嫌よう",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚と、そのキャラ以外の相手の前列のキャラを1枚選び、それぞれを【スタンド】して入れ替える。"
 	],
@@ -24,8 +24,9 @@
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W84-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w84/prd_w84_032.png",
+	"tags": null,
+	"expansionId": 320
 }

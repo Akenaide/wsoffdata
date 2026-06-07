@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "役目を終えたものは、ただ消えゆく",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、相手のキャラが3枚以下なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_082.png",
+	"tags": null,
+	"expansionId": 58
 }

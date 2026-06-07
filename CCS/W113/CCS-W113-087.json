@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［手札のイベントを1枚控え室に置き、このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［手札のイベントを1枚控え室に置き、このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"さくらカード編",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W113-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w113/ccs_w113_087.png",
+	"tags": null,
+	"expansionId": 461
 }

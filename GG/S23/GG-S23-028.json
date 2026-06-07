@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "レド少尉、貴官の抵抗は無意味である",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《軍隊》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"メカ",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_028.png",
+	"tags": null,
+	"expansionId": 101
 }

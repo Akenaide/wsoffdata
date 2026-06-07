@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ノイズを皆殺せるのなら、\u003cbr\u003eあたしは喜んで地獄に落ちるッ！",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
-		"【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W72-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w72/sg_w72_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w72/sg_w72_063.png",
+	"tags": null,
+	"expansionId": 275
 }

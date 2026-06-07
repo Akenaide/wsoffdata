@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "青い空に白い雲、大きく広がる海…これこそまさに夏、という感じですよ～",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-131",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_131.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_131.png",
+	"tags": null,
+	"expansionId": 131
 }

@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "遅いよ、なのは…！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「なのは」を含むキャラがいるなら、このカードは次の能力を得る。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N1/WE06-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n1_we06/n1_we06_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n1_we06/n1_we06_16.png",
+	"tags": null,
+	"expansionId": 37
 }

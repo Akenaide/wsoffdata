@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "気がついたら操り人形だ。逃れることなんかできねえ…糸から逃れた人形は……",
+	"trigger": null,
 	"ability": [
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】 共鳴 ［(1) 手札の「“ミスターブラウンの愛娘”天王寺 綯」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から4枚まで見て、《ラボメン》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】 共鳴 ［(1) 手札の「“ミスターブラウンの愛娘”天王寺 綯」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から4枚まで見て、《ラボメン》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"筋肉"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-041b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_041b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_041b.png",
+	"tags": null,
+	"expansionId": 243
 }

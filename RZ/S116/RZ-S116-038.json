@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "王選の最中にこんな大変なことだけど…。でも、生まれてくる赤ちゃんは悪くないし、幸せにしてあげたいのっ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かアタックした時、あなたは自分の、《魔法》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S116-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s116/rz_s116_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s116/rz_s116_038.png",
+	"tags": null,
+	"expansionId": 492
 }

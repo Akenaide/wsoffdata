@@ -15,20 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "身内びいきと分析の末に…\u003cbr\u003eヴィヴィオさんの判定勝ちで",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のターン中、他のあなたの《格闘》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【永】 他のあなたの《格闘》のキャラが2枚以上なら、このカードはサイドアタックしてもソウルが減少しない。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の「ハリー・トライベッカ」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
+		"【永】 相手のターン中、他のあなたの《格闘》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【永】 他のあなたの《格闘》のキャラが2枚以上なら、このカードはサイドアタックしてもソウルが減少しない。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の「ハリー・トライベッカ」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"格闘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_016.png",
+	"tags": null,
+	"expansionId": 200
 }

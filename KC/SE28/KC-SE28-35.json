@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《深海棲艦》なら、このカードのパワーを＋1000。",
-		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+		"【永】 あなたのキャラすべてが《深海棲艦》なら、このカードのパワーを＋1000。\u003cbr\u003e【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"深海棲艦",
 		"補給艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/SE28-35",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_se28/kc_se28_35.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_se28/kc_se28_35.png",
+	"tags": null,
+	"expansionId": 157
 }

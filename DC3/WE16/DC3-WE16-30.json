@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "無論、この謎の解明に乗り出すのだろう？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《新聞》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE16-30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we16/dc3_we16_30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we16/dc3_we16_30.png",
+	"tags": null,
+	"expansionId": 99
 }

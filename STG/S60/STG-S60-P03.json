@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まゆり「うん、楽しいよ！」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ラボメン",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_p03.png",
+	"tags": null,
+	"expansionId": 13
 }

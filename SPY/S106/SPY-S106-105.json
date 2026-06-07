@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの《バーリント市》のキャラがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、他のあなたの《バーリント市》のキャラがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"バーリント市",
 		"殺し屋"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SPY/S106-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/spy_s106/spy_s106_105.png",
+	"tags": null,
+	"expansionId": 433
 }

@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここには他に誰もいないわよ？次は何をするか…楽しみにしてるわ。ふふ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かこのカードがアタックした時、あなたは自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"艦船",
 		"鉄血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-078S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_078s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_078s.png",
+	"tags": null,
+	"expansionId": 499
 }

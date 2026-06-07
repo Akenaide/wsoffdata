@@ -15,18 +15,18 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "必殺……キネティック、スラーッシュ！……ふぅ、やったぁ♪思ったよりいい勝負だったけど、わたしのほうが上手だったね。",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラとこのカードはサイドアタックできない。』",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラとこのカードはサイドアタックできない。』\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"オシャレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-021BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_021bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_021bnp.png",
+	"tags": null,
+	"expansionId": 392
 }

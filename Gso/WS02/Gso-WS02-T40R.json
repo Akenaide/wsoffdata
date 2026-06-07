@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を上から4枚まで見て、《電撃文庫》か《フラクトライト》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Gso/WS02-T40R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gso_ws02_t40r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gso_ws02_t40r.png",
+	"tags": null,
+	"expansionId": 438
 }

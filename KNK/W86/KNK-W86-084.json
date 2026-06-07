@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "クリスマスも近いですし！",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《かのかり》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《かのかり》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_084.png",
+	"tags": null,
+	"expansionId": 322
 }

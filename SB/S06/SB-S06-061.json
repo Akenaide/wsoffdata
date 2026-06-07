@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "政宗「オレかアンタ、最後に立つのはどちらか一人！」",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_061.png",
+	"tags": null,
+	"expansionId": 28
 }

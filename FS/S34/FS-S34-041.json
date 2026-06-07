@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの、《スポーツ》か《武器》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-		""
+		"【自】 他のあなたの、《スポーツ》か《武器》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_041.png",
+	"tags": null,
+	"expansionId": 139
 }

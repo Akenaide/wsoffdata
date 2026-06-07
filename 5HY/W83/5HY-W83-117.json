@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたは相手の前列のキャラを1枚選び、前列のキャラのいない他の枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"五つ子",
 		"ヘッドホン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-117",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_117.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_117.png",
+	"tags": null,
+	"expansionId": 309
 }

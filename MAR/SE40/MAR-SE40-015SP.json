@@ -15,17 +15,17 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下にマーカーがないなら、このカードのパワーを－7500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「Iron Man Armor」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+		"【永】 このカードの下にマーカーがないなら、このカードのパワーを－7500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「Iron Man Armor」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/SE40-015SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_015sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_se40/mar_se40_015sp.png",
+	"tags": null,
+	"expansionId": 413
 }

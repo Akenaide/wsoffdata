@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっと！アンタ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《警察》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"警察",
 		"ドレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE11-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se11/mk_se11_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se11/mk_se11_15.png",
+	"tags": null,
+	"expansionId": 69
 }

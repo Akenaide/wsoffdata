@@ -8,14 +8,14 @@
 	"jpName": "銀の鍵",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "皆が救われるなら……私はこの身を捧げます……それが……私の真の願いです",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Fra/W65-T20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fra_w65/fra_w65_t20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fra_w65/fra_w65_t20.png",
+	"tags": null,
+	"expansionId": 263
 }

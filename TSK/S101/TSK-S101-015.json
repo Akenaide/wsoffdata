@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "勝負には負けたが、まだオレたちは生きている。次に勝てば問題なかろう",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かアタックした時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－500。"
 	],
@@ -24,8 +24,9 @@
 		"魔大陸",
 		"真面目"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S101-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s101/tsk_s101_015.png",
+	"tags": null,
+	"expansionId": 412
 }

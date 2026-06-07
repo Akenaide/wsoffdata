@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Leo/need"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-P32",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p32.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_p32.png",
+	"tags": null,
+	"expansionId": 13
 }

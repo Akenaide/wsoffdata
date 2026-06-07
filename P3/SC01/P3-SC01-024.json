@@ -8,14 +8,14 @@
 	"jpName": "復讐の終わり",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "…さよなら…母さん。僕は、もう大丈夫だから…",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P3/SC01-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_024.png",
+	"tags": null,
+	"expansionId": 340
 }

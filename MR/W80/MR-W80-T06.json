@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "レナちゃんって、落ち込むと\u003cbr\u003eすぐももこちゃんに変身するよね",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"魔法",
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W80-T06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w80/mr_w80_t06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w80/mr_w80_t06.png",
+	"tags": null,
+	"expansionId": 300
 }

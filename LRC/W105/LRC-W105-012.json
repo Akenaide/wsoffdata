@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"リコリコ",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/W105-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_w105/lrc_w105_012.png",
+	"tags": null,
+	"expansionId": 426
 }

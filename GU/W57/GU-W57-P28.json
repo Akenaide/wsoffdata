@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この歌をあなたに届けます",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《ラビットハウス》か《Dear My Sister》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W57-P28",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w57/gu_w57_p28.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w57/gu_w57_p28.png",
+	"tags": null,
+	"expansionId": 12
 }

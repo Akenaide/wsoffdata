@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうしたの？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、相手は自分の山札を上から1枚見て、山札の上に置くか手札に加える。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"タロット",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_079.png",
+	"tags": null,
+	"expansionId": 106
 }

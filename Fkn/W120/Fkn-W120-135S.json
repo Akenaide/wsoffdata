@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "神様がこの世界を捨てるのなら。私がそれを貰います！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
@@ -24,8 +24,9 @@
 		"ファンタジア文庫",
 		"墓守"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fkn/W120-135S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fkn_w120/fkn_w120_135s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fkn_w120/fkn_w120_135s.png",
+	"tags": null,
+	"expansionId": 489
 }

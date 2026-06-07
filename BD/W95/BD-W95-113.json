@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はぁぁ、緊張して損した！\u003cbr\u003eもっと劇的なことが書いてあると思ったし！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《Poppin\u0026#39;Party》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《Poppin\u0026#39;Party》のキャラの枚数×500に等しい。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《Poppin'Party》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《Poppin'Party》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-113",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_113.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_113.png",
+	"tags": null,
+	"expansionId": 382
 }

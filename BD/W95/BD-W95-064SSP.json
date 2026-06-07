@@ -15,22 +15,21 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《Poppin\u0026#39;Party》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 このカードが、手札か山札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
-		"【自】【CXコンボ】［(2)］ このカードのアタックの終わりに、クライマックス置場に「ついに来ちゃったね！」があり、他のあなたの、《Anniversary》か《Poppin\u0026#39;Party》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、次の相手のターンの終わりまで、このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。（ダメージキャンセルは発生する）"
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《Poppin'Party》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードが、手札か山札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。\u003cbr\u003e【自】【CXコンボ】［(2)］ このカードのアタックの終わりに、クライマックス置場に「ついに来ちゃったね！」があり、他のあなたの、《Anniversary》か《Poppin'Party》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、次の相手のターンの終わりまで、このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-064SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_064ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_064ssp.png",
+	"tags": null,
+	"expansionId": 382
 }

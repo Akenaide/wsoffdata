@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…で、これはこんな感じでいいのか？　ふ～む、これでは少々バランスが悪いな…ん？",
+	"trigger": null,
 	"ability": [
-		"【自】 ［(2)］ あなたがこのカードの『助太刀』を使った時、あなたの青のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、ソウルを－1。",
-		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+		"【自】 ［(2)］ あなたがこのカードの『助太刀』を使った時、あなたの青のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、ソウルを－1。\u003cbr\u003e【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-129",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_129.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_129.png",
+	"tags": null,
+	"expansionId": 131
 }

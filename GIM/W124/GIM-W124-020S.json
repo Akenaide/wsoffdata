@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以上のキャラを1枚選び、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お嬢様"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GIM/W124-020S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_020s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_020s.png",
+	"tags": null,
+	"expansionId": 514
 }

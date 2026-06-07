@@ -10,21 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SEC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、色条件を満たさずに手札からプレイできる。",
-		"あなたは自分の控え室の、《Anniversary》か《プログレッシブ》のキャラを1枚選び、手札に戻す。",
-		"あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
+		"このカードは、色条件を満たさずに手札からプレイできる。\u003cbr\u003eあなたは自分の控え室の、《Anniversary》か《プログレッシブ》のキャラを1枚選び、手札に戻す。\u003cbr\u003eあなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SAO/S100-020SEC",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_020sec.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_020sec.png",
+	"tags": null,
+	"expansionId": 405
 }

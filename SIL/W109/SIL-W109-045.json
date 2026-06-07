@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "体調崩してない？私？私はもちろん完璧よ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SIL/W109-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sil_w109/sil_w109_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sil_w109/sil_w109_045.png",
+	"tags": null,
+	"expansionId": 448
 }

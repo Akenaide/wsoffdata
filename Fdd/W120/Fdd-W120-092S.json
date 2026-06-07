@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを手札に戻す］ あなたのCXがCX置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』"
 	],
@@ -25,8 +25,9 @@
 		"悪魔",
 		"女王"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fdd/W120-092S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdd_w120/fdd_w120_092s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fdd_w120/fdd_w120_092s.png",
+	"tags": null,
+	"expansionId": 489
 }

@@ -8,25 +8,26 @@
 	"jpName": "迷子の転校生",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "だ、だめですっ、助けてくださいっ！\u003cbr /\u003e降りられませんからっ",
 	"trigger": [
 		"SOUL",
 		"SHOT"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[SHOT]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）"
+		"（[[shot.gif]]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RW/W15-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_030.png",
+	"tags": null,
+	"expansionId": 65
 }

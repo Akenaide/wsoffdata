@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もしここにウチの生徒がいたら後で困るんじゃない？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-T15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_t15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_t15.png",
+	"tags": null,
+	"expansionId": 219
 }

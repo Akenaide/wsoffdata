@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この小さな手帳が、おそらく私の遺品になるだろう",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《グリザイア》のキャラすべてに、パワーを＋500。",
-		"【自】【CXコンボ】 あなたのCX置場に「甘い覚悟」が置かれた時、他のあなたの《グリザイア》のキャラが2枚以上なら、あなたは自分の控え室のレベル0以下の《グリザイア》のキャラを1枚選び、舞台の好きな枠に置いてよい。"
+		"【永】 他のあなたの《グリザイア》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】【CXコンボ】 あなたのCX置場に「甘い覚悟」が置かれた時、他のあなたの《グリザイア》のキャラが2枚以上なら、あなたは自分の控え室のレベル0以下の《グリザイア》のキャラを1枚選び、舞台の好きな枠に置いてよい。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_050.png",
+	"tags": null,
+	"expansionId": 472
 }

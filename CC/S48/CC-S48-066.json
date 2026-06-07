@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わが杖に宿りて、彼のものに生ける鼓動を与えん",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のパワー1000以下のキャラを1枚選び、控え室に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"マナ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_066.png",
+	"tags": null,
+	"expansionId": 193
 }

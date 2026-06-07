@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "このすば――",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、相手は2枚引いてよい。そうしたら、相手は自分の手札を2枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_104.png",
+	"tags": null,
+	"expansionId": 192
 }

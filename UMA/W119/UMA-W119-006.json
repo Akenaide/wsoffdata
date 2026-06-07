@@ -1,6 +1,6 @@
 {
 	"set": "UMA",
-	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"setName": " 劇場版『ウマ娘 プリティーダービー 新時代の扉』",
 	"side": "W",
 	"release": "119",
 	"id": "006",
@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがダイレクトアタックした時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W119-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w119/uma_w119_006.png",
+	"tags": null,
+	"expansionId": 486
 }

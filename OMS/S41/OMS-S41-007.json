@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いちいち手間だからお財布ちょうだい",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが黄のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"おでん"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_007.png",
+	"tags": null,
+	"expansionId": 171
 }

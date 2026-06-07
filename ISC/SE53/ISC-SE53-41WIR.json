@@ -15,8 +15,8 @@
 	"rarity": "WIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ストレイライト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/SE53-41WIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_se53/isc_se53_41wir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_se53/isc_se53_41wir.png",
+	"tags": null,
+	"expansionId": 528
 }

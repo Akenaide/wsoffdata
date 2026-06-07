@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今回の映画制作も超楽しかったし！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《かのかり》のキャラの枚数×2000に等しい。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《かのかり》のキャラの枚数×2000に等しい。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"ダイアモンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W132-032S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_032s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w132/knk_w132_032s.png",
+	"tags": null,
+	"expansionId": 531
 }

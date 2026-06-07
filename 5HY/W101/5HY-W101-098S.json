@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたのカード名に「二乃」を含むキャラが5枚以上なら、あなたは自分のクロック置場のカード名に「二乃」を含むキャラを2枚まで選び、手札に戻す。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "5HY/W101-098S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w101/5hy_w101_098s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w101/5hy_w101_098s.png",
+	"tags": null,
+	"expansionId": 399
 }

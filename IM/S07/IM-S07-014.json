@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しょうがないわねぇ。ここは私にまかせなさい！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、他のあなたのこのカード以上のパワーのキャラがいないなら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_014.png",
+	"tags": null,
+	"expansionId": 29
 }

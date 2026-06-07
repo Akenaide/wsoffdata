@@ -15,7 +15,7 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "駄目です。今日は兄さん、わたしの言うことを\u003cbr /\u003e何でも聞くって約束ですからね",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"魔法",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/WE08-75",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we08/dc_we08_75.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we08/dc_we08_75.png",
+	"tags": null,
+	"expansionId": 12
 }

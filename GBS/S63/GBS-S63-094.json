@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これ、見てください、これ…",
+	"trigger": null,
 	"ability": [
-		"このカードを思い出にする。",
-		"【自】 記憶 ［このカードを控え室に置く］ あなたがレベルアップした時、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《秩序》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"このカードを思い出にする。\u003cbr\u003e【自】 記憶 ［このカードを控え室に置く］ あなたがレベルアップした時、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《秩序》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GBS/S63-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_094.png",
+	"tags": null,
+	"expansionId": 260
 }

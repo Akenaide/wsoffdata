@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "香子「せやから、双葉はんもくるんやで」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの下にマーカーがないなら、このカードのパワーを－7500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「入学の誘い 石動 双葉」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 このカードの下にマーカーがないなら、このカードのパワーを－7500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「入学の誘い 石動 双葉」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"レヴュー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_028.png",
+	"tags": null,
+	"expansionId": 250
 }

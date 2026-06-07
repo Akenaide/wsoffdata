@@ -15,20 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "頼りにしてよ 友達なんだから。",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《変身》か《家事》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 他のあなたの、《変身》か《家事》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"家事",
 		"ランドセル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-032SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_032sp_2.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_032sp_2.png",
+	"tags": null,
+	"expansionId": 150
 }

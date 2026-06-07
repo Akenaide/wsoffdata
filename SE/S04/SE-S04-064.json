@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "思ったより、やるようだな。楽しませてくれる",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_064.png",
+	"tags": null,
+	"expansionId": 14
 }

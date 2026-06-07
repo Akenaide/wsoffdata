@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『おじいちゃんは言ったわ。母さんは自分たちの大切なたからものなんだって』",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアンコールステップの始めに、あなたは自分の山札の上から1枚を控え室に置く。そのカードのレベルが0以下なら、このカードを控え室に置く。（クライマックスのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S47-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s47/sao_s47_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s47/sao_s47_013.png",
+	"tags": null,
+	"expansionId": 189
 }

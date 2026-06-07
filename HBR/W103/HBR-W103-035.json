@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "海の研究者は強いのさー",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《セラフ》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－500。",
-		"【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、自分のストックすべてを見る。（見たカードは元の順番で戻す）"
+		"【永】 他のあなたの《セラフ》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－500。\u003cbr\u003e【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、自分のストックすべてを見る。（見たカードは元の順番で戻す）"
 	],
 	"specialAttrib": [
 		"セラフ",
 		"第31D部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W103-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w103/hbr_w103_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w103/hbr_w103_035.png",
+	"tags": null,
+	"expansionId": 408
 }

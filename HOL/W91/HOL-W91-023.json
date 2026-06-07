@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "止めに行きます？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-		"【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは自分の山札の上から1枚を、控え室に置く。あなたのこの効果で控え室に置かれたカードのレベルが相手のこの効果で控え室に置かれたカードのレベルより高いなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。（クライマックスのレベルは0として扱う）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは自分の山札の上から1枚を、控え室に置く。あなたのこの効果で控え室に置かれたカードのレベルが相手のこの効果で控え室に置かれたカードのレベルより高いなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。（クライマックスのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"4期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_023.png",
+	"tags": null,
+	"expansionId": 357
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "穂乃果「新生スクールアイドル、\u003cbr /\u003eμ'sの練習を始めたいと思います」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのレベルを＋1し、パワーを＋1000。",
 		"【永】 あなたが自分のキャラの『チェンジ』のコストを払う時、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。",
@@ -26,8 +26,9 @@
 		"音楽",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W24-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w24/ll_w24_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w24/ll_w24_079.png",
+	"tags": null,
+	"expansionId": 98
 }

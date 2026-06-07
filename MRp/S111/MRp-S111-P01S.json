@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かアタックした時、あなたは自分の、《Mirrorverse》か《PIXAR》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"Mirrorverse",
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRp/S111-P01S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrp_s111_p01s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrp_s111_p01s.png",
+	"tags": null,
+	"expansionId": 13
 }

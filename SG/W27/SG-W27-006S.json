@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
 		"【起】［(1) あなたの《音楽》のキャラを2枚【レスト】する］ あなたは相手のレベル0以下のキャラを1枚選び、ストック置場に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W27-006S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w27/sg_w27_006s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w27/sg_w27_006s.png",
+	"tags": null,
+	"expansionId": 107
 }

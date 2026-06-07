@@ -15,17 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうだね翼くん。せっかく来たんだもん、楽しも―よ、いろいろ忘れて",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KR/SE30-52",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kr_se30/kr_se30_52.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kr_se30/kr_se30_52.png",
+	"tags": null,
+	"expansionId": 172
 }

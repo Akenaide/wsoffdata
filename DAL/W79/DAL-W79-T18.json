@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "3は理にかなっているし、会話の主導権を握ることができる",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの、《デート》か《精霊》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+		"このカードは、あなたの、《デート》か《精霊》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DAL/W79-T18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_t18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_t18.png",
+	"tags": null,
+	"expansionId": 299
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アリカ「ニナちゃん、いっくよ～っ！」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"エレメント",
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MH/WE05-04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mh_we05/mh_we05_04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mh_we05/mh_we05_04.png",
+	"tags": null,
+	"expansionId": 30
 }

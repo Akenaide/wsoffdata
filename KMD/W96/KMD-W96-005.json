@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。",
-		"【起】［このカードを【レスト】する］ あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の、《人間》か《ドラゴン》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"人間",
 		"社畜SE"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMD/W96-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmd_w96/kmd_w96_005.png",
+	"tags": null,
+	"expansionId": 386
 }

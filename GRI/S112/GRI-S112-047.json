@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺は俺より弱ぇー奴に殺されるのは真っ平ゴメンだって言ってるだけだ",
+	"trigger": null,
 	"ability": [
 		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋2し、このカードは次の3つの能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2以上なら、そのターン中、このカードのパワーを＋6000。』『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』『【自】 ターンの終わりに、このカードを思い出にする。』"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_047.png",
+	"tags": null,
+	"expansionId": 472
 }

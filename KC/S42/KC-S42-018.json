@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたいかい？　でーるよ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_018.png",
+	"tags": null,
+	"expansionId": 173
 }

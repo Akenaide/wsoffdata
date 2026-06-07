@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハン・ソロ「チューイか！降りて来い」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「“ミレニアム・ファルコンの船長”ハン・ソロ」すべてに、パワーを＋1000。",
 		"【自】 絆／「“ミレニアム・ファルコンの船長”ハン・ソロ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ミレニアム・ファルコンの船長”ハン・ソロ」を1枚選び、手札に戻す）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ジェダイの帰還"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_012.png",
+	"tags": null,
+	"expansionId": 199
 }

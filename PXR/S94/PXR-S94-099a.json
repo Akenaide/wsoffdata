@@ -8,24 +8,24 @@
 	"jpName": "あの夏のルカ",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"DRAW"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[draw.gif]]：このカードがトリガーした時、あなたは1枚引いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PXR/S94-099a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s94/pxr_s94_099a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s94/pxr_s94_099a.png",
+	"tags": null,
+	"expansionId": 403
 }

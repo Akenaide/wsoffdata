@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【自】 あなたのトリガーアイコンが[TREASURE]のCXがトリガーした時、このカードの下のマーカーが1枚以下なら、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
-		"【自】 あなたのアンコールステップの始めに、このカードの下のマーカーが2枚以上なら、このカードの下のマーカーすべてを、控え室に置き、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[treasure.gif]]のCXがトリガーした時、このカードの下のマーカーが1枚以下なら、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。\u003cbr\u003e【自】 あなたのアンコールステップの始めに、このカードの下のマーカーが2枚以上なら、このカードの下のマーカーすべてを、控え室に置き、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-035S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_035s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_035s.png",
+	"tags": null,
+	"expansionId": 472
 }

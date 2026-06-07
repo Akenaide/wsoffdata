@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "雄二「貴様、足が痺れているな…？」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《グリザイア》のキャラがいないなら、手札からプレイできない。",
-		"あなたは相手のレベル3以下のキャラを1枚選び、控え室に置く。"
+		"このカードは、あなたの《グリザイア》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは相手のレベル3以下のキャラを1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GRI/S84-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_097.png",
+	"tags": null,
+	"expansionId": 347
 }

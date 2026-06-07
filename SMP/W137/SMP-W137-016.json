@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-		"【永】 他のあなたの《サマポケ》のキャラが3枚以上なら、このカードのパワーを＋9500し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《サマポケ》のキャラが2枚以上なら、あなたは3枚まで引き、自分の手札を同じ枚数選び、控え室に置く。"
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\u003cbr\u003e【永】 他のあなたの《サマポケ》のキャラが3枚以上なら、このカードのパワーを＋9500し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《サマポケ》のキャラが2枚以上なら、あなたは3枚まで引き、自分の手札を同じ枚数選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"海賊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_016.png",
+	"tags": null,
+	"expansionId": 548
 }

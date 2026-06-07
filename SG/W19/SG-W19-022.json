@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フィーネ「もはや……人に非ず！\u003cbr /\u003e今や人の形をした破壊衝動！」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】しているカード名に「響」を含むキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置く。その山札をシャッフルする。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SG/W19-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w19/sg_w19_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w19/sg_w19_022.png",
+	"tags": null,
+	"expansionId": 79
 }

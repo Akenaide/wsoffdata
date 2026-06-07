@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "礼を言わせてくれ",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"先生",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W13-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w13/rg_w13_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w13/rg_w13_040.png",
+	"tags": null,
+	"expansionId": 54
 }

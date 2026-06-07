@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしの事はユウでヨロシク",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
@@ -24,8 +24,9 @@
 		"スポーツ",
 		"マネージャー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BR/SE06-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/br_se06/br_se06_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/br_se06/br_se06_05.png",
+	"tags": null,
+	"expansionId": 51
 }

@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「《光剣》の使い手」があるなら、あなたは自分の山札を見て《アバター》か《ネット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE23-T14SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se23/sao_se23_t14sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se23/sao_se23_t14sp.png",
+	"tags": null,
+	"expansionId": 112
 }

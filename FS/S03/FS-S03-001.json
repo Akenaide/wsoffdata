@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいから来てくれ。\u003cbr /\u003eみんなにセイバーを紹介するから",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「騎士王セイバー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「騎士王セイバー」を1枚選び、手札に戻す）",
 		"【起】［(1)］ あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"マスター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_001.png",
+	"tags": null,
+	"expansionId": 7
 }

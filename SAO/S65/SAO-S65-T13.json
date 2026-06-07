@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日のパイはおいしいなあ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《フラクトライト》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"フラクトライト",
 		"樵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S65-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_t13.png",
+	"tags": null,
+	"expansionId": 266
 }

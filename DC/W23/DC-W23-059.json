@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これはすんごい財産だよ。普通の人じゃ一生かかっても\u003cbr /\u003e手に入れられないかもしれない、そんな素敵な財産",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。",
 		"【永】 舞台にこのカードがいるなら、このカードは《鍋》を得る。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W23-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w23/dc_w23_059.png",
+	"tags": null,
+	"expansionId": 90
 }

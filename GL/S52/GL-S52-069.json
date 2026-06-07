@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《大グレン団》のキャラすべてに、パワーを＋2500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《大グレン団》のキャラを1枚選び、手札に戻してよい。",
-		"【自】 チェンジ ［このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「天元突破グレンラガン」を1枚まで選び、このカードがいた枠に置く。"
+		"【永】 応援 このカードの前のあなたの《大グレン団》のキャラすべてに、パワーを＋2500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《大グレン団》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】 チェンジ ［このカードを手札に戻す］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「天元突破グレンラガン」を1枚まで選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"大グレン団",
 		"ドリル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GL/S52-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gl_s52/gl_s52_069.png",
+	"tags": null,
+	"expansionId": 217
 }

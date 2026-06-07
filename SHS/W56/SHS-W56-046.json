@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "恵「きっちり安芸君の趣味に合わせてるんだよ？」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「演技指導 詩羽」がいるなら、他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの「演技指導 詩羽」がいるなら、他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_046.png",
+	"tags": null,
+	"expansionId": 220
 }

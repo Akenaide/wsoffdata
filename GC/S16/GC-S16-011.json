@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "葬儀社の看板は重てぇぞ。\u003cbr /\u003e――この程度でビビんなよオラァ！",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"葬儀社",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_011.png",
+	"tags": null,
+	"expansionId": 76
 }

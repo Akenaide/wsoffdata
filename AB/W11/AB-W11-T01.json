@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これが私の人生なんだ…こうして歌い続けていくことが…",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、手札に戻し、ターンの終わりに、このカードを思い出にする。"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W11-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w11/ab_w11_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w11/ab_w11_t01.png",
+	"tags": null,
+	"expansionId": 38
 }

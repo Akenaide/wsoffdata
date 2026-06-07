@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "約束、覚えてますよね？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時か「グレネードで一掃！ フカ次郎」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+		"【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時か「グレネードで一掃！ フカ次郎」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】［手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/S59-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_002.png",
+	"tags": null,
+	"expansionId": 245
 }

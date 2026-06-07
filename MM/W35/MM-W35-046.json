@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まどか「私だけが誰にも会えなくなるほど遠くに一人で行っちゃうなんてありっこないよ」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《魔法》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W35-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_046.png",
+	"tags": null,
+	"expansionId": 140
 }

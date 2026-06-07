@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "君には……新しい名前をあげるよ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を持つキャラすべてに、パワーを＋500。",
 		"【起】［あなたの舞台のカード名に「アイン」を含むキャラを1枚クロック置場に置き、このカードを【レスト】する］ あなたは自分の山札を見てカード名に「エレン」か「江漣」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_082.png",
+	"tags": null,
+	"expansionId": 32
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "紅き黒炎、万界の王、天地の法を敷衍すれど、我は万象照応の理、崩壊破壊の別名なり。永劫の鉄槌は我が元に下れ……",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアンコールステップの始めに、前列にこのカードがいるなら、相手は自分の山札の上から1枚を公開する。そのカードがレベル3以上のキャラなら、相手はそのキャラを舞台の好きな枠に置いてよい。（そうしないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_059.png",
+	"tags": null,
+	"expansionId": 192
 }

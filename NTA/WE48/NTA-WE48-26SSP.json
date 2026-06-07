@@ -15,18 +15,18 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「宝物の時間 キリエ」を1枚まで選び、このカードがいた枠に置く。』",
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、《魔法》か《フォーミュラ》のキャラを1枚選び、手札に戻す。"
+		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「宝物の時間 キリエ」を1枚まで選び、このカードがいた枠に置く。』\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、《魔法》か《フォーミュラ》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"武器",
 		"フォーミュラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NTA/WE48-26SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_26ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nta_we48/nta_we48_26ssp.png",
+	"tags": null,
+	"expansionId": 518
 }

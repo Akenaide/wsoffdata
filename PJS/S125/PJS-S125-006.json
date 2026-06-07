@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "その想いを、『わたし』がキミの代わりに\u003cbr\u003eひーちゃんに届けるよ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードの与えたダメージがキャンセルされた時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー"
+		"バーチャル・シンガー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S125-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s125/pjs_s125_006.png",
+	"tags": null,
+	"expansionId": 536
 }

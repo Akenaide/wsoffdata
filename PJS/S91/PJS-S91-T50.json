@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんなも、まだまだいけるよね！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー"
+		"バーチャル・シンガー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-T50",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_t50.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_t50.png",
+	"tags": null,
+	"expansionId": 378
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…アイドルデビューするのですか？",
+	"trigger": null,
 	"ability": [
 		"【永】 他の《スポーツ》のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分の手札を1枚選び、ストック置場に置く。"
@@ -25,8 +25,9 @@
 		"本",
 		"日傘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W02-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_091.png",
+	"tags": null,
+	"expansionId": 2
 }

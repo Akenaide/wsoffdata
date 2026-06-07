@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "負けたくはありません！戦いなんですから！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《艦娘》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-107",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_107.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_107.png",
+	"tags": null,
+	"expansionId": 113
 }

@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "セレナのギアをもう一度――",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【自】 他のあなたのバトル中の《音楽》のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr/\u003e【自】 他のあなたのバトル中の《音楽》のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-053R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_053r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_053r.png",
+	"tags": null,
+	"expansionId": 154
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "生き残れば…失ったものを取り戻せるんですか？",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《サマナー》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
 		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"サマナー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS2/SE16-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds2_se16/ds2_se16_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds2_se16/ds2_se16_07.png",
+	"tags": null,
+	"expansionId": 104
 }

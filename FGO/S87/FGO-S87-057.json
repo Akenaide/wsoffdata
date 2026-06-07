@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "057",
@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これが私に与えられた旅の果て。\u003cbr\u003e楽園の男に差し出された最後の探索",
+	"trigger": null,
 	"ability": [
 		"【起】【CXコンボ】［(2) あなたの山札の上から1枚をクロック置場に置く］ あなたは自分の控え室の「剣を摂れ、銀色の腕」を1枚選び、クライマックス置場に置き、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"キャメロット",
 		"遍歴の騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_057.png",
+	"tags": null,
+	"expansionId": 363
 }

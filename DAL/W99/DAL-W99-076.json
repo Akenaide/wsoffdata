@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を2枚控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《デート》か《精霊》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W99-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w99/dal_w99_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w99/dal_w99_076.png",
+	"tags": null,
+	"expansionId": 396
 }

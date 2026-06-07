@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "043",
@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これ、立派な反逆罪よランスロット！ でも素敵だわ！ ほらマシュ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《カルデア》か《キャメロット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《カルデア》か《キャメロット》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"キャメロット",
 		"法師"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_043.png",
+	"tags": null,
+	"expansionId": 363
 }

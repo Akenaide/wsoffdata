@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……今度、RASの他の奴らもこの公園に連れてくるか。\u003cbr\u003eそんで、同じ場所で写真撮ろうぜ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「“輝き始めた星”レイヤ」か「“繋がる時の中で”マスキング」を1枚選び、手札に戻す。"
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「“輝き始めた星”レイヤ」か「“繋がる時の中で”マスキング」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_053.png",
+	"tags": null,
+	"expansionId": 382
 }

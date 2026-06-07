@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"タロット",
 		"占い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_057.png",
+	"tags": null,
+	"expansionId": 106
 }

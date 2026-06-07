@@ -10,21 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―いつしか彼女にとって【魔法少女】という存在は、憧れになっていた―",
+	"trigger": null,
 	"ability": [
-		"あなたのレベルが1なら、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。",
-		"あなたのレベルが2なら、あなたは相手のキャラを1枚選び、手札に戻す。",
-		"あなたのレベルが3なら、あなたは自分のクロック置場の《魔法》のキャラを1枚選び、手札に戻す。"
+		"あなたのレベルが1なら、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。\u003cbr\u003eあなたのレベルが2なら、あなたは相手のキャラを1枚選び、手札に戻す。\u003cbr\u003eあなたのレベルが3なら、あなたは自分のクロック置場の《魔法》のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MR/W59-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_052.png",
+	"tags": null,
+	"expansionId": 232
 }

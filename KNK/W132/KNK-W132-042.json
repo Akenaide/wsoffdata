@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《かのかり》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】 あなたのCX置場に「想いは届く」が置かれた時、前列にこのカードがいて、あなたのキャラすべてが《かのかり》なら、あなたは自分の山札を見て《かのかり》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、次の相手のターンの終わりまで、このカードのパワーを＋1000。"
+		"【永】 他のあなたの《かのかり》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】 あなたのCX置場に「想いは届く」が置かれた時、前列にこのカードがいて、あなたのキャラすべてが《かのかり》なら、あなたは自分の山札を見て《かのかり》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、次の相手のターンの終わりまで、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"ダイアモンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W132-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w132/knk_w132_042.png",
+	"tags": null,
+	"expansionId": 531
 }

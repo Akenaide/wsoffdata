@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ス・ノーマン・パー「間違ってやんのバーカ　“スゲーナ・スゴイデス”だ」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の後列の、レベルが相手のレベルより高いキャラを2枚まで選び、そのターン中、《酒》を与える。それらのキャラは次の相手のスタンドフェイズに【スタンド】しない。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《MOVIE》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の後列の、レベルが相手のレベルより高いキャラを2枚まで選び、そのターン中、《酒》を与える。それらのキャラは次の相手のスタンドフェイズに【スタンド】しない。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《MOVIE》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"MOVIE",
 		"魔法",
 		"雪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_016.png",
+	"tags": null,
+	"expansionId": 480
 }

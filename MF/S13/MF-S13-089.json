@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "現時刻をもって、貴様をSMS隊員として歓迎する",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ そのターン中、このカードのレベルを＋1し、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"パイロット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_089.png",
+	"tags": null,
+	"expansionId": 61
 }

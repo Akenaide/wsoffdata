@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これでB級ホラークリーチャーの出来上がりだ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《スニーカー文庫》のキャラすべてに、パワーを＋500。",
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下の《スニーカー文庫》のキャラを1枚選び、舞台の好きな枠に置く。"
+		"【永】 他のあなたの《スニーカー文庫》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下の《スニーカー文庫》のキャラを1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"マッドサイエンティスト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Shm/W123-066S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/shm_w123_066s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/shm_w123_066s.png",
+	"tags": null,
+	"expansionId": 510
 }

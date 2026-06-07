@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "家の前まで送りますよお疲れでしょう",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの「地下テニス大会 ロイド」がいるなら、このカードのパワーを＋2000。",
-		"【永】 他のあなたの「地下テニス大会 ロイド」すべてに、パワーを＋2000し、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』"
+		"【永】 あなたのターン中、他のあなたの「地下テニス大会 ロイド」がいるなら、このカードのパワーを＋2000。\u003cbr\u003e【永】 他のあなたの「地下テニス大会 ロイド」すべてに、パワーを＋2000し、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』"
 	],
 	"specialAttrib": [
 		"バーリント市",
 		"WISE"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SPY/S106-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/spy_s106/spy_s106_095.png",
+	"tags": null,
+	"expansionId": 433
 }

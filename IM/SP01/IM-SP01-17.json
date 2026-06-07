@@ -20,15 +20,15 @@
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋3000。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/SP01-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_sp01/im_sp01_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_sp01/im_sp01_17.png",
+	"tags": null,
+	"expansionId": 13
 }

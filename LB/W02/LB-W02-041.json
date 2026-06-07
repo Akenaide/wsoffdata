@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最近はシフォンケーキの勉強もしてるんだけどね。難しい",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがプレイされて舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
 		"【起】［このカードを【レスト】する］ このカードの下のマーカーが1枚以下なら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"ビー玉"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W02-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_041.png",
+	"tags": null,
+	"expansionId": 2
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やめろー！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《六面世界》のキャラすべてに、パワーを＋500。",
-		"【起】 経験 ［このカードを【レスト】する］ あなたのレベル置場に「“本気で生きる”ルーデウス」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 あなたのターン中、他のあなたの《六面世界》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 経験 ［このカードを【レスト】する］ あなたのレベル置場に「“本気で生きる”ルーデウス」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"魔術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_008.png",
+	"tags": null,
+	"expansionId": 346
 }

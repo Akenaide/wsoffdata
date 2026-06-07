@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えへへっ　みんな楽しそうですね！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お茶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_t01.png",
+	"tags": null,
+	"expansionId": 55
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こんな私と、いつも一緒にいてくれる、朝倉くんは――ッ\u003cbr /\u003e――絶対に、絶対に、絶対に渡さないッ！",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W23-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w23/dc_w23_067.png",
+	"tags": null,
+	"expansionId": 90
 }

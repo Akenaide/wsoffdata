@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "さて、そんな良いタイミングで我々に仲間が加わったぞ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《フレンズ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 あなたの《フレンズ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"フレンズ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMN/W51-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmn_w51/kmn_w51_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmn_w51/kmn_w51_065.png",
+	"tags": null,
+	"expansionId": 205
 }

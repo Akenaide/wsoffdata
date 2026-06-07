@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "教えるよ。 力も技術も、私が全部！",
+	"trigger": null,
 	"ability": [
 		"【永】他のあなたの、「フェイト＆アルフ」と「八神 はやて」がいるなら、このカードのパワーを+2000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_108.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_108.gif",
+	"tags": null,
+	"expansionId": 12
 }

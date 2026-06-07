@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これ以上関わると、死ぬわよ",
+	"trigger": null,
 	"ability": [
 		"【自】この能力は1ターンにつき2回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"サーヴァント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_p03.png",
+	"tags": null,
+	"expansionId": 13
 }

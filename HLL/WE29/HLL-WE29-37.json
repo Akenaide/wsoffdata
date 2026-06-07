@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "とりさんが遊びに来てくれるなんて嬉しいわ～",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《定理者》か《使者》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「定理者のヒナたち」があるなら、あなたは自分の山札を見て《定理者》か《使者》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの、《定理者》か《使者》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「定理者のヒナたち」があるなら、あなたは自分の山札を見て《定理者》か《使者》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"定理者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HLL/WE29-37",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we29/hll_we29_37.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we29/hll_we29_37.png",
+	"tags": null,
+	"expansionId": 215
 }

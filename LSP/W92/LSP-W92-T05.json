@@ -15,17 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カリスマギャラクシースクールアイドル",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのストックが3枚以下なら、あなたはそのキャラを山札の上に置いてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのストックが3枚以下なら、あなたはそのキャラを山札の上に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSP/W92-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lsp_w92/lsp_w92_t05.png",
+	"tags": null,
+	"expansionId": 349
 }

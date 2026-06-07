@@ -10,20 +10,21 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "響「もう時間なのに、まだ２人が来ないぞー！」\u003cbr /\u003e春香「あれ？美希も居なくなってる！？\u003cbr /\u003eど、どうしましょう、プロデューサーさん！」",
+	"trigger": null,
 	"ability": [
 		"集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の控え室のコスト1以下の『応援』を持つキャラを2枚まで選び、舞台の別々の枠に置く。",
 		"このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S14-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_072.png",
+	"tags": null,
+	"expansionId": 64
 }

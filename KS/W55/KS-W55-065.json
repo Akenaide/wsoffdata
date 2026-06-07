@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "では、どこからでもかかってきなさい！",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき3回まで発動する。他のあなたのキャラが控え室から舞台に置かれた時、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_065.png",
+	"tags": null,
+	"expansionId": 214
 }

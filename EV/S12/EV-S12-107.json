@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "エヴァンゲリオン仮設5号機、起動！",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-107",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_107.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_107.png",
+	"tags": null,
+	"expansionId": 13
 }

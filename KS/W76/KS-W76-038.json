@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "魔法が……",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《冒険者》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《冒険者》か《魔法》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《冒険者》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《冒険者》か《魔法》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"死",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_038.png",
+	"tags": null,
+	"expansionId": 291
 }

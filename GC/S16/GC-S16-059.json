@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おいしいもの食べながら、\u003cbr /\u003eじっくり聞かせてもらうから",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のストックが3枚以下なら、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_059.png",
+	"tags": null,
+	"expansionId": 76
 }

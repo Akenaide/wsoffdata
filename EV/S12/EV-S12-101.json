@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…ま、色々と貸しがあるのよ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1)］ あなたは自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_101.png",
+	"tags": null,
+	"expansionId": 42
 }

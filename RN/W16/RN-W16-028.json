@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それは、デートのお誘い、だったりして",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「ひと夏のアバンチュール」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《科学》のキャラを1枚選び、ストック置場に置き、自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋3500。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_028.png",
+	"tags": null,
+	"expansionId": 86
 }

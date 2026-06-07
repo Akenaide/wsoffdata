@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "読めないじゃない！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの後列の「“冒険者パーティー デッドエンド”ルーデウス」がいるなら、このカードのパワーを＋2000。",
-		"【永】 他のあなたの「“冒険者パーティー デッドエンド”ルイジェルド」がいるなら、このカードのパワーを＋3000。"
+		"【永】 他のあなたの後列の「“冒険者パーティー デッドエンド”ルーデウス」がいるなら、このカードのパワーを＋2000。\u003cbr\u003e【永】 他のあなたの「“冒険者パーティー デッドエンド”ルイジェルド」がいるなら、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"剣士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_060.png",
+	"tags": null,
+	"expansionId": 346
 }

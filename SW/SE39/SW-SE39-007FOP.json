@@ -15,17 +15,17 @@
 	"rarity": "FOP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「“ならず者”ハン・ソロ」がいるなら、このカードのパワーを＋4000。",
-		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【永】 他のあなたの「“ならず者”ハン・ソロ」がいるなら、このカードのパワーを＋4000。\u003cbr\u003e【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"帝国の逆襲"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/SE39-007FOP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se39/sw_se39_007fop.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_se39/sw_se39_007fop.png",
+	"tags": null,
+	"expansionId": 411
 }

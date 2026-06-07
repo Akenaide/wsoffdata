@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ええ。先日のような事件は、もう決して起きません。\u003cbr /\u003eそうですね、ジュリオ",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、相手は自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"虚無"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_t04.png",
+	"tags": null,
+	"expansionId": 66
 }

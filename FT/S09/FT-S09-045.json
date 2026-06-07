@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お呼びでしょうか、ご主人様",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"鍵",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_045.png",
+	"tags": null,
+	"expansionId": 43
 }

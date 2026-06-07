@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アインハルトさんいわく、『明日のことは、まず今日勝ってから』です！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手の控え室のクライマックスが3枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 手札のこのカードをプレイするにあたり、あなたは自分の「明るく元気 リオ」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。",
-		"【永】 あなたのキャラすべてが《格闘》なら、このカードのパワーを＋3000。"
+		"【永】 相手の控え室のクライマックスが3枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 手札のこのカードをプレイするにあたり、あなたは自分の「明るく元気 リオ」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。\u003cbr\u003e【永】 あなたのキャラすべてが《格闘》なら、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"格闘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_061.png",
+	"tags": null,
+	"expansionId": 200
 }

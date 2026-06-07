@@ -15,17 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あー…絶景ですよね！爽快ですよねっ！ふふっ、こんなのがまだまだ続きますよー！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
-		"【起】［(1)］ あなたは自分の黄のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。\u003cbr\u003e【起】［(1)］ あなたは自分の黄のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-006S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_006s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_006s.png",
+	"tags": null,
+	"expansionId": 131
 }

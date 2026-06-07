@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リツコ「……エヴァは実戦兵器よ。全てにバックアップを用意しているわ。操縦者も含めてね」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室の『チェンジ』を持つキャラを1枚まで選び、手札に加える。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "EV/S12-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_071.png",
+	"tags": null,
+	"expansionId": 49
 }

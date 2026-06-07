@@ -8,25 +8,24 @@
 	"jpName": "戴冠式",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "空「我ら二人は弱者として生き、弱者らしく戦い、そして弱者らしく強者を屠ることをここに宣言する！」",
 	"trigger": [
-		"SOUL",
 		"GATE"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[gate.gif]]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NGL/S58-T20R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_t20r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_t20r.png",
+	"tags": null,
+	"expansionId": 235
 }

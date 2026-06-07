@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「リモコン」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_012.png",
+	"tags": null,
+	"expansionId": 93
 }

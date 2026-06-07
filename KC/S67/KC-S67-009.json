@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "艦隊旗艦、親潮が預かります。\u003cbr\u003e旗艦、先頭。艦隊、前へ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
-		"【自】 このカードの与えたダメージがキャンセルされた時、あなたは自分のストックの上から1枚を、手札に戻してよい。"
+		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。\u003cbr\u003e【自】 このカードの与えたダメージがキャンセルされた時、あなたは自分のストックの上から1枚を、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_009.png",
+	"tags": null,
+	"expansionId": 270
 }

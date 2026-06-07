@@ -15,21 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やだ……これ、ちょっと、感じちゃうかも",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのストックが2枚以下なら、このカードはアタックできない。",
-		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
+		"【永】 あなたのストックが2枚以下なら、このカードはアタックできない。\u003cbr\u003e【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
-		"ハート",
-		"ハイブリッド",
-		"ギア",
+		"ハート・ハイブリッド・ギア",
 		"天地穹女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Shh/W62-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shh_w62/shh_w62_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shh_w62/shh_w62_096.png",
+	"tags": null,
+	"expansionId": 259
 }

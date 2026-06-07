@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "なら、益々こんなことをする必要ないでしょ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「服従させる魔法」を1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「服従させる魔法」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"魔族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S108-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s108/sfn_s108_040.png",
+	"tags": null,
+	"expansionId": 466
 }

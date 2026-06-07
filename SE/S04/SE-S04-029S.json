@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「爆弾娘アミタリリ」すべてに、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-029S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_029s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_029s.png",
+	"tags": null,
+	"expansionId": 14
 }

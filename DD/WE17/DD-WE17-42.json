@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "42",
@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "なるほど…シンクの師というのも納得でござるな",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"動物",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE17-42",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_42.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_42.png",
+	"tags": null,
+	"expansionId": 100
 }

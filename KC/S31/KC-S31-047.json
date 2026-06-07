@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こうやって何もない平和な時間も、\u003cbr /\u003eとっても好きなのです。",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、他のあなたの「冬のひととき 雷」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_047.png",
+	"tags": null,
+	"expansionId": 130
 }

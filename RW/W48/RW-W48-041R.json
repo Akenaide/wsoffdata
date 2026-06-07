@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うん。ありがとう……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「ルチア」か「静流」か「瑚太朗」を含むキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"委員長",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W48-041R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_041r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_041r.png",
+	"tags": null,
+	"expansionId": 186
 }

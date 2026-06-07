@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "昨日はお見苦しいところをお見せしてしまいました",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) このカードを控え室に置く］ あなたのクライマックス置場に「あまえられるところ」が置かれた時、他のあなたの前列のキャラが1枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「戦闘服！？ 葵」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"ウェイトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE16-32",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we16/dc3_we16_32.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we16/dc3_we16_32.png",
+	"tags": null,
+	"expansionId": 99
 }

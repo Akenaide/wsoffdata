@@ -15,19 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前が戦っとる姿は、なんだか辛そうに見える",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 このカードがアタックした時、他のあなたの《格闘》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見てよい。そうしたら、あなたはそのカードをこのカードの下にマーカーとして裏向きに置く。"
+		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《格闘》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見てよい。そうしたら、あなたはそのカードをこのカードの下にマーカーとして裏向きに置く。"
 	],
 	"specialAttrib": [
 		"格闘",
 		"覇王流"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-005S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_005s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_005s.png",
+	"tags": null,
+	"expansionId": 200
 }

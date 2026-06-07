@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こ、ココナちゃんって呼ばないでください！小さい子みたいじゃないですか！",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"梅花園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_045.png",
+	"tags": null,
+	"expansionId": 460
 }

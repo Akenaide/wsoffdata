@@ -15,15 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが《ホロライブ》なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「レースの結果は？」があり、他のあなたの《ホロライブ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《ホロライブ》のキャラか「cherry blossom」を2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 あなたのターン中、あなたのキャラすべてが《ホロライブ》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「レースの結果は？」があり、他のあなたの《ホロライブ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《ホロライブ》のキャラか「cherry blossom」を2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"ホロライブ",
+		"ホロライブEnglish-Myth-"
+	],
+	"version": "4",
 	"cardcode": "HOL/WE45-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we45/hol_we45_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we45/hol_we45_p03.png",
+	"tags": null,
+	"expansionId": 465
 }

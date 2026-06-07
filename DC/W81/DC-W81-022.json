@@ -8,24 +8,24 @@
 	"jpName": "おかえりなさい",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "わたしは叫ぶ。\u003cbr\u003eただ一言だけ。\u003cbr\u003eわたしの中で一番馴染んだ言葉。\u003cbr\u003e万感の思いを込めて、\u003cbr\u003e大好きだよという気持ちを込めて――",
 	"trigger": [
 		"TREASURE"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[TREASURE]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[treasure.gif]]：このカードがトリガーした時、あなたはこのカードを手札に戻す。あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC/W81-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w81/dc_w81_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w81/dc_w81_022.png",
+	"tags": null,
+	"expansionId": 310
 }

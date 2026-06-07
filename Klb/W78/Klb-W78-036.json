@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "早速勝負だ、謙吾っ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"筋肉"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W78-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klb_w78/klb_w78_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klb_w78/klb_w78_036.png",
+	"tags": null,
+	"expansionId": 296
 }

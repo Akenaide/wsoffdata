@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 集中 このカードは、あなたのカード名に「桜」を含むキャラが1枚以下なら、手札からプレイできない。あなたは自分の山札の上から1枚を、ストック置場に置く。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置く。",
-		"あなたのストックが3枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【カウンター】 集中 このカードは、あなたのカード名に「桜」を含むキャラが1枚以下なら、手札からプレイできない。あなたは自分の山札の上から1枚を、ストック置場に置く。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置く。\u003cbr\u003eあなたのストックが3枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "CCS/W113-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w113/ccs_w113_045.png",
+	"tags": null,
+	"expansionId": 461
 }

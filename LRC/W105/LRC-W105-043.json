@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "人を見る目がないねぇ、よくそんなのでファーストやってんね",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、舞台の別々の枠に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、舞台の別々の枠に置く。"
 	],
 	"specialAttrib": [
 		"リコリコ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/W105-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_w105/lrc_w105_043.png",
+	"tags": null,
+	"expansionId": 426
 }

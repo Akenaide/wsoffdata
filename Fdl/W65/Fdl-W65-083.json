@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――跪きなさい。愛のお仕置きタイム開始よ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードの与えたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋6000。"
 	],
@@ -25,8 +25,9 @@
 		"精霊",
 		"炎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fdl/W65-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w65/fdl_w65_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fdl_w65/fdl_w65_083.png",
+	"tags": null,
+	"expansionId": 264
 }

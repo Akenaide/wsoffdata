@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はぁ…はぁ、はぁ…",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたの思い出置場に「“守りたい笑顔”シルフィエット」があるなら、他のあなたの《六面世界》のキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[TREASURE]のクライマックス1枚につき、あなたは自分の山札を見て《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 記憶 あなたの思い出置場に「“守りたい笑顔”シルフィエット」があるなら、他のあなたの《六面世界》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[[treasure.gif]]のクライマックス1枚につき、あなたは自分の山札を見て《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"魔術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_024.png",
+	"tags": null,
+	"expansionId": 346
 }

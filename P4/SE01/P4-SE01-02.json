@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お前は、俺で…俺は、お前か。\u003cbr /\u003e全部ひっくるめて、俺だって事だな",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"ジュネス",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE01-02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se01/p4_se01_02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se01/p4_se01_02.png",
+	"tags": null,
+	"expansionId": 22
 }

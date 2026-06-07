@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ライトがこの角度から当たっているから……こうすれば、きっと、魅力がひきたつ？",
+	"trigger": null,
 	"ability": [
 		"【起】[(2)このカードを【レスト】する] あなたは1枚引く。",
 		"【起】[このカードを【レスト】する] あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを+1000。",
@@ -26,8 +26,9 @@
 		"音楽",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-114",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_114.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_114.gif",
+	"tags": null,
+	"expansionId": 13
 }

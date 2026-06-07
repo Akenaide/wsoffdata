@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハルトってさぁ、ときどき私に対するアタリが強い時あるよね…",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《グリザイア》なら、このカードのパワーを＋1000。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の前列の中央の枠のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、このカードのパワーを＋1000。"
+		"【永】 あなたのキャラすべてが《グリザイア》なら、このカードのパワーを＋1000。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の前列の中央の枠のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"ニンジャ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_053.png",
+	"tags": null,
+	"expansionId": 472
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "考えても仕方ない",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラがいないなら、このカードのパワーを＋1500し、このカードは相手のキャラの【自】の効果によって【リバース】されない。"
 	],
@@ -24,8 +24,9 @@
 		"タロット",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_084.png",
+	"tags": null,
+	"expansionId": 106
 }

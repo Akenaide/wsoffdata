@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "夢は「華恋と一緒に舞台に立つこと」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《レヴュー》のキャラの枚数×500に等しい。",
-		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《レヴュー》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"髪留め"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-P17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_p17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_p17.png",
+	"tags": null,
+	"expansionId": 13
 }

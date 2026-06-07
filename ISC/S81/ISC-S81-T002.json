@@ -1,6 +1,6 @@
 {
 	"set": "ISC",
-	"setName": "[TD+]アイドルマスター シャイニーカラーズ 283プロ イルミネーションスターズ",
+	"setName": "[TD+]アイドルマスター シャイニーカラーズ 283プロ イルミネーションスターズ  ",
 	"side": "S",
 	"release": "81",
 	"id": "T002",
@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサー、早く行こ！\u003cbr\u003eわたしね、みんなにいーっぱい楽しんでほしいんだ！",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"イルミネーションスターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-T002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_t002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_t002.png",
+	"tags": null,
+	"expansionId": 326
 }

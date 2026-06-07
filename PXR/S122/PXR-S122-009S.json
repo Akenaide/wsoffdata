@@ -15,17 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《PIXAR》のキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「恐ろしいネコサウルス」があり、他のあなたの《PIXAR》のキャラが2枚以上なら、あなたは自分の控え室の《PIXAR》のキャラを1枚選び、手札に戻してよい。"
+		"【永】 あなたのターン中、他のあなたの《PIXAR》のキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「恐ろしいネコサウルス」があり、他のあなたの《PIXAR》のキャラが2枚以上なら、あなたは自分の控え室の《PIXAR》のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S122-009S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s122/pxr_s122_009s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s122/pxr_s122_009s.png",
+	"tags": null,
+	"expansionId": 523
 }

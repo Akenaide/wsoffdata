@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"思春期",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_078.png",
+	"tags": null,
+	"expansionId": 290
 }

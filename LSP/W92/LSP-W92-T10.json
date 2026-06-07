@@ -10,21 +10,22 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSP/W92-T10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lsp_w92/lsp_w92_t10.png",
+	"tags": null,
+	"expansionId": 349
 }

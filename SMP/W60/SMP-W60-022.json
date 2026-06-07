@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しろは「もう寝なきゃね。おやすみ」\u003cbr\u003eうみ「……んぅ。お、や……す、み……」\u003cbr\u003e羽依里「ああ、おやすみ」",
+	"trigger": null,
 	"ability": [
 		"あなたの、カード名に「しろは」を含むキャラとカード名に「羽依里」を含むキャラがいるなら、あなたは1枚まで引き、自分のクロックの上から1枚までを、控え室に置き、このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SMP/W60-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_022.png",
+	"tags": null,
+	"expansionId": 238
 }

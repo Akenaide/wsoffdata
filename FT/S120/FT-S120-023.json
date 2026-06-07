@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ルーシィ「毒薬？」",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《魔法》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）",
-		"このカードを山札の下に置く。"
+		"【カウンター】 あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《魔法》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）\u003cbr\u003eこのカードを山札の下に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FT/S120-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s120/ft_s120_023.png",
+	"tags": null,
+	"expansionId": 503
 }

@@ -15,18 +15,18 @@
 	"rarity": "OFR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "皆さんともっと一緒にいたいです。\u003cbr\u003eでもパレオはやっぱりチュチュ様が一番です",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《RAISE A SUILEN》のキャラを1枚まで選び、手札に戻す。"
+		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《RAISE A SUILEN》のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE34-31OFR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_31ofr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we34/bd_we34_31ofr.png",
+	"tags": null,
+	"expansionId": 336
 }

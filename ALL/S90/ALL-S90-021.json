@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "久しぶりね！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"リリィ",
-		"グラン",
-		"エプレ"
+		"グラン・エプレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_021.png",
+	"tags": null,
+	"expansionId": 371
 }

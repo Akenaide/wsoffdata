@@ -15,18 +15,18 @@
 	"rarity": "SPM",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
-		"【起】［手札のイベントを1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。\u003cbr/\u003e【起】［手札のイベントを1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-085SPMa",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_085spma.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_085spma.png",
+	"tags": null,
+	"expansionId": 213
 }

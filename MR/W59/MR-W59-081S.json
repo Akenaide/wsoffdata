@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どんな困難な道のりであったとしても、絶対に諦めずに、私が見つけ出してみせるから",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《魔法》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《魔法》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
 	"specialAttrib": [
 		"魔法",
 		"スキル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-081S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_081s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_081s.png",
+	"tags": null,
+	"expansionId": 232
 }

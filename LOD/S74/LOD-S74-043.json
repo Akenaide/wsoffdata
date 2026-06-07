@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたくしは世界の意志から秩序を守る職責を賜りました。\u003cbr\u003eそれと同時に、もう一つの権能も…。\u003cbr\u003e叶うならば、永遠にこの力を振るわずに済みますように…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《冒険者》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"天使"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_043.png",
+	"tags": null,
+	"expansionId": 297
 }

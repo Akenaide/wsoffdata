@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ようよう楽しそうやねぇ\u003cbr\u003eあてもよせてもらおか？",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを控え室に置く］ あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"獣人種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_033.png",
+	"tags": null,
+	"expansionId": 236
 }

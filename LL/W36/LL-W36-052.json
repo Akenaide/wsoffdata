@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "雪を見ると、なんとなくホッとするんです。不思議ですよね",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"雪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_052.png",
+	"tags": null,
+	"expansionId": 142
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "三玖「盗…」\u003cbr\u003e風太郎「ってない！」",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"五つ子",
 		"ヘッドホン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-T46",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_t46.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_t46.png",
+	"tags": null,
+	"expansionId": 306
 }

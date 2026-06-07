@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シノは本当に金髪が好きだね",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"金髪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-011S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_011s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_011s.png",
+	"tags": null,
+	"expansionId": 534
 }

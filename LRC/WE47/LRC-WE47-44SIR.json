@@ -15,21 +15,20 @@
 	"rarity": "SIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋10000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「巡る季節 千束」を2枚まで選び、このカードの下にマーカーとして好きな順番で表向きに置く。",
-		"【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードのマーカーを2枚まで選び、ストック置場の下に好きな順番で置く。"
+		"【永】 あなたのターン中、このカードのパワーを＋10000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「巡る季節 千束」を2枚まで選び、このカードの下にマーカーとして好きな順番で表向きに置く。\u003cbr\u003e【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードのマーカーを2枚まで選び、ストック置場の下に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"リコリコ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/WE47-44SIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_44sir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_we47/lrc_we47_44sir.png",
+	"tags": null,
+	"expansionId": 491
 }

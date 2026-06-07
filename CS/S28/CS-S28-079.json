@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ホホ～イ",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《家族》か《和服》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"家族",
 		"幼稚園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_079.png",
+	"tags": null,
+	"expansionId": 114
 }

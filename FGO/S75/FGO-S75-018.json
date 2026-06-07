@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "じゃあ、もしかしてそちらの可愛い男の子が、余所から来たマスターさん？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《カルデア》か《バビロニア》のキャラが2枚以上なら、このカードのパワーを＋3000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを【レスト】する。"
+		"【永】 他のあなたの、《カルデア》か《バビロニア》のキャラが2枚以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを【レスト】する。"
 	],
 	"specialAttrib": [
 		"バビロニア",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_018.png",
+	"tags": null,
+	"expansionId": 298
 }

@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そーーーれ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「シトロン・コール」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の【リバース】している、《アバター》か《ネット》のキャラすべてを、【レスト】する。",
 		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「クワイアー・チャイム」を1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"アバター",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_032.png",
+	"tags": null,
+	"expansionId": 85
 }

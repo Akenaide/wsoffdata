@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】［あなたのクライマックス置場の「超転生シヴァ＝ドラゴン」を1枚控え室に置く］ あなたのアタックフェイズの始めに、前列にこのカードがいて、あなたの手札が5枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【スタンド】する。"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［あなたのクライマックス置場の「超転生シヴァ＝ドラゴン」を1枚控え室に置く］ あなたのアタックフェイズの始めに、前列にこのカードがいて、あなたの手札が5枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【スタンド】する。"
 	],
 	"specialAttrib": [
 		"バランス",
 		"悪魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PAD/S105-055S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_055s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_055s.png",
+	"tags": null,
+	"expansionId": 424
 }

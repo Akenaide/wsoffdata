@@ -1,6 +1,6 @@
 {
 	"set": "PI",
-	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"setName": " Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
 	"side": "S",
 	"release": "E31",
 	"id": "48",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もうわたしは…カードを使える…！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの、《魔法》か《腹ペコ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE31-48",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se31/pi_se31_48.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se31/pi_se31_48.png",
+	"tags": null,
+	"expansionId": 202
 }

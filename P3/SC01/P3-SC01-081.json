@@ -15,20 +15,20 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私…影時間を無くす為に戦いたい。お父さんの遺志を…継ぎたいから",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「父の遺志」があるなら、あなたは1枚引く。",
-		"【起】［(4)］ あなたは自分のクロックを1枚選び、手札に戻す。"
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「父の遺志」があるなら、あなたは1枚引く。\u003cbr\u003e【起】［(4)］ あなたは自分のクロックを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_081.png",
+	"tags": null,
+	"expansionId": 340
 }

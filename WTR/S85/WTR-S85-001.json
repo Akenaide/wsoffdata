@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《トリオン》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【自】 このカードがアタックした時、あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《トリオン》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"トリオン",
 		"太刀川隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WTR/S85-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wtr_s85/wtr_s85_001.png",
+	"tags": null,
+	"expansionId": 360
 }

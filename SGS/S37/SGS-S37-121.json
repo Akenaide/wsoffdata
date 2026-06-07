@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そんな日向にいたら暑いだろう。\u003cbr\u003eこっちへ来たらどうだ？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてがカード名に「あから」か「陽奈」か「小織」を含むなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"熱血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-121",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_121.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_121.png",
+	"tags": null,
+	"expansionId": 162
 }

@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "セルカ「もう、姉さまったら心配性なんだから」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《フラクトライト》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《フラクトライト》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"神聖術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_017.png",
+	"tags": null,
+	"expansionId": 318
 }

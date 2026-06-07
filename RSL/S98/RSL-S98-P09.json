@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《レヴュー》のキャラすべてに、パワーを＋500。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+		"【永】 他のあなたの《レヴュー》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S98-P09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_p09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_p09.png",
+	"tags": null,
+	"expansionId": 13
 }

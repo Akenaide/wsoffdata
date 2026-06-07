@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ティッピーうるさいです",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ラビットハウス》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードのバトル相手が【リバース】した時、他のあなたのカード名に「ココア」を含むキャラがいるなら、次の相手のターンの終わりまで、このカードのカード名は「お姉ちゃん チノ」としても扱う。"
+		"【永】 他のあなたの《ラビットハウス》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、他のあなたのカード名に「ココア」を含むキャラがいるなら、次の相手のターンの終わりまで、このカードのカード名は「お姉ちゃん チノ」としても扱う。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"コーヒー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE26-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we26/gu_we26_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we26/gu_we26_041.png",
+	"tags": null,
+	"expansionId": 184
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたも『いいこと』をするの？",
+	"trigger": null,
 	"ability": [
 		"【起】［手札のクライマックスを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"兵団",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S35-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s35/aot_s35_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s35/aot_s35_108.png",
+	"tags": null,
+	"expansionId": 149
 }

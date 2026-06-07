@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私たちにはもう彼にかまけている暇はない",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋1000。",
-		"【起】［(4) このカードを【レスト】する］ あなたは自分の手札の「世界一幸せなイラストレーター 英梨々」を1枚まで選び、舞台の好きな枠に置く。"
+		"【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［(4) このカードを【レスト】する］ あなたは自分の手札の「世界一幸せなイラストレーター 英梨々」を1枚まで選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_066.png",
+	"tags": null,
+	"expansionId": 391
 }

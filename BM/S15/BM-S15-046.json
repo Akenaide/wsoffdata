@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の《怪異》のキャラを2枚まで選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BM/S15-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_046.png",
+	"tags": null,
+	"expansionId": 60
 }

@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "『私がずっと欲しかった時間だ…\u003cbr /\u003e何度も何度も夢に見た時間だ…』",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_008.png",
+	"tags": null,
+	"expansionId": 94
 }

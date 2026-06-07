@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほんと？じゃあ……1つどうぞ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W85-T07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w85/lnj_w85_t07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w85/lnj_w85_t07.png",
+	"tags": null,
+	"expansionId": 315
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "隼翼「目ぇ見えなくなった俺をちゃんと見つけてくれよな」",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"能力者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kch/W78-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kch_w78/kch_w78_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kch_w78/kch_w78_057.png",
+	"tags": null,
+	"expansionId": 296
 }

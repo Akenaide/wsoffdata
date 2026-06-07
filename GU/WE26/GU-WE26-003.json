@@ -15,20 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "先輩の後ろ姿……",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「毎日が宝物 千夜」がいるなら、他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見てカード名に「宝物」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの「毎日が宝物 千夜」がいるなら、他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見てカード名に「宝物」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"特待生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE26-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we26/gu_we26_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we26/gu_we26_003.png",
+	"tags": null,
+	"expansionId": 184
 }

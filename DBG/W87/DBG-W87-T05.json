@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "なに？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"夏",
 		"家族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_t05.png",
+	"tags": null,
+	"expansionId": 341
 }

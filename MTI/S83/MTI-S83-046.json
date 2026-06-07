@@ -10,22 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ルーデウス「早くしないと体、冷えちゃうぜ？」",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたの《六面世界》のキャラが1枚以下なら、手札からプレイできない。",
-		"次の2つの効果のうちあなたが選んだ1つを行う。",
-		"『あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。』",
-		"『あなたは自分の手札の「シルフ」を1枚選び、控え室に置いてよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』』"
+		"【カウンター】 このカードは、あなたの《六面世界》のキャラが1枚以下なら、手札からプレイできない。\u003cbr\u003e次の2つの効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。』\u003cbr\u003e『あなたは自分の手札の「シルフ」を1枚選び、控え室に置いてよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MTI/S83-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_046.png",
+	"tags": null,
+	"expansionId": 346
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えいっ！ あはは、驚いた～\u003cbr /\u003eほら、ヒトデがいっぱいいますよ、ここ",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分の《ガール》のキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"ガール",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_019.png",
+	"tags": null,
+	"expansionId": 144
 }

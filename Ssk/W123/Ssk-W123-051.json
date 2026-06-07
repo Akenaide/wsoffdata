@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あんたは、あんたの手の届くところを守ってればいい",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《スニーカー文庫》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《スニーカー文庫》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"勇者",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssk/W123-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssk_w123_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/ssk_w123_051.png",
+	"tags": null,
+	"expansionId": 510
 }

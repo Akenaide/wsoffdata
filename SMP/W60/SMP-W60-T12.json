@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "って、ちっがーーーう！",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のクライマックスがクライマックス置場に置かれた時、このカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_t12.png",
+	"tags": null,
+	"expansionId": 237
 }

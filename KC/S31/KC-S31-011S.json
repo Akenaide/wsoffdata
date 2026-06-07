@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-011S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_011s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_011s.png",
+	"tags": null,
+	"expansionId": 130
 }

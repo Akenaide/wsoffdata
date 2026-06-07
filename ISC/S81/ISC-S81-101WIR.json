@@ -15,18 +15,18 @@
 	"rarity": "WIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マジックアワー。夏色眼鏡で君を染めて",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたのクロックの1番上に、『アラーム』か『シフト』を持つカードがあり、このカードのバトル相手のレベルが相手のレベルより高いなら、そのターン中、このカードのパワーを＋6000。",
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《音楽》のキャラが3枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードがアタックした時、あなたのクロックの1番上に、『アラーム』か『シフト』を持つカードがあり、このカードのバトル相手のレベルが相手のレベルより高いなら、そのターン中、このカードのパワーを＋6000。\u003cbr\u003e【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《音楽》のキャラが3枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"アンティーカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-101WIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_101wir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_101wir.png",
+	"tags": null,
+	"expansionId": 332
 }

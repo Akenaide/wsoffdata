@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ナイスバディだけは、譲れないのよォォォォーッッ！！！！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のクライマックスを1枚選び、山札に戻す。相手はその山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE08-20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se08/dg_se08_20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se08/dg_se08_20.png",
+	"tags": null,
+	"expansionId": 59
 }

@@ -15,19 +15,19 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やっぱあたしのセンス間違いないなー",
+	"trigger": null,
 	"ability": [
-		"【起】［このカードを【レスト】する］ 他のあなたの、《Anniversary》か《Morfonica》のキャラがいるなら、このカードをストック置場に置く。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《Anniversary》か《Morfonica》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【起】［このカードを【レスト】する］ 他のあなたの、《Anniversary》か《Morfonica》のキャラがいるなら、このカードをストック置場に置く。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《Anniversary》か《Morfonica》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Morfonica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_001.png",
+	"tags": null,
+	"expansionId": 382
 }

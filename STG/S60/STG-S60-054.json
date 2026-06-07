@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の中にもね、ぼんやりと記憶があるの。淡い…まるで幻みたいな記憶……",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ラボメン》のキャラすべてに、パワーを＋500。",
-		"【起】［あなたの《ラボメン》のキャラを2枚【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替え、自分のキャラを1枚まで選び、そのターン中、レベルを＋1。"
+		"【永】 他のあなたの《ラボメン》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［あなたの《ラボメン》のキャラを2枚【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替え、自分のキャラを1枚まで選び、そのターン中、レベルを＋1。"
 	],
 	"specialAttrib": [
 		"ラボメン",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_054.png",
+	"tags": null,
+	"expansionId": 243
 }

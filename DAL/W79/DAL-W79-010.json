@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "握れ！今はそれだけでいい……ッ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《デート》か《精霊》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《デート》か《精霊》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"デート"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W79-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_010.png",
+	"tags": null,
+	"expansionId": 302
 }

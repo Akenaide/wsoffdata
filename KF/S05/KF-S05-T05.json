@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "庵「貴様に用は無い……」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを1枚選び、手札に戻す。そうしたら、相手は自分のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KF/S05-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_t05.png",
+	"tags": null,
+	"expansionId": 26
 }

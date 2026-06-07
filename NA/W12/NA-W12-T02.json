@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "レヴァンティン、たたっ斬れ！！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「八神」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_t02.png",
+	"tags": null,
+	"expansionId": 38
 }

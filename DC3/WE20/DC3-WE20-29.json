@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "内緒話だから、内緒",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
@@ -25,8 +25,9 @@
 		"委員長",
 		"演劇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE20-29",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we20/dc3_we20_29.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we20/dc3_we20_29.png",
+	"tags": null,
+	"expansionId": 123
 }

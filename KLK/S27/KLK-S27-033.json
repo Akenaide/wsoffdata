@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ありがとう、纏さん",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_033.png",
+	"tags": null,
+	"expansionId": 117
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そんな感じでバタバタしながら頑張ってるよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-T81",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_t81.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_t81.png",
+	"tags": null,
+	"expansionId": 246
 }

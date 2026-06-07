@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私が弱いのがいけなかったんだ",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「変えられない過去」があり、あなたのキャラすべてが《格闘》か《服》なら、あなたは自分の控え室の、「大好きなおじいちゃん ロイ」か「ロイ・ベルリネッタ」か「クラスメイトのいじめっ子」を1枚まで選び、思い出にし、そのターン中、このカードのパワーを＋3000。"
+		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「変えられない過去」があり、あなたのキャラすべてが《格闘》か《服》なら、あなたは自分の控え室の、「大好きなおじいちゃん ロイ」か「ロイ・ベルリネッタ」か「クラスメイトのいじめっ子」を1枚まで選び、思い出にし、そのターン中、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"格闘",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_079.png",
+	"tags": null,
+	"expansionId": 200
 }

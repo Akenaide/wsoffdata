@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それじゃ、新入部員のスバルとジュンを歓迎して、\u003cbr /\u003eかんぱーい♪",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［あなたのキャラを1枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"科学",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_008.png",
+	"tags": null,
+	"expansionId": 86
 }

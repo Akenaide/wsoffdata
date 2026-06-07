@@ -15,20 +15,19 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの後列の《フレンズ》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。",
-		"【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+		"【永】 他のあなたの後列の《フレンズ》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。\u003cbr\u003e【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"フレンズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMN/W51-039SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmn_w51/kmn_w51_039ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmn_w51/kmn_w51_039ssp.png",
+	"tags": null,
+	"expansionId": 205
 }

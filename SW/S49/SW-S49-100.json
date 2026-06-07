@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ご覧ください！どなただと思います……",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-100",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_100.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_100.png",
+	"tags": null,
+	"expansionId": 199
 }

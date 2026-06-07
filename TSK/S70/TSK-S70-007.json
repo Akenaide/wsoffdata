@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は『武士（もののふ）』 リムル様の護衛役ですよ。秘書も兼ねてます！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔大陸",
 		"秘書"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_007.png",
+	"tags": null,
+	"expansionId": 283
 }

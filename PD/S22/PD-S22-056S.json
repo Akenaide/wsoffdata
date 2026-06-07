@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「Nostalogic」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラを1枚まで選び、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの控え室の「ＭＥＩＫＯ“ブルークリスタル”」の枚数×2000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ドレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-056S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_056s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_056s.png",
+	"tags": null,
+	"expansionId": 93
 }

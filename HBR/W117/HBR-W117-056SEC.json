@@ -15,18 +15,18 @@
 	"rarity": "SEC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《セラフ》なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「魂の仕組みと幾億光年の旅」があり、他のあなたの《セラフ》のキャラがいるなら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【永】 あなたのキャラすべてが《セラフ》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「魂の仕組みと幾億光年の旅」があり、他のあなたの《セラフ》のキャラがいるなら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"セラフ",
 		"第31A部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W117-056SEC",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w117/hbr_w117_056sec.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w117/hbr_w117_056sec.png",
+	"tags": null,
+	"expansionId": 482
 }

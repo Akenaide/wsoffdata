@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ボクが最上さ。大丈夫、今度は衝突しないって。ホントだよ。",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《艦娘》のキャラでないなら、このカードを【レスト】する。（公開したカードは元に戻す）",
 		"【自】 チェンジ ［(2) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「最上型航空巡洋艦1番艦 最上改」を1枚選び、このカードがいた枠に置く。"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"重巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-143",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_143.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_143.png",
+	"tags": null,
+	"expansionId": 113
 }

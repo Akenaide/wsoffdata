@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おはよーございまーす",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードはサイドアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_010.png",
+	"tags": null,
+	"expansionId": 152
 }

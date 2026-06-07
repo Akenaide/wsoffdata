@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふふん。いつでも相手になるわよ",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《超能力》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"超能力",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W26-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w26/rg_w26_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w26/rg_w26_064.png",
+	"tags": null,
+	"expansionId": 103
 }

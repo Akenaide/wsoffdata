@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "（俺は、いま幸せなのか？）",
+	"trigger": null,
 	"ability": [
 		"【自】 相手の【スタンド】しているキャラが【レスト】した時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"スニーカー文庫",
 		"SOS団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssy/W62-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ssy_w62/ssy_w62_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ssy_w62/ssy_w62_017.png",
+	"tags": null,
+	"expansionId": 259
 }

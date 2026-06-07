@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そ、独り言…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_t04.png",
+	"tags": null,
+	"expansionId": 242
 }

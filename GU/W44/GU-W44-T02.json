@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_t02.png",
+	"tags": null,
+	"expansionId": 175
 }

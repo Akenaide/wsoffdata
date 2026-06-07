@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キュゥべえ「彼女が、まだ希望を求めているからさ」",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ あなたのクライマックス置場に「時間操作」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"魔法",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_050.png",
+	"tags": null,
+	"expansionId": 74
 }

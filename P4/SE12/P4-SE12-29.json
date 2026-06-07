@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おはようございます",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、相手は1枚引いてよい。そうしたら、相手は自分の手札を1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"男装",
 		"探偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-29",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_29.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_29.png",
+	"tags": null,
+	"expansionId": 75
 }

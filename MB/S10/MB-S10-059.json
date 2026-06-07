@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "無事ですか、姉さん？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《双子》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"双子",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_059.png",
+	"tags": null,
+	"expansionId": 48
 }

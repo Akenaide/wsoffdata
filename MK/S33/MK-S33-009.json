@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "皆さん…",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。",
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の「メロディア」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_009.png",
+	"tags": null,
+	"expansionId": 136
 }

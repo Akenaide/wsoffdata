@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やめて！その名前で呼ばないで！私、私どうしてあんなバカな事を……！",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×2000に等しい。",
-		"【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。"
+		"【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×2000に等しい。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sks/W62-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sks_w62/sks_w62_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sks_w62/sks_w62_067.png",
+	"tags": null,
+	"expansionId": 259
 }

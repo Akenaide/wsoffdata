@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたのカード名に「リョウ」を含むキャラがいるなら、そのターン中、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"人気者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BTR/W107-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/btr_w107/btr_w107_055.png",
+	"tags": null,
+	"expansionId": 444
 }

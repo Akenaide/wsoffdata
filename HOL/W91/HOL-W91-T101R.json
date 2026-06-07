@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これが思い込みの狂気…",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ホロライブ》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《ホロライブ》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"4期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T101R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t101r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t101r.png",
+	"tags": null,
+	"expansionId": 355
 }

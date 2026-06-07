@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今の私は新しい時を見ているのであります",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"炎",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_t04.png",
+	"tags": null,
+	"expansionId": 53
 }

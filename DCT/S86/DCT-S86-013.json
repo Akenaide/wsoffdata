@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "やるならやったるでぇ！！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 あなたの思い出が3枚以上なら、このカードは次の能力を得る。『【永】 他のあなたの《ノッカーアップ》のキャラすべてに、パワーを＋1000。』",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
-		"【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
+		"【永】 記憶 あなたの思い出が3枚以上なら、このカードは次の能力を得る。『【永】 他のあなたの《ノッカーアップ》のキャラすべてに、パワーを＋1000。』\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ノッカーアップ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DCT/S86-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dct_s86/dct_s86_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dct_s86/dct_s86_013.png",
+	"tags": null,
+	"expansionId": 387
 }

@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"秘密結社キサラギ",
 		"アンドロイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssh/W123-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssh_w123_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/ssh_w123_t04.png",
+	"tags": null,
+	"expansionId": 509
 }

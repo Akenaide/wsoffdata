@@ -10,20 +10,21 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "てやぁぁぁぁぁーっ！！！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
 		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/S11-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_071.png",
+	"tags": null,
+	"expansionId": 50
 }

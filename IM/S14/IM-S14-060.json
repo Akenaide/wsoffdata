@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えへへっ、プロデューサーさん！\u003cbr /\u003e私のハート、届きましたか？",
+	"trigger": null,
 	"ability": [
 		"【自】 アンコール ［(1) あなたの【スタンド】している《音楽》のキャラを2枚【レスト】する］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_060.png",
+	"tags": null,
+	"expansionId": 64
 }

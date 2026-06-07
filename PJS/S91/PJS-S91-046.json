@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アイドルを目指してる人なら、みんなこのくらいはやってるはずだもん！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《MORE MORE JUMP！》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《MORE MORE JUMP！》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"MORE MORE JUMP！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_046.png",
+	"tags": null,
+	"expansionId": 380
 }

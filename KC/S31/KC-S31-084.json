@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "提督も修理ですか？　どこが壊れてます？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《艦娘》のキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《艦娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"工作艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_084.png",
+	"tags": null,
+	"expansionId": 130
 }

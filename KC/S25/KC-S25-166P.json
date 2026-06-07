@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まるゆがお荷物持って行きますね。はい、モグラ輸送です。",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
 		"【起】［(1) このカードを控え室に置く］ あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"潜水艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-166P",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_166p.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_166p.png",
+	"tags": null,
+	"expansionId": 113
 }

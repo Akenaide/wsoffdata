@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "SECRET",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《魔法》か《本》のキャラすべてに、パワーを＋1000。",
-		"【起】［(2) あなたの舞台の「まどろみの時 リインフォース」を1枚とこのカードを思い出にする］ あなたは自分の控え室の「一心同体 はやて＆リインフォース」を1枚選び、このカードがいた枠に置く。"
+		"【永】 他のあなたの、《魔法》か《本》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［(2) あなたの舞台の「まどろみの時 リインフォース」を1枚とこのカードを思い出にする］ あなたは自分の控え室の「一心同体 はやて＆リインフォース」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W32-077S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w32/n2_w32_077s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w32/n2_w32_077s.png",
+	"tags": null,
+	"expansionId": 127
 }

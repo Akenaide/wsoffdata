@@ -15,20 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アイス、かわいく盛ってもらっちゃいましたっ！　えへへっ、見てるだけでドキドキしちゃいますっ。",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 あなたのCX置場に「Deep, Deep Blue」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室の「秋色ハイ、ターッチ♪　高槻やよい」を1枚まで選び、手札に戻す。"
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのCX置場に「Deep, Deep Blue」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室の「秋色ハイ、ターッチ♪　高槻やよい」を1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"家族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IAS/SE52-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_se52/ias_se52_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_se52/ias_se52_15.png",
+	"tags": null,
+	"expansionId": 522
 }

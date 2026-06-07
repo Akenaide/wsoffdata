@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "見せるならやっぱカッコ良い所だろう",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋3000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「会長のプライド」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《秀知院》のキャラを1枚まで選び、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋1500。"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「会長のプライド」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《秀知院》のキャラを1枚まで選び、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"秀知院",
 		"会長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S79-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_036.png",
+	"tags": null,
+	"expansionId": 317
 }

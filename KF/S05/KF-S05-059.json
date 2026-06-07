@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よっしゃああ！",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［このカードをクロック置場に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「テリー・ボガード」を1枚選び、このカードがいた枠に置く。",
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の控え室の、《動物》か《忍》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"鉢巻"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_059.png",
+	"tags": null,
+	"expansionId": 27
 }

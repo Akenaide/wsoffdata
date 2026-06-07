@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああ、間違いない",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"六面世界",
 		"戦士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_025.png",
+	"tags": null,
+	"expansionId": 346
 }

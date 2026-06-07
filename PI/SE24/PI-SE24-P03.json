@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "イリヤ「もー、いい加減にしてよね！」",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE24-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se24/pi_se24_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se24/pi_se24_p03.png",
+	"tags": null,
+	"expansionId": 13
 }

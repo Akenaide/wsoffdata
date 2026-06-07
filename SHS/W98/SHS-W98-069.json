@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "加藤さん、変わったわね……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時か「世界一幸せなイラストレーター 英梨々」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】 このカードがアタックした時、他のあなたの《ゲーム》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+		"【自】 このカードが手札から舞台に置かれた時か「世界一幸せなイラストレーター 英梨々」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《ゲーム》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_069.png",
+	"tags": null,
+	"expansionId": 391
 }

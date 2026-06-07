@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】 あなたのクライマックス置場に「icy tail集結！」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「徹夜でヘルプ作業 時乃」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
-		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【自】【CXコンボ】 あなたのクライマックス置場に「icy tail集結！」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「徹夜でヘルプ作業 時乃」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_090.png",
+	"tags": null,
+	"expansionId": 278
 }

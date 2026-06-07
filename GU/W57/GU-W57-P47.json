@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この帽子から花がでたら拍手お願い！",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W57-P47",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w57/gu_w57_p47.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w57/gu_w57_p47.png",
+	"tags": null,
+	"expansionId": 12
 }

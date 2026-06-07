@@ -15,8 +15,8 @@
 	"rarity": "MAX",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"男装",
 		"薔薇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/SE43-45MAX",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_45max.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_se43/kf_se43_45max.png",
+	"tags": null,
+	"expansionId": 441
 }

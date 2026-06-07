@@ -8,24 +8,24 @@
 	"jpName": "シルヴァリー・エンド・セイバー",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "我は銀の理を知る者・我は真なる銀に選ばれし者\u003cbr\u003e蒼天に満ちし神銀・緑地に散らばる真銀\u003cbr\u003e其の銀は時に雷のごとく迸り・其の銀は時に闇夜を照らす光となる\u003cbr\u003e皇貴なる天銀・無垢なる白銀\u003cbr\u003e真銀よ我が手に集え・かの敵を銀滅せんがために――",
 	"trigger": [
 		"COMEBACK"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[salvage.gif]]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Sde/W123-098",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sde_w123_098.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/sde_w123_098.png",
+	"tags": null,
+	"expansionId": 510
 }

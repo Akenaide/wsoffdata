@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大丈夫！ちゃんと乗ってるよ！",
+	"trigger": null,
 	"ability": [
-		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
-		"このカードをストック置場に置く。"
+		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』\u003cbr\u003eこのカードをストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DJ/S97-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_057.png",
+	"tags": null,
+	"expansionId": 423
 }

@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "オトナは、こういう場合、王様ゲームするの。\u003cbr /\u003e法律で決まってるの…ヒック",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のクロック置場のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。",
 		"相手の【スタンド】しているキャラがいないなら、あなたはこのカードをストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P4/S08-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_s08/p4_s08_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_s08/p4_s08_046.png",
+	"tags": null,
+	"expansionId": 34
 }

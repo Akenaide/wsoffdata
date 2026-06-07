@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは1枚引く。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[SHOT]のCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは1枚引く。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[[shot.gif]]のCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ワンダーランズ×ショウタイム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S125-017S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_017s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s125/pjs_s125_017s.png",
+	"tags": null,
+	"expansionId": 536
 }

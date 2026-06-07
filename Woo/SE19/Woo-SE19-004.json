@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《謎》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
 		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《謎》のキャラでないなら、そのターン中、このカードのパワーを－2000。（公開したカードは元に戻す）"
@@ -25,8 +25,9 @@
 		"謎",
 		"虚無"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Woo/SE19-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/woo_se19/woo_se19_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/woo_se19/woo_se19_004.png",
+	"tags": null,
+	"expansionId": 109
 }

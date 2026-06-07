@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "また 新しい一年の始まりですね",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの黄のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_011.png",
+	"tags": null,
+	"expansionId": 162
 }

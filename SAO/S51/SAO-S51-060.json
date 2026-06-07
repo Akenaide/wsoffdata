@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "平気です！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
-		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1000。"
+		"【永】 他のあなたの前列の中央の枠のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\u003cbr\u003e【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S51-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s51/sao_s51_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s51/sao_s51_060.png",
+	"tags": null,
+	"expansionId": 209
 }

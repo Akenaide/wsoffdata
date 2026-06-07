@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたの背中は守る…存分になされよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 他のあなたの《眼帯》のキャラが控え室から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_089.png",
+	"tags": null,
+	"expansionId": 28
 }

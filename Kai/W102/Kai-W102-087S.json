@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の青のカードを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「最後の夏やすみ 観鈴」か「どこまでも続く夏の空 観鈴」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -25,8 +25,9 @@
 		"夏",
 		"家族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kai/W102-087S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/kai_w102_087s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/kai_w102_087s.png",
+	"tags": null,
+	"expansionId": 406
 }

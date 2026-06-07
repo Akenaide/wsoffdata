@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "つかさ「こなちゃん　どこ行くの？」\u003cbr /\u003eこなた「ん？　つかさも一緒に行かない？」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《双子》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"オタク",
 		"ネトゲ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-107",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_107.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_107.png",
+	"tags": null,
+	"expansionId": 12
 }

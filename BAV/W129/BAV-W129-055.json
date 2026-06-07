@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"風紀委員会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W129-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w129/bav_w129_055.png",
+	"tags": null,
+	"expansionId": 530
 }

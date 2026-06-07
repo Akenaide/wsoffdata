@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "巴「しかし、あれだな。そんなに素直になられたらアタシの役目がなくなっちまうな」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《Afterglow》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分のクロックを1枚選び、手札に戻す。このカードを思い出にする。"
+		"このカードは、あなたの《Afterglow》のキャラがいないなら、手札からプレイできない。\u003cbr/\u003eあなたは自分のクロックを1枚選び、手札に戻す。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W54-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_046.png",
+	"tags": null,
+	"expansionId": 213
 }

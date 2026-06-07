@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "将棋の腕前はもはや名人級！いや、暴風竜だけに、竜王級である！",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの《魔大陸》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+		"【自】 他のあなたの《魔大陸》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S101-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s101/tsk_s101_035.png",
+	"tags": null,
+	"expansionId": 412
 }

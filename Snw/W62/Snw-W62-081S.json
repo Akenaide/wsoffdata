@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ハインリーケ「ゆくぞ、那佳！」\u003cbr\u003e那佳「はい！もうひと稼ぎしますよ！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《スニーカー文庫》か《魔法》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ネウロイの大攻勢」があり、他のあなたの「第506統合戦闘航空団 那佳＆ハインリーケ」がいるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、相手の後列のレベル1以下のキャラを1枚まで選び、山札の下に置く。"
+		"【永】 他のあなたの、《スニーカー文庫》か《魔法》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ネウロイの大攻勢」があり、他のあなたの「第506統合戦闘航空団 那佳＆ハインリーケ」がいるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、相手の後列のレベル1以下のキャラを1枚まで選び、山札の下に置く。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Snw/W62-081S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/snw_w62/snw_w62_081s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/snw_w62/snw_w62_081s.png",
+	"tags": null,
+	"expansionId": 259
 }

@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―栄養バランスや注意点が細かく書かれた手書きのレシピ―",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のクロックの上から1枚までを、控え室に置き、自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MR/W59-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_097.png",
+	"tags": null,
+	"expansionId": 232
 }

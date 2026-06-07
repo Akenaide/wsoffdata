@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "本来、同時に存在してはいけない梓川の心臓がふたつあるから、梓川の胸に傷が生まれてるんじゃないの？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
-		"【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「複雑な心境」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「頼れる友人 双葉 理央」を1枚まで選び、このカードがいた枠に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「複雑な心境」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「頼れる友人 双葉 理央」を1枚まで選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_079.png",
+	"tags": null,
+	"expansionId": 290
 }

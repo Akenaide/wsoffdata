@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぴっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
@@ -25,8 +25,9 @@
 		"メカ",
 		"葬儀社"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_065.png",
+	"tags": null,
+	"expansionId": 76
 }

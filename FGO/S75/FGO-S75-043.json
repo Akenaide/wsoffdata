@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今回は我自らが仕事を言い渡す",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"バビロニア",
 		"賢王"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_043.png",
+	"tags": null,
+	"expansionId": 298
 }

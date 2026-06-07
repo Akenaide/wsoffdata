@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "彼女の強さだけではない 美しさを出したいの",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《レヴュー》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《レヴュー》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"レヴュー",
 		"聖翔音楽学園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S69-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s69/rsl_s69_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s69/rsl_s69_082.png",
+	"tags": null,
+	"expansionId": 279
 }

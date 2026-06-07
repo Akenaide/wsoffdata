@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「おはよう」と「笑顔」は元気の素！\u003cbr /\u003e「カラオケ」と「カフェイン」は命の素！！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル2以上のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -25,8 +25,9 @@
 		"ビジュアルアーツ",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VA/WPR-P23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/va_wpr/va_wpr_p23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/va_wpr/va_wpr_p23.png",
+	"tags": null,
+	"expansionId": 12
 }

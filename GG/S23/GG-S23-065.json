@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キ？",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ 他のあなたの《手紙》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_065.png",
+	"tags": null,
+	"expansionId": 101
 }

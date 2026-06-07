@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "焦るな…焦るな…焦らせるなッ！",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 バトル中のこのカードが【リバース】した時、相手は1枚引いてよい。そうしたら、相手は自分の手札を1枚選び、控え室に置く。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、相手は1枚引いてよい。そうしたら、相手は自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W89-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w89/sg_w89_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w89/sg_w89_072.png",
+	"tags": null,
+	"expansionId": 343
 }

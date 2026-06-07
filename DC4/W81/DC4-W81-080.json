@@ -15,21 +15,21 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "はい……はい、先輩っ……私も……。ずっと……我慢、していました……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+		"【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC4/W81-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc4_w81/dc4_w81_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc4_w81/dc4_w81_080.png",
+	"tags": null,
+	"expansionId": 310
 }

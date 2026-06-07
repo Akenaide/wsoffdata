@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やっぱりわたし……みんなと一緒にいたかったんだな、って",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 あなたのクライマックス置場に「味は変わらないのに」か「見上げる先に」が置かれた時、前列にこのカードがいて、あなたの手札が6枚以下で、他のあなたの《音楽》のキャラがいるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Leo/need"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_062.png",
+	"tags": null,
+	"expansionId": 380
 }

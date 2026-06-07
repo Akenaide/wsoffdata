@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「シズンデェ！」が置かれた時、前列にこのカードがいるなら、あなたは相手のレベル0以下のキャラを1枚まで選び、控え室に置き、自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"深海棲艦",
 		"姫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/SE28-02SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_se28/kc_se28_02sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_se28/kc_se28_02sp.png",
+	"tags": null,
+	"expansionId": 157
 }

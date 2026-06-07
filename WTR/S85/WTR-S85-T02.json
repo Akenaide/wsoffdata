@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日はこれで終わりですか？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"トリオン",
 		"荒船隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WTR/S85-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wtr_s85/wtr_s85_t02.png",
+	"tags": null,
+	"expansionId": 359
 }

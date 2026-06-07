@@ -15,18 +15,18 @@
 	"rarity": "SPM",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、他のあなたのキャラすべてに、パワーを＋1000。",
-		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ あなたのクライマックス置場に「煌めくステージへ」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、カードを1枚選び、手札に加え、残りのカードを山札の上に好きな順番で置く。"
+		"【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、他のあなたのキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ あなたのクライマックス置場に「煌めくステージへ」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、カードを1枚選び、手札に加え、残りのカードを山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE31-025SPM",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_025spm.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we31/bd_we31_025spm.png",
+	"tags": null,
+	"expansionId": 233
 }

@@ -15,21 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの、《リコリコ》か《武器》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがトリガーした時、相手は自分の山札の上から4枚を、控え室に置き、このカードの下にマーカーがないなら、あなたは自分の控え室のカードを1枚まで選び、このカードの下にマーカーとして表向きに置く。",
-		"【起】［(1) このカードの下のマーカーを1枚控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたの、《リコリコ》か《武器》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[salvage.gif]]のCXがトリガーした時、相手は自分の山札の上から4枚を、控え室に置き、このカードの下にマーカーがないなら、あなたは自分の控え室のカードを1枚まで選び、このカードの下にマーカーとして表向きに置く。\u003cbr\u003e【起】［(1) このカードの下のマーカーを1枚控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"リコリコ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/WE47-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_we47/lrc_we47_23.png",
+	"tags": null,
+	"expansionId": 491
 }

@@ -15,19 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我、死を恐れるなかれ",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードは、色条件を満たさずに手札からプレイできる。",
-		"【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置く。他のあなたの《音楽》のキャラが4枚以上なら、控え室に置くかわりにストック置場に置いてよい。"
+		"【永】 このカードは、色条件を満たさずに手札からプレイできる。\u003cbr\u003e【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置く。他のあなたの《音楽》のキャラが4枚以上なら、控え室に置くかわりにストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Ave Mujica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W125-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w125/bd_w125_002.png",
+	"tags": null,
+	"expansionId": 506
 }

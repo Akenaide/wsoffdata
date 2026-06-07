@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "偽物指揮官の命令なんて聞かないよ～",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、あなたのキャラすべてが《NIKKE》なら、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《NIKKE》のキャラがいないなら、このカードを控え室に置く。"
+		"【永】 相手のターン中、あなたのキャラすべてが《NIKKE》なら、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《NIKKE》のキャラがいないなら、このカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"インヘルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_097.png",
+	"tags": null,
+	"expansionId": 494
 }

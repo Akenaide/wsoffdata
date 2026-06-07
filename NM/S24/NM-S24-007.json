@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あー嫌じゃ嫌じゃ、何が悲しゅうてこんな\u003cbr /\u003eどうでもいい下等な人間如きに従わねばならんのやら",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_007.png",
+	"tags": null,
+	"expansionId": 105
 }

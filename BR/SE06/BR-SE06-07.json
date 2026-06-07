@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うん、いいよ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「クラスメイト ユウ」がいるなら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の控え室の「“Dead Scythe”デッドマスター」を1枚選び、このカードがいた枠に置く。』",
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BR/SE06-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/br_se06/br_se06_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/br_se06/br_se06_07.png",
+	"tags": null,
+	"expansionId": 51
 }

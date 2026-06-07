@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "必ず自分が幸運だったと思い知らせてやる",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがレベルアップした時、このカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_054.png",
+	"tags": null,
+	"expansionId": 7
 }

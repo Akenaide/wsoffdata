@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しばらく呼ぶな。一週間彼氏と旅行に行く。彼氏とな",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが、手札か山札から舞台に置かれた時、すべてのプレイヤーに1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
@@ -24,8 +24,9 @@
 		"鍵",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_034.png",
+	"tags": null,
+	"expansionId": 43
 }

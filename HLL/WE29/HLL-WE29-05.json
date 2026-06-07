@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我の力、存分に使うがよい",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《定理者》か《使者》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「ニーナ」を含むキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。"
+		"【永】 他のあなたの、《定理者》か《使者》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「ニーナ」を含むキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"使者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HLL/WE29-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we29/hll_we29_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we29/hll_we29_05.png",
+	"tags": null,
+	"expansionId": 215
 }

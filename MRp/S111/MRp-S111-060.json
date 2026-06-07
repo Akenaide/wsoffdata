@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《Mirrorverse》か《PIXAR》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを公開し、山札の下に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《Mirrorverse》か《PIXAR》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを公開し、山札の下に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
 	"specialAttrib": [
 		"Mirrorverse",
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRp/S111-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrp_S111_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrp_s111_060.png",
+	"tags": null,
+	"expansionId": 471
 }

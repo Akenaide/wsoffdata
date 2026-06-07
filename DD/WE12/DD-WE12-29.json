@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "姫様の命を受けて誠心誠意、\u003cbr /\u003e勇者様がご帰還される方法を探していたでありますが！",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたは自分のカード名に「ミルヒ」を含むキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-29",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_29.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_29.png",
+	"tags": null,
+	"expansionId": 71
 }

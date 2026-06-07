@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キングには、クイーンが必要…",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「秋葉」を含むキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"コロニー",
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SK/WE03-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sk_we03/sk_we03_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sk_we03/sk_we03_013.png",
+	"tags": null,
+	"expansionId": 23
 }

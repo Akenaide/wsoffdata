@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だーめ、一生懸命考えてみて",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BFR/S78-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bfr_s78/bfr_s78_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bfr_s78/bfr_s78_t04.png",
+	"tags": null,
+	"expansionId": 312
 }

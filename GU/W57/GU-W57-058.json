@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ココア「お姉ちゃんは、いつも私の想像の上をいくよ～～！」",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を2枚控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは他の自分のカード名に「ココア」を含むキャラを1枚と、このカードを選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"パン",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W57-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w57/gu_w57_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w57/gu_w57_058.png",
+	"tags": null,
+	"expansionId": 221
 }

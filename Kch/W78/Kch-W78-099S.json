@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日はすぐほかほかのお布団にくるまれたい気分なのでーー",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》か《能力者》のキャラかイベントなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。（公開したカードは元に戻す）"
 	],
@@ -25,8 +25,9 @@
 		"能力者",
 		"ピザソース"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kch/W78-099S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kch_w78/kch_w78_099s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kch_w78/kch_w78_099s.png",
+	"tags": null,
+	"expansionId": 296
 }

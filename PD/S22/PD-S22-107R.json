@@ -8,24 +8,25 @@
 	"jpName": "ODDS＆ENDS",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "SECRET",
 	"trigger": [
 		"POOL"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[POOL]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+		"（[[stock.gif]]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PD/S22-107R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_107r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_107r.png",
+	"tags": null,
+	"expansionId": 89
 }

@@ -10,21 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私だって上達してる",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「三玖」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分のマーカーを持たないカード名に「三玖」を含むキャラを1枚選び、このカードをそのキャラの下にマーカーとして表向きに置き、そのターン中、そのキャラのパワーを＋2000。",
-		"あなたは自分の控え室のカード名に「三玖」を含むキャラを1枚選び、手札に戻す。"
+		"このカードは、あなたのカード名に「三玖」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分のマーカーを持たないカード名に「三玖」を含むキャラを1枚選び、このカードをそのキャラの下にマーカーとして表向きに置き、そのターン中、そのキャラのパワーを＋2000。\u003cbr\u003eあなたは自分の控え室のカード名に「三玖」を含むキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "5HY/W101-097S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w101/5hy_w101_097s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w101/5hy_w101_097s.png",
+	"tags": null,
+	"expansionId": 399
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいから受け取んなさいよ",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W34-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w34/ll_w34_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w34/ll_w34_089.png",
+	"tags": null,
+	"expansionId": 134
 }

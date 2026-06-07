@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "な……なぜそれを？",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのCX置場にトリガーアイコンが[CHOICE]を得る。",
-		"【永】 あなたのターン中、他のあなたの《きんいろ》のキャラが2枚以上なら、このカードのパワーを＋4000。"
+		"【永】 あなたのCX置場にトリガーアイコンが[[choice.gif]]のCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[[choice.gif]]を得る。\u003cbr\u003e【永】 あなたのターン中、他のあなたの《きんいろ》のキャラが2枚以上なら、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"金髪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-016S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_016s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_016s.png",
+	"tags": null,
+	"expansionId": 534
 }

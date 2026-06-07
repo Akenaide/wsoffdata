@@ -15,8 +15,8 @@
 	"rarity": "MDR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"人間",
 		"ドラゴン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMD/W96-053MDR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_053mdr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmd_w96/kmd_w96_053mdr.png",
+	"tags": null,
+	"expansionId": 386
 }

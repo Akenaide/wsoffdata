@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はいよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"セクシー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-161",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_161.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_161.png",
+	"tags": null,
+	"expansionId": 13
 }

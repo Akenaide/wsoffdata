@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Droopy McCool",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じカード名のカードは、デッキに13枚まで入れることができる。",
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ジェダイの帰還"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-045b_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_045b_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_045b_.png",
+	"tags": null,
+	"expansionId": 400
 }

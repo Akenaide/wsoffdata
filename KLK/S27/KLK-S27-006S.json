@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"服",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-006S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_006s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_006s.png",
+	"tags": null,
+	"expansionId": 117
 }

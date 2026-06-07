@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "君、昼食は？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのキャラがダイレクトアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 応援 このカードの前のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのキャラがダイレクトアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"生徒会",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S43-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_013.png",
+	"tags": null,
+	"expansionId": 176
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "何がなんでもブチのめす!!",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"ダークテリトリー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_069.png",
+	"tags": null,
+	"expansionId": 318
 }

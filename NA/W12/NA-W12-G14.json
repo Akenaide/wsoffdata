@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リーゼアリア 「幸いにも２対１！　ロッテ！\u003cbr /\u003eコンビネーションで仕留めるよ！」\u003cbr /\u003eリーゼロッテ 「おうともアリア！\u003cbr /\u003e電光石火で、ブッとばすっ！！」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《使い魔》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"双子",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-G14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_g14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_g14.png",
+	"tags": null,
+	"expansionId": 53
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「“お兄ちゃん”士郎」1枚につき、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"先生",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE24-44",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se24/pi_se24_44.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se24/pi_se24_44.png",
+	"tags": null,
+	"expansionId": 133
 }

@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/W30-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_w30/nk_w30_t11.png",
+	"tags": null,
+	"expansionId": 111
 }

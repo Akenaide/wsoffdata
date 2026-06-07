@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――ですが忘れないでください。\u003cbr /\u003eその道は、名もなきひとりの兵士によって\u003cbr /\u003e切り開かれたものであることを――",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RW/W20-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w20/rw_w20_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w20/rw_w20_078.png",
+	"tags": null,
+	"expansionId": 84
 }

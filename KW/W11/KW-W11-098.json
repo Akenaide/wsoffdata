@@ -8,14 +8,14 @@
 	"jpName": "飛べないアルビナの願い",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "氷室「あなたには、私の代わりに飛んで欲しかったのに…っ！」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KW/W11-098",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kw_w11/kw_w11_098.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kw_w11/kw_w11_098.png",
+	"tags": null,
+	"expansionId": 46
 }

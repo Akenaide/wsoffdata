@@ -15,20 +15,19 @@
 	"rarity": "MR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「アイアンマン＆アイアンハート」がいないなら、他のあなたのすべての領域のトリガーアイコンが[COMEBACK]を与える。",
-		"【永】 応援 このカードの前のあなたの《MARVEL》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがCX置場に置かれた時、あなたは自分のカード名に「アイアンマン」を含むキャラを3枚まで選び、そのターン中、パワーを＋500し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』"
+		"【永】 他のあなたの「アイアンマン＆アイアンハート」がいないなら、他のあなたのすべての領域のトリガーアイコンが[[salvage.gif]]のCXのトリガーアイコンに[[soul.gif]]を与える。\u003cbr\u003e【永】 応援 このカードの前のあなたの《MARVEL》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[salvage.gif]]のCXがCX置場に置かれた時、あなたは自分のカード名に「アイアンマン」を含むキャラを3枚まで選び、そのターン中、パワーを＋500し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S113-061MR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_061mr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s113/mar_s113_061mr.png",
+	"tags": null,
+	"expansionId": 484
 }

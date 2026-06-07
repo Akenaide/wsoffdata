@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は･･･魂を同じくする下部達と尊い祝祭を上げる･･･",
+	"trigger": null,
 	"ability": [
-		"あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-		"あなたは自分の青のキャラを1枚選び、そのターン中、パワーを＋3000。"
+		"あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\u003cbr/\u003eあなたは自分の青のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IMC/W41-107",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_107.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_107.png",
+	"tags": null,
+	"expansionId": 151
 }

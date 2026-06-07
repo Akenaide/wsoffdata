@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そんな王様を悪い人だとか言うやつは、\u003cbr\u003eボクがこの手で、ブチころがすっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NR/W58-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_084.png",
+	"tags": null,
+	"expansionId": 226
 }

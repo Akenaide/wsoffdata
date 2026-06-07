@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "望みを捨てちゃダメ。まだ彼は戻るかもしれない",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-124_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_124_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_124_.png",
+	"tags": null,
+	"expansionId": 400
 }

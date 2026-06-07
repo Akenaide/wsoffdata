@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……やめちゃうの？",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、このカードがいた枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_018.png",
+	"tags": null,
+	"expansionId": 428
 }

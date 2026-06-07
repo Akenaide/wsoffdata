@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《新聞》のキャラを1枚まで選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"パジャマ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-042S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_042s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_042s.png",
+	"tags": null,
+	"expansionId": 78
 }

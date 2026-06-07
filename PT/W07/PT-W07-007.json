@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたとあたしはこれからパートナーよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのカード名に「ファントム」を含むキャラすべてに、パワーを＋500。",
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"時計"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_007.png",
+	"tags": null,
+	"expansionId": 32
 }

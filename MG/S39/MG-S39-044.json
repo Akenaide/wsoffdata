@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "勝負しよう、沼地",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時かこのカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《怪異》のキャラなら、そのターン中、このカードのパワーを＋2500。",
-		"【自】 このカードがアタックした時、クライマックス置場に「青春とけじめ」があるなら、あなたは自分の手札すべてを、控え室に置き、同じ枚数引く。"
+		"【自】 このカードがアタックした時かこのカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《怪異》のキャラなら、そのターン中、このカードのパワーを＋2500。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「青春とけじめ」があるなら、あなたは自分の手札すべてを、控え室に置き、同じ枚数引く。"
 	],
 	"specialAttrib": [
 		"怪異",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_044.png",
+	"tags": null,
+	"expansionId": 159
 }

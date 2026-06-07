@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "レーナと。名前で呼んでもらえませんか……？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《電撃文庫》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、次の相手のターンの終わりまで、レベルを＋1。"
+		"【永】 応援 このカードの前のあなたの《電撃文庫》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、次の相手のターンの終わりまで、レベルを＋1。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"第86独立機動打撃群"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "G86/WS02-107",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/g86_ws02_107.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/g86_ws02_107.png",
+	"tags": null,
+	"expansionId": 439
 }

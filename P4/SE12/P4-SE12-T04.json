@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よぉぉぉし！いくか！！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「ジライヤ発動」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「面倒見のいいムードメーカー 陽介」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"ジュネス",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_t04.png",
+	"tags": null,
+	"expansionId": 67
 }

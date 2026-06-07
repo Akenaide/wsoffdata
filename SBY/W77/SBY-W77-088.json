@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "先輩、なにやってるの？",
+	"trigger": null,
 	"ability": [
-		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「咲太」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《思春期》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「咲太」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《思春期》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"スマホ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_088.png",
+	"tags": null,
+	"expansionId": 290
 }

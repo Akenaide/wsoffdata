@@ -15,19 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「魔法の呪文」が置かれた時、あなたの手札が5枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「\u0026#34;憧れの舞踏会\u0026#34; シンデレラ」を1枚まで選び、このカードがいた枠に置き、ターンの終わりに、その「\u0026#34;憧れの舞踏会\u0026#34; シンデレラ」を手札に戻す。"
+		"【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「魔法の呪文」が置かれた時、あなたの手札が5枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「\"憧れの舞踏会\" シンデレラ」を1枚まで選び、このカードがいた枠に置き、ターンの終わりに、その「\"憧れの舞踏会\" シンデレラ」を手札に戻す。"
 	],
 	"specialAttrib": [
 		"Celebration",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Dds/S104-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_087.png",
+	"tags": null,
+	"expansionId": 420
 }

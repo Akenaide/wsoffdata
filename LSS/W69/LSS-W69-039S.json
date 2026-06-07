@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "年越しライブが終わったら、みんなでパーティーするんだ。あなたも来てくれる？",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"年越し"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W69-039S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_039s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_039s.png",
+	"tags": null,
+	"expansionId": 273
 }

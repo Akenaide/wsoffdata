@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっといいー??",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「青い海、輝く太陽」があり、あなたのストックが5枚以下なら、あなたは自分の山札を上から3枚まで見て、《パラサイト》か《フランクス》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"パラサイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_004.png",
+	"tags": null,
+	"expansionId": 241
 }

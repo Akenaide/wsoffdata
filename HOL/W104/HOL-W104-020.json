@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 共鳴 ［手札を1枚控え室に置き、手札の「未来へと踏み出す一歩 ラプラス・ダークネス」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《秘密結社holoX》のキャラか「#秘密結社holoX」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ホロライブ",
 		"秘密結社holoX"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W104-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w104/hol_w104_020.png",
+	"tags": null,
+	"expansionId": 419
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "できた！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ラボメン》のキャラを1枚選び、そのターン中、パワーを＋1500し、《コスプレ》を与える。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"裁縫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_012.png",
+	"tags": null,
+	"expansionId": 243
 }

@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列のキャラがいないなら、このカードのレベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_090.png",
+	"tags": null,
+	"expansionId": 93
 }

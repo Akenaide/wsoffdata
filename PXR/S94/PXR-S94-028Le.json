@@ -15,17 +15,17 @@
 	"rarity": "LUXO",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《PIXAR》なら、このカードのレベルを＋2し、パワーを＋1000。",
-		"【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【永】 あなたのキャラすべてが《PIXAR》なら、このカードのレベルを＋2し、パワーを＋1000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S94-028Le",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s94/pxr_s94_028le.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s94/pxr_s94_028le.png",
+	"tags": null,
+	"expansionId": 403
 }

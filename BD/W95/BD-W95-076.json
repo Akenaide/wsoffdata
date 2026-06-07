@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "武器を探すよりも、早くっ、早く逃げないと！",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の「“STAR☆”戸山香澄」を1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－3。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W95-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_076.png",
+	"tags": null,
+	"expansionId": 382
 }

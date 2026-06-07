@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "きっとこの結界が、私の死に場所になるでしょう",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《魔法》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W35-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_039.png",
+	"tags": null,
+	"expansionId": 140
 }

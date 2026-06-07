@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "綺礼「食うか？」\u003cbr\u003e士郎「食うか！」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を上からＸ枚まで見て、カードを2枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《マスター》か《サーヴァント》のキャラの枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FS/S64-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_097.png",
+	"tags": null,
+	"expansionId": 262
 }

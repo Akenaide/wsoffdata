@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "スクールアイドルフェスティバルのメインステージに立てるんだね～！",
+	"trigger": null,
 	"ability": [
 		"相手は自分の控え室のクライマックスを2枚選び、それらのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルし、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LNJ/W85-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w85/lnj_w85_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w85/lnj_w85_035.png",
+	"tags": null,
+	"expansionId": 338
 }

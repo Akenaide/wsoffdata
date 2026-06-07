@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "通称――Mi-Zu-Gi。\u003cbr\u003e新型の対精霊殲滅兵装の一つ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《デート》か《精霊》のキャラか「基礎顕現装置」なら、相手の前列のキャラすべてに、そのターン中、パワーを－500。（公開したカードは元に戻す）",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《デート》か《精霊》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《デート》か《精霊》のキャラか「基礎顕現装置」なら、相手の前列のキャラすべてに、そのターン中、パワーを－500。（公開したカードは元に戻す）\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《デート》か《精霊》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"デート",
 		"AST"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W79-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_030.png",
+	"tags": null,
+	"expansionId": 302
 }

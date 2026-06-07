@@ -15,17 +15,17 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「繋がるメロディー 天王寺 璃奈」を1枚選び、思い出にしてよい。",
-		"【起】［(2) 【スタンド】しているこのカードを思い出にする］ 他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「繋がるメロディー 天王寺 璃奈」を1枚選び、思い出にしてよい。\u003cbr\u003e【起】［(2) 【スタンド】しているこのカードを思い出にする］ 他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W85-009SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w85/lnj_w85_009sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w85/lnj_w85_009sp.png",
+	"tags": null,
+	"expansionId": 338
 }

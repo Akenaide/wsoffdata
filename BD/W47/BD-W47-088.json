@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「有咲、トネガワを売る」があるなら、あなたは自分の山札を見て「イラつくあいつ」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分の山札の上から1枚までを、ストック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"盆栽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_088.png",
+	"tags": null,
+	"expansionId": 196
 }

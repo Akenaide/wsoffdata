@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサー、まだまだレッスンが足りません\u003cbr /\u003eもう３時間ほどお願いします",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたの《音楽》のキャラすべてに、そのターン中、『【自】 アンコール ［(1)］』を与える。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S07-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_072.png",
+	"tags": null,
+	"expansionId": 29
 }

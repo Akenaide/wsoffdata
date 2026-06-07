@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "7人の女神の祝福により、\u003cbr /\u003e我、400光年の彼方よりここに降臨。\u003cbr /\u003eアイアム――ミスター・プレアデス！",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_059.png",
+	"tags": null,
+	"expansionId": 86
 }

@@ -15,7 +15,7 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"武器",
 		"フォーミュラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-047SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_047ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_047ssp.png",
+	"tags": null,
+	"expansionId": 268
 }

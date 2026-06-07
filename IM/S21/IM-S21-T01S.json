@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "天海春香、トップアイドル、目指します！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-T01S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_t01s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_t01s.png",
+	"tags": null,
+	"expansionId": 67
 }

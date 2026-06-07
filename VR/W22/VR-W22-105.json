@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これなら……私にもできる！\u003cbr /\u003e守ってもらってばかりだった私が……！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《鍵》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"鍵",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VR/W22-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_105.png",
+	"tags": null,
+	"expansionId": 88
 }

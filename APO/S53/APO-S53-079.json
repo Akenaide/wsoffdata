@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "何もするなだと！くそ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「ホムンクルス」すべてに、パワーを＋1000。",
-		"【永】 応援 このカードの前のあなたの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《ホムンクルス》のキャラを1枚選び、ストック置場に置く。"
+		"【永】 他のあなたの「ホムンクルス」すべてに、パワーを＋1000。\u003cbr\u003e【永】 応援 このカードの前のあなたの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《ホムンクルス》のキャラを1枚選び、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_079.png",
+	"tags": null,
+	"expansionId": 228
 }

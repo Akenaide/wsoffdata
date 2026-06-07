@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Luke: \"Not on your life. That little droid and I have been through a lot together.\"",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】［このカードを【レスト】する］ あなたがイベントをプレイした時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"新たなる希望"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-093S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_093s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_093s.png",
+	"tags": null,
+	"expansionId": 199
 }

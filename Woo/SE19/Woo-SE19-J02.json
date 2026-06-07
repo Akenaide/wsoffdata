@@ -15,8 +15,8 @@
 	"rarity": "WR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは旅に出る。相手が探しに来たなら、すぐに戻る。そうでないなら、しばらくして戻ってくる。（お買い物やお手洗いに行ってきてもよい）",
 		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
@@ -25,8 +25,9 @@
 		"謎",
 		"手紙"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Woo/SE19-J02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/woo_se19/woo_se19_j02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/woo_se19/woo_se19_j02.png",
+	"tags": null,
+	"expansionId": 109
 }

@@ -15,21 +15,20 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場に、黄のカードと青のカードがあるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、次の行動を2回行う。『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』"
+		"【永】 経験 あなたのレベル置場に、黄のカードと青のカードがあるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、次の行動を2回行う。『あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。』"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"2期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-082SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_082ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_082ssp.png",
+	"tags": null,
+	"expansionId": 357
 }

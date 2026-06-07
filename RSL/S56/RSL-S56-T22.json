@@ -8,14 +8,14 @@
 	"jpName": "強烈な輝き",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "華恋「聖翔音楽学園……ここは100年の歴史を持つ、由緒正しい女学校」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RSL/S56-T22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_t22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_t22.png",
+	"tags": null,
+	"expansionId": 240
 }

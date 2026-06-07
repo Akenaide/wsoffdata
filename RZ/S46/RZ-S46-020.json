@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よぉ。オレらが並ぶのはあっちだぜ？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「王選候補者 プリシラ」がいるなら、このカードのパワーを＋3000。",
-		"【永】 前列にこのカードがいるなら、他のあなたの「王選候補者 プリシラ」すべてに、レベルを＋1し、パワーを＋1500。"
+		"【永】 他のあなたの「王選候補者 プリシラ」がいるなら、このカードのパワーを＋3000。\u003cbr\u003e【永】 前列にこのカードがいるなら、他のあなたの「王選候補者 プリシラ」すべてに、レベルを＋1し、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"武器",
 		"騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S46-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s46/rz_s46_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s46/rz_s46_020.png",
+	"tags": null,
+	"expansionId": 185
 }

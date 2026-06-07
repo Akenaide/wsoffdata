@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふかーっ！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 この能力は、1ターンにつき2回しか使えない。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W02-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_003.png",
+	"tags": null,
+	"expansionId": 2
 }

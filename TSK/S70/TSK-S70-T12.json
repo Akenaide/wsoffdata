@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "水刃！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《魔大陸》のキャラすべてに、パワーを＋500。",
-		"【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
+		"【永】 他のあなたの《魔大陸》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"水"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_t12.png",
+	"tags": null,
+	"expansionId": 281
 }

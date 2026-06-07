@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "約束だ、ん？",
+	"trigger": null,
 	"ability": [
 		"【自】 ［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。",
 		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_067.png",
+	"tags": null,
+	"expansionId": 80
 }

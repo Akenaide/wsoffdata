@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 レベル置場にこのカードがあるなら、このカードのレベルを＋3。",
-		"【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【永】 経験 レベル置場にこのカードがあるなら、このカードのレベルを＋3。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"人間",
 		"友達"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDD/S118-068S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_068s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddd_s118/ddd_s118_068s.png",
+	"tags": null,
+	"expansionId": 511
 }

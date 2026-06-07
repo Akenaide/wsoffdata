@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ねえ、これどう？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの『集中』を持つキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"虚無"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_31.png",
+	"tags": null,
+	"expansionId": 77
 }

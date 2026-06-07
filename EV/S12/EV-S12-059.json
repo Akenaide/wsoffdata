@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すまんな、転校生。ワシはお前を殴らないかん。\u003cbr /\u003e殴っとかな気がすまへんのや",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の手札を公開し、自分の手札のレベル0以下のキャラを1枚選び、このカードがいた枠に【レスト】して置く。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_059.png",
+	"tags": null,
+	"expansionId": 49
 }

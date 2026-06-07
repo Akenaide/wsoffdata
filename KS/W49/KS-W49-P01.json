@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ガンガン前に出るので盾代わりにこき使って欲しい！",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 あなたのクロックが3枚以上なら、このカードのパワーを＋1000。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 あなたのクロックが3枚以上なら、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"煩悩"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

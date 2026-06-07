@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カイ……ありがとう",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「かけがえのない思い出」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_084.png",
+	"tags": null,
+	"expansionId": 86
 }

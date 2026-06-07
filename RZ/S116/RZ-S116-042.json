@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"魔法",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S116-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s116/rz_s116_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s116/rz_s116_042.png",
+	"tags": null,
+	"expansionId": 492
 }

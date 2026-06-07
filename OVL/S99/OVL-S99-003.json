@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああ、魔導王陛下\u003cbr\u003eなんとももったいなきお言葉",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 相手のアタックフェイズの始めに、前列の中央の枠にこのカードがいるなら、あなたはこのカードを前列のキャラのいない枠に動かす。"
+		"【永】 他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、前列の中央の枠にこのカードがいるなら、あなたはこのカードを前列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"異形種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S99-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s99/ovl_s99_003.png",
+	"tags": null,
+	"expansionId": 404
 }

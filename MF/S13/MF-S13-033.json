@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じゃあ笑いましょう。みんな、ランカさんの笑顔を待ってるんですから",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、「はじめてのCMソング ランカ」と「開拓重機 ランカ」すべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
 		"【自】 他のあなたのカード名に「ランカ」を含むキャラがアタックした時、そのキャラのパワーがバトル相手より2000以上高いなら、そのキャラのバトル中、相手は『助太刀』を手札からプレイできない。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_033.png",
+	"tags": null,
+	"expansionId": 61
 }

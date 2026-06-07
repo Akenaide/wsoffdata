@@ -15,19 +15,19 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私たちは、フェザーズ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-		"【自】 あなたのクライマックス置場に「フェザーズ出動！」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《探偵》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\u003cbr\u003e【自】 あなたのクライマックス置場に「フェザーズ出動！」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《探偵》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"探偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-T10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_t10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_t10.png",
+	"tags": null,
+	"expansionId": 138
 }

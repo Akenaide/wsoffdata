@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻すか相手の舞台のキャラのいない他の枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"明治剣客浪漫譚",
 		"密偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-090S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_090s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_090s.png",
+	"tags": null,
+	"expansionId": 479
 }

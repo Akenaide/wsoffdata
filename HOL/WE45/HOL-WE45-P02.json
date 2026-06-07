@@ -15,14 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚選び、クロック置場に置き、残りのカードを控え室に置く。1枚クロック置場に置いたなら、あなたは自分の控え室の《ホロライブ》のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"ホロライブ",
+		"ホロライブインドネシア1期生",
+		"ホロライブEnglish-Myth-"
+	],
+	"version": "4",
 	"cardcode": "HOL/WE45-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we45/hol_we45_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we45/hol_we45_p02.png",
+	"tags": null,
+	"expansionId": 465
 }

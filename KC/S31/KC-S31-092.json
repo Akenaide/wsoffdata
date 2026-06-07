@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最高に素敵なパーティしましょう。",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_092.png",
+	"tags": null,
+	"expansionId": 130
 }

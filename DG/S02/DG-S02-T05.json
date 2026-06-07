@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたのハートにLOVE＆PEACE！！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「天界からの刺客」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋1000。",
 		"【起】［あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
@@ -25,8 +25,9 @@
 		"天使",
 		"警察"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_t05.png",
+	"tags": null,
+	"expansionId": 9
 }

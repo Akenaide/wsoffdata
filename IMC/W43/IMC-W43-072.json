@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "いいと思います！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 アンコール ［手札の赤のカードを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 アンコール ［手札の赤のカードを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_072.png",
+	"tags": null,
+	"expansionId": 167
 }

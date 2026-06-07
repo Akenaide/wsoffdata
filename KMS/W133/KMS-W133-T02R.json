@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かアタックした時、あなたは自分の《きんいろ》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"きんいろ",
 		"テニス部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-T02R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_t02r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_t02r.png",
+	"tags": null,
+	"expansionId": 533
 }

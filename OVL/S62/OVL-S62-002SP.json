@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「伝説の幕開け」があるなら、次の相手のターンの終わりまで、このカードのレベルを＋1し、パワーを＋2500し、あなたは自分の山札の上から1枚を公開する。そのカードが《異形種》か《人間種》のキャラなら手札に加える。（そうでないなら元に戻す）"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「伝説の幕開け」があるなら、次の相手のターンの終わりまで、このカードのレベルを＋1し、パワーを＋2500し、あなたは自分の山札の上から1枚を公開する。そのカードが《異形種》か《人間種》のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"異形種",
 		"漆黒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-002SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_002sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_002sp.png",
+	"tags": null,
+	"expansionId": 254
 }

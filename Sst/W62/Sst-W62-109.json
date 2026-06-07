@@ -15,19 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "柚希「……水着がキツくて窒息すれば良いのに」",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
-		"【自】 このカードがアタックした時、あなたは自分の、《スニーカー文庫》か《魔法》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
+		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の、《スニーカー文庫》か《魔法》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"魔法",
 		"妹"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sst/W62-109",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sst_w62/sst_w62_109.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sst_w62/sst_w62_109.png",
+	"tags": null,
+	"expansionId": 259
 }

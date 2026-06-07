@@ -15,17 +15,17 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《音楽》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
-		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのレベルを＋1し、パワーを＋2000。"
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《音楽》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。\u003cbr\u003e【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのレベルを＋1し、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-001SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_001ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_001ssp.png",
+	"tags": null,
+	"expansionId": 272
 }

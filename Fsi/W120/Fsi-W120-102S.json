@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "つくし「正式に今期碧陽学園生徒会長の任を拝命させていただきたく思います」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《ファンタジア文庫》か《生徒会》のキャラの枚数×500に等しい。"
 	],
@@ -25,8 +25,9 @@
 		"生徒会",
 		"真面目"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsi/W120-102S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsi_w120/fsi_w120_102s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsi_w120/fsi_w120_102s.png",
+	"tags": null,
+	"expansionId": 489
 }

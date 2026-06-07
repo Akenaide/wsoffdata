@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは自分の山札の上から1枚を公開する。あなたのこの効果で公開したカードのレベルが相手のこの効果で公開したカードのレベルより高いなら、あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置いてよい。相手の方が高いなら、このカードを【レスト】する。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"フレンズ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMN/W51-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmn_w51/kmn_w51_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmn_w51/kmn_w51_074.png",
+	"tags": null,
+	"expansionId": 205
 }

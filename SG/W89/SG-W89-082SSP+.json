@@ -15,18 +15,18 @@
 	"rarity": "SSP+",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】［手札の《音楽》のキャラを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「守るべき人の価値」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】［手札の《音楽》のキャラを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「守るべき人の価値」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W89-082SSP+",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w89/sg_w89_082ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w89/sg_w89_082ssp.png",
+	"tags": null,
+	"expansionId": 343
 }

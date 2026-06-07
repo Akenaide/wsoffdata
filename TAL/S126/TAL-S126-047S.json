@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふざけろ！正義なんて言葉　チャラチャラ口にすんな！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
-		"【自】 共鳴 ［手札の「シルヴァラントの神子 コレット・ブルーネル」を1枚公開する］ あなたのアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
+		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 共鳴 ［手札の「シルヴァラントの神子 コレット・ブルーネル」を1枚公開する］ あなたのアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"冒険",
 		"シンフォニア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-047S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_047s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_047s.png",
+	"tags": null,
+	"expansionId": 538
 }

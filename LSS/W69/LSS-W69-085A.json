@@ -15,8 +15,8 @@
 	"rarity": "UA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "可愛らしいネコさんのパフォーマンスができるよう、全力を尽くしてまいりますわ……！",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W69-085A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_085a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_085a.png",
+	"tags": null,
+	"expansionId": 273
 }

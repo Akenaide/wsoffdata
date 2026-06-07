@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "兵員の増強が必要だ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【永】 他のあなたの前列の「“新たなる先兵”ストームトルーパー」1枚につき、このカードのパワーを＋2000。"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr\u003e【永】 他のあなたの前列の「“新たなる先兵”ストームトルーパー」1枚につき、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-075re",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_075re.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_075re.png",
+	"tags": null,
+	"expansionId": 400
 }

@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ではごゆっくりー",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】［(4) 手札の、《冒険者》か《魔法》のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。",
-		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+		"【自】［(4) 手札の、《冒険者》か《魔法》のキャラを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。\u003cbr\u003e【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_054.png",
+	"tags": null,
+	"expansionId": 291
 }

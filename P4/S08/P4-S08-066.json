@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何が正しいのか。　何を選択するべきなのか\u003cbr /\u003e答えはあなたの中にあるのよ",
+	"trigger": null,
 	"ability": [
 		"【永】 アラーム このカードがクロックの1番上にあるなら、あなたのキャラすべてに、次の能力を与える。『【永】 相手の【スタンド】しているキャラがいないなら、このカードのパワーを＋1500。』"
 	],
 	"specialAttrib": [
 		"ナース"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/S08-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_s08/p4_s08_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_s08/p4_s08_066.png",
+	"tags": null,
+	"expansionId": 34
 }

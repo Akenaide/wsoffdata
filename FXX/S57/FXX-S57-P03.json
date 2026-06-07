@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ヒロ「そんな時に、君と出逢ったんだ」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】他のあなたの後列の、《パラサイト》か《フランクス》のキャラ1枚につき、このカードのパワーを＋1500。",
-		"【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【永】他のあなたの後列の、《パラサイト》か《フランクス》のキャラ1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1)］ このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"パラサイト",
 		"叫竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_p03.png",
+	"tags": null,
+	"expansionId": 13
 }

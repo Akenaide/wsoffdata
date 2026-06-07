@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてが《音楽》なら、このカードは次の2つの能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』『【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《音楽》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Ave Mujica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W125-005SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_005sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w125/bd_w125_005sp.png",
+	"tags": null,
+	"expansionId": 506
 }

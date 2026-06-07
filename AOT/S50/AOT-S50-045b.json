@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "戦い続ける限りは……まだ、負けてない！",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"兵団",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S50-045b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s50/aot_s50_045b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s50/aot_s50_045b.png",
+	"tags": null,
+	"expansionId": 207
 }

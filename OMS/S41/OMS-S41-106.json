@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今僕誰かと会った？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"６つ子",
 		"スマホ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_106.png",
+	"tags": null,
+	"expansionId": 171
 }

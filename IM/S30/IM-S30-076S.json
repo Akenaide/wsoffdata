@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。あなたは自分の山札を見て《音楽》のキャラをＸ枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。あなたは自分の手札をＸ枚選び、控え室に置く。Ｘはそれらのカードのクライマックスの枚数に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\u003cbr\u003e【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。あなたは自分の山札を見て《音楽》のキャラをＸ枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。あなたは自分の手札をＸ枚選び、控え室に置く。Ｘはそれらのカードのクライマックスの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-076S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_076s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_076s.png",
+	"tags": null,
+	"expansionId": 129
 }

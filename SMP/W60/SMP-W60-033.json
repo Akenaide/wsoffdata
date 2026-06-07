@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょうど良い風が吹いているし。号令だ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「“憶測でする話”鴎」すべてに、パワーを＋2000。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「鴎」を含むキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 他のあなたの「“憶測でする話”鴎」すべてに、パワーを＋2000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「鴎」を含むキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_033.png",
+	"tags": null,
+	"expansionId": 238
 }

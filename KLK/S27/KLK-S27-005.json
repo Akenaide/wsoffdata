@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あれが大阪の新名所、なにわスカイタワー！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《服》か《家族》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"家族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_005.png",
+	"tags": null,
+	"expansionId": 117
 }

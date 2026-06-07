@@ -15,16 +15,17 @@
 	"rarity": "FP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が1以上なら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/WE39-032FP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_032fp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_we39/lnj_we39_032fp.png",
+	"tags": null,
+	"expansionId": 421
 }

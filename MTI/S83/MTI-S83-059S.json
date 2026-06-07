@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ルーデウス！早く起きなさいよ！もう一本行くわよ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】【CXコンボ】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「特別」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードの与えたダメージがキャンセルされなかった時、あなたのクライマックス置場に「特別」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+		"【自】【CXコンボ】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「特別」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードの与えたダメージがキャンセルされなかった時、あなたのクライマックス置場に「特別」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"剣士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-059S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_059s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_059s.png",
+	"tags": null,
+	"expansionId": 346
 }

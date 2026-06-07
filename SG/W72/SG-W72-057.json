@@ -15,19 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "へへッ、あいつばっかにイイ格好させるかよッ！",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、レベルを＋1し、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
-		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「イチイバル」を1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、レベルを＋1し、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\u003cbr\u003e【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「イチイバル」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W72-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w72/sg_w72_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w72/sg_w72_057.png",
+	"tags": null,
+	"expansionId": 275
 }

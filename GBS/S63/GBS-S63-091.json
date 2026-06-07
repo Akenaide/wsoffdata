@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "下手なこと考えても無駄だよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の山札を上から1枚見て、相手の山札を下から1枚見る。（見たカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"秩序",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_091.png",
+	"tags": null,
+	"expansionId": 260
 }

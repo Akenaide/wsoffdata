@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あのような下賤の者を思うのはやめなさい。\u003cbr /\u003e貴方には、相応しいお相手がいるのですよ？",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの青のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"ドレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_093.png",
+	"tags": null,
+	"expansionId": 144
 }

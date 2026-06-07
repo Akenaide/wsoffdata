@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……ありがとう……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_014.png",
+	"tags": null,
+	"expansionId": 311
 }

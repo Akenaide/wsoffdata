@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ターボババア「どっかに落としちまった」",
+	"trigger": null,
 	"ability": [
-		"あなたのキャラすべてが《人間》か《怪異》なら、あなたは自分のクロック置場のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
-		"このカードをクロック置場に置く。"
+		"あなたのキャラすべてが《人間》か《怪異》なら、あなたは自分のクロック置場のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』\u003cbr\u003eこのカードをクロック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DDD/S118-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddd_s118/ddd_s118_017.png",
+	"tags": null,
+	"expansionId": 511
 }

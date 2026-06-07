@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "もうびしょ濡れね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 舞台にこのカードがいるなら、このカードのカード名は「おっぱいさん」としても扱い、あなたのカード名に「羽依里」を含むキャラすべてのカード名は「パイリ」としても扱う。",
-		"【永】 他のあなたの、「“らくしょーで大好き”紬」と「“お話したいこと”紬」すべてに、パワーを＋500。",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。"
+		"【永】 舞台にこのカードがいるなら、このカードのカード名は「おっぱいさん」としても扱い、あなたのカード名に「羽依里」を含むキャラすべてのカード名は「パイリ」としても扱う。\u003cbr\u003e【永】 他のあなたの、「“らくしょーで大好き”紬」と「“お話したいこと”紬」すべてに、パワーを＋500。\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"おっぱい"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_036.png",
+	"tags": null,
+	"expansionId": 238
 }

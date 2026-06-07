@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "レムレム、どうやらお客様ってば、罵声を浴びて興奮するド変態",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのカード名に「ラム」か「レム」を含むキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのカード名に「ラム」か「レム」を含むキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
 	"specialAttrib": [
 		"魔法",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S55-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s55/rz_s55_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s55/rz_s55_037.png",
+	"tags": null,
+	"expansionId": 234
 }

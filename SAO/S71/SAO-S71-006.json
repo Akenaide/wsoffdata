@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アスナ「会わせて……キリトくんのところに、連れていって」",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《Anniversary》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《Anniversary》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"フラクトライト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S71-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_006.png",
+	"tags": null,
+	"expansionId": 288
 }

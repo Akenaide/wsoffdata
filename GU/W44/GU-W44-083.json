@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のカード名に「チノ」を含むキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のカード名に「チノ」を含むキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"うさぎ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_083.png",
+	"tags": null,
+	"expansionId": 174
 }

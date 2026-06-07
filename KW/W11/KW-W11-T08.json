@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "名乗ってなかったわね。併設校３年。科学部部長、氷室よ",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ 次の相手のターンの終わりまで、このカードのパワーを＋１000。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KW/W11-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kw_w11/kw_w11_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kw_w11/kw_w11_t08.png",
+	"tags": null,
+	"expansionId": 38
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あっ……ふふ……",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの「追いかけっこ 愛城 華恋」がアタックした時、そのキャラの下にマーカーがないなら、あなたはこのカードをそのキャラの下にマーカーとして表向きに置いてよい。そうしたら、そのターン中、そのキャラのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"レヴュー",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_055.png",
+	"tags": null,
+	"expansionId": 250
 }

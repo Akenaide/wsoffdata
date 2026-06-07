@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "無病息災、家内安全、商売繁盛、安産祈願……いや、待てよ。いっそのこと、全部がいいかも！？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"プロレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_059.png",
+	"tags": null,
+	"expansionId": 392
 }

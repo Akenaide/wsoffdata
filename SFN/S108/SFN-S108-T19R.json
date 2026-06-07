@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "強力すぎて不思議です",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 あなたの、《冒険者》か《魔法》のキャラが5枚以上なら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【カウンター】 あなたの、《冒険者》か《魔法》のキャラが5枚以上なら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SFN/S108-T19R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_t19r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s108/sfn_s108_t19r.png",
+	"tags": null,
+	"expansionId": 456
 }

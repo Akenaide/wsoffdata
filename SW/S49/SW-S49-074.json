@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "退避だと？われらの勝利の瞬間を目の前にしてか？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の赤のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの赤のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"新たなる希望"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_074.png",
+	"tags": null,
+	"expansionId": 199
 }

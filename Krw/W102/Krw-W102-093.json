@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ひゃ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、ストック置場に置き、残りのカードを山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。"
+		"【永】 あなたのターン中、相手の後列のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、ストック置場に置き、残りのカードを山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Krw/W102-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/krw_w102_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/krw_w102_093.png",
+	"tags": null,
+	"expansionId": 406
 }

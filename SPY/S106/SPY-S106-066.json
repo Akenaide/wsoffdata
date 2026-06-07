@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を2枚控え室に置き、このカードを山札の下に置く］ あなたは自分の控え室の自分のレベル以下のレベルの《バーリント市》のキャラを1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"バーリント市",
 		"殺し屋"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SPY/S106-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/spy_s106/spy_s106_066.png",
+	"tags": null,
+	"expansionId": 433
 }

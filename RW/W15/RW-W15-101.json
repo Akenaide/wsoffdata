@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うん、もちろんだよ。森は庭みたいなものだもの",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、他のあなたの《オカルト》のキャラが2枚以上なら、あなたのキャラすべてに、そのターン中、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"植物",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_101.png",
+	"tags": null,
+	"expansionId": 53
 }

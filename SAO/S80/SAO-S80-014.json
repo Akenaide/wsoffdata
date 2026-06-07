@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そろそろ戻りましょうか",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手の前列のキャラすべてに、そのターン中、パワーを－Ｘし、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。Ｘはあなたの控え室のクライマックスの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"フラクトライト",
 		"整合騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_014.png",
+	"tags": null,
+	"expansionId": 318
 }

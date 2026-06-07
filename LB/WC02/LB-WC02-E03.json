@@ -15,8 +15,8 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "見られなかったことにしよう",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
 	],
@@ -24,8 +24,9 @@
 		"お菓子",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WC02-E03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_wc02/lb_wc02_e03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_wc02/lb_wc02_e03.png",
+	"tags": null,
+	"expansionId": 358
 }

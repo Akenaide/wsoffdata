@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シノン「うそ…………お、男…………？\u003cbr\u003eそのアバターで………………？」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「キリト」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』このカードをストック置場に置く。"
+		"このカードは、あなたのカード名に「キリト」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』このカードをストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SAO/S47-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s47/sao_s47_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s47/sao_s47_097.png",
+	"tags": null,
+	"expansionId": 189
 }

@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "恥ずかしいけど、観て・・・ください",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋3000。"
+		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"探偵",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE29-20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se29/mk_se29_20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se29/mk_se29_20.png",
+	"tags": null,
+	"expansionId": 169
 }

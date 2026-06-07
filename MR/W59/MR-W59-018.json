@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "聞こえるネ…私の拳、戦えて言てるヨ",
+	"trigger": null,
 	"ability": [
-		"【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。",
-		"【自】 このカードがダイレクトアタックした時、そのターン中、このカードのソウルを＋1。"
+		"【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。\u003cbr\u003e【自】 このカードがダイレクトアタックした時、そのターン中、このカードのソウルを＋1。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"ディフェンス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_018.png",
+	"tags": null,
+	"expansionId": 232
 }

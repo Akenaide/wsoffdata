@@ -1,6 +1,6 @@
 {
 	"set": "KGL",
-	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"setName": "かぐや様は告らせたい？\u003cs\u003e～天才たちの恋愛頭脳戦～\u003c/s\u003e",
 	"side": "S",
 	"release": "95",
 	"id": "004",
@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋4000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「広がっていた景色」があるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+		"【永】 あなたのターン中、このカードのパワーを＋4000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「広がっていた景色」があるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"秀知院",
 		"会計"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S95-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s95/kgl_s95_004.png",
+	"tags": null,
+	"expansionId": 394
 }

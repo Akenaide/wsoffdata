@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "止める方法はただひとつ。良い記憶を",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの控え室のクライマックスが4枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"鍵",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-117",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_117.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_117.png",
+	"tags": null,
+	"expansionId": 12
 }

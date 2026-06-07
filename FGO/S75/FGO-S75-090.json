@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フォーーウ！",
+	"trigger": null,
 	"ability": [
-		"【自】［(2) このカードを手札に戻す］ 他のあなたのバトル中の、《カルデア》か《お菓子》のキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻し、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+		"【自】［(2) このカードを手札に戻す］ 他のあなたのバトル中の、《カルデア》か《お菓子》のキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻し、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"カルデア",
 		"獣"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_090.png",
+	"tags": null,
+	"expansionId": 298
 }

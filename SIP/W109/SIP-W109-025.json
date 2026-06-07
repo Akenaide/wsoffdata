@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "スクールアイドルに興味がありそうな子を発見！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの赤のキャラがいるなら、そのターン中、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、他のあなたの青のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
+		"【自】 このカードがアタックした時、他のあなたの赤のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの青のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SIP/W109-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sip_w109/sip_w109_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sip_w109/sip_w109_025.png",
+	"tags": null,
+	"expansionId": 448
 }

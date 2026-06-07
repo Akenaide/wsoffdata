@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アレレ？　元気がないですよ！\u003cbr /\u003eハッスルハッスル！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《神器》か《パン》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_013.png",
+	"tags": null,
+	"expansionId": 27
 }

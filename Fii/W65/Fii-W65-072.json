@@ -15,19 +15,19 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お兄ちゃんは妹とイチャイチャしてください",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《ファンタジア文庫》か《小説》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《ファンタジア文庫》か《小説》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"小説",
 		"ブラコン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fii/W65-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fii_w65/fii_w65_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fii_w65/fii_w65_072.png",
+	"tags": null,
+	"expansionId": 264
 }

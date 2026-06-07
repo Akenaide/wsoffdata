@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "了解っス 自分で良ければ手伝うっスー",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのクロック置場の《かのかり》のキャラすべてに、『【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに手札の同じ色のカードと入れ替えてよい）』を与える。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+		"【永】 あなたのクロック置場の《かのかり》のキャラすべてに、『【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに手札の同じ色のカードと入れ替えてよい）』を与える。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"コスプレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W132-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w132/knk_w132_076.png",
+	"tags": null,
+	"expansionId": 531
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうだ！紅莉栖ちゃんも行く？",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《ラボメン》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《ラボメン》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
 	"specialAttrib": [
 		"ラボメン",
 		"裁縫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_080.png",
+	"tags": null,
+	"expansionId": 243
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "華撃団大戦……私たちとあたるまで、\u003cbr\u003e負けちゃダメだからね！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋2000。",
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
+		"【永】 あなたのターン中、このカードのパワーを＋2000。\u003cbr\u003e【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
 	],
 	"specialAttrib": [
 		"華撃団",
 		"上海"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SKR/S73-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_033.png",
+	"tags": null,
+	"expansionId": 293
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……次はあんたの番だよ、玲二……",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【自】［(1) このカードを【レスト】する］ 他のあなたのキャラが舞台からクロック置場に置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
@@ -25,8 +25,9 @@
 		"武器",
 		"時計"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_059.png",
+	"tags": null,
+	"expansionId": 32
 }

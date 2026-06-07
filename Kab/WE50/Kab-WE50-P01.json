@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の山札を見て《Anniversary》か《夏》か《死》か《能力者》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。",
-		"このカードを思い出にする。"
+		"あなたは自分の山札を見て《Anniversary》か《夏》か《死》か《能力者》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。\u003cbr\u003eこのカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Kab/WE50-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/kab_we50_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/kab_we50_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

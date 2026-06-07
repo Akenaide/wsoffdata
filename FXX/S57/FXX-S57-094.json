@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "フン……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《パラサイト》か《フランクス》のキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 他のあなたの、《パラサイト》か《フランクス》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"パラサイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_094.png",
+	"tags": null,
+	"expansionId": 241
 }

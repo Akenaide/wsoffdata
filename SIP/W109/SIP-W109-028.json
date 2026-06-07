@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "たかがスクールアイドル、されどスクールアイドルってね！負けないわよ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。",
-		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。\u003cbr\u003e【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SIP/W109-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sip_w109/sip_w109_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sip_w109/sip_w109_028.png",
+	"tags": null,
+	"expansionId": 448
 }

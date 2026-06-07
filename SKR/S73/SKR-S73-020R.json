@@ -8,24 +8,24 @@
 	"jpName": "これが二人の……望月流奥義!!",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "これが二人の……望月流奥義!!",
 	"trigger": [
 		"CHOICE"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[choice.gif]]：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンに[[soul.gif]]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SKR/S73-020R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_020r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_020r.png",
+	"tags": null,
+	"expansionId": 293
 }

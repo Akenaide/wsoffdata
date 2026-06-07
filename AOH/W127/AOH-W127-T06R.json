@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】［(1)］ このカードがアタックした時、CX置場に「記憶にございません！」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは相手の控え室のカードを1枚まで選び、山札の上に置く。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】［(1)］ このカードがアタックした時、CX置場に「記憶にございません！」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは相手の控え室のカードを1枚まで選び、山札の上に置く。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"あおぎり高校",
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOH/W127-T06R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_t06r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aoh_w127/aoh_w127_t06r.png",
+	"tags": null,
+	"expansionId": 516
 }

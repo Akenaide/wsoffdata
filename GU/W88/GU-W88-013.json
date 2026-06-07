@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "千夜～～～！ また掘り出し物よ～～！",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「シャロ」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラの枚数＋1に等しい。"
+		"このカードは、あなたのカード名に「シャロ」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラの枚数＋1に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GU/W88-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_013.png",
+	"tags": null,
+	"expansionId": 344
 }

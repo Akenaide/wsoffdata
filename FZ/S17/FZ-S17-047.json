@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アーチボルト家九代目当主、ケイネス・エルメロイがここに推参仕る",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_047.png",
+	"tags": null,
+	"expansionId": 82
 }

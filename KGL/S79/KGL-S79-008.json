@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "― それに引き換え藤原書記の攻撃力は戦車級！ ―",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《秀知院》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。"
+		"【永】 他のあなたの《秀知院》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"秀知院",
 		"書記"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S79-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_008.png",
+	"tags": null,
+	"expansionId": 317
 }

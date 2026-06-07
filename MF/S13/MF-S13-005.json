@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "幕が上がる瞬間のときめきが好き",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがダイレクトアタックした時、クライマックス置場に「ユニバーサル・バニー」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_005.png",
+	"tags": null,
+	"expansionId": 61
 }

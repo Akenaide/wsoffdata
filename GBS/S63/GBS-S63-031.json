@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "信頼、していたからな",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《秩序》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。",
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。"
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《秩序》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_031.png",
+	"tags": null,
+	"expansionId": 260
 }

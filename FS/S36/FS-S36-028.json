@@ -8,24 +8,25 @@
 	"jpName": "“無限の剣製”",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "－",
 	"trigger": [
 		"SOUL",
 		"SHOT"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。（[SHOT]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。（[[shot.gif]]：このターン中、このカードをトリガーした攻撃キャラが次に与えるダメージがキャンセルされた時、相手に1ダメージを与える）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FS/S36-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s36/fs_s36_028.png",
+	"tags": null,
+	"expansionId": 155
 }

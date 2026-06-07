@@ -8,25 +8,24 @@
 	"jpName": "スカイアイランドの少女 日奈",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"CHOICE"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[choice.gif]]：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンに[[soul.gif]]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "WNM/WPR-888",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wnm_wpr/wnm_wpr_888.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wnm_wpr/wnm_wpr_888.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "刃更「えっと……ウチの連中が何か？」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの、《スニーカー文庫》か《魔法》のキャラの枚数×1000に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Sst/W62-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sst_w62/sst_w62_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sst_w62/sst_w62_070.png",
+	"tags": null,
+	"expansionId": 259
 }

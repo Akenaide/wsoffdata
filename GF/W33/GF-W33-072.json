@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日は、ドキッ、水着だらけの水泳大会よ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_072.png",
+	"tags": null,
+	"expansionId": 131
 }

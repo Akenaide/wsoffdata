@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日は生徒会長と一緒じゃないんだ",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのドローフェイズの始めに、他のあなたの前列のキャラがいないなら、そのターン中、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_020.png",
+	"tags": null,
+	"expansionId": 139
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……なんだ？　装備をきたえてほしいのか？",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを【レスト】する］ あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"鍛冶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_033.png",
+	"tags": null,
+	"expansionId": 14
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "黒雪姫「来たな、少年」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S43-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_022.png",
+	"tags": null,
+	"expansionId": 176
 }

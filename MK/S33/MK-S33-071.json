@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "涙が止まりません",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《探偵》のキャラの枚数×1000に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/S33-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_071.png",
+	"tags": null,
+	"expansionId": 136
 }

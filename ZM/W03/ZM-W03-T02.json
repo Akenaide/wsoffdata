@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "タバサ「馬、二人乗ってる 食べちゃダメ」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「タバサ」か「シャルロット」を含むキャラすべてに、パワーを＋500。",
 		"【自】 絆／「シャルロット・エレーヌ・オルレアン」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「シャルロット・エレーヌ・オルレアン」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"使い魔",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_t02.png",
+	"tags": null,
+	"expansionId": 8
 }

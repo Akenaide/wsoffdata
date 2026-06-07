@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一個だけなら食べてもいいわよ",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"団長",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/WE09-18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_we09/sy_we09_18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_we09/sy_we09_18.png",
+	"tags": null,
+	"expansionId": 52
 }

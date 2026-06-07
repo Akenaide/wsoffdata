@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おはよう、藤ねぇ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、このカードを【レスト】する。（公開したカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"マスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_t03.png",
+	"tags": null,
+	"expansionId": 138
 }

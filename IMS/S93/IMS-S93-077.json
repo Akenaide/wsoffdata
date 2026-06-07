@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今夜のわたし達のステージ、どうぞ最後までお楽しみくださいませ♪……うん、大人っぽくできたね！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"アニメ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_077.png",
+	"tags": null,
+	"expansionId": 392
 }

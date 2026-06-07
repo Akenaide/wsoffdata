@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "和彦「あ、４Ｋ」\u003cbr\u003e杏菜「よんけー？」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《青春》のキャラが2枚以上なら、このカードのパワーを＋2160。",
-		"【自】 アンコール ［あなたの控え室の《青春》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 他のあなたの《青春》のキャラが2枚以上なら、このカードのパワーを＋2160。\u003cbr\u003e【自】 アンコール ［あなたの控え室の《青春》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"青春",
 		"マケイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_095.png",
+	"tags": null,
+	"expansionId": 520
 }

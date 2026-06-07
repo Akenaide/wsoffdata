@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「SECRET」",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】 あなたのクライマックス置場に「臨戦態勢」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr/\u003e【自】 あなたのクライマックス置場に「臨戦態勢」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"ストライカー",
 		"カードゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-T01R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_t01r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_t01r.png",
+	"tags": null,
+	"expansionId": 138
 }

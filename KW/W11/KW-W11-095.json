@@ -10,20 +10,21 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うそですよね…リキ…そんなことって",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの《科学》のキャラが2枚以下なら、手札からプレイできない。",
 		"あなたは相手のコスト1以下のキャラを1枚選び、山札の下に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KW/W11-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kw_w11/kw_w11_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kw_w11/kw_w11_095.png",
+	"tags": null,
+	"expansionId": 46
 }

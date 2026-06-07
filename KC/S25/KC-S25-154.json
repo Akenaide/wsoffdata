@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "駆逐艦、大潮です！\u003cbr /\u003e小さな体に大きな魚雷！お任せください。",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの「朝潮型駆逐艦1番艦 朝潮」を1枚【レスト】する］ そのターン中、このカードのパワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-154",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_154.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_154.png",
+	"tags": null,
+	"expansionId": 113
 }

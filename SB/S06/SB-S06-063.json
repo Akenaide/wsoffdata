@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "燃える魂、熱く哮よ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードとバトル中のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《武器》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"鉢巻"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_063.png",
+	"tags": null,
+	"expansionId": 28
 }

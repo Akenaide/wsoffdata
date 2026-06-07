@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "るな「ひっ！何か出てきた……！！」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GT/W29-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_097.png",
+	"tags": null,
+	"expansionId": 106
 }

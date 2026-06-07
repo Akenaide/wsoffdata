@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あまり、人の言う事にさからわない子らしい。ショタコンのお兄さんがいたら、一発で“ズグン”ってなるだろう",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠の《六面世界》のキャラに、パワーを＋1500。",
-		"【自】【CXコンボ】［手札の「“こぼれる涙”シルフィエット」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたのクライマックス置場にクライマックスがないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「君がくれた笑顔」を1枚まで選び、クライマックス置場に置き、その山札をシャッフルする。"
+		"【永】 他のあなたの前列の中央の枠の《六面世界》のキャラに、パワーを＋1500。\u003cbr\u003e【自】【CXコンボ】［手札の「“こぼれる涙”シルフィエット」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたのクライマックス置場にクライマックスがないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「君がくれた笑顔」を1枚まで選び、クライマックス置場に置き、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"魔術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_011.png",
+	"tags": null,
+	"expansionId": 346
 }

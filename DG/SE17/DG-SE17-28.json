@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そのくらい、どうでもいいだろ！\u003cbr /\u003eオレさまなんか女になったんだぞ？",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル3以上のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-28",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_28.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_28.png",
+	"tags": null,
+	"expansionId": 102
 }

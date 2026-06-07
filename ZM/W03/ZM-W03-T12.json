@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あのね、ルイズこのままだと\u003cbr /\u003eお婿さんを迎えることになっちゃうの",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"魔法",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_t12.png",
+	"tags": null,
+	"expansionId": 8
 }

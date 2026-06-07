@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "乗って！！",
+	"trigger": null,
 	"ability": [
 		"【起】［手札の《魔法》のキャラを1枚控え室に置く］ あなたは自分の山札の上から1枚を公開する。そのカードのレベルが0以下なら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE18-28",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se18/pi_se18_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se18/pi_se18_028.png",
+	"tags": null,
+	"expansionId": 108
 }

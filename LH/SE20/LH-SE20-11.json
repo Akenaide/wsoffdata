@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今回……私はあまり役に立たなかった",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラがいないなら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"忍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_11.png",
+	"tags": null,
+	"expansionId": 118
 }

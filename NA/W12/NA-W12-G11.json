@@ -8,14 +8,14 @@
 	"jpName": "さよならリニス",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "リニス 「ありがとう、フェイト、アルフ……\u003cbr /\u003eあなたたちと出会えて、あなたたちと過ごせて――\u003cbr /\u003eわたしは本当に幸せでした」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NA/W12-G11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_g11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_g11.png",
+	"tags": null,
+	"expansionId": 53
 }

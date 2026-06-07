@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい！あ、ハジメさん",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがＸ以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。Ｘはあなたの控え室の「ご褒美デート シア」の枚数に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"トータス",
 		"兎人族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_027.png",
+	"tags": null,
+	"expansionId": 414
 }

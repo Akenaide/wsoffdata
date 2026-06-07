@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "バレンタインにチョコ以外のものを！そう思ったら、薔薇の飴細工はいかがっ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(2) あなたの「セクシーBANG☆BANG 片桐早苗」を1枚とこのカードを【レスト】する］ あなたは自分の手札の「はろうぃんもんすたー 市原仁奈」を1枚まで選び、舞台の好きな枠に置く。』",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(2) あなたの「セクシーBANG☆BANG 片桐早苗」を1枚とこのカードを【レスト】する］ あなたは自分の手札の「はろうぃんもんすたー 市原仁奈」を1枚まで選び、舞台の好きな枠に置く。』\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"花"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T61",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t61.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t61.png",
+	"tags": null,
+	"expansionId": 476
 }

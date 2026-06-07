@@ -15,19 +15,19 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "歩　困らせないで",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ファンタジア文庫》か《武器》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
-		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ファンタジア文庫》か《武器》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"武器",
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fkz/W65-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fkz_w65/fkz_w65_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fkz_w65/fkz_w65_t01.png",
+	"tags": null,
+	"expansionId": 263
 }

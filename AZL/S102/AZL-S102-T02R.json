@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハロウィンナイトにラブ＆ピース！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+		"【自】 このカードがアタックした時、あなたは他の自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ユニオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-T02R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_t02r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_t02r.png",
+	"tags": null,
+	"expansionId": 409
 }

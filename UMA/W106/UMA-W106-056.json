@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "追いつきたい…アナタに！",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-		"【起】［あなたの《ウマ娘》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\u003cbr\u003e【起】［あなたの《ウマ娘》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_056.png",
+	"tags": null,
+	"expansionId": 431
 }

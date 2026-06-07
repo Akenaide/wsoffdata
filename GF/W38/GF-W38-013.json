@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どれも美味しそうではありませんかな？　では早速…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「夏準備」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
@@ -25,8 +25,9 @@
 		"ガール",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_013.png",
+	"tags": null,
+	"expansionId": 144
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "礼を言う",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《ゲーム》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BFR/S78-112",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bfr_s78/bfr_s78_112.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bfr_s78/bfr_s78_112.png",
+	"tags": null,
+	"expansionId": 313
 }

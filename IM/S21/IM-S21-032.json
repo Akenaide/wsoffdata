@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はいは～い！\u003cbr /\u003e好きな食べ物は焼き鳥！　タレ派です！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。",
 		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000"
@@ -25,8 +25,9 @@
 		"音楽",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_032.png",
+	"tags": null,
+	"expansionId": 80
 }

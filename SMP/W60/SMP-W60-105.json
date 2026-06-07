@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰が食べても美味しいといえる、\u003cbr\u003e究極のチャーハンをめざしています",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_105.png",
+	"tags": null,
+	"expansionId": 238
 }

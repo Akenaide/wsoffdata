@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あー、お前にその剣はまだ早いかもしれないが、男なら心の中に一本の剣を持っておかねばならん",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"剣士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_t03.png",
+	"tags": null,
+	"expansionId": 345
 }

@@ -15,17 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "うふふ、こんにちは",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがフロントアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたは相手のキャラを1枚選び、そのターン中、レベルを－1。（公開したカードは元に戻す）",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】 このカードがフロントアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたは相手のキャラを1枚選び、そのターン中、レベルを－1。（公開したカードは元に戻す）\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"音楽",
+		"Peaky P-key"
+	],
+	"version": "4",
 	"cardcode": "DJ/S97-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_085.png",
+	"tags": null,
+	"expansionId": 423
 }

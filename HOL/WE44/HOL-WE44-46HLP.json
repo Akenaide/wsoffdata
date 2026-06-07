@@ -15,20 +15,20 @@
 	"rarity": "HLP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋1000。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
+		"【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"ホロライブインドネシア1期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE44-46HLP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we44/hol_we44_46hlp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we44/hol_we44_46hlp.png",
+	"tags": null,
+	"expansionId": 464
 }

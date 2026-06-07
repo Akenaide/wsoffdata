@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《魔法》か《武器》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S55-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s55/rz_s55_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s55/rz_s55_031.png",
+	"tags": null,
+	"expansionId": 234
 }

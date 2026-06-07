@@ -15,19 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードと、「“大地の神”鶴姫 やちよ」は、デッキに合計4枚まで入れることができる。",
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
+		"【永】 このカードと同じカード名のカードと、「“大地の神”鶴姫 やちよ」は、デッキに合計4枚まで入れることができる。\u003cbr\u003e【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"シークフェルト音楽学院"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/SE38-12S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_se38/rsl_se38_12s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_se38/rsl_se38_12s.png",
+	"tags": null,
+	"expansionId": 384
 }

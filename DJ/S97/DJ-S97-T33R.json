@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。",
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
+		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。\u003cbr\u003e【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Photon Maiden"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DJ/S97-T33R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_t33r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_t33r.png",
+	"tags": null,
+	"expansionId": 417
 }

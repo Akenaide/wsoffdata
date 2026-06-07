@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたの《宝石》のキャラがいないなら、手札からプレイできない。このカードを思い出にする。",
-		"あなたは相手のバトル中のキャラを1枚選び、そのターン中、ソウルを＋Ｘ。Ｘはあなたの思い出置場の「宝石剣ゼルレッチ」の枚数×4に等しい。"
+		"【カウンター】 このカードは、あなたの《宝石》のキャラがいないなら、手札からプレイできない。このカードを思い出にする。\u003cbr\u003eあなたは相手のバトル中のキャラを1枚選び、そのターン中、ソウルを＋Ｘ。Ｘはあなたの思い出置場の「宝石剣ゼルレッチ」の枚数×4に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FS/S77-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s77/fs_s77_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s77/fs_s77_072.png",
+	"tags": null,
+	"expansionId": 314
 }

@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたの、「“Poppin’Party”戸山香澄」と「“Poppin’Party”花園たえ」と「“Poppin’Party”牛込りみ」と「“Poppin’Party”山吹沙綾」と「“Poppin’Party”市ヶ谷有咲」がいるなら、相手に5ダメージを与え、そのターン中、このカードのパワーを＋5000。』（ダメージキャンセルは発生する）",
-		"【永】 このカードと同じカード名のカードは、デッキに5枚まで入れることができる。"
+		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたの、「“Poppin’Party”戸山香澄」と「“Poppin’Party”花園たえ」と「“Poppin’Party”牛込りみ」と「“Poppin’Party”山吹沙綾」と「“Poppin’Party”市ヶ谷有咲」がいるなら、相手に5ダメージを与え、そのターン中、このカードのパワーを＋5000。』（ダメージキャンセルは発生する）\u003cbr\u003e【永】 このカードと同じカード名のカードは、デッキに5枚まで入れることができる。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W47-T11c",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_t11c.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_t11c.png",
+	"tags": null,
+	"expansionId": 187
 }

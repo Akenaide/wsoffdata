@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "朱音「あっはははははははははははははは」",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。",
-		"【起】 経験 ［このカードを【レスト】する］ あなたのレベル置場に「切り取られた風景 英梨々」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 あなたのターン中、他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 経験 ［このカードを【レスト】する］ あなたのレベル置場に「切り取られた風景 英梨々」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_004.png",
+	"tags": null,
+	"expansionId": 278
 }

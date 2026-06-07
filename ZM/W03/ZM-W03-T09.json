@@ -8,14 +8,14 @@
 	"jpName": "手合わせ",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "是非とも、手合わせを願いたいと思っていたんだ",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ZM/W03-T09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_t09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_t09.png",
+	"tags": null,
+	"expansionId": 8
 }

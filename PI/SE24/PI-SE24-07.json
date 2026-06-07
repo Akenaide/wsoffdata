@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "美遊も紅茶の淹れ方がわかってきたようですわね。今日のはなかなかですわ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
-		"【起】［(1)］ あなたは自分の《宝石》のキャラを1枚選び、そのターン中、パワーを＋1500し、《メイド》を与える。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\u003cbr\u003e【起】［(1)］ あなたは自分の《宝石》のキャラを1枚選び、そのターン中、パワーを＋1500し、《メイド》を与える。"
 	],
 	"specialAttrib": [
 		"宝石",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE24-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se24/pi_se24_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se24/pi_se24_07.png",
+	"tags": null,
+	"expansionId": 133
 }

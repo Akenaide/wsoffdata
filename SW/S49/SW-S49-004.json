@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "奪ってみろよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_004.png",
+	"tags": null,
+	"expansionId": 199
 }

@@ -15,21 +15,20 @@
 	"rarity": "PPR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 あなたのアタックフェイズの始めに、クライマックス置場に「私たち Poppin\u0026#39;Party」があり、前列にこのカードがいるなら、あなたは自分の山札の上から2枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 あなたのアタックフェイズの始めに、クライマックス置場に「私たち Poppin'Party」があり、前列にこのカードがいるなら、あなたは自分の山札の上から2枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"うさぎ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-092PPR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_092p.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_092p.png",
+	"tags": null,
+	"expansionId": 196
 }

@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき3回まで発動する。あなたがイベントをプレイした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 この能力は1ターンにつき3回まで発動する。あなたがイベントをプレイした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S128-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s128/sfn_s128_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s128/sfn_s128_071.png",
+	"tags": null,
+	"expansionId": 545
 }

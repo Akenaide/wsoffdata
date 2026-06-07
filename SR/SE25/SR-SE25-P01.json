@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『虹色の旋律を、竜と奏でるRPG』",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SR/SE25-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sr_se25/sr_se25_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sr_se25/sr_se25_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

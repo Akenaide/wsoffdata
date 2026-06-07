@@ -15,20 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "魔狭人君、悪いけど、あなたの全財産おろしたよ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、緑か《契約黒猫》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の控え室の、緑か《契約黒猫》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置く。",
-		"【起】［このカードを【レスト】する］ あなたはこのカードの下のマーカーを1枚ストック置場に置く。"
+		"【永】 他のあなたの、緑か《契約黒猫》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の控え室の、緑か《契約黒猫》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたはこのカードの下のマーカーを1枚ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KR/SE30-12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kr_se30/kr_se30_12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kr_se30/kr_se30_12.png",
+	"tags": null,
+	"expansionId": 172
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お父様を守るためなら……",
+	"trigger": null,
 	"ability": [
 		"【自】[(2)] このカード手札から舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分の山札を見てカード名「美鶴」を含むキャラを1枚選んで相手に見せ、手札に加える。 その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-110",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_110.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_110.png",
+	"tags": null,
+	"expansionId": 13
 }

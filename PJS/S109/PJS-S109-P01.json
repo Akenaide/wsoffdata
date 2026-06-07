@@ -15,20 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そしたら、みんなもニコニコになっちゃうの！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-		"【自】 このカードがアタックした時、他のあなたの後列のキャラがいないなら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、あなたはそのキャラを後列の好きな枠に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの後列のキャラがいないなら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、あなたはそのキャラを後列の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー",
+		"バーチャル・シンガー",
 		"ワンダーランズ×ショウタイム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S109-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s109/pjs_s109_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"アンチスパイラル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GL/S52-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gl_s52/gl_s52_094.png",
+	"tags": null,
+	"expansionId": 217
 }

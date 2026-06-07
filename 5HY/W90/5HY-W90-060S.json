@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-		"【自】【CXコンボ】 経験 ［手札の《五つ子》のキャラを3枚控え室に置く］ このカードがアタックした時、クライマックス置場に「月夜の下で」があり、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】【CXコンボ】 経験 ［手札の《五つ子》のキャラを3枚控え室に置く］ このカードがアタックした時、クライマックス置場に「月夜の下で」があり、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"真面目"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W90-060S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w90/5hy_w90_060s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w90/5hy_w90_060s.png",
+	"tags": null,
+	"expansionId": 348
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "イッツ・ショウ・タイム",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのドローフェイズの始めに、あなたに1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE23-11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se23/sao_se23_11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se23/sao_se23_11.png",
+	"tags": null,
+	"expansionId": 128
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うるさいですよ、蒔菜。似合うのは当然です",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《リリィ》のキャラがいるなら、すべてのプレイヤーは自分の山札の上から2枚を、控え室に置く。それらのカードにCXか「“クエレブレ”緋紅」があるなら、あなたは相手のレベル3以下のキャラを1枚選び、手札に戻してよい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《リリィ》のキャラがいるなら、すべてのプレイヤーは自分の山札の上から2枚を、控え室に置く。それらのカードにCXか「“クエレブレ”緋紅」があるなら、あなたは相手のレベル3以下のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"クエレブレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S127-093S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_093s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s127/all_s127_093s.png",
+	"tags": null,
+	"expansionId": 541
 }

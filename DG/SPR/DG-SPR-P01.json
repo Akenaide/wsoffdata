@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "皆様のご来店をお待ちしているのです。\u003cbr /\u003eゆくゆくは日本一の看板娘になるのです。",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500し、《カードゲーム》を与える。"
 	],
@@ -24,8 +24,9 @@
 		"プリニー",
 		"カードゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SPR-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_spr/dg_spr_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_spr/dg_spr_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

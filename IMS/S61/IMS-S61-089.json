@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……みんなにハッピー、届けるぞ。",
+	"trigger": null,
 	"ability": [
-		"【起】［(1) あなたのキャラを1枚【レスト】する］ このカードを【スタンド】する。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【起】［(1) あなたのキャラを1枚【レスト】する］ このカードを【スタンド】する。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"手品"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_089.png",
+	"tags": null,
+	"expansionId": 251
 }

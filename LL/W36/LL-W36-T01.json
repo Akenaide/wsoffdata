@@ -15,17 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "屋上に、大きなサンシェードを設置出来ればいいのに。ちょっとは涼しくなると思わない？",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_t01.png",
+	"tags": null,
+	"expansionId": 141
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はやてが死んじゃうのなんて…絶対に嫌だ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「はやての為に」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_037.png",
+	"tags": null,
+	"expansionId": 94
 }

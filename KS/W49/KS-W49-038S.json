@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ポイントを使ってそれを選べば習得完了なのです",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-038S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_038s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_038s.png",
+	"tags": null,
+	"expansionId": 192
 }

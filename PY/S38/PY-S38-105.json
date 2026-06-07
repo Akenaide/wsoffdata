@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【永】 他のあなたの前列の「あおぷよ」1枚につき、このカードのパワーを＋2000。"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr/\u003e【永】 他のあなたの前列の「あおぷよ」1枚につき、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"ぷよ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_105.png",
+	"tags": null,
+	"expansionId": 160
 }

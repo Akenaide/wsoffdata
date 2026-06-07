@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お姉さま、今日もすっごくかわいい。わたし嬉しい！",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードのバトル中、相手はイベントを手札からプレイできない。",
 		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_t05.png",
+	"tags": null,
+	"expansionId": 8
 }

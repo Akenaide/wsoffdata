@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "直継「たぶん30秒先の未来を読んで戦うってこと\u003cbr /\u003eなんだろうな」",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-29",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_29.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_29.png",
+	"tags": null,
+	"expansionId": 118
 }

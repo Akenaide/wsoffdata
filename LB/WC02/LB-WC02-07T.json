@@ -15,19 +15,19 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「“最強の男児”謙吾」すべてに、パワーを＋1000。",
-		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000）"
+		"【永】 他のあなたの「“最強の男児”謙吾」すべてに、パワーを＋1000。\u003cbr\u003e【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000）"
 	],
 	"specialAttrib": [
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WC02-07T",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_wc02/lb_wc02_07t.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_wc02/lb_wc02_07t.png",
+	"tags": null,
+	"expansionId": 358
 }

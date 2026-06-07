@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゴブリンスレイヤー「カナリアだ」\u003cbr\u003e妖精弓手「だから、知ってるってば！」",
+	"trigger": null,
 	"ability": [
-		"あなたの思い出が2枚以下なら、このカードを思い出にする。",
-		"【自】 記憶 あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置き、相手の山札を上から2枚まで見て、山札の上に元の順番で置く。"
+		"あなたの思い出が2枚以下なら、このカードを思い出にする。\u003cbr\u003e【自】 記憶 あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置き、相手の山札を上から2枚まで見て、山札の上に元の順番で置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GBS/S63-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_054.png",
+	"tags": null,
+	"expansionId": 260
 }

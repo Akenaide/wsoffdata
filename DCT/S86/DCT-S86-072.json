@@ -10,21 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "6",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"次の2つの効果を好きな順番で1回ずつ行う。",
-		"『あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。』",
-		"『相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
+		"次の2つの効果を好きな順番で1回ずつ行う。\u003cbr\u003e『あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルする。』\u003cbr\u003e『相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DCT/S86-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dct_s86/dct_s86_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dct_s86/dct_s86_072.png",
+	"tags": null,
+	"expansionId": 387
 }

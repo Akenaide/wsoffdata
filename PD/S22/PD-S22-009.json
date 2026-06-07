@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「リン」か「レン」を含むキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「リン」か「レン」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_009.png",
+	"tags": null,
+	"expansionId": 93
 }

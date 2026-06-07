@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうして……言っちゃうんですかぁ……",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラか「蔵で見つけた写真」なら、あなたは他の自分の《サマポケ》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"ヌイグルミ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_021.png",
+	"tags": null,
+	"expansionId": 548
 }

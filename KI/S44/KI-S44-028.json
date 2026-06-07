@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "友達？　誰と誰が？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 あなたのキャラすべてが《キズナ》なら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 あなたのキャラすべてが《キズナ》なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"キズナ",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KI/S44-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_028.png",
+	"tags": null,
+	"expansionId": 177
 }

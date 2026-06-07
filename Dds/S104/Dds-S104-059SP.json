@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《Celebration》か《Disney》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』",
-		"【自】 経験 ［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が4以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《Celebration》か《Disney》のキャラを1枚選び、手札に戻す。"
+		"【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《Celebration》か《Disney》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』\u003cbr\u003e【自】 経験 ［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が4以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《Celebration》か《Disney》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Celebration",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Dds/S104-059SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_059sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_059sp.png",
+	"tags": null,
+	"expansionId": 420
 }

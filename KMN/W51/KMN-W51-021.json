@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "かばん「大丈夫？サーバルちゃん……」",
+	"trigger": null,
 	"ability": [
-		"【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
+		"【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《フレンズ》のキャラかイベントなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"フレンズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMN/W51-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmn_w51/kmn_w51_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmn_w51/kmn_w51_021.png",
+	"tags": null,
+	"expansionId": 205
 }

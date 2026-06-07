@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "洵「諒兄ちゃんにとって、僕たちは一番重い十字架」",
+	"trigger": null,
 	"ability": [
 		"【起】[(1) このカードを【レスト】する] あなたは自分のクロックを1枚選び、手札に戻す。 あなたは自分の手札を1枚選び、クロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"双子",
 		"遺言"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-109",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_109.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_109.png",
+	"tags": null,
+	"expansionId": 13
 }

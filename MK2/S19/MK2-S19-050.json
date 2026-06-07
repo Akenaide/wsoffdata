@@ -8,14 +8,14 @@
 	"jpName": "G3の休日",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "小衣「あんたらー！なに三人揃って、\u003cbr /\u003e遅刻してるのよ！早く出勤しなさ～い！」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK2/S19-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_050.png",
+	"tags": null,
+	"expansionId": 87
 }

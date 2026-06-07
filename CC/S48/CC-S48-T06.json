@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前なんかにィ……！",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
@@ -24,8 +24,9 @@
 		"マナ",
 		"妖精"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-T06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_t06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_t06.png",
+	"tags": null,
+	"expansionId": 188
 }

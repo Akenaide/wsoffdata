@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "最高に気分が良いから、何でも聞いてあげる！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《RAISE A SUILEN》のキャラすべてに、パワーを＋1000。",
-		"【永】 このカードの下にマーカーがあるなら、このカードは次の能力を得る。『【永】 他のあなたの前列の中央の枠の《RAISE A SUILEN》のキャラに、パワーを＋3000。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の「伝説の開幕 パレオ」を1枚まで選んで相手に見せ、このカードの下にマーカーとして表向きに置く。"
+		"【永】 他のあなたの《RAISE A SUILEN》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【永】 このカードの下にマーカーがあるなら、このカードは次の能力を得る。『【永】 他のあなたの前列の中央の枠の《RAISE A SUILEN》のキャラに、パワーを＋3000。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の「伝説の開幕 パレオ」を1枚まで選んで相手に見せ、このカードの下にマーカーとして表向きに置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_082.png",
+	"tags": null,
+	"expansionId": 286
 }

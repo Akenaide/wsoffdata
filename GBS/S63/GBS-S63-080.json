@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "（むうっ）…！",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_080.png",
+	"tags": null,
+	"expansionId": 260
 }

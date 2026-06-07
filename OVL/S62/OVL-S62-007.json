@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ゴミです",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。"
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"異形種",
 		"漆黒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_007.png",
+	"tags": null,
+	"expansionId": 254
 }

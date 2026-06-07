@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "紅蓮の剣姫の戦闘シーンは、何度読んでも手に汗握ります！",
+	"trigger": null,
 	"ability": [
-		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。",
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SIN/W109-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sin_w109/sin_w109_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sin_w109/sin_w109_060.png",
+	"tags": null,
+	"expansionId": 448
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "指揮官……わたし、頑張りましたけど…やっぱりダメ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ロイヤル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_028.png",
+	"tags": null,
+	"expansionId": 499
 }

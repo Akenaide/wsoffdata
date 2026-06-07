@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"ビー玉",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-051S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_051s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_051s.png",
+	"tags": null,
+	"expansionId": 18
 }

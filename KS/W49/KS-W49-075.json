@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたも日本に住んでいたんだし、天気予報やニュースで名前くらいは聞いたことがあるでしょう？",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《女神》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-075",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_075.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_075.png",
+	"tags": null,
+	"expansionId": 192
 }

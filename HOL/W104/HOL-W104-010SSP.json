@@ -15,18 +15,20 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《ホロライブ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）",
-		"【自】［このカードを【レスト】する］ あなたが『加速』を使った時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ホロライブ》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【永】 応援 このカードの前のあなたの《ホロライブ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）\u003cbr\u003e【自】［このカードを【レスト】する］ あなたが『加速』を使った時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ホロライブ》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"ホロライブ",
+		"ホロライブEnglish-Myth-"
+	],
+	"version": "4",
 	"cardcode": "HOL/W104-010SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_010ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w104/hol_w104_010ssp.png",
+	"tags": null,
+	"expansionId": 419
 }

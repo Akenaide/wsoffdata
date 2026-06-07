@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しんのすけ「よくやった、シロ！おまえは犬の中の犬だゾ！」",
+	"trigger": null,
 	"ability": [
 		"【自】 相手がレベルアップした時、このカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"家族",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_t03.png",
+	"tags": null,
+	"expansionId": 112
 }

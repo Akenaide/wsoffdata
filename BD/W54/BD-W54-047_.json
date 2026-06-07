@@ -8,9 +8,9 @@
 	"jpName": "熱狂の一声",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
@@ -20,12 +20,12 @@
 		"POOL"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[POOL]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr/\u003e（[[stock.gif]]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W54-047_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_047_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_047_.png",
+	"tags": null,
+	"expansionId": 213
 }

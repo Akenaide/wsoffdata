@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "パーティーは面白そうなものがいーーーっぱいあると聞いた！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《艦船》のキャラの枚数×500に等しい。",
-		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの《艦船》のキャラがいるなら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《艦船》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、他のあなたの《艦船》のキャラがいるなら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"鉄血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-T69R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_t69r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_t69r.png",
+	"tags": null,
+	"expansionId": 409
 }

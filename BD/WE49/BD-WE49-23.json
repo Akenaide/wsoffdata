@@ -15,21 +15,21 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《Ave Mujica》のキャラ1枚につき、このカードのパワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《Ave Mujica》のキャラ1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Ave Mujica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE49-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we49/bd_we49_23.png",
+	"tags": null,
+	"expansionId": 526
 }

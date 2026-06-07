@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『俺の仕事は完璧だった。\u003cbr\u003eそう言えるだけの自信はある』",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《怪異》のキャラの枚数×500に等しい。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替えてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《怪異》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_080.png",
+	"tags": null,
+	"expansionId": 159
 }

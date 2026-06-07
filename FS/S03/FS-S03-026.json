@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ライダーのマスターとして、全力で戦います",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《動物》のキャラすべてに、パワーを＋500。",
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードに「ゴルゴンの末女ライダー」があるなら、あなたは自分の控え室の「ゴルゴンの末女ライダー」を1枚選び、舞台の好きな枠に置く。"
@@ -25,8 +25,9 @@
 		"マスター",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_026.png",
+	"tags": null,
+	"expansionId": 7
 }

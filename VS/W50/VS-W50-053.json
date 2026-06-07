@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フーカちゃんは体硬いからねー\u003cbr\u003eしっかりほぐさなきゃ",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_053.png",
+	"tags": null,
+	"expansionId": 200
 }

@@ -10,22 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "話し相手の必要性を感じたぼくが道端の石コロに仮想自我を付与したものだ",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《ランドソル》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）",
-		"このカードを思い出にする。",
-		"あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+		"このカードは、あなたの《ランドソル》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）\u003cbr\u003eこのカードを思い出にする。\u003cbr\u003eあなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PRD/W100-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_052.png",
+	"tags": null,
+	"expansionId": 397
 }

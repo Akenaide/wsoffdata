@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "杏「よかったね、汐ちゃん」",
+	"trigger": null,
 	"ability": [
 		"【永】他のあなたのパワー500以下のキャラすべてに『【自】アンコール[手札のキャラを1枚控え室に置く]』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"双子",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE04-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we04/cl_we04_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we04/cl_we04_19.png",
+	"tags": null,
+	"expansionId": 12
 }

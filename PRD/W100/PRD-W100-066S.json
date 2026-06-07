@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの《ランドソル》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ランドソル》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【自】 このカードがアタックした時、他のあなたの《ランドソル》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ランドソル》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W100-066S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_066s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_066s.png",
+	"tags": null,
+	"expansionId": 397
 }

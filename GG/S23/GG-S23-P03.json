@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ベローズ「できないことがあったら聞けばいいのさ」",
+	"trigger": null,
 	"ability": [
 		"【自】 記憶 思い出置場にこのカードがあるなら、あなたか相手のクロックが、自分のカードの効果で控え室に置かれた時、そのプレイヤーは自分のストックの上から2枚を、控え室に置いてよい。そうしないなら、そのプレイヤーは自分の山札の上から1枚を、クロック置場に置く。",
 		"【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《手紙》か《パイロット》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"手紙",
 		"パイロット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_p03.png",
+	"tags": null,
+	"expansionId": 13
 }

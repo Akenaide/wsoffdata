@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "無粋ね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《死》のキャラでないなら、あなたのアンコールステップの始めに、このカードを控え室に置く。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_002.png",
+	"tags": null,
+	"expansionId": 119
 }

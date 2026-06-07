@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ…あんたたち…",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「にこ」を含むキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「にこ」を含むキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W34-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w34/ll_w34_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w34/ll_w34_012.png",
+	"tags": null,
+	"expansionId": 134
 }

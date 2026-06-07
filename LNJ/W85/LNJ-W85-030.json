@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お休みの日はいろいろな舞台を観ていますよ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1500。",
-		"【起】［このカードを控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。",
-		"【起】［このカードを控え室に置く］ あなたは自分の控え室の「心が躍ります♪ 桜坂 しずく」を1枚選び、このカードがいた枠に置く。"
+		"【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは自分の控え室の「心が躍ります♪ 桜坂 しずく」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W85-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w85/lnj_w85_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w85/lnj_w85_030.png",
+	"tags": null,
+	"expansionId": 338
 }

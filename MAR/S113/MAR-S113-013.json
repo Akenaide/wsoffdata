@@ -15,20 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたは[RETURN]の効果で相手のキャラを手札に戻せない。",
-		"【自】 あなたのトリガーアイコンが[RETURN]のCXがトリガーした時、他のあなたの「ノリノリな賞金稼ぎ スター・ロード」がいないなら、あなたは相手のキャラを1枚選び、ストック置場に置いてよい。",
-		"【起】［このカードを【レスト】する］ あなたは自分か相手の、山札の上から1枚を公開してよい。そのカードがCXでないなら、そのカードを控え室に置く。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
+		"【永】 あなたは[[bounce.gif]]の効果で相手のキャラを手札に戻せない。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[bounce.gif]]のCXがトリガーした時、他のあなたの「ノリノリな賞金稼ぎ スター・ロード」がいないなら、あなたは相手のキャラを1枚選び、ストック置場に置いてよい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分か相手の、山札の上から1枚を公開してよい。そのカードがCXでないなら、そのカードを控え室に置く。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S113-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s113/mar_s113_013.png",
+	"tags": null,
+	"expansionId": 484
 }

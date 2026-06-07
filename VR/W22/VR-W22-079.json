@@ -8,14 +8,14 @@
 	"jpName": "ビビッドもも、オペレーション！",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あかね「ビビッドもも、オペレーション！きぃぃぃぃ～～ん！」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "VR/W22-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_079.png",
+	"tags": null,
+	"expansionId": 97
 }

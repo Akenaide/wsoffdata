@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それに、私たち――もう友達だよ！",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたのキャラすべてに、そのターン中、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"カメラ",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CN/SE02-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cn_se02/cn_se02_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cn_se02/cn_se02_07.png",
+	"tags": null,
+	"expansionId": 31
 }

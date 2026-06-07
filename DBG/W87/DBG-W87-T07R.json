@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "成神君には神様の知り合いがいるのね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《夏》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 他のあなたの《夏》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"夏",
 		"家族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-T07R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_t07r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_t07r.png",
+	"tags": null,
+	"expansionId": 341
 }

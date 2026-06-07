@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そんなことないよ～。一人前のレディになっていますもん",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/WE08-04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we08/dc_we08_04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we08/dc_we08_04.png",
+	"tags": null,
+	"expansionId": 45
 }

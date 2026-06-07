@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リムル「なんという……なんというあふれ出る妖気」※【妖気】にルビ：エロス",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《魔王》のキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[COMEBACK]のクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【永】 他のあなたの《魔王》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[[salvage.gif]]のクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"魔王"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S101-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s101/tsk_s101_061.png",
+	"tags": null,
+	"expansionId": 412
 }

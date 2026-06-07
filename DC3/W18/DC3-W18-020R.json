@@ -8,25 +8,26 @@
 	"jpName": "咲き続ける花",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "SECRET",
 	"trigger": [
 		"SOUL",
 		"RETURN"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+		"（[[bounce.gif]]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC3/W18-020R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_020r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_020r.png",
+	"tags": null,
+	"expansionId": 78
 }

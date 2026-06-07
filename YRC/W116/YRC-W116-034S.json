@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ゆるキャン△》のキャラを2枚まで選び、1枚選び、手札に戻し、1枚選び、自分のカード名に「テント」を含むキャラの下にマーカーとして表向きに置き、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ゆるキャン△",
 		"バイク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YRC/W116-034S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_034s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yrc_w116/yrc_w116_034s.png",
+	"tags": null,
+	"expansionId": 490
 }

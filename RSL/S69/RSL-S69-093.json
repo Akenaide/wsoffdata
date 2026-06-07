@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "愛を知らない獣……\u003cbr\u003e演じ切ってみせよう",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 経験 あなたのレベル置場に「新たな舞台 雪代 晶」があるなら、このカードのパワーを＋1500。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 経験 あなたのレベル置場に「新たな舞台 雪代 晶」があるなら、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"シークフェルト音楽学院"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S69-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s69/rsl_s69_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s69/rsl_s69_093.png",
+	"tags": null,
+	"expansionId": 279
 }

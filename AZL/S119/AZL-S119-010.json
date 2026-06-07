@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今日の英雄さんは、どんな英雄物語を織りなすのでしょう？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のターン中、他のあなたの《艦船》のキャラがいるなら、このカードのパワーを＋10500。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋10500。"
+		"【永】 相手のターン中、他のあなたの《艦船》のキャラがいるなら、このカードのパワーを＋10500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋10500。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"アイリス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_010.png",
+	"tags": null,
+	"expansionId": 499
 }

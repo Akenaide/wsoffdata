@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ご、ごめんね。で、でも……\u003cbr /\u003eぷっ、あははははははははは",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W23-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w23/dc_w23_018.png",
+	"tags": null,
+	"expansionId": 90
 }

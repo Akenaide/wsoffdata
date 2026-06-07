@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なるほど理解しました！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは他のあなたの《魔大陸》のキャラの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"魔大陸"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_076.png",
+	"tags": null,
+	"expansionId": 283
 }

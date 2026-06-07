@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの青のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-119SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_119sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_119sp.png",
+	"tags": null,
+	"expansionId": 144
 }

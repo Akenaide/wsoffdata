@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―――ふふふん",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ あなたがレベルアップした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《メイド》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_047.png",
+	"tags": null,
+	"expansionId": 13
 }

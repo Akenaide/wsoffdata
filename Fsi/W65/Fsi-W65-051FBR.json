@@ -15,21 +15,21 @@
 	"rarity": "FBR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「碧陽学園生徒会長 くりむ」がいるなら、このカードのパワーを＋3000。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【永】 他のあなたの「碧陽学園生徒会長 くりむ」がいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"生徒会",
 		"優等生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsi/W65-051FBR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsi_w65/fsi_w65_051fbr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsi_w65/fsi_w65_051fbr.png",
+	"tags": null,
+	"expansionId": 264
 }

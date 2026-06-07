@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日は素晴らしい一日でしたぁ!! 本当にありがとうございました！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、青か《BLOOM》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【起】［手札のクライマックスを1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
+		"【永】 他のあなたの、青か《BLOOM》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【起】［手札のクライマックスを1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
 	],
 	"specialAttrib": [
 		"ライター",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-099",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_099.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_099.png",
+	"tags": null,
+	"expansionId": 344
 }

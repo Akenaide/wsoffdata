@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚と、そのキャラ以外の相手の前列のキャラを1枚選び、それぞれを【スタンド】して入れ替える。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S113-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s113/mar_s113_094.png",
+	"tags": null,
+	"expansionId": 484
 }

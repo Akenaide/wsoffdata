@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードは次の能力を得る。『【起】［あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。』"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_010.png",
+	"tags": null,
+	"expansionId": 61
 }

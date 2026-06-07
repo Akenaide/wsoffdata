@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「“青薔薇の道”湊友希那」を1枚まで選び、このカードがいた枠に置く。』"
 	],
@@ -25,8 +25,9 @@
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-P58S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_p58s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_p58s.png",
+	"tags": null,
+	"expansionId": 12
 }

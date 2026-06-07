@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さっ、今日もしっかりバッチリ護ってこう！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、あなたのキャラすべてが《艦娘》なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"護衛駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

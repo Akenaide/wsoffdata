@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】【CXコンボ】 あなたのクライマックス置場に「ミューズになっちゃう」があるなら、あなたのキャラすべてに、パワーを＋1500。",
-		"【自】［(2)］ あなたのアンコールステップの始めに、前列にこのカードがいて、相手の前列のキャラがいないか相手の前列のキャラすべてが【リバース】しているなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+		"【永】【CXコンボ】 あなたのクライマックス置場に「ミューズになっちゃう」があるなら、あなたのキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】［(2)］ あなたのアンコールステップの始めに、前列にこのカードがいて、相手の前列のキャラがいないか相手の前列のキャラすべてが【リバース】しているなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"思春期",
 		"オシャレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W114-055S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_055s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w114/sby_w114_055s.png",
+	"tags": null,
+	"expansionId": 463
 }

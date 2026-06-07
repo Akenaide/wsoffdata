@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたたち……銃撃犯ですよね？",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードすべてが《デビルハンター》か《悪魔》のキャラなら、あなたはこのカードを手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_038.png",
+	"tags": null,
+	"expansionId": 428
 }

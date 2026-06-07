@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "喧嘩っていうのは和解してからが大変なんだから\u003cbr /\u003e――その辺の心得違いをしないでね",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「なんでも知っている少女」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《怪異》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_024.png",
+	"tags": null,
+	"expansionId": 105
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "別に私は何もしていない。話を聞くだけだ",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の「悪魔のパーツ」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の「悪魔のパーツ」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"怪異",
 		"悪魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_038.png",
+	"tags": null,
+	"expansionId": 159
 }

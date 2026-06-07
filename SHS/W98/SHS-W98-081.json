@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "英梨々「な～んでたったの二週間なのよ。一か月延ばせって言ったでしょ～！」\u003cbr\u003e詩羽「倫理君、あなた私たちを殺すつもりなの～！」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のクロックの上から2枚までを、控え室に置く。そのターンの次のターンの終わりに、あなたは自分の山札の上から2枚を、クロック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SHS/W98-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_081.png",
+	"tags": null,
+	"expansionId": 391
 }

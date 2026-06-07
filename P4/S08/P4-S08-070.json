@@ -10,20 +10,21 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カレーは、辛いとか甘いとかだろ！コレ、くせーんだよ！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』",
 		"相手の【スタンド】しているキャラがいないなら、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P4/S08-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_s08/p4_s08_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_s08/p4_s08_070.png",
+	"tags": null,
+	"expansionId": 34
 }

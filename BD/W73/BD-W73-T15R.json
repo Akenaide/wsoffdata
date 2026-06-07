@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "集まって間もないですが素晴らしいメンバーです",
+	"trigger": null,
 	"ability": [
 		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札を見て《RAISE A SUILEN》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-T15R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_t15r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_t15r.png",
+	"tags": null,
+	"expansionId": 282
 }

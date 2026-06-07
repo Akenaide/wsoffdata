@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "菊岡「恭二にとって、兄は英雄に見えていたそうだ」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。",
-		"【永】 相手の前列のキャラすべてに、《標的》を与える。"
+		"【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。\u003cbr\u003e【永】 相手の前列のキャラすべてに、《標的》を与える。"
 	],
 	"specialAttrib": [
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE23-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se23/sao_se23_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se23/sao_se23_08.png",
+	"tags": null,
+	"expansionId": 128
 }

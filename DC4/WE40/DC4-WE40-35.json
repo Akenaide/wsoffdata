@@ -15,21 +15,21 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "はい。先輩は受信機をお願いしますね。私は先を照らしてますから",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC4/WE40-35",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc4_we40_35.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we40/dc4_we40_35.png",
+	"tags": null,
+	"expansionId": 436
 }

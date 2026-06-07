@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《アリスギア》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「ご当地アイスチャレンジ」が置かれた時、前列にこのカードがいて、他のあなたの《アリスギア》のキャラが2枚以上なら、あなたは自分の山札を見て《アリスギア》のキャラを2枚まで選んで相手に見せる。その後、相手はそれらのキャラを1枚選び、控え室に置き、残りのカードをあなたの手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの《アリスギア》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「ご当地アイスチャレンジ」が置かれた時、前列にこのカードがいて、他のあなたの《アリスギア》のキャラが2枚以上なら、あなたは自分の山札を見て《アリスギア》のキャラを2枚まで選んで相手に見せる。その後、相手はそれらのキャラを1枚選び、控え室に置き、残りのカードをあなたの手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"アリスギア",
 		"アクトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AGS/W108-002SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_002sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ags_w108/ags_w108_002sp.png",
+	"tags": null,
+	"expansionId": 446
 }

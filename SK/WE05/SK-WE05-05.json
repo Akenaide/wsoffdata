@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "秋葉「探しに来てくれたんだ、レオパルド」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベル置場の《コロニー》のキャラ1枚につき、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"コロニー",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SK/WE05-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sk_we05/sk_we05_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sk_we05/sk_we05_05.png",
+	"tags": null,
+	"expansionId": 30
 }

@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私……、\u003cbr\u003e部長のこと、好きになってよかった",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
-		"【自】【CXコンボ】［(1) あなたのCX置場の「恋する気持ちの行方」を1枚控え室に置く］ あなたのCXフェイズ中、このカードが「恋する気持ちの行方」の効果で舞台に置かれた時、他のあなたの《青春》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル2以下の《青春》のキャラを1枚選び、舞台の好きな枠に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［(1) あなたのCX置場の「恋する気持ちの行方」を1枚控え室に置く］ あなたのCXフェイズ中、このカードが「恋する気持ちの行方」の効果で舞台に置かれた時、他のあなたの《青春》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル2以下の《青春》のキャラを1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"青春",
 		"マケイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_059.png",
+	"tags": null,
+	"expansionId": 520
 }

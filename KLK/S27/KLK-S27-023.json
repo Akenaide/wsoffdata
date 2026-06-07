@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "裸のキミが見たいな！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－3000。"
 	],
@@ -24,8 +24,9 @@
 		"服",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_023.png",
+	"tags": null,
+	"expansionId": 117
 }

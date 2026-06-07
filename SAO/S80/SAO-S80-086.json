@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "たくさんの人達が、君を待ってるよ",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 あなたのクライマックス置場に「青薔薇の剣」が置かれた時、前列にこのカードがいるなら、あなたは他の自分のキャラを1枚と、このカードを選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"フラクトライト",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_086.png",
+	"tags": null,
+	"expansionId": 318
 }

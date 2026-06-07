@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あんたが犯人ね！",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"警察",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE11-20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se11/mk_se11_20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se11/mk_se11_20.png",
+	"tags": null,
+	"expansionId": 69
 }

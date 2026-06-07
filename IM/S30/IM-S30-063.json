@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わ、私がリーダーですか？",
+	"trigger": null,
 	"ability": [
 		"【永】 前列の中央の枠にこのカードがいるなら、他のあなたのレベル0以下のキャラすべてに、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_063.png",
+	"tags": null,
+	"expansionId": 129
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "メアリー「ま、だから、なんて言うかさ、\u003cbr /\u003eあたしたちのことを信頼してくれてありがと」\u003cbr /\u003eエドワード「そういうこと」",
+	"trigger": null,
 	"ability": [
 		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）",
 		"【起】［このカードを【レスト】する］ あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"探偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_027.png",
+	"tags": null,
+	"expansionId": 78
 }

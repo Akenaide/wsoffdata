@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "月というのが気に入った。\u003cbr /\u003e太陽は儂の敵じゃが――月には色々と恩恵を受けておる",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋500し、このカードは次の能力を得る。『【永】 あなたのターン中、このカードのパワーを＋1000。』"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_004.png",
+	"tags": null,
+	"expansionId": 105
 }

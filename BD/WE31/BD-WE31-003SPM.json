@@ -15,8 +15,8 @@
 	"rarity": "SPM",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE31-003SPM",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_003spm.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we31/bd_we31_003spm.png",
+	"tags": null,
+	"expansionId": 233
 }

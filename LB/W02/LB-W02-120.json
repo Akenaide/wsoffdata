@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いやー、だってアレ私が考えた結末ですヨ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「佳奈多」を含むキャラすべてに、パワーを＋500。",
 		"【自】 絆／「“風紀の番人”佳奈多」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“風紀の番人”佳奈多」を1枚選び、手札に戻す）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ビー玉"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W02-120",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_120.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_120.gif",
+	"tags": null,
+	"expansionId": 12
 }

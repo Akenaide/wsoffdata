@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラでないなら、あなたはそのキャラを【レスト】する。（公開したカードは元に戻す）"
+		"このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラでないなら、あなたはそのキャラを【レスト】する。（公開したカードは元に戻す）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LSS/W53-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w53/lss_w53_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w53/lss_w53_095.png",
+	"tags": null,
+	"expansionId": 225
 }

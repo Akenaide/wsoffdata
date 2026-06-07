@@ -15,21 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが黄か青なら、このカードのパワーを＋1500。",
-		"【自】［(1) あなたの控え室の《艦船》のキャラを1枚クロック置場の下に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		""
+		"【永】 あなたのターン中、あなたのキャラすべてが黄か青なら、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1) あなたの控え室の《艦船》のキャラを1枚クロック置場の下に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ロイヤル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-001SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_001sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_001sp.png",
+	"tags": null,
+	"expansionId": 499
 }

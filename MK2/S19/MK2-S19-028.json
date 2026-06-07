@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしにまっかせなさ～い！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「G5 エリー」すべてに、パワーを＋1000。",
 		"【自】 絆／「G5 エリー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「G5 エリー」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"探偵",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_028.png",
+	"tags": null,
+	"expansionId": 87
 }

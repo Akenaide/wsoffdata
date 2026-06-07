@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "にちかのお願い、叶えちゃうぞのコーナー始めますねー！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「ビヨンドザブルースカイ 七草にちか」すべてに、パワーを＋2000。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
+		"【永】 他のあなたの「ビヨンドザブルースカイ 七草にちか」すべてに、パワーを＋2000。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"シーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-T02R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_t02r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_t02r.png",
+	"tags": null,
+	"expansionId": 467
 }

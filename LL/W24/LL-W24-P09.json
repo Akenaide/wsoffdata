@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よーし！　頑張って練習しなくちゃ！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分の《お菓子》のキャラを1枚選び、そのターン中、レベルを＋1。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W24-P09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w24/ll_w24_p09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w24/ll_w24_p09.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フリーレン。いつか君に見せてあげたい",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚クロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《冒険者》か《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、あなたの思い出が2枚以下なら、あなたは自分の控え室の「蒼月草 ヒンメル」を1枚まで選び、思い出にする。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S108-T13R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_t13r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s108/sfn_s108_t13r.png",
+	"tags": null,
+	"expansionId": 456
 }

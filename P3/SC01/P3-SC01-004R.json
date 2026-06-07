@@ -15,19 +15,19 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "知ってる？　ここの露天、男湯と女湯、時間交代制なんだよ。",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】【クロック】 アラーム このカードがクロックの１番上にあり、あなたのレベルが1以下なら、黄のあなたのキャラすべてに、ソウルを＋1。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「露天風呂」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+		"【永】【クロック】 アラーム このカードがクロックの１番上にあり、あなたのレベルが1以下なら、黄のあなたのキャラすべてに、ソウルを＋1。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「露天風呂」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-004R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_004r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_004r.png",
+	"tags": null,
+	"expansionId": 340
 }

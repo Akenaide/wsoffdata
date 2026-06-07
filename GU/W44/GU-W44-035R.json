@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ラビットハウス》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-035R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_035r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_035r.png",
+	"tags": null,
+	"expansionId": 174
 }

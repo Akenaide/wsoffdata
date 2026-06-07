@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "結構。オカルト研究会にようこそ。ここがおまえにとって良き居場所となれば良いわね",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_t04.png",
+	"tags": null,
+	"expansionId": 53
 }

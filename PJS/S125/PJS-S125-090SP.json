@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋5500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー"
+		"バーチャル・シンガー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S125-090SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_090sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s125/pjs_s125_090sp.png",
+	"tags": null,
+	"expansionId": 536
 }

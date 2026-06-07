@@ -15,8 +15,8 @@
 	"rarity": "PER",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よろしくおねがいします！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札のCXを1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《リロード》か《魔法》か《武器》のキャラを1枚選び、手札に戻す。"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SE46-23PER",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_23per.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_se46/p3_se46_23per.png",
+	"tags": null,
+	"expansionId": 469
 }

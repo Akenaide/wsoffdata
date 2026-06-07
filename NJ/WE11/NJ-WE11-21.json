@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっと阪本と散歩してくる",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(2)  あなたの山札の上から1枚をクロック置場に置く］ あなたは自分のカード名に「なの」を含むキャラを1枚選び、そのターン中、《武器》を与え、次の能力を与える。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』"
@@ -25,8 +25,9 @@
 		"科学",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NJ/WE11-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nj_we11/nj_we11_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nj_we11/nj_we11_21.png",
+	"tags": null,
+	"expansionId": 70
 }

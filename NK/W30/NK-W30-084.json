@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前は嫌な奴だけどお前の気持ちは少し分かるからな",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《鍵》のキャラすべてに、パワーを＋500。",
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「約束のペンダント」を1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"動物",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/W30-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_w30/nk_w30_084.png",
+	"tags": null,
+	"expansionId": 122
 }

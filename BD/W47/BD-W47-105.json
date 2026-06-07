@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "にゃ、にゃー…",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の《盆栽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「イラつくあいつ」を1枚まで選び、手札に戻し、他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"盆栽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_105.png",
+	"tags": null,
+	"expansionId": 196
 }

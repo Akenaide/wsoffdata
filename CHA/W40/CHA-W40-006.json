@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いえいえ、こいつのよーな、イケメンで頭脳明晰な奴、あたしとは全然釣り合わないですから、はっはっ",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_006.png",
+	"tags": null,
+	"expansionId": 152
 }

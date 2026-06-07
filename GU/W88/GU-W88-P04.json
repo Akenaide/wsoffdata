@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "敵の素性が曖昧なまま警戒を解くんじゃない！",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-P04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_p04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_p04.png",
+	"tags": null,
+	"expansionId": 12
 }

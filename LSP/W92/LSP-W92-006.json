@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベルＸ以下の《音楽》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「カリスマギャラクシー すみれ」の枚数に等しい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベルＸ以下の《音楽》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「カリスマギャラクシー すみれ」の枚数に等しい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSP/W92-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lsp_w92/lsp_w92_006.png",
+	"tags": null,
+	"expansionId": 368
 }

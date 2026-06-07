@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私たちが失われた歌を取り戻します！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-T15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_t15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_t15.png",
+	"tags": null,
+	"expansionId": 138
 }

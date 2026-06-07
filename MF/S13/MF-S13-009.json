@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シェリル「捕まえられるもんなら、捕まえてごらんなさい」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのレベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_009.png",
+	"tags": null,
+	"expansionId": 61
 }

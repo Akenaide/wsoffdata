@@ -15,8 +15,8 @@
 	"rarity": "JJR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアタックフェイズの始めに、次の相手のターンの終わりまで、あなたはこのカードのパワーを－1000してよい。そうしたら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"スタンド使い",
 		"スタンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/SE41-33J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se41/jj_se41_33j.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_se41/jj_se41_33j.png",
+	"tags": null,
+	"expansionId": 434
 }

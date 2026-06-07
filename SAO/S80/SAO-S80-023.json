@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "僕の責任においてキリト君は必ず回復させる",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_023.png",
+	"tags": null,
+	"expansionId": 318
 }

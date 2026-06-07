@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えっ、あぁ～え～～っとぉ～",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《探偵》のキャラを2枚【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。",
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《探偵》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"探偵",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_001.png",
+	"tags": null,
+	"expansionId": 136
 }

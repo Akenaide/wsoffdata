@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "それじゃもう少しトレーニングいくよ～今日はもうちょっとやらないとダメなんだ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの黄のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。"
+		"【永】 あなたの黄のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。"
 	],
 	"specialAttrib": [
 		"ガール",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_012.png",
+	"tags": null,
+	"expansionId": 131
 }

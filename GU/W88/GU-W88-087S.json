@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっといろいろありまして",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』"
 	],
@@ -24,8 +24,9 @@
 		"八重歯",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-087S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_087s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_087s.png",
+	"tags": null,
+	"expansionId": 344
 }

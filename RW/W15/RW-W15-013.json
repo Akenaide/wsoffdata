@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ここは部外者が立ち入っていい場所ではありませんよ",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"執事",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_013.png",
+	"tags": null,
+	"expansionId": 65
 }

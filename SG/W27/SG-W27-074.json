@@ -10,20 +10,21 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "killter Ichaival tron…",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のレベル2以上のカード名に「クリス」を含むキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の手札の「“長射程広域攻撃”クリス」を1枚まで選び、舞台の好きな枠に置く。",
 		"あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SG/W27-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w27/sg_w27_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w27/sg_w27_074.png",
+	"tags": null,
+	"expansionId": 107
 }

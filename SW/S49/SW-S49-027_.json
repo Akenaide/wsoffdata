@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マズ・カナタ「もう、真実を知っているはずだ。お前がジャクーで待つ人は、もう戻らない」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《フォースの覚醒》のキャラの枚数×1000に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SW/S49-027_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_027_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_027_.png",
+	"tags": null,
+	"expansionId": 400
 }

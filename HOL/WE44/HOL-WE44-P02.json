@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ホロライブ》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ホロライブ》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"4期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE44-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we44/hol_we44_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we44/hol_we44_p02.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は死を呼ぶものだから",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、舞台の別々の枠に置く。"
+		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、舞台の別々の枠に置く。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"武器",
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fkz/W65-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fkz_w65/fkz_w65_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fkz_w65/fkz_w65_003.png",
+	"tags": null,
+	"expansionId": 264
 }

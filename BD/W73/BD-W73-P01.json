@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なし",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "睡眠と読書と執筆だけで生きていきたいわね。他にもしたいことあるけど全部寝ながらできるし。",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《ゲーム》か《小説》のキャラの枚数×1000に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《ゲーム》か《小説》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-T18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_t18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_t18.png",
+	"tags": null,
+	"expansionId": 219
 }

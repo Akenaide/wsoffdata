@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "らんらんらん♪",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが【リバース】した時、あなたのクライマックス置場に「バリツの秘密」があり、このカードのバトル相手のレベルが2以下なら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【リバース】する。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE11-26",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se11/mk_se11_26.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se11/mk_se11_26.png",
+	"tags": null,
+	"expansionId": 69
 }

@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "潰せ!!",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、青か《漆黒》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【永】 他のあなたの、青か《漆黒》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"人間種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_087.png",
+	"tags": null,
+	"expansionId": 254
 }

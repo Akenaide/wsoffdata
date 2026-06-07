@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場に「ふたりの世界」があるなら、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
 	"specialAttrib": [
 		"リリィ",
-		"グラン",
-		"エプレ"
+		"グラン・エプレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/SE37-26",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_se37/all_se37_26.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_se37/all_se37_26.png",
+	"tags": null,
+	"expansionId": 372
 }

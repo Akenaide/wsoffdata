@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お館様！ この幸村、必ずやお館様のご期待に応えてみせまする！",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「“甲斐の虎”武田 信玄」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“甲斐の虎”武田 信玄」を1枚選び、手札に戻す）",
 		"【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
@@ -25,8 +25,9 @@
 		"武器",
 		"鉢巻"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/SE05-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_se05/sb_se05_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_se05/sb_se05_21.png",
+	"tags": null,
+	"expansionId": 47
 }

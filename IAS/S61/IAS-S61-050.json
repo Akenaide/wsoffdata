@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これ、デートで乗ったら最高ですよね！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"空手"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IAS/S61-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_s61/ias_s61_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_s61/ias_s61_050.png",
+	"tags": null,
+	"expansionId": 251
 }

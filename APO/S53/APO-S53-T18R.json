@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "だが、それでも……彼に捧げるべきものがある",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 他のあなたの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"サーヴァント",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-T18R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_t18r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_t18r.png",
+	"tags": null,
+	"expansionId": 223
 }

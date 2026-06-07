@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…3.1415926535 8979323846 2643383279\u003cbr /\u003e5028841971 6939937510 5820974944\u003cbr /\u003e5923078164 0628620899 8628034825…",
+	"trigger": null,
 	"ability": [
 		"【永】 舞台にこのカードがいるなら、このカードのカード名は「クライスト」としても扱う。"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/WE10-29",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_we10/ab_we10_29.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_we10/ab_we10_29.png",
+	"tags": null,
+	"expansionId": 63
 }

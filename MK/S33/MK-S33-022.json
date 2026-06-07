@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カズミちゃん、怪我はない？",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の控え室の、カード名に「アリス」を含むキャラを2枚までとカード名に「カズミ」を含むキャラを2枚まで選び、山札の上に好きな順番で置く。4枚置いたなら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/S33-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_022.png",
+	"tags": null,
+	"expansionId": 136
 }

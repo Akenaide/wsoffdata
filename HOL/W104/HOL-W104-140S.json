@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
-		"【自】 記憶 このカードがアタックした時、あなたの思い出置場の異なるカード名のカードが2枚以上なら、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。"
+		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。\u003cbr\u003e【自】 記憶 このカードがアタックした時、あなたの思い出置場の異なるカード名のカードが2枚以上なら、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"5期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W104-140S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_140s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w104/hol_w104_140s.png",
+	"tags": null,
+	"expansionId": 419
 }

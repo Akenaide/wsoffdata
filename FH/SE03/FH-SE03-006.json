@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "恐れ入ります。これでも神に仕える身ですし",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの控え室のクライマックスが1枚以下なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_006.png",
+	"tags": null,
+	"expansionId": 33
 }

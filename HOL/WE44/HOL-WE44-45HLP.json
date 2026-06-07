@@ -15,18 +15,18 @@
 	"rarity": "HLP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋1500。",
-		"【自】 このカードかこのカードのバトル相手が【リバース】した時、そのターン中、そのキャラは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードかこのカードのバトル相手が【リバース】した時、そのターン中、そのキャラは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"5期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE44-45HLP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we44/hol_we44_45hlp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we44/hol_we44_45hlp.png",
+	"tags": null,
+	"expansionId": 464
 }

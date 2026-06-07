@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アッシュ「キミに、ボクは止められないよ……」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたはキャラを1枚選び、そのターン中、パワーを＋2000し、あなたが指定した特徴を1つ与える。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KF/S05-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_045.png",
+	"tags": null,
+	"expansionId": 27
 }

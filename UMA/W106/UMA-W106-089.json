@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ライスだって…咲ける…っ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《ウマ娘》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【永】 応援 このカードの前のあなたの《ウマ娘》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_089.png",
+	"tags": null,
+	"expansionId": 431
 }

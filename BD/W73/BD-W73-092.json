@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "チュチュ様は、口はちょっと悪いですが、見る目は確かです",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【自】［(1) 【スタンド】しているこのカードを【レスト】する］ あなたが『加速』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚選び、そのターンの次のターンの終わりまで、パワーを＋3500。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】［(1) 【スタンド】しているこのカードを【レスト】する］ あなたが『加速』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚選び、そのターンの次のターンの終わりまで、パワーを＋3500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_092.png",
+	"tags": null,
+	"expansionId": 286
 }

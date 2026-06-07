@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そのクエストにご興味が？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ランドソル》のキャラの枚数×1000に等しい。",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは相手のクロックを1枚選び、控え室に置いてよい。そうしたら、相手は自分の山札の上から1枚を、クロック置場に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ランドソル》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、あなたは相手のクロックを1枚選び、控え室に置いてよい。そうしたら、相手は自分の山札の上から1枚を、クロック置場に置く。"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W84-099",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_099.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w84/prd_w84_099.png",
+	"tags": null,
+	"expansionId": 320
 }

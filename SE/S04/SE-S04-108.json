@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もう1本の聖剣を抜いたのがトウマで、本当に良かった",
+	"trigger": null,
 	"ability": [
 		"【起】[(1)] そのターン中、このカードのソウルを+1。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_108.png",
+	"tags": null,
+	"expansionId": 13
 }

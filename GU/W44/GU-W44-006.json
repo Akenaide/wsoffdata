@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よし！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、あなたのキャラすべてがカード名に「シャロ」か「千夜」を含むなら、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"特待生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_006.png",
+	"tags": null,
+	"expansionId": 174
 }

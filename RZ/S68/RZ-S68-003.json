@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場のカードと控え室の、「目指せニューヨーク？ ペトラ」か「おいしいご褒美 ペトラ」を1枚ずつ選び、入れ替えてよい。",
-		"【自】 記憶 ［手札を1枚ストック置場に置く］ このカードが手札から舞台に置かれた時、あなたの思い出置場に「雪うさぎ」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場のカードと控え室の、「目指せニューヨーク？ ペトラ」か「おいしいご褒美 ペトラ」を1枚ずつ選び、入れ替えてよい。\u003cbr\u003e【自】 記憶 ［手札を1枚ストック置場に置く］ このカードが手札から舞台に置かれた時、あなたの思い出置場に「雪うさぎ」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。"
 	],
 	"specialAttrib": [
 		"Memory Snow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S68-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_003.png",
+	"tags": null,
+	"expansionId": 280
 }

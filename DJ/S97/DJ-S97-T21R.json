@@ -15,15 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】［このカードを控え室に置く］ 他のあなたの《音楽》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［このカードを控え室に置く］ 他のあなたの《音楽》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"音楽",
+		"Peaky P-key"
+	],
+	"version": "4",
 	"cardcode": "DJ/S97-T21R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_t21r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_t21r.png",
+	"tags": null,
+	"expansionId": 417
 }

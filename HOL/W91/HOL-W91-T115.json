@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここはポルカに任せて！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《ホロライブ》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+		"【永】 あなたのターン中、他のあなたの《ホロライブ》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"5期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T115",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t115.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t115.png",
+	"tags": null,
+	"expansionId": 356
 }

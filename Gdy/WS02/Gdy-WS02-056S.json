@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "30まで独身だったら、アタシにしときなよ？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《電撃文庫》のキャラかイベントなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。（公開したカードは元に戻す）"
 	],
@@ -25,8 +25,9 @@
 		"アクセサリー",
 		"花"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gdy/WS02-056S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gdy_ws02_056s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gdy_ws02_056s.png",
+	"tags": null,
+	"expansionId": 439
 }

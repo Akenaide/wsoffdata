@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札か思い出置場から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
-		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の、《Celebration》か《Disney》のキャラを1枚と、このカードを選び、思い出にする。次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのキャラを、舞台の別々の枠に置き、そのターン中、それらのキャラのパワーを＋1000。"
+		"【自】 このカードが手札か思い出置場から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。\u003cbr\u003e【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の、《Celebration》か《Disney》のキャラを1枚と、このカードを選び、思い出にする。次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのキャラを、舞台の別々の枠に置き、そのターン中、それらのキャラのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"Celebration",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Dds/S104-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_030.png",
+	"tags": null,
+	"expansionId": 420
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "精々気をつけることじゃな、お前様－－お前様が死んだら、\u003cbr\u003e儂は世界を滅ぼしかねんということがわかったわけじゃし",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《怪異》のキャラすべてに、パワーを＋500。",
-		"【自】 経験 ［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が4以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《怪異》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの《怪異》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 経験 ［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が4以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《怪異》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_008.png",
+	"tags": null,
+	"expansionId": 159
 }

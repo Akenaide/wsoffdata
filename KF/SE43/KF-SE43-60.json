@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "コンティニュー？",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
-		"あなたは自分のキャラを1枚選び、手札に戻してよい。"
+		"【カウンター】 あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』\u003cbr\u003eあなたは自分のキャラを1枚選び、手札に戻してよい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KF/SE43-60",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_60.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_se43/kf_se43_60.png",
+	"tags": null,
+	"expansionId": 441
 }

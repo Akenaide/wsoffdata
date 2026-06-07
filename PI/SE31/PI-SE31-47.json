@@ -1,6 +1,6 @@
 {
 	"set": "PI",
-	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"setName": " Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
 	"side": "S",
 	"release": "E31",
 	"id": "47",
@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
-		"【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE31-47",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se31/pi_se31_47.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se31/pi_se31_47.png",
+	"tags": null,
+	"expansionId": 202
 }

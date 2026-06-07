@@ -15,18 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Ｐ「―幸せものですね。俺は」",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
-		"【永】 あなたが自分の手札のイベントのコストを払う時、このカードの下のマーカー1枚を、ストック1枚のかわりに控え室に置いてよい。",
-		"【自】［このカードを【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。"
+		"【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\u003cbr\u003e【永】 あなたが自分の手札のイベントのコストを払う時、このカードの下のマーカー1枚を、ストック1枚のかわりに控え室に置いてよい。\u003cbr\u003e【自】［このカードを【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_009.png",
+	"tags": null,
+	"expansionId": 129
 }

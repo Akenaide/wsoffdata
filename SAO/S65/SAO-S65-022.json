@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "桐ケ谷くんの身体生命は、本官が責任を持って守ります！……なんてね",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたの《フラクトライト》のキャラがいないなら、手札からプレイできない。あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。このカードを思い出にする。"
+		"【カウンター】 このカードは、あなたの《フラクトライト》のキャラがいないなら、手札からプレイできない。あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SAO/S65-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_022.png",
+	"tags": null,
+	"expansionId": 267
 }

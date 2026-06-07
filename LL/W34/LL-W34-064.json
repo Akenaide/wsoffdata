@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "2人とも、すごく似合ってる！ファイトだよ！",
+	"trigger": null,
 	"ability": [
 		"このカードを思い出にする。【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠のカード名に「穂乃果」を含むキャラに、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LL/W34-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w34/ll_w34_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w34/ll_w34_064.png",
+	"tags": null,
+	"expansionId": 134
 }

@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "汝に一騎打ちを申し込む！！！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、青か《漆黒》のキャラの枚数×500に等しい。",
-		"【自】 このカードがアタックした時、あなたは自分の、青か《漆黒》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、青か《漆黒》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の、青か《漆黒》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"人間種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S99-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s99/ovl_s99_094.png",
+	"tags": null,
+	"expansionId": 404
 }

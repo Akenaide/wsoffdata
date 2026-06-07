@@ -8,24 +8,24 @@
 	"jpName": "看板・宣伝・大作戦☆",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "灯莉「これはノーム、森に住む大地の妖精！ノームは幸運を呼ぶんだ☆ 」",
 	"trigger": [
 		"CHOICE"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[CHOICE]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[choice.gif]]：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンに[[soul.gif]]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ALL/S90-033R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_033r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_033r.png",
+	"tags": null,
+	"expansionId": 371
 }

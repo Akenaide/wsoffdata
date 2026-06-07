@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さっさと行って―――片づけてきなさいっ!!",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かアタックした時、あなたは自分の、《ファンタジア文庫》か《ウィスパード》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -25,8 +25,9 @@
 		"ウィスパード",
 		"優等生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ffp/W120-063S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ffp_w120/ffp_w120_063s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ffp_w120/ffp_w120_063s.png",
+	"tags": null,
+	"expansionId": 489
 }

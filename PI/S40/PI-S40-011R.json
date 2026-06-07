@@ -15,17 +15,17 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あんた　よくもー!!!",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。"
+		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/S40-011R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_s40/pi_s40_011r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_s40/pi_s40_011r.png",
+	"tags": null,
+	"expansionId": 170
 }

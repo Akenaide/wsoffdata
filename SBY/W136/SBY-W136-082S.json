@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じゃあ、あとは若いお二人でごゆっくり",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックしてもソウルが減少しない。』",
-		"【起】［このカードを控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックしてもソウルが減少しない。』\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』"
 	],
 	"specialAttrib": [
 		"思春期",
 		"変わり者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-082S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_082s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_082s.png",
+	"tags": null,
+	"expansionId": 547
 }

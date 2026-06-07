@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "届けェェえええええっ!!!!",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは相手のコスト0以下のキャラを1枚選び、ストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FT/S09-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_021.png",
+	"tags": null,
+	"expansionId": 43
 }

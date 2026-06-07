@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"甘兎庵",
 		"和菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_019.png",
+	"tags": null,
+	"expansionId": 174
 }

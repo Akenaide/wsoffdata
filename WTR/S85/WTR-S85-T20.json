@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《トリオン》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルし、そのターン中、このカードのパワーを＋2000。"
+		"【永】 他のあなたの《トリオン》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルし、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"トリオン",
 		"玉狛第2"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WTR/S85-T20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wtr_s85/wtr_s85_t20.png",
+	"tags": null,
+	"expansionId": 359
 }

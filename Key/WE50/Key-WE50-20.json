@@ -15,20 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "覚えなくていいです。 ……でももし",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、相手のCX置場にCXがあるなら、あなたは自分のバトル中の、《Anniversary》か《ルーパーズ》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、相手のCX置場にCXがあるなら、あなたは自分のバトル中の、《Anniversary》か《ルーパーズ》のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"ルーパーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Key/WE50-20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/key_we50_20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/key_we50_20.png",
+	"tags": null,
+	"expansionId": 532
 }

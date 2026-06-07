@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「長野原 みお」がいるなら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。』",
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"メガネ",
 		"仏像"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NJ/WE11-02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nj_we11/nj_we11_02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nj_we11/nj_we11_02.png",
+	"tags": null,
+	"expansionId": 70
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "絵理おねーちゃん、こっちこっち、早くー！ ここが、亜美たち行きつけの服屋さんだよ！",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/SE04-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_se04/im_se04_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_se04/im_se04_01.png",
+	"tags": null,
+	"expansionId": 36
 }

@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ふっふーん、今日はやる気マンマンです。\u003cbr /\u003eえ？　食材は大丈夫かって？　ご心配なく！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_008.png",
+	"tags": null,
+	"expansionId": 144
 }

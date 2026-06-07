@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "目障りですから、ここで消えてくださらない？",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"使い魔",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_001.png",
+	"tags": null,
+	"expansionId": 48
 }

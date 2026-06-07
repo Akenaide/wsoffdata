@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は…お姉ちゃんみたいにはなれない。\u003cbr\u003eいつか、分かりあえない時がくる…そんな気がしてた",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-031S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_031s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_031s.png",
+	"tags": null,
+	"expansionId": 180
 }

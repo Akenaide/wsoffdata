@@ -10,20 +10,21 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リョウ「極限流道場は、現在入門者募集中！……ゴホン。入門者大募集中！」",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの控え室にカード名に「タクマ」か「リョウ」か「ロバート」を含むキャラがないなら、手札からプレイできない。",
 		"あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KF/S05-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_096.png",
+	"tags": null,
+	"expansionId": 27
 }

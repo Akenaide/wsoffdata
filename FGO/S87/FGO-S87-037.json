@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "037",
@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしのお弟子が教えてくれたわ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"キャメロット",
 		"法師"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_037.png",
+	"tags": null,
+	"expansionId": 363
 }

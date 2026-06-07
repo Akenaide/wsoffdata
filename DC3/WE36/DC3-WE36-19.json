@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の、《新聞》か《スポーツ》のキャラを1枚まで選び、手札に戻す。"
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の、《新聞》か《スポーツ》のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"新聞",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE36-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we36/dc3_we36_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we36/dc3_we36_19.png",
+	"tags": null,
+	"expansionId": 361
 }

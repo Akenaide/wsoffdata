@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これより２分以内で巣作りを終える！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、相手は自分のストックの上から2枚を、控え室に置いてよい。そうしたら、そのターン中、このカードはフロントアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_060.png",
+	"tags": null,
+	"expansionId": 347
 }

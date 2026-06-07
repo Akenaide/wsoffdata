@@ -15,8 +15,8 @@
 	"rarity": "XR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-079X",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_079x.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_079x.png",
+	"tags": null,
+	"expansionId": 93
 }

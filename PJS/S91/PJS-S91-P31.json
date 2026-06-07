@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"25時、ナイトコードで。"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-P31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_p31.png",
+	"tags": null,
+	"expansionId": 13
 }

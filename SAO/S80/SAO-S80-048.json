@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "上等じゃねーか……です",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。",
-		"【永】 このカードの正面のキャラに、『【自】 アンコール ［(2)］』を与える。"
+		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【永】 このカードの正面のキャラに、『【自】 アンコール ［(2)］』を与える。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"整合騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_048.png",
+	"tags": null,
+	"expansionId": 318
 }

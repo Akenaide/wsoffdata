@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自らの意思で、貴様の前に現れたのじゃ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
+		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"夏",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_t12.png",
+	"tags": null,
+	"expansionId": 341
 }

@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "年頃の男の子ですもんね、刃更さん……刺激強すぎました？興奮しちゃいました？",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの、《スニーカー文庫》か《魔法》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-		"【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【自】 他のあなたの、《スニーカー文庫》か《魔法》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"魔法",
 		"妹"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sst/W62-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sst_w62/sst_w62_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sst_w62/sst_w62_061.png",
+	"tags": null,
+	"expansionId": 259
 }

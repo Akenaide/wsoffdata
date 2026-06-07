@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おまえの闇は私が封じよう",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《氷》のキャラが2枚以上なら、あなたは自分の控え室の「グレイの師匠 ウル」を1枚選び、思い出にしてよい。",
 		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
@@ -25,8 +25,9 @@
 		"魔法",
 		"氷"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_080.png",
+	"tags": null,
+	"expansionId": 43
 }

@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《アンティーカ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"アンティーカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/SE53-37SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_se53/isc_se53_37sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_se53/isc_se53_37sp.png",
+	"tags": null,
+	"expansionId": 528
 }

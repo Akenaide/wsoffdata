@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "きゃあああああああああああ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
-		"【永】 記憶 あなたの思い出置場の《海賊》のキャラが2枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。』を得る。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\u003cbr\u003e【永】 記憶 あなたの思い出置場の《海賊》のキャラが2枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。』を得る。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"海賊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W130-113",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w130/smp_w130_113.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w130/smp_w130_113.png",
+	"tags": null,
+	"expansionId": 521
 }

@@ -15,17 +15,17 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、手札に戻し、他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】［あなたの《ウマ娘》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
+		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、手札に戻し、他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】［あなたの《ウマ娘》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-T21R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t21r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_t21r.png",
+	"tags": null,
+	"expansionId": 430
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "相川君……ありがとう……助かっちゃった",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを＋2。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《ファンタジア文庫》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを＋2。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《ファンタジア文庫》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"優等生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fkz/W65-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fkz_w65/fkz_w65_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fkz_w65/fkz_w65_014.png",
+	"tags": null,
+	"expansionId": 264
 }

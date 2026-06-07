@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私と一緒にドキドキしましょ？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のカード名に「シャロ」か「千夜」を含むキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"甘兎庵",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W57-P26",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w57/gu_w57_p26.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w57/gu_w57_p26.png",
+	"tags": null,
+	"expansionId": 12
 }

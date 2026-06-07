@@ -15,8 +15,8 @@
 	"rarity": "HLP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「キミと願うミライ 白上フブキ」を1枚選び、舞台の好きな枠に置く。"
 	],
@@ -25,8 +25,9 @@
 		"1期生",
 		"ゲーマーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE36-19HLP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we36/hol_we36_19hlp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we36/hol_we36_19hlp.png",
+	"tags": null,
+	"expansionId": 383
 }

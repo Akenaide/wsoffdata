@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんでモデルなんて続けてるんだろう…？って考えるとね、私の魔法少女としての人生が、ここから始まったからだと思うの",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、あなたのキャラすべてが《魔法》なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"アビリティ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_t12.png",
+	"tags": null,
+	"expansionId": 229
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゆくぞっ！！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の、「忠実なる臣下 トゥエンティ」と「忠実なる臣下 ラット」がいるなら、このカードのパワーを＋1500し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_010.png",
+	"tags": null,
+	"expansionId": 87
 }

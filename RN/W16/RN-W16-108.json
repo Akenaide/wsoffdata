@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "遠距離狙撃能力を持つ異色のカートルーパー。\u003cbr /\u003e搭乗者はバロル・ウエスタン",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、「ボルトヴァリアン」と「スターラプター」と「スティングーマ」すべてに、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_108.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の、《マスター》か《サーヴァント》か《ホムンクルス》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"旗"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-T14SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_t14sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_t14sp.png",
+	"tags": null,
+	"expansionId": 223
 }

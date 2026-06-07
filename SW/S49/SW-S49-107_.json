@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ダース・ベイダー「オビ=ワンがよく鍛えたな。恐怖を抑えることを」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのストックが3枚以下なら、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
 		"【自】 フォース ［手札の青のキャラを1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚と、そのキャラ以外の相手のレベル0以下のキャラを1枚選び、それぞれを【スタンド】して入れ替える。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ジェダイの帰還"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-107_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_107_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_107_.png",
+	"tags": null,
+	"expansionId": 400
 }

@@ -15,20 +15,19 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "－",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。",
-		"【永】 このカードの正面のキャラのソウルを－1。",
-		"【自】 あなたのクライマックス置場に「最高の舞台」が置かれた時、前列にこのカードがいるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。\u003cbr/\u003e【永】 このカードの正面のキャラのソウルを－1。\u003cbr/\u003e【自】 あなたのクライマックス置場に「最高の舞台」が置かれた時、前列にこのカードがいるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-T54R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_t54r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_t54r.png",
+	"tags": null,
+	"expansionId": 141
 }

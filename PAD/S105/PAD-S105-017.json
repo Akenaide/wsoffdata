@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。"
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"神",
 		"攻撃",
 		"体力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PAD/S105-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_017.png",
+	"tags": null,
+	"expansionId": 424
 }

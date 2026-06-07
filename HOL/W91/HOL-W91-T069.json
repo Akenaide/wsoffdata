@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一生下僕になるからここから出して！！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
-		"【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋500。"
+		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\u003cbr\u003e【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"ゲーマーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t069.png",
+	"tags": null,
+	"expansionId": 353
 }

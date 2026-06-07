@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "降りてきた",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かバトル中のこのカードが【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE35-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we35/bd_we35_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we35/bd_we35_13.png",
+	"tags": null,
+	"expansionId": 335
 }

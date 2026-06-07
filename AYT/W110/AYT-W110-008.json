@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "やっぱり祭里くんは刺激的～～♡",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたは[RETURN]の効果で相手のキャラを手札に戻せない。",
-		"【自】 あなたのトリガーアイコンが[RETURN]のクライマックスがトリガーした時、他のあなたの「“祓忍具職人”恋緒」がいないなら、あなたは相手のキャラを1枚選び、ストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+		"【永】 あなたは[[bounce.gif]]の効果で相手のキャラを手札に戻せない。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[bounce.gif]]のクライマックスがトリガーした時、他のあなたの「“祓忍具職人”恋緒」がいないなら、あなたは相手のキャラを1枚選び、ストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
 	"specialAttrib": [
 		"小美呼市",
 		"祓忍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AYT/W110-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ayt_w110/ayt_w110_008.png",
+	"tags": null,
+	"expansionId": 452
 }

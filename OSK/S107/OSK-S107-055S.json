@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "斉藤ミヤコ「よその事務所の子でしょ。駄目」",
+	"trigger": null,
 	"ability": [
-		"【起】［このカードを【レスト】する］ あなたは自分の《芸能界》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【起】 記憶 ［このカードを【レスト】する］ あなたの思い出置場に「“B小町”アイ」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【起】［このカードを【レスト】する］ あなたは自分の《芸能界》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【起】 記憶 ［このカードを【レスト】する］ あなたの思い出置場に「“B小町”アイ」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"芸能界",
 		"アイドル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OSK/S107-055S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_055s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/osk_s107/osk_s107_055s.png",
+	"tags": null,
+	"expansionId": 454
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私も非常に不快です",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、あなたのキャラすべてが、《変身》か《家事》なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"変身",
 		"たいやき"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_102.png",
+	"tags": null,
+	"expansionId": 12
 }

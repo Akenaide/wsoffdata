@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、マーカーを持つ《五つ子》のキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[GATE]のクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【永】 他のあなたの、マーカーを持つ《五つ子》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[[gate.gif]]のクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"ヘッドホン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W101-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w101/5hy_w101_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w101/5hy_w101_082.png",
+	"tags": null,
+	"expansionId": 399
 }

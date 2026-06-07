@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自分ひとりで道を切り開いていくには、体力もそうだが、知識も必要なのだ。あたしはそれを身をもって知ってきた",
+	"trigger": null,
 	"ability": [
 		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"セラフ",
 		"司令部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W103-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w103/hbr_w103_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w103/hbr_w103_071.png",
+	"tags": null,
+	"expansionId": 408
 }

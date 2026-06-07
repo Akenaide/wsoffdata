@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "君の耳を、目を、心を\u003cbr\u003e通り抜けたモノ全てを",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/SE32-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_se32/pd_se32_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_se32/pd_se32_19.png",
+	"tags": null,
+	"expansionId": 211
 }

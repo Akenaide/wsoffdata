@@ -1,6 +1,6 @@
 {
 	"set": "UMA",
-	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"setName": " 劇場版『ウマ娘 プリティーダービー 新時代の扉』",
 	"side": "W",
 	"release": "119",
 	"id": "069S",
@@ -15,16 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札の《ウマ娘》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W119-069S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_069s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w119/uma_w119_069s.png",
+	"tags": null,
+	"expansionId": 486
 }

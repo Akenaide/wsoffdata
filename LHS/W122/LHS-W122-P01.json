@@ -15,18 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 すべての領域にあるこのカードは《スリーズブーケ》と《DOLLCHESTRA》と《みらくらぱーく！》を得る。",
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《音楽》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【永】 すべての領域にあるこのカードは《スリーズブーケ》と《DOLLCHESTRA》と《みらくらぱーく！》を得る。\u003cbr\u003e【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《音楽》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LHS/W122-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lhs_w122/lhs_w122_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

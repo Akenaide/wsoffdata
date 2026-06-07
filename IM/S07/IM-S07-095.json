@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああもう、こんなに散らかしちゃって。\u003cbr /\u003e片付けるの、大変なんですよ、本当にもう～",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の手札の《音楽》のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは2枚まで引き、このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S07-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_095.png",
+	"tags": null,
+	"expansionId": 29
 }

@@ -10,20 +10,21 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "千早「プロデューサー、見ていてください。\u003cbr /\u003e私達は負けません、この絆がある限り！」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S14-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_097.png",
+	"tags": null,
+	"expansionId": 64
 }

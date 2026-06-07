@@ -15,21 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《セラフ》のキャラが2枚以上なら、このカードのパワーを＋8000。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《セラフ》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《セラフ》のキャラが4枚以上なら、あなたは自分の控え室の《セラフ》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【永】 他のあなたの《セラフ》のキャラが2枚以上なら、このカードのパワーを＋8000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《セラフ》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《セラフ》のキャラが4枚以上なら、あなたは自分の控え室の《セラフ》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"セラフ",
 		"第31F部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W117-057SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w117/hbr_w117_057sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w117/hbr_w117_057sp.png",
+	"tags": null,
+	"expansionId": 482
 }

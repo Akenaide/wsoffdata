@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あるぞ冒険者。ヴェルフ・クロッゾの防具ならな",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室の、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを1枚選び、手札に戻し、自分の、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを1枚選び、そのターン中、パワーを＋4000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DDM/S88-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddm_s88/ddm_s88_069.png",
+	"tags": null,
+	"expansionId": 367
 }

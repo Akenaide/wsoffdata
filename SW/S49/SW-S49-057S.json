@@ -15,16 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Your son is gone. He was weak and foolish, like his father. So I destroyed him.",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-057S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_057s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_057s.png",
+	"tags": null,
+	"expansionId": 199
 }

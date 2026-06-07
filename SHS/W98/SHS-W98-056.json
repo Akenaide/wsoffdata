@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "美智留「おっめでと～！加藤ちゃん！」\u003cbr\u003e出海「一日遅れですけど、お誕生日おめでとうございます、恵さん！」",
+	"trigger": null,
 	"ability": [
 		"相手は自分の山札の上から24枚を、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SHS/W98-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_056.png",
+	"tags": null,
+	"expansionId": 391
 }

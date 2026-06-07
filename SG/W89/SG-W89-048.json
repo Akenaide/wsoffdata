@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《錬金術》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《錬金術》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"錬金術",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W89-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w89/sg_w89_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w89/sg_w89_048.png",
+	"tags": null,
+	"expansionId": 343
 }

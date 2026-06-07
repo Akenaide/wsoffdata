@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…ヒーコーのベストバランスがこの中にあります",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラがいないなら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"時間",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W20-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w20/rw_w20_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w20/rw_w20_067.png",
+	"tags": null,
+	"expansionId": 84
 }

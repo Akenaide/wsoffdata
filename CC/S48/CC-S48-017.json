@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "フィーナ「アシュリナ様。どうか力をお貸しください」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【自】［(2)］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「九領筆頭 シュザ」を1枚まで選び、舞台の好きな枠に置く。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】［(2)］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「九領筆頭 シュザ」を1枚まで選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"マナ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_017.png",
+	"tags": null,
+	"expansionId": 193
 }

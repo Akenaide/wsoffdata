@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ティーゼ「あの、私たちが作ったので、お口に合うかどうか……」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《電撃文庫》か《フラクトライト》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードがアタックした時、あなたは自分の、《電撃文庫》か《フラクトライト》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《電撃文庫》か《フラクトライト》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の、《電撃文庫》か《フラクトライト》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"フラクトライト",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gso/WS02-138S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gso_ws02_138s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gso_ws02_138s.png",
+	"tags": null,
+	"expansionId": 439
 }

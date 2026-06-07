@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もう迷いはない!!!!",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの後列の《魔法》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_02.png",
+	"tags": null,
+	"expansionId": 68
 }

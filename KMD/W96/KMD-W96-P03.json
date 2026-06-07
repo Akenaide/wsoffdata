@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、このカードのパワーを＋1500。",
-		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4500。"
+		"【永】 あなたのターン中、他のあなたの、《人間》か《ドラゴン》のキャラがいるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1)］ このカードが手札から舞台に置かれた時、あなたのキャラすべてが《人間》か《ドラゴン》なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4500。"
 	],
 	"specialAttrib": [
 		"人間",
 		"ドラゴン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMD/W96-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmd_w96/kmd_w96_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

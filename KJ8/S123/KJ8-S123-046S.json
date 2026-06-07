@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺 防衛隊員になる",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置き、手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て黄のCXを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"防衛隊",
 		"怪獣"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KJ8/S123-046S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_046s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_046s.png",
+	"tags": null,
+	"expansionId": 525
 }

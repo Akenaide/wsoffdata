@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これは私にしかできないことなの。\u003cbr /\u003eだったら私がやるしかないじゃない",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは相手の効果に選ばれない。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"虚無"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

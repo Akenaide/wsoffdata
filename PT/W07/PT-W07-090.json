@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……探そう、二人で。そのために俺は、必ず、君の元に戻る",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋1000。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_090.png",
+	"tags": null,
+	"expansionId": 32
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もう少し内側に向けたほうがカッコいいか？",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「小鬼将軍の角笛」を1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"異形種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S99-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s99/ovl_s99_066.png",
+	"tags": null,
+	"expansionId": 404
 }

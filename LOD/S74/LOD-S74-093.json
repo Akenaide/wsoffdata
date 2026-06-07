@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もう大領主ではない。今のワシは、ただの一人の騎士じゃ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《冒険者》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
+		"【永】 他のあなたの《冒険者》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_093.png",
+	"tags": null,
+	"expansionId": 297
 }

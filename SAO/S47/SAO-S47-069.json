@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "朝田さん、僕に言ったよね。待ってて、って",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《武器》のキャラすべてに、パワーを＋1000。",
-		"【永】 相手の後列のキャラすべてに、《標的》を与える。"
+		"【永】 他のあなたの《武器》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【永】 相手の後列のキャラすべてに、《標的》を与える。"
 	],
 	"specialAttrib": [
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S47-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s47/sao_s47_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s47/sao_s47_069.png",
+	"tags": null,
+	"expansionId": 189
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "命より大事なものなんですかー！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《ラビットハウス》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"コーヒー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-T16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_t16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_t16.png",
+	"tags": null,
+	"expansionId": 175
 }

@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "嘘と幻のイリュージョンで……回ってもらいましょ……♪……",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 バトルしているこのカードが【リバース】した時、あなたの手札が相手の手札以下なら、このカードを手札に戻してよい。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NS/W04-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_070.png",
+	"tags": null,
+	"expansionId": 6
 }

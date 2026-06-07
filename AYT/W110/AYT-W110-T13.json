@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "異議なーし！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"小美呼市",
 		"花鳥風月"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AYT/W110-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ayt_w110/ayt_w110_t13.png",
+	"tags": null,
+	"expansionId": 451
 }

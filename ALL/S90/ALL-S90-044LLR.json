@@ -15,20 +15,20 @@
 	"rarity": "LLR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-		"【自】［手札のクライマックスを1枚控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《リリィ》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、その《リリィ》のキャラのパワーを＋1000。"
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。\u003cbr\u003e【自】［手札のクライマックスを1枚控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《リリィ》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、その《リリィ》のキャラのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-044LLR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_044llr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_044llr.png",
+	"tags": null,
+	"expansionId": 371
 }

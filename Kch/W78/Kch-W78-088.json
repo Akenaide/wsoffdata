@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "やはり怪我をしない肉体改造が必要でしたので",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの、《Anniversary》か《能力者》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+		"【自】 このカードがアタックした時、他のあなたの、《Anniversary》か《能力者》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kch/W78-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kch_w78/kch_w78_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kch_w78/kch_w78_088.png",
+	"tags": null,
+	"expansionId": 296
 }

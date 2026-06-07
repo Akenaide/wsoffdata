@@ -8,24 +8,25 @@
 	"jpName": "ホワイト・クリスマス・イヴ",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "おでこにしますか？ ほっぺ？\u003cbr /\u003eそれとも、くちびる？\u003cbr /\u003eアイリの第一希望は、おでこです",
 	"trigger": [
 		"DRAW"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+		"（[[draw.gif]]：このカードがトリガーした時、あなたは1枚引いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RN/W16-099",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_099.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_099.png",
+	"tags": null,
+	"expansionId": 86
 }

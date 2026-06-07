@@ -15,19 +15,19 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが《ホロライブ》なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「可能性のキツネ」があり、他のあなたの《ホロライブ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ホロライブ》のキャラを2枚まで選び、手札に戻す。"
+		"【永】 あなたのターン中、あなたのキャラすべてが《ホロライブ》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「可能性のキツネ」があり、他のあなたの《ホロライブ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ホロライブ》のキャラを2枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"1期生",
 		"ゲーマーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t032.png",
+	"tags": null,
+	"expansionId": 351
 }

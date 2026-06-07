@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "な……なんか見られてませんか？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの『応援』を持つキャラがいるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"警察"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_009.png",
+	"tags": null,
+	"expansionId": 87
 }

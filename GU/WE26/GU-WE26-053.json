@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ラビットハウスにようこそ！",
+	"trigger": null,
 	"ability": [
 		"【自】 相手の【スタンド】しているキャラが【レスト】した時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE26-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we26/gu_we26_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we26/gu_we26_053.png",
+	"tags": null,
+	"expansionId": 12
 }

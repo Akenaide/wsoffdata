@@ -15,17 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】［手札のトリガーアイコンが[CHOICE]のCXを1枚選び、手札に戻す。"
+		"【自】［手札のトリガーアイコンが[[choice.gif]]のCXを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のトリガーアイコンが[[choice.gif]]のCXを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"健康"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/WE51-01SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_01sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_we51/imc_we51_01sp.png",
+	"tags": null,
+	"expansionId": 539
 }

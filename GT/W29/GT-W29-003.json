@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここは『実戦は実戦で学べ』がモットーやしな",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。",
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《タロット》のキャラなら、あなたはこのカードを思い出にしてよい。（公開したカードは元に戻す）"
@@ -25,8 +25,9 @@
 		"タロット",
 		"商人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_003.png",
+	"tags": null,
+	"expansionId": 106
 }

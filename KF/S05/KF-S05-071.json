@@ -10,20 +10,21 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "テリー「一応、大会では常連なんでね。このくらいの活躍は当然さ！」",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたのカード名に「テリー」か「アンディ」か「ジョー」を含むキャラがいないなら、手札からプレイできない。",
 		"あなたのキャラすべてに、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KF/S05-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_071.png",
+	"tags": null,
+	"expansionId": 27
 }

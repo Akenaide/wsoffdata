@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ボクだって負けないよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのレベル2以上のキャラがいるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_080.png",
+	"tags": null,
+	"expansionId": 129
 }

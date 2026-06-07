@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "心から願えば、きっと未来は──世界は変わる",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「友達の証」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_073.png",
+	"tags": null,
+	"expansionId": 78
 }

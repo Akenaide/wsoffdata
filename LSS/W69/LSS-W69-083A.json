@@ -15,8 +15,8 @@
 	"rarity": "UA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ダイヤ「あなたって不思議な人ですわね。どんなところにも駆けつけてくれて……もちろん、褒めてますわ」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"AZALEA"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W69-083A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_083a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_083a.png",
+	"tags": null,
+	"expansionId": 273
 }

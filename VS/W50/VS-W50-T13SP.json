@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《格闘》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"格闘",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-T13SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_t13sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_t13sp.png",
+	"tags": null,
+	"expansionId": 190
 }

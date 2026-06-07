@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "希「μ'sのみんなは運命共同体なのかもね ……時々そう思うことがあるんや」",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。この効果でカード名に「海未」か「希」か「凛」を含むキャラが2枚以上控え室に置かれたなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。（クライマックスのレベルは0として扱う）",
-		"このカードを思い出にする。"
+		"あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。この効果でカード名に「海未」か「希」か「凛」を含むキャラが2枚以上控え室に置かれたなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。（クライマックスのレベルは0として扱う）\u003cbr\u003eこのカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LL/W68-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_096.png",
+	"tags": null,
+	"expansionId": 272
 }

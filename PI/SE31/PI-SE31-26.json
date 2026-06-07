@@ -1,6 +1,6 @@
 {
 	"set": "PI",
-	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"setName": " Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
 	"side": "S",
 	"release": "E31",
 	"id": "26",
@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "開きました",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、緑か《宝石》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+		"【永】 他のあなたの、緑か《宝石》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"宝石",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE31-26",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se31/pi_se31_26.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se31/pi_se31_26.png",
+	"tags": null,
+	"expansionId": 202
 }

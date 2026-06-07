@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よし！仕上げだ。ハム蔵、イヌ美！！",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置く］ そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_060.png",
+	"tags": null,
+	"expansionId": 129
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自分をぺちゃむくれだなんて思わないでください",
+	"trigger": null,
 	"ability": [
 		"【自】 記憶 あなたのクライマックスフェイズの始めに、前列にこのカードがいて、あなたの思い出置場に「運命へのリベンジ」があるなら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"SAGA",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZLS/W93-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zls_w93/zls_w93_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zls_w93/zls_w93_032.png",
+	"tags": null,
+	"expansionId": 366
 }

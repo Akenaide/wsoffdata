@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE19-04SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we19/ll_we19_04sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we19/ll_we19_04sp.png",
+	"tags": null,
+	"expansionId": 120
 }

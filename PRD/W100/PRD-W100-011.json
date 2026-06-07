@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "覚醒を遂げた魂の昂ぶりが聞こえるか！我が盟友よ！",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台にこのカードがいるなら、このカードのカード名は「疾風の冥姫」としても扱う。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3500し、ソウルを＋1し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』"
+		"【永】 舞台にこのカードがいるなら、このカードのカード名は「疾風の冥姫」としても扱う。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3500し、ソウルを＋1し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W100-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_011.png",
+	"tags": null,
+	"expansionId": 397
 }

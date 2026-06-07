@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《NIKKE》のキャラの枚数×1000に等しい。",
-		"【自】［(2) 手札を2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《NIKKE》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】［(2) 手札を2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に5ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"カウンターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-016S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_016s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_016s.png",
+	"tags": null,
+	"expansionId": 494
 }

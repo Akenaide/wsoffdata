@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はぁ……はぁ……か、買われてしまった……。貴族の私が、この男に！",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《スニーカー文庫》か《冒険者》か《煩悩》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの、《スニーカー文庫》か《冒険者》か《煩悩》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"冒険者",
 		"煩悩"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sks/W62-007S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sks_w62/sks_w62_007s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sks_w62/sks_w62_007s.png",
+	"tags": null,
+	"expansionId": 259
 }

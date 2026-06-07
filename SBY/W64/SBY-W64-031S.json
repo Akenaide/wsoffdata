@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのレベルを＋1し、パワーを＋1000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《思春期》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《思春期》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのレベルを＋1し、パワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《思春期》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《思春期》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-031S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_031s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_031s.png",
+	"tags": null,
+	"expansionId": 261
 }

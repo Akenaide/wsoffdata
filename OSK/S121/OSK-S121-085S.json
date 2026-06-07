@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "スクリーン前を移動しながら会話の方が、旅感出るはずなんで",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚とそのキャラの特徴を1つ選び、そのターン中、そのキャラはその特徴をすべて失う。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚とそのキャラの特徴を1つ選び、そのターン中、そのキャラはその特徴をすべて失う。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"芸能界",
 		"脚本家"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OSK/S121-085S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s121/osk_s121_085s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/osk_s121/osk_s121_085s.png",
+	"tags": null,
+	"expansionId": 504
 }

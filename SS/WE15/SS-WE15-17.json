@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "レベッカ「美味しいところ取ってくようで悪いけどよ」\u003cbr /\u003eバラル「そこは適材適所ってことでご勘弁願いたいね」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"神器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE15-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we15/ss_we15_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we15/ss_we15_17.png",
+	"tags": null,
+	"expansionId": 83
 }

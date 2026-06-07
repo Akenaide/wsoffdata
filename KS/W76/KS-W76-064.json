@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我が名はこめっこ。紅魔族随一の魔性の妹！魔王の幹部より強き者！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、相手は自分のストックの上から2枚を、控え室に置いてよい。そうしたら、そのターン中、このカードはフロントアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"妹"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_064.png",
+	"tags": null,
+	"expansionId": 291
 }

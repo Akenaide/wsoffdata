@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ううん、信じてた。\u003cbr /\u003eきっと――助けに来てくれるって…",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) ］ そのターン中、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-P04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_p04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_p04.png",
+	"tags": null,
+	"expansionId": 13
 }

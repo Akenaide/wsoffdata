@@ -15,16 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《音楽》のキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-028S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_028s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_028s.png",
+	"tags": null,
+	"expansionId": 93
 }

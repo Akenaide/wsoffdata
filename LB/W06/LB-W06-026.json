@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ささかまさしみ…おまえにこまりちゃんは渡さん",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分の《動物》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_026.png",
+	"tags": null,
+	"expansionId": 18
 }

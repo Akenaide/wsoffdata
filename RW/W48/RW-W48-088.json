@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "コタロー、やる気を出すのはいいことだが、あまり胸にこだわるとフーキが乱れる",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】 あなたのクライマックス置場に「記憶消去」が置かれた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、あなたは相手のストックの上から1枚を、控え室に置き、相手の控え室のカードを1枚選び、ストック置場に置き、相手はそのストックをシャッフルする。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのクライマックス置場に「記憶消去」が置かれた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、あなたは相手のストックの上から1枚を、控え室に置き、相手の控え室のカードを1枚選び、ストック置場に置き、相手はそのストックをシャッフルする。"
 	],
 	"specialAttrib": [
 		"風紀委員",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W48-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_088.png",
+	"tags": null,
+	"expansionId": 186
 }

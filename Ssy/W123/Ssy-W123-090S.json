@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《スニーカー文庫》か《SOS団》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 他のあなたの、《スニーカー文庫》か《SOS団》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"SOS団",
 		"団長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssy/W123-090S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssy_w123_090s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/ssy_w123_090s.png",
+	"tags": null,
+	"expansionId": 510
 }

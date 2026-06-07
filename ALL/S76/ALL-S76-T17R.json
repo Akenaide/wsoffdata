@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日は訓練じゃなくて、昼寝したい気分ダナ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《リリィ》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S76-T17R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_t17r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s76/all_s76_t17r.png",
+	"tags": null,
+	"expansionId": 294
 }

@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "んむ～お茶の香りと苦味が口いっぱいに広がるぅ～",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの《ゆるキャン△》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《ゆるキャン△》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの《ゆるキャン△》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《ゆるキャン△》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ゆるキャン△",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YRC/W116-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yrc_w116/yrc_w116_050.png",
+	"tags": null,
+	"expansionId": 490
 }

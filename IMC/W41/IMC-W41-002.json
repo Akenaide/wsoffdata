@@ -15,17 +15,17 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "踊ったり～、可愛い衣装を着たり～、えっと…色々なことがしたいな！",
+	"trigger": null,
 	"ability": [
-		"【自】[(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【自】[(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr/\u003e【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_002.png",
+	"tags": null,
+	"expansionId": 151
 }

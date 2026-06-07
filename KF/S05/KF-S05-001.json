@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カモンベイビー",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベル置場のカード1枚につき、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"男装",
 		"薔薇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_001.png",
+	"tags": null,
+	"expansionId": 27
 }

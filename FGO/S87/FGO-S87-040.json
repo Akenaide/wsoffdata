@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "040",
@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "キャスター、玄奘三蔵!! これより憤怒によりて折伏をなす!!",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】［あなたの【スタンド】している、《カルデア》か《キャメロット》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「正義の所在 玄奘三蔵」を2枚まで選び、舞台の別々の枠に置き、その山札をシャッフルする。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】［あなたの【スタンド】している、《カルデア》か《キャメロット》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「正義の所在 玄奘三蔵」を2枚まで選び、舞台の別々の枠に置き、その山札をシャッフルする。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"キャメロット",
 		"法師"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_040.png",
+	"tags": null,
+	"expansionId": 363
 }

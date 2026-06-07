@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "せっかくですから、不思議の国のアリスをμ'sらしくアレンジしたいですね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】 記憶 ［(1)］ あなたのクライマックス置場に「リラックスして楽しいステージ」が置かれた時、あなたの思い出が3枚以上なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】 記憶 ［(1)］ あなたのクライマックス置場に「リラックスして楽しいステージ」が置かれた時、あなたの思い出が3枚以上なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-045S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_045s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_045s.png",
+	"tags": null,
+	"expansionId": 272
 }

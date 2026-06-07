@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "クタの市は現在、女神イシュタルの支配領域に組み込まれています\u003cbr\u003e市（ルビ：まち）",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"バビロニア",
 		"祭祀長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_028.png",
+	"tags": null,
+	"expansionId": 298
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサー、次の仕事まだですか？\u003cbr /\u003eボク、待ちきれません！",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「青空の様な女の子！ 真」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_083.png",
+	"tags": null,
+	"expansionId": 64
 }

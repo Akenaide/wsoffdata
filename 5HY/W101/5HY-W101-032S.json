@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "食べたかったんですー！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《五つ子》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「君との思い出 中野 四葉」を1枚選び、思い出にしてよい。",
-		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【永】 応援 このカードの前のあなたの《五つ子》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「君との思い出 中野 四葉」を1枚選び、思い出にしてよい。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[[treasure.gif]]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W101-032S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w101/5hy_w101_032s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w101/5hy_w101_032s.png",
+	"tags": null,
+	"expansionId": 399
 }

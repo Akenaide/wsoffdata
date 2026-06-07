@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これもおむすびだね",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《サマポケ》のキャラなら、そのターン中、このカードのレベルを＋1し、パワーを＋1500。（公開したカードは元に戻す）",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《サマポケ》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《サマポケ》のキャラなら、そのターン中、このカードのレベルを＋1し、パワーを＋1500。（公開したカードは元に戻す）\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《サマポケ》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"鬼"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_048.png",
+	"tags": null,
+	"expansionId": 311
 }

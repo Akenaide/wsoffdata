@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おかしな人",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてが《冒険》なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《冒険》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"冒険",
 		"ヴェスペリア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-112",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_112.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_112.png",
+	"tags": null,
+	"expansionId": 538
 }

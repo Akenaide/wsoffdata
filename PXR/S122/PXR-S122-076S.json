@@ -15,17 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《PIXAR》なら、このカードは次の2つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋3000。』『【自】 アンコール ［手札のキャラを1枚控え室に置く］』",
-		"【自】【CXコンボ】 あなたのCX置場に「新たなドラマ」が置かれた時、前列にこのカードがいて、他のあなたの《PIXAR》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《PIXAR》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
+		"【永】 あなたのキャラすべてが《PIXAR》なら、このカードは次の2つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋3000。』『【自】 アンコール ［手札のキャラを1枚控え室に置く］』\u003cbr\u003e【自】【CXコンボ】 あなたのCX置場に「新たなドラマ」が置かれた時、前列にこのカードがいて、他のあなたの《PIXAR》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《PIXAR》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S122-076S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s122/pxr_s122_076s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s122/pxr_s122_076s.png",
+	"tags": null,
+	"expansionId": 523
 }

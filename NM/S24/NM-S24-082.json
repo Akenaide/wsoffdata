@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『僕の誇り。僕の自慢の妹たち。偽物ゆえに、きっと\u003cbr /\u003e何よりも本物に近い彼女達。ファイヤーシスターズは\u003cbr /\u003e火のついた花火のような勢いで、出撃していったのだった』",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《スポーツ》か《和服》のキャラが2枚以上なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"スポーツ",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_082.png",
+	"tags": null,
+	"expansionId": 13
 }

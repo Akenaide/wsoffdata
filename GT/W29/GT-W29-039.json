@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "会議室に集合しろ、話がある",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《タロット》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"タロット",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_039.png",
+	"tags": null,
+	"expansionId": 106
 }

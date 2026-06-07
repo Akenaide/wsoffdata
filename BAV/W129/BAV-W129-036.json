@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "まさかこうなるとは…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《キヴォトス》のキャラが2枚以上なら、このカードのパワーを＋6000。",
-		"【自】 このカードが【リバース】した時、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+		"【永】 あなたのターン中、他のあなたの《キヴォトス》のキャラが2枚以上なら、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードが【リバース】した時、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"風紀委員会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W129-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w129/bav_w129_036.png",
+	"tags": null,
+	"expansionId": 530
 }

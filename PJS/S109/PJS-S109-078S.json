@@ -15,22 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×2000に等しい。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×2000に等しい。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー",
+		"バーチャル・シンガー",
 		"Vivid BAD SQUAD"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S109-078S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_078s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s109/pjs_s109_078s.png",
+	"tags": null,
+	"expansionId": 455
 }

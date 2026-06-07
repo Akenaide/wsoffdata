@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あっ！",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 相手のターン中、あなたのレベル置場のカードのレベルの合計が1以上なら、他のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"探偵",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_081.png",
+	"tags": null,
+	"expansionId": 50
 }

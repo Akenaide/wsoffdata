@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "了解だ……マスター！",
+	"trigger": null,
 	"ability": [
 		"【自】あなたのアンコールステップの始めに、あなたは自分の山札の上から1枚を控え室に置く。そのカードのレベルが1以上なら、このカードを控え室に置く。（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

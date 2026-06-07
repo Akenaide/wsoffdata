@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハッ!!",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】［(1)］ このカードが舞台から、控え室か思い出置場に置かれた時、あなたのキャラすべてが、《デート》か《精霊》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「くノ一 唯」を1枚まで選び、舞台の好きな枠に【レスト】して置き、その山札をシャッフルする。"
+		"【自】 このカードがアタックした時、あなたは自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】［(1)］ このカードが舞台から、控え室か思い出置場に置かれた時、あなたのキャラすべてが、《デート》か《精霊》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「くノ一 唯」を1枚まで選び、舞台の好きな枠に【レスト】して置き、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/WE33-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_we33/dal_we33_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_we33/dal_we33_033.png",
+	"tags": null,
+	"expansionId": 339
 }

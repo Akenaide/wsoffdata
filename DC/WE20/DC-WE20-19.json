@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほえ……？",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのソウルを＋1。",
 		"【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
@@ -25,8 +25,9 @@
 		"音楽",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/WE20-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we20/dc_we20_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we20/dc_we20_19.png",
+	"tags": null,
+	"expansionId": 123
 }

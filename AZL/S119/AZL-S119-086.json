@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さあボク、一緒に愛の真実を探究し、本当の幸せを世界に広めていきましょう",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"鉄血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_086.png",
+	"tags": null,
+	"expansionId": 499
 }

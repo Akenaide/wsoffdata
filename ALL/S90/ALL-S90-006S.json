@@ -15,19 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんな、背中は任せたわよ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分のカード名に「叶星」を含むキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【自】 このカードがアタックした時、あなたは他の自分のカード名に「叶星」を含むキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"リリィ",
-		"グラン",
-		"エプレ"
+		"グラン・エプレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-006S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_006s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_006s.png",
+	"tags": null,
+	"expansionId": 371
 }

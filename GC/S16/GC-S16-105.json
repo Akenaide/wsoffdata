@@ -8,14 +8,14 @@
 	"jpName": "歪な共犯関係",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "集「……僕も、共犯だね」\u003cbr /\u003e涯「馬鹿な奴だ」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GC/S16-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_105.png",
+	"tags": null,
+	"expansionId": 55
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "出かける前に一言だけ断っておこうと思って",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場に「切り取られた風景 英梨々」があるなら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】［(1) このカードを控え室に置く］ 他のあなたの《ゲーム》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。』"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_015.png",
+	"tags": null,
+	"expansionId": 278
 }

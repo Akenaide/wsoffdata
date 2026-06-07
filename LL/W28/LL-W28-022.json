@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぱ…ぱ…ぱ……パンダって何って鳴くの……？",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。",
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。",
@@ -26,8 +26,9 @@
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W28-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w28/ll_w28_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w28/ll_w28_022.png",
+	"tags": null,
+	"expansionId": 110
 }

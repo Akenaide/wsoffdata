@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これからも、厳しいご指導をよろしくお願いします。",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IAS/S61-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_s61/ias_s61_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_s61/ias_s61_108.png",
+	"tags": null,
+	"expansionId": 251
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "紅茶も美味しかった！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《アバター》か《ネット》のキャラが2枚以上なら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/S59-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_025.png",
+	"tags": null,
+	"expansionId": 245
 }

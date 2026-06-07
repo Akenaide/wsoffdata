@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一体……なにが……",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「“思い出の日々”エレン」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“思い出の日々”エレン」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"兵団",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S35-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s35/aot_s35_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s35/aot_s35_016.png",
+	"tags": null,
+	"expansionId": 149
 }

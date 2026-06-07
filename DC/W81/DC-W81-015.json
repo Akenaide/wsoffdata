@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "じゃあ、あったかくなってきたし、\u003cbr\u003e桜公園でクレープ食べない？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【起】［手札の「わたしが見た夢 由夢」を1枚控え室に置き、このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【起】［手札の「わたしが見た夢 由夢」を1枚控え室に置き、このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W81-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w81/dc_w81_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w81/dc_w81_015.png",
+	"tags": null,
+	"expansionId": 310
 }

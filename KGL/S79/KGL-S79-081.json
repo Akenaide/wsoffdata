@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "変なコトをしては絶対にいけませんよ？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《秀知院》のキャラすべてに、パワーを＋500。",
-		"【自】 相手のキャラが、相手のキャラのトリガーチェックででた[STANDBY]の効果で舞台に置かれた時、他のあなたの《秀知院》のキャラがいるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 他のあなたの《秀知院》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 相手のキャラが、相手のキャラのトリガーチェックででた[[standby.gif]]の効果で舞台に置かれた時、他のあなたの《秀知院》のキャラがいるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"秀知院",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S79-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_081.png",
+	"tags": null,
+	"expansionId": 317
 }

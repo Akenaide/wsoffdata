@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "キリト君は、わたしが守る\u003cbr\u003e……だから、キリト君はわたしを守ってね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《Anniversary》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「剣の世界」があり、他のあなたの《Anniversary》のキャラが4枚以上なら、あなたは自分の控え室の《Anniversary》のキャラを1枚選び、手札に戻すかストック置場に置いてよい。ストック置場に置いたなら、そのターン中、このカードのパワーを＋2000。"
+		"【永】 他のあなたの《Anniversary》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「剣の世界」があり、他のあなたの《Anniversary》のキャラが4枚以上なら、あなたは自分の控え室の《Anniversary》のキャラを1枚選び、手札に戻すかストック置場に置いてよい。ストック置場に置いたなら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_010.png",
+	"tags": null,
+	"expansionId": 405
 }

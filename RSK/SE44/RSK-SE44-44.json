@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ゴーストを打ち払うのは、光の魔法使いである聖女の役目です",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"メルヴァニア",
 		"聖女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSK/SE44-44",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_44.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsk_se44/rsk_se44_44.png",
+	"tags": null,
+	"expansionId": 457
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それじゃあ、元気に、頑張っていくよっ！",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_064.png",
+	"tags": null,
+	"expansionId": 6
 }

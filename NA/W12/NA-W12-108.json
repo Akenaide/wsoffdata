@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヴィータ「足を引っ張らなければ、あたしがちゃんと守ってやるぞ」",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_108.png",
+	"tags": null,
+	"expansionId": 12
 }

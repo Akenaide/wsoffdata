@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "未来へ戻るのは過去に戻るよりも、使うエネルギーが\u003cbr\u003e少ないのじゃ。流れに逆らわん分だけな",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_021.png",
+	"tags": null,
+	"expansionId": 159
 }

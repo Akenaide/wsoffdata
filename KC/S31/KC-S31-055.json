@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "書類一式にサインする。",
+	"trigger": null,
 	"ability": [
 		"このカードを思い出にする。",
 		"【永】 記憶 思い出置場にこのカードがあるなら、あなたの前列の中央の枠の《艦娘》のキャラに、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KC/S31-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_055.png",
+	"tags": null,
+	"expansionId": 130
 }

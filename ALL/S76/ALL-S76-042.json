@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あったり前ですわ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《リリィ》のキャラすべてに、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《リリィ》のキャラを1枚選び、手札に戻してよい。",
-		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+		"【永】 他のあなたの《リリィ》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《リリィ》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S76-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s76/all_s76_042.png",
+	"tags": null,
+	"expansionId": 337
 }

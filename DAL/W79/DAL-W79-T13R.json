@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "痛く…しないでください…",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W79-T13R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_t13r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_t13r.png",
+	"tags": null,
+	"expansionId": 299
 }

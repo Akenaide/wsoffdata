@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1000 レベル0 ［ 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

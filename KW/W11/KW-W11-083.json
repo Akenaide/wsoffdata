@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今夜から作業に入ります",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。",
 		"【自】 絆／「『星屑』 氷室」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「『星屑』 氷室」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"動物",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KW/W11-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kw_w11/kw_w11_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kw_w11/kw_w11_083.png",
+	"tags": null,
+	"expansionId": 46
 }

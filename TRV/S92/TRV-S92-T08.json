@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の手札を2枚選び、控え室に置いてよい。そうしたら、あなたはバトル中のキャラを1枚選び、相手にＸダメージを与え、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』Ｘはそのキャラのソウルに等しい。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TRV/S92-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_t08.png",
+	"tags": null,
+	"expansionId": 388
 }

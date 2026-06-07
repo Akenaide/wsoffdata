@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「秘密の待ち合わせ 常闇トワ」を1枚選び、舞台の好きな枠に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"ホロライブ",
 		"4期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T104SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t104sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t104sp.png",
+	"tags": null,
+	"expansionId": 355
 }

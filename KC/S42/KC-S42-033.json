@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "知ってる。それ、この艦隊の挨拶でしょ？　変わってるね。",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。",
-		"【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「呂号潜水艦 呂500」を1枚選び、舞台の好きな枠に【レスト】して置く。"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「呂号潜水艦 呂500」を1枚選び、舞台の好きな枠に【レスト】して置く。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"潜水艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_033.png",
+	"tags": null,
+	"expansionId": 173
 }

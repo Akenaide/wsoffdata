@@ -15,16 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのカード名に「エレナ」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-077S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_077s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_077s.png",
+	"tags": null,
+	"expansionId": 144
 }

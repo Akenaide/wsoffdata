@@ -15,19 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "目指せカード世界一",
+	"trigger": null,
 	"ability": [
-		"【永】すべての人に《カードゲーム》を与える。 ",
-		"（[]：このカードがトリガーした時、あなたはこのカードを舞台の好きな枠に置いてよい）",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【永】すべての人に《カードゲーム》を与える。 \u003cbr\u003e（[[bushi.gif]]：このカードがトリガーした時、あなたはこのカードを舞台の好きな枠に置いてよい）\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"カードゲーム",
 		"ブシロード"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WS/KDN-246",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/ws_kdn/ws_kdn_246.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/ws_kdn/ws_kdn_246.png",
+	"tags": null,
+	"expansionId": 13
 }

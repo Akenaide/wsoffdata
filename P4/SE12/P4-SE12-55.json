@@ -15,8 +15,8 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "な…なんじゃこりゃああ！！\u003cbr /\u003eおおお…クマの自慢の毛並みが…",
+	"trigger": null,
 	"ability": [
 		"【自】［(4)］ 相手のアンコールステップの始めに、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"影",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-55",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_55.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_55.png",
+	"tags": null,
+	"expansionId": 75
 }

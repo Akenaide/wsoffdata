@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ミオ「何アレ！何アレ！」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ホロライブ",
 		"4期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T103R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t103r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t103r.png",
+	"tags": null,
+	"expansionId": 355
 }

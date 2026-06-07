@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "大丈夫！貧乳は正義なんだよ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたのカードがレベル置場に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ラボメン》のキャラの枚数×500に等しい。",
-		"【自】 アンコール ［手札の《ラボメン》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたのカードがレベル置場に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ラボメン》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 アンコール ［手札の《ラボメン》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"ラボメン",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_105.png",
+	"tags": null,
+	"expansionId": 243
 }

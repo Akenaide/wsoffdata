@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "では、虚刀流――見せてもらおうか",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたの「千刀流 敦賀 迷彩」1枚につき、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-10_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_10t.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_10t.png",
+	"tags": null,
+	"expansionId": 57
 }

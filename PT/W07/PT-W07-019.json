@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だって、玲二が！　玲二が！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のカード名に「キャル」を含むキャラを1枚選び、手札に戻す。そうしたら、あなたは自分の山札を見てカード名に「ドライ」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PT/W07-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_019.png",
+	"tags": null,
+	"expansionId": 32
 }

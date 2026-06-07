@@ -16,15 +16,16 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《動物》か《霊》のキャラなら、あなたは相手のコスト0以下のキャラを2枚まで選ぶ。それらのキャラは次の相手のスタンドフェイズに【スタンド】しない。（公開したカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W42-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_082.png",
+	"tags": null,
+	"expansionId": 163
 }

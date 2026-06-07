@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ブレイン・アングラウスだ",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたはこのカードのカード名を宣言してよい。"
+		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたはこのカードのカード名を宣言してよい。"
 	],
 	"specialAttrib": [
 		"人間種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_093.png",
+	"tags": null,
+	"expansionId": 254
 }

@@ -1,6 +1,6 @@
 {
 	"set": "KGL",
-	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"setName": "かぐや様は告らせたい？\u003cs\u003e～天才たちの恋愛頭脳戦～\u003c/s\u003e",
 	"side": "S",
 	"release": "95",
 	"id": "044",
@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "御行・優「ああーーコレの事かーー!!」",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 あなたは自分の手札のイベントを1枚選び、控え室に置いてよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
-		"あなたは自分の《秀知院》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【カウンター】 あなたは自分の手札のイベントを1枚選び、控え室に置いてよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』\u003cbr\u003eあなたは自分の《秀知院》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KGL/S95-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s95/kgl_s95_044.png",
+	"tags": null,
+	"expansionId": 394
 }

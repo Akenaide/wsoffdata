@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 あなたのクライマックス置場に「最後の勝機」が置かれた時、そのターン中、このカードのパワーを＋3000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 あなたのクライマックス置場に「最後の勝機」が置かれた時、そのターン中、このカードのパワーを＋3000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"男装",
 		"宝具"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/S40-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_s40/pi_s40_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_s40/pi_s40_041.png",
+	"tags": null,
+	"expansionId": 170
 }

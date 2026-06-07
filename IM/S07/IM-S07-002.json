@@ -15,7 +15,7 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "世界中の皆さんに、この歌を届けます。\u003cbr /\u003e歌は『ＫＯＳＭＯＳ，ＣＯＳＭＯＳ』！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"お茶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_002.png",
+	"tags": null,
+	"expansionId": 29
 }

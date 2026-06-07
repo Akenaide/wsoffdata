@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふにゅ～♪ゆずもいい匂いでぇ、お空も綺麗でぇ、とってもはぴはぴなおフロだにぃ～☆",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
-		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ハピハピ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_007.png",
+	"tags": null,
+	"expansionId": 477
 }

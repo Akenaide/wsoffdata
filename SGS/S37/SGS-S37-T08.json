@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "咲き 舞い 討つは 飛燕の翼！",
+	"trigger": null,
 	"ability": [
 		"【自】[(1) あなたの《ストライカー》のキャラを2枚【レスト】する］ あなたのクライマックス置場に「臨戦態勢」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下の《ストライカー》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_t08.png",
+	"tags": null,
+	"expansionId": 138
 }

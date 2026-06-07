@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "んー……好奇心？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《定理者》か《使者》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「定理者のヒナたち」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
+		"【永】 他のあなたの、《定理者》か《使者》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「定理者のヒナたち」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"定理者",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HLL/WE29-45",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we29/hll_we29_45.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we29/hll_we29_45.png",
+	"tags": null,
+	"expansionId": 215
 }

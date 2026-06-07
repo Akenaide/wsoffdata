@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "姿が見えなかったので様子を…",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの「山田 たえ」すべてに、パワーを＋4000。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
+		"【永】 あなたのターン中、他のあなたの「山田 たえ」すべてに、パワーを＋4000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
 	],
 	"specialAttrib": [
 		"SAGA",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZLS/W93-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zls_w93/zls_w93_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zls_w93/zls_w93_038.png",
+	"tags": null,
+	"expansionId": 366
 }

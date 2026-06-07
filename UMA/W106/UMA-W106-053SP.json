@@ -15,17 +15,17 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。このカードは次のあなたのスタンドフェイズに【スタンド】しない。"
+		"【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。このカードは次のあなたのスタンドフェイズに【スタンド】しない。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-053SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_053sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_053sp.png",
+	"tags": null,
+	"expansionId": 431
 }

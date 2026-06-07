@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そか？ならいいけど",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《宇宙人》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_106.png",
+	"tags": null,
+	"expansionId": 12
 }

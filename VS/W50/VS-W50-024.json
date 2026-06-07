@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アインなんとかさんとゆう人から、ここを訪ねてこいと…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードをストック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"格闘",
 		"覇王流"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_024.png",
+	"tags": null,
+	"expansionId": 200
 }

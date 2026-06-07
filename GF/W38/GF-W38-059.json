@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私を待ってた？　そうなんだ…\u003cbr /\u003eじゃあ、一緒にパーティを楽しむとしましょうか",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《ガール》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_059.png",
+	"tags": null,
+	"expansionId": 144
 }

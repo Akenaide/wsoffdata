@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お疲れ様です。お風呂にしますか？ご飯にしますか？\u003cbr /\u003eそれとも……ふふっ、冗談ですよ。",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"艦娘",
 		"軽空母"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-T15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_t15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_t15.png",
+	"tags": null,
+	"expansionId": 112
 }

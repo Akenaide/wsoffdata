@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "046",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、あなたのキャラすべてが《カルデア》か《キャメロット》なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"キャメロット",
 		"ファラオ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_046.png",
+	"tags": null,
+	"expansionId": 363
 }

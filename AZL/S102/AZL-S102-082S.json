@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は不運の申し子、あなたに呪いをかけた存在――",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《艦船》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。（公開したカードは元に戻す）",
-		"【自】［手札の《艦船》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《艦船》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。（公開したカードは元に戻す）\u003cbr\u003e【自】［手札の《艦船》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"鉄血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-082S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_082s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_082s.png",
+	"tags": null,
+	"expansionId": 410
 }

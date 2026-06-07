@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんじゃなんじゃ、みなで集まって何か面白いことでもあったかの？",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《リリィ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S76-T18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_t18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s76/all_s76_t18.png",
+	"tags": null,
+	"expansionId": 294
 }

@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "鈴、思い切りこい",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
 	],
 	"specialAttrib": [
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_083.png",
+	"tags": null,
+	"expansionId": 18
 }

@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
-		"【自】 記憶 思い出置場にこのカードがあるなら、あなたの、メインフェイズの始めかCXフェイズの始めに、あなたは自分の手札の《きんいろ》のキャラを1枚とこのカードを選び、入れ替えてよい。"
+		"【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。\u003cbr\u003e【自】 記憶 思い出置場にこのカードがあるなら、あなたの、メインフェイズの始めかCXフェイズの始めに、あなたは自分の手札の《きんいろ》のキャラを1枚とこのカードを選び、入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"金髪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-T03R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_t03r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_t03r.png",
+	"tags": null,
+	"expansionId": 533
 }

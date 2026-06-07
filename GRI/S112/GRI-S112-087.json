@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やはり最後に物を言うのは基礎体力だな！",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"医療"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_087.png",
+	"tags": null,
+	"expansionId": 472
 }

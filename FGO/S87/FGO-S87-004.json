@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "004",
@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "獅子王「回収するがいい、ガウェイン卿」",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「聖抜の儀」を1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"キャメロット",
 		"円卓の騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_004.png",
+	"tags": null,
+	"expansionId": 363
 }

@@ -15,16 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(2) このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S94-079S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s94/pxr_s94_079s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s94/pxr_s94_079s.png",
+	"tags": null,
+	"expansionId": 403
 }

@@ -10,21 +10,22 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちはや「ひえええええええええーっ！？」",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの、《オカルト》か《不良》のキャラが1枚以下なら、手札からプレイできない。",
 		"あなたのキャラすべてに、そのターン中、パワーを＋2000し、ソウルを＋1。",
 		"このカードをクロック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RW/W20-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w20/rw_w20_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w20/rw_w20_022.png",
+	"tags": null,
+	"expansionId": 84
 }

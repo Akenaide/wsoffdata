@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "待たせたな！　助太刀に来た！",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(3) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“神速聖将”上杉 謙信」を1枚選び、このカードがいた枠に置く。",
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
@@ -25,8 +25,9 @@
 		"忍",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_092.png",
+	"tags": null,
+	"expansionId": 28
 }

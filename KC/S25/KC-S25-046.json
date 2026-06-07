@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "暁よ。一人前のレディーとして扱ってよね！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「暁の出番ね、見てなさい！」があるなら、他のあなたのレベル1以下のキャラすべてに、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_046.png",
+	"tags": null,
+	"expansionId": 113
 }

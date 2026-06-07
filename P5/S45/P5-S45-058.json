@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "足を止めた後、すかさず急所。\u003cbr\u003eこれでズル男にもダメージが与えられるようになる",
+	"trigger": null,
 	"ability": [
 		"【永】【クロック】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、あなたのカード名に「主人公」を含むキャラすべてに、次の能力を与える。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
 	],
 	"specialAttrib": [
 		"ネトゲ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_058.png",
+	"tags": null,
+	"expansionId": 180
 }

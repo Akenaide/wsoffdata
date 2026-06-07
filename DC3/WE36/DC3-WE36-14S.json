@@ -15,17 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"新聞"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE36-14S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we36/dc3_we36_14s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we36/dc3_we36_14s.png",
+	"tags": null,
+	"expansionId": 361
 }

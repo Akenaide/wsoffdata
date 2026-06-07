@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "おかえり",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《秩序》のキャラすべてに、パワーを＋1000。",
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《秩序》のキャラの枚数×500に等しい。"
+		"【永】 他のあなたの《秩序》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《秩序》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"秩序"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_041.png",
+	"tags": null,
+	"expansionId": 260
 }

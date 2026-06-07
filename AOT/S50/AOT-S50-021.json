@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アァアアアアアアア",
+	"trigger": null,
 	"ability": [
-		"相手にＸダメージを与える。Ｘはあなたの思い出置場の「“追走”巨人」の枚数に等しい。（ダメージキャンセルは発生する）",
-		"あなたは自分の思い出置場の「“追走”巨人」を1枚選び、控え室に置く。"
+		"相手にＸダメージを与える。Ｘはあなたの思い出置場の「“追走”巨人」の枚数に等しい。（ダメージキャンセルは発生する）\u003cbr\u003eあなたは自分の思い出置場の「“追走”巨人」を1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "AOT/S50-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s50/aot_s50_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s50/aot_s50_021.png",
+	"tags": null,
+	"expansionId": 207
 }

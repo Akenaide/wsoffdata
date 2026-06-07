@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああっ……ン",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたのカード名に「音夢」か「美春」を含むキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがCX置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1500。"
+		"【永】 あなたのターン中、他のあなたのカード名に「音夢」か「美春」を含むキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[salvage.gif]]のCXがCX置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"バナナ",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W128-062S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_062s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w128/dc_w128_062s.png",
+	"tags": null,
+	"expansionId": 544
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"五つ子",
 		"真面目"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-T75",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_t75.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_t75.png",
+	"tags": null,
+	"expansionId": 308
 }

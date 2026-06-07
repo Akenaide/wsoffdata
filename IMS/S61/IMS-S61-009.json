@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カワイイ茜ちゃんゾンビが、みんなをゾンビにしちゃうぞー！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【永】 記憶 あなたの思い出置場に「フラスタ」があるなら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【永】 記憶 あなたの思い出置場に「フラスタ」があるなら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"プリン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_009.png",
+	"tags": null,
+	"expansionId": 251
 }

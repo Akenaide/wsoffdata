@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やっぱりお前も服に呑み込まれちまったな",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"モヒカン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_052.png",
+	"tags": null,
+	"expansionId": 117
 }

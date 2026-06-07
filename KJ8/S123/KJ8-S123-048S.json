@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ミツケタ",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードをカード名に「日比野カフカ」を含むキャラの下にマーカーとして表向きに置く］ あなたは自分の山札を見てカード名に「怪獣８号」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"怪獣",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KJ8/S123-048S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_048s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_048s.png",
+	"tags": null,
+	"expansionId": 525
 }

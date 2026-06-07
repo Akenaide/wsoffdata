@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "その気持ちだけもらっておくわ",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「もう１回……いい？」があるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《サマポケ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_061.png",
+	"tags": null,
+	"expansionId": 311
 }

@@ -15,20 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あ～～れ～～",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのクライマックス置場に「仲良し3人組」が置かれた時、あなたの青のキャラすべてに、そのターン中、パワーを＋1500。",
-		"【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、そのターン中、レベルを＋1。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのクライマックス置場に「仲良し3人組」が置かれた時、あなたの青のキャラすべてに、そのターン中、パワーを＋1500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、そのターン中、レベルを＋1。"
 	],
 	"specialAttrib": [
 		"バレエ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_077.png",
+	"tags": null,
+	"expansionId": 174
 }

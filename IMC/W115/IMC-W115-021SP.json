@@ -15,20 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ー",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。",
-		"【自】【CXコンボ】［(4) 手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「情熱ファンファンファーレ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを2回与える。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】【CXコンボ】［(4) 手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「情熱ファンファンファーレ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを2回与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ニックネーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-021SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_021sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_021sp.png",
+	"tags": null,
+	"expansionId": 477
 }

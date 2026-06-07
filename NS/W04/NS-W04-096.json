@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゼスト「共に語り合った、俺とお前の正義は……\u003cbr /\u003e今は、どうなっている……」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のクロックを3枚まで選び、控え室に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NS/W04-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_096.png",
+	"tags": null,
+	"expansionId": 6
 }

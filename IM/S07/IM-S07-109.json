@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "（やよいチャン。最近、紙のオカネを食べさせてモラッテないよ？また、食べさせてネ！）",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《カエル》か《家族》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-109",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_109.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_109.png",
+	"tags": null,
+	"expansionId": 13
 }

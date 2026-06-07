@@ -15,19 +15,19 @@
 	"rarity": "SBR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ただ闇雲に威力だけを向上させてもどうかと思い、今日は爆裂魔法により涼やかな風を演出してみました",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「本物の爆裂魔法」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室の「めぐみん」を1枚まで選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「本物の爆裂魔法」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室の「めぐみん」を1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sks/W62-053SBR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sks_w62/sks_w62_053sbr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sks_w62/sks_w62_053sbr.png",
+	"tags": null,
+	"expansionId": 259
 }

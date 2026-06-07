@@ -15,16 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 前列の中央の枠にこのカードがいるなら、このカードのレベルを＋1し、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SIN/W109-082S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sin_w109/sin_w109_082s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sin_w109/sin_w109_082s.png",
+	"tags": null,
+	"expansionId": 448
 }

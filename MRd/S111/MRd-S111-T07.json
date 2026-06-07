@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《Mirrorverse》か《Disney》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-		"【自】［(1)］ このカードが、手札か山札から舞台に置かれた時、あなたのレベルが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを4枚まで選び、山札に戻し、相手はその山札をシャッフルする。"
+		"【永】 他のあなたの、《Mirrorverse》か《Disney》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\u003cbr\u003e【自】［(1)］ このカードが、手札か山札から舞台に置かれた時、あなたのレベルが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを4枚まで選び、山札に戻し、相手はその山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"Mirrorverse",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRd/S111-T07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_s111_t07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrd_s111_t07.png",
+	"tags": null,
+	"expansionId": 470
 }

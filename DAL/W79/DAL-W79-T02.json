@@ -15,17 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "起きろ！起きろ！おにーちゃん！起きろ！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのレベルが1以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の控え室の「ラタトスクの司令官 琴里」を1枚選び、このカードがいた枠に置く。』",
-		"【永】 他のあなたの、《デート》か《精霊》のキャラすべてに、パワーを＋500。"
+		"【永】 あなたのレベルが1以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の控え室の「ラタトスクの司令官 琴里」を1枚選び、このカードがいた枠に置く。』\u003cbr\u003e【永】 他のあなたの、《デート》か《精霊》のキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"デート"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W79-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_t02.png",
+	"tags": null,
+	"expansionId": 299
 }

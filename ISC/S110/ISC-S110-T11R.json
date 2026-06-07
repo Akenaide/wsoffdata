@@ -15,19 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……！　……びっくりした",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ファウンテンサマー 七草にちか」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 このカードの下にマーカーがあるなら、他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ファウンテンサマー 七草にちか」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"シーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-T11R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_t11r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_t11r.png",
+	"tags": null,
+	"expansionId": 467
 }

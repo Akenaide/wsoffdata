@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "でもでも、今回の体育祭は今までで一番楽しめました！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_p05.png",
+	"tags": null,
+	"expansionId": 12
 }

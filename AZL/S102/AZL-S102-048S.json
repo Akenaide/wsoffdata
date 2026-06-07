@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ドン、ドンドン…太鼓の音に合わせてぴょん、ぴょん…",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《艦船》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にトリガーアイコンが[TREASURE]のクライマックスがあるなら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《艦船》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にトリガーアイコンが[[treasure.gif]]のクライマックスがあるなら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"重桜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-048S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_048s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_048s.png",
+	"tags": null,
+	"expansionId": 410
 }

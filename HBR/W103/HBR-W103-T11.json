@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うまーい！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見て《セラフ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "HBR/W103-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w103/hbr_w103_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w103/hbr_w103_t11.png",
+	"tags": null,
+	"expansionId": 407
 }

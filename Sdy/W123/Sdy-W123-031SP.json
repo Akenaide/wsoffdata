@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《スニーカー文庫》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"スニーカー文庫",
 		"聖女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sdy/W123-031SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sdy_w123_031sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/sdy_w123_031sp.png",
+	"tags": null,
+	"expansionId": 510
 }

@@ -15,20 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もうっ、心配させて！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「一緒にお風呂」があり、他のあなたのカード名に「シャロ」か「千夜」を含むキャラがいるなら、あなたは自分の山札を上から4枚まで見て、カード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「一緒にお風呂」があり、他のあなたのカード名に「シャロ」か「千夜」を含むキャラがいるなら、あなたは自分の山札を上から4枚まで見て、カード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W94-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w94/gu_w94_002.png",
+	"tags": null,
+	"expansionId": 374
 }

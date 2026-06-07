@@ -15,17 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】【CXコンボ】 あなたのCX置場に、「WORTHY」か「大いなる目的」があるなら、すべての領域にあるこのカードはトリガーアイコンに[CHOICE]を得る。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[CHOICE]のCX1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+		"【永】【CXコンボ】 あなたのCX置場に、「WORTHY」か「大いなる目的」があるなら、すべての領域にあるこのカードはトリガーアイコンに[[choice.gif]]を得る。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[[choice.gif]]のCX1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S124-003S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_003s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s124/mar_s124_003s.png",
+	"tags": null,
+	"expansionId": 527
 }

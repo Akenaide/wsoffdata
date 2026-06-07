@@ -15,20 +15,20 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "少し早いですけど、大人になったら……プロデューサーさん、着せてくれますか……？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1500に等しい。",
-		"【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×1500に等しい。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"箱入娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-035BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_035bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_035bnp.png",
+	"tags": null,
+	"expansionId": 392
 }

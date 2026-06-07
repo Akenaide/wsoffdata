@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私を巻き込んで頂戴。\u003cbr\u003eそうね、一緒に死んであげることくらいはできるわ",
+	"trigger": null,
 	"ability": [
 		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《怪異》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_066.png",
+	"tags": null,
+	"expansionId": 159
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ボクはエコロ　じくうのたびびと",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《ぷよ》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_101.png",
+	"tags": null,
+	"expansionId": 160
 }

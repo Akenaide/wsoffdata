@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何でもは知らないわよ。知ってることだけ",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを【レスト】する］ あなたは自分の《怪異》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_038.png",
+	"tags": null,
+	"expansionId": 60
 }

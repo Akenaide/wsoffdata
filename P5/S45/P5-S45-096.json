@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "斑目「あのガキどもの悪戯か？　まあ、どうということはない…\u003cbr\u003eどうせ、ヤツらもこの個展が終わるまでだ…」",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 相手の思い出置場に裏向きのカードがないなら、相手は自分の手札を1枚選び、裏向きで思い出にし、1枚まで引く。",
-		"あなたは自分の《怪盗》のキャラを1枚選び、そのターン中、パワーを＋2500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
+		"【カウンター】 相手の思い出置場に裏向きのカードがないなら、相手は自分の手札を1枚選び、裏向きで思い出にし、1枚まで引く。\u003cbr\u003eあなたは自分の《怪盗》のキャラを1枚選び、そのターン中、パワーを＋2500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P5/S45-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_096.png",
+	"tags": null,
+	"expansionId": 180
 }

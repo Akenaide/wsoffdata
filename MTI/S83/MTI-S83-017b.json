@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "エリス「そんなのより、あっちのがいい」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《六面世界》のキャラがいないなら、手札からプレイできない。",
-		"このカードを思い出にする。あなたは自分の控え室の《六面世界》のキャラをＸ枚まで選び、手札に戻す。Ｘはあなたの思い出置場の「人形作り」の枚数に等しい。"
+		"このカードは、あなたの《六面世界》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eこのカードを思い出にする。あなたは自分の控え室の《六面世界》のキャラをＸ枚まで選び、手札に戻す。Ｘはあなたの思い出置場の「人形作り」の枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MTI/S83-017b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_017b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_017b.png",
+	"tags": null,
+	"expansionId": 346
 }

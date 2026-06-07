@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "王子様 私をリングに連れてって！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《扇子》か《和服》のキャラが3枚以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"扇子",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE15-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se15/p4_se15_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se15/p4_se15_21.png",
+	"tags": null,
+	"expansionId": 91
 }

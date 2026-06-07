@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"ドラゴン",
 		"小学生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMD/W96-T04R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_t04r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmd_w96/kmd_w96_t04r.png",
+	"tags": null,
+	"expansionId": 385
 }

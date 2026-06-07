@@ -15,15 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの《ホロライブ》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「黄昏の丘で」があり、あなたのキャラすべてが《ホロライブ》なら、あなたは自分の山札を上から1枚見て、《ホロライブ》のキャラかイベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分の控え室の《ホロライブ》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+		"【自】 このカードがアタックした時、他のあなたの《ホロライブ》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「黄昏の丘で」があり、あなたのキャラすべてが《ホロライブ》なら、あなたは自分の山札を上から1枚見て、《ホロライブ》のキャラかイベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分の控え室の《ホロライブ》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"ホロライブ",
+		"ホロライブEnglish-Council-"
+	],
+	"version": "4",
 	"cardcode": "HOL/W104-120SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_120sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w104/hol_w104_120sp.png",
+	"tags": null,
+	"expansionId": 419
 }

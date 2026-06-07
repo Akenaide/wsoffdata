@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あれ、今日はラクロス部の見学ですか？…通りすがり？　あはは、本当かなぁ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分のカード名に「桃子」を含むキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_035.png",
+	"tags": null,
+	"expansionId": 131
 }

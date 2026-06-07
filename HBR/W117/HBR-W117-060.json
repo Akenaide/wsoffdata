@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "夜のテールランプは、時に人を大胆にします。",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"セラフ",
 		"第31F部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W117-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w117/hbr_w117_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w117/hbr_w117_060.png",
+	"tags": null,
+	"expansionId": 482
 }

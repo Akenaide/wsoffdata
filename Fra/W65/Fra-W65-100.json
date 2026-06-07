@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ええい！ぶッ飛べ、有象無象！　黒魔改【イクスティンクション・レイ】――ッ！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の手札を1枚選び、控え室に置いてよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、山札の下に置き、このカードを山札の下に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Fra/W65-100",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fra_w65/fra_w65_100.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fra_w65/fra_w65_100.png",
+	"tags": null,
+	"expansionId": 264
 }

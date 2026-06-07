@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたの青のキャラがいないなら、手札からプレイできない。あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3500。"
+		"【カウンター】 このカードは、あなたの青のキャラがいないなら、手札からプレイできない。あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋3500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IMS/S61-123BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_123bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_123bnp.png",
+	"tags": null,
+	"expansionId": 251
 }

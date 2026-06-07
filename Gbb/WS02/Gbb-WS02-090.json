@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "木更「だからこそ民警の仕事があるんだけど」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
 	],
@@ -25,8 +25,9 @@
 		"民間警備会社",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gbb/WS02-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gbb_ws02_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gbb_ws02_090.png",
+	"tags": null,
+	"expansionId": 439
 }

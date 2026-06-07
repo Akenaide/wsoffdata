@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おやすみなさい",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたのカード名に「詩羽」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の《ゲーム》のキャラを1枚選び、そのターン中、パワーを＋2000し、相手のキャラを1枚選び、そのターン中、ソウルを－1。"
+		"【カウンター】 このカードは、あなたのカード名に「詩羽」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の《ゲーム》のキャラを1枚選び、そのターン中、パワーを＋2000し、相手のキャラを1枚選び、そのターン中、ソウルを－1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SHS/W71-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_077.png",
+	"tags": null,
+	"expansionId": 278
 }

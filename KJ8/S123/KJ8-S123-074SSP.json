@@ -15,8 +15,8 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を2枚控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《防衛隊》か《怪獣》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"防衛隊",
 		"隊長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KJ8/S123-074SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_074ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_074ssp.png",
+	"tags": null,
+	"expansionId": 525
 }

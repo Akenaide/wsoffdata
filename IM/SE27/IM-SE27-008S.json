@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードと、「みんなのアイドルやよい」は、デッキに合計4枚まで入れることができる。",
-		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
+		"【永】 このカードと同じカード名のカードと、「みんなのアイドルやよい」は、デッキに合計4枚まで入れることができる。\u003cbr\u003e【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/SE27-008S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_se27/im_se27_008s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_se27/im_se27_008s.png",
+	"tags": null,
+	"expansionId": 148
 }

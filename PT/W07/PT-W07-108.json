@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしに見せて！　玲二がそいつを撃つところを！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
 		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"時計"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_108.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 思い出置場にこのカードがあるなら、あなたの「Sing For You チノ」すべてに、パワーを＋500。",
-		"【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の「Sing For You チノ」を1枚選び、手札に戻す。"
+		"【永】 記憶 思い出置場にこのカードがあるなら、あなたの「Sing For You チノ」すべてに、パワーを＋500。\u003cbr\u003e【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の「Sing For You チノ」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"Sing For You"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W94-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w94/gu_w94_071.png",
+	"tags": null,
+	"expansionId": 374
 }

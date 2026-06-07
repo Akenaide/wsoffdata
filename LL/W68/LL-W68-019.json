@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "にこ「今回はにこと絵里と真姫の三人だけでステージにあがれるけど……はっきり言って、死角ナシね！！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《音楽》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《音楽》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\u003cbr\u003e【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"BiBi"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_019.png",
+	"tags": null,
+	"expansionId": 272
 }

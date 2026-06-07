@@ -15,18 +15,18 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日まで磨いた私の魅力で、メロメロにしてあ・げ・る♪",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードをストック置場に置いてよい。（クライマックスのレベルは0として扱う）"
+		"【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置く。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードをストック置場に置いてよい。（クライマックスのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"セクシー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-112BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_112bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_112bnp.png",
+	"tags": null,
+	"expansionId": 251
 }

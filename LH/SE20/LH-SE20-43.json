@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わかってるぜ、直継師匠！",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-43",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_43.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_43.png",
+	"tags": null,
+	"expansionId": 118
 }

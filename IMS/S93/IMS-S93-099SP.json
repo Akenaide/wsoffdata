@@ -15,21 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場に「花より咲き誇り　天空橋朋花」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの後列の《音楽》のキャラ1枚につき、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「brave HARMONY」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+		"【永】 経験 あなたのレベル置場に「花より咲き誇り　天空橋朋花」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの後列の《音楽》のキャラ1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「brave HARMONY」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"聖母"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-099SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_099sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_099sp.png",
+	"tags": null,
+	"expansionId": 392
 }

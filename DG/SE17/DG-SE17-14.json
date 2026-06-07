@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいですねー。微笑ましいですねー。\u003cbr /\u003eすっかり仲のいい兄妹ですねー！",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ あなたのクライマックス置場に「愛に包まれた魔界」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ピンチリバイバル”ピュアフロン」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"天使",
 		"悪魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_14.png",
+	"tags": null,
+	"expansionId": 102
 }

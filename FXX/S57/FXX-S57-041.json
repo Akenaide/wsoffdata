@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "え、うそっ……あれ？",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「楽園のキス」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"パラサイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_041.png",
+	"tags": null,
+	"expansionId": 241
 }

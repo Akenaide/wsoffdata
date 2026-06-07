@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "暁の水平線に勝利を刻んだ提督に贈られる「証」。\u003cbr /\u003e資材、または複数集めて改装設計図と交換することも可能です。",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見て「勲章」を3枚まで選び、控え室に置き、自分の山札を見て「改装設計図」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KC/S31-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_028.png",
+	"tags": null,
+	"expansionId": 130
 }

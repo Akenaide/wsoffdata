@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何よりも、大切な仲間達を救うために",
+	"trigger": null,
 	"ability": [
-		"【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを1枚選び、手札に戻す。",
-		"【起】［(1) このカードを控え室に置く］ あなたのレベルが2以上なら、あなたは自分の控え室の「英雄願望 ベル」を1枚選び、このカードがいた枠に置く。"
+		"【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを1枚選び、手札に戻す。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたのレベルが2以上なら、あなたは自分の控え室の「英雄願望 ベル」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"ファミリア",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDM/S88-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddm_s88/ddm_s88_055.png",
+	"tags": null,
+	"expansionId": 367
 }

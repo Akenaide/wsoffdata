@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしの役は\u003cbr\u003e笑顔を失くしてしまった傷ついた女神",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"シークフェルト音楽学院"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S69-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s69/rsl_s69_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s69/rsl_s69_070.png",
+	"tags": null,
+	"expansionId": 279
 }

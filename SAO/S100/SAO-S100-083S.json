@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アスナ「ありがとう。ちょっと落ち着いた」",
+	"trigger": null,
 	"ability": [
 		"【自】［(2) このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、手札に戻す。"
 	],
@@ -25,8 +25,9 @@
 		"アバター",
 		"プログレッシブ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-083S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_083s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_083s.png",
+	"tags": null,
+	"expansionId": 405
 }

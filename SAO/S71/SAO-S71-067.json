@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《Anniversary》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「東の果ての桃源郷」があるなら、あなたは自分の山札を上から2枚まで見て、《Anniversary》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 他のあなたの《Anniversary》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「東の果ての桃源郷」があるなら、あなたは自分の山札を上から2枚まで見て、《Anniversary》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S71-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_067.png",
+	"tags": null,
+	"expansionId": 288
 }

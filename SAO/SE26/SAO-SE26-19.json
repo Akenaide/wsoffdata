@@ -1,6 +1,6 @@
 {
 	"set": "SAO",
-	"setName": "ソードアート・オンラインⅡ Vol.2",
+	"setName": " ソードアート・オンラインⅡ Vol.2",
 	"side": "S",
 	"release": "E26",
 	"id": "19",
@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アスナ「――かんぱーい」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの、「パーティーへの参加 アスナ」と「《スリーピング・ナイツ》ユウキ」がいるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードがアタックした時、クライマックス置場に「Braves of 27th floor」があるなら、あなたは自分の控え室の、《アバター》か《ネット》のキャラを1枚まで選び、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋1500。"
+		"【永】 あなたの、「パーティーへの参加 アスナ」と「《スリーピング・ナイツ》ユウキ」がいるなら、あなたの手札のこのカードのレベルを－1。\u003cbr/\u003e【自】 このカードがアタックした時、クライマックス置場に「Braves of 27th floor」があるなら、あなたは自分の控え室の、《アバター》か《ネット》のキャラを1枚まで選び、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE26-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se26/sao_se26_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se26/sao_se26_19.png",
+	"tags": null,
+	"expansionId": 146
 }

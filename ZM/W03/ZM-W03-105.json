@@ -8,14 +8,14 @@
 	"jpName": "幼い頃の約束",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ルイズ「泣きたくなるような悲しい事があったら\u003cbr /\u003e必ず仰ってくださいまし…」",
 	"trigger": [
 		"DRAW"
 	],
@@ -23,9 +23,10 @@
 		"【永】 あなたのキャラすべてに、パワーを+1000し、ソウルを+1。",
 		"（このカードがトリガーした時、あなたは1枚引いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ZM/W03-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_105.png",
+	"tags": null,
+	"expansionId": 12
 }

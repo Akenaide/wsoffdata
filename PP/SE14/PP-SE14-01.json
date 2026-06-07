@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺たちが獲物を狩り、あんたが見届ける。\u003cbr /\u003eそれだけのことだ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「朱」を含むキャラすべてに、パワーを＋500。",
 		"【自】 絆／「監視官としての資質 朱」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「監視官としての資質 朱」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"サイコパス",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PP/SE14-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pp_se14/pp_se14_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pp_se14/pp_se14_01.png",
+	"tags": null,
+	"expansionId": 95
 }

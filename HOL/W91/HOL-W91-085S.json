@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ホロライブ》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"ホロライブ",
 		"5期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-085S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_085s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_085s.png",
+	"tags": null,
+	"expansionId": 357
 }

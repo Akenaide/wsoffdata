@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これでもっと、美味しいご飯が作れるようになれますでしょうか？",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《キヴォトス》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"給食部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_t02.png",
+	"tags": null,
+	"expansionId": 459
 }

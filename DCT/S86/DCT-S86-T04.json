@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大寝屋の後継者たるもの、常に完全無欠であるべきだ",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"ノッカーアップ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DCT/S86-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dct_s86/dct_s86_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dct_s86/dct_s86_t04.png",
+	"tags": null,
+	"expansionId": 362
 }

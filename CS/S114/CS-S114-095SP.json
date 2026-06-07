@@ -15,21 +15,21 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「泣き虫少年 マサオくん」を4枚まで選び、このカードの下にマーカーとして好きな順番で裏向きに置く。"
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「泣き虫少年 マサオくん」を4枚まで選び、このカードの下にマーカーとして好きな順番で裏向きに置く。"
 	],
 	"specialAttrib": [
 		"MOVIE",
 		"幼稚園",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-095SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_095sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_095sp.png",
+	"tags": null,
+	"expansionId": 480
 }

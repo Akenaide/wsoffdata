@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "貴方たちの勝利だ凛",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S36-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s36/fs_s36_005.png",
+	"tags": null,
+	"expansionId": 155
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……相槌を求められても、同意は難しいかな……",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の「冷酷なる追跡者 シャルティア」を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1500し、このカードは次の2つの能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"人間種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S99-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s99/ovl_s99_043.png",
+	"tags": null,
+	"expansionId": 404
 }

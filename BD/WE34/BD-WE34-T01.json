@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "本当ですか？\u003cbr\u003eよかった～……",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Morfonica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE34-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we34/bd_we34_t01.png",
+	"tags": null,
+	"expansionId": 334
 }

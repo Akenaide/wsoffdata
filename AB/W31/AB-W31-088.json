@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おまえのどこに色気があるんだよ",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは自分の《死》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_088.png",
+	"tags": null,
+	"expansionId": 119
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】［手札の《Poppin\u0026#39;Party》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたの控え室にイベントがあるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の後列の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
-		"【自】 他のあなたの《Poppin\u0026#39;Party》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
+		"【自】［手札の《Poppin'Party》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたの控え室にイベントがあるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の後列の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。\u003cbr\u003e【自】 他のあなたの《Poppin'Party》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_060.png",
+	"tags": null,
+	"expansionId": 286
 }

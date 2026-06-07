@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アスナ「その時には教えてね……ユウキが、見つけたものを……」",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 思い出置場にこのカードがあるなら、このカードのカード名は「思い出とともに アスナ＆ユウキ」としても扱う。",
-		"【自】［(1) 手札の《Anniversary》のキャラを1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+		"【永】 記憶 思い出置場にこのカードがあるなら、このカードのカード名は「思い出とともに アスナ＆ユウキ」としても扱う。\u003cbr\u003e【自】［(1) 手札の《Anniversary》のキャラを1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_045.png",
+	"tags": null,
+	"expansionId": 405
 }

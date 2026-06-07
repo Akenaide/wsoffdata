@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたのために～♪歌います～♪\u003cbr/\u003e聞いてください～～～♪",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《ぷよ》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"天使"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-100",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_100.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_100.png",
+	"tags": null,
+	"expansionId": 160
 }

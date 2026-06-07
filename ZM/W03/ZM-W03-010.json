@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "きょ、きょ、きょ、\u003cbr /\u003e今日はあなたが御主人様にゃんにゃん",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《使い魔》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"虚無"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_010.png",
+	"tags": null,
+	"expansionId": 3
 }

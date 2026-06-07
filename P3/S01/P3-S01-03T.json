@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"動物",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-03T",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_03t.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_03t.png",
+	"tags": null,
+	"expansionId": 9
 }

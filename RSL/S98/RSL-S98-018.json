@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "春の椿に明日を憧れ、夏の菖蒲に懐いた誓い\u003cbr\u003e秋の紅葉の恊わぬ別れに、冬の水仙斬り捨て落とす",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】［(1)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「賭場の華 花柳 香子」を1枚選び、手札に戻す。",
-		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+		"【自】［(1)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「賭場の華 花柳 香子」を1枚選び、手札に戻す。\u003cbr\u003e【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
 	],
 	"specialAttrib": [
 		"レヴュー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S98-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_018.png",
+	"tags": null,
+	"expansionId": 402
 }

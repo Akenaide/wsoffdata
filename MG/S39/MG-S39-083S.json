@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「SECRET」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かバトル中のこのカードが【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-083S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_083s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_083s.png",
+	"tags": null,
+	"expansionId": 159
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "待たせてごめんな。迎えに来たよ",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を見て青か《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。』"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

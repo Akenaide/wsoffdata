@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《格闘》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の《格闘》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
 	"specialAttrib": [
 		"格闘",
 		"オッドアイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_043.png",
+	"tags": null,
+	"expansionId": 200
 }

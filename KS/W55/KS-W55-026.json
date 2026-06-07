@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "残機が一人減ったので、二代目バニルということだ！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［手札のキャラを1枚公開し、ストック置場に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のクライマックス置場の「とびきりの破滅願望」を1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"仮面",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_026.png",
+	"tags": null,
+	"expansionId": 214
 }

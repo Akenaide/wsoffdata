@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じゃあ、調達にいくわよ　",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中の《本》のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【自】［(1)］ 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
@@ -25,8 +25,9 @@
 		"メガネ",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_058.png",
+	"tags": null,
+	"expansionId": 35
 }

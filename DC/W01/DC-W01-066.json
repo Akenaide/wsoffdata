@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "父ちゃん寂しがり屋なんだー。ゆずがいないと何もできない",
+	"trigger": null,
 	"ability": [
 		"【永】 他の《音楽》のあなたのキャラが2枚以上いるなら、このカードのパワーを＋1000。",
 		"【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W01-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w01/dc_w01_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w01/dc_w01_066.png",
+	"tags": null,
+	"expansionId": 1
 }

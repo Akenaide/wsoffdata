@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ランサー「貴様の宝具、それは剣か？」\u003cbr\u003eセイバー「さぁ、どうかな。斧かもしれぬし槍かもしれぬ」",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-T06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_t06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_t06.png",
+	"tags": null,
+	"expansionId": 138
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私たちはいつまでも、どこまでも戦い続ける\u003cbr\u003eアイドルゾンビィです",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】【CXコンボ】［あなたのクライマックス置場の「輝いて」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《SAGA》のキャラを1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】【CXコンボ】［あなたのクライマックス置場の「輝いて」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《SAGA》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"SAGA",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZLS/W93-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zls_w93/zls_w93_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zls_w93/zls_w93_061.png",
+	"tags": null,
+	"expansionId": 366
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "1日だけでいいので僕と恋人になってください…",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場に「“記憶のかけら”漆原 るか」があるなら、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「自己相似のアンドロギュノス」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《ラボメン》のキャラなら手札に加える。（そうでないなら元に戻す）"
+		"【永】 経験 あなたのレベル置場に「“記憶のかけら”漆原 るか」があるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「自己相似のアンドロギュノス」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《ラボメン》のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"ラボメン",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_087.png",
+	"tags": null,
+	"expansionId": 243
 }

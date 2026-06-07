@@ -15,21 +15,20 @@
 	"rarity": "SEC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《艦船》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 あなたのターン中、前列の中央の枠にこのカードがいて、他のあなたの《艦船》のキャラが4枚以上なら、あなたの《重桜》のキャラすべてに、パワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 あなたの《艦船》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 あなたのターン中、前列の中央の枠にこのカードがいて、他のあなたの《艦船》のキャラが4枚以上なら、あなたの《重桜》のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"重桜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-037SEC",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_037sec.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_037sec.png",
+	"tags": null,
+	"expansionId": 410
 }

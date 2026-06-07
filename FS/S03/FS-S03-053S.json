@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1)］ あなたは自分のカード名に「アーチャー」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
@@ -25,8 +25,9 @@
 		"マスター",
 		"パジャマ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-053S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_053sr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_053sr.png",
+	"tags": null,
+	"expansionId": 7
 }

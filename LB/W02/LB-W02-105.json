@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お菓子を食べると、ちょっと幸せになります",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、《お菓子》を与える。"
 	],
@@ -24,8 +24,9 @@
 		"お菓子",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W02-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_105.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_105.gif",
+	"tags": null,
+	"expansionId": 12
 }

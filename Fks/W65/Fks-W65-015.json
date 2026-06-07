@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キミと私は戦うしかないのね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のレベル1以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
 	],
@@ -25,8 +25,9 @@
 		"王族",
 		"氷"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fks/W65-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fks_w65/fks_w65_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fks_w65/fks_w65_015.png",
+	"tags": null,
+	"expansionId": 264
 }

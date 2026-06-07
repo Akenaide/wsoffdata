@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それは……どうして隠すの？",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_065.png",
+	"tags": null,
+	"expansionId": 278
 }

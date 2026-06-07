@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の故郷は草一本はえないような土地でしたので、この景色を見ると、何とも言えない気持ちになります",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《六面世界》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】［(1)］ あなたのキャラのトリガーチェックで「師匠から弟子へ」か「祝福」がでた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+		"【永】 他のあなたの《六面世界》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】［(1)］ あなたのキャラのトリガーチェックで「師匠から弟子へ」か「祝福」がでた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"魔術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-086S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_086s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_086s.png",
+	"tags": null,
+	"expansionId": 346
 }

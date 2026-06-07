@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふむ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠の《魔大陸》のキャラに、パワーを＋1500。",
-		"【自】【CXコンボ】［あなたのクライマックス置場の「“豚頭帝”対策会議」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から3枚までを、控え室に置き、自分の控え室のレベルＸ以下の《魔大陸》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれた《魔大陸》のキャラの枚数に等しい。"
+		"【永】 他のあなたの前列の中央の枠の《魔大陸》のキャラに、パワーを＋1500。\u003cbr\u003e【自】【CXコンボ】［あなたのクライマックス置場の「“豚頭帝”対策会議」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から3枚までを、控え室に置き、自分の控え室のレベルＸ以下の《魔大陸》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれた《魔大陸》のキャラの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"スライム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S82-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s82/tsk_s82_079u.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s82/tsk_s82_079u.png",
+	"tags": null,
+	"expansionId": 333
 }

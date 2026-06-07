@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "誰にも馬鹿にされない…見下されない強さが欲しい",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてが《格闘》か《服》なら、このカードのパワーを＋2500し、このカードの正面のキャラに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【自】 相手のターン中、このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。"
+		"【永】 あなたのキャラすべてが《格闘》か《服》なら、このカードのパワーを＋2500し、このカードの正面のキャラに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【自】 相手のターン中、このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。"
 	],
 	"specialAttrib": [
 		"格闘",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-075S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_075s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_075s.png",
+	"tags": null,
+	"expansionId": 200
 }

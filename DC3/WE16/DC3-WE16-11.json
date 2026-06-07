@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "たとえるなら…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの『応援』を持つキャラ1枚につき、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"たとえ話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE16-11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we16/dc3_we16_11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we16/dc3_we16_11.png",
+	"tags": null,
+	"expansionId": 99
 }

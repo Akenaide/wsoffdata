@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "綯は岡部 倫太郎が怖いみたいだね",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場に「“タイムトラベラー”阿万音 鈴羽」があるなら、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「Cycling」があるなら、あなたは自分の控え室の《ラボメン》のキャラを2枚まで選び、ストック置場に好きな順番で置く。"
+		"【永】 経験 あなたのレベル置場に「“タイムトラベラー”阿万音 鈴羽」があるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたのクライマックス置場に「Cycling」があるなら、あなたは自分の控え室の《ラボメン》のキャラを2枚まで選び、ストック置場に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"ラボメン",
 		"バイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_034.png",
+	"tags": null,
+	"expansionId": 243
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "瑚太朗「篝の仕事を手伝いたいんだ」\u003cbr /\u003e篝「…」",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアンコールステップの始めに、あなたは他の自分のキャラを1枚選び、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"鍵",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_080.png",
+	"tags": null,
+	"expansionId": 65
 }

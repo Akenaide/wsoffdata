@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えへへ、似合ってますか？",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-		"【自】 このカードがアタックした時、あなたは自分の《ランドソル》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《ランドソル》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W100-111",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_111.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_111.png",
+	"tags": null,
+	"expansionId": 397
 }

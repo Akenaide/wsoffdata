@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いっぺん本気で100メートル走で勝負してみない？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの前列のキャラすべてが【スタンド】しているなら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【自】 このカードがアタックした時、他のあなたの前列のキャラすべてが【スタンド】しているなら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"ストライカー",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_090.png",
+	"tags": null,
+	"expansionId": 162
 }

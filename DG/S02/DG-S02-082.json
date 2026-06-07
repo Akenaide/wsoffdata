@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "強く激しきココロこそが、食材のココロをも動かす真の調味料ぞなッ！！",
+	"trigger": null,
 	"ability": [
 		"【自】このカードが手札から舞台に置かれた時、あなたは相手の控え室のクライマックスを1枚選び、山札に戻してよい。そうしたら、その山札をシャッフルし、そのターン中、このカードは次の能力を得る。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは1枚引いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"先生",
 		"コック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_082.png",
+	"tags": null,
+	"expansionId": 5
 }

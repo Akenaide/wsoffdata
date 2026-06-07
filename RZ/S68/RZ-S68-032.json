@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちーんっ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《Memory Snow》のキャラすべてに、パワーを＋500。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【永】 他のあなたの《Memory Snow》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"Memory Snow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S68-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_032.png",
+	"tags": null,
+	"expansionId": 280
 }

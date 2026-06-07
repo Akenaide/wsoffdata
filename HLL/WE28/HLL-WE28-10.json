@@ -1,6 +1,6 @@
 {
 	"set": "HLL",
-	"setName": "「ひなろじ ～from Luck ＆ Logic～」Vol.1",
+	"setName": " 「ひなろじ ～from Luck ＆ Logic～」Vol.1",
 	"side": "W",
 	"release": "E28",
 	"id": "10",
@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もちろん。一緒にたのしみましょう、夕子",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを【レスト】する］ あなたは自分の山札を見てカード名に「夕子」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを【レスト】する］ あなたは自分の山札を見てカード名に「夕子」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"使者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HLL/WE28-10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we28/hll_we28_10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we28/hll_we28_10.png",
+	"tags": null,
+	"expansionId": 210
 }

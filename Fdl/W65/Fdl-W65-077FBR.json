@@ -15,19 +15,19 @@
 	"rarity": "FBR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、あなたのクロックが2枚以下なら、このカードのパワーを＋2000。",
-		"【永】 あなたのクロックが3枚以上なら、このカードのソウルを＋1。"
+		"【永】 あなたのターン中、あなたのクロックが2枚以下なら、このカードのパワーを＋2000。\u003cbr\u003e【永】 あなたのクロックが3枚以上なら、このカードのソウルを＋1。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"精霊",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fdl/W65-077FBR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w65/fdl_w65_077fbr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fdl_w65/fdl_w65_077fbr.png",
+	"tags": null,
+	"expansionId": 264
 }

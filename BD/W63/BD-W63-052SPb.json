@@ -15,18 +15,18 @@
 	"rarity": "SPb",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを＋3000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《Poppin\u0026#39;Party》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《Poppin\u0026#39;Party》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《Poppin'Party》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《Poppin'Party》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-052SPb",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_052spb.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_052spb.png",
+	"tags": null,
+	"expansionId": 255
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そう。これこそが人類の希望、四方世界を守る最大にして最後の砦。絶対魔獣戦線バビロニアです",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《カルデア》か《バビロニア》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"バビロニア",
 		"新人類"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_t03.png",
+	"tags": null,
+	"expansionId": 289
 }

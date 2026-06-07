@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "とっとり鳥の助のチケットもありますよ～",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《秀知院》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。"
+		"【永】 他のあなたの《秀知院》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"秀知院",
 		"書記"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S79-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_t03.png",
+	"tags": null,
+	"expansionId": 316
 }

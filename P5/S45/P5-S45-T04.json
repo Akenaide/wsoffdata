@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "人を利用することしか考えてねえ…\u003cbr\u003eお前の方こそクズだ…鴨志田ぁ！",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「反逆のドクロ 竜司」を1枚まで選び、このカードがいた枠に防御キャラとして置く。"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_t04.png",
+	"tags": null,
+	"expansionId": 161
 }

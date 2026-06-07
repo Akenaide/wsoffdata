@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これより先へは、通せんな",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードがアタックした時、クライマックス置場に「立ちはだかる強敵」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_010.png",
+	"tags": null,
+	"expansionId": 94
 }

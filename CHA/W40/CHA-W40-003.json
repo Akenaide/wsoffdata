@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、今日あいつ来ないっすよ",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】 他のあなたのバトル中の《能力者》のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 他のあなたのバトル中の《能力者》のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_003.png",
+	"tags": null,
+	"expansionId": 152
 }

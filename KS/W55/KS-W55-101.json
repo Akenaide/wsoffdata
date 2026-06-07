@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "このすば",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードはアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"仮面",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_101.png",
+	"tags": null,
+	"expansionId": 214
 }

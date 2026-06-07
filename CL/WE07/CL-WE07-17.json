@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この子は風子の妹にします！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の《ヒトデ》のキャラを1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。"
 	],
 	"specialAttrib": [
 		"ヒトデ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE07-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we07/cl_we07_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we07/cl_we07_17.png",
+	"tags": null,
+	"expansionId": 41
 }

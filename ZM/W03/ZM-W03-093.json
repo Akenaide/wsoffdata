@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ルイズ「うん、寂しいけど待ってる」",
+	"trigger": null,
 	"ability": [
 		"集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のクロックを2枚まで選び、控え室に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ZM/W03-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_093.png",
+	"tags": null,
+	"expansionId": 3
 }

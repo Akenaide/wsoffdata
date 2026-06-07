@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたの、《MOVIE》か《家族》のキャラが3枚以下なら、手札からプレイできない。",
-		"あなたの控え室に、カード名に「しんのすけ」を含むキャラと「ひまわり」を含むキャラと「みさえ」を含むキャラと「ひろし」を含むキャラと「シロ」を含むキャラが別々に1枚ずつあるなら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』"
+		"【カウンター】 このカードは、あなたの、《MOVIE》か《家族》のキャラが3枚以下なら、手札からプレイできない。\u003cbr\u003eあなたの控え室に、カード名に「しんのすけ」を含むキャラと「ひまわり」を含むキャラと「みさえ」を含むキャラと「ひろし」を含むキャラと「シロ」を含むキャラが別々に1枚ずつあるなら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "CS/S114-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_072.png",
+	"tags": null,
+	"expansionId": 480
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なにも似てない。天と地ほど違う",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードは《スイカバー》を得て、相手は『【自】 アンコール』を使えない。そうでないなら、そのターン中、このカードは《メロンバー》を得る。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_p05.png",
+	"tags": null,
+	"expansionId": 12
 }

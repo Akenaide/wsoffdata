@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "君の奥に眠る　(Keep your style)\u003cbr\u003e記憶は遠い夢　(Keep a true smile)",
+	"trigger": null,
 	"ability": [
 		"【自】このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《音楽》のキャラの枚数×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/SE32-P04S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_se32/pd_se32_p04s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_se32/pd_se32_p04s.png",
+	"tags": null,
+	"expansionId": 13
 }

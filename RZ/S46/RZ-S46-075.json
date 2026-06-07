@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "魔法使いは自分の中のマナを使って魔法を使う、逆に精霊使いは大気中のマナを使って術を使うんだよ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「エミリア」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋2500。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+		"【永】 他のあなたのカード名に「エミリア」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋2500。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S46-075",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s46/rz_s46_075.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s46/rz_s46_075.png",
+	"tags": null,
+	"expansionId": 185
 }

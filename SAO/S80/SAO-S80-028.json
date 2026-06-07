@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キリト「……そこにいるのは、たぶん、比嘉さんかな？」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室の、自分か相手の舞台にいるキャラと同じカード名のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SAO/S80-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_028.png",
+	"tags": null,
+	"expansionId": 318
 }

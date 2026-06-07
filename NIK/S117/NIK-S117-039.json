@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "暑いと思ったら言ってくださいね～\u003cbr\u003e真夏は熱中症にかかりやすいですから",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《NIKKE》のキャラが2枚以上なら、このカードのパワーを＋5000。",
-		"【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「BLUEWATER ISLAND」があり、前列にこのカードがいて、他のあなたの《NIKKE》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 他のあなたの《NIKKE》のキャラが2枚以上なら、このカードのパワーを＋5000。\u003cbr\u003e【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「BLUEWATER ISLAND」があり、前列にこのカードがいて、他のあなたの《NIKKE》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"セラフィム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_039.png",
+	"tags": null,
+	"expansionId": 494
 }

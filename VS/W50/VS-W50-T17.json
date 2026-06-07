@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"格闘",
 		"トレーナー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-T17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_t17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_t17.png",
+	"tags": null,
+	"expansionId": 190
 }

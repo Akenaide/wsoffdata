@@ -1,6 +1,6 @@
 {
 	"set": "MK",
-	"setName": "ミルキィホームズ ファンファンパーリーパック♪",
+	"setName": " ミルキィホームズ ファンファンパーリーパック♪",
 	"side": "S",
 	"release": "J01",
 	"id": "002J",
@@ -15,19 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札か山札の上から舞台に置かれた時、あなたは相手と1回じゃんけんし、あいこだったなら、すべてのプレイヤーに、5ダメージを与える。（ダメージキャンセルは発生する）",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない他の枠に動かしてよい。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【自】 このカードが手札か山札の上から舞台に置かれた時、あなたは相手と1回じゃんけんし、あいこだったなら、すべてのプレイヤーに、5ダメージを与える。（ダメージキャンセルは発生する）\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない他の枠に動かしてよい。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"怪盗",
 		"炎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SJ01-002J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_002.png",
+	"tags": null,
+	"expansionId": 195
 }

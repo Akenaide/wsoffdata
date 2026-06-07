@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "は～、さっぱりだぜ！気持ちい～！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 あなたのアンコールステップの始めに、クライマックス置場に「東雲神社の御神楽ハンマー！」があり、前列にこのカードがいて、あなたのストックが5枚以下で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の控え室の《華撃団》のキャラを1枚選び、手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"華撃団",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SKR/S73-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_049.png",
+	"tags": null,
+	"expansionId": 293
 }

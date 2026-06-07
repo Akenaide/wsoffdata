@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "15",
@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "人間どもは俺を、魔王と呼ぶがなぁ！",
 	"trigger": [
 		"SOUL"
 	],
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE17-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_15.png",
+	"tags": null,
+	"expansionId": 100
 }

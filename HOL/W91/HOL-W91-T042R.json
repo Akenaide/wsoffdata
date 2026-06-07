@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "フッ、私が一番乗りのようですね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"2期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T042R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t042r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t042r.png",
+	"tags": null,
+	"expansionId": 352
 }

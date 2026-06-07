@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……ちゃんはやめてよ、気持ち悪い。黒虎が来いって言うから",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《武器》か《令嬢》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/WE22-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_we22/nk_we22_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_we22/nk_we22_16.png",
+	"tags": null,
+	"expansionId": 147
 }

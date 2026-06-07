@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードの相手に与えたダメージがキャンセルされた時、あなたに同じダメージを与える。（ダメージキャンセルは発生する）"
 	],
@@ -24,8 +24,9 @@
 		"あおぎり高校",
 		"くいしんぼう"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOH/W127-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aoh_w127/aoh_w127_048.png",
+	"tags": null,
+	"expansionId": 517
 }

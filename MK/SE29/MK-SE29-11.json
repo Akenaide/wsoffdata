@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すんごいお宝とかもあるんだろ～に～\u003cbr\u003eもったいない～～",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－1。",
-		"【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【永】 舞台のこのカードのレベルを－1。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"探偵",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE29-11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se29/mk_se29_11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se29/mk_se29_11.png",
+	"tags": null,
+	"expansionId": 169
 }

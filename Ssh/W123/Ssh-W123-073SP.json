@@ -15,7 +15,7 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"グレイス王国",
 		"騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssh/W123-073SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssh_w123_073sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/ssh_w123_073sp.png",
+	"tags": null,
+	"expansionId": 510
 }

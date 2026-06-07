@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "発射！",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の、《家族》か《幼稚園》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"家族",
 		"幼稚園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_p05.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,17 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そろそろ刀になりませんか？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは次の行動を行ってよい。『あなたは自分の山札を見てトリガーアイコンが[RETURN]のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。』"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは次の行動を行ってよい。『あなたは自分の山札を見てトリガーアイコンが[[bounce.gif]]のCXを1枚まで選んで公開し、自分の手札のトリガーアイコンが[[bounce.gif]]のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。』"
 	],
 	"specialAttrib": [
 		"セラフ",
 		"第30G部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W117-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w117/hbr_w117_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w117/hbr_w117_013.png",
+	"tags": null,
+	"expansionId": 482
 }

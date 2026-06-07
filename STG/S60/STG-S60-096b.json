@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "至「幻のレトロPC。一ヶ月くらい前だったかな秋葉原のどこかに眠っているという噂が流れたから、それ聞きつけて来たんじゃね？」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を上から4枚まで見て、《ラボメン》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "STG/S60-096b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_096b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_096b.png",
+	"tags": null,
+	"expansionId": 243
 }

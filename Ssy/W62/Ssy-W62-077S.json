@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしが再び異常動作を起こさないという確証はない",
+	"trigger": null,
 	"ability": [
-		"【自】［(2) あなたの舞台の「猪突猛進 ハルヒ」を1枚裏向きで思い出にする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「転校したはずの朝倉涼子」を1枚選び、舞台の好きな枠に【レスト】して置く。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+		"【自】［(2) あなたの舞台の「猪突猛進 ハルヒ」を1枚裏向きで思い出にする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「転校したはずの朝倉涼子」を1枚選び、舞台の好きな枠に【レスト】して置く。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"SOS団",
 		"宇宙人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssy/W62-077S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ssy_w62/ssy_w62_077s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ssy_w62/ssy_w62_077s.png",
+	"tags": null,
+	"expansionId": 259
 }

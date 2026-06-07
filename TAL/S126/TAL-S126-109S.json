@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "理の根源 具現せよ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《冒険》のキャラすべてに、パワーを＋2000。",
-		"【自】［このカードを【レスト】する］ 他のあなたの《冒険》のキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のストックをシャッフルし、自分のストックの下から1枚を、控え室に置き、そのキャラを【レスト】する。"
+		"【永】 あなたのターン中、他のあなたの《冒険》のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】［このカードを【レスト】する］ 他のあなたの《冒険》のキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のストックをシャッフルし、自分のストックの下から1枚を、控え室に置き、そのキャラを【レスト】する。"
 	],
 	"specialAttrib": [
 		"冒険",
 		"ヴェスペリア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-109S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_109s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_109s.png",
+	"tags": null,
+	"expansionId": 538
 }

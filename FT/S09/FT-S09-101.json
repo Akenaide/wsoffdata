@@ -5,7 +5,7 @@
 	"release": "09",
 	"id": "101",
 	"name": "",
-	"jpName": "キュートな星霊使い♥ルーシィ",
+	"jpName": "キュートな星霊使い\u0026hearts;ルーシィ",
 	"cardType": "CH",
 	"colour": "GREEN",
 	"level": "1",
@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あたしは星霊魔導士よ",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"魔法",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_101.png",
+	"tags": null,
+	"expansionId": 42
 }

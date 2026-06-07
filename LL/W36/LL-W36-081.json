@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "街がライトアップされてると、そんなにワクワクするものかしら？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。",
-		"【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「真姫の隠し事」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。"
+		"【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「真姫の隠し事」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_081.png",
+	"tags": null,
+	"expansionId": 142
 }

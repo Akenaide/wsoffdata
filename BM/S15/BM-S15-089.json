@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それは忍野も考えてたけれど……そのストレスの元がわからないじゃないか",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの《委員長》のキャラすべてに、パワーを＋500。",
 		"【自】 絆／「羽川翼」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「羽川翼」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_089.png",
+	"tags": null,
+	"expansionId": 60
 }

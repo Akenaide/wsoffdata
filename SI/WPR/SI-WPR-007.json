@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《カードゲーム》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"カードゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SI/WPR-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/si_wpr/si_wpr_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/si_wpr/si_wpr_007.png",
+	"tags": null,
+	"expansionId": 12
 }

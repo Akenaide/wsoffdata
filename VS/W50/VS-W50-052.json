@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "選手兼マネージャーのコロナ・ティミルです",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《格闘》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《格闘》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"格闘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_052.png",
+	"tags": null,
+	"expansionId": 200
 }

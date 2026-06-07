@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "上等だよ、時代遅れの技術に頼っていやがれ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードがクライマックスなら、このカードをストック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"改造",
 		"虫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TF/S32-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_040.png",
+	"tags": null,
+	"expansionId": 135
 }

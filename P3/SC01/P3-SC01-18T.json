@@ -15,16 +15,17 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フレーバー無し",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、そのカードを手札に戻す。"
 	],
 	"specialAttrib": [
 		"遺言"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-18T",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_18t.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_18t.png",
+	"tags": null,
+	"expansionId": 340
 }

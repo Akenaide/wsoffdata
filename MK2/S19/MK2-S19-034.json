@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あれは……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列のキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"警察",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_034.png",
+	"tags": null,
+	"expansionId": 87
 }

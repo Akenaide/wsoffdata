@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "わたくしのヨコハマで醜い真似は許しません",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「審美の時間 アルセーヌ」を1枚選び、このカードがいた枠に置く。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「審美の時間 アルセーヌ」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"怪盗",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE29-46",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se29/mk_se29_46.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se29/mk_se29_46.png",
+	"tags": null,
+	"expansionId": 169
 }

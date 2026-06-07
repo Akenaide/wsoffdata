@@ -15,21 +15,21 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×2000に等しい。"
+		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×2000に等しい。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"魔法",
 		"天才"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsl/W120-P04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsl_w120/fsl_w120_p04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsl_w120/fsl_w120_p04.png",
+	"tags": null,
+	"expansionId": 12
 }

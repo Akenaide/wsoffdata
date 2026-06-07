@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―――そうか。\u003cbr /\u003eならば、偽りの主共々ここで消えろ",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_064.png",
+	"tags": null,
+	"expansionId": 7
 }

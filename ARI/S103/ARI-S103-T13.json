@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "妾はブレスを見せてやろう",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《トータス》のキャラの枚数×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"トータス",
 		"竜人族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_t13.png",
+	"tags": null,
+	"expansionId": 415
 }

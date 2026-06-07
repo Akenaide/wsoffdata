@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "クラウ・ソラス！",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「一瞬の制圧」があり、他のあなたの、青か《魔法》のキャラが2枚以上なら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。",
-		"【自】 このカードがアタックした時、他のあなたの、青か《魔法》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「一瞬の制圧」があり、他のあなたの、青か《魔法》のキャラが2枚以上なら、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの、青か《魔法》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_054.png",
+	"tags": null,
+	"expansionId": 268
 }

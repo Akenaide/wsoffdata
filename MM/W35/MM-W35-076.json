@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "世界が書き換えられていく。この宇宙に新しい概念が誕生したというのか",
+	"trigger": null,
 	"ability": [
 		"すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MM/W35-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_076.png",
+	"tags": null,
+	"expansionId": 140
 }

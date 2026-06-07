@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――援護する",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋1500し、《シール》を与える。"
 	],
@@ -24,8 +24,9 @@
 		"異形種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_041.png",
+	"tags": null,
+	"expansionId": 254
 }

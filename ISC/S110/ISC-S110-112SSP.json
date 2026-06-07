@@ -15,21 +15,20 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 あなたの思い出が3枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×1000に等しい。』を得る。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 記憶 あなたの思い出が3枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×1000に等しい。』を得る。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ノクチル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-112SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_112ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_112ssp.png",
+	"tags": null,
+	"expansionId": 468
 }

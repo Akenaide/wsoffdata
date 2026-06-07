@@ -15,8 +15,8 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ノクチル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-092SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_092ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_092ssp.png",
+	"tags": null,
+	"expansionId": 332
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしがお嫁にいけなくなったら、もらってくれますか？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《SOS団》のキャラすべてに、レベルを＋1し、パワーを＋500。",
 		"【自】［手札を1枚控え室に置く］ 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－2000。"
@@ -25,8 +25,9 @@
 		"時間",
 		"SOS団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_033.png",
+	"tags": null,
+	"expansionId": 35
 }

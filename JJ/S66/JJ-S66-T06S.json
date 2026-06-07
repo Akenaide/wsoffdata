@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ジョルノ「G･Eは物体を殴ればそれに生命を与えることができる」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「黄金の意思 ジョルノ」すべてに、パワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《黄金の風》のキャラの枚数×1000に等しい。"
+		"【永】 他のあなたの「黄金の意思 ジョルノ」すべてに、パワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《黄金の風》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"黄金の風",
 		"スタンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/S66-T06S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_s66/jj_s66_t06s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_s66/jj_s66_t06s.png",
+	"tags": null,
+	"expansionId": 265
 }

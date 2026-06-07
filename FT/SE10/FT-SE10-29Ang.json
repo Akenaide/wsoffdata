@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "エンジェル「邪魔する子は天使が裁くゾ」",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じカード名のカードは、デッキに6枚まで入れることができる。",
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の「六魔将軍のマスター ゼロ」を1枚選び、このカードをそのカードの下にマーカーとして裏向きに置いてよい。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-29Ang",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_29ang.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_29ang.png",
+	"tags": null,
+	"expansionId": 68
 }

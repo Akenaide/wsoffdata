@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "うふふ、わたくしがリムル様のお世話をしてもいいのですよ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、他のあなたの《魔大陸》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「どっちを選ぶ？ リムル」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 このカードの下にマーカーがあるなら、他のあなたの《魔大陸》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「どっちを選ぶ？ リムル」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_055.png",
+	"tags": null,
+	"expansionId": 283
 }

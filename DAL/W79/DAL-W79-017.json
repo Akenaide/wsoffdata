@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何が目的？",
+	"trigger": null,
 	"ability": [
 		"【起】［手札の「休養の提案 神無月」を1枚控え室に置き、このカードを【レスト】する］ 次の2つの効果のうちあなたが選んだ1つを行う。『あなたは相手の前列のキャラを1枚選び、手札に戻す。』『あなたは自分の控え室の、《デート》か《精霊》のキャラを1枚選び、手札に戻す。』"
 	],
@@ -24,8 +24,9 @@
 		"デート",
 		"ラタトスク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W79-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_017.png",
+	"tags": null,
+	"expansionId": 302
 }

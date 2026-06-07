@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ひよこだって頑張れば飛べる･･･！",
+	"trigger": null,
 	"ability": [
 		"【自】［(2) あなたの山札の上から1枚をクロック置場に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《動物》のキャラを1枚と、このカードを選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"勇者",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_16.png",
+	"tags": null,
+	"expansionId": 71
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「みんなでメンテナンス」があり、他のあなたの《魔法》のキャラが2枚以上なら、あなたのキャラすべてに、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_081.png",
+	"tags": null,
+	"expansionId": 94
 }

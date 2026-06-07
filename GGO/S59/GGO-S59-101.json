@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "す――、すごいです！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《SHINC》か《スポーツ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 他のあなたの、《SHINC》か《スポーツ》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"ネット",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/S59-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_101.png",
+	"tags": null,
+	"expansionId": 245
 }

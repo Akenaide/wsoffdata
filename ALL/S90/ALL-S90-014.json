@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "グラン・エプレ、出撃よ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは手札に戻せず、思い出にできない。』",
-		"【自】 共鳴 ［手札の「“グラン・エプレの必勝戦術”高嶺」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは手札に戻せず、思い出にできない。』\u003cbr\u003e【自】 共鳴 ［手札の「“グラン・エプレの必勝戦術”高嶺」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"リリィ",
-		"グラン",
-		"エプレ"
+		"グラン・エプレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_014.png",
+	"tags": null,
+	"expansionId": 371
 }

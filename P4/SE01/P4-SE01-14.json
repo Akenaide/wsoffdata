@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どいつもこいつも、10年早ぇ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
@@ -24,8 +24,9 @@
 		"不良",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE01-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se01/p4_se01_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se01/p4_se01_14.png",
+	"tags": null,
+	"expansionId": 22
 }

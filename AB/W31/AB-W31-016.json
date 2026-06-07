@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まるで悪役ね",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《生徒会》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_016.png",
+	"tags": null,
+	"expansionId": 119
 }

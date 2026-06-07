@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほむ",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"植物",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_016.png",
+	"tags": null,
+	"expansionId": 65
 }

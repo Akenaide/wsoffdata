@@ -1,6 +1,6 @@
 {
 	"set": "MK",
-	"setName": "ミルキィホームズ ファンファンパーリーパック♪",
+	"setName": " ミルキィホームズ ファンファンパーリーパック♪",
 	"side": "S",
 	"release": "J01",
 	"id": "013J",
@@ -8,26 +8,26 @@
 	"jpName": "大興奮！",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あはははは、あはははは、あはははは",
 	"trigger": [
 		"SHOT",
 		"RETURN",
 		"COMEBACK"
 	],
 	"ability": [
-		"【永】 あなたは『あはははは。あはははは。』と言い続ける。（宣言はしっかりしましょう！）",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【永】 あなたは『あはははは。あはははは。』と言い続ける。（宣言はしっかりしましょう！）\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/SJ01-013J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_013.png",
+	"tags": null,
+	"expansionId": 195
 }

@@ -15,17 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】［手札の「“30年とその先も”フォーキー」を1枚控え室に置く］ あなたのトリガーアイコンが[COMEBACK]のCXがトリガーした時、他のあなたの《PIXAR》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のイベントを1枚選び、手札に戻す。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[COMEBACK]のCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】［手札の「“30年とその先も”フォーキー」を1枚控え室に置く］ あなたのトリガーアイコンが[[salvage.gif]]のCXがトリガーした時、他のあなたの《PIXAR》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のイベントを1枚選び、手札に戻す。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[[salvage.gif]]のCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S122-070S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s122/pxr_s122_070s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s122/pxr_s122_070s.png",
+	"tags": null,
+	"expansionId": 523
 }

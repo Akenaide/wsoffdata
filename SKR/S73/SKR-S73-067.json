@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この、わからずやがあぁぁぁっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の赤のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"華撃団",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SKR/S73-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_067.png",
+	"tags": null,
+	"expansionId": 293
 }

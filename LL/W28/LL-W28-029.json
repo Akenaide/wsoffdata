@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この服すっごいアイドルっぽい！\u003cbr /\u003eってスクールアイドルなんだけど…",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W28-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w28/ll_w28_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w28/ll_w28_029.png",
+	"tags": null,
+	"expansionId": 110
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《人間》か《ドラゴン》のキャラか「無限の食欲」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ドラゴン",
 		"調和勢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMD/W96-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmd_w96/kmd_w96_085.png",
+	"tags": null,
+	"expansionId": 386
 }

@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いただきまーす♪",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室の、クライマックス以外のカードを5枚まで選び、山札に戻す。その山札をシャッフルする。5枚戻したなら、あなたは自分のクロックを2枚まで選び、控え室に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DG/S02-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_094.png",
+	"tags": null,
+	"expansionId": 5
 }

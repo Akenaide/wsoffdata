@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの、《Mirrorverse》か《Disney》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』（CXのレベルは0として扱う）"
+		"【自】 他のあなたの、《Mirrorverse》か《Disney》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』（CXのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"Mirrorverse",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRd/S111-083S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_S111_083sr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrd_s111_083s.png",
+	"tags": null,
+	"expansionId": 471
 }

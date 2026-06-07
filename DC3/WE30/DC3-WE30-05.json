@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――――ちゅっ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《新聞》か《愛》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの、《新聞》か《愛》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE30-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we30/dc3_we30_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we30/dc3_we30_05.png",
+	"tags": null,
+	"expansionId": 222
 }

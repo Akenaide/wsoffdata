@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キスの練習です",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、次の行動を2回行う。『あなたは自分の山札を上から1枚見て、山札の上か下に置く。』",
-		"【自】 このカードがアタックした時、他のあなたの後列のキャラがいないなら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、あなたはそのキャラを後列の好きな枠に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、次の行動を2回行う。『あなたは自分の山札を上から1枚見て、山札の上か下に置く。』\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの後列のキャラがいないなら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、あなたはそのキャラを後列の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S120-091S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_091s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s120/ft_s120_091s.png",
+	"tags": null,
+	"expansionId": 503
 }

@@ -15,18 +15,18 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《かのかり》のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《かのかり》のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"ダイアモンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-049SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_049ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_049ssp.png",
+	"tags": null,
+	"expansionId": 322
 }

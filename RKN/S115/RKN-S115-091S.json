@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《明治剣客浪漫譚》のキャラがいるなら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《明治剣客浪漫譚》のキャラがいるなら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"密偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-091S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_091s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_091s.png",
+	"tags": null,
+	"expansionId": 479
 }

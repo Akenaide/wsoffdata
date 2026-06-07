@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "島のみんなに、認めて貰えたことが何よりうれしい",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500し、ターンの終わりに、そのキャラを控え室に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500し、ターンの終わりに、そのキャラを控え室に置く。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_103.png",
+	"tags": null,
+	"expansionId": 311
 }

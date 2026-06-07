@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はやて「ちゃんとベッドで寝なあかんよ…カゼひくから」\u003cbr /\u003eシグナム「ああ…す、すみません」",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_018.png",
+	"tags": null,
+	"expansionId": 94
 }

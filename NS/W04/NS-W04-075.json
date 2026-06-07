@@ -8,14 +8,14 @@
 	"jpName": "ママと約束ね",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ヴィヴィオ「……ぜったい……？」\u003cbr /\u003eなのは「ぜったいにぜったい」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラを1枚選び、そのターン中、ソウルを＋3。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NS/W04-075",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_075.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_075.png",
+	"tags": null,
+	"expansionId": 6
 }

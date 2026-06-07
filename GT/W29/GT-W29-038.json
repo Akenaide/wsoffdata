@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あかり「るなちゃんが自分の気持ちを整理するまで。\u003cbr /\u003eそれまで……一緒にここに居る……」",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの「急接近!? あかり＆るな」を2枚【レスト】する］ あなたは自分の山札の上から1枚を、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"タロット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_038.png",
+	"tags": null,
+	"expansionId": 106
 }

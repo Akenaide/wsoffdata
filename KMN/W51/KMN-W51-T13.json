@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いっこくも早く捕獲するのだ……！",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"フレンズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMN/W51-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmn_w51/kmn_w51_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmn_w51/kmn_w51_t13.png",
+	"tags": null,
+	"expansionId": 204
 }

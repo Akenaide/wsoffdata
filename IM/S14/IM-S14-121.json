@@ -8,21 +8,22 @@
 	"jpName": "Little Match Girl",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "2",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "春香・雪歩・貴音「私達の歌、聞いてください！」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札からクライマックス置場に置かれた時、あなたは1枚引き、自分のキャラすべてに、そのターン中、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S14-121",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_121.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_121.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああ……どうも、こんにちは",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_034.png",
+	"tags": null,
+	"expansionId": 6
 }

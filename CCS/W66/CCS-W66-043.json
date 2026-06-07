@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "秋穂「利佳さんも、本がお好きなんですか？」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《クリアカード編》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、《本》を与える。"
+		"【永】 他のあなたの《クリアカード編》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、《本》を与える。"
 	],
 	"specialAttrib": [
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_043.png",
+	"tags": null,
+	"expansionId": 274
 }

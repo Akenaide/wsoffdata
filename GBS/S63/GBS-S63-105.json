@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Guild Girl",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《秩序》なら、このカードのパワーを＋2000。",
-		"【起】［(1)］ そのターン中、このカードのパワーを＋2000。"
+		"【永】 あなたのキャラすべてが《秩序》なら、このカードのパワーを＋2000。\u003cbr\u003e【起】［(1)］ そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_105.png",
+	"tags": null,
+	"expansionId": 260
 }

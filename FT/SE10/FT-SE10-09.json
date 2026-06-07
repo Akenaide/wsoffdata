@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ナツ、ガジル、準備はいい？\u003cbr /\u003eバトル・オブ・フェアリーテイル参戦だよ",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは自分の《魔法》のキャラを１枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_09.png",
+	"tags": null,
+	"expansionId": 68
 }

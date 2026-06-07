@@ -1,6 +1,6 @@
 {
 	"set": "MK",
-	"setName": "ミルキィホームズ ファンファンパーリーパック♪",
+	"setName": " ミルキィホームズ ファンファンパーリーパック♪",
 	"side": "S",
 	"release": "J01",
 	"id": "020J",
@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【起】 集中 ［ミルキィホームズ（@milkyholmes）のツイートにいいねをし、このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。』",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【起】 集中 ［ミルキィホームズ（@milkyholmes）のツイートにいいねをし、このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。』\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"警察",
 		"ヘッドフォン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SJ01-020J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_020.png",
+	"tags": null,
+	"expansionId": 195
 }

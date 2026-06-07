@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "確かに忘れた。お前のことなんか。\u003cbr\u003eだけど思い出した",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《怪異》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場のカードと控え室の「『やって後悔しない』神原駿河」を1枚ずつ選び、入れ替えてよい。"
+		"【永】 他のあなたの《怪異》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場のカードと控え室の「『やって後悔しない』神原駿河」を1枚ずつ選び、入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"怪異",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_040.png",
+	"tags": null,
+	"expansionId": 159
 }

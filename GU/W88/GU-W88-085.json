@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ご予約のお客様、こちらへどうぞ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、青か《BLOOM》のキャラすべてに、パワーを＋500。",
-		"【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[GATE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+		"【永】 他のあなたの、青か《BLOOM》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[[gate.gif]]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"バレエ",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_085.png",
+	"tags": null,
+	"expansionId": 344
 }

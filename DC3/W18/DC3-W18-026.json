@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうです～♪　美味しいですか～？\u003cbr /\u003e兄さんのお口に合うといいんだけど～",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から1枚をめくり、控え室に置く。そのカードが《魔法》のキャラなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"お弁当"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_026.png",
+	"tags": null,
+	"expansionId": 78
 }

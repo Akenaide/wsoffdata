@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "き、着ません！",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"思春期",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_060.png",
+	"tags": null,
+	"expansionId": 261
 }

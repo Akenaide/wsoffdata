@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しんのすけ「とーちゃんは相変わらず足くさいし」",
+	"trigger": null,
 	"ability": [
 		"相手に5ダメージを与える。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "CS/S28-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_022.png",
+	"tags": null,
+	"expansionId": 114
 }

@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀Ｘ レベル1 ［手札のこのカードを控え室に置く］ Ｘはあなたの《きんいろ》のキャラの枚数×500に等しい。（あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋Ｘ）"
 	],
@@ -24,8 +24,9 @@
 		"きんいろ",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-064S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_064s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_064s.png",
+	"tags": null,
+	"expansionId": 534
 }

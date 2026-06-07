@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私が一番気に入った璃奈ちゃんボードは……これ！！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《音楽》のキャラの枚数×1000に等しい。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《音楽》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W85-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w85/lnj_w85_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w85/lnj_w85_022.png",
+	"tags": null,
+	"expansionId": 338
 }

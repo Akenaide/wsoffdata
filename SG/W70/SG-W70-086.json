@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちっちっちっ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの「余裕の表情 プレラーティ」すべてに、次の能力を与える。『【永】 このカードは【リバース】しない。』",
-		"【自】 このカードがアタックした時、あなたは自分の《錬金術》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
+		"【永】 あなたのターン中、他のあなたの「余裕の表情 プレラーティ」すべてに、次の能力を与える。『【永】 このカードは【リバース】しない。』\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《錬金術》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_086.png",
+	"tags": null,
+	"expansionId": 276
 }

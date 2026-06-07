@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「封印解除」－！\r\n\r\n※ルビ＝レリーズ",
+	"trigger": null,
 	"ability": [
 		"【自】［他のあなたの【スタンド】している《クリアカード編》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_t14.png",
+	"tags": null,
+	"expansionId": 271
 }

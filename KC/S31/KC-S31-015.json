@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私が一番？やっぱり？　そうよね！　だって速いもん！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《艦娘》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《艦娘》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_015.png",
+	"tags": null,
+	"expansionId": 130
 }

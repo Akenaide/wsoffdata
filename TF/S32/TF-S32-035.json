@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "了解！",
+	"trigger": null,
 	"ability": [
 		"【起】［手札の《改造》のキャラを1枚控え室に置く］ あなたは自分の山札の上から1枚を公開する。そのカードが《改造》のキャラなら、そのターン中、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"改造",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TF/S32-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_035.png",
+	"tags": null,
+	"expansionId": 135
 }

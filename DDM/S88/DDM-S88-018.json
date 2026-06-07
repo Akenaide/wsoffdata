@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "【響く十二時のお告げ】",
+	"trigger": null,
 	"ability": [
 		"【自】［他のあなたの舞台のキャラを1枚控え室に置く］ 相手のターン中、バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ファミリア",
 		"サポーター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDM/S88-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddm_s88/ddm_s88_018.png",
+	"tags": null,
+	"expansionId": 367
 }

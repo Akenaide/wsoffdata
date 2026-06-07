@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの、《Mirrorverse》か《Disney》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。"
 	],
@@ -24,8 +24,9 @@
 		"Mirrorverse",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRd/S111-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_S111_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrd_s111_082.png",
+	"tags": null,
+	"expansionId": 471
 }

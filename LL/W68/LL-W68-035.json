@@ -15,17 +15,17 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたに伝えたいことがたくさんあるの",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「優しく見つめて」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「優しく見つめて」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_035.png",
+	"tags": null,
+	"expansionId": 272
 }

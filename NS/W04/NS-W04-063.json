@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "セインさん、到着ッ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(2) このカードを手札に戻す］ 他のあなたのバトルしているキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
 	],
 	"specialAttrib": [
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_063.png",
+	"tags": null,
+	"expansionId": 6
 }

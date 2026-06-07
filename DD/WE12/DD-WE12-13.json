@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "レオ「ガレットの宝剣、魔戦斧グランヴェールと、\u003cbr /\u003e神剣エクスマキナ」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DD/WE12-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_13.png",
+	"tags": null,
+	"expansionId": 71
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アインハルトです。言いにくかったら『ハルにゃん』…とでも",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《覇王流》のキャラすべてに、パワーを＋500。",
-		"【永】 他のあなたの前列の中央の枠のキャラに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
+		"【永】 他のあなたの《覇王流》のキャラすべてに、パワーを＋500。\u003cbr\u003e【永】 他のあなたの前列の中央の枠のキャラに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
 	],
 	"specialAttrib": [
 		"格闘",
 		"覇王流"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_020.png",
+	"tags": null,
+	"expansionId": 200
 }

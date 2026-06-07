@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "テレポートって初めて見たの",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《超能力》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W13-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w13/rg_w13_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w13/rg_w13_029.png",
+	"tags": null,
+	"expansionId": 54
 }

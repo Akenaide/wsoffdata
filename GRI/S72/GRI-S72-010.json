@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰って、どういうこと？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"ツンデレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_010.png",
+	"tags": null,
+	"expansionId": 285
 }

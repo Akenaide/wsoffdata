@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「未来へ一緒に 湊あくあ」すべてに、パワーを＋1500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
-		"【自】［手札の《ホロライブ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「未来へ一緒に 湊あくあ」か「#シオンの書物 紫咲シオン」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの「未来へ一緒に 湊あくあ」すべてに、パワーを＋1500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\u003cbr\u003e【自】［手札の《ホロライブ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「未来へ一緒に 湊あくあ」か「#シオンの書物 紫咲シオン」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"2期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE44-40SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we44/hol_we44_40sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we44/hol_we44_40sp.png",
+	"tags": null,
+	"expansionId": 464
 }

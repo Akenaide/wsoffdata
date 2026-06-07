@@ -15,18 +15,18 @@
 	"rarity": "SPYR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋4000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「すべてはよりよき世界のために」があるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+		"【永】 あなたのターン中、このカードのパワーを＋4000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「すべてはよりよき世界のために」があるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"バーリント市",
 		"WISE"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SPY/S106-084SPY",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_084spy.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/spy_s106/spy_s106_084spy.png",
+	"tags": null,
+	"expansionId": 433
 }

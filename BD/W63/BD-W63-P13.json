@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"SILENT SIREN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-P13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_p13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_p13.png",
+	"tags": null,
+	"expansionId": 12
 }

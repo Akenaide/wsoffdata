@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ねぇ、兄さん、和菓子ちょうだい？",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、あなたのキャラすべてが《Anniversary》か《魔法》なら、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《魔法》のキャラがいないなら、このカードを控え室に置く。"
+		"【永】 相手のターン中、あなたのキャラすべてが《Anniversary》か《魔法》なら、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《魔法》のキャラがいないなら、このカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W128-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w128/dc_w128_065.png",
+	"tags": null,
+	"expansionId": 544
 }

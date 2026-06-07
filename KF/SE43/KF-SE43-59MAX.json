@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "MAX",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの控え室にカード名に「アテナ」か「拳崇」か「元斎」を含むキャラがないなら、手札からプレイできない。",
-		"あなたは自分のクロックの上から2枚までを、控え室に置く。このカードを思い出にする。"
+		"このカードは、あなたの控え室にカード名に「アテナ」か「拳崇」か「元斎」を含むキャラがないなら、手札からプレイできない。\u003cbr\u003eあなたは自分のクロックの上から2枚までを、控え室に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KF/SE43-59MAX",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_59max.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_se43/kf_se43_59max.png",
+	"tags": null,
+	"expansionId": 441
 }

@@ -15,17 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたの心を頂く！",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたの《怪盗》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】［あなたの前列の【スタンド】しているキャラを1枚とこのカードを入れ替える］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 相手のターン中、他のあなたの《怪盗》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】［あなたの前列の【スタンド】しているキャラを1枚とこのカードを入れ替える］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"怪盗"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_105.png",
+	"tags": null,
+	"expansionId": 180
 }

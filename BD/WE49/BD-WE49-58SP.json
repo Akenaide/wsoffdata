@@ -15,7 +15,7 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE49-58SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_58sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we49/bd_we49_58sp.png",
+	"tags": null,
+	"expansionId": 526
 }

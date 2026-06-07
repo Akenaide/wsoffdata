@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いえ、まだまだです",
+	"trigger": null,
 	"ability": [
-		"【自】［手札を1枚控え室に置く］ 他のあなたの「踏み出したステップ 上原 歩夢」がアタックした時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のトリガーアイコンが[STANDBY]のクライマックスを1枚選び、山札に戻し、その山札をシャッフルする。"
+		"【自】［手札を1枚控え室に置く］ 他のあなたの「踏み出したステップ 上原 歩夢」がアタックした時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のトリガーアイコンが[[standby.gif]]のクライマックスを1枚選び、山札に戻し、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W85-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w85/lnj_w85_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w85/lnj_w85_021.png",
+	"tags": null,
+	"expansionId": 338
 }

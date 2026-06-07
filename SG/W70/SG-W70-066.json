@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "切歌「分かりやすさが爆発してたデスッ！」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_066.png",
+	"tags": null,
+	"expansionId": 276
 }

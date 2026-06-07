@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】【CXコンボ】 あなたのクライマックス置場に「大好きを叫ぶ」があるなら、すべての領域にあるこのカードはトリガーアイコンに[STANDBY]を得る。",
-		"【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋4000。"
+		"【永】【CXコンボ】 あなたのクライマックス置場に「大好きを叫ぶ」があるなら、すべての領域にあるこのカードはトリガーアイコンに[[standby.gif]]を得る。\u003cbr\u003e【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W97-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w97/lnj_w97_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w97/lnj_w97_039.png",
+	"tags": null,
+	"expansionId": 390
 }

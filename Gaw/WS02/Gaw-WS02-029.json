@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《電撃文庫》か《アバター》か《ネット》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《電撃文庫》か《アバター》か《ネット》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"ネット",
 		"バイク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gaw/WS02-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gaw_ws02_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gaw_ws02_029.png",
+	"tags": null,
+	"expansionId": 439
 }

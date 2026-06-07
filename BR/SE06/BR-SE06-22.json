@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《スポーツ》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BR/SE06-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/br_se06/br_se06_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/br_se06/br_se06_22.png",
+	"tags": null,
+	"expansionId": 51
 }

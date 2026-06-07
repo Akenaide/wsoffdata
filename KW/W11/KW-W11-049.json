@@ -8,24 +8,25 @@
 	"jpName": "ロード・トゥ・マイルハイ",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "クド「わ、わふーっ！」",
 	"trigger": [
 		"POOL"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[POOL]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
+		"（[[stock.gif]]：このカードがトリガーした時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KW/W11-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kw_w11/kw_w11_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kw_w11/kw_w11_049.png",
+	"tags": null,
+	"expansionId": 46
 }

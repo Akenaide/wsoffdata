@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《探偵》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-T14SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_t14sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_t14sp.png",
+	"tags": null,
+	"expansionId": 138
 }

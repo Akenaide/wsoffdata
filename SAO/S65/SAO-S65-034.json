@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あの……あたし、じゃない私は公理教会修道女見習いのフィゼルです。んでこっちが、同じく修道女見習いの……",
+	"trigger": null,
 	"ability": [
-		"【自】［手札の《フラクトライト》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“修道女見習い”リネル・シンセシス・トゥエニエイト」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【自】［手札の《フラクトライト》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“修道女見習い”リネル・シンセシス・トゥエニエイト」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"整合騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S65-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_034.png",
+	"tags": null,
+	"expansionId": 267
 }

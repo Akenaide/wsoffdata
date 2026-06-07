@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ごめんなさいね…ちょっとだけ、じっとしてて",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたの、《魔法》か《本》のキャラすべてに、パワーを＋500。",
-		"【起】［(1)］ あなたは自分の、《魔法》か《本》のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』"
+		"【永】 相手のターン中、他のあなたの、《魔法》か《本》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1)］ あなたは自分の、《魔法》か《本》のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W32-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w32/n2_w32_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w32/n2_w32_079.png",
+	"tags": null,
+	"expansionId": 127
 }

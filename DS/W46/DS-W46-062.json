@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はわぁ……これは何だかとっても幸せです……",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-		"【自】 あなたのクライマックス置場に「喪われた楽園の管理者」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがコスト0以下のキャラなら、あなたはそのキャラを舞台の好きな枠に置いてよい。（そうしないなら元に戻す）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\u003cbr\u003e【自】 あなたのクライマックス置場に「喪われた楽園の管理者」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがコスト0以下のキャラなら、あなたはそのキャラを舞台の好きな枠に置いてよい。（そうしないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"風南島",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W46-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w46/ds_w46_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w46/ds_w46_062.png",
+	"tags": null,
+	"expansionId": 178
 }

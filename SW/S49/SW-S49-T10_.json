@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これでうまくいく",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「“捕らわれのパイロット”ポー」すべてに、パワーを＋1000。",
 		"【自】 絆／「“捕らわれのパイロット”ポー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“捕らわれのパイロット”ポー」を1枚選び、手札に戻す）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-T10_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_t10_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_t10_.png",
+	"tags": null,
+	"expansionId": 400
 }

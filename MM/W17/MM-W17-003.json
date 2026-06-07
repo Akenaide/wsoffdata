@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "僕と契約して魔法少女になってよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。",
 		"【永】 あなたが自分のキャラの『チェンジ』のコストを払う時、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。",
@@ -26,8 +26,9 @@
 		"宇宙人",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_003.png",
+	"tags": null,
+	"expansionId": 74
 }

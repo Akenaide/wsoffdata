@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "3",
 	"cost": "6",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに1枚までしか入れることができない。あなたは自分の手札を公開する。それらのカードに「“スイーツ男子”おそ松」と「“スイーツ男子”カラ松」と「“スイーツ男子”チョロ松」と「“スイーツ男子”一松」と「“スイーツ男子”十四松」と「“スイーツ男子”トド松」があるなら、あなたはこのゲームに勝利する。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【永】 このカードと同じカード名のカードは、デッキに1枚までしか入れることができない。あなたは自分の手札を公開する。それらのカードに「“スイーツ男子”おそ松」と「“スイーツ男子”カラ松」と「“スイーツ男子”チョロ松」と「“スイーツ男子”一松」と「“スイーツ男子”十四松」と「“スイーツ男子”トド松」があるなら、あなたはこのゲームに勝利する。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "OMS/S41-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_108.png",
+	"tags": null,
+	"expansionId": 171
 }

@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "楽しんだもん勝ちでしょ！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《ノッカーアップ》のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《ノッカーアップ》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"ノッカーアップ",
 		"渋谷"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DCT/S86-060S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dct_s86/dct_s86_060s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dct_s86/dct_s86_060s.png",
+	"tags": null,
+	"expansionId": 387
 }

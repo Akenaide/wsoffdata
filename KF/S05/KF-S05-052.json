@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "楽しかったです\u003cbr /\u003eハイ！！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
 		"【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「挑発するシェルミー」を1枚選び、このカードがいた枠に置く。"
@@ -25,8 +25,9 @@
 		"オロチ",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_052.png",
+	"tags": null,
+	"expansionId": 27
 }

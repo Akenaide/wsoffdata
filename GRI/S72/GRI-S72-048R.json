@@ -8,14 +8,14 @@
 	"jpName": "縋る願い",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "一姫「いつか必ず、私が貴女を家に帰してあげる…約束するわ…」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GRI/S72-048R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_048r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_048r.png",
+	"tags": null,
+	"expansionId": 285
 }

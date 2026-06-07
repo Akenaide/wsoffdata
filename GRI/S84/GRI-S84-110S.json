@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-110S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_110s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_110s.png",
+	"tags": null,
+	"expansionId": 347
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お、魔女様セクシーですなあー",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
@@ -25,8 +25,9 @@
 		"新聞",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W20-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w20/rw_w20_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w20/rw_w20_007.png",
+	"tags": null,
+	"expansionId": 84
 }

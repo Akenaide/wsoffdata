@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――これなら、きっと練習すれば\u003cbr /\u003eどうにかなりそうな気がする",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラすべてに、レベルを＋1。",
 		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W23-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w23/dc_w23_040.png",
+	"tags": null,
+	"expansionId": 90
 }

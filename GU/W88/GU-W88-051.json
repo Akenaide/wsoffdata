@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すごいな～じゃあ手を出せ",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「スタンプ」を含むキャラを1枚選び、そのキャラの下にマーカーがないなら、自分の山札を上から1枚見て、そのキャラの下にマーカーとして表向きに置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「スタンプ」を含むキャラを1枚選び、そのキャラの下にマーカーがないなら、自分の山札を上から1枚見て、そのキャラの下にマーカーとして表向きに置く。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_051.png",
+	"tags": null,
+	"expansionId": 344
 }

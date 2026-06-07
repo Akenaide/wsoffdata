@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こなた「委員長とかって一度やるとキャライメージが固定されちゃって続くよね」\u003cbr /\u003eみゆき「そ　そうですね……　嫌ではないのでいいのですけど……」",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［このカードを控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"メガネ",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_088.png",
+	"tags": null,
+	"expansionId": 16
 }

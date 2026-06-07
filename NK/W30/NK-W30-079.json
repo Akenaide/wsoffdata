@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まぁ、何がどうあれ、楽様と結ばれるのは私ですよ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(3)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置く。",
 		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -25,8 +25,9 @@
 		"警察",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/W30-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_w30/nk_w30_079.png",
+	"tags": null,
+	"expansionId": 122
 }

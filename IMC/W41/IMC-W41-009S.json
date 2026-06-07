@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あんたの仲間が頑張ってるんだから、大丈夫！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「お姉ちゃん大好き　莉嘉」がいるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ギャル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-009S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_009s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_009s.png",
+	"tags": null,
+	"expansionId": 151
 }

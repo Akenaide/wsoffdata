@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「闇夜の敵襲 キャスター」がいるなら、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S77-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s77/fs_s77_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s77/fs_s77_095.png",
+	"tags": null,
+	"expansionId": 314
 }

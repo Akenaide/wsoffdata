@@ -15,8 +15,8 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサーさんも一緒にライブ出ましょうよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"髪留め"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-074BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_074bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_074bnp.png",
+	"tags": null,
+	"expansionId": 251
 }

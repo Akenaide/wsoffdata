@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あははーっ、なんだか恥ずかしいですう",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「魔物を討つ者 舞」を1枚選び、舞台の好きな枠に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「魔物を討つ者 舞」を1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"冬",
 		"お弁当"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kka/W102-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/kka_w102_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/kka_w102_024.png",
+	"tags": null,
+	"expansionId": 406
 }

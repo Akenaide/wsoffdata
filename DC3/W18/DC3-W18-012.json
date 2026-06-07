@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "イアン「は、話にならん！　瑠璃香、いくぞ！」\u003cbr /\u003e瑠璃香「は～い、イアン様♪」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_012.png",
+	"tags": null,
+	"expansionId": 78
 }

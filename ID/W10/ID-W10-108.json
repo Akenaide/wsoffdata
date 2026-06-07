@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の抱えている事情、ホントに知りたい？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「当麻」を含むキャラがいるなら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ID/W10-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/id_w10/id_w10_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/id_w10/id_w10_108.png",
+	"tags": null,
+	"expansionId": 12
 }

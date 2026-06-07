@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「投げかけた言葉」があり、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の山札を上から2枚まで見て、《音楽》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"25時、ナイトコードで。"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S109-098S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_098s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s109/pjs_s109_098s.png",
+	"tags": null,
+	"expansionId": 455
 }

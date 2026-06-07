@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "またサカキ大尉か！",
+	"trigger": null,
 	"ability": [
 		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分の《アラトラム号》のキャラを1枚選び、手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"アラトラム号",
 		"人類"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GZL/SE33-40",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gzl_se33/gzl_se33_40.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gzl_se33/gzl_se33_40.png",
+	"tags": null,
+	"expansionId": 244
 }

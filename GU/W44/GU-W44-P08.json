@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい、お姉ちゃんと一緒に♪",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-P08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_p08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_p08.png",
+	"tags": null,
+	"expansionId": 12
 }

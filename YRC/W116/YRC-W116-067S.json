@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《ゆるキャン△》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「桜を見上げて」があるなら、あなたはコストを払ってよい。そうしたら、次の行動を2回行う。『あなたは自分の山札を上から3枚まで見て、《ゆるキャン△》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』"
+		"【永】 あなたのターン中、他のあなたの《ゆるキャン△》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「桜を見上げて」があるなら、あなたはコストを払ってよい。そうしたら、次の行動を2回行う。『あなたは自分の山札を上から3枚まで見て、《ゆるキャン△》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』"
 	],
 	"specialAttrib": [
 		"ゆるキャン△",
 		"バイク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YRC/W116-067S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_067s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yrc_w116/yrc_w116_067s.png",
+	"tags": null,
+	"expansionId": 490
 }

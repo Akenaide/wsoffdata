@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《スニーカー文庫》か《ロードス島》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"スニーカー文庫",
 		"ロードス島"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sls/W62-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sls_w62/sls_w62_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sls_w62/sls_w62_t05.png",
+	"tags": null,
+	"expansionId": 257
 }

@@ -1,6 +1,6 @@
 {
 	"set": "ISC",
-	"setName": "[TD+]アイドルマスター シャイニーカラーズ 283プロ イルミネーションスターズ",
+	"setName": "[TD+]アイドルマスター シャイニーカラーズ 283プロ イルミネーションスターズ  ",
 	"side": "S",
 	"release": "81",
 	"id": "T008",
@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサーがいてくれるから、\u003cbr\u003eどこまででも進めるよ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「283プロのヒナ 風野灯織」すべてに、パワーを＋1000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+		"【永】 他のあなたの「283プロのヒナ 風野灯織」すべてに、パワーを＋1000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"イルミネーションスターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-T008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_t008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_t008.png",
+	"tags": null,
+	"expansionId": 326
 }

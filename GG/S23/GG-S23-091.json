@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こいつら何者だ？",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを思い出にする。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_091.png",
+	"tags": null,
+	"expansionId": 101
 }

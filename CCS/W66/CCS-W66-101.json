@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ケロちゃん「どや、捕まったか？」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、このカードをストック置場に置く。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_101.png",
+	"tags": null,
+	"expansionId": 274
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おしゃべり虫は退治だ",
+	"trigger": null,
 	"ability": [
 		"【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは相手のレベル0以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_060.png",
+	"tags": null,
+	"expansionId": 238
 }

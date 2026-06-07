@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "手が縛られたまま走るだけならまだしも、跳んでパンを咥えなければならないとはな……",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】 あなたのCXフェイズの始めに、あなたは相手の山札を上から1枚見てよい。（見たカードは元に戻す）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】 あなたのCXフェイズの始めに、あなたは相手の山札を上から1枚見てよい。（見たカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"艦船",
 		"鉄血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-076S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_076s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_076s.png",
+	"tags": null,
+	"expansionId": 499
 }

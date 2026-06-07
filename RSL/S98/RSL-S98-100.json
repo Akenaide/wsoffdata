@@ -8,26 +8,26 @@
 	"jpName": "再びこの舞台で会いましょう",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ひかり「怖かったんだ……『ファン』になってしまうのが……。\u003cbr\u003eあなたに目を奪われた自分が許せなかったから……逃げた」",
 	"trigger": [
 		"DRAW"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[draw.gif]]：このカードがトリガーした時、あなたは1枚引いてよい）"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S98-100",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_100.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_100.png",
+	"tags": null,
+	"expansionId": 402
 }

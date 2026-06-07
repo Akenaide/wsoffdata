@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ラナー『殺す。こいつも殺す』",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「才なき者の抗い クライム」すべてに、パワーを＋1500し、次の3つの能力を与える。『【永】 このカードは相手の効果に選ばれず、相手のキャラの【自】の効果によって【リバース】されない。』『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"人間種",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_089.png",
+	"tags": null,
+	"expansionId": 254
 }

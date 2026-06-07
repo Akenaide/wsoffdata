@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたのカード名に「千束」を含むキャラがいないなら、手札からプレイできない。次の行動を4回行う。『あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』",
-		"このカードを思い出にする。"
+		"【カウンター】 このカードは、あなたのカード名に「千束」を含むキャラがいないなら、手札からプレイできない。次の行動を4回行う。『あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』\u003cbr\u003eこのカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LRC/W105-061S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_061s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_w105/lrc_w105_061s.png",
+	"tags": null,
+	"expansionId": 426
 }

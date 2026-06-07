@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "毎度毎度のことではあるんだけど…なんでここまで本的にやるかなぁ…\u003cbr\u003eこれってその辺の下手なオバケ屋敷より、よっぽど完成度高いんじゃないの…？",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの黄のキャラの枚数×1000に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GF/W33-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_045.png",
+	"tags": null,
+	"expansionId": 131
 }

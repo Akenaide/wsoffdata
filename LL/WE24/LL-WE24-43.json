@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのストックが6枚以上なら、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、クライマックス置場に「Hello,星を数えて」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
+		"【永】 あなたのストックが6枚以上なら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「Hello,星を数えて」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE24-43",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we24/ll_we24_43.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we24/ll_we24_43.png",
+	"tags": null,
+	"expansionId": 158
 }

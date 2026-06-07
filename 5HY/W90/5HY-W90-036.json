@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋3000。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせず、思い出にできない。』"
+		"【永】 あなたのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせず、思い出にできない。』"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"真面目"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W90-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w90/5hy_w90_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w90/5hy_w90_036.png",
+	"tags": null,
+	"expansionId": 348
 }

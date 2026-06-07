@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ミミミン、ミミミン、ウーサミン！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの赤のキャラが3枚以上なら、このカードのパワーを＋2000。",
-		"【永】 このカードの正面のキャラのソウルを－1。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
+		"【永】 他のあなたの赤のキャラが3枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【永】 このカードの正面のキャラのソウルを－1。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ウサミン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_017.png",
+	"tags": null,
+	"expansionId": 167
 }

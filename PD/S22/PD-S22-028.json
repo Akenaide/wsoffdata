@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "君に伝えたいことは　君に届けたいことは\u003cbr /\u003eたくさんの点は線になって　遠く彼方へと響く",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《音楽》のキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_028.png",
+	"tags": null,
+	"expansionId": 93
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《怪異》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_085.png",
+	"tags": null,
+	"expansionId": 60
 }

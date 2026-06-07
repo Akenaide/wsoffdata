@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "錬成！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、「最奥での死闘 ハジメ」と「最奥での死闘 ユエ」すべてに、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"トータス",
 		"クラスメイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_062.png",
+	"tags": null,
+	"expansionId": 414
 }

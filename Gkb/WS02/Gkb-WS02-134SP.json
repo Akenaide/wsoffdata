@@ -15,21 +15,21 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "エルメス「キノ。これからどうするのさ？」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
-		"【自】 あなたのターンの終わりに、あなたは他の自分の、「旅人 キノ」か「Anniversary キノ」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたはこのカードの下のマーカーの、「旅人 キノ」か「Anniversary キノ」を1枚選び、舞台の好きな枠に置く。"
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。\u003cbr\u003e【自】 あなたのターンの終わりに、あなたは他の自分の、「旅人 キノ」か「Anniversary キノ」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたはこのカードの下のマーカーの、「旅人 キノ」か「Anniversary キノ」を1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"旅",
 		"モトラド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gkb/WS02-134SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gkb_ws02_134sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gkb_ws02_134sp.png",
+	"tags": null,
+	"expansionId": 439
 }

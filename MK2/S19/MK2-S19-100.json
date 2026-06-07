@@ -8,24 +8,25 @@
 	"jpName": "コーデリアの筋書き",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "こぉら～そこは止めなさいよぉ～！！",
 	"trigger": [
 		"DRAW"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+		"（[[draw.gif]]：このカードがトリガーした時、あなたは1枚引いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK2/S19-100",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_100.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_100.png",
+	"tags": null,
+	"expansionId": 87
 }

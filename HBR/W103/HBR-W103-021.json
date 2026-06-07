@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…星の光はすべてを見抜くのです",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《セラフ》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《セラフ》のキャラを1枚選び、手札に戻してよい。"
+		"【永】 あなたのターン中、他のあなたの《セラフ》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《セラフ》のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"セラフ",
 		"第31C部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W103-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w103/hbr_w103_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w103/hbr_w103_021.png",
+	"tags": null,
+	"expansionId": 408
 }

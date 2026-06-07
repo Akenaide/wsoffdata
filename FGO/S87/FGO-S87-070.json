@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "070",
@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "千里眼ってやつでな、いろいろと見えるのさ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《カルデア》か《キャメロット》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【永】 他のあなたの、《カルデア》か《キャメロット》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《カルデア》か《キャメロット》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"キャメロット",
 		"英雄"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_070.png",
+	"tags": null,
+	"expansionId": 363
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "少女「届いてる。クイーンの歌声よ！」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラでないなら、そのターン中、このカードは次の能力を得る。『【永】 このカードはアタックできない。』（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_028.png",
+	"tags": null,
+	"expansionId": 61
 }

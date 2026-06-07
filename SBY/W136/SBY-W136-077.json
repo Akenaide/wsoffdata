@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうだったら、なに？ 別に今回は何度も同じ日を繰り返したわけじゃないし",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《思春期》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）",
-		"【自】［手札の《思春期》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《思春期》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）\u003cbr\u003e【自】［手札の《思春期》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"スマホ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_077.png",
+	"tags": null,
+	"expansionId": 547
 }

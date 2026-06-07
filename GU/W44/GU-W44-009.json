@@ -15,19 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はぁぁぁっ！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「私の秘密」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、カード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋2500。"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"特待生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_009.png",
+	"tags": null,
+	"expansionId": 174
 }

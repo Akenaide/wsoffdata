@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "警察が暇ってことは、街が平和だってこと……つまり逆に考えれば、平和のためには怠けた方が良い！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは手札に戻せず、思い出にできない。』"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは手札に戻せず、思い出にできない。』"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"生活安全局"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_063.png",
+	"tags": null,
+	"expansionId": 460
 }

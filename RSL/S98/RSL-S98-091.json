@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "舞台人だと。名も知らぬ悪魔よ",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《レヴュー》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"レヴュー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S98-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_091.png",
+	"tags": null,
+	"expansionId": 402
 }

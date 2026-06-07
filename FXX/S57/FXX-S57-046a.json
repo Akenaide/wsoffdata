@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ココロさんは優しいですね。それに手先だって…",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の手札の「楽園のキス」を1枚選び、控え室に置いてよい。そうしたら、このカードを思い出にする。",
-		"【永】 記憶 思い出置場にこのカードがあるなら、あなたの、《パラサイト》か《フランクス》のキャラすべてに、パワーを＋1000。"
+		"あなたは自分の手札の「楽園のキス」を1枚選び、控え室に置いてよい。そうしたら、このカードを思い出にする。\u003cbr\u003e【永】 記憶 思い出置場にこのカードがあるなら、あなたの、《パラサイト》か《フランクス》のキャラすべてに、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FXX/S57-046a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_046a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_046a.png",
+	"tags": null,
+	"expansionId": 241
 }

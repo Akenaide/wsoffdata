@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《音楽》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_033.png",
+	"tags": null,
+	"expansionId": 93
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私がクイーンを守る…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《コロニー》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"コロニー",
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SK/WE03-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sk_we03/sk_we03_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sk_we03/sk_we03_024.png",
+	"tags": null,
+	"expansionId": 12
 }

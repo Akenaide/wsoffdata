@@ -15,8 +15,8 @@
 	"rarity": "Co",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T32Co",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t32co.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t32co.png",
+	"tags": null,
+	"expansionId": 475
 }

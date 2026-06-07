@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「SECRET」",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《兵団》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"兵団",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S35-060S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s35/aot_s35_060sr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s35/aot_s35_060sr.png",
+	"tags": null,
+	"expansionId": 149
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "って、じろじろ見るなあああ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《新聞》か《演劇》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE20-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we20/dc3_we20_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we20/dc3_we20_23.png",
+	"tags": null,
+	"expansionId": 123
 }

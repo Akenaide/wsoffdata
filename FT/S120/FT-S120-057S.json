@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "仲間と行く。だから絶望なんてしねえよ",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S120-057S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_057s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s120/ft_s120_057s.png",
+	"tags": null,
+	"expansionId": 503
 }

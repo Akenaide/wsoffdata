@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今週のランキングを紹介するどっと！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のクロック置場のキャラを1枚まで選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。",
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S14-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_046.png",
+	"tags": null,
+	"expansionId": 64
 }

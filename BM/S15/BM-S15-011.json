@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "暦ですか。女の子みたいな名前ですね",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(3) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「浮遊霊 八九寺真宵」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_011.png",
+	"tags": null,
+	"expansionId": 60
 }

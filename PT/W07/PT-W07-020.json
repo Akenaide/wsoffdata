@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アイン「ここが照門、ここが照星。照門の谷間から照星を見るようにして狙うの」",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの黄のキャラが2枚以下なら、手札からプレイできない。",
 		"あなたは相手のレベル1以下のキャラを1枚選び、ストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PT/W07-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_020.png",
+	"tags": null,
+	"expansionId": 32
 }

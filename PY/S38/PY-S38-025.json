@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―",
+	"trigger": null,
 	"ability": [
-		"すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。",
-		"あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。\u003cbr/\u003eあなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PY/S38-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_025.png",
+	"tags": null,
+	"expansionId": 160
 }

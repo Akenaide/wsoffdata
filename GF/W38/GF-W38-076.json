@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お礼と言うほどではないけど、ほら、お茶",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《ガール》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「仲良し【芽以＆秋穂】」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ガール》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_076.png",
+	"tags": null,
+	"expansionId": 144
 }

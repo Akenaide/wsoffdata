@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ミライ「おい！　ちょっとまて！！」",
+	"trigger": null,
 	"ability": [
-		"【自】［(1) 手札の、《終末世界》か《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
-		"【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。"
+		"【自】［(1) 手札の、《終末世界》か《音楽》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\u003cbr\u003e【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"終末世界",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VRG/WE52-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vrg_we52/vrg_we52_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vrg_we52/vrg_we52_15.png",
+	"tags": null,
+	"expansionId": 542
 }

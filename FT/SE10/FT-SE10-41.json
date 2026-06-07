@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここは死んでも通さねェ!!!! 行け!!!! エルザの所に!!!!",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"氷"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-41",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_41.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_41.png",
+	"tags": null,
+	"expansionId": 68
 }

@@ -1,6 +1,6 @@
 {
 	"set": "KGL",
-	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"setName": "かぐや様は告らせたい？\u003cs\u003e～天才たちの恋愛頭脳戦～\u003c/s\u003e",
 	"side": "S",
 	"release": "95",
 	"id": "039",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺は今日初めて『音楽』……を理解した気がする",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場に赤のカードがあるなら、このカードのレベルを＋1し、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"秀知院",
 		"会長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S95-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s95/kgl_s95_039.png",
+	"tags": null,
+	"expansionId": 394
 }

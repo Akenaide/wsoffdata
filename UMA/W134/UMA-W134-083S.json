@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札のCXを1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ウマ娘",
 		"シンデレラグレイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W134-083S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_083s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w134/uma_w134_083s.png",
+	"tags": null,
+	"expansionId": 540
 }

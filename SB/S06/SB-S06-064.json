@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さてさて、お手並み拝見と行きますか",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"忍",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_064.png",
+	"tags": null,
+	"expansionId": 28
 }

@@ -15,19 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……って言ってるけど、どうする？　シン",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室のトリガーアイコンが[GATE]のCXを1枚選び、手札に戻してよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室のトリガーアイコンが[[gate.gif]]のCXを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W131-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w131/dal_w131_083.png",
+	"tags": null,
+	"expansionId": 529
 }

@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋3000し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"レヴュー",
 		"バイク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-005S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_005s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_005s.png",
+	"tags": null,
+	"expansionId": 250
 }

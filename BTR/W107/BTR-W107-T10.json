@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "結束バンド……結束バンド？",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BTR/W107-T10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_t10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/btr_w107/btr_w107_t10.png",
+	"tags": null,
+	"expansionId": 443
 }

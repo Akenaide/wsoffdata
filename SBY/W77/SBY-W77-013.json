@@ -15,20 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "僕は…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。",
-		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の「分岐点 梓川 咲太」を1枚まで選んで相手に見せ、このカードの下にマーカーとして表向きに置く。"
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。\u003cbr\u003e【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の「分岐点 梓川 咲太」を1枚まで選んで相手に見せ、このカードの下にマーカーとして表向きに置く。"
 	],
 	"specialAttrib": [
 		"思春期"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_013.png",
+	"tags": null,
+	"expansionId": 290
 }

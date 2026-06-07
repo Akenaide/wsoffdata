@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"炎",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE15-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we15/ss_we15_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we15/ss_we15_34.png",
+	"tags": null,
+	"expansionId": 83
 }

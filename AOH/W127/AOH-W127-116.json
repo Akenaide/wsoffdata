@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《あおぎり高校》のキャラが4枚以上なら、あなたは自分の山札の上から4枚を、控え室に置く。それらのカードに《あおぎり高校》のキャラがないなら、あなたは相手に1ダメージを2回与えてよい。（ダメージキャンセルは発生する）"
 	],
@@ -24,8 +24,9 @@
 		"あおぎり高校",
 		"ラーメン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOH/W127-116",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_116.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aoh_w127/aoh_w127_116.png",
+	"tags": null,
+	"expansionId": 517
 }

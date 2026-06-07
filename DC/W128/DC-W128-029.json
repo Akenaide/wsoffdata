@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だ、だって……\u003cbr\u003eパジャマ姿なんて、恥ずかしいじゃないですか……",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てCXを1枚まで選んで公開し、自分の手札のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W128-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w128/dc_w128_029.png",
+	"tags": null,
+	"expansionId": 544
 }

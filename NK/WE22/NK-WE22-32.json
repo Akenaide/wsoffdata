@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あれ！？美味しい！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《お菓子》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"お菓子",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/WE22-32",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_we22/nk_we22_32.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_we22/nk_we22_32.png",
+	"tags": null,
+	"expansionId": 147
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えーと…？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《Poppin\u0026#39;Party》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+		"【永】 他のあなたの《Poppin'Party》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE35-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we35/bd_we35_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we35/bd_we35_19.png",
+	"tags": null,
+	"expansionId": 335
 }

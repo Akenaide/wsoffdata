@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "踊ろうか？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が4枚以上なら、このカードのパワーを＋1500。",
 		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"魔法",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_30.png",
+	"tags": null,
+	"expansionId": 118
 }

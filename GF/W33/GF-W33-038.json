@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "待っててくれたお礼ね。これ買ってて更に待たせたかも？　あはは",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの黄のキャラすべてに、レベルを＋1し、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+		"【永】 応援 このカードの前のあなたの黄のキャラすべてに、レベルを＋1し、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
 	],
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_038.png",
+	"tags": null,
+	"expansionId": 131
 }

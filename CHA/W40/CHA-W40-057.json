@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ゆさりんこと、黒羽柚咲でっす！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの『チェンジ』を持つキャラすべてに、パワーを＋1000。",
-		"【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ 他のあなたのキャラが控え室から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 他のあなたの『チェンジ』を持つキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ 他のあなたのキャラが控え室から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_057.png",
+	"tags": null,
+	"expansionId": 152
 }

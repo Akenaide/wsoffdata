@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やらねばならぬことがある",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_085.png",
+	"tags": null,
+	"expansionId": 6
 }

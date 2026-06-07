@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「吽」は口を閉じて出す最後の音だよ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、後列の左の枠にこのカードがいて、他のあなたの「“阿形”狛犬 しよ子」がいるなら、他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《カードゲーム》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 あなたのターン中、後列の左の枠にこのカードがいて、他のあなたの「“阿形”狛犬 しよ子」がいるなら、他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《カードゲーム》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"カードゲーム",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CGS/WS01-P06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cgs_ws01/cgs_ws01_p06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cgs_ws01/cgs_ws01_p06.png",
+	"tags": null,
+	"expansionId": 11
 }

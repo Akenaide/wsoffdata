@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "子供じゃないっていうなら、またあの勝負をしてもいいわよ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のカード名に「めぐみん」を含むキャラを1枚とこのカードを選ぶ。あなたはそれらのキャラの中でパワーが1番高いキャラを1枚選び、そのターン中、ソウルを＋1し、パワーが1番低いキャラを1枚選び、そのターン中、ソウルを－1。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_059.png",
+	"tags": null,
+	"expansionId": 214
 }

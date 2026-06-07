@@ -1,6 +1,6 @@
 {
 	"set": "HLL",
-	"setName": "「ひなろじ ～from Luck ＆ Logic～」Vol.1",
+	"setName": " 「ひなろじ ～from Luck ＆ Logic～」Vol.1",
 	"side": "W",
 	"release": "E28",
 	"id": "02",
@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "近くに何かいるっすね！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが《定理者》か《使者》なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「“ゲートアクセス!!トリトミー!”」があるなら、あなたは自分の控え室の、《定理者》か《使者》のキャラか「万博の発明品」を1枚選び、手札に戻してよい。"
+		"【永】 あなたのターン中、あなたのキャラすべてが《定理者》か《使者》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「“ゲートアクセス!!トリトミー!”」があるなら、あなたは自分の控え室の、《定理者》か《使者》のキャラか「万博の発明品」を1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"定理者",
 		"使者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HLL/WE28-02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we28/hll_we28_02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we28/hll_we28_02.png",
+	"tags": null,
+	"expansionId": 210
 }

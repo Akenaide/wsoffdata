@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ビターとスイートどちらがお好き？",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「裸でガールズトーク」があり、他のあなたの《スニーカー文庫》のキャラがいるなら、以下の効果のうちあなたが選んだ1つを行う。『あなたは自分の山札の上から2枚までを、ストック置場に置く。』『あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。』"
 	],
@@ -25,8 +25,9 @@
 		"神",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Snk/W62-008S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/snk_w62/snk_w62_008s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/snk_w62/snk_w62_008s.png",
+	"tags": null,
+	"expansionId": 259
 }

@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "さて、それではそろそろ終わらせましょう",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《魔大陸》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+		"【永】 他のあなたの《魔大陸》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"悪魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_010.png",
+	"tags": null,
+	"expansionId": 283
 }

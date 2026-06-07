@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんな～、準備はできてる～！今から、『いっぱいいっぱい』をいっぱい……うわぁ！？",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードがアタックした時、クライマックス置場に「いっぱいいっぱい」があるなら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引き、相手は1枚引く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_084.png",
+	"tags": null,
+	"expansionId": 29
 }

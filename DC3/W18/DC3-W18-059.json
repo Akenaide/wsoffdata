@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゆず「いつでも遊びにこいよー」\u003cbr /\u003e夕陽「今度は新聞部のみんなも連れてきてね」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"たとえ話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_059.png",
+	"tags": null,
+	"expansionId": 78
 }

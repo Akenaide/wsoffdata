@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふぇっくしゅん!!",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ルン・エルシ・ジュエリア」を1枚選び、手札に戻し、自分の控え室の「“ブルーメタリア”ルン」を1枚選び、このカードがいた枠に【レスト】して置く。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"変身"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_016.png",
+	"tags": null,
+	"expansionId": 150
 }

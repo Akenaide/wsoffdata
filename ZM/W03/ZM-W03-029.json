@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カトレア「…お帰りなさい　小さなルイズ」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「ルイズ」を含むキャラすべてに、パワーを＋500。",
 		"【起】［(1) このカードを【レスト】する］ あなたは自分の《虚無》のキャラを１枚選び、【スタンド】する。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_029.png",
+	"tags": null,
+	"expansionId": 3
 }

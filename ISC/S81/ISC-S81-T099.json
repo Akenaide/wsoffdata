@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "い、いえ！　わたしはよゆーですよ\u003cbr\u003e全然平気です！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 あなたの思い出置場の《音楽》のキャラが2枚以上なら、このカードのパワーを＋3000し、ソウルを＋1。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+		"【永】 記憶 あなたの思い出置場の《音楽》のキャラが2枚以上なら、このカードのパワーを＋3000し、ソウルを＋1。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ノクチル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-T099",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_t099.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_t099.png",
+	"tags": null,
+	"expansionId": 331
 }

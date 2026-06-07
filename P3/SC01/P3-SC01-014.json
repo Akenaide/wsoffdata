@@ -15,20 +15,20 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この間から考えてた。僕のための幸せな話を書きたいって",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたがレベルアップした時、このカードを控え室に置く。",
-		"【自】 このカードが舞台から控え室に置かれた時、相手は自分の手札を1枚選び、控え室に置く。"
+		"【自】 あなたがレベルアップした時、このカードを控え室に置く。\u003cbr\u003e【自】 このカードが舞台から控え室に置かれた時、相手は自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"病気",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_014.png",
+	"tags": null,
+	"expansionId": 340
 }

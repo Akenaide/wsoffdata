@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "まったくもう。ダメね、忍は。私がちゃんとついてないと",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《きんいろ》のキャラが2枚以上なら、このカードのパワーを＋5000。",
-		"【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「カリスマファッションモデル」があり、前列にこのカードがいて、他のあなたの《きんいろ》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+		"【永】 他のあなたの《きんいろ》のキャラが2枚以上なら、このカードのパワーを＋5000。\u003cbr\u003e【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「カリスマファッションモデル」があり、前列にこのカードがいて、他のあなたの《きんいろ》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"モデル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-049S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_049s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_049s.png",
+	"tags": null,
+	"expansionId": 534
 }

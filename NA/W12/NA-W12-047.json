@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すずか『なのはちゃんがいたから、私たち、\u003cbr /\u003e友達になれたんだもんね……』",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NA/W12-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_047.png",
+	"tags": null,
+	"expansionId": 44
 }

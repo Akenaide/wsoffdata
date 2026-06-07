@@ -15,18 +15,18 @@
 	"rarity": "LCR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのレベルを＋1し、パワーを＋2500。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「幼い日の記憶」があり、他のあなたの、《魔法》か《武器》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、選んだキャラのレベルが3以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのレベルを＋1し、パワーを＋2500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「幼い日の記憶」があり、他のあなたの、《魔法》か《武器》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、選んだキャラのレベルが3以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NTA/WE48-09LCR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_09lcr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nta_we48/nta_we48_09lcr.png",
+	"tags": null,
+	"expansionId": 518
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はるちん、ファイナルレインボートルネードッ！！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《双子》のキャラが2枚以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"ビー玉",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-P09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_p09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_p09.png",
+	"tags": null,
+	"expansionId": 12
 }

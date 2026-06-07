@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……私の手、…昨夜からおかしいんだ…",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたのカード名に「ルチア」を含むキャラがいないなら、手札からプレイできない。",
 		"相手のキャラすべてに、そのターン中、パワーを－1500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RW/W15-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_046.png",
+	"tags": null,
+	"expansionId": 65
 }

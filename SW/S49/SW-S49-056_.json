@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "暗黒面に身を委ねろ",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ジェダイの帰還"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-056_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_056_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_056_.png",
+	"tags": null,
+	"expansionId": 400
 }

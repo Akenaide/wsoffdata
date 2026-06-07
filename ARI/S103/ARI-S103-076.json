@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ユエ「シアが居ると気が散る」\u003cbr\u003eシア「気が散るって…何かするつもりなんですかぁ!!」",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の山札を見て《トータス》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"トータス",
 		"兎人族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_076.png",
+	"tags": null,
+	"expansionId": 414
 }

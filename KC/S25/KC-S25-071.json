@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私の計算通りだったわ。\u003cbr /\u003eもちろん司令官さんの戦略だから、できたのよ。",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"艦娘",
 		"重巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_071.png",
+	"tags": null,
+	"expansionId": 113
 }

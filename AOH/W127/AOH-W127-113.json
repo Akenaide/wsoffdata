@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《あおぎり高校》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《あおぎり高校》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"あおぎり高校",
 		"酒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOH/W127-113",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_113.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aoh_w127/aoh_w127_113.png",
+	"tags": null,
+	"expansionId": 517
 }

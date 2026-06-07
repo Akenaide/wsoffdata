@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 前列の中央の枠にこのカードがいるなら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"サッカー",
 		"南葛中"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CTB/W118-023S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_023s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ctb_w118/ctb_w118_023s.png",
+	"tags": null,
+	"expansionId": 485
 }

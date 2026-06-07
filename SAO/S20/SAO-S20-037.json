@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "へえ、いいカンしてるじゃない",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが3枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_037.png",
+	"tags": null,
+	"expansionId": 92
 }

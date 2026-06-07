@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "…善良なゴブリンが、いたとしても…？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《秩序》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 他のあなたの《秩序》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-T20R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_t20r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_t20r.png",
+	"tags": null,
+	"expansionId": 258
 }

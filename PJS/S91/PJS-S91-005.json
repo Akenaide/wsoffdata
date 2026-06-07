@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よーし、ミクも張り切って応援するぞー！！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、相手は自分のストックの上から2枚を、控え室に置いてよい。そうしたら、そのターン中、このカードはフロントアタックできない。"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー",
+		"バーチャル・シンガー",
 		"ワンダーランズ×ショウタイム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_005.png",
+	"tags": null,
+	"expansionId": 380
 }

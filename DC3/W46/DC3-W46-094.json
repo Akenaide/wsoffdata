@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしは当然、杉並様のために働くわ！これは将来の夢とかじゃなくて、決定事項だけど！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《新聞》か《愛》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 他のあなたの、《新聞》か《愛》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"新聞",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W46-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w46/dc3_w46_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w46/dc3_w46_094.png",
+	"tags": null,
+	"expansionId": 178
 }

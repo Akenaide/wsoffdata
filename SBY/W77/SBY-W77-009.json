@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "咲太の許可なんていらないって。咲太のじゃないし",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《思春期》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【永】 他のあなたの《思春期》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"オシャレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_009.png",
+	"tags": null,
+	"expansionId": 290
 }

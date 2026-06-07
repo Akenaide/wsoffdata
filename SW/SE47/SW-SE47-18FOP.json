@@ -15,20 +15,19 @@
 	"rarity": "FOP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。",
-		"【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「Their Bond」があり、他のあなたのキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。\u003cbr\u003e【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「Their Bond」があり、他のあなたのキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
-		"ボバ",
-		"フェット"
+		"ボバ・フェット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/SE47-18FOP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se47/sw_se47_18fop.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_se47/sw_se47_18fop.png",
+	"tags": null,
+	"expansionId": 483
 }

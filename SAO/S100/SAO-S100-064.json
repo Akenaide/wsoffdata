@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うぎゃああああ!!",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
+		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_064.png",
+	"tags": null,
+	"expansionId": 405
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "空＆白「台無し……」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのソウルを＋50。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"天翼種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_070.png",
+	"tags": null,
+	"expansionId": 236
 }

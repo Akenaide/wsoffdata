@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ぺったんぺったん、お団子作ろ☆　凛はたくさん食べたいから～、たくさん作るの♪",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"月"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_093.png",
+	"tags": null,
+	"expansionId": 142
 }

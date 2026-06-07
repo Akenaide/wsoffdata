@@ -15,8 +15,8 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてが《魔法》か《武器》なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の、《魔法》か《武器》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NTA/WE48-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nta_we48/nta_we48_27.png",
+	"tags": null,
+	"expansionId": 518
 }

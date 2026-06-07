@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうかそうか。穴をほじられるの気持ちいいか",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室のレベル2以下のキャラを1枚選び、舞台の好きな枠に【レスト】して置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/W02-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_072.png",
+	"tags": null,
+	"expansionId": 2
 }

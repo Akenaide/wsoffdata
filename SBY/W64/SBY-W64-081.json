@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんか、私、ますますダメになってるかも",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《思春期》のキャラすべてに、パワーを＋500。",
-		"【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
+		"【永】 他のあなたの《思春期》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_081.png",
+	"tags": null,
+	"expansionId": 261
 }

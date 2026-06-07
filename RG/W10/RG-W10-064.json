@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "このぶんだと、超能力に到達するのは、わたくしの方が先かしら。",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの控え室のクライマックス1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"超能力",
 		"扇子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W10-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w10/rg_w10_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w10/rg_w10_064.png",
+	"tags": null,
+	"expansionId": 40
 }

@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "我々の本懐を忘れてはいけない",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《ランドソル》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【永】 このカードは相手の効果に選ばれない。"
+		"【永】 他のあなたの《ランドソル》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【永】 このカードは相手の効果に選ばれない。"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W84-069S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_069s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w84/prd_w84_069s.png",
+	"tags": null,
+	"expansionId": 320
 }

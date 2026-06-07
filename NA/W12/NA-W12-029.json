@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんか、あんたのこと、どっかで見た気がするんだけど……",
+	"trigger": null,
 	"ability": [
 		"【起】［(2)］ そのターン中、このカードのパワーを＋5000。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_029.png",
+	"tags": null,
+	"expansionId": 44
 }

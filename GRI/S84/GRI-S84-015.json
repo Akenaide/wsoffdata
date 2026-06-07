@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…勝負は俺の勝ちだったようだな",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたのストックが5枚以下なら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札を上から2枚まで見て、《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_015.png",
+	"tags": null,
+	"expansionId": 347
 }

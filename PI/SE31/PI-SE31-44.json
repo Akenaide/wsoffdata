@@ -1,6 +1,6 @@
 {
 	"set": "PI",
-	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"setName": " Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
 	"side": "S",
 	"release": "E31",
 	"id": "44",
@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "散開！",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「“サファイアVer”イリヤ」か「“精神置換”イリヤ」を1枚選び、このカードがいた枠に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「“サファイアVer”イリヤ」か「“精神置換”イリヤ」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE31-44",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se31/pi_se31_44.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se31/pi_se31_44.png",
+	"tags": null,
+	"expansionId": 202
 }

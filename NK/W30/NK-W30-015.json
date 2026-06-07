@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……いえ、『奴』には何も変化はありません……",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【自】［(1)］ あなたのクライマックス置場に「かみかざり」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/W30-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_w30/nk_w30_015.png",
+	"tags": null,
+	"expansionId": 122
 }

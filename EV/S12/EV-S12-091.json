@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "主伝導システム、混戦！流動中！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの後列のキャラが1枚以下なら、このカードはアタックできない。",
 		"【永】 相手のターン中、このカードのパワーを＋1000。"
@@ -25,8 +25,9 @@
 		"メカ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_091.png",
+	"tags": null,
+	"expansionId": 49
 }

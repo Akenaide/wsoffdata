@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、ごめん。えと、たこ焼き、好きだから、つい……。\u003cbr /\u003eあの、日高くんも、よかったら",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの【レスト】している《科学》のキャラがいるなら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_036.png",
+	"tags": null,
+	"expansionId": 86
 }

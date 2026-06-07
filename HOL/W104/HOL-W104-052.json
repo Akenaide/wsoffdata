@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの後列の《ホロライブ》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたはこのカードをストック置場に置いてよい。"
+		"【永】 あなたのターン中、他のあなたの後列の《ホロライブ》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたはこのカードをストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"0期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W104-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w104/hol_w104_052.png",
+	"tags": null,
+	"expansionId": 419
 }

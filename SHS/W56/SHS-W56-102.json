@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "倫也センパイ!?",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のコスト1以上のキャラを1枚選び、後列のキャラのいない枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_102.png",
+	"tags": null,
+	"expansionId": 220
 }

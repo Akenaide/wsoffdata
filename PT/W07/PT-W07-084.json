@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さあ、幕引きだ！",
+	"trigger": null,
 	"ability": [
 		"【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《仮面》のキャラすべてに、パワーを＋1000。",
 		"【起】［このカードをクロック置場に置く］ あなたは自分の山札を見て《仮面》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"メガネ",
 		"マスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_084.png",
+	"tags": null,
+	"expansionId": 32
 }

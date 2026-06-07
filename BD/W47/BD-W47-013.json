@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リィちゃん暇なんじゃー",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたのカードがレベル置場に置かれた時、そのターン中、このカードのパワーを＋1500。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 この能力は1ターンにつき1回まで発動する。あなたのカードがレベル置場に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_013.png",
+	"tags": null,
+	"expansionId": 196
 }

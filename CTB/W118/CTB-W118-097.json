@@ -10,23 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《サッカー》のキャラがいないなら、手札からプレイできない。",
-		"あなたのレベルが1なら、あなたは自分の山札を見て《サッカー》のキャラか「サッカーボール」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"あなたのレベルが2なら、あなたは相手のキャラを1枚選び、手札に戻す。",
-		"あなたのレベルが3なら、あなたは自分のクロック置場の《サッカー》のキャラを1枚選び、手札に戻す。",
-		"あなたのレベルが4なら、あなたはサッカーの楽しさについて語ってもよい。（声と動作の大きさには注意しましょう）"
+		"このカードは、あなたの《サッカー》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたのレベルが1なら、あなたは自分の山札を見て《サッカー》のキャラか「サッカーボール」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003eあなたのレベルが2なら、あなたは相手のキャラを1枚選び、手札に戻す。\u003cbr\u003eあなたのレベルが3なら、あなたは自分のクロック置場の《サッカー》のキャラを1枚選び、手札に戻す。\u003cbr\u003eあなたのレベルが4なら、あなたはサッカーの楽しさについて語ってもよい。（声と動作の大きさには注意しましょう）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "CTB/W118-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ctb_w118/ctb_w118_097.png",
+	"tags": null,
+	"expansionId": 485
 }

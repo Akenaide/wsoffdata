@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "決めたんだ……！あの人みたいに強くなるって……",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NS/W04-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_046.png",
+	"tags": null,
+	"expansionId": 6
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "目の前の障害もッ！ わたしたちの明日もッ！",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたは自分の「無茶な訓練 切歌」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_103.png",
+	"tags": null,
+	"expansionId": 276
 }

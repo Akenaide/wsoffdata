@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ジュンちゃんって体力もパワーもあるんだね",
+	"trigger": null,
 	"ability": [
 		"【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
 		"【起】［(1)］ そのターン中、このカードのソウルを＋1。"
@@ -25,8 +25,9 @@
 		"科学",
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_011.png",
+	"tags": null,
+	"expansionId": 86
 }

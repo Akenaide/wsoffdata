@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "早くいこっ、お兄ちゃん―――！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「おやすみの夜」が置かれた時、そのターン中、このカードのパワーを＋1000。",
 		"【自】［(4)］ あなたのクライマックス置場に「おやすみの夜」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札のレベル2以下の《サーヴァント》のキャラを1枚まで選び、舞台の好きな枠に置く。"
@@ -25,8 +25,9 @@
 		"マスター",
 		"ホムンクルス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-036SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_036sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_036sp.png",
+	"tags": null,
+	"expansionId": 33
 }

@@ -8,14 +8,14 @@
 	"jpName": "ネトゲ廃人シュプレヒコール",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ネットゲーム世界は今日も\u003cbr /\u003e隔離 哀れ 蔓延る効率厨、々",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PD/S22-109",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_109.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_109.png",
+	"tags": null,
+	"expansionId": 93
 }

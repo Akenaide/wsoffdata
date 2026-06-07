@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それでは一番手、マシュ・キリエライト、行かせていただきます！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《カルデア》か《バビロニア》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【起】［手札のクライマックスを1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
+		"【永】 他のあなたの、《カルデア》か《バビロニア》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【起】［手札のクライマックスを1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
 	],
 	"specialAttrib": [
 		"カルデア",
 		"シールダー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_086.png",
+	"tags": null,
+	"expansionId": 298
 }

@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この後はライブパーティーで盛り上がっちゃいましょう！",
+	"trigger": null,
 	"ability": [
 		"【自】 共鳴 ［手札の「“あなたへの手紙”津島 善子」を1枚公開する］ あなたのクライマックスフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"夏"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W69-075S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_075s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_075s.png",
+	"tags": null,
+	"expansionId": 273
 }

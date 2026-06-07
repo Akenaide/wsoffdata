@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "できる限り！",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3500し、ソウルを＋1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「双子の少女 マイ」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3500し、ソウルを＋1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「双子の少女 マイ」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BFR/S78-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bfr_s78/bfr_s78_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bfr_s78/bfr_s78_021.png",
+	"tags": null,
+	"expansionId": 313
 }

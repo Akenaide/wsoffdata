@@ -15,18 +15,18 @@
 	"rarity": "KP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "深夜は少し、ざわざわしますー",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《艦娘》のキャラの枚数×1000に等しい。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《艦娘》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-089KP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_089kp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_089kp.png",
+	"tags": null,
+	"expansionId": 270
 }

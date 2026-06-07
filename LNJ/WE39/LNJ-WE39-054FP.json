@@ -15,17 +15,17 @@
 	"rarity": "FP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/WE39-054FP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_we39/lnj_we39_054fp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_we39/lnj_we39_054fp.png",
+	"tags": null,
+	"expansionId": 421
 }

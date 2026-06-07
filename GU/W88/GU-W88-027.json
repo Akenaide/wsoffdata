@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ココア「働いている時の千夜ちゃんはキラキラしてるよ！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のターン中、他のあなたの、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラ1枚につき、このカードのパワーを＋500。",
-		"【永】 他のあなたの前列の「“息ぴったり” ココア」がいるなら、このカードのパワーを＋2000。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の「“息ぴったり” ココア」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
+		"【永】 相手のターン中、他のあなたの、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【永】 他のあなたの前列の「“息ぴったり” ココア」がいるなら、このカードのパワーを＋2000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の「“息ぴったり” ココア」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"甘兎庵",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_027.png",
+	"tags": null,
+	"expansionId": 344
 }

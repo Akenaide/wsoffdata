@@ -1,6 +1,6 @@
 {
 	"set": "MK",
-	"setName": "ミルキィホームズ ファンファンパーリーパック♪",
+	"setName": " ミルキィホームズ ファンファンパーリーパック♪",
 	"side": "S",
 	"release": "J01",
 	"id": "052J",
@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "次子「ホントアルセーヌによく似てるよな」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、相手はあなたのアルセーヌに似ているところを言ってもよい。そうしたら、すべてのプレイヤーは1枚引く。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、相手はあなたのアルセーヌに似ているところを言ってもよい。そうしたら、すべてのプレイヤーは1枚引く。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"探偵",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SJ01-052J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_052.png",
+	"tags": null,
+	"expansionId": 195
 }

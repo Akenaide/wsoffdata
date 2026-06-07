@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カズミちゃんったら。自分のベッドみたいに",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場に「探偵への憧れ カズミ」があるなら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"パジャマ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_033.png",
+	"tags": null,
+	"expansionId": 136
 }

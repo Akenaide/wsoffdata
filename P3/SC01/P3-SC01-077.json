@@ -15,21 +15,20 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "そう…今回のターゲットは、私、エリザベスでございます",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 大活躍",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「最強なる者」があるなら、あなたは1枚引く。",
-		"【起】［(4)］ あなたは自分の山札を見てイベントを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+		"【永】 大活躍\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「最強なる者」があるなら、あなたは1枚引く。\u003cbr\u003e【起】［(4)］ あなたは自分の山札を見てイベントを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_077.png",
+	"tags": null,
+	"expansionId": 340
 }

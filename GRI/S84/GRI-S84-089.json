@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ごめんねー、ちょっと遅れてるのー！",
+	"trigger": null,
 	"ability": [
 		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"家事"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_089.png",
+	"tags": null,
+	"expansionId": 347
 }

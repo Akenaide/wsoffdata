@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぜ、全部ウソだからね。モテるとか、彼氏ゼロとか！",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「千枝＆スズカゴンゲン」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「千枝＆スズカゴンゲン」を1枚選び、手札に戻す）",
 		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「千枝」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"扇子",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/S08-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_s08/p4_s08_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_s08/p4_s08_058.png",
+	"tags": null,
+	"expansionId": 34
 }

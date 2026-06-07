@@ -15,21 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのCX置場にトリガーアイコンが[CHOICE]を得る。",
-		"【永】 あなたのターン中、他のあなたの、《人間》か《怪異》のキャラがいるなら、このカードのレベルを＋1し、パワーを＋5500。",
-		"【起】［【スタンド】しているこのカードを控え室に置く］ あなたのレベルが3以上なら、あなたは自分の手札の「本気の一撃 オカルン」を1枚まで選び、このカードがいた枠に置く。"
+		"【永】 あなたのCX置場にトリガーアイコンが[[choice.gif]]のCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[[choice.gif]]を得る。\u003cbr\u003e【永】 あなたのターン中、他のあなたの、《人間》か《怪異》のキャラがいるなら、このカードのレベルを＋1し、パワーを＋5500。\u003cbr\u003e【起】［【スタンド】しているこのカードを控え室に置く］ あなたのレベルが3以上なら、あなたは自分の手札の「本気の一撃 オカルン」を1枚まで選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"人間",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDD/S118-P03S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_p03s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddd_s118/ddd_s118_p03s.png",
+	"tags": null,
+	"expansionId": 13
 }

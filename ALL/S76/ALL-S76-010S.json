@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "チャームの限界まで!!",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「見せない本音」があるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置き、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「見せない本音」があるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置き、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S76-010S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_010s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s76/all_s76_010s.png",
+	"tags": null,
+	"expansionId": 337
 }

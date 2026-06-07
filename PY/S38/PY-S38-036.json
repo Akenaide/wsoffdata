@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わくわくするね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「みんな、仲良くね」があるなら、あなたは自分の控え室の《ぷよ》のキャラを2枚まで選び、ストック置場に好きな順番で置く。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_036.png",
+	"tags": null,
+	"expansionId": 160
 }

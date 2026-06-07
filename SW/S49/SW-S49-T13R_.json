@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "C-3PO: \"R2-D2 has been in low power mode ever since Master Luke went away.\"",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。",
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-T13R_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_t13r_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_t13r_.png",
+	"tags": null,
+	"expansionId": 400
 }

@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "テメェ、まさか右腕をぶった切った程度で、俺の幻想殺しを潰せると思ってたんじゃねぇだろうなァ？",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、レベルを＋2し、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ID/W10-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/id_w10/id_w10_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/id_w10/id_w10_021.png",
+	"tags": null,
+	"expansionId": 40
 }

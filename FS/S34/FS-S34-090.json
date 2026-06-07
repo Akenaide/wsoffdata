@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、あの、遠坂さんっ！\u003cbr\u003eよかったら、お昼ゴハン一緒に食べませんか！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、「凛のクラスメイト 氷室 鐘」と「凛のクラスメイト 蒔寺 楓」すべてに、パワーを＋500。",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
+		"【永】 他のあなたの、「凛のクラスメイト 氷室 鐘」と「凛のクラスメイト 蒔寺 楓」すべてに、パワーを＋500。\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"スポーツ",
 		"マネージャー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_090.png",
+	"tags": null,
+	"expansionId": 139
 }

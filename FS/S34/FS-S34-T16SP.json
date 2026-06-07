@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サーヴァント セイバー、召喚に従い参上した",
+	"trigger": null,
 	"ability": [
-		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【起】 集中 ［(1)］ あなたは自分の山札の上から1枚をめくり、控え室に置く。あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋Ｘ。Ｘはこの効果で控え室に置かれたカードのレベルに等しい。（クライマックスのレベルは0として扱う）"
+		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003c/br\u003e【起】 集中 ［(1)］ あなたは自分の山札の上から1枚をめくり、控え室に置く。あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋Ｘ。Ｘはこの効果で控え室に置かれたカードのレベルに等しい。（クライマックスのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-T16SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_t16sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_t16sp.png",
+	"tags": null,
+	"expansionId": 138
 }

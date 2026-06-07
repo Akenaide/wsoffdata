@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "秘密の花園をあばく作戦はうまくいったワケダ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《錬金術》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_092.png",
+	"tags": null,
+	"expansionId": 276
 }

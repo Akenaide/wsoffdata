@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もし来週の防衛に成功したら、\u003cbr /\u003eご褒美に君の願いを何でも一つ聞いてやる",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"アバター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_106.png",
+	"tags": null,
+	"expansionId": 85
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なーんて",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分の《五つ子》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+		"【自】 このカードがアタックした時、あなたは他の自分の《五つ子》のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"オシャレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W101-067S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w101/5hy_w101_067s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w101/5hy_w101_067s.png",
+	"tags": null,
+	"expansionId": 399
 }

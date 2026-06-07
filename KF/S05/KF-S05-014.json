@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょ～う重ね当てっ！",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000し、《鉢巻》を与える。"
 	],
 	"specialAttrib": [
 		"鉢巻"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_014.png",
+	"tags": null,
+	"expansionId": 27
 }

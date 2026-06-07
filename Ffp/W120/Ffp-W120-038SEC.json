@@ -15,20 +15,19 @@
 	"rarity": "SEC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札の枚数上限を＋1。",
-		"【永】 あなたの控え室のイベントが4枚以上なら、あなたのイベントは、色条件を満たさずに手札からプレイできる。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【永】 あなたの手札の枚数上限を＋1。\u003cbr\u003e【永】 あなたの控え室のイベントが4枚以上なら、あなたのイベントは、色条件を満たさずに手札からプレイできる。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"ミスリル",
 		"ウィスパード"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ffp/W120-038SEC",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ffp_w120/ffp_w120_038sec.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ffp_w120/ffp_w120_038sec.png",
+	"tags": null,
+	"expansionId": 489
 }

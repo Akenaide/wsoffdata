@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "第十七駆逐隊磯風、推参。",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。",
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《艦娘》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_004.png",
+	"tags": null,
+	"expansionId": 130
 }

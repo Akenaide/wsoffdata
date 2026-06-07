@@ -1,6 +1,6 @@
 {
 	"set": "PI",
-	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"setName": " Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
 	"side": "S",
 	"release": "E31",
 	"id": "38",
@@ -8,25 +8,25 @@
 	"jpName": "息の合った連携",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アンジェリカ「空間置換の意識外…\u003cbr\u003eそうか…こいつは転移の使い手…！」",
 	"trigger": [
 		"SOUL",
 		"STANDBY"
 	],
 	"ability": [
-		"【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
-		"（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+		"【自】 このカードが手札からクライマックス置場に置かれた時、[[standby.gif]]の効果を行う。\u003cbr\u003e（[[standby.gif]]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PI/SE31-38",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se31/pi_se31_38.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se31/pi_se31_38.png",
+	"tags": null,
+	"expansionId": 202
 }

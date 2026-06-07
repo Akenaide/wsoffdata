@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "頼んだぜ、俺も気合い入れっからよ！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「予告状」を1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_011.png",
+	"tags": null,
+	"expansionId": 180
 }

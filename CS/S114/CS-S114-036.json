@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "しんのすけ「オラもオラも～！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。",
-		"【起】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。\u003cbr\u003e【起】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"MOVIE",
 		"家族",
 		"幼稚園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_036.png",
+	"tags": null,
+	"expansionId": 480
 }

@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "勝ったら何くれんだ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの与えるダメージは山札の下からダメージ処理を行う。",
-		"【永】 他のあなたの、《デビルハンター》か《悪魔》のキャラすべてに、パワーを＋1500。",
-		"【自】［(1) 手札を1枚控え室に置く］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+		"【永】 このカードの与えるダメージは山札の下からダメージ処理を行う。\u003cbr\u003e【永】 他のあなたの、《デビルハンター》か《悪魔》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置く］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_090.png",
+	"tags": null,
+	"expansionId": 428
 }

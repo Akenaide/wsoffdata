@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "安心して。そんな心配しなくても今回こそ完全に叩き潰してあげるわよ",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のクロックの「非公式新聞部 杉並」を1枚選び、ストック置場に置いてよい。",
 		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W01-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w01/dc_w01_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w01/dc_w01_078.png",
+	"tags": null,
+	"expansionId": 1
 }

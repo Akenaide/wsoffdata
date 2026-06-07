@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だから、怒ってないんですって…。\u003cbr /\u003eもう、そんなに気を使わないでください。",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下のマーカーが2枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。』を得る。",
 		"【起】［このカードを【レスト】する］ このカードの下のマーカーが1枚以下なら、あなたは自分の控え室の、「睦月型駆逐艦1番艦 睦月」か「睦月型駆逐艦2番艦 如月」を1枚選び、このカードの下にマーカーとして裏向きに置く。"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_068.png",
+	"tags": null,
+	"expansionId": 130
 }

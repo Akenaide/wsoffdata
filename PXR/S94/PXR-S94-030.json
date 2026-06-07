@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場に「おもちゃの仲間達 ボー・ピープ」があるなら、このカードのパワーを＋6500し、このカードは次の能力を得る。『【永】 このカードはサイドアタックできない。』",
-		"【起】［このカードを【レスト】する］ あなたは自分の《PIXAR》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 経験 あなたのレベル置場に「おもちゃの仲間達 ボー・ピープ」があるなら、このカードのパワーを＋6500し、このカードは次の能力を得る。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《PIXAR》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S94-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s94/pxr_s94_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s94/pxr_s94_030.png",
+	"tags": null,
+	"expansionId": 403
 }

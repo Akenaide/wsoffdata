@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "たし……、ミルキィホームズに、ぐ……",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを控え室に置く］ あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の上に置く。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE11-44",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se11/mk_se11_44.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se11/mk_se11_44.png",
+	"tags": null,
+	"expansionId": 13
 }

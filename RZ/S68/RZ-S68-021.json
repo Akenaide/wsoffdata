@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そ、そんな……馬鹿な",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《Memory Snow》のキャラを1枚まで選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"Memory Snow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S68-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_021.png",
+	"tags": null,
+	"expansionId": 280
 }

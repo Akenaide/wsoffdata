@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "\u003cimg src=\"../wordpress/wp-content/cardimages/r/rsl_s56/flavor092.png\"\u003e",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、このカードを【レスト】する。",
-		"【自】 あなたの青のクライマックスがクライマックス置場に置かれた時、このカードを【スタンド】する。"
+		"【自】 このカードが手札から舞台に置かれた時、このカードを【レスト】する。\u003cbr\u003e【自】 あなたの青のクライマックスがクライマックス置場に置かれた時、このカードを【スタンド】する。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"子役"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_092.png",
+	"tags": null,
+	"expansionId": 250
 }

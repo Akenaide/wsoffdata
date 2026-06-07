@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふわふわ、ぽかぽかだった。また触りたいな",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがフロントアタックされた時、このカードを控え室に置く。（バトル相手がいなくなってもダイレクトアタックにはならない）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_090.png",
+	"tags": null,
+	"expansionId": 255
 }

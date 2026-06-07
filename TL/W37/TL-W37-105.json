@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どしたのリト―",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《宇宙人》のキャラを1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《宇宙人》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"宇宙人",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_105.png",
+	"tags": null,
+	"expansionId": 12
 }

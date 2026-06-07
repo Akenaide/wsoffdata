@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "占いアリス、のぞみんだよ♪あなたのことも占ってあげる",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-008S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_008s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_008s.png",
+	"tags": null,
+	"expansionId": 272
 }

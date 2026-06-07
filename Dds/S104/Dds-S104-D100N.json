@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのキャラすべてに、パワーを＋100。",
-		"【永】 あなたのキャラすべてに、《Anniversary》を与える。"
+		"【永】 他のあなたのキャラすべてに、パワーを＋100。\u003cbr\u003e【永】 あなたのキャラすべてに、《Anniversary》を与える。"
 	],
 	"specialAttrib": [
 		"Celebration",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Dds/S104-D100N",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_d100n.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_d100n.png",
+	"tags": null,
+	"expansionId": 13
 }

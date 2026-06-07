@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "前田慶次、まかり通る！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのカード名に「慶次」を含むキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_027.png",
+	"tags": null,
+	"expansionId": 28
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "涯も色々と大変なんだね…",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「ちみいのり」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ちみいのり」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"葬儀社"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-116",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_116.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_116.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"うさぎ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_p05.png",
+	"tags": null,
+	"expansionId": 12
 }

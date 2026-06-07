@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アクア「めぐみ～ん？」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《魔法》か《女神》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-P04S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_p04s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_p04s.png",
+	"tags": null,
+	"expansionId": 12
 }

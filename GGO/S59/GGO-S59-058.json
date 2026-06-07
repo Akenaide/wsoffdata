@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "頼むよ、右太、左子",
+	"trigger": null,
 	"ability": [
-		"【永】 前列の右の枠にこのカードがいるなら、このカードのカード名は「右太を持つフカ次郎」としても扱う。",
-		"【永】 前列の左の枠にこのカードがいるなら、このカードのカード名は「左子を持つフカ次郎」としても扱う。"
+		"【永】 前列の右の枠にこのカードがいるなら、このカードのカード名は「右太を持つフカ次郎」としても扱う。\u003cbr\u003e【永】 前列の左の枠にこのカードがいるなら、このカードのカード名は「左子を持つフカ次郎」としても扱う。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/S59-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_058.png",
+	"tags": null,
+	"expansionId": 245
 }

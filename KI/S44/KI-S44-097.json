@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "漆原「のりちゃんはキズナの会のアイドルなの」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《キズナ》のキャラの枚数×1000に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KI/S44-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_097.png",
+	"tags": null,
+	"expansionId": 177
 }

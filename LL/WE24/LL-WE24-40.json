@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手は2枚引いてよい。そうしたら、相手は自分の手札を2枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE24-40",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we24/ll_we24_40.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we24/ll_we24_40.png",
+	"tags": null,
+	"expansionId": 158
 }

@@ -15,17 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【起】【CXコンボ】［手札の「“わたし『たち』の始まり”常盤愛」を1枚控え室に置き、このカードを控え室に置く］ あなたの控え室のトリガーアイコンが[COMEBACK]のCXが2枚以上なら、あなたは自分の山札を見て「HELLO WORLD！」か「World\u0026#39;s End」か「Hi-Vision」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+		"【起】【CXコンボ】［手札の「“わたし『たち』の始まり”常盤愛」を1枚控え室に置き、このカードを控え室に置く］ あなたの控え室のトリガーアイコンが[[salvage.gif]]のCXが2枚以上なら、あなたは自分の山札を見て「HELLO WORLD！」か「World's End」か「Hi-Vision」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
 	"specialAttrib": [
 		"終末世界",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VRG/WE52-04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vrg_we52/vrg_we52_04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vrg_we52/vrg_we52_04.png",
+	"tags": null,
+	"expansionId": 542
 }

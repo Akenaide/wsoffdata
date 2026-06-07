@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ここは死んだ後の世界。何もしなければ、消されるわよ",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"死",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_077.png",
+	"tags": null,
+	"expansionId": 119
 }

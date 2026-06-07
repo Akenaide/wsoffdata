@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたと一緒に、“彼女”に会いに行けたら、きっと素敵ね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE15-12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se15/p4_se15_12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se15/p4_se15_12.png",
+	"tags": null,
+	"expansionId": 91
 }

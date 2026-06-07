@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "殺してみせろよ、大場なな！！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋10000。",
-		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 あなたのターン中、このカードのパワーを＋10000。\u003cbr\u003e【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S98-035S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_035s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_035s.png",
+	"tags": null,
+	"expansionId": 402
 }

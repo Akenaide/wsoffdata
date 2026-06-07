@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"相手に50ダメージを与える。（ダメージキャンセルは発生する）",
-		"あなたは自分の山札を上から4枚まで見て、《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"相手に50ダメージを与える。（ダメージキャンセルは発生する）\u003cbr\u003eあなたは自分の山札を上から4枚まで見て、《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MR/W80-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w80/mr_w80_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w80/mr_w80_074.png",
+	"tags": null,
+	"expansionId": 301
 }

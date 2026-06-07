@@ -15,21 +15,21 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ダイナソー",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(2) あなたの「好奇心旺盛 白上フブキ」を1枚とこのカードを【レスト】する］ あなたは自分の手札の「サマーバケーション  赤井はあと」を1枚まで選び、舞台の好きな枠に置く。』",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(2) あなたの「好奇心旺盛 白上フブキ」を1枚とこのカードを【レスト】する］ あなたは自分の手札の「サマーバケーション  赤井はあと」を1枚まで選び、舞台の好きな枠に置く。』\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"1期生",
 		"ゲーマーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t033.png",
+	"tags": null,
+	"expansionId": 351
 }

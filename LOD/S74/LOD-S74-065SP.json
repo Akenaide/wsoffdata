@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "聖剣の力、見せてあげましょう",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「聖剣の輝き」があるなら、あなたは自分の山札を見て《冒険者》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「聖剣の輝き」があるなら、あなたは自分の山札を見て《冒険者》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-065SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_065sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_065sp.png",
+	"tags": null,
+	"expansionId": 297
 }

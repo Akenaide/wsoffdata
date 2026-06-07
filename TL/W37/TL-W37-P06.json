@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「闇」か「ヤミ」か「芽亜」を含むキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"変身",
 		"たいやき"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-P06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_p06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_p06.png",
+	"tags": null,
+	"expansionId": 12
 }

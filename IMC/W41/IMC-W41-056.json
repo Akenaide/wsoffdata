@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みくたちのデビューを約束してほしいにゃ！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「あこがれのステージ」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ネコキャラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_056.png",
+	"tags": null,
+	"expansionId": 151
 }

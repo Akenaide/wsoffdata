@@ -15,8 +15,8 @@
 	"rarity": "SPa",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「重なるメロディ」があるなら、あなたは自分の山札を上からＸ枚まで見て、《Pastel＊Palettes》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘはあなたの舞台のキャラの持つ色の合計＋1に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-050SPa",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_050spa.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_050spa.png",
+	"tags": null,
+	"expansionId": 286
 }

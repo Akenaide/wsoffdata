@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ほう……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《フレンズ》のキャラを1枚選び、手札に戻してよい。",
-		"【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードが「本気の勝負」の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。（トリガーチェックででた「本気の勝負」の[STANDBY]の効果でこのカードが舞台に置かれた時も使える）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《フレンズ》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードが「本気の勝負」の効果で舞台に置かれた時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。（トリガーチェックででた「本気の勝負」の[[standby.gif]]の効果でこのカードが舞台に置かれた時も使える）"
 	],
 	"specialAttrib": [
 		"フレンズ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMN/W51-064R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmn_w51/kmn_w51_064r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmn_w51/kmn_w51_064r.png",
+	"tags": null,
+	"expansionId": 205
 }

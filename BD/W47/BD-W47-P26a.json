@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-P26a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_p26a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_p26a.png",
+	"tags": null,
+	"expansionId": 12
 }

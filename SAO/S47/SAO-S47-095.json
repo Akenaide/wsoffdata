@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺は構わないよ。気にしないでいい",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ユニークスキルの発現 キリト」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S47-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s47/sao_s47_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s47/sao_s47_095.png",
+	"tags": null,
+	"expansionId": 189
 }

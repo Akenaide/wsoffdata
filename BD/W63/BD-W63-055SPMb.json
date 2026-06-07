@@ -15,21 +15,20 @@
 	"rarity": "SPMb",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
-		"【自】 このカードが【リバース】した時、他のあなたの《音楽》のキャラが2枚以上で、このカードのバトル相手のレベルが3以下なら、あなたはそのバトル相手を【リバース】してよい。"
+		"【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\u003cbr\u003e【自】 このカードが【リバース】した時、他のあなたの《音楽》のキャラが2枚以上で、このカードのバトル相手のレベルが3以下なら、あなたはそのバトル相手を【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-055SPMb",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_055spmb.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_055spmb.png",
+	"tags": null,
+	"expansionId": 255
 }

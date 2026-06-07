@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わかりました。わたしなんかで宜しければ",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのキャラのトリガーチェックでイベントがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《秩序》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 あなたのキャラのトリガーチェックでイベントがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《秩序》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_061.png",
+	"tags": null,
+	"expansionId": 260
 }

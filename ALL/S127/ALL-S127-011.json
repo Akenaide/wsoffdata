@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ふふっ。どうやらこれで終わりみたいですね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[CHOICE]のCX1枚につき、あなたは自分の控え室の《リリィ》のキャラを1枚まで選び、手札に戻す。"
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[[choice.gif]]のCX1枚につき、あなたは自分の控え室の《リリィ》のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"リリィ",
-		"グラン",
-		"エプレ"
+		"グラン・エプレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S127-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s127/all_s127_011.png",
+	"tags": null,
+	"expansionId": 541
 }

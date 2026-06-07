@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "協力関係を探るのが得策だと思う",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している《軍隊》のキャラを1枚選び、【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_080.png",
+	"tags": null,
+	"expansionId": 101
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "奴らをこれ以上入れるなァ！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"マナ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_067.png",
+	"tags": null,
+	"expansionId": 193
 }

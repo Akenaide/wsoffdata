@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【永】 他のあなたの「セルポ星人」すべてに、パワーを＋1500。"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr\u003e【永】 他のあなたの「セルポ星人」すべてに、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"怪異",
 		"宇宙人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDD/S118-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddd_s118/ddd_s118_086.png",
+	"tags": null,
+	"expansionId": 511
 }

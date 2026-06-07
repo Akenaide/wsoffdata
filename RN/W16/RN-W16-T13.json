@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フラウ「か、勝ったら、\u003cbr /\u003e鎖骨、ペロペロ、してあげるので……」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室の《科学》のキャラを1枚選び、手札に戻す。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RN/W16-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_t13.png",
+	"tags": null,
+	"expansionId": 66
 }

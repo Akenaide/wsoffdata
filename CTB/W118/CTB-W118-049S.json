@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時か「フランスJr.ユース代表 ピエール」の【自】の効果で舞台に置かれた時、他のあなたの《サッカー》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-		"【自】 このカードがアタックした時、他のあなたの《サッカー》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時か「フランスJr.ユース代表 ピエール」の【自】の効果で舞台に置かれた時、他のあなたの《サッカー》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《サッカー》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"サッカー",
 		"フランス代表"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CTB/W118-049S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_049s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ctb_w118/ctb_w118_049s.png",
+	"tags": null,
+	"expansionId": 485
 }

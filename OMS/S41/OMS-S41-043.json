@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "分かった。こうか",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのカード名に「松」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 あなたのキャラすべてがカード名に「松」を含むなら、このカードのパワーを＋3000。"
+		"【永】 あなたのカード名に「松」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 あなたのキャラすべてがカード名に「松」を含むなら、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"６つ子",
 		"まゆげ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_043.png",
+	"tags": null,
+	"expansionId": 171
 }

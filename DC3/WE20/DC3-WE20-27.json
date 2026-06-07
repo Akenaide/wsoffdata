@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まあね。割と長い付き合い、だよね？",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［あなたの《魔法》のキャラを2枚【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE20-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we20/dc3_we20_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we20/dc3_we20_27.png",
+	"tags": null,
+	"expansionId": 123
 }

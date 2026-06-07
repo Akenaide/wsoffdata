@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "菊岡「生還した昌一は、恭二にだけ語った。自分がいかにあの世界で真の殺戮者として恐れられたか」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。",
-		"【永】 相手の前列のキャラすべてに、《標的》を与える。"
+		"【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。\u003cbr\u003e【永】 相手の前列のキャラすべてに、《標的》を与える。"
 	],
 	"specialAttrib": [
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S47-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s47/sao_s47_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s47/sao_s47_064.png",
+	"tags": null,
+	"expansionId": 189
 }

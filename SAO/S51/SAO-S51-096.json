@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの、《アバター》か《ネット》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札の上から1枚を、控え室に置き、相手のレベルＸ以下のキャラを1枚選び、山札の下に置く。Ｘはそのカードのレベルに等しい。（クライマックスのレベルは0として扱う）"
+		"このカードは、あなたの、《アバター》か《ネット》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から1枚を、控え室に置き、相手のレベルＸ以下のキャラを1枚選び、山札の下に置く。Ｘはそのカードのレベルに等しい。（クライマックスのレベルは0として扱う）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SAO/S51-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s51/sao_s51_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s51/sao_s51_096.png",
+	"tags": null,
+	"expansionId": 209
 }

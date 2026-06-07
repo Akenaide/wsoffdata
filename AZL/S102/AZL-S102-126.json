@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お仕事、どんどん任せて頂戴",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《艦船》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
-		"【自】 共鳴 ［手札の「ニュージャージー」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。"
+		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《艦船》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】 共鳴 ［手札の「ニュージャージー」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ユニオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-126",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_126.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_126.png",
+	"tags": null,
+	"expansionId": 410
 }

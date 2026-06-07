@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…僕は自分で考えて、自分でレールを敷くよ",
+	"trigger": null,
 	"ability": [
 		"【自】 アラーム このカードがクロックの1番上にあり、あなたの《メガネ》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは1枚引いてよい。"
 	],
 	"specialAttrib": [
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/S08-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_s08/p4_s08_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_s08/p4_s08_090.png",
+	"tags": null,
+	"expansionId": 34
 }

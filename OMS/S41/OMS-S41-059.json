@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見てカード名に「松」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。あなたは自分のカード名に「松」を含むキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "OMS/S41-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_059.png",
+	"tags": null,
+	"expansionId": 171
 }

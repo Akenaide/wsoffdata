@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かアタックした時、あなたは自分の《ゆるキャン△》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ゆるキャン△",
 		"バイク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YRC/W116-085S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_085s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yrc_w116/yrc_w116_085s.png",
+	"tags": null,
+	"expansionId": 490
 }

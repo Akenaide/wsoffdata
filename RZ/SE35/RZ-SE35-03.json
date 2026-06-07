@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "パック「君に呼ばれて、ボクはここにいる」",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［手札の緑のカードを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「神聖な問答」があり、他のあなたの、《魔法》か《武器》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《魔法》か《武器》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/SE35-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_se35/rz_se35_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_se35/rz_se35_03.png",
+	"tags": null,
+	"expansionId": 303
 }

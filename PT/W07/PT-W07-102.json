@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっと待っててね。\u003cbr /\u003eここ片付いたらご飯にするから",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"メイド",
 		"時計"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_102.png",
+	"tags": null,
+	"expansionId": 15
 }

@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ココア「だって知ってるんだ……たくさん失敗しても努力で失敗を跳ね除けてきたこと」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】［手札の「“中学時代” ココア」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】［手札の「“中学時代” ココア」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"パン",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_050.png",
+	"tags": null,
+	"expansionId": 344
 }

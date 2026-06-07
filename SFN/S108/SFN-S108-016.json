@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハイター「身の上を話して頂ければ代わりに私が褒めますよ」",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S108-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s108/sfn_s108_016.png",
+	"tags": null,
+	"expansionId": 466
 }

@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "023",
@@ -10,23 +10,22 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最果てに導かれる者は限られている。人の根は腐り落ちるもの。故に私は選び取る",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「獅子王」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分のマーカーを持たない《円卓の騎士》のキャラを1枚選び、このカードをそのキャラの下にマーカーとして表向きに置き、そのターン中、そのキャラのパワーを＋1000。",
-		"あなたは自分の山札を上から4枚まで見て、《カルデア》か《キャメロット》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"このカードは、あなたのカード名に「獅子王」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分のマーカーを持たない《円卓の騎士》のキャラを1枚選び、このカードをそのキャラの下にマーカーとして表向きに置き、そのターン中、そのキャラのパワーを＋1000。\u003cbr\u003eあなたは自分の山札を上から4枚まで見て、《カルデア》か《キャメロット》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_023.png",
+	"tags": null,
+	"expansionId": 363
 }

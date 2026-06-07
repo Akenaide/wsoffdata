@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "バイト何時まで？\u003cbr\u003e待っててあげる",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが5枚以上なら、このカードを【レスト】する。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが5枚以上なら、このカードを【レスト】する。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_066.png",
+	"tags": null,
+	"expansionId": 261
 }

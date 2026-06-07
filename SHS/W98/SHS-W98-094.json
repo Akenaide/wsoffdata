@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の《ゲーム》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 相手のアタックフェイズの始めに、あなたは相手の前列のキャラを1枚選び、前列のキャラのいない他の枠に動かしてよい。"
+		"【自】 このカードがアタックした時、あなたは自分の《ゲーム》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは相手の前列のキャラを1枚選び、前列のキャラのいない他の枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_094.png",
+	"tags": null,
+	"expansionId": 391
 }

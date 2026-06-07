@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたの相手は私です",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《ファンタジア文庫》か《魔法》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fmr/W65-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fmr_w65/fmr_w65_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fmr_w65/fmr_w65_027.png",
+	"tags": null,
+	"expansionId": 264
 }

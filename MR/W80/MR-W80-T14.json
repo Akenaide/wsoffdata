@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《魔法》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"モデル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W80-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w80/mr_w80_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w80/mr_w80_t14.png",
+	"tags": null,
+	"expansionId": 300
 }

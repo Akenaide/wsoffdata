@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "分からない事、優しく教えてくれると嬉しいな",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 	"specialAttrib": [
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_004.png",
+	"tags": null,
+	"expansionId": 4
 }

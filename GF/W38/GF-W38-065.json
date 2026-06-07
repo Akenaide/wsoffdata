@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あ、ゴールまで空いた？　行けるかな？\u003cbr /\u003eよし、このまま行っちゃえ、それっ！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"ガール",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_065.png",
+	"tags": null,
+	"expansionId": 144
 }

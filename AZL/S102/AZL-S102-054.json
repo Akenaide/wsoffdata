@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私のサポートが必要でしたら遠慮なく仰ってください",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「紀伊」がいるなら、他のあなたの《艦船》のキャラすべてに、パワーを＋500。",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［(1) 手札を2枚控え室に置き、このカードを【レスト】する］ あなたは自分の手札の「紀伊」を1枚まで選び、舞台の好きな枠に置く。"
+		"【永】 他のあなたの「紀伊」がいるなら、他のあなたの《艦船》のキャラすべてに、パワーを＋500。\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［(1) 手札を2枚控え室に置き、このカードを【レスト】する］ あなたは自分の手札の「紀伊」を1枚まで選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"重桜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_054.png",
+	"tags": null,
+	"expansionId": 410
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一緒に、見よ？",
+	"trigger": null,
 	"ability": [
 		"【起】[(1) このカードを【レスト】する］ あなたは自分の山札を見て「白坂 小梅」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルし、ターンの終わりに、そのキャラを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_091.png",
+	"tags": null,
+	"expansionId": 151
 }

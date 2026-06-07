@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こんな方がわたしの…この国の勇者様だったらいいなって\u003cbr /\u003eそう思ったんです…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《動物》か《勇者》のキャラすべてに、パワーを＋500。",
 		"【自】［(1)］ 他のあなたのバトル中の「シンク・イズミ」が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを思い出にする。",
@@ -26,8 +26,9 @@
 		"動物",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_17.png",
+	"tags": null,
+	"expansionId": 71
 }

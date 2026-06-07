@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
-		"【起】［(1)］ あなたは自分の《ゲーム》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。\u003cbr\u003e【起】［(1)］ あなたは自分の《ゲーム》のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"鍛冶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BFR/S78-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bfr_s78/bfr_s78_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bfr_s78/bfr_s78_006.png",
+	"tags": null,
+	"expansionId": 313
 }

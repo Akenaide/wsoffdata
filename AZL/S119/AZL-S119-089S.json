@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "指揮官がお話を書いて、アッティリオが絵を描く！一緒に幸せな物語を作ろうよ！",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀Ｘ レベル1 ［手札のこのカードを控え室に置く］ Ｘはあなたの《艦船》のキャラの枚数×500に等しい。（あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋Ｘ）"
 	],
@@ -24,8 +24,9 @@
 		"艦船",
 		"サディア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-089S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_089s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_089s.png",
+	"tags": null,
+	"expansionId": 499
 }

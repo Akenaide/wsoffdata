@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《レヴュー》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【自】【CXコンボ】［手札を1枚控え室に置き、あなたのクライマックス置場の「君を待たせて」を1枚控え室に置く］ このカードがアタックした時、他のあなたの《レヴュー》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《レヴュー》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの《レヴュー》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置き、あなたのクライマックス置場の「君を待たせて」を1枚控え室に置く］ このカードがアタックした時、他のあなたの《レヴュー》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《レヴュー》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S98-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_052.png",
+	"tags": null,
+	"expansionId": 402
 }

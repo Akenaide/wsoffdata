@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "正義の味方じゃなくて、正義そのものだよ、お兄ちゃん",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「プラチナむかつく」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《和服》のキャラを2枚まで選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_046.png",
+	"tags": null,
+	"expansionId": 105
 }

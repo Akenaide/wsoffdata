@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "くっだらない",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
-		"【自】 アンコール ［あなたの舞台のキャラを2枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。\u003cbr\u003e【自】 アンコール ［あなたの舞台のキャラを2枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"夏",
 		"たこ焼き"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_095.png",
+	"tags": null,
+	"expansionId": 342
 }

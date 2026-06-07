@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "そろそろ出撃だね。でも、機雷には気を付けないと",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《艦娘》のキャラの枚数×500に等しい。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《艦娘》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_042.png",
+	"tags": null,
+	"expansionId": 173
 }

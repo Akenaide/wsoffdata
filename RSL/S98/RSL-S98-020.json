@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なな「……そんな言葉じゃ、あの舞台には届かない」",
+	"trigger": null,
 	"ability": [
 		"あなたは相手のキャラを4枚まで選び、思い出にする。あなたはそれらのキャラを裏向きにシャッフルし、それぞれを舞台のキャラのいない別々の枠に裏向きに置く。それらのキャラを表向きにする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RSL/S98-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_020.png",
+	"tags": null,
+	"expansionId": 402
 }

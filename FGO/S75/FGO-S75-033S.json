@@ -15,20 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "こういうところでどうかな！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《カルデア》か《バビロニア》のキャラすべてに、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】 他のあなたの、《カルデア》か《バビロニア》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）"
+		"【永】 他のあなたの、《カルデア》か《バビロニア》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】 他のあなたの、《カルデア》か《バビロニア》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"バビロニア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-033S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_033s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_033s.png",
+	"tags": null,
+	"expansionId": 298
 }

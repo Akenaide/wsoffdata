@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……エミリアじゃ、ないでしょ",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのキャラのトリガーチェックで「キラキラ採掘 エミリア」か「“君のお父さん”パック」がでた時、あなたは自分のストックの上から1枚を、手札に戻してよい。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 あなたのキャラのトリガーチェックで「キラキラ採掘 エミリア」か「“君のお父さん”パック」がでた時、あなたは自分のストックの上から1枚を、手札に戻してよい。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/SE35-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_se35/rz_se35_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_se35/rz_se35_17.png",
+	"tags": null,
+	"expansionId": 303
 }

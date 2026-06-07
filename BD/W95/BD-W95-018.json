@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "考えがあったかどうかは知らないけど……\u003cbr\u003eでもなんか、ルイも意外といろいろやってたんだよね",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの、《Anniversary》か《Morfonica》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-		"【自】［あなたの控え室の、《Anniversary》か《Morfonica》のキャラを1枚クロック置場の下に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。",
-		"【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“空前のブーム到来”桐ヶ谷透子」を1枚選び、このカードがいた枠に置く。"
+		"【自】 他のあなたの、《Anniversary》か《Morfonica》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】［あなたの控え室の、《Anniversary》か《Morfonica》のキャラを1枚クロック置場の下に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。\u003cbr\u003e【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“空前のブーム到来”桐ヶ谷透子」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Morfonica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_018.png",
+	"tags": null,
+	"expansionId": 382
 }

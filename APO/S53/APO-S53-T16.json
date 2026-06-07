@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ダ―ニック「では、残る二騎の戦いはお前た\u003cbr\u003eちに任せよう」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"電気"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-T16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_t16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_t16.png",
+	"tags": null,
+	"expansionId": 223
 }

@@ -15,8 +15,8 @@
 	"rarity": "PRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《星》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"Anniversary",
 		"星"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Key/WE50-46PRR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/key_we50_46prr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/key_we50_46prr.png",
+	"tags": null,
+	"expansionId": 532
 }

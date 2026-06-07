@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「キミと駆ける。奇跡だけを信じて」",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"Anniversary",
 		"VR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Key/W102-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/key_w102_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/key_w102_045.png",
+	"tags": null,
+	"expansionId": 406
 }

@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "そんな夢でしか生きられないのであれば、抱いたまま溺死しろ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の自分のレベル以下のレベルの《武器》のキャラを1枚まで選び、舞台の好きな枠に置く。",
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置く。"
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の自分のレベル以下のレベルの《武器》のキャラを1枚まで選び、舞台の好きな枠に置く。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル3以下のキャラを1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S36-057S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_057s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s36/fs_s36_057s.png",
+	"tags": null,
+	"expansionId": 155
 }

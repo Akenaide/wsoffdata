@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "紅魔族の琴線に激しく響きます",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

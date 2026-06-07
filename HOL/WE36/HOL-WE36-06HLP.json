@@ -15,18 +15,18 @@
 	"rarity": "HLP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ホロライブ》のキャラの枚数×1000に等しい。"
+		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ホロライブ》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"3期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE36-06HLP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we36/hol_we36_06hlp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we36/hol_we36_06hlp.png",
+	"tags": null,
+	"expansionId": 383
 }

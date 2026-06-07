@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ツグミ「あんたのせいよ、集。\u003cbr /\u003eあんたが来ないから。ヴォイドを使わないから！」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードは、あなたの《葬儀社》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GC/S16-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_022.png",
+	"tags": null,
+	"expansionId": 76
 }

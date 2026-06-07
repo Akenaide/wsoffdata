@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "取り戻スとしよう",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の控え室の、《防衛隊》か《怪獣》のキャラを2枚まで選び、手札に戻す。",
-		"あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
+		"あなたは自分の控え室の、《防衛隊》か《怪獣》のキャラを2枚まで選び、手札に戻す。\u003cbr\u003eあなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KJ8/S123-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_063.png",
+	"tags": null,
+	"expansionId": 525
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この世界に生きる、俺達だ！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「義勇軍のユーリ」を1枚まで選び、このカードがいた枠に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"マナ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_p01_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_p01_.png",
+	"tags": null,
+	"expansionId": 13
 }

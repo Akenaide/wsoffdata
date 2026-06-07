@@ -15,18 +15,18 @@
 	"rarity": "ACS",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちゃぶ台をひっくり返すのは、いつだって最強のあたしなんだぞッ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
-		"【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\u003cbr\u003e【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。"
 	],
 	"specialAttrib": [
 		"錬金術",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W89-105ACS",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w89/sg_w89_105acs.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w89/sg_w89_105acs.png",
+	"tags": null,
+	"expansionId": 343
 }

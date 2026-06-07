@@ -10,21 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「ゼロツー」か「ヒロ」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
-		"このカードをストック置場に置く。"
+		"このカードは、あなたのカード名に「ゼロツー」か「ヒロ」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）\u003cbr\u003eこのカードをストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FXX/S57-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_071.png",
+	"tags": null,
+	"expansionId": 241
 }

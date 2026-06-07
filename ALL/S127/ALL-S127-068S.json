@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "無し",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの、レベル置場かクロック置場に青のカードがないなら、手札からプレイできない。",
-		"あなたは自分の控え室の《リリィ》のキャラを1枚選び、手札に戻す。"
+		"このカードは、あなたの、レベル置場かクロック置場に青のカードがないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の控え室の《リリィ》のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ALL/S127-068S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_068s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s127/all_s127_068s.png",
+	"tags": null,
+	"expansionId": 541
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードは他の枠に動かせない。",
-		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。"
+		"【永】 このカードは他の枠に動かせない。\u003cbr\u003e【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_092.png",
+	"tags": null,
+	"expansionId": 318
 }

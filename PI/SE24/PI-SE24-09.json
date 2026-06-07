@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私に任せておきなさい",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《宝石》のキャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"宝石",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE24-09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se24/pi_se24_09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se24/pi_se24_09.png",
+	"tags": null,
+	"expansionId": 133
 }

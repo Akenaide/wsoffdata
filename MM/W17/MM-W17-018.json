@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――えっ？",
+	"trigger": null,
 	"ability": [
 		"あなたは相手の前列のレベル2以下のキャラを1枚選び、思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MM/W17-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_018.png",
+	"tags": null,
+	"expansionId": 74
 }

@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やっぱ和くんも男の子なんだな…って",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、他のあなたの《かのかり》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、ソウルを＋2。"
 	],
 	"specialAttrib": [
 		"かのかり"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_013.png",
+	"tags": null,
+	"expansionId": 322
 }

@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "39",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ところで、なんで我々はまだ戻らないのでしょうか？",
+	"trigger": null,
 	"ability": [
 		"【自】 アンコール ［あなたの控え室の、《動物》か《勇者》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
 		"【起】［(1) ］ そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。』"
@@ -25,8 +25,9 @@
 		"動物",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE17-39",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_39.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_39.png",
+	"tags": null,
+	"expansionId": 100
 }

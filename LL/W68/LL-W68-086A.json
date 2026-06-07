@@ -15,18 +15,18 @@
 	"rarity": "UA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "μ's海賊団で私は何係なのかな……。うーん、おにぎり係？",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋2000。"
+		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。\u003cbr\u003e【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"海賊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-086A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_086a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_086a.png",
+	"tags": null,
+	"expansionId": 272
 }

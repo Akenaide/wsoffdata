@@ -15,16 +15,17 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
 	],
 	"specialAttrib": [
 		"ジェダイの帰還"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/SE39-005SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se39/sw_se39_005sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_se39/sw_se39_005sp.png",
+	"tags": null,
+	"expansionId": 411
 }

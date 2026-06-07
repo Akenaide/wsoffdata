@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それでも一緒に出来たら嬉しい",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは相手のクロックを1枚選び、控え室に置いてよい。そうしたら、相手は自分の山札の上から1枚を、クロック置場に置く。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは相手のクロックを1枚選び、控え室に置いてよい。そうしたら、相手は自分の山札の上から1枚を、クロック置場に置く。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_t01.png",
+	"tags": null,
+	"expansionId": 282
 }

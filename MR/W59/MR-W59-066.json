@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "さっさとやっちまおうぜ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの「緊急参戦 さやか」がいるなら、このカードのパワーを＋6000。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+		"【永】 あなたのターン中、他のあなたの「緊急参戦 さやか」がいるなら、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"アタック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_066.png",
+	"tags": null,
+	"expansionId": 232
 }

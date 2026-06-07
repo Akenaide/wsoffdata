@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっぴり、その…嬉しかった、ような…",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を公開し、それらのカードの持つ色の合計が3色以上なら、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の、《Anniversary》か《スポーツ》のキャラを1枚選び、入れ替えてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を公開し、それらのカードの持つ色の合計が3色以上なら、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の、《Anniversary》か《スポーツ》のキャラを1枚選び、入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W78-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klb_w78/klb_w78_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klb_w78/klb_w78_025.png",
+	"tags": null,
+	"expansionId": 296
 }

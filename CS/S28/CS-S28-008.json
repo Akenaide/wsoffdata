@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "救い料10億万円、ローンも可",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが0なら、このカードはアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"ダークヒーロー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_008.png",
+	"tags": null,
+	"expansionId": 114
 }

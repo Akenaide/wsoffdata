@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日のところはポイントをいただく前に……\u003cbr /\u003eもうひとつ預かっておこうと思うんですよ",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ あなたのクライマックス置場に「魔王徴発令」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000し、このカードのパワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_041.png",
+	"tags": null,
+	"expansionId": 85
 }

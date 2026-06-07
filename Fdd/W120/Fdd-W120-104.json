@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私が強くなっても、黒歌姉さまは必要です。――姉妹ですから",
+	"trigger": null,
 	"ability": [
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
@@ -25,8 +25,9 @@
 		"悪魔",
 		"戦車"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fdd/W120-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdd_w120/fdd_w120_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fdd_w120/fdd_w120_104.png",
+	"tags": null,
+	"expansionId": 489
 }

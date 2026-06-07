@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『やってみる』はダメじゃ。『やる』か『やらぬ』かじゃ。『やってみる』などない",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"帝国の逆襲"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-104re",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_104re.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_104re.png",
+	"tags": null,
+	"expansionId": 400
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あれが、ガリア王ジョゼフ……。\u003cbr /\u003eあいつの詠唱を、止めればいいんだな！",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"使い魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_t02.png",
+	"tags": null,
+	"expansionId": 66
 }

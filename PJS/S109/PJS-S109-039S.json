@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋2500し、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー",
+		"バーチャル・シンガー",
 		"MORE MORE JUMP！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S109-039S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_039s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s109/pjs_s109_039s.png",
+	"tags": null,
+	"expansionId": 455
 }

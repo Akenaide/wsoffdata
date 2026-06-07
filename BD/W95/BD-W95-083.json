@@ -15,20 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "香澄がいたから、私達はここにいます。\u003cbr\u003eポピパとして、今、ここにいる！",
+	"trigger": null,
 	"ability": [
-		"【永】 手札にこのカードがあるなら、このカードは《盆栽》を得る。",
-		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラとこのカードはサイドアタックできない。』",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+		"【永】 手札にこのカードがあるなら、このカードは《盆栽》を得る。\u003cbr\u003e【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラとこのカードはサイドアタックできない。』\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_083.png",
+	"tags": null,
+	"expansionId": 382
 }

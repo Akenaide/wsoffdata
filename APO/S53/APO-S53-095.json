@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "散れっ！",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「黒のライダー」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の手札を1枚選び、控え室に置いてよい。そうしたら、相手のキャラすべてに、そのターン中、パワーを－1500。"
+		"このカードは、あなたのカード名に「黒のライダー」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の手札を1枚選び、控え室に置いてよい。そうしたら、相手のキャラすべてに、そのターン中、パワーを－1500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "APO/S53-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_095.png",
+	"tags": null,
+	"expansionId": 228
 }

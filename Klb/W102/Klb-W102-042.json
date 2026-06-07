@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "男と男が己の美を競ってぶつかりあう……",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かアタックした時か舞台から控え室に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"Anniversary",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W102-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/klb_w102_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/klb_w102_042.png",
+	"tags": null,
+	"expansionId": 406
 }

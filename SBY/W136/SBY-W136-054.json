@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんなにも野菜を切るのを手伝ってもらったの",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《思春期》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《思春期》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_054.png",
+	"tags": null,
+	"expansionId": 547
 }

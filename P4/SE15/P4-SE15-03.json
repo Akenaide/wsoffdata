@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "菜々子もお手伝いする！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"ジュネス",
 		"テレビ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE15-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se15/p4_se15_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se15/p4_se15_03.png",
+	"tags": null,
+	"expansionId": 91
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フッ…上等じゃないの！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_t05.png",
+	"tags": null,
+	"expansionId": 53
 }

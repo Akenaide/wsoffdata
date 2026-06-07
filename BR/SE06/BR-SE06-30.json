@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの舞台の「翠緑の瞳 デッドマスター」を1枚ストック置場に置く］ このカードがアタックした時、クライマックス置場に「★Rock Cannon」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「大人びた美少女 ヨミ」を1枚選び、後列の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BR/SE06-30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/br_se06/br_se06_30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/br_se06/br_se06_30.png",
+	"tags": null,
+	"expansionId": 51
 }

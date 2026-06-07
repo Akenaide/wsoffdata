@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "みーくんはみーくんでわたしはまーちゃんなの！ 決まってるの不可分なの！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の前列の中央の枠のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、このカードのパワーを＋1000。"
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の前列の中央の枠のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"電撃文庫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gmm/WS02-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gmm_ws02_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gmm_ws02_061.png",
+	"tags": null,
+	"expansionId": 439
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "役に立たないなんてこと絶対にありません！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「探偵を目指す少女 リリー・アドラー」すべてに、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-P06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_p06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_p06.png",
+	"tags": null,
+	"expansionId": 13
 }

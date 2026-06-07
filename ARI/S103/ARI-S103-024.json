@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ご主人様の愛を感じるぞい",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】 あなたのクライマックス置場に「黒竜の正体」が置かれた時、他のあなたの《トータス》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』",
-		"【起】［このカードを【レスト】する］ あなたは自分の《トータス》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】【CXコンボ】 あなたのクライマックス置場に「黒竜の正体」が置かれた時、他のあなたの《トータス》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《トータス》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"トータス",
 		"竜人族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_024.png",
+	"tags": null,
+	"expansionId": 414
 }

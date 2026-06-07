@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの《思春期》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《思春期》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【自】 他のあなたの《思春期》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《思春期》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"思春期"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W114-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w114/sby_w114_039.png",
+	"tags": null,
+	"expansionId": 463
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もう一回ゆっくりやるから。今度はちゃんと見ててね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこの効果で控え室に置かれたカードのレベルの合計×1000に等しい。（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_060.png",
+	"tags": null,
+	"expansionId": 213
 }

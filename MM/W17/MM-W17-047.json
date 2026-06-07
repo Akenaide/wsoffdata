@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほむら「だとしてもここは、\u003cbr /\u003eかつてあの子が守ろうとした場所だった」",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「わたしの、最高の友達」があるなら、あなたはコストを払ってよい。そうしたら、あなたの《魔法》のキャラすべてに、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_047.png",
+	"tags": null,
+	"expansionId": 74
 }

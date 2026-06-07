@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "小さくてもいいのか…",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、 次の相手のターンの終わりまで、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"風紀委員",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_102.png",
+	"tags": null,
+	"expansionId": 53
 }

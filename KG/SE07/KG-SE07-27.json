@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のカード名に「七花」を含むキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_27.png",
+	"tags": null,
+	"expansionId": 56
 }

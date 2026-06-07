@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それは性欲！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《思春期》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
+		"【永】 他のあなたの《思春期》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_013.png",
+	"tags": null,
+	"expansionId": 261
 }

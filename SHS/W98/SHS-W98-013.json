@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いやぁ、僕は誰にでもできることはやらない主義なんだよねぇ……",
+	"trigger": null,
 	"ability": [
 		"【自】【クロック】 アラーム ［手札の《ゲーム》のキャラを1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_013.png",
+	"tags": null,
+	"expansionId": 391
 }

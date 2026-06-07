@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あああああ…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の中央の枠の《新聞》のキャラに、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE16-29",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we16/dc3_we16_29.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we16/dc3_we16_29.png",
+	"tags": null,
+	"expansionId": 99
 }

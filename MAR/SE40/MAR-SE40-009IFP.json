@@ -15,17 +15,17 @@
 	"rarity": "IFP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/SE40-009IFP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_009ifp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_se40/mar_se40_009ifp.png",
+	"tags": null,
+	"expansionId": 413
 }

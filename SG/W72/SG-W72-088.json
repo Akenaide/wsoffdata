@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、青か《音楽》のキャラの枚数×1000に等しい。",
-		"【自】【CXコンボ】 相手がレベルアップした時、あなたのクライマックス置場に「風輪火斬」があるなら、あなたは自分の山札を上から4枚まで見て、青か《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、青か《音楽》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】【CXコンボ】 相手がレベルアップした時、あなたのクライマックス置場に「風輪火斬」があるなら、あなたは自分の山札を上から4枚まで見て、青か《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W72-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w72/sg_w72_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w72/sg_w72_088.png",
+	"tags": null,
+	"expansionId": 275
 }

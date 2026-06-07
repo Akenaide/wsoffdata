@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたを、ステキな空の旅へとご案内いたします",
+	"trigger": null,
 	"ability": [
-		"【自】 記憶 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの思い出置場の「改めて見てみると」の枚数×500に等しい。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 記憶 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの思い出置場の「改めて見てみると」の枚数×500に等しい。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"空"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-005SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_005sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_005sp.png",
+	"tags": null,
+	"expansionId": 272
 }

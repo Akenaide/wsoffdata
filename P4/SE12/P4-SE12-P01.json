@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "トリック・オア・トリートだクマ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがダイレクトアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"テレビ",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

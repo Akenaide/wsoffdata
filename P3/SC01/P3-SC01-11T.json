@@ -15,20 +15,20 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "フレーバー無し",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「最後の選択」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。",
-		"【起】［(1)］ そのターン中、このカードのソウルを＋1。"
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「最後の選択」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【起】［(1)］ そのターン中、このカードのソウルを＋1。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-11T",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_11t.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_11t.png",
+	"tags": null,
+	"expansionId": 340
 }

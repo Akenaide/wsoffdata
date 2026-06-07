@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "幸村よ、強うなれ――。道を見失うでない…！",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(4) 手札のクライマックスを1枚控え室に置き、このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“紅い炎”真田 幸村」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/SE05-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_se05/sb_se05_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_se05/sb_se05_23.png",
+	"tags": null,
+	"expansionId": 47
 }

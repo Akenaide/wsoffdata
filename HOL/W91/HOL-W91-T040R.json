@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "春が来てすっかりポカポカだな！",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
@@ -24,8 +24,9 @@
 		"ホロライブ",
 		"2期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T040R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t040r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t040r.png",
+	"tags": null,
+	"expansionId": 352
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ケータイ！？　デンパ！？\u003cbr\u003eもしや先ほどの薄い板と関係がっ！？",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"天翼種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_067.png",
+	"tags": null,
+	"expansionId": 236
 }

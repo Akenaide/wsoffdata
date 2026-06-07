@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "真庭忍軍・頭領の一人。 「冥土の蝙蝠」・獣組\u003cbr /\u003e体内にどんなものでも収納できるという忍法を使う",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) このカードをクロック置場に置く］ あなたは自分のクロック置場のコスト0以下のキャラを1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"忍",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_15.png",
+	"tags": null,
+	"expansionId": 56
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふん……\u003cbr /\u003e今宵はなぜセイバーを仕留められなかった？",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《マスター》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/SE13-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_se13/fz_se13_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_se13/fz_se13_14.png",
+	"tags": null,
+	"expansionId": 73
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "肩のケガが治っても、その生活は変わらなかった",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 このカードがアタックした時、他のあなたのカード名に「セイバー」か「士郎」か「桜」を含むキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたのカード名に「セイバー」か「士郎」か「桜」を含むキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_010.png",
+	"tags": null,
+	"expansionId": 262
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "のどかな日常は、勘が鈍りそうで好かんな",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"ノッカーアップ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DCT/S86-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dct_s86/dct_s86_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dct_s86/dct_s86_043.png",
+	"tags": null,
+	"expansionId": 387
 }

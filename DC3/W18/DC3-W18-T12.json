@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はっはっはっ。\u003cbr /\u003eさすがは俺の好敵手、森園立夏。話が早い",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがサイドアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_t12.png",
+	"tags": null,
+	"expansionId": 66
 }

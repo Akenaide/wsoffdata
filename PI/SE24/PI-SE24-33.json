@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…どうかした？イリヤ",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《魔法》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE24-33",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se24/pi_se24_33.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se24/pi_se24_33.png",
+	"tags": null,
+	"expansionId": 133
 }

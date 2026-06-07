@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《アバター》か《ネット》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S43-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_081.png",
+	"tags": null,
+	"expansionId": 176
 }

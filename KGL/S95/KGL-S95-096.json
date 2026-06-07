@@ -1,6 +1,6 @@
 {
 	"set": "KGL",
-	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"setName": "かぐや様は告らせたい？\u003cs\u003e～天才たちの恋愛頭脳戦～\u003c/s\u003e",
 	"side": "S",
 	"release": "95",
 	"id": "096",
@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたのカード名に「かぐや」か「御行」を含むキャラがいないなら、手札からプレイできない。あなたは自分の山札を上から4枚まで見て、《秀知院》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
-		"あなたの思い出置場に青のカードがないなら、あなたはこのカードを思い出にしてよい。"
+		"【カウンター】 このカードは、あなたのカード名に「かぐや」か「御行」を含むキャラがいないなら、手札からプレイできない。あなたは自分の山札を上から4枚まで見て、《秀知院》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\u003cbr\u003eあなたの思い出置場に青のカードがないなら、あなたはこのカードを思い出にしてよい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KGL/S95-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s95/kgl_s95_096.png",
+	"tags": null,
+	"expansionId": 394
 }

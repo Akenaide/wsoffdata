@@ -15,20 +15,20 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "このみお姉さんから、目を離しちゃダメよ♪",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－2。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。"
+		"【永】 舞台のこのカードのレベルを－2。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"アダルティ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-035BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_035bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_035bnp.png",
+	"tags": null,
+	"expansionId": 251
 }

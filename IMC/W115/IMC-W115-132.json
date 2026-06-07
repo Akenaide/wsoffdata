@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "旅の最後にイルカさんが待ってるなんて。素敵な催しもの、ありがとうございます！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-132",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_132.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_132.png",
+	"tags": null,
+	"expansionId": 477
 }

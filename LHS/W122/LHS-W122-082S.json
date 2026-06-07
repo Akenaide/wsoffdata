@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"スリーズブーケ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LHS/W122-082S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_082s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lhs_w122/lhs_w122_082s.png",
+	"tags": null,
+	"expansionId": 502
 }

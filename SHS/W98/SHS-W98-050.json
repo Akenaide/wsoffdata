@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "にしても、まだ二作目なのに、ヒロイン５人のシナリオを一人で全部書くなんて、随分と思い切ったことしたわね",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、相手は自分のストックの上から2枚を、控え室に置いてよい。そうしたら、そのターン中、このカードはフロントアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_050.png",
+	"tags": null,
+	"expansionId": 391
 }

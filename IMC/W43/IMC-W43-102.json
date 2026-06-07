@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アタシはご機嫌なステージさえ出来ればいいけど",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてが青なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ロック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_102.png",
+	"tags": null,
+	"expansionId": 167
 }

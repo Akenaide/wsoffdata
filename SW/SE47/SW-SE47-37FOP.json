@@ -15,19 +15,19 @@
 	"rarity": "FOP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』このカードは次のあなたのスタンドフェイズに【スタンド】しない。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』このカードは次のあなたのスタンドフェイズに【スタンド】しない。"
 	],
 	"specialAttrib": [
 		"マンダロリアン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/SE47-37FOP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se47/sw_se47_37fop.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_se47/sw_se47_37fop.png",
+	"tags": null,
+	"expansionId": 483
 }

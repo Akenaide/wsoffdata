@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まぁ辛うじて合格かな？",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_011.png",
+	"tags": null,
+	"expansionId": 391
 }

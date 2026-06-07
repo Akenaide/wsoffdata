@@ -15,8 +15,8 @@
 	"rarity": "OFR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの控え室の、《デート》か《精霊》のキャラを1枚クロック置場の下に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/WE33-001OFR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_we33/dal_we33_001ofr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_we33/dal_we33_001ofr.png",
+	"tags": null,
+	"expansionId": 339
 }

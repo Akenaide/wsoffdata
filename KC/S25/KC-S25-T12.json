@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "五十鈴です。水雷戦隊の指揮ならお任せ。",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「水雷戦隊、突撃！」があるなら、あなたのレベル1以下のキャラすべてに、そのターン中、パワーを＋1500。",
 		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"軽巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_t12.png",
+	"tags": null,
+	"expansionId": 112
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
 		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《バジュラ》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"バジュラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_034.png",
+	"tags": null,
+	"expansionId": 61
 }

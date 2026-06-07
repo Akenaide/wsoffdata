@@ -15,17 +15,17 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 経験 ［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「幾度と見た妄想のライブ」があり、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《音楽》のキャラか「失態の歴史」を3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 経験 ［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「幾度と見た妄想のライブ」があり、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《音楽》のキャラか「失態の歴史」を3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BTR/W107-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/btr_w107/btr_w107_068.png",
+	"tags": null,
+	"expansionId": 444
 }

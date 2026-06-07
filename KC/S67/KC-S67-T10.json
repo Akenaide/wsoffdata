@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "用があるなら目を見て言いなさいな！",
+	"trigger": null,
 	"ability": [
-		"【永】 前列にこのカードがいるなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【永】 前列にこのカードがいるなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-T10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_t10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_t10.png",
+	"tags": null,
+	"expansionId": 269
 }

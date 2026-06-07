@@ -15,17 +15,15 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ゴモリン」をＸ枚まで選び、このカードの下にマーカーとして裏向きに置く。Ｘはあなたの前列の「ゴモリン」の枚数に等しい。"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr\u003e【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ゴモリン」をＸ枚まで選び、このカードの下にマーカーとして裏向きに置く。Ｘはあなたの前列の「ゴモリン」の枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KI/S44-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_015.png",
+	"tags": null,
+	"expansionId": 177
 }

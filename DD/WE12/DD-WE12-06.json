@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ガウル「姉上ッ！？」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラがいないなら、このカードのパワーを＋1500し、このカードは相手のキャラの【自】の効果によって【リバース】されない。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_06.png",
+	"tags": null,
+	"expansionId": 71
 }

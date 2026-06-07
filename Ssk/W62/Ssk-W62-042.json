@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今のわたしは、誰が何と言おうと、世界で一番幸せな女の子だ",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の《スニーカー文庫》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
 	],
@@ -25,8 +25,9 @@
 		"妖精",
 		"剣術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssk/W62-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ssk_w62/ssk_w62_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ssk_w62/ssk_w62_042.png",
+	"tags": null,
+	"expansionId": 259
 }

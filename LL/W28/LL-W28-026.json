@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こ、コーヒーおまたっひゃう！\u003cbr /\u003eあ…あぶなかったあ…",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。",
 		"【自】 このカードがアタックした時、あなたは自分のクライマックス置場のクライマックスを1枚選び、ストック置場に置いてよい。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"ウェイトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W28-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w28/ll_w28_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w28/ll_w28_026.png",
+	"tags": null,
+	"expansionId": 110
 }

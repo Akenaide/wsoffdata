@@ -8,14 +8,14 @@
 	"jpName": "二息歩行",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "相対のチュー\u003cbr /\u003eキミは今からアタシの息を吸って生きてくの",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PD/S29-124",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_124.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s29/pd_s29_124.png",
+	"tags": null,
+	"expansionId": 121
 }

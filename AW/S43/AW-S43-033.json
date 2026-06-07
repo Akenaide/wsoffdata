@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はーい以上でーす。お疲れさまー",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードのパワーを＋2000。",
-		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のレベル1以下の、《アバター》か《ネット》のキャラを1枚選び、舞台の好きな枠に置き、自分の山札の上から1枚を、クロック置場に置く。"
+		"【永】 他のあなたの、《アバター》か《ネット》のキャラが3枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のレベル1以下の、《アバター》か《ネット》のキャラを1枚選び、舞台の好きな枠に置き、自分の山札の上から1枚を、クロック置場に置く。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S43-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_033.png",
+	"tags": null,
+	"expansionId": 176
 }

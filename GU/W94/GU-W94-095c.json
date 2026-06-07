@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "チョキだよ～",
+	"trigger": null,
 	"ability": [
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"あなたは相手と勝負が付くまでじゃんけんし、あなたが勝ったなら、あなたは1枚引く。"
+		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003eあなたは相手と勝負が付くまでじゃんけんし、あなたが勝ったなら、あなたは1枚引く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GU/W94-095c",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_095c.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w94/gu_w94_095c.png",
+	"tags": null,
+	"expansionId": 374
 }

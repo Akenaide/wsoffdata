@@ -15,20 +15,20 @@
 	"rarity": "GBCR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】 経験 ［手札を1枚控え室に置く］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】 経験 ［手札を1枚控え室に置く］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ダイヤモンドダスト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GCR/SE48-65GBC",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_65gbc.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gcr_se48/gcr_se48_65gbc.png",
+	"tags": null,
+	"expansionId": 497
 }

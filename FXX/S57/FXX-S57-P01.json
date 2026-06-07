@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヒロ「え、SクラスのID？」",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《パラサイト》か《フランクス》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"パラサイト",
 		"叫竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

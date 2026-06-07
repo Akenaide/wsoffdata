@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今のは惜しかったよソニー！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《兵団》か《巨人》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"兵団",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S35-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s35/aot_s35_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s35/aot_s35_038.png",
+	"tags": null,
+	"expansionId": 149
 }

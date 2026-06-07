@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "よ～し、ハム蔵、次はあの岩まで行くぞっ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［あなたの《動物》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［あなたの《動物》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_055.png",
+	"tags": null,
+	"expansionId": 129
 }

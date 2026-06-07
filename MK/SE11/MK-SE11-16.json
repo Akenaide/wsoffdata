@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じゃあこれより自由行動！",
+	"trigger": null,
 	"ability": [
 		"【自】［(3) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《警察》のキャラを2枚まで選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"警察",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE11-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se11/mk_se11_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se11/mk_se11_16.png",
+	"tags": null,
+	"expansionId": 69
 }

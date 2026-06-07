@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…っていろ　俺が必ず、お前を……",
+	"trigger": null,
 	"ability": [
-		"集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の、《魔法》か《武器》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《魔法》か《武器》のキャラの枚数に等しい。",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。"
+		"集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の、《魔法》か《武器》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《魔法》か《武器》のキャラの枚数に等しい。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RZ/S46-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s46/rz_s46_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s46/rz_s46_094.png",
+	"tags": null,
+	"expansionId": 185
 }

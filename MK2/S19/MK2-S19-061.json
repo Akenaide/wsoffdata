@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "来たわ、警察の時代よ！ ヨコハマを守るのはＧ４よーっ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「対怪盗事件捜査チーム」を含むキャラを1枚選び、手札に戻し、そのターン中、このカードのレベルを＋1し、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"警察",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_061.png",
+	"tags": null,
+	"expansionId": 87
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "本当に困ってるのなら助けてあげなくちゃ",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベルＸ以下の《夏》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「降臨の日 ひな」の枚数に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"夏",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_t11.png",
+	"tags": null,
+	"expansionId": 341
 }

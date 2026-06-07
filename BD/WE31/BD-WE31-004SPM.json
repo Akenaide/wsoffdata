@@ -15,18 +15,18 @@
 	"rarity": "SPM",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「笑顔のマジック」が置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「笑顔のマジック」が置かれた時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのトリガーチェックでトリガーアイコンに[[soul.gif]]があるカードがでた時、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE31-004SPM",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_004spm.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we31/bd_we31_004spm.png",
+	"tags": null,
+	"expansionId": 233
 }

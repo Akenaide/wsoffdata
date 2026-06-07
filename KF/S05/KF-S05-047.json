@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我が心は決して折れません",
+	"trigger": null,
 	"ability": [
 		"あなたのキャラすべてに、そのターン中、『【自】 アンコール ［(1)］』を与える。",
 		"このカードをストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KF/S05-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_047.png",
+	"tags": null,
+	"expansionId": 27
 }

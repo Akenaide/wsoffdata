@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もう佐天さん",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。あなたは自分の山札を見て《超能力》のキャラをＸ枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。あなたは自分の手札をＸ枚選び、控え室に置く。Ｘはそれらのカードのクライマックスの枚数に等しい。"
@@ -25,8 +25,9 @@
 		"超能力",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W26-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w26/rg_w26_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w26/rg_w26_038.png",
+	"tags": null,
+	"expansionId": 103
 }

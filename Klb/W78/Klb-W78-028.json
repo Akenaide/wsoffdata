@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…こまりちゃん",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"Anniversary",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W78-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klb_w78/klb_w78_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klb_w78/klb_w78_028.png",
+	"tags": null,
+	"expansionId": 296
 }

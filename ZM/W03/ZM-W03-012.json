@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "くそっ、無駄にヒラヒラしてて洗いにくいったら…",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、そのターン中、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"使い魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_012.png",
+	"tags": null,
+	"expansionId": 3
 }

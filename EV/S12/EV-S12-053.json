@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アスカ「残り、食べていいわよ」\u003cbr /\u003eヒカリ「？」",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「独り占め？ アスカ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「独り占め？ アスカ」を1枚選び、手札に戻す）",
 		"【自】 経験 ［(1)］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_053.png",
+	"tags": null,
+	"expansionId": 49
 }

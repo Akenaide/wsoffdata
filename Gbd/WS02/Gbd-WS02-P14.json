@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのアタックフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2以上なら、そのターン中、このカードのパワーを＋6000。』"
 	],
@@ -24,8 +24,9 @@
 		"電撃文庫",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gbd/WS02-P14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gbd_ws02_p14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gbd_ws02_p14.png",
+	"tags": null,
+	"expansionId": 13
 }

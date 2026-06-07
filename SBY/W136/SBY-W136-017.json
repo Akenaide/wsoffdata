@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "どっちでもいい、じゃないよね？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたのCXフェイズの始めに、前列にこのカードがいるなら、そのターン中、このカードのレベルを－1し、あなたは他の自分の《思春期》のキャラを1枚選び、そのターン中、このカードのレベルを＋Ｘ。Ｘは選んだキャラのレベルに等しい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】 あなたのCXフェイズの始めに、前列にこのカードがいるなら、そのターン中、このカードのレベルを－1し、あなたは他の自分の《思春期》のキャラを1枚選び、そのターン中、このカードのレベルを＋Ｘ。Ｘは選んだキャラのレベルに等しい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"アイドル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_017.png",
+	"tags": null,
+	"expansionId": 547
 }

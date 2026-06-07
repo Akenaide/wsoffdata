@@ -15,8 +15,8 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「泣くことは恥ずかしいことじゃない」その言葉\u003cbr /\u003eをもらえたから、アイドルやってこられたんです",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「明るい親子 愛＆舞」を1枚選び、思い出にする。",
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
@@ -25,8 +25,9 @@
 		"音楽",
 		"お茶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_092.png",
+	"tags": null,
+	"expansionId": 80
 }

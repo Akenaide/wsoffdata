@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】[(1)］ このカードがアタックした時、クライマックス置場に「避けられぬ衝突」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"お茶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W35-001S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_001s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_001s.png",
+	"tags": null,
+	"expansionId": 140
 }

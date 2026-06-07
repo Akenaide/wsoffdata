@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "－",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのクライマックス置場に「Happy×2 Days」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。』"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr/\u003e【自】 あなたのクライマックス置場に「Happy×2 Days」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-050S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_050s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_050s.png",
+	"tags": null,
+	"expansionId": 151
 }

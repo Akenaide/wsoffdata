@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お帰りなさいませ、ご主人様ぁ～～とまあ…こんな具合にだな…",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

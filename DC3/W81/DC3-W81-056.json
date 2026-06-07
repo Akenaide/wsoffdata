@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "杏「寝不足でも同じだから、すももは気をつけなさいね？」\u003cbr\u003eすもも「……ぎく」",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－1。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《委員長》か《演劇》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《委員長》か《演劇》のキャラの枚数×500に等しい。"
+		"【永】 舞台のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《委員長》か《演劇》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《委員長》か《演劇》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"委員長",
 		"演劇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W81-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w81/dc3_w81_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w81/dc3_w81_056.png",
+	"tags": null,
+	"expansionId": 310
 }

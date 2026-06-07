@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一斉に行くわよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「キリト」か「アスナ」か「ユイ」を含むキャラが2枚以上なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S51-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s51/sao_s51_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s51/sao_s51_p05.png",
+	"tags": null,
+	"expansionId": 13
 }

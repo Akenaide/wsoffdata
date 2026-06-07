@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フリーレン「暗いよー！！怖いよー！！」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、あなたは自分の山札を上から4枚まで見て、イベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"魔物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S108-035S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_035s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s108/sfn_s108_035s.png",
+	"tags": null,
+	"expansionId": 466
 }

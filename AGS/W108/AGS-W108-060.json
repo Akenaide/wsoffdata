@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "のどか「私ったら、いつまでも憧れてばっかりで……今日だって…」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の手札の「新たな仲間 のどか」を1枚選び、控え室に置いてよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－3。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "AGS/W108-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ags_w108/ags_w108_060.png",
+	"tags": null,
+	"expansionId": 446
 }

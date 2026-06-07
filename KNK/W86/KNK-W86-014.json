@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハロー和くん",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《かのかり》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】［手札の《かのかり》のキャラを1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚と、そのキャラ以外の相手のレベル1以下のキャラを1枚選び、それぞれを【スタンド】して入れ替える。"
+		"【永】 あなたのターン中、他のあなたの《かのかり》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】［手札の《かのかり》のキャラを1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚と、そのキャラ以外の相手のレベル1以下のキャラを1枚選び、それぞれを【スタンド】して入れ替える。"
 	],
 	"specialAttrib": [
 		"かのかり"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_014.png",
+	"tags": null,
+	"expansionId": 322
 }

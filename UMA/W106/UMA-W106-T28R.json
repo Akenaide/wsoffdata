@@ -15,17 +15,17 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。"
+		"【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 継承 他のあなたのキャラが手札から舞台に置かれた時、そのキャラの下にマーカーがないなら、あなたはこのカードの下のマーカー1枚までとこのカードを選び、その舞台に置かれたキャラの下にマーカーとして好きな順番で表向きに置いてよい。そうしたら、残りのマーカーを控え室に置く。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-T28R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t28r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_t28r.png",
+	"tags": null,
+	"expansionId": 430
 }

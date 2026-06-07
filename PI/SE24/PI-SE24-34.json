@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "逃げられた！？",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE24-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se24/pi_se24_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se24/pi_se24_34.png",
+	"tags": null,
+	"expansionId": 133
 }

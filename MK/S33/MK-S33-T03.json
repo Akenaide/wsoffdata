@@ -15,17 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―それからはあっという間だった―",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードが《音楽》を持つなら、このカードのソウルを＋1。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
+		"【永】 このカードが《音楽》を持つなら、このカードのソウルを＋1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_t03.png",
+	"tags": null,
+	"expansionId": 138
 }

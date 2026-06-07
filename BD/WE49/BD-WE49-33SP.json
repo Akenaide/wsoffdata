@@ -15,21 +15,21 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《MyGO!!!!!》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「終わらせてあげる」があり、他のあなたのキャラが3枚以上なら、あなたは自分の山札を上から4枚まで見て、《Anniversary》か《MyGO!!!!!》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【永】 他のあなたの、《Anniversary》か《MyGO!!!!!》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「終わらせてあげる」があり、他のあなたのキャラが3枚以上なら、あなたは自分の山札を上から4枚まで見て、《Anniversary》か《MyGO!!!!!》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"MyGO!!!!!"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE49-33SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_33sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we49/bd_we49_33sp.png",
+	"tags": null,
+	"expansionId": 526
 }

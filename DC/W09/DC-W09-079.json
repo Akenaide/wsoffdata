@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『なる』んじゃないわ。『する』の。私たちの手で、ね",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《委員長》か《メカ》のキャラが2枚以上なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"委員長",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W09-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w09/dc_w09_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w09/dc_w09_079.png",
+	"tags": null,
+	"expansionId": 39
 }

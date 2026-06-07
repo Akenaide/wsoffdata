@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいかみんな、俺たちでもう一度修学旅行に行っくぞーっ！！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のレベル1以下のキャラを1枚選び、そのターン中、レベルを＋1。",
 		"【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE18-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we18/lb_we18_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we18/lb_we18_06.png",
+	"tags": null,
+	"expansionId": 116
 }

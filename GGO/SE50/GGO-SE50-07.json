@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "香蓮さん、ピトフーイさんやフカ次郎さん達と組んで出るってさ！",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「お菓子も食べたい！ 咲＆ミラナ」を1枚選び、このカードがいた枠に置き、そのターン中、そのキャラのパワーを＋Ｘ。Ｘはあなたの、《アバター》か《ネット》のキャラの枚数×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/SE50-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_se50/ggo_se50_07.png",
+	"tags": null,
+	"expansionId": 508
 }

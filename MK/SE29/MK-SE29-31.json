@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "敗者復活の宝石を手に入れて華麗に復活するんだも～ん！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「キレる5秒前 小衣」1枚につき、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"警察",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE29-31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se29/mk_se29_31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se29/mk_se29_31.png",
+	"tags": null,
+	"expansionId": 169
 }

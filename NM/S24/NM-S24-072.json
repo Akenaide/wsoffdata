@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "人生の言うことは、絶対",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_072.png",
+	"tags": null,
+	"expansionId": 105
 }

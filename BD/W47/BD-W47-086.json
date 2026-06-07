@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "変態だ……",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードのカード名に「香澄」か「たえ」か「りみ」か「沙綾」か「有咲」を含むキャラの枚数×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"うさぎ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_086.png",
+	"tags": null,
+	"expansionId": 196
 }

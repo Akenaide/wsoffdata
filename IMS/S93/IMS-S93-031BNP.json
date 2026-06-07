@@ -15,18 +15,18 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うぅ……最近、こういう格好も減ってきたと思ってたのに……",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
-		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「White Vows」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「White Vows」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"看護"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-031BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_031bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_031bnp.png",
+	"tags": null,
+	"expansionId": 392
 }

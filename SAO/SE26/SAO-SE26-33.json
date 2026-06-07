@@ -1,6 +1,6 @@
 {
 	"set": "SAO",
-	"setName": "ソードアート・オンラインⅡ Vol.2",
+	"setName": " ソードアート・オンラインⅡ Vol.2",
 	"side": "S",
 	"release": "E26",
 	"id": "33",
@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "キリト「決して君を撃たせやしない」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr/\u003e【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE26-33",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se26/sao_se26_33.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se26/sao_se26_33.png",
+	"tags": null,
+	"expansionId": 146
 }

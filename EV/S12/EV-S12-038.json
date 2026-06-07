@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "速攻で片付けないと本部がパーじゃん",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_038.png",
+	"tags": null,
+	"expansionId": 49
 }

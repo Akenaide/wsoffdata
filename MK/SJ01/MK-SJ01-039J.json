@@ -1,6 +1,6 @@
 {
 	"set": "MK",
-	"setName": "ミルキィホームズ ファンファンパーリーパック♪",
+	"setName": " ミルキィホームズ ファンファンパーリーパック♪",
 	"side": "S",
 	"release": "J01",
 	"id": "039J",
@@ -8,26 +8,25 @@
 	"jpName": "クライ！",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "小衣「それは小衣の手よ」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードは1枚ではプレイできず、「マックス！」と一緒にクライマックス置場に置かなければならない。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手と勝負が付くまでじゃんけんし、あなたが勝ったら、あなたは追加の1ターンを得る。そうでないなら、このターンのエンドフェイズになる。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【永】 このカードは1枚ではプレイできず、「マックス！」と一緒にクライマックス置場に置かなければならない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは相手と勝負が付くまでじゃんけんし、あなたが勝ったら、あなたは追加の1ターンを得る。そうでないなら、このターンのエンドフェイズになる。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/SJ01-039J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_039.png",
+	"tags": null,
+	"expansionId": 195
 }

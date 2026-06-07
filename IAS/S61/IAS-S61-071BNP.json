@@ -15,8 +15,8 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ううっ、メラメラ燃えてきたさー！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IAS/S61-071BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_s61/ias_s61_071bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_s61/ias_s61_071bnp.png",
+	"tags": null,
+	"expansionId": 251
 }

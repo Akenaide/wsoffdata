@@ -15,18 +15,18 @@
 	"rarity": "HR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのレベルを＋1し、パワーを＋2500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【永】 あなたのターン中、このカードのレベルを＋1し、パワーを＋2500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"終末世界",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VRG/WE52-06H",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vrg_we52/vrg_we52_06h.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vrg_we52/vrg_we52_06h.png",
+	"tags": null,
+	"expansionId": 542
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "新年一番最初に会ったのがエリチカなの？　ハラショー♪　キミ、とってもラッキーなのね☆",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「一粒チョコレート」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_007.png",
+	"tags": null,
+	"expansionId": 142
 }

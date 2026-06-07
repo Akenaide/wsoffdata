@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんだ、仲良さそうにやってるじゃないか",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台にこのカードがいるなら、このカードのカード名は「量産型フランクス」としても扱う。",
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「量産型フランクス」を2枚まで選び、このカードの下にマーカーとして表向きに置く。"
+		"【永】 舞台にこのカードがいるなら、このカードのカード名は「量産型フランクス」としても扱う。\u003cbr\u003e【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「量産型フランクス」を2枚まで選び、このカードの下にマーカーとして表向きに置く。"
 	],
 	"specialAttrib": [
 		"パラサイト",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_011.png",
+	"tags": null,
+	"expansionId": 241
 }

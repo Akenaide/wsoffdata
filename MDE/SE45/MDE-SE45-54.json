@@ -15,7 +15,7 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"闇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MDE/SE45-54",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mde_se45/mde_se45_54.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mde_se45/mde_se45_54.png",
+	"tags": null,
+	"expansionId": 458
 }

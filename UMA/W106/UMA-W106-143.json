@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "夢は……って感じの、固い話NGだからよろ～☆",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、手札に戻してよい。"
+		"【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-143",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_143.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_143.png",
+	"tags": null,
+	"expansionId": 431
 }

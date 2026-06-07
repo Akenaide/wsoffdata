@@ -15,19 +15,19 @@
 	"rarity": "BDR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "負けてるかもって思っちゃう自分も、\u003cbr\u003e負けたくないって思う自分も、\u003cbr\u003e全部抱えて進んでいくしかないって、今はそう思ってる",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。",
-		"【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。\u003cbr\u003e【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE49-17BDR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_17bdr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we49/bd_we49_17bdr.png",
+	"tags": null,
+	"expansionId": 526
 }

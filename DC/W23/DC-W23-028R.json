@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのレベル1以下のキャラすべてに、パワーを＋500。",
 		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
@@ -25,8 +25,9 @@
 		"音楽",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W23-028R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_028r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w23/dc_w23_028r.png",
+	"tags": null,
+	"expansionId": 90
 }

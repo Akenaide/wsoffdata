@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "神宮司先輩のためだし",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"夏",
 		"映画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_007.png",
+	"tags": null,
+	"expansionId": 342
 }

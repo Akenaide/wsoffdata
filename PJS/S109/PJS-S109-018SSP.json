@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたの《ワンダーランズ×ショウタイム》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《ワンダーランズ×ショウタイム》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+		"【カウンター】 このカードは、あなたの《ワンダーランズ×ショウタイム》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《ワンダーランズ×ショウタイム》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PJS/S109-018SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_018ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s109/pjs_s109_018ssp.png",
+	"tags": null,
+	"expansionId": 455
 }

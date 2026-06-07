@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちゃんとしたお祓いならお父さんのほうが…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「岡部」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_020.png",
+	"tags": null,
+	"expansionId": 243
 }

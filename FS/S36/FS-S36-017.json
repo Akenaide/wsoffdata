@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "神話の闘い、ここに再現するとしようか",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのクライマックス置場に黄のクライマックスがあるなら、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S36-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s36/fs_s36_017.png",
+	"tags": null,
+	"expansionId": 155
 }

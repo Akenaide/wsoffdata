@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リオンさん！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《定理者》か《使者》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"定理者",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HLL/WE29-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we29/hll_we29_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we29/hll_we29_06.png",
+	"tags": null,
+	"expansionId": 215
 }

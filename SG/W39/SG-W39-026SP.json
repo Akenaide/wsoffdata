@@ -15,21 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "マムが遺してくれたこの世界で…\u003cbr/\u003eカッコ悪いまま終わりたくない…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの「たどり着いた答 切歌」がいるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 あなたの「たどり着いた答 切歌」がいるなら、あなたの手札のこのカードのレベルを－1。\u003cbr/\u003e【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』\u003cbr/\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-026SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_026sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_026sp.png",
+	"tags": null,
+	"expansionId": 154
 }

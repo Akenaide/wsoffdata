@@ -15,8 +15,8 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おめでとう、お姉ちゃん",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは自分のキャラを1枚選び、そのターン中、《ヒトデ》を与え、次の能力を与える。『【起】［このカードを【レスト】する］ あなたは自分の《先生》のキャラを1枚選び、そのターン中、パワーを＋2000。』"
 	],
@@ -24,8 +24,9 @@
 		"ヒトデ",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE07-40",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we07/cl_we07_40.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we07/cl_we07_40.png",
+	"tags": null,
+	"expansionId": 41
 }

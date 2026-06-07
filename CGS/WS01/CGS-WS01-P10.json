@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おみくじの結果が何であろうと、ヴァイスシュヴァルツしよ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、相手の「御神木 しよ子」がいて、すべてのプレイヤーが認めたなら、お互いに自分の名前を公表する。あなたか相手の名前に「木」を含むなら、すべてのプレイヤーは自分の山札の上から1枚を、ストック置場に置く。（公表した情報に偽りがあるなら、そのプレイヤーはバチが当たる）",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【自】 このカードが手札から舞台に置かれた時、相手の「御神木 しよ子」がいて、すべてのプレイヤーが認めたなら、お互いに自分の名前を公表する。あなたか相手の名前に「木」を含むなら、すべてのプレイヤーは自分の山札の上から1枚を、ストック置場に置く。（公表した情報に偽りがあるなら、そのプレイヤーはバチが当たる）\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"カードゲーム",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CGS/WS01-P10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cgs_ws01/cgs_ws01_p10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cgs_ws01/cgs_ws01_p10.png",
+	"tags": null,
+	"expansionId": 11
 }

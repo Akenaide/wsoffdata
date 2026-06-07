@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の山札を上から3枚まで見て、カードを3枚まで選び、控え室に置き、残りのカードを山札に戻し、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Ssk/W123-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssk_w123_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/ssk_w123_058.png",
+	"tags": null,
+	"expansionId": 510
 }

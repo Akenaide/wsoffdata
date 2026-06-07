@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よし わたしについて来い！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《ラビットハウス》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_104.png",
+	"tags": null,
+	"expansionId": 174
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "このアイスはもう、最高のご褒美…\u003cbr /\u003eあたた、一気に食べたら頭痛がぁ…　え、えへへ",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の【スタンド】しているキャラを1枚選び、【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_029.png",
+	"tags": null,
+	"expansionId": 144
 }

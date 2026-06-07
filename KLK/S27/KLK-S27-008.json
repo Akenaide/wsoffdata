@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "神衣は今、洗濯中だ！",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「喧嘩部部長 マコ」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「喧嘩部部長 マコ」を1枚選び、手札に戻す）",
 		"【起】［(1)］ そのターン中、このカードのソウルを＋1。"
@@ -25,8 +25,9 @@
 		"服",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_008.png",
+	"tags": null,
+	"expansionId": 117
 }

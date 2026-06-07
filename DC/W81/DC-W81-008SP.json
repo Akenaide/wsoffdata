@@ -15,22 +15,21 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "胸に咲いた合図　まばたきサプライズ　こんなふうに　笑えたらいいね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 前列にこのカードがいるなら、あなたの、《Anniversary》か《魔法》か《生徒会》のキャラすべてに、パワーを＋1500。",
-		"【永】 記憶 あなたの思い出が4枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』",
-		"【自】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、他のあなたの、《Anniversary》か《魔法》か《生徒会》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+		"【永】 前列にこのカードがいるなら、あなたの、《Anniversary》か《魔法》か《生徒会》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【永】 記憶 あなたの思い出が4枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードは相手の効果に選ばれない。』\u003cbr\u003e【自】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、他のあなたの、《Anniversary》か《魔法》か《生徒会》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W81-008SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w81/dc_w81_008sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w81/dc_w81_008sp.png",
+	"tags": null,
+	"expansionId": 310
 }

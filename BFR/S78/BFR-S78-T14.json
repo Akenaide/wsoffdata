@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "持っているのだろう？金のメダルを…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたの手札が4枚以上なら、そのターン中、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BFR/S78-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bfr_s78/bfr_s78_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bfr_s78/bfr_s78_t14.png",
+	"tags": null,
+	"expansionId": 312
 }

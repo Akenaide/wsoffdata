@@ -15,20 +15,20 @@
 	"rarity": "HC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが《終末世界》か《音楽》なら、このカードのパワーを＋6000。",
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《終末世界》か《音楽》のキャラを1枚選び、手札に戻す。"
+		"【永】 あなたのターン中、あなたのキャラすべてが《終末世界》か《音楽》なら、このカードのパワーを＋6000。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《終末世界》か《音楽》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"終末世界",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VRG/WE52-27H",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vrg_we52/vrg_we52_27h.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vrg_we52/vrg_we52_27h.png",
+	"tags": null,
+	"expansionId": 542
 }

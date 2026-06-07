@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の、《魔法》かカード名に「はやて」を含むキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_070.png",
+	"tags": null,
+	"expansionId": 94
 }

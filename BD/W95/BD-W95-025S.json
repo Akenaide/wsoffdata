@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日もたーーーっくさんの人を笑顔にしましょうっ！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】しているキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を上から3枚まで見て、《Anniversary》か《ハロー、ハッピーワールド！》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W95-025S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_025s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_025s.png",
+	"tags": null,
+	"expansionId": 382
 }

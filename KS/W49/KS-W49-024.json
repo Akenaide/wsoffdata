@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うおおおおッ!!",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを－2。",
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋1500。"
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを－2。\u003cbr\u003e【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"煩悩"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_024.png",
+	"tags": null,
+	"expansionId": 192
 }

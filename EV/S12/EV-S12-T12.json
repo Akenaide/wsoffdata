@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「どいてくれる？」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラを1枚選び、山札の下に置く。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"パイロット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_t12.png",
+	"tags": null,
+	"expansionId": 42
 }

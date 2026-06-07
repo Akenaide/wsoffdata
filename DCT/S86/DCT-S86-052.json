@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "困ってるみたいね。人気者のあたしが力を貸してあげるっ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ノッカーアップ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「たこ焼きパーティ」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《ノッカーアップ》のキャラを1枚選び、手札に戻すかストック置場に置いてよい。ストック置場に置いたなら、そのターン中、このカードのパワーを＋2000。"
+		"【永】 他のあなたの《ノッカーアップ》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「たこ焼きパーティ」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《ノッカーアップ》のキャラを1枚選び、手札に戻すかストック置場に置いてよい。ストック置場に置いたなら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"ノッカーアップ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DCT/S86-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dct_s86/dct_s86_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dct_s86/dct_s86_052.png",
+	"tags": null,
+	"expansionId": 387
 }

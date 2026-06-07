@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《Afterglow》のキャラがいるなら、あなたのクライマックスフェイズの始めに、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《Afterglow》のキャラを1枚選び、そのターン中、パワーを＋1500。そのキャラが『アラーム』を持つなら、かわりにそのターン中、パワーを＋2500。"
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《Afterglow》のキャラがいるなら、あなたのクライマックスフェイズの始めに、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《Afterglow》のキャラを1枚選び、そのターン中、パワーを＋1500。そのキャラが『アラーム』を持つなら、かわりにそのターン中、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_021.png",
+	"tags": null,
+	"expansionId": 286
 }

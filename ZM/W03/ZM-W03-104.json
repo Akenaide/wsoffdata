@@ -15,7 +15,7 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "魔法が使える者を貴族と呼ぶんじゃない。\u003cbr /\u003e敵に後ろを見せない者を貴族と呼ぶのよ！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"魔法",
 		"虚無"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_104.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "咲耶「……そうだな\u003cbr\u003e恋鐘と同じようなことだよ」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 相手のアンコールステップの始めに、あなたのクロックが6枚なら、あなたはこのカードを【レスト】し、自分のクロックすべてを、山札に戻し、その山札をシャッフルする。",
-		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 相手のアンコールステップの始めに、あなたのクロックが6枚なら、あなたはこのカードを【レスト】し、自分のクロックすべてを、山札に戻し、その山札をシャッフルする。\u003cbr\u003e【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"アンティーカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_093.png",
+	"tags": null,
+	"expansionId": 468
 }

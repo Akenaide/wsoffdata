@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…バカイリヤ",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のドローフェイズの始めに、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の前列のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1500。』『あなたは自分の前列のキャラを2枚選び、控え室に置いてよい。2枚置いたなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋6000。』"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S77-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s77/fs_s77_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s77/fs_s77_009.png",
+	"tags": null,
+	"expansionId": 314
 }

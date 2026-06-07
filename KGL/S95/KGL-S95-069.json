@@ -1,6 +1,6 @@
 {
 	"set": "KGL",
-	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"setName": "かぐや様は告らせたい？\u003cs\u003e～天才たちの恋愛頭脳戦～\u003c/s\u003e",
 	"side": "S",
 	"release": "95",
 	"id": "069",
@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［他のあなたの【スタンド】している「品行方正な優等生 ミコ」を1枚控え室に置く］ あなたは自分の手札の「会計監査 ミコ」を1枚まで選び、舞台の好きな枠に置く。』",
-		"【永】 応援 このカードの前のあなたの《秀知院》のキャラすべてに、パワーを＋1500。"
+		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［他のあなたの【スタンド】している「品行方正な優等生 ミコ」を1枚控え室に置く］ あなたは自分の手札の「会計監査 ミコ」を1枚まで選び、舞台の好きな枠に置く。』\u003cbr\u003e【永】 応援 このカードの前のあなたの《秀知院》のキャラすべてに、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"秀知院",
 		"会計監査"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S95-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s95/kgl_s95_069.png",
+	"tags": null,
+	"expansionId": 394
 }

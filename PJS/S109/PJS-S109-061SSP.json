@@ -15,20 +15,19 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の『絆』を持つキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の『絆』を持つキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー",
+		"バーチャル・シンガー",
 		"Vivid BAD SQUAD"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S109-061SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_061ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s109/pjs_s109_061ssp.png",
+	"tags": null,
+	"expansionId": 455
 }

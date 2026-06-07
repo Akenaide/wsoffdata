@@ -10,20 +10,21 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "コーデリア「私の、お花畑…\u0026#9825;」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のクロックの上から2枚までを、控え室に置く。",
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/S11-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_096.png",
+	"tags": null,
+	"expansionId": 50
 }

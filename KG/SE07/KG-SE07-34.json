@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "七花に「刀集め」を提案した張本人。尾張幕府家鳴将軍家直轄預奉所軍所総監督という肩書きを持つ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋500。",
 		"【自】 絆／「“一の構え『鈴蘭』”鑢 七花」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“一の構え『鈴蘭』”鑢 七花」を1枚選び、手札に戻す）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_34.png",
+	"tags": null,
+	"expansionId": 56
 }

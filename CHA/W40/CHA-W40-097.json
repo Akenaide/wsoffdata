@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "有宇「甘…このピザソースを隠し味に使うのが、子供の舌には合っていたんだろうな…」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "CHA/W40-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_097.png",
+	"tags": null,
+	"expansionId": 152
 }

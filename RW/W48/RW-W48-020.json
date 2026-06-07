@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぎる「よっと！じゃあな！」\u003cbr\u003eぱに「短い間でしたが楽しかったですわ！」",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】［(1) このカードをバトル中のキャラの下にマーカーとして裏向きに置く］ 他のあなたのバトル中のマーカーを持つカード名に「瑚太朗」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［(1) このカードをバトル中のキャラの下にマーカーとして裏向きに置く］ 他のあなたのバトル中のマーカーを持つカード名に「瑚太朗」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W48-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_020.png",
+	"tags": null,
+	"expansionId": 186
 }

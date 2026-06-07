@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "本気で行くっスよ～！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】［他のあなたの舞台のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+		"【永】 あなたのレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】［他のあなたの舞台のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"アリスギア",
 		"アクトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AGS/W108-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ags_w108/ags_w108_043.png",
+	"tags": null,
+	"expansionId": 446
 }

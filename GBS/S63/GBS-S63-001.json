@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "森人の弓ってのはね、\u003cbr\u003e目をつむってたって当たるんだから！",
+	"trigger": null,
 	"ability": [
-		"【永】 すべてのプレイヤーは、そのターン中にプレイされたイベントと同じカード名のイベントを手札からプレイできない。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「冒険の色彩」があるなら、あなたは自分の山札の上から3枚を、控え室に置き、自分の控え室の《秩序》のキャラをＸ枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたトリガーアイコンに[SOUL]があるカードの枚数に等しい。"
+		"【永】 すべてのプレイヤーは、そのターン中にプレイされたイベントと同じカード名のイベントを手札からプレイできない。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「冒険の色彩」があるなら、あなたは自分の山札の上から3枚を、控え室に置き、自分の控え室の《秩序》のキャラをＸ枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたトリガーアイコンに[[soul.gif]]があるカードの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_001.png",
+	"tags": null,
+	"expansionId": 260
 }

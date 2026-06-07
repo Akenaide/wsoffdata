@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《Pastel＊Palettes》か《SAGA》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -25,8 +25,9 @@
 		"Pastel＊Palettes",
 		"SAGA"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE35-P11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we35/bd_we35_p11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we35/bd_we35_p11.png",
+	"tags": null,
+	"expansionId": 12
 }

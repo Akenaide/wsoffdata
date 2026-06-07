@@ -15,21 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "先輩と後輩…この絆は、世界がくれたもの",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、クライマックス置場に「MEGA DETH FUGA」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
-		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-		"【自】 記憶 あなたのアンコールステップの始めに、あなたの思い出置場に「イグナイトモジュール」がないなら、このカードを控え室に置く。"
+		"【自】 このカードがアタックした時、クライマックス置場に「MEGA DETH FUGA」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）\u003cbr/\u003e【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\u003cbr/\u003e【自】 記憶 あなたのアンコールステップの始めに、あなたの思い出置場に「イグナイトモジュール」がないなら、このカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-051SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_051sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_051sp.png",
+	"tags": null,
+	"expansionId": 154
 }

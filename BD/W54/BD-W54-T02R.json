@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私はいちギタリストとしての意見を言っただけよ",
+	"trigger": null,
 	"ability": [
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。\u003cbr/\u003e【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-T02R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_t02r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_t02r.png",
+	"tags": null,
+	"expansionId": 212
 }

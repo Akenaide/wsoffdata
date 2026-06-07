@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "とーちゃんはとーちゃんなんだよ！この匂いわかるでしょ！？",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の、《家族》か《幼稚園》のキャラを1枚選び、そのターン中、パワーを＋4500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "CS/S28-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_071.png",
+	"tags": null,
+	"expansionId": 114
 }

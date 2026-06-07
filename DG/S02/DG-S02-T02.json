@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もの凄くイヤな予感がするッス！",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じ名前のカードは、デッキに好きな枚数入れることができる。",
 		"【起】［あなたの《プリニー》のキャラを1枚控え室に置く］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"プリニー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_t02.png",
+	"tags": null,
+	"expansionId": 9
 }

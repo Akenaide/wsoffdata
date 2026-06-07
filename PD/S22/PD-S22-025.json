@@ -8,14 +8,14 @@
 	"jpName": "リモコン",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "Up Side Down A B A B B A B A 左 右\u003cbr /\u003eL R L R Stop \u0026 Dash \u0026 Up \u0026 Talk 異常ナシ",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PD/S22-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_025.png",
+	"tags": null,
+	"expansionId": 93
 }

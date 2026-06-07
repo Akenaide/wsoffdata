@@ -15,21 +15,21 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "奏さんもぬぐんですか？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《スニーカー文庫》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを-1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。"
+		"【永】 あなたの《スニーカー文庫》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを-1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"神",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Snk/W62-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/snk_w62/snk_w62_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/snk_w62/snk_w62_003.png",
+	"tags": null,
+	"expansionId": 259
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "仲間・・・・じゃなかったのか？\u003cbr /\u003eそれを消して喜んでるとァどうかしてるぜ",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) このカードを控え室に置く］ 他のあなたの《竜》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_30.png",
+	"tags": null,
+	"expansionId": 68
 }

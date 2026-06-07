@@ -1,6 +1,6 @@
 {
 	"set": "KGL",
-	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"setName": "かぐや様は告らせたい？\u003cs\u003e～天才たちの恋愛頭脳戦～\u003c/s\u003e",
 	"side": "S",
 	"release": "95",
 	"id": "055",
@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今夜は中秋の名月！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのイベントは、色条件を満たさずに手札からプレイできる。",
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【起】［手札のクライマックスを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の《秀知院》のキャラを1枚選び、手札に戻す。"
+		"【永】 あなたのイベントは、色条件を満たさずに手札からプレイできる。\u003cbr\u003e【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［手札のクライマックスを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の《秀知院》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"秀知院",
 		"会長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S95-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s95/kgl_s95_055.png",
+	"tags": null,
+	"expansionId": 394
 }

@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「しろくろフェス しよ子 2015」1枚につき、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"カードゲーム",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SI/WPR-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/si_wpr/si_wpr_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/si_wpr/si_wpr_006.png",
+	"tags": null,
+	"expansionId": 12
 }

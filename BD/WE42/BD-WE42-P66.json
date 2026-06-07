@@ -15,19 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《RAISE A SUILEN》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《RAISE A SUILEN》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE42-P66",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p66.png?ver=20231215",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we42/bd_we42_p66.png?ver=20231215",
+	"tags": null,
+	"expansionId": 12
 }

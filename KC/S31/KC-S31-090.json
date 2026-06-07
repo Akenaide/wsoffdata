@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "潜水艦と編成ですか？　お任せください！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「龍鳳型軽空母 龍鳳」を1枚選び、このカードがいた枠に置く。』",
 		"【起】［このカードを【レスト】する］ あなたは自分の《艦娘》のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"潜水母艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_090.png",
+	"tags": null,
+	"expansionId": 130
 }

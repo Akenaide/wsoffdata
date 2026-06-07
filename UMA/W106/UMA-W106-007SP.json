@@ -15,17 +15,17 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラがいるなら、そのターン中、このカードのパワーを＋6000。",
-		"【自】［このカードの下のマーカーを1枚控え室に置く］ バトル中のこのカードが【リバース】した時、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラがいるなら、そのターン中、このカードのパワーを＋6000。\u003cbr\u003e【自】［このカードの下のマーカーを1枚控え室に置く］ バトル中のこのカードが【リバース】した時、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-007SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_007sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_007sp.png",
+	"tags": null,
+	"expansionId": 431
 }

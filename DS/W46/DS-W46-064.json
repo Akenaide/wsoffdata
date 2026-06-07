@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……このままで、よいのか？",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、このカードは次のあなたのスタンドフェイズに【スタンド】しない。"
 	],
@@ -24,8 +24,9 @@
 		"風南島",
 		"中二病"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W46-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w46/ds_w46_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w46/ds_w46_064.png",
+	"tags": null,
+	"expansionId": 178
 }

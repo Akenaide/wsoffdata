@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シロウ！ あまりこちらを見ないでください！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがレベルアップした時、あなたのキャラすべてに、そのターン中、レベルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_046.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_046.gif",
+	"tags": null,
+	"expansionId": 13
 }

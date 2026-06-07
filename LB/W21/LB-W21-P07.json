@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "謙吾「二人はここにいてくれ」\u003cbr /\u003e真人「クド公を頼むぜ」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《筋肉》か《スポーツ》のキャラが3枚以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"筋肉",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-P07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_p07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_p07.png",
+	"tags": null,
+	"expansionId": 12
 }

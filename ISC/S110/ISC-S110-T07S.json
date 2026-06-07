@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私、思い出を作りにきたんじゃないんです！\u003cbr\u003eわかってますか？　プロデューサーさん！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ あなたのクライマックス置場に「あっかい」が置かれた時、他のあなたの「シルキージェムシリカ 緋田美琴」がいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋1500。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ あなたのクライマックス置場に「あっかい」が置かれた時、他のあなたの「シルキージェムシリカ 緋田美琴」がいるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋1500。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"シーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-T07S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_t07s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_t07s.png",
+	"tags": null,
+	"expansionId": 467
 }

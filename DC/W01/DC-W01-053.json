@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "焼きバナナでも冷やしバナナでもドンと来いですぅ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「音夢」を含むキャラすべてに、パワーを＋500。",
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"バナナ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W01-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w01/dc_w01_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w01/dc_w01_053.png",
+	"tags": null,
+	"expansionId": 1
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シャロ「ココロちゃん！一緒に手がかりを見つけようね！」\u003cbr /\u003e小衣「ココロちゃんって言うな～！」",
+	"trigger": null,
 	"ability": [
 		"【自】 ［あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、相手の「合同捜査 小衣＆シャロ」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手と勝負が付くまでじゃんけんし、勝ったプレイヤーは1枚引く。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"警察"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-T02_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_t02.png",
+	"tags": null,
+	"expansionId": 42
 }

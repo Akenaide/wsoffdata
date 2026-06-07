@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やよいちゃんが、いつもの様に\u003cbr /\u003e給湯室の掃除をしていたけど……",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_012.png",
+	"tags": null,
+	"expansionId": 80
 }

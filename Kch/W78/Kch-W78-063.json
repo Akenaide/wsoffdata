@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ではお口を開けてくださーい",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚まで選び、思い出にし、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"能力者",
 		"ピザソース"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kch/W78-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kch_w78/kch_w78_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kch_w78/kch_w78_063.png",
+	"tags": null,
+	"expansionId": 296
 }

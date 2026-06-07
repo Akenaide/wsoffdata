@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "新生ヘルヴォルは、歴代のヘルヴォルと異なります。その違いは、今後の活躍で証明いたします",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの後列の《リリィ》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「空から見える景色」があり、他のあなたの《リリィ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《リリィ》のキャラを2枚まで選び、手札に戻す。"
+		"【永】 他のあなたの後列の《リリィ》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「空から見える景色」があり、他のあなたの《リリィ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《リリィ》のキャラを2枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"ヘルヴォル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_084.png",
+	"tags": null,
+	"expansionId": 371
 }

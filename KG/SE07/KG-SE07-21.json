@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 アラーム このカードがクロックの1番上にあり、あなたの《忍》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"忍",
 		"虫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_21.png",
+	"tags": null,
+	"expansionId": 56
 }

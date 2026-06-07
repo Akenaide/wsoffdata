@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "永遠結晶を持って帰らなかったら\u003cbr\u003eパパが死んじゃうのよ！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「世界を救う企み」があるなら、あなたは自分の山札を見て《フォーミュラ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"フォーミュラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NR/W58-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_064.png",
+	"tags": null,
+	"expansionId": 226
 }

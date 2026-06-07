@@ -1,6 +1,6 @@
 {
 	"set": "HLL",
-	"setName": "「ひなろじ ～from Luck ＆ Logic～」Vol.1",
+	"setName": " 「ひなろじ ～from Luck ＆ Logic～」Vol.1",
 	"side": "W",
 	"release": "E28",
 	"id": "19",
@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ロボ娘です",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードをカード名に「万博」を含むキャラの下にマーカーとして表向きに置く］ あなたは自分の山札を上から4枚まで見て、カード名に「万博」を含むキャラか「万博の発明品」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"使者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HLL/WE28-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we28/hll_we28_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we28/hll_we28_19.png",
+	"tags": null,
+	"expansionId": 210
 }

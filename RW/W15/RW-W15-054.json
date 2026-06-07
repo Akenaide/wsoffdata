@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "青い月光の元、男はこちらを見下ろしていた",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「咲夜VS瑚太朗」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"超能力",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_054.png",
+	"tags": null,
+	"expansionId": 65
 }

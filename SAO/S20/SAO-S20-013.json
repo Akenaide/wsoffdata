@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私と戦い、勝てばアスナ君を連れていくがいい。\u003cbr /\u003eだが、負けたら君が血盟騎士団に入るのだ",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_013.png",
+	"tags": null,
+	"expansionId": 92
 }

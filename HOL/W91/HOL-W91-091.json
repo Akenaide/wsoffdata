@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 記憶 ［(1)］ あなたがこのカードの『助太刀』を使った時、あなたの思い出置場の異なるカード名のカードが3枚以上なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）",
-		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+		"【自】 記憶 ［(1)］ あなたがこのカードの『助太刀』を使った時、あなたの思い出置場の異なるカード名のカードが3枚以上なら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）\u003cbr\u003e【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"5期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_091.png",
+	"tags": null,
+	"expansionId": 357
 }

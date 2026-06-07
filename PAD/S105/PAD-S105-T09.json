@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのキャラが1枚以下なら、手札からプレイできない。",
-		"あなたの控え室のクライマックスが2枚以上なら、あなたは自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「星翔の大魔女・ファスカ」の枚数に等しい。"
+		"このカードは、あなたのキャラが1枚以下なら、手札からプレイできない。\u003cbr\u003eあなたの控え室のクライマックスが2枚以上なら、あなたは自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「星翔の大魔女・ファスカ」の枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PAD/S105-T09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_t09.png",
+	"tags": null,
+	"expansionId": 425
 }

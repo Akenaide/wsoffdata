@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "楽しいな…あたし…こんなに楽しく歌を唄えるんだ…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「クリス」を含むキャラが3枚以上なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W27-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w27/sg_w27_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w27/sg_w27_064.png",
+	"tags": null,
+	"expansionId": 107
 }

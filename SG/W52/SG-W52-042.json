@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ノイズだと括った高が、そうさせる",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは自分の《錬金術》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"錬金術",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W52-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w52/sg_w52_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w52/sg_w52_042.png",
+	"tags": null,
+	"expansionId": 206
 }

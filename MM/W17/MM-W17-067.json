@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "訳がわからないよ。\u003cbr /\u003eどうして人間はそんなに、魂の在処にこだわるんだい？",
+	"trigger": null,
 	"ability": [
 		"【永】 前列にこのカードがいるなら、他のあなたの前列の中央の枠の《魔法》のキャラに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_067.png",
+	"tags": null,
+	"expansionId": 74
 }

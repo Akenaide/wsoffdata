@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これが国宝のダイヤ、『サザンスター』・・・！美しい",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《怪盗》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE09-04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se09/mk_se09_04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se09/mk_se09_04.png",
+	"tags": null,
+	"expansionId": 62
 }

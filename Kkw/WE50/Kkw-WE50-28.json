@@ -15,21 +15,21 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "まだですよ。もうちょっとお待ちください",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードは相手の効果に選ばれない。",
-		"【永】 他のあなたの《科学》のキャラすべてに、ソウルを＋1。"
+		"【永】 このカードは相手の効果に選ばれない。\u003cbr\u003e【永】 他のあなたの《科学》のキャラすべてに、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"動物",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kkw/WE50-28",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/kkw_we50_28.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/kkw_we50_28.png",
+	"tags": null,
+	"expansionId": 532
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋5000。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「元気いっぱい地方ロケ！」があるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚まで選び、手札に戻す。選んだキャラのレベルが3以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
+		"【永】 あなたのターン中、このカードのパワーを＋5000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「元気いっぱい地方ロケ！」があるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚まで選び、手札に戻す。選んだキャラのレベルが3以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"MORE MORE JUMP！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S125-035S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_035s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s125/pjs_s125_035s.png",
+	"tags": null,
+	"expansionId": 536
 }

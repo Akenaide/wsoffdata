@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "グッドアフタヌーン！ グッドＴＫＢがヌーン！！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の、「忠実なる臣下 ストーンリバー」と「忠実なる臣下 ラット」がいるなら、このカードのパワーを＋2000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
 		"【起】［(1)］ そのターン中、このカードのカード名は「忠実なる臣下 ストーンリバー」と「忠実なる臣下 ラット」としても扱う。"
@@ -25,8 +25,9 @@
 		"怪盗",
 		"ナルシスト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_005.png",
+	"tags": null,
+	"expansionId": 87
 }

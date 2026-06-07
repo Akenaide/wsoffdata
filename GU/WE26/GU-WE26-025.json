@@ -15,19 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "改めて言われると難しいな……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そうしたら、そのカードのトリガーアイコンの[SOUL]1つにつき、そのターン中、このカードのソウルを＋1。"
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そうしたら、そのカードのトリガーアイコンの[[soul.gif]]1つにつき、そのターン中、このカードのソウルを＋1。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE26-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we26/gu_we26_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we26/gu_we26_025.png",
+	"tags": null,
+	"expansionId": 184
 }

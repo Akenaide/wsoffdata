@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "海中遊泳を遂行。\u003cbr /\u003e貴官には「バタ足」の訓練を推奨。なお、当機は「浮き輪」としても支援可能。",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"メカ",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

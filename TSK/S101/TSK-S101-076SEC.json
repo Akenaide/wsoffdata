@@ -15,18 +15,18 @@
 	"rarity": "SEC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《魔大陸》なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。』",
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。"
+		"【永】 あなたのキャラすべてが《魔大陸》なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。』\u003cbr\u003e【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"魔王"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S101-076SEC",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_076sec.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s101/tsk_s101_076sec.png",
+	"tags": null,
+	"expansionId": 412
 }

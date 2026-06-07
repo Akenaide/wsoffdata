@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしに向いてる作戦ね",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_003.png",
+	"tags": null,
+	"expansionId": 119
 }

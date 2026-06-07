@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "元気",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの《宇宙人》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"SOS団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/WE09-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_we09/sy_we09_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_we09/sy_we09_22.png",
+	"tags": null,
+	"expansionId": 52
 }

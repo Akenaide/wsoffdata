@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の《サマポケ》のキャラを1枚選び、そのターン中、パワーを＋5500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SMP/W60-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_020.png",
+	"tags": null,
+	"expansionId": 238
 }

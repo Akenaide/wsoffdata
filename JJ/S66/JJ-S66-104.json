@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "行くよッ！オレも行くッ！行くんだよォ――――――ッ!!",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"黄金の風",
 		"スタンド使い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/S66-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_s66/jj_s66_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_s66/jj_s66_104.png",
+	"tags": null,
+	"expansionId": 277
 }

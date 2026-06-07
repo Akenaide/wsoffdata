@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "み、みみ、見ましたかっ…？",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたの《秩序》のキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000。"
+		"【永】 相手のターン中、他のあなたの《秩序》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-070S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_070s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_070s.png",
+	"tags": null,
+	"expansionId": 260
 }

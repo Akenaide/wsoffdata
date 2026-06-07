@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "咲太、ちょっと手伝ってよ",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「おはようのチュー」が置かれた時、前列にこのカードがいて、他のあなたの《思春期》のキャラがいるなら、あなたは自分の控え室のコスト0以下の《思春期》のキャラを1枚選び、舞台の好きな枠に置いてよい。"
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「おはようのチュー」が置かれた時、前列にこのカードがいて、他のあなたの《思春期》のキャラがいるなら、あなたは自分の控え室のコスト0以下の《思春期》のキャラを1枚選び、舞台の好きな枠に置いてよい。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_054.png",
+	"tags": null,
+	"expansionId": 290
 }

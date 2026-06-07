@@ -15,19 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《電撃文庫》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《電撃文庫》のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"大和",
 		"代行者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gsd/WS02-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gsd_ws02_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gsd_ws02_p05.png",
+	"tags": null,
+	"expansionId": 13
 }

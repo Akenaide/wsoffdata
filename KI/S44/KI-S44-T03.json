@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えっとー、ひとつでも新山仁子でぇす。\u003cbr\u003e……洲籠高校、2年A組",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《キズナ》のキャラすべてに、パワーを＋500。",
-		"【起】［あなたの舞台の『絆』を持つキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
+		"【永】 他のあなたの《キズナ》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［あなたの舞台の『絆』を持つキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"キズナ",
 		"不思議"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KI/S44-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_t03.png",
+	"tags": null,
+	"expansionId": 161
 }

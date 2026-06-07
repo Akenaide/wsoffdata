@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わ、わっ！　すごい！　冷たくて甘いですよ、これ…！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「あいすくりんしょっく！」があり、あなたの手札が5枚以下なら、あなたは自分の山札を上から3枚まで見て、《秩序》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「あいすくりんしょっく！」があり、あなたの手札が5枚以下なら、あなたは自分の山札を上から3枚まで見て、《秩序》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_088.png",
+	"tags": null,
+	"expansionId": 260
 }

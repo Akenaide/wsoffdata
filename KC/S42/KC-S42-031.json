@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "Bismarckの戦い、見せてあげるわ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「Bismarck級戦艦1番艦 Bismarck」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
-		"【自】 このカードがアタックした時、クライマックス置場に「艦隊戦か…腕が鳴るわね！」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
+		"【永】 あなたのクロック置場に「Bismarck級戦艦1番艦 Bismarck」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「艦隊戦か…腕が鳴るわね！」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"戦艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_031.png",
+	"tags": null,
+	"expansionId": 173
 }

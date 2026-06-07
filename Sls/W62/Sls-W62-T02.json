@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "風の乙女よ。大気の理を知る者よ。大気の動きを静め、沈黙を導け！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《スニーカー文庫》か《ロードス島》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -25,8 +25,9 @@
 		"ロードス島",
 		"エルフ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sls/W62-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sls_w62/sls_w62_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sls_w62/sls_w62_t02.png",
+	"tags": null,
+	"expansionId": 257
 }

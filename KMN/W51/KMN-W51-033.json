@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "かばんちゃんはこんなにすっごい技を持ってるんだもん！",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは相手のキャラを1枚選び、【レスト】する。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KMN/W51-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmn_w51/kmn_w51_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmn_w51/kmn_w51_033.png",
+	"tags": null,
+	"expansionId": 205
 }

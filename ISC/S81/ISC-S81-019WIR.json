@@ -15,20 +15,20 @@
 	"rarity": "WIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "マジックアワー。スポーティビキニもマストバイ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「坂道だらけのこの街で」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「坂道だらけのこの街で」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"放課後クライマックスガールズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-019WIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_019wir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_019wir.png",
+	"tags": null,
+	"expansionId": 332
 }

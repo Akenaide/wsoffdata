@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "素敵です、お兄様",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「黒怪盗“ダークサイド・レボリューション”」がいるなら、このカードのパワーを＋4000し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』",
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「カラー・ザ・ファントム」があるなら、あなたは自分の山札を見て《怪盗》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"怪盗",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_085.png",
+	"tags": null,
+	"expansionId": 136
 }

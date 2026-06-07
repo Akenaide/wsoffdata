@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "似たような、じゃなくてまったく同じだよね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】［(2) 手札を1枚控え室に置く］ あなたのクライマックス置場に「フェアリィ・ダンス」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「仮想と現実 リーファ＆直葉」を1枚選び、舞台の好きな枠に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】［(2) 手札を1枚控え室に置く］ あなたのクライマックス置場に「フェアリィ・ダンス」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「仮想と現実 リーファ＆直葉」を1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"ネット",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE23-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se23/sao_se23_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se23/sao_se23_05.png",
+	"tags": null,
+	"expansionId": 128
 }

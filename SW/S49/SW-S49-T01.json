@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おい、冗談だろ！俺は――",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「“レジスタンスの来襲”ポー」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“レジスタンスの来襲”ポー」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_t01.png",
+	"tags": null,
+	"expansionId": 198
 }

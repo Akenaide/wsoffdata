@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《冒険者》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《冒険者》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-047S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_047s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_047s.png",
+	"tags": null,
+	"expansionId": 214
 }

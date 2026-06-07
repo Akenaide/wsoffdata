@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やれやれ、心配性だね",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から3枚を、控え室に置き、自分の控え室のレベルＸ以下の《リリィ》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれた《リリィ》のキャラの枚数に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"リリィ",
 		"ヘオロットセインツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S127-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s127/all_s127_077.png",
+	"tags": null,
+	"expansionId": 541
 }

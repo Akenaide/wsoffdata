@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もしかして、何か新しい企画のお話とか？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのクライマックス置場に黄のクライマックスがあるなら、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_027.png",
+	"tags": null,
+	"expansionId": 167
 }

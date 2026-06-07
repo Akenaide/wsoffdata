@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おれたち有利！　おれさまのおかげだ！",
+	"trigger": null,
 	"ability": [
 		"【自】 アラーム このカードがクロックの1番上にあるなら、あなたの《武器》のキャラすべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。』"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"櫂"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_066.png",
+	"tags": null,
+	"expansionId": 28
 }

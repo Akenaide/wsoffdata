@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "必要なときしか興味を持たれないというのは、\u003cbr /\u003eたしかに寂しいですね",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_102.png",
+	"tags": null,
+	"expansionId": 67
 }

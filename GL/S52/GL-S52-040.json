@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "思い知らせてやろう。本当の螺旋力というものを",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ラゼンガン」を1枚選び、このカードがいた枠に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ラゼンガン」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"ドリル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GL/S52-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gl_s52/gl_s52_040.png",
+	"tags": null,
+	"expansionId": 217
 }

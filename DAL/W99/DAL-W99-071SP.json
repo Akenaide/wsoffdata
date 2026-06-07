@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《デート》か《精霊》のキャラがいるなら、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「“〈破軍歌姫〉”」があり、他のあなたの、《デート》か《精霊》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《デート》か《精霊》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 あなたのターン中、他のあなたの、《デート》か《精霊》のキャラがいるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「“〈破軍歌姫〉”」があり、他のあなたの、《デート》か《精霊》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《デート》か《精霊》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W99-071SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w99/dal_w99_071sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w99/dal_w99_071sp.png",
+	"tags": null,
+	"expansionId": 396
 }

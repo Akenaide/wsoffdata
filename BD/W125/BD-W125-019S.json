@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は……\u003cbr\u003eバンド、楽しいって思ったこと一度もない",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《CRYCHIC》のキャラが2枚以上なら、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』",
-		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 あなたのターン中、他のあなたの《CRYCHIC》のキャラが2枚以上なら、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』\u003cbr\u003e【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"CRYCHIC"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W125-019S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_019s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w125/bd_w125_019s.png",
+	"tags": null,
+	"expansionId": 506
 }

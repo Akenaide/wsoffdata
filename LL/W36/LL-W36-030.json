@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "空気が乾燥すると、手先がピリピリしてくるよね。新しいハンドクリーム、一緒に買いに行こ♪",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「希」を含むキャラなら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－6000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LL/W36-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_030.png",
+	"tags": null,
+	"expansionId": 142
 }

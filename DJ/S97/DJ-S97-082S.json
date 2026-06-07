@@ -15,14 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"音楽",
+		"Peaky P-key"
+	],
+	"version": "4",
 	"cardcode": "DJ/S97-082S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_082s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_082s.png",
+	"tags": null,
+	"expansionId": 423
 }

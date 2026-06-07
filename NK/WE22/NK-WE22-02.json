@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "さぁ！！ご感想は！！？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの、《武器》か《令嬢》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの、《武器》か《令嬢》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+		"【永】 あなたの、《武器》か《令嬢》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの、《武器》か《令嬢》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードがフロントアタックされた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
 	"specialAttrib": [
 		"令嬢",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/WE22-02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_we22/nk_we22_02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_we22/nk_we22_02.png",
+	"tags": null,
+	"expansionId": 147
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "信号無視をしないでくれたのも、嬉しかったです－－",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 他のあなたの《怪異》のキャラが2枚以上なら、このカードのパワーを＋1000。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 他のあなたの《怪異》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"怪異",
 		"霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_057.png",
+	"tags": null,
+	"expansionId": 159
 }

@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"リベンジ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TRV/S92-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_101.png",
+	"tags": null,
+	"expansionId": 389
 }

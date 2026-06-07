@@ -8,25 +8,26 @@
 	"jpName": "覚醒する“王の能力”",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "真名「ならヴォイドを集めて。強いヴォイドを。\u003cbr /\u003e――あなたの右腕は、そうやって\u003cbr /\u003e未来を紡ぎだすためのものなのだから」",
 	"trigger": [
 		"RETURN",
 		"SOUL"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+		"（[[bounce.gif]]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GC/S16-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_025.png",
+	"tags": null,
+	"expansionId": 76
 }

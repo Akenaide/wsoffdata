@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……ほんとうち、何でこんなことしてるんでしょう……",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてが《縁》なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《縁》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"縁",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AMG/W121-078S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_078s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/amg_w121/amg_w121_078s.png",
+	"tags": null,
+	"expansionId": 512
 }

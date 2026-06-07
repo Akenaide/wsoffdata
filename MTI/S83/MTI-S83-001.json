@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "雄大なる水の精霊にして、天に上りし雷帝の王子よ！ 我が願いを叶え、凶暴なる恵みをもたらし、矮小なる存在に力を見せつけよ！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
+		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"魔術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_001.png",
+	"tags": null,
+	"expansionId": 346
 }

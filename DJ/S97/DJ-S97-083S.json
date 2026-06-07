@@ -15,17 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋3000。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』"
+		"【永】 あなたのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"音楽",
+		"Peaky P-key"
+	],
+	"version": "4",
 	"cardcode": "DJ/S97-083S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_083s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_083s.png",
+	"tags": null,
+	"expansionId": 423
 }

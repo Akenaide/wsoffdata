@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ミカ「彼女はミズキ元DAだ。所属は情報部」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×1000に等しい。",
-		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"リコリコ",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/W105-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_w105/lrc_w105_027.png",
+	"tags": null,
+	"expansionId": 426
 }

@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふふ……やっぱり敦也くんは私の喜ぶご褒美をよく判ってるなあ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《風南島》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
+		"【永】 他のあなたの、《Anniversary》か《風南島》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"風南島",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W81-101S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w81/ds_w81_101s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w81/ds_w81_101s.png",
+	"tags": null,
+	"expansionId": 310
 }

@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "奥方、それで我が用向きだが…",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見て《炎》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札を1枚選び、控え室に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SS/W14-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_026.png",
+	"tags": null,
+	"expansionId": 58
 }

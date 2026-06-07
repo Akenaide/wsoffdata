@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "送ってないよね……あたし、倫也にメール、してないよね？",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは自分の《ゲーム》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_022.png",
+	"tags": null,
+	"expansionId": 278
 }

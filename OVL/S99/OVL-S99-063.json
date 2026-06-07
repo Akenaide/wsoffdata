@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "大義名分が必要だったのよ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
-		"【自】【CXコンボ】［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックス置場に「抑えきれない感情」が置かれた時、あなたのレベルが2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「主へと捧ぐ愛 アルベド」を1枚まで選び、このカードがいた枠に置き、自分の控え室の「暴走する思い」を1枚まで選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】【CXコンボ】［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックス置場に「抑えきれない感情」が置かれた時、あなたのレベルが2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「主へと捧ぐ愛 アルベド」を1枚まで選び、このカードがいた枠に置き、自分の控え室の「暴走する思い」を1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"異形種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S99-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s99/ovl_s99_063.png",
+	"tags": null,
+	"expansionId": 404
 }

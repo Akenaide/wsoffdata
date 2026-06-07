@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "スキップ！",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 相手のターンであなたの《夏》のキャラが5枚以上なら、あなたは自分の手札を3枚選び、クロック置場に好きな順番で置いてよい。そうしたら、相手のアタックフェイズを終了しエンドフェイズに進む。",
-		"このカードをクロック置場に置く。"
+		"【カウンター】 相手のターンであなたの《夏》のキャラが5枚以上なら、あなたは自分の手札を3枚選び、クロック置場に好きな順番で置いてよい。そうしたら、相手のアタックフェイズを終了しエンドフェイズに進む。\u003cbr\u003eこのカードをクロック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DBG/W87-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_097.png",
+	"tags": null,
+	"expansionId": 342
 }

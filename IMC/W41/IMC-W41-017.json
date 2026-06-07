@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ウサミンこと、安部菜々でーす！キャハッ☆",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、舞台のこのカードのレベルを－1。",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分のストックの上から1枚を、控え室に置く。そうしたら、このカードをストック置場に置く。"
+		"【永】 あなたのターン中、舞台のこのカードのレベルを－1。\u003cbr/\u003e【自】 バトル中のこのカードが【リバース】した時、あなたは自分のストックの上から1枚を、控え室に置く。そうしたら、このカードをストック置場に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ウサミン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_017.png",
+	"tags": null,
+	"expansionId": 151
 }

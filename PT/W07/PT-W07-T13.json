@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……恩？　どういう意味だっけ？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の前列のキャラを1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"時計"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_t13.png",
+	"tags": null,
+	"expansionId": 15
 }

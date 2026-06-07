@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "勉強もせずに余裕なのね、羨ましい",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《夏》のキャラかイベントならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《夏》のキャラかイベントならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"夏",
 		"家族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_t02.png",
+	"tags": null,
+	"expansionId": 341
 }

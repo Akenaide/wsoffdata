@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "提督！　見てください！\u003cbr\u003e私が作った菜園のかぼちゃが、あんなに大きく！",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋2000し、このカードは《かぼちゃ》を得る。",
-		"【自】［(1)］ 相手のターン中、バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを控え室に置く。"
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋2000し、このカードは《かぼちゃ》を得る。\u003cbr\u003e【自】［(1)］ 相手のターン中、バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【レスト】し、次のあなたのアンコールステップの始めに、このカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_015.png",
+	"tags": null,
+	"expansionId": 270
 }

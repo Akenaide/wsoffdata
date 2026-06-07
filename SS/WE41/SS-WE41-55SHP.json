@@ -15,7 +15,7 @@
 	"rarity": "SHP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "いまは高きに声を求めずとも、\u003cbr\u003e貴方と語らうことができます",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"炎",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE41-55SHP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we41/ss_we41_55shp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we41/ss_we41_55shp.png",
+	"tags": null,
+	"expansionId": 447
 }

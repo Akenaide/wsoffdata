@@ -15,7 +15,7 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "相手がなんであろうと、それが魔であるのなら、我が盾は聖歌を奏でる",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"盾",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_027.png",
+	"tags": null,
+	"expansionId": 48
 }

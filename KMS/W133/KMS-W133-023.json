@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "わ……。置……。て……。先に……。行……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《きんいろ》のキャラがいるなら、あなたは自分か相手の、山札の上から3枚を、控え室に置く。",
-		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《きんいろ》のキャラがいるなら、あなたは自分か相手の、山札の上から3枚を、控え室に置く。\u003cbr\u003e【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"金髪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_023.png",
+	"tags": null,
+	"expansionId": 534
 }

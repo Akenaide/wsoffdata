@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うんっ！　それだけ情報があれば、\u003cbr\u003eもう見つけたも同然だね",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、あなたのキャラすべてが《怪異》なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"パジャマ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_010.png",
+	"tags": null,
+	"expansionId": 159
 }

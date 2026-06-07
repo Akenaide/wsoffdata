@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の「繋想の彩龍喚士・イデアル」を1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－3。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PAD/S105-022S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_022s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_022s.png",
+	"tags": null,
+	"expansionId": 424
 }

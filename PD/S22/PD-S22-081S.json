@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「鏡音八八花合戦」が置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置き、自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-081S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_081s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_081s.png",
+	"tags": null,
+	"expansionId": 93
 }

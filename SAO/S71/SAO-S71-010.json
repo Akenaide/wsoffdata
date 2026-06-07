@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "わたしと代わる？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《Anniversary》のキャラの枚数に等しい。"
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《Anniversary》のキャラの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S71-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_010.png",
+	"tags": null,
+	"expansionId": 288
 }

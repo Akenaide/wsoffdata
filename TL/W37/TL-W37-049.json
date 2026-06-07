@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この着信音…結城君…！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、クライマックス置場に「魅惑ボイス」があるなら、そのターン中、このカードのパワーを＋Ｘし、相手は『助太刀』を手札からプレイできない。Ｘは他のあなたの、《動物》か《植物》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「魅惑ボイス」があるなら、そのターン中、このカードのパワーを＋Ｘし、相手は『助太刀』を手札からプレイできない。Ｘは他のあなたの、《動物》か《植物》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"風紀委員",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_049.png",
+	"tags": null,
+	"expansionId": 150
 }

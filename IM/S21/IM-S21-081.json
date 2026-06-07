@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ミキ、ちょっとがんばることにしたの！",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_081.png",
+	"tags": null,
+	"expansionId": 67
 }

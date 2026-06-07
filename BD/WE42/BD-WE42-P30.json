@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Morfonica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE42-P30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p30.png?ver=20231215",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we42/bd_we42_p30.png?ver=20231215",
+	"tags": null,
+	"expansionId": 12
 }

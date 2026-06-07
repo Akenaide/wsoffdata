@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我に宿れ、大自然のリズム！",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの前列の中央の枠にカード名に「ユーマ」か「ソニア」か「キリカ」を含むキャラがいないなら、手札からプレイできない。",
 		"【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SR/SE25-19b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sr_se25/sr_se25_19b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sr_se25/sr_se25_19b.png",
+	"tags": null,
+	"expansionId": 145
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "では行きますよ、桃花舞い散る銃剣撃――\u003cbr /\u003eおなかいっぱい、ご馳走しますっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、《武器》を与える。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-G07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_g07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_g07.png",
+	"tags": null,
+	"expansionId": 53
 }

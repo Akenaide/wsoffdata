@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お待たせ！　魔法少女カレイドルビー、ここに誕生！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックス置場に「ミミック遠坂」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト1以下のカード名に「凛」を含むキャラを1枚選び、このカードがいた枠に置く。",
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。あなたは自分の山札を見てカード名に「凛」を含むキャラをＸ枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札をＸ枚選び、控え室に置く。Ｘはそれらのカードのクライマックスの枚数に等しい。"
@@ -25,8 +25,9 @@
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_028.png",
+	"tags": null,
+	"expansionId": 33
 }

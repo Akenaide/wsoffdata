@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私、信じた正義は決して曲げないって心に誓っておりますの",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《カエル》のキャラが2枚以上なら、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。』",
 		"【自】 絆／「“超能力者”美琴」 [(1)]（このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“超能力者”美琴」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"超能力",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W10-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w10/rg_w10_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w10/rg_w10_058.png",
+	"tags": null,
+	"expansionId": 40
 }

@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ドラゴンの底力」があり、他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+		"【永】 他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ドラゴンの底力」があり、他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"ドラゴン",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMD/W96-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmd_w96/kmd_w96_026.png",
+	"tags": null,
+	"expansionId": 386
 }

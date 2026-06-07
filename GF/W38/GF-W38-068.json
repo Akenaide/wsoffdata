@@ -8,24 +8,25 @@
 	"jpName": "仲良し【芽以＆秋穂】",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "秋穂「ん、いらっしゃい。それで結局、何を…\u003cbr /\u003eおや、芽以？　何故一緒に？」",
 	"trigger": [
 		"COMEBACK"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[COMEBACK]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
+		"（[[salvage.gif]]：このカードがトリガーした時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GF/W38-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_068.png",
+	"tags": null,
+	"expansionId": 144
 }

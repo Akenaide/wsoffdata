@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "悪いけど貴方じゃ勝ち目はゼロよ",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"王族",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_t01.png",
+	"tags": null,
+	"expansionId": 42
 }

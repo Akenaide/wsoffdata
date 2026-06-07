@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "はい",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがトリガーした時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。"
+		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[salvage.gif]]のCXがトリガーした時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-067S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_067s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_067s.png",
+	"tags": null,
+	"expansionId": 548
 }

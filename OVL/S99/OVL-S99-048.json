@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アウラ「どうしたんだろう？」\u003cbr\u003eアルベド「どうしたのかしら」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、ストック置場に置く。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードがこの効果でストック置場に置かれたキャラと同じ特徴を1つ以上持つキャラなら舞台の好きな枠に置く。（そうでないなら元に戻す）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "OVL/S99-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s99/ovl_s99_048.png",
+	"tags": null,
+	"expansionId": 404
 }

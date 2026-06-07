@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたの思い出置場の「遺されたメッセージ」1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 記憶 このカードがアタックした時、クライマックス置場に「夜に咲く花」があるなら、あなたは自分の控え室のレベルＸ以下の《夏》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの思い出の枚数に等しい。"
+		"【永】 記憶 あなたの思い出置場の「遺されたメッセージ」1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 記憶 このカードがアタックした時、クライマックス置場に「夜に咲く花」があるなら、あなたは自分の控え室のレベルＸ以下の《夏》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの思い出の枚数に等しい。"
 	],
 	"specialAttrib": [
 		"夏",
 		"家族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_052.png",
+	"tags": null,
+	"expansionId": 342
 }

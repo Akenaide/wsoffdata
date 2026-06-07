@@ -8,26 +8,25 @@
 	"jpName": "ジリティック♡BEGINNER",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "DCR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "時々ドキドキドクドクって\u003cbr\u003eこんな私は知らない",
 	"trigger": [
 		"SOUL",
 		"STANDBY"
 	],
 	"ability": [
-		"【永】【リンク】 超時空ヴィーナス",
-		"【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
-		"（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+		"【永】【リンク】 超時空ヴィーナス\u003cbr\u003e【自】 このカードが手札からクライマックス置場に置かれた時、[[standby.gif]]の効果を行う。\u003cbr\u003e（[[standby.gif]]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MDE/SE45-57DCR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mde_se45/mde_se45_57dcr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mde_se45/mde_se45_57dcr.png",
+	"tags": null,
+	"expansionId": 458
 }

@@ -15,20 +15,20 @@
 	"rarity": "Cu",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ー",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがトリガーした時、あなたは自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[salvage.gif]]のCXがトリガーした時、あなたは自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"笑顔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-073Cu",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_073cu.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_073cu.png",
+	"tags": null,
+	"expansionId": 477
 }

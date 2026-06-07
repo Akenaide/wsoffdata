@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぐーてんもーげん",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場に「教育係 セラ」があるなら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ホムンクルス",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE24-36",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se24/pi_se24_36.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se24/pi_se24_36.png",
+	"tags": null,
+	"expansionId": 133
 }

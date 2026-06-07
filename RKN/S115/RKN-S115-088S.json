@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのレベルが2以上かこのカードの下にマーカーがあるなら、あなたのターン中、他のあなたの《明治剣客浪漫譚》のキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル×1000に等しい。",
-		"【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+		"【永】 あなたのレベルが2以上かこのカードの下にマーカーがあるなら、あなたのターン中、他のあなたの《明治剣客浪漫譚》のキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル×1000に等しい。\u003cbr\u003e【自】［手札のCXを1枚控え室に置く］ あなたのCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"密偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-088S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_088s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_088s.png",
+	"tags": null,
+	"expansionId": 479
 }

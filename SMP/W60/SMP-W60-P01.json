@@ -15,7 +15,7 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "久島鴎。私の名前。\u003cbr\u003eこっちだけ知ってるのも、変でしょ",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"サマポケ",
 		"海賊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

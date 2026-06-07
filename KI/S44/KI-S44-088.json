@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "君たちも俺を助けたい系のアレ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「“インモラル”日染」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。"
+		"【永】 あなたのクロック置場に「“インモラル”日染」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"キズナ",
 		"インモラル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KI/S44-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_088.png",
+	"tags": null,
+	"expansionId": 177
 }

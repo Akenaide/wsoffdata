@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あとめぐみんがボッチしてたから最近パーティーに誘ってあげました！",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から4枚を、控え室に置く。それらのカードに「“無茶苦茶な要求”めぐみん」があるなら、あなたはこのカードを手札に戻してよい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
-		""
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から4枚を、控え室に置く。それらのカードに「“無茶苦茶な要求”めぐみん」があるなら、あなたはこのカードを手札に戻してよい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_044.png",
+	"tags": null,
+	"expansionId": 291
 }

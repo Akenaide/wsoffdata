@@ -15,20 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "いやー、体力レッドゲージって感じっすね。大丈夫っすか？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのCX置場にトリガーアイコンが[CHOICE]を得る。",
-		"【自】【クロック】 アラーム ［手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以上のキャラを1枚選び、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
+		"【永】 あなたのCX置場にトリガーアイコンが[[choice.gif]]のCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[[choice.gif]]を得る。\u003cbr\u003e【自】【クロック】 アラーム ［手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以上のキャラを1枚選び、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
 	],
 	"specialAttrib": [
 		"異形種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/SE54-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_se54/ovl_se54_13.png",
+	"tags": null,
+	"expansionId": 535
 }

@@ -1,6 +1,6 @@
 {
 	"set": "PI",
-	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"setName": " Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
 	"side": "S",
 	"release": "E31",
 	"id": "35",
@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの【リバース】しているキャラの枚数×1500に等しい。",
-		"【起】【カウンター】 助太刀0 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋0）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの【リバース】しているキャラの枚数×1500に等しい。\u003cbr\u003e【起】【カウンター】 助太刀0 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋0）"
 	],
 	"specialAttrib": [
 		"宝石",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE31-35",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se31/pi_se31_35.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se31/pi_se31_35.png",
+	"tags": null,
+	"expansionId": 202
 }

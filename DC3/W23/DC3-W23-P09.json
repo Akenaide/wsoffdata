@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サラ「こんなに急いでどこに……って――き、清隆！？」\u003cbr /\u003e葵「あっ、いましたよ！　清隆さーん、おかえりなさーい！」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"新聞"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W23-P09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w23/dc3_w23_p09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w23/dc3_w23_p09.png",
+	"tags": null,
+	"expansionId": 12
 }

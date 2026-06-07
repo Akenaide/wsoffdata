@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "きっと……助けに来るわ",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「二つの世界 キリト」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「二つの世界 キリト」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S26-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s26/sao_s26_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s26/sao_s26_007.png",
+	"tags": null,
+	"expansionId": 115
 }

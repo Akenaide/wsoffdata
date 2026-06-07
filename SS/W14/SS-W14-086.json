@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さあ、すぐに終わらせようか",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードと、あなたのキャラを1枚【レスト】する］ あなたは自分のキャラを１枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_086.png",
+	"tags": null,
+	"expansionId": 58
 }

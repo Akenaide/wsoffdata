@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "手料理を食べて相手の人となりがわかるなんて、\u003cbr\u003e某料理漫画みたいだけどね",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】 あなたか相手がレベルアップした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたか相手がレベルアップした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_064.png",
+	"tags": null,
+	"expansionId": 159
 }

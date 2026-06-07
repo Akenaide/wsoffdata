@@ -15,8 +15,8 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「切・呪りeッTぉ」があり、あなたのキャラすべてがカード名に「響」か「切歌」を含むなら、あなたは自分の控え室のカード名に「響」か「切歌」を含むキャラを1枚選び、手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-028SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_028ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_028ssp.png",
+	"tags": null,
+	"expansionId": 276
 }

@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "祐一さんも、一口だけ食べますか？",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《冬》のキャラすべてに、パワーを＋500。",
-		"【自】 他のあなたの、《Anniversary》か《冬》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）",
-		"【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の、《Anniversary》か《冬》のキャラを1枚選び、手札に戻す。"
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《冬》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 他のあなたの、《Anniversary》か《冬》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）\u003cbr\u003e【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の、《Anniversary》か《冬》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"冬",
 		"アイス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kka/W102-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/kka_w102_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/kka_w102_018.png",
+	"tags": null,
+	"expansionId": 406
 }

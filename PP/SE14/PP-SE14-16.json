@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ずいぶん熱心だな",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。"
 	],
@@ -24,8 +24,9 @@
 		"サイコパス",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PP/SE14-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pp_se14/pp_se14_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pp_se14/pp_se14_16.png",
+	"tags": null,
+	"expansionId": 95
 }

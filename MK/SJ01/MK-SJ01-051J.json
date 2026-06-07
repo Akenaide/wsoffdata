@@ -1,6 +1,6 @@
 {
 	"set": "MK",
-	"setName": "ミルキィホームズ ファンファンパーリーパック♪",
+	"setName": " ミルキィホームズ ファンファンパーリーパック♪",
 	"side": "S",
 	"release": "J01",
 	"id": "051J",
@@ -15,19 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、デッカイのとれそう",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたはコーデリアの真似をする。そうしたら、あなたは自分の山札を上から1枚見て、このカードの下にマーカーとして裏向きに置く。",
-		"【自】 あなたか相手がこのカードに手を触れた時、このカードの下にマーカーがあるなら、そのプレイヤーに2ダメージを与える。（ダメージキャンセルは発生する）",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【自】 このカードが手札から舞台に置かれた時、あなたはコーデリアの真似をする。そうしたら、あなたは自分の山札を上から1枚見て、このカードの下にマーカーとして裏向きに置く。\u003cbr\u003e【自】 あなたか相手がこのカードに手を触れた時、このカードの下にマーカーがあるなら、そのプレイヤーに2ダメージを与える。（ダメージキャンセルは発生する）\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"探偵",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SJ01-051J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_051.png",
+	"tags": null,
+	"expansionId": 195
 }

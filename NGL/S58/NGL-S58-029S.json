@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じいじよりうめぇ、です。もっとやれ、です。",
+	"trigger": null,
 	"ability": [
 		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から4枚まで見て、《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"獣人種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-029S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_029s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_029s.png",
+	"tags": null,
+	"expansionId": 236
 }

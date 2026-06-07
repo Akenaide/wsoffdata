@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "07",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しかし本当に、勇者たちが来てくれてからは面白イベントに事欠かんの",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「魔神結晶 レベッカ」 ［(1) ］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「魔神結晶 レベッカ」を1枚選び、手札に戻す）",
 		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
@@ -25,8 +25,9 @@
 		"動物",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE17-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_07.png",
+	"tags": null,
+	"expansionId": 100
 }

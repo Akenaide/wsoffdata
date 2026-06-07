@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "鬼を必要とするものは、その果てに鬼に食われるのが習わしだ",
 	"trigger": [
 		"SOUL"
 	],
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_070.png",
+	"tags": null,
+	"expansionId": 48
 }

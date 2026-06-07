@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お腹痛ぁ……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてがカード名に「一花」を含むなら、このカードのパワーを＋4000。",
-		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「一花」を含むキャラならストック置場に置く。（そうでないなら元に戻す）"
+		"【永】 あなたのキャラすべてがカード名に「一花」を含むなら、このカードのパワーを＋4000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「一花」を含むキャラならストック置場に置く。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"オシャレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W90-072S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w90/5hy_w90_072s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w90/5hy_w90_072s.png",
+	"tags": null,
+	"expansionId": 348
 }

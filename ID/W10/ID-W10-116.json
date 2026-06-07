@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "科学と魔術が交差するとき、物語は始まる――！",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ID/W10-116",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/id_w10/id_w10_116.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/id_w10/id_w10_116.gif",
+	"tags": null,
+	"expansionId": 12
 }

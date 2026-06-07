@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しろは「昔々、世界には色がありませんでした\u003cbr\u003eそんな世界に、きれいな羽の蝶々がいました\u003cbr\u003e羽にはたくさんの色がついています」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《サマポケ》のキャラがいないなら、手札からプレイできない。",
-		"［あなたの舞台の《サマポケ》のキャラを1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《サマポケ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。このカードを思い出にする。"
+		"このカードは、あなたの《サマポケ》のキャラがいないなら、手札からプレイできない。\u003cbr\u003e［あなたの舞台の《サマポケ》のキャラを1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《サマポケ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SMP/W137-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_069.png",
+	"tags": null,
+	"expansionId": 548
 }

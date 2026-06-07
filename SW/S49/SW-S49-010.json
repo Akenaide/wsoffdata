@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハン・ソロ「奇襲攻撃だな」",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
 	],
 	"specialAttrib": [
 		"ジェダイの帰還"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_010.png",
+	"tags": null,
+	"expansionId": 199
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【永】 他のあなたの後列のキャラが2枚以上なら、このカードのパワーを＋1000。"
+		"【永】 他のあなたの前列のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【永】 他のあなたの後列のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"マナ",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_014.png",
+	"tags": null,
+	"expansionId": 193
 }

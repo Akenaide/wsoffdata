@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "女神官「伝説に導かれし勇者ではなく、人の内より現れ出た史上の存在…」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《秩序》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「揺れる乙女の肖像」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置く。"
+		"【永】 他のあなたの《秩序》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「揺れる乙女の肖像」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"大司教"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-072S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_072s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_072s.png",
+	"tags": null,
+	"expansionId": 260
 }

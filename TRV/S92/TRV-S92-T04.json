@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よっ\u003cbr\u003eいくじなし君?",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
 	],
 	"specialAttrib": [
 		"リベンジ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TRV/S92-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_t04.png",
+	"tags": null,
+	"expansionId": 388
 }

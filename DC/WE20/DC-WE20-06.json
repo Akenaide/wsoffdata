@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "別に……単に言いたかったんだよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、このカードを【レスト】する。（公開したカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/WE20-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we20/dc_we20_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we20/dc_we20_06.png",
+	"tags": null,
+	"expansionId": 123
 }

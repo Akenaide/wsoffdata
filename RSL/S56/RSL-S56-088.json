@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なな「純那ちゃん!!」",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアンコールステップの始めに、あなたは自分の山札の上から1枚を控え室に置く。そのカードのレベルが1以上なら、このカードを控え室に置く。（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"レヴュー",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_088.png",
+	"tags": null,
+	"expansionId": 250
 }

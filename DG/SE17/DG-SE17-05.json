@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こうなったら、奥の手を出すんだから",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードをストック置場に置く］ あなたの「新魔王誕生」がクライマックス置場から控え室に置かれた時、相手の前列のキャラがいないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“魔王”シシリー」を1枚選び、このカードがいた枠に【レスト】して置く。"
 	],
@@ -24,8 +24,9 @@
 		"天使",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_05.png",
+	"tags": null,
+	"expansionId": 102
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最後に、この飾りを上に乗せて、と…えっと、これで一通り完成したかな",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「運動合宿」があり、あなたのキャラすべてが赤なら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋4000。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_094.png",
+	"tags": null,
+	"expansionId": 131
 }

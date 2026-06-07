@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "量子もつれか…",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「朋絵」を含むキャラがいないなら、このカードはアタックできない。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《思春期》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+		"【永】 他のあなたのカード名に「朋絵」を含むキャラがいないなら、このカードはアタックできない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《思春期》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"思春期"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_092.png",
+	"tags": null,
+	"expansionId": 290
 }

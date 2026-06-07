@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
 		"【自】[(1)］ 相手のアタックフェイズの始めに、あなたのキャラすべてが《音楽》なら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_019.png",
+	"tags": null,
+	"expansionId": 151
 }

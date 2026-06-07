@@ -15,22 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの後列の『応援』を持つキャラの枚数×1000に等しい。",
-		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの後列の『応援』を持つキャラの枚数×1000に等しい。\u003cbr\u003e【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー",
+		"バーチャル・シンガー",
 		"ワンダーランズ×ショウタイム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S125-023S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_023s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s125/pjs_s125_023s.png",
+	"tags": null,
+	"expansionId": 536
 }

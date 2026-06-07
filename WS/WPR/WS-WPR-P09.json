@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"声優",
 		"カードゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WS/WPR-P09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/ws_wpr/ws_wpr_p09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/ws_wpr/ws_wpr_p09.png",
+	"tags": null,
+	"expansionId": 12
 }

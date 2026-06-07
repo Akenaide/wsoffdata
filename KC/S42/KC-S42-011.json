@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい、萩風はここに",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「陽炎型駆逐艦16番艦 嵐」がいるなら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。",
-		"【永】 他のあなたの「陽炎型駆逐艦18番艦 舞風」すべてに、パワーを＋1000。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《艦娘》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの「陽炎型駆逐艦16番艦 嵐」がいるなら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。\u003cbr\u003e【永】 他のあなたの「陽炎型駆逐艦18番艦 舞風」すべてに、パワーを＋1000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《艦娘》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_011.png",
+	"tags": null,
+	"expansionId": 173
 }

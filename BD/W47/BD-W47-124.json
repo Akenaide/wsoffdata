@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ごきげんよう",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが3枚以上なら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"盆栽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-124",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_124.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_124.png",
+	"tags": null,
+	"expansionId": 196
 }

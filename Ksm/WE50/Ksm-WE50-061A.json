@@ -8,23 +8,24 @@
 	"jpName": "REFLECTION BLUE",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "AGR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"COMEBACK"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Ksm/WE50-061A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/ksm_we50_061a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/ksm_we50_061a.png",
+	"tags": null,
+	"expansionId": 532
 }

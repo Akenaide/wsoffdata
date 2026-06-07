@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だ、大丈夫？うっかり食べられてしもうたりとかは…",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのキャラが舞台からクロック置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE23-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we23/dd_we23_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we23/dd_we23_21.png",
+	"tags": null,
+	"expansionId": 153
 }

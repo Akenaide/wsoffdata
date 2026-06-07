@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それでも、あの仔にはここが大切な場所なんだと思う",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《Anniversary》か《双子》のキャラを1枚選び、手札に戻す。"
 	],
@@ -25,8 +25,9 @@
 		"双子",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kcl/W78-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kcl_w78/kcl_w78_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kcl_w78/kcl_w78_070.png",
+	"tags": null,
+	"expansionId": 296
 }

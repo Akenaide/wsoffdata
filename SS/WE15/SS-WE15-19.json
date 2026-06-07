@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は悠二の採点係じゃ、ない！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している《炎》のキャラを1枚選び、【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE15-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we15/ss_we15_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we15/ss_we15_19.png",
+	"tags": null,
+	"expansionId": 83
 }

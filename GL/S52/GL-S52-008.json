@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すまない。子供を預けてたら遅くなった…ッ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"大グレン団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GL/S52-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gl_s52/gl_s52_008.png",
+	"tags": null,
+	"expansionId": 217
 }

@@ -15,19 +15,19 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"動物",
 		"商人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gok/WS02-T02R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gok_ws02_t02r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gok_ws02_t02r.png",
+	"tags": null,
+	"expansionId": 437
 }

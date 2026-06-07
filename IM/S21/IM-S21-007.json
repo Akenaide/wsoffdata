@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1)］ あなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_007.png",
+	"tags": null,
+	"expansionId": 80
 }

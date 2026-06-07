@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードのトリガーチェックでトリガーアイコンが[CHOICE]のCXがでた時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。",
-		"【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ このカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《きんいろ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 このカードのトリガーチェックでトリガーアイコンが[[choice.gif]]のCXがでた時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ このカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《きんいろ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"金髪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_005.png",
+	"tags": null,
+	"expansionId": 534
 }

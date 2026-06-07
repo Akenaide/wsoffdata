@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日は、プロデューサーさんと２人きりですね。\u003cbr /\u003eたまにはご飯でもいかがですか？　ふふっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「9:02pm」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋2500し、あなたはイベントと『助太刀』を、手札からプレイできない。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_031.png",
+	"tags": null,
+	"expansionId": 64
 }

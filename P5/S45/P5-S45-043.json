@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_043.png",
+	"tags": null,
+	"expansionId": 180
 }

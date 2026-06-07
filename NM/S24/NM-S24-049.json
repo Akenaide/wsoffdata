@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのドローフェイズの始めに、あなたに1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_049.png",
+	"tags": null,
+	"expansionId": 105
 }

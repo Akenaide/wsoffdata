@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "後世にしっかりと僕のイケメンぶりを残しておかないと…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《冒険者》か《魔法》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S128-012S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s128/sfn_s128_012s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s128/sfn_s128_012s.png",
+	"tags": null,
+	"expansionId": 545
 }

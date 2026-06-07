@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、目が醒めましたね……",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W46-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w46/dc3_w46_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w46/dc3_w46_082.png",
+	"tags": null,
+	"expansionId": 178
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "悲しすぎる！　この悲しみはどこからくるのだ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(4) 手札のクライマックスを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。",
 		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -25,8 +25,9 @@
 		"魔法",
 		"エレメント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_009.png",
+	"tags": null,
+	"expansionId": 43
 }

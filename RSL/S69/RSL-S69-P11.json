@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
 	],
@@ -24,8 +24,9 @@
 		"レヴュー",
 		"青嵐総合芸術院"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S69-P11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s69/rsl_s69_p11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s69/rsl_s69_p11.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき1回まで発動する。他のあなたの「鬼の血族 ラム」が手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-		"【自】 絆／「鬼の血族 ラム」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「鬼の血族 ラム」を1枚選び、手札に戻す）"
+		"【自】 この能力は1ターンにつき1回まで発動する。他のあなたの「鬼の血族 ラム」が手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\u003cbr\u003e【自】 絆／「鬼の血族 ラム」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「鬼の血族 ラム」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"魔法",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S55-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s55/rz_s55_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s55/rz_s55_082.png",
+	"tags": null,
+	"expansionId": 234
 }

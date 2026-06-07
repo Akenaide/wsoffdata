@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "太陽すら斬ると言われるほど天才的な剣技を誇る美貌の剣士。まだ年若いながらも日本最強の剣客だと噂されている",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"武器",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_t03.png",
+	"tags": null,
+	"expansionId": 57
 }

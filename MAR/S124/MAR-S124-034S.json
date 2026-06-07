@@ -15,16 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［手札の、「超人的な力」か「磁力を支配し金属を自在に操る能力」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「超人的な力」か「磁力を支配し金属を自在に操る能力」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S124-034S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_034s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s124/mar_s124_034s.png",
+	"tags": null,
+	"expansionId": 527
 }

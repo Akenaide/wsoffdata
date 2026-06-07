@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この監獄からの～卒業～～♪",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"プリニー",
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE08-51",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se08/dg_se08_51.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se08/dg_se08_51.png",
+	"tags": null,
+	"expansionId": 13
 }

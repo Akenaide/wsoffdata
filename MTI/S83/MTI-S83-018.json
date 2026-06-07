@@ -10,23 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "5",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アハハハハ…",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《六面世界》のキャラがいないなら、手札からプレイできない。",
-		"次の3つの効果を好きな順番で1回ずつ行う。",
-		"『あなたは相手のキャラを1枚選び、【スタンド】して相手の舞台のキャラのいない他の枠に動かすか、他の相手のキャラを1枚選び、それぞれを【スタンド】して入れ替える。』",
-		"『相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。』",
-		"『相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。』"
+		"このカードは、あなたの《六面世界》のキャラがいないなら、手札からプレイできない。\u003cbr\u003e次の3つの効果を好きな順番で1回ずつ行う。\u003cbr\u003e『あなたは相手のキャラを1枚選び、【スタンド】して相手の舞台のキャラのいない他の枠に動かすか、他の相手のキャラを1枚選び、それぞれを【スタンド】して入れ替える。』\u003cbr\u003e『相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。』\u003cbr\u003e『相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MTI/S83-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_018.png",
+	"tags": null,
+	"expansionId": 346
 }

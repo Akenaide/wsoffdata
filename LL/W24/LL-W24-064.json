@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おかえりなさいませ！　ご主人様♪",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(1) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“僕らのLIVE 君とのLIFE”南 ことり」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W24-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w24/ll_w24_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w24/ll_w24_064.png",
+	"tags": null,
+	"expansionId": 98
 }

@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ぶつかり合う思い」があり、他のあなたの、《デート》か《精霊》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、《デート》か《精霊》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、他の自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/WE33-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_we33/dal_we33_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_we33/dal_we33_026.png",
+	"tags": null,
+	"expansionId": 339
 }

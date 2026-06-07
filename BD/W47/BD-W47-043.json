@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "袋モノよく作るから",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_043.png",
+	"tags": null,
+	"expansionId": 196
 }

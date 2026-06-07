@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "弦十郎「あいつらメディカルルームからリンカーを持ち出しやがった！」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の、カード名に「切歌」を含むキャラとカード名に「調」を含むキャラを1枚ずつ別々に選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SG/W39-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_046.png",
+	"tags": null,
+	"expansionId": 154
 }

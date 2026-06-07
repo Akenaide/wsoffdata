@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "早く呼び出さないと死んじゃうよ。\u003cbr\u003eお兄ちゃん",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。』を得る。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の「戦いの前の忠告 イリヤ」を1枚まで選んで相手に見せ、このカードの下にマーカーとして裏向きに置く。"
+		"【永】 このカードの下にマーカーがあるなら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。』を得る。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の「戦いの前の忠告 イリヤ」を1枚まで選んで相手に見せ、このカードの下にマーカーとして裏向きに置く。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"ホムンクルス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_087.png",
+	"tags": null,
+	"expansionId": 139
 }

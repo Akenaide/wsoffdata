@@ -5,7 +5,7 @@
 	"release": "E05",
 	"id": "27",
 	"name": "",
-	"jpName": "“純朴な人柄”真田 幸村",
+	"jpName": "“純朴な人柄”真田 幸村　",
 	"cardType": "CH",
 	"colour": "RED",
 	"level": "1",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "幸村「うああッ!!」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《武器》のキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《武器》のキャラを1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"武器",
 		"鉢巻"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/SE05-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_se05/sb_se05_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_se05/sb_se05_27.png",
+	"tags": null,
+	"expansionId": 47
 }

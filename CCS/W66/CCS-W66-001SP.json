@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】 共鳴 ［(1) 手札の「固着」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《クリアカード編》のキャラか「固着」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 共鳴 ［(1) 手札の「固着」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《クリアカード編》のキャラか「固着」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-001SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_001sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_001sp.png",
+	"tags": null,
+	"expansionId": 274
 }

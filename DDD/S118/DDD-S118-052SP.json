@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 経験 ［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（CXのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"人間",
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDD/S118-052SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_052sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddd_s118/ddd_s118_052sp.png",
+	"tags": null,
+	"expansionId": 511
 }

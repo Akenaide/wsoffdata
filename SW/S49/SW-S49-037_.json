@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ソロ船長を積荷倉庫に運び込め",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 	"specialAttrib": [
 		"帝国の逆襲"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-037_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_037_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_037_.png",
+	"tags": null,
+	"expansionId": 400
 }

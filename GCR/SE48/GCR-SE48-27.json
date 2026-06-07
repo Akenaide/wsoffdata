@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"トゲナシトゲアリ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GCR/SE48-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gcr_se48/gcr_se48_27.png",
+	"tags": null,
+	"expansionId": 497
 }

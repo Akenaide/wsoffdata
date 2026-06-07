@@ -15,8 +15,8 @@
 	"rarity": "AR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "冬木いちの忍、イリヤ見参っ！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「ずっとこのままで」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《武器》のキャラを1枚選び、【スタンド】する。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE36-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se36/pi_se36_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se36/pi_se36_34.png",
+	"tags": null,
+	"expansionId": 323
 }

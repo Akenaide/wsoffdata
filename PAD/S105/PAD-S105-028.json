@@ -15,19 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラが2枚以上なら、このカードは黄を得る。",
-		"【自】 あなたのクライマックスフェイズの始めに、あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたのキャラが2枚以上なら、このカードは黄を得る。\u003cbr\u003e【自】 あなたのクライマックスフェイズの始めに、あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"悪魔",
 		"回復"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PAD/S105-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_028.png",
+	"tags": null,
+	"expansionId": 424
 }

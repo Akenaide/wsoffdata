@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "周りのパンだけ食べて餡だけにしてやろうかしらっ",
+	"trigger": null,
 	"ability": [
 		"【永】 アラーム このカードがクロックの1番上にあり、あなたの手札が相手の手札より多いなら、あなたのキャラすべてに、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_087.png",
+	"tags": null,
+	"expansionId": 18
 }

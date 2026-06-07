@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "インディ・ジュンコ「あんたの相手はこの私！」",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
-		"【自】 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが0以下なら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。そのカードのレベルが1以上なら、このカードを控え室に置く。（CXのレベルは0として扱う）"
+		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが0以下なら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。そのカードのレベルが1以上なら、このカードを控え室に置く。（CXのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"MOVIE",
 		"探検"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_068.png",
+	"tags": null,
+	"expansionId": 480
 }

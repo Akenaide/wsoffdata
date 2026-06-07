@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いっただき～！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの【レスト】しているキャラ1枚につき、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"ラーメン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_084.png",
+	"tags": null,
+	"expansionId": 61
 }

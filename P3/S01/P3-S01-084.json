@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…倒したい相手がいる。",
+	"trigger": null,
 	"ability": [
 		"【永】 他の《生徒会》のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"魔法",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_084.png",
+	"tags": null,
+	"expansionId": 4
 }

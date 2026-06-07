@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の《ホロライブ》のキャラを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「未来へと踏み出す一歩 ラプラス・ダークネス」か「雨宿りと相合い傘 鷹嶺ルイ」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"ホロライブ",
 		"秘密結社holoX"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W104-085S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_085s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w104/hol_w104_085s.png",
+	"tags": null,
+	"expansionId": 419
 }

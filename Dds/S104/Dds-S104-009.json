@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが0以下なら、このカードをストック置場に置く。1か2なら、あなたはこのカードを前列のキャラのいない枠に動かす。3以上なら、このカードを控え室に置く。（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"Celebration",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Dds/S104-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_009.png",
+	"tags": null,
+	"expansionId": 420
 }

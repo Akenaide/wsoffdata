@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰かと話すって心地いいのね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《パイロット》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_108.png",
+	"tags": null,
+	"expansionId": 13
 }

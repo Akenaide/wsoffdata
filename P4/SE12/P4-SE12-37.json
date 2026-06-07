@@ -15,8 +15,8 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "とちゅうまで、おんなじ道だから\u003cbr /\u003e…いっしょに行こ",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「主人公（Ｐ４）」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「主人公（Ｐ４）」を1枚選び、手札に戻す）",
 		"【起】［(1) このカードを【レスト】する］ あなたは自分の、《勇者》かカード名に「主人公」を含むキャラを1枚選び、そのターン中、ソウルを＋1。"
@@ -25,8 +25,9 @@
 		"テレビ",
 		"ジュネス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-37",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_37.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_37.png",
+	"tags": null,
+	"expansionId": 75
 }

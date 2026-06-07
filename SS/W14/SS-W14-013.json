@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ごめんなさい…",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「対峙の時 ヘカテー」を1枚選び、このカードがいた枠に置く"
 	],
@@ -24,8 +24,9 @@
 		"謎",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_013.png",
+	"tags": null,
+	"expansionId": 58
 }

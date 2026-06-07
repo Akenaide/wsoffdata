@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おはよう……ございます？ 朝でも、夜でも、おはようございます？",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは他の自分のキャラを1枚選び、控え室に置く。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/SE04-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_se04/im_se04_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_se04/im_se04_27.png",
+	"tags": null,
+	"expansionId": 36
 }

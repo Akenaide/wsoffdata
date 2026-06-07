@@ -15,20 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アーチャー「それでは凛と。…ああ、この響きは実に君に合っている。」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「最後の言葉」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、そのターン中、このカードのパワーを＋3000。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】［(1)］ このカードがアタックした時、クライマックス置場に「最後の言葉」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、そのターン中、このカードのパワーを＋3000。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"マスター",
 		"サーヴァント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S36-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s36/fs_s36_050.png",
+	"tags": null,
+	"expansionId": 155
 }

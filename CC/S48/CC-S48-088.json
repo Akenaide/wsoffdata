@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この大陸のことなら、私のクロニクルに最も詳細な記述がある",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠の《マナ》のキャラに、パワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+		"【永】 他のあなたの前列の中央の枠の《マナ》のキャラに、パワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
 	"specialAttrib": [
 		"マナ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_088.png",
+	"tags": null,
+	"expansionId": 193
 }

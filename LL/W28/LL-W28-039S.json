@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W28-039S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w28/ll_w28_039s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w28/ll_w28_039s.png",
+	"tags": null,
+	"expansionId": 110
 }

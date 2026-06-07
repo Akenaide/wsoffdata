@@ -15,8 +15,8 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "当然みんなの分のメガネも用意しておいたクマよ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《メガネ》のキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、《メガネ》を与える。"
@@ -25,8 +25,9 @@
 		"動物",
 		"影"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-54",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_54.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_54.png",
+	"tags": null,
+	"expansionId": 75
 }

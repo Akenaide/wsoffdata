@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ありゃ？　粘るわね",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「享楽の鏖殺」があるなら、あなたは相手のレベル0以下のキャラを1枚選び、山札の下に置いてよい。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「享楽の鏖殺」があるなら、あなたは相手のレベル0以下のキャラを1枚選び、山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/S59-075",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_075.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_075.png",
+	"tags": null,
+	"expansionId": 245
 }

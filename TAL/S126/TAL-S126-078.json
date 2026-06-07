@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この世界には・・・大切な人が生きてるんだ。\u003cbr\u003eつぶさせやしねえ！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの「ミンツ大学の学士 キール・ツァイベル」がいるなら、他のあなたの《冒険》のキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがトリガーした時、あなたは相手の山札を上から1枚見て、山札の上か控え室に置く。"
+		"【永】 あなたのターン中、他のあなたの「ミンツ大学の学士 キール・ツァイベル」がいるなら、他のあなたの《冒険》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[salvage.gif]]のCXがトリガーした時、あなたは相手の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
 	"specialAttrib": [
 		"冒険",
 		"エターニア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_078.png",
+	"tags": null,
+	"expansionId": 538
 }

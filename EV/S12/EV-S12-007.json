@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今、使徒がサードインパクトを引き起こせば、今度こそヒトは滅ぶ",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_007.png",
+	"tags": null,
+	"expansionId": 49
 }

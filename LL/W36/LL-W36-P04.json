@@ -15,19 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今日はダンボール持ってきたの！　あっちの公園でソリにして遊ぼうにゃ♪",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+		"【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-P04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_p04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_p04.png",
+	"tags": null,
+	"expansionId": 12
 }

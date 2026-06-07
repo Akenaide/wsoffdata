@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "とぉぉぉおぅ！！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の「最上型航空巡洋艦4番艦 熊野改」を1枚選び、このカードがいた枠に置く。』",
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"重巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-130",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_130.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_130.png",
+	"tags": null,
+	"expansionId": 113
 }

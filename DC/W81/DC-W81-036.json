@@ -15,21 +15,21 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "もう。叩くよ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』",
-		"【起】［このカードを思い出にする］ あなたは自分の山札を見て《委員長》か《メカ》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋4500し、このカードは次の能力を得る。『【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。』\u003cbr\u003e【起】［このカードを思い出にする］ あなたは自分の山札を見て《委員長》か《メカ》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"委員長",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W81-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w81/dc_w81_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w81/dc_w81_036.png",
+	"tags": null,
+	"expansionId": 310
 }

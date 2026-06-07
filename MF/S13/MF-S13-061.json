@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(4) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル1以下のキャラすべてを、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_061.png",
+	"tags": null,
+	"expansionId": 61
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "このみくちゃんのネコミミにしっかり届くように、おっきな声でねー！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのクライマックス置場に「ΦωΦver!!」が置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr/\u003e【自】 あなたのクライマックス置場に「ΦωΦver!!」が置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ロック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-083S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_083s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_083s.png",
+	"tags": null,
+	"expansionId": 151
 }

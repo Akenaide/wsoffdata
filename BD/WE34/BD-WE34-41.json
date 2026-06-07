@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-		"【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“Summerly Tone♪”八潮瑠唯」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）"
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。\u003cbr\u003e【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“Summerly Tone♪”八潮瑠唯」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Morfonica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE34-41",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_41.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we34/bd_we34_41.png",
+	"tags": null,
+	"expansionId": 336
 }

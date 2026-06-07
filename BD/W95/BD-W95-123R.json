@@ -8,14 +8,14 @@
 	"jpName": "深淵のネクロマンサー",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "定命の円環を逸脱せし常闇の使徒に我命ず、其の混濁たる\u003cbr\u003e眼で深淵を破り、彼の者を久遠の狭間へと誘いたまえ……\u003cbr\u003eデッドリィーー！！",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W95-123R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_123r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_123r.png",
+	"tags": null,
+	"expansionId": 382
 }

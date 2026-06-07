@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私がアイドル始めて以来の大一番なんだからあなたも、できる限り、手を貸す事。いいわね！",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。",
 		"【自】 このカードとバトル中のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"女装"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/SE04-10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_se04/im_se04_10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_se04/im_se04_10.png",
+	"tags": null,
+	"expansionId": 36
 }

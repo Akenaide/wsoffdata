@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいねぇ、旅！ 冒険！ワクワクをかき立てるワードじゃんか～♪行ってみたいなぁ、ほんとに",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「レインボーローズ 宮下 愛」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から3枚を、控え室に置き、自分の控え室の《音楽》のキャラをＸ枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたトリガーアイコンに[SOUL]があるカードの枚数に等しい。"
+		"【自】【CXコンボ】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「レインボーローズ 宮下 愛」があり、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から3枚を、控え室に置き、自分の控え室の《音楽》のキャラをＸ枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたトリガーアイコンに[[soul.gif]]があるカードの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W85-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w85/lnj_w85_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w85/lnj_w85_051.png",
+	"tags": null,
+	"expansionId": 338
 }

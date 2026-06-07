@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "住めば都だぜ？",
+	"trigger": null,
 	"ability": [
 		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"リベンジ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TRV/S92-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_024.png",
+	"tags": null,
+	"expansionId": 389
 }

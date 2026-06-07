@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ボクのトイズで、こんな事件\u003cbr /\u003eあっという間に解決してみせる",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードがアタックした時、クライマックス置場に「ふたりっきりのデート」があるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを2枚まで選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_005.png",
+	"tags": null,
+	"expansionId": 50
 }

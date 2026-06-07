@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ベビーはいつも面白いね～",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
-		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、黄のCXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、黄のCXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"メティス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_014.png",
+	"tags": null,
+	"expansionId": 494
 }

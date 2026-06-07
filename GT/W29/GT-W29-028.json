@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あかりさん……",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【永】 他のあなたの「朝日に輝く せいら」がいるなら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の控え室の「強い虚栄心 るな」を1枚選び、このカードがいた枠に置く。』"
@@ -25,8 +25,9 @@
 		"タロット",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_028.png",
+	"tags": null,
+	"expansionId": 106
 }

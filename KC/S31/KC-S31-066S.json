@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたが自分の手札か舞台のキャラの【起】のコストを払う時、このカードの下のマーカー1枚を、ストック1枚のかわりに控え室に置いてよい。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「睦月型駆逐艦4番艦 卯月」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
@@ -26,8 +26,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-066S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_066s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_066s.png",
+	"tags": null,
+	"expansionId": 130
 }

@@ -15,19 +15,19 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。",
-		"【自】［(1) 手札の《音楽》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「“青空Jumping Heart”曜」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】［(1) 手札の《音楽》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「“青空Jumping Heart”曜」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W45-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w45/lss_w45_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w45/lss_w45_036.png",
+	"tags": null,
+	"expansionId": 179
 }

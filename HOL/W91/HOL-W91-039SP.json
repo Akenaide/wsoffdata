@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせず、思い出にできない。』"
+		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせず、思い出にできない。』"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"3期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-039SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_039sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_039sp.png",
+	"tags": null,
+	"expansionId": 357
 }

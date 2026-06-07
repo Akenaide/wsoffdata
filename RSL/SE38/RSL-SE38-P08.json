@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"レヴュー",
 		"シークフェルト音楽学院"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/SE38-P08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_se38/rsl_se38_p08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_se38/rsl_se38_p08.png",
+	"tags": null,
+	"expansionId": 12
 }

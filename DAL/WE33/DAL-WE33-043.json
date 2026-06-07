@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これよりは土方イサミの名にかけて",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－1。",
-		"【永】 あなたのターン中、このカードのパワーを＋4000。"
+		"【永】 舞台のこのカードのレベルを－1。\u003cbr\u003e【永】 あなたのターン中、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/WE33-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_we33/dal_we33_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_we33/dal_we33_043.png",
+	"tags": null,
+	"expansionId": 339
 }

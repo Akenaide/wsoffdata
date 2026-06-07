@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日の晩メシはイノブタ鍋だ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがフロントアタックした時、クライマックス置場に「ＶＳイノブタ」があり、このカードとバトルしているキャラのレベルがこのカードのレベルより低いなら、あなたのキャラすべてに、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_004.png",
+	"tags": null,
+	"expansionId": 14
 }

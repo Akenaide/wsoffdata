@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私はめぐみんに案内してもらうけど『クズマ』さんはどうする？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《冒険者》か《女神》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《冒険者》か《女神》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-079S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_079s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_079s.png",
+	"tags": null,
+	"expansionId": 291
 }

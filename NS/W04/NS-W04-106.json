@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私にとっては……いろんなことの、はじまりのきっかけでもあったから……",
+	"trigger": null,
 	"ability": [
 		"【起】[(2)] あなたは自分のキャラを1枚選び、そのターン中、パワーを+2000し、ソウルを+1。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"ドレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_106.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_106.gif",
+	"tags": null,
+	"expansionId": 12
 }

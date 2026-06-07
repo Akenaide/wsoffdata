@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私達には言葉があります。\u003cbr\u003eどうか話し合いの機会を",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《冒険者》か《魔法》のキャラかイベントなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。（公開したカードは元に戻す）",
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたのレベルが1以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚とこのカードを選び、入れ替えてよい。"
+		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《冒険者》か《魔法》のキャラかイベントなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。（公開したカードは元に戻す）\u003cbr\u003e【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたのレベルが1以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚とこのカードを選び、入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"魔族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S128-037S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s128/sfn_s128_037s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s128/sfn_s128_037s.png",
+	"tags": null,
+	"expansionId": 545
 }

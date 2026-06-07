@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "世界を観察する存在に 興味はおありですか？",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-123",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_123.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_123.png",
+	"tags": null,
+	"expansionId": 162
 }

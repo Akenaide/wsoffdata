@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "（俺はいつしか……異国の土で懸命に咲こうとしているこの花たちに、自分自身を重ねていたんだ）",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《フラクトライト》のキャラすべてに、パワーを＋500。",
-		"【起】［あなたの《フラクトライト》のキャラを2枚【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。"
+		"【永】 他のあなたの《フラクトライト》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［あなたの《フラクトライト》のキャラを2枚【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S65-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_089.png",
+	"tags": null,
+	"expansionId": 267
 }

@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたの《PIXAR》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下の《PIXAR》のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（CXのレベルは0として扱う。公開したカードは元に戻す）"
+		"【カウンター】 このカードは、あなたの《PIXAR》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下の《PIXAR》のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（CXのレベルは0として扱う。公開したカードは元に戻す）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PXR/S122-093S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s122/pxr_s122_093s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s122/pxr_s122_093s.png",
+	"tags": null,
+	"expansionId": 523
 }

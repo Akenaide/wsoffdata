@@ -1,6 +1,6 @@
 {
 	"set": "UMA",
-	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"setName": " 劇場版『ウマ娘 プリティーダービー 新時代の扉』",
 	"side": "W",
 	"release": "119",
 	"id": "022S",
@@ -15,7 +15,7 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W119-022S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_022s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w119/uma_w119_022s.png",
+	"tags": null,
+	"expansionId": 486
 }

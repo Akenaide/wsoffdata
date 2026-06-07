@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わーっ、違和感すげー",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札の《きんいろ》のキャラを1枚思い出にする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"きんいろ",
 		"大食い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_063.png",
+	"tags": null,
+	"expansionId": 534
 }

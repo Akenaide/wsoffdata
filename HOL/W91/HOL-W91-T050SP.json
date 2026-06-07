@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚と、そのキャラ以外の相手の前列のキャラを1枚選び、それぞれを【スタンド】して入れ替える。"
 	],
@@ -24,8 +24,9 @@
 		"ホロライブ",
 		"2期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T050SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t050sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t050sp.png",
+	"tags": null,
+	"expansionId": 352
 }

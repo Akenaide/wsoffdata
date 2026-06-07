@@ -15,19 +15,19 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《サマポケ》のキャラすべてに、パワーを＋500。",
-		"【永】 記憶 あなたの思い出置場に「蔵で見つけた写真」があるなら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。"
+		"【永】 他のあなたの、《Anniversary》か《サマポケ》のキャラすべてに、パワーを＋500。\u003cbr\u003e【永】 記憶 あなたの思い出置場に「蔵で見つけた写真」があるなら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。』を得る。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"サマポケ",
 		"ヌイグルミ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ksm/WE50-49",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/ksm_we50_49.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/ksm_we50_49.png",
+	"tags": null,
+	"expansionId": 532
 }

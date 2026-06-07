@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えぇー、もうお仕事を始めますの？",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《艦船》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】［手札の《艦船》のキャラを1枚控え室に置く］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚と、そのキャラ以外の相手のレベル1以下のキャラを1枚選び、それぞれを【スタンド】して入れ替える。"
+		"【永】 あなたのターン中、他のあなたの《艦船》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】［手札の《艦船》のキャラを1枚控え室に置く］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚と、そのキャラ以外の相手のレベル1以下のキャラを1枚選び、それぞれを【スタンド】して入れ替える。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ロイヤル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_025.png",
+	"tags": null,
+	"expansionId": 499
 }

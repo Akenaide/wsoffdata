@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "格が上がったようだな",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《セラフ》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"セラフ",
 		"第31X部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W117-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w117/hbr_w117_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w117/hbr_w117_106.png",
+	"tags": null,
+	"expansionId": 482
 }

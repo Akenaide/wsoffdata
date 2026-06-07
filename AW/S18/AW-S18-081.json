@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はじめてまして。私の名前は《スカイ・レイカー》。\u003cbr /\u003e会えて嬉しいわ、鴉さん",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"アバター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_081.png",
+	"tags": null,
+	"expansionId": 85
 }

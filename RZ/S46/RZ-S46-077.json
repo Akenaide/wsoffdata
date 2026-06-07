@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「大精霊 パック」がいるなら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S46-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s46/rz_s46_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s46/rz_s46_077.png",
+	"tags": null,
+	"expansionId": 185
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "人間・認識、即刻・斬殺",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1000。",
 		"【永】 このカードの下のマーカーが2枚以上なら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
@@ -26,8 +26,9 @@
 		"人形",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_11.png",
+	"tags": null,
+	"expansionId": 56
 }

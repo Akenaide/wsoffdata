@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺は天河一、洲籠高校、2年A組",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"キズナ",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KI/S44-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_101.png",
+	"tags": null,
+	"expansionId": 177
 }

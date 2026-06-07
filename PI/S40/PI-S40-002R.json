@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ごめんじゃないでしょ",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「“熾天覆う七つの円環”」があり、他のあなたの《魔法》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/S40-002R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_s40/pi_s40_002r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_s40/pi_s40_002r.png",
+	"tags": null,
+	"expansionId": 170
 }

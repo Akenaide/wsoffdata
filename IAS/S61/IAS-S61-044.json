@@ -8,25 +8,25 @@
 	"jpName": "Good-Sleep，Baby♡",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "育「あの歌の、流れ星をまってる気持ち……。わかった気がする。\u003cbr\u003eだって、あんなに綺麗なんだもん！」",
 	"trigger": [
 		"SOUL",
 		"RETURN"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[RETURN]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[bounce.gif]]：このカードがトリガーした時、あなたは相手のキャラを1枚選び、手札に戻してよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IAS/S61-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_s61/ias_s61_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_s61/ias_s61_044.png",
+	"tags": null,
+	"expansionId": 251
 }

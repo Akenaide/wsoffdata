@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あー……はい、了解です",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《キヴォトス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】［手札を2枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+		"【永】 応援 このカードの前のあなたの《キヴォトス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】［手札を2枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"万魔殿"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_086.png",
+	"tags": null,
+	"expansionId": 460
 }

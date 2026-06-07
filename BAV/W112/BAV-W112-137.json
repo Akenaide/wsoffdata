@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……なんだか、すごく視線を感じる",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《キヴォトス》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
+		"【永】 他のあなたの《キヴォトス》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"Cleaning \u0026 Clearing"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-137",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_137.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_137.png",
+	"tags": null,
+	"expansionId": 460
 }

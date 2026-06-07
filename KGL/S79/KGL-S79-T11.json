@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "会長、お茶が入りましたよ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"秀知院",
 		"副会長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S79-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_t11.png",
+	"tags": null,
+	"expansionId": 316
 }

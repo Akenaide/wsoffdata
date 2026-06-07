@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「恋花」か「瑤」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋1000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《リリィ》のキャラの枚数×500に等しい。"
+		"【永】 他のあなたのカード名に「恋花」か「瑤」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《リリィ》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"ヘルヴォル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_092.png",
+	"tags": null,
+	"expansionId": 371
 }

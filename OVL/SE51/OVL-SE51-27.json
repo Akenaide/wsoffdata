@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……一国の王……それもアンデッドの従者になるなんて……",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、緑か《異形種》か《ナザリック》のキャラを1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、緑か《異形種》か《ナザリック》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"人間種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/SE51-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se51/ovl_se51_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_se51/ovl_se51_27.png",
+	"tags": null,
+	"expansionId": 515
 }

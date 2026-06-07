@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私が先に行きます！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが3枚以上なら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"クローバー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_057.png",
+	"tags": null,
+	"expansionId": 167
 }

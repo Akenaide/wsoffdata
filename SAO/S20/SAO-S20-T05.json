@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "シチューはこれで良しと。\u003cbr /\u003eじゃあ付け合わせでも作るわね",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_t05.png",
+	"tags": null,
+	"expansionId": 67
 }

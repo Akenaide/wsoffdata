@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "いいトコ見せちゃうよ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの赤のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 経験 このカードが【リバース】した時、あなたのレベル置場のカードのレベルの合計が3以上で、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【永】 あなたの赤のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 経験 このカードが【リバース】した時、あなたのレベル置場のカードのレベルの合計が3以上で、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"ストライカー",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_091.png",
+	"tags": null,
+	"expansionId": 162
 }

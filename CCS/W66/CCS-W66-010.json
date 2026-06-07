@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "・・・間に合った・・・",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「知世」を含むキャラがいるなら、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_010.png",
+	"tags": null,
+	"expansionId": 274
 }

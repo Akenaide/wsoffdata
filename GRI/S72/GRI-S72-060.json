@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうよ！？",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「雄二」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「雄二」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"家事"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_060.png",
+	"tags": null,
+	"expansionId": 285
 }

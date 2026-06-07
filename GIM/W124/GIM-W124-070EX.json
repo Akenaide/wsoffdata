@@ -15,20 +15,20 @@
 	"rarity": "SEC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分のクロックの上から1枚までを、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋500し、このカードは次の能力を得る。『【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。』"
+		"【永】 あなたの《音楽》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分のクロックの上から1枚までを、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋500し、このカードは次の能力を得る。『【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"マイペース"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GIM/W124-070EX",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_070ex.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_070ex.png",
+	"tags": null,
+	"expansionId": 514
 }

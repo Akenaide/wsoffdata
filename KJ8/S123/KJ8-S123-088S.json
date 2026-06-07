@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "結果と実力を示せ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてが《防衛隊》か《怪獣》なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"防衛隊",
 		"隊長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KJ8/S123-088S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_088s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_088s.png",
+	"tags": null,
+	"expansionId": 525
 }

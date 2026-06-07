@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "どんな魔法を使っても……過去を取り戻すことなんか、できやしない…！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N1/WE06-18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n1_we06/n1_we06_18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n1_we06/n1_we06_18.png",
+	"tags": null,
+	"expansionId": 37
 }

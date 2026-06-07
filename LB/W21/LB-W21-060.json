@@ -8,14 +8,14 @@
 	"jpName": "あの時の約束",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "だって、葉留佳はわたしの…わたしの…\u003cbr /\u003e――いもうとだもの！",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/W21-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_060.png",
+	"tags": null,
+	"expansionId": 96
 }

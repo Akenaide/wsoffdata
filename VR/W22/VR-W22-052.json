@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これ以上、私に優しくしないで",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"鍵",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VR/W22-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_052.png",
+	"tags": null,
+	"expansionId": 97
 }

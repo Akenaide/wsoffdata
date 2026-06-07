@@ -8,25 +8,26 @@
 	"jpName": "カンタレラ ～grace edition～",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "たとえば深い茂みの中滑り込ませて\u003cbr /\u003e繋いだ汗の香りにただ侵されそう",
 	"trigger": [
 		"SOUL",
 		"GATE"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+		"（[[gate.gif]]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PD/S29-113",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_113.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s29/pd_s29_113.png",
+	"tags": null,
+	"expansionId": 121
 }

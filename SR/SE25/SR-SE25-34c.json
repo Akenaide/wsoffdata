@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "捧げます、この歌を！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが控え室から舞台に置かれた時、他のあなたの、《音楽》か《竜》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2500。",
 		"【自】 このカードがアタックした時、クライマックス置場に「魂の共鳴」があるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』",
@@ -26,8 +26,9 @@
 		"音楽",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SR/SE25-34c",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sr_se25/sr_se25_34c.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sr_se25/sr_se25_34c.png",
+	"tags": null,
+	"expansionId": 145
 }

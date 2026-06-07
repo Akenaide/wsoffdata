@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の邪魔をするのなら……あなたを捕らえるわ……\u003cbr\u003eこの、『狩りのレヴュー』で！！",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"レヴュー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S98-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_026.png",
+	"tags": null,
+	"expansionId": 402
 }

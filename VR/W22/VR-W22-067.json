@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "健次郎「『アローン』め……。やはり来おったか！！」",
+	"trigger": null,
 	"ability": [
 		"【起】［手札の《謎》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋3500。"
 	],
@@ -24,8 +24,9 @@
 		"アローン",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VR/W22-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_067.png",
+	"tags": null,
+	"expansionId": 97
 }

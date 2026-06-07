@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あんなにがんばる千聖ちゃんの姿を見たのは初めてだったから、余計に応援したくなっちゃいました",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「しゅわりん☆どり～みん」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《Pastel＊Palettes》のキャラなら手札に加える。（そうでないなら元に戻す）"
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「しゅわりん☆どり～みん」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《Pastel＊Palettes》のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-T22S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_t22s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_t22s.png",
+	"tags": null,
+	"expansionId": 218
 }

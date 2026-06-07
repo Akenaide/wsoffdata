@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "甘っち、そっちであたしと一緒に泳ごーよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「水着の謳歌」を1枚選び、舞台の好きな枠に置く。"
 	],
@@ -25,8 +25,9 @@
 		"お断り5",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Snk/W62-006S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/snk_w62/snk_w62_006s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/snk_w62/snk_w62_006s.png",
+	"tags": null,
+	"expansionId": 259
 }

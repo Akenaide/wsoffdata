@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "上杉さーん！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「偽りの告白」があり、他のあなたの《五つ子》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《五つ子》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「偽りの告白」があり、他のあなたの《五つ子》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《五つ子》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-T67",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_t67.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_t67.png",
+	"tags": null,
+	"expansionId": 307
 }

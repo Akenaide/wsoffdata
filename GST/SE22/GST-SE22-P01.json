@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "世界一のギガントシューターを目指すぜ！",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラに、《ギガント》を与える。"
 	],
@@ -24,8 +24,9 @@
 		"ギガント",
 		"主人公"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GST/SE22-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gst_se22/gst_se22_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gst_se22/gst_se22_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

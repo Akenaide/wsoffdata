@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたの目が、もう少し、\u003cbr /\u003eほんのちょっとだけ見えるようになりますように",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「“ウェディングドレス”鈴」すべてに、パワーを＋1000。",
 		"【永】 アラーム このカードがクロックの１番上にあるなら、黄のあなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
@@ -25,8 +25,9 @@
 		"お菓子",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W02-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_012.png",
+	"tags": null,
+	"expansionId": 2
 }

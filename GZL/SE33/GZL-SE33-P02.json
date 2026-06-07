@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "迷ってるんだ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。"
 	],
@@ -24,8 +24,9 @@
 		"アラトラム号",
 		"人類"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GZL/SE33-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gzl_se33/gzl_se33_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gzl_se33/gzl_se33_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

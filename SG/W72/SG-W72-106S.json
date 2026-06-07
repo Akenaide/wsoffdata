@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "切ちゃんが、いればッ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの「【暴殺・魔ッ怒Haっター：知】切歌」がいるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 あなたの「【暴殺・魔ッ怒Haっター：知】切歌」がいるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋2000し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W72-106S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w72/sg_w72_106s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w72/sg_w72_106s.png",
+	"tags": null,
+	"expansionId": 275
 }

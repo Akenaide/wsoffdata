@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前たちに比べればエルフは確かに長命だ。だが無駄な時間など1秒も無い。\u003cbr\u003eこの人生を最大限使っても、辿り着けるかわからないことに挑戦しているのだからな",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_089.png",
+	"tags": null,
+	"expansionId": 297
 }

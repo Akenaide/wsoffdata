@@ -10,21 +10,22 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みくる「あ、ありがとう…ございまーす」",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じカード名のカードは、デッキに8枚まで入れることができる。",
 		"【カウンター】 このカードを思い出にする。",
 		"あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの思い出置場の「エンドレスエイト」の枚数×1000に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SY/WE09-19f",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_we09/sy_we09_19f.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_we09/sy_we09_19f.png",
+	"tags": null,
+	"expansionId": 52
 }

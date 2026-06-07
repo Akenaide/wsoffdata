@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの《思春期》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。",
-		"【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+		"【自】 このカードがアタックした時、他のあなたの《思春期》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e【自】 この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"思春期",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_006.png",
+	"tags": null,
+	"expansionId": 261
 }

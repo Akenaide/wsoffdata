@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000。",
 		"相手のクロックが0枚なら、そのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/S11-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_022.png",
+	"tags": null,
+	"expansionId": 50
 }

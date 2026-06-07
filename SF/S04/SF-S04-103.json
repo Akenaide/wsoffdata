@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "異なる羽は、やがて大きな翼に変わる。",
+	"trigger": null,
 	"ability": [
 		"あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SF/S04-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sf_s04/sf_s04_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sf_s04/sf_s04_103.png",
+	"tags": null,
+	"expansionId": 13
 }

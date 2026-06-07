@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "護衛ですか？ はい、お任せください！\u003cbr\u003e日振、働きます！",
+	"trigger": null,
 	"ability": [
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《艦娘》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。",
-		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《艦娘》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。\u003cbr\u003e【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"海防艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_034.png",
+	"tags": null,
+	"expansionId": 270
 }

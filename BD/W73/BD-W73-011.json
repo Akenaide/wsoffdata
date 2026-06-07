@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふえぇー",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のアタックフェイズの始めに、相手はこのカードを前列のキャラのいない枠に動かしてよい。",
-		"【自】 あなたがレベルアップした時、このカードを控え室に置く。"
+		"【自】 相手のアタックフェイズの始めに、相手はこのカードを前列のキャラのいない枠に動かしてよい。\u003cbr\u003e【自】 あなたがレベルアップした時、このカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_011.png",
+	"tags": null,
+	"expansionId": 286
 }

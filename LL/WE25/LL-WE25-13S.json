@@ -15,19 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぱ…ぱ…ぱ……パンダって何って鳴くの……？",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。",
-		"【起】［(1)］ そのターン中、このカードのソウルを＋1。"
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。\u003cbr\u003e【起】［(1)］ そのターン中、このカードのソウルを＋1。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE25-13S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we25/ll_we25_13s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we25/ll_we25_13s.png",
+	"tags": null,
+	"expansionId": 156
 }

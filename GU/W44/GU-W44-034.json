@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "な、なんだか恥ずかしいな…\u003cbr\u003eそんなに見つめないでくれよ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ラビットハウス》のキャラすべてに、パワーを＋500。",
-		"【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
+		"【永】 他のあなたの《ラビットハウス》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_034.png",
+	"tags": null,
+	"expansionId": 174
 }

@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リト様",
+	"trigger": null,
 	"ability": [
 		"【自】［他のあなたの舞台のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「主従を超えた禁断の関係」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置き、そのターン中、このカードのレベルを＋1。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W42-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_043.png",
+	"tags": null,
+	"expansionId": 163
 }

@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "てめえ…今何しやがった！\u003cbr\u003e急に体が重くなりやがったぞ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列のキャラがいないなら、このカードのレベルを＋1し、パワーを＋2500。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【永】 他のあなたの前列のキャラがいないなら、このカードのレベルを＋1し、パワーを＋2500。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"喧嘩屋"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-T03R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_t03r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_t03r.png",
+	"tags": null,
+	"expansionId": 478
 }

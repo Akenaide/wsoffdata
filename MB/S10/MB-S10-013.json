@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アルクェイド、来てるかな…　",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「真祖殺しの真祖 アルクェイド」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「真祖殺しの真祖 アルクェイド」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_013.png",
+	"tags": null,
+	"expansionId": 48
 }

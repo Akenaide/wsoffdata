@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "皐月は所詮、生命戦維を着る器ではなかったということだ",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋2000。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の「凄まじい気迫 皐月」の下のマーカーを1枚このカードの下にマーカーとして置いてよい。",
@@ -26,8 +26,9 @@
 		"服",
 		"CEO"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_021.png",
+	"tags": null,
+	"expansionId": 117
 }

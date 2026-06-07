@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "C-3PO「よくも私をそんなふうに呼んでくれたな！」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの青のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-125",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_125.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_125.png",
+	"tags": null,
+	"expansionId": 199
 }

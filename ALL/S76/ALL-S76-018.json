@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……おかげで仲間に入れてもらえたかもしれない",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《リリィ》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「小さなぬくもり」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の「凛々しく咲く 鶴紗」を1枚まで選び、手札に戻し、自分の控え室の《リリィ》のキャラを1枚まで選び、ストック置場に置く。"
+		"【永】 他のあなたの《リリィ》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「小さなぬくもり」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の「凛々しく咲く 鶴紗」を1枚まで選び、手札に戻し、自分の控え室の《リリィ》のキャラを1枚まで選び、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S76-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s76/all_s76_018.png",
+	"tags": null,
+	"expansionId": 337
 }

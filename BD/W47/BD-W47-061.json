@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふああ～、緊張しちゃう～",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードがクライマックスなら、このカードをストック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"チョココロネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_061.png",
+	"tags": null,
+	"expansionId": 196
 }

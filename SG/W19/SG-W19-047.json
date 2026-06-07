@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フィーネ「あなたは知り過ぎてしまったわ」",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたのカード名に「クリス」か「フィーネ」を含むキャラがいないなら、手札からプレイできない。",
 		"あなたは自分の山札を見て「ノイズ（第4話）」を3枚まで選び、舞台の別々の枠に置く。その後、その山札をシャッフルし、そのターン中、それらのキャラのパワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SG/W19-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w19/sg_w19_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w19/sg_w19_047.png",
+	"tags": null,
+	"expansionId": 79
 }

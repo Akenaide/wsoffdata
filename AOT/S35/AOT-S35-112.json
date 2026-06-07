@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "エレン「壁を破壊できるのはこいつだけ！」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《巨人》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"巨人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S35-112",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s35/aot_s35_112.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s35/aot_s35_112.png",
+	"tags": null,
+	"expansionId": 149
 }

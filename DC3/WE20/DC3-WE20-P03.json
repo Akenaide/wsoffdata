@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほら！　やっぱり魔法は実在するのよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「立夏」か「リッカ」を含むキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE20-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we20/dc3_we20_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we20/dc3_we20_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

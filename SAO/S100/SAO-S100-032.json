@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "絶対にアスナを守るから",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 経験 ［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「黄昏の約束」があり、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《Anniversary》か《プログレッシブ》のキャラか「命を懸けたデスゲーム」を3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -25,8 +25,9 @@
 		"アバター",
 		"プログレッシブ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_032.png",
+	"tags": null,
+	"expansionId": 405
 }

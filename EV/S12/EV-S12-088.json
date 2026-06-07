@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そのための、ネルフです",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「綾波」を含むキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは1枚引く。"
@@ -25,8 +25,9 @@
 		"メガネ",
 		"手袋"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_088.png",
+	"tags": null,
+	"expansionId": 49
 }

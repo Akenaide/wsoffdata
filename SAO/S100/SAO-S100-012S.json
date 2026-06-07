@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゆっくり食べてね",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"フラクトライト",
 		"整合騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-012S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_012s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_012s.png",
+	"tags": null,
+	"expansionId": 405
 }

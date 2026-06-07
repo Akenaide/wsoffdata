@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "え、救われましたよね？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"６つ子",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_038.png",
+	"tags": null,
+	"expansionId": 171
 }

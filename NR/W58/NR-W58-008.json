@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "力になれるように頑張りますから…\u003cbr\u003eお話聞かせてください",
+	"trigger": null,
 	"ability": [
 		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NR/W58-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_008.png",
+	"tags": null,
+	"expansionId": 226
 }

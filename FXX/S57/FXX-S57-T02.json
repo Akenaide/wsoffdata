@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《パラサイト》か《フランクス》のキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"パラサイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_t02.png",
+	"tags": null,
+	"expansionId": 231
 }

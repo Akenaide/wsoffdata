@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いえいっ！それじゃ、バババ～って、着替えてきますね！",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「200％元気！やよい」を1枚選び、このカードがいた枠に置く。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"音楽",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_058.png",
+	"tags": null,
+	"expansionId": 29
 }

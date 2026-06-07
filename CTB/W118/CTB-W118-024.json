@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-		"【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋7500。"
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\u003cbr\u003e【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋7500。"
 	],
 	"specialAttrib": [
 		"サッカー",
 		"比良戸中"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CTB/W118-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ctb_w118/ctb_w118_024.png",
+	"tags": null,
+	"expansionId": 485
 }

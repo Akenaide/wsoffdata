@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もし涯がいたら、こんなときどうするかなって",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「新たなる決意 集」を1枚選び、このカードがいた枠に置く。",
 		"【起】［このカードを【レスト】する］ あなたは自分のキャラを１枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"葬儀社",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_010.png",
+	"tags": null,
+	"expansionId": 76
 }

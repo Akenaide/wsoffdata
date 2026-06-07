@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "そうです。わたくしは厳しいんですよ。ご存知でしょう？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「甘い思い出」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「“淑やかなるスナイパー”雨嘉」を1枚まで選び、このカードがいた枠に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】【CXコンボ】［このカードを控え室に置く］ あなたのクライマックス置場に「甘い思い出」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「“淑やかなるスナイパー”雨嘉」を1枚まで選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_041.png",
+	"tags": null,
+	"expansionId": 371
 }

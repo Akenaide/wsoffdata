@@ -15,17 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、あなたのキャラすべてが《Poppin\u0026#39;Party》なら、このカードのレベルを＋1し、パワーを＋1500。"
+		"【永】 相手のターン中、あなたのキャラすべてが《Poppin'Party》なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_089.png",
+	"tags": null,
+	"expansionId": 286
 }

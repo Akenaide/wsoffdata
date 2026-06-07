@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こんにちは、トレセン学園の理事長秘書、駿川たづなです",
+	"trigger": null,
 	"ability": [
-		"すべてのプレイヤーは自分の山札の上から3枚を、控え室に置く。あなたのこの効果で控え室に置かれたレベル1以下のキャラの枚数が、相手のこの効果で控え室に置かれたレベル0以下のキャラの枚数より多いなら、あなたは1枚引いてよい。",
-		"このカードをストック置場に置く。"
+		"すべてのプレイヤーは自分の山札の上から3枚を、控え室に置く。あなたのこの効果で控え室に置かれたレベル1以下のキャラの枚数が、相手のこの効果で控え室に置かれたレベル0以下のキャラの枚数より多いなら、あなたは1枚引いてよい。\u003cbr\u003eこのカードをストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "UMA/W106-150",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_150.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_150.png",
+	"tags": null,
+	"expansionId": 431
 }

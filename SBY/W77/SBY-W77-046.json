@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】しているカード名に「咲太」を含むキャラを1枚選び【レスト】する。そうしたら、あなたは自分のクロック置場の《思春期》のキャラを1枚選び、手札に戻す。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SBY/W77-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_046.png",
+	"tags": null,
+	"expansionId": 290
 }

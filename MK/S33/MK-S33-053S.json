@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《警察》のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《警察》のキャラを1枚まで選び、手札に戻す。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"警察"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-053S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_053s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_053s.png",
+	"tags": null,
+	"expansionId": 136
 }

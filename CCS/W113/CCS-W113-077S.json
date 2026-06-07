@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《Anniversary》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《Anniversary》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《Anniversary》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《Anniversary》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"クリアカード編",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W113-077S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_077s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w113/ccs_w113_077s.png",
+	"tags": null,
+	"expansionId": 461
 }

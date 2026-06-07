@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下で、他のあなたの《25時、ナイトコードで。》のキャラが2枚以上なら、あなたは自分の控え室のレベル0以下の《25時、ナイトコードで。》のキャラを1枚選び、思い出にしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"25時、ナイトコードで。"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-P04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_p04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_p04.png",
+	"tags": null,
+	"expansionId": 13
 }

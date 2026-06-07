@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "咲太君に見せるために一生懸命選んだ甲斐がありました",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】 あなたのクライマックス置場に「海辺の結婚式場」が置かれた時、前列にこのカードがいるなら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
-		"【自】 このカードがアタックした時、あなたは自分の《思春期》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】【CXコンボ】 あなたのクライマックス置場に「海辺の結婚式場」が置かれた時、前列にこのカードがいるなら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《思春期》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_030.png",
+	"tags": null,
+	"expansionId": 290
 }

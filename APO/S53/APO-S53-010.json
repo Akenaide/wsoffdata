@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああ、俺は……ここから逃げないことだけは、決めていたんだ",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《マスター》か《サーヴァント》か《ホムンクルス》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《マスター》か《サーヴァント》か《ホムンクルス》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ホムンクルス",
 		"マスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_010.png",
+	"tags": null,
+	"expansionId": 228
 }

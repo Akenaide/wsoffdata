@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふふっ。やっぱり美味しい……。",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"和菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_t13.png",
+	"tags": null,
+	"expansionId": 248
 }

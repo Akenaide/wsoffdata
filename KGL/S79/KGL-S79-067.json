@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "いやだぁ、そばにいてよはやさかぁ…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋3000。",
-		"【自】［(1) 手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かし、そのターン中、このカードのパワーを＋1000。"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かし、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"秀知院",
 		"副会長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S79-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_067.png",
+	"tags": null,
+	"expansionId": 317
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰だろうと関係ない、悠二を返してもらう",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「想いの力」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚まで選び、山札の上に置き、そのターン中、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_056.png",
+	"tags": null,
+	"expansionId": 58
 }

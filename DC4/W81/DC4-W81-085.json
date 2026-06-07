@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "その一歩が、あなたの世界を、今よりもっと幸せなものにしてくれると、私は信じています",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《魔法》のキャラすべてに、パワーを＋1000。",
-		"【起】［手札を2枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。"
+		"【永】 他のあなたの、《Anniversary》か《魔法》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［手札を2枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC4/W81-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc4_w81/dc4_w81_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc4_w81/dc4_w81_085.png",
+	"tags": null,
+	"expansionId": 310
 }

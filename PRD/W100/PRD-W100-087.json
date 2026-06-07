@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ひいっ!?ううっ",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたの《ランドソル》のキャラが2枚以上なら、他のあなたの《ランドソル》のキャラすべてに、パワーを＋1000。",
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
+		"【永】 相手のターン中、他のあなたの《ランドソル》のキャラが2枚以上なら、他のあなたの《ランドソル》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W100-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_087.png",
+	"tags": null,
+	"expansionId": 397
 }

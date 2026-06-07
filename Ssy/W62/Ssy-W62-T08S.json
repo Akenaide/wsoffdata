@@ -15,21 +15,21 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ないんだったら自分で作ればいいのよ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】［(4) 他のあなたの舞台のキャラを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】［(4) 他のあなたの舞台のキャラを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"SOS団",
 		"団長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssy/W62-T08S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ssy_w62/ssy_w62_t08s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ssy_w62/ssy_w62_t08s.png",
+	"tags": null,
+	"expansionId": 257
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいよー、びゅーてぃふる！\u003cbr /\u003eそうそうその感じその感じ～",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《植物》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"植物",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W20-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w20/rw_w20_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w20/rw_w20_059.png",
+	"tags": null,
+	"expansionId": 84
 }

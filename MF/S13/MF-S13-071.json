@@ -10,20 +10,21 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シェリル「…馬鹿！」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MF/S13-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_071.png",
+	"tags": null,
+	"expansionId": 61
 }

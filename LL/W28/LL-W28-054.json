@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "穂乃果の笑顔、色んな人に届けられるかな？",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードは、あなたの《音楽》のキャラが2枚以下なら、手札からプレイできない。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W28-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w28/ll_w28_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w28/ll_w28_054.png",
+	"tags": null,
+	"expansionId": 110
 }

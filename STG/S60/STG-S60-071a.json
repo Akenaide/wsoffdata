@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そんな凶真には全部入れちゃうニャ♥",
+	"trigger": null,
 	"ability": [
 		"すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "STG/S60-071a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_071a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_071a.png",
+	"tags": null,
+	"expansionId": 243
 }

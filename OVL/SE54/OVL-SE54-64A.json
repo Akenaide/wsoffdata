@@ -8,24 +8,25 @@
 	"jpName": "全てを御身に",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "AGR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL",
 		"STANDBY"
 	],
 	"ability": [
-		"【自】 このカードが手札からCX置場に置かれた時、[STANDBY]の効果を行う。"
+		"【自】 このカードが手札からCX置場に置かれた時、[[standby.gif]]の効果を行う。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "OVL/SE54-64A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_64a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_se54/ovl_se54_64a.png",
+	"tags": null,
+	"expansionId": 535
 }

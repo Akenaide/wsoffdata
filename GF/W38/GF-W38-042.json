@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日はフルーツ日和でいいお天気、うふふ。\u003cbr /\u003eあ、先輩～お待たせしました～！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《ガール》のキャラが2枚以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのレベル×500に等しい。",
 		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_042.png",
+	"tags": null,
+	"expansionId": 144
 }

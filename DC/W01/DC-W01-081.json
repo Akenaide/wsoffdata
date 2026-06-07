@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "行く行く。沢井が行くならなおさらだ。美夏は行くぞ。",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、このカードのパワーを＋1000。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックを上から1枚選び、控え室に置く。"
@@ -25,8 +25,9 @@
 		"メカ",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W01-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w01/dc_w01_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w01/dc_w01_081.png",
+	"tags": null,
+	"expansionId": 1
 }

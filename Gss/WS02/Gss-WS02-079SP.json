@@ -15,19 +15,19 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シャナ「悠二、私への誓い、覚えてる？」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"炎",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gss/WS02-079SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gss_ws02_079sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gss_ws02_079sp.png",
+	"tags": null,
+	"expansionId": 439
 }

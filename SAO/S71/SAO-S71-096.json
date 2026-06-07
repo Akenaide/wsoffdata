@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どんな時も後ろに注意よ",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の3つの能力を与える。『【永】 このカードの正面のキャラは他の枠に動かせない。』『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SAO/S71-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_096.png",
+	"tags": null,
+	"expansionId": 288
 }

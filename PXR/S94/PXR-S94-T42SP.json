@@ -15,19 +15,19 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。",
-		"【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「父親のような愛情」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを2回与え、そのターン中、このカードのパワーを＋6000。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。\u003cbr\u003e【自】【CXコンボ】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、クライマックス置場に「父親のような愛情」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを2回与え、そのターン中、このカードのパワーを＋6000。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S94-T42SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s94/pxr_s94_t42sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s94/pxr_s94_t42sp.png",
+	"tags": null,
+	"expansionId": 395
 }

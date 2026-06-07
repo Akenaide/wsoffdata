@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サクラ、メイドはお淑やかに、ですよ",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがレベルアップした時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_049.png",
+	"tags": null,
+	"expansionId": 13
 }

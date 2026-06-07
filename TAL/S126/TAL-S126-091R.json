@@ -8,22 +8,24 @@
 	"jpName": "存在を賭けた、誓いと約束",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
-	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[]：このカードがトリガーした時、このカードを控え室に置き、あなたは自分の山札を上から2枚まで公開し、1枚選び、ストック置場に置き、残りを手札に加える）"
+	"flavourText": "穢れ無き風よ、我に仇為す者を包み込まん",
+	"trigger": [
+		"CHANCE"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[chance.gif]]：このカードがトリガーした時、このカードを控え室に置き、あなたは自分の山札を上から2枚まで公開し、1枚選び、ストック置場に置き、残りを手札に加える）"
+	],
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TAL/S126-091R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_091r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_091r.png",
+	"tags": null,
+	"expansionId": 538
 }

@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "イリス…わたしは…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《魔法》か《武器》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「星を殺す悪魔」が置かれた時、前列にこのカードがいて、他のあなたの、《魔法》か《武器》のキャラがいるなら、あなたは自分の山札を見て《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、他のあなたのキャラすべてに、そのターン中、パワーを＋500。"
+		"【永】 他のあなたの、《魔法》か《武器》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「星を殺す悪魔」が置かれた時、前列にこのカードがいて、他のあなたの、《魔法》か《武器》のキャラがいるなら、あなたは自分の山札を見て《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、他のあなたのキャラすべてに、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NR/W58-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_092.png",
+	"tags": null,
+	"expansionId": 226
 }

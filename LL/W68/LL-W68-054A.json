@@ -15,18 +15,18 @@
 	"rarity": "CA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ワン、ツー、スリー☆手品なら、ことりにお任せっ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「“必要な小道具”南 ことり」を1枚選び、このカードがいた枠に置く。』"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「“必要な小道具”南 ことり」を1枚選び、このカードがいた枠に置く。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"手品"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-054A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_054a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_054a.png",
+	"tags": null,
+	"expansionId": 272
 }

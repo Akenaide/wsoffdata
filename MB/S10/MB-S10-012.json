@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "命を賭した曲芸であったな道化。\u003cbr /\u003eその覚悟に報いてやろう",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"王族",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_012.png",
+	"tags": null,
+	"expansionId": 48
 }

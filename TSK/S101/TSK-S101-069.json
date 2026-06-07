@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《魔大陸》のキャラすべてに、パワーを＋1000。",
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《魔大陸》のキャラの枚数×1500に等しい。"
+		"【永】 他のあなたの《魔大陸》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《魔大陸》のキャラの枚数×1500に等しい。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S101-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s101/tsk_s101_069.png",
+	"tags": null,
+	"expansionId": 412
 }

@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "これからしばらくは家族同士だ。\u003cbr /\u003e自分んちと思って気楽にやってくれ",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 	"specialAttrib": [
 		"警察"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE01-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se01/p4_se01_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se01/p4_se01_03.png",
+	"tags": null,
+	"expansionId": 22
 }

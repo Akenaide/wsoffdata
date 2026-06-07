@@ -10,23 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "KR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「かぐや」か「御行」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは恋愛頭脳戦を開始する。",
-		"【リプレイ】 恋愛頭脳戦を開始する あなたは1枚まで引き、自分のキャラを3枚まで選び、次の相手のターンの終わりまで、次の2つの能力を与える。",
-		"『【永】 このカードの正面のキャラはサイドアタックできない。』",
-		"『【永】 このカードはサイドアタックしてもソウルが減少しない。』"
+		"このカードは、あなたのカード名に「かぐや」か「御行」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは恋愛頭脳戦を開始する。\u003cbr\u003e【リプレイ】 恋愛頭脳戦を開始する あなたは1枚まで引き、自分のキャラを3枚まで選び、次の相手のターンの終わりまで、次の2つの能力を与える。\u003cbr\u003e『【永】 このカードの正面のキャラはサイドアタックできない。』\u003cbr\u003e『【永】 このカードはサイドアタックしてもソウルが減少しない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KGL/S79-068KR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_068kr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_068kr.png",
+	"tags": null,
+	"expansionId": 317
 }

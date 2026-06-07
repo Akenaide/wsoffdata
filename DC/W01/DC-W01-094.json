@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だって、私はエトが……エトが、好きだから",
+	"trigger": null,
 	"ability": [
 		"あなたは2枚まで引く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC/W01-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w01/dc_w01_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w01/dc_w01_094.png",
+	"tags": null,
+	"expansionId": 1
 }

@@ -15,21 +15,21 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを山札の上に好きな順番で置き、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを山札の上に好きな順番で置き、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"クロウカード編",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W113-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w113/ccs_w113_032.png",
+	"tags": null,
+	"expansionId": 461
 }

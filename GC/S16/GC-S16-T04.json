@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それが未来の一つの顔だというなら、\u003cbr /\u003eいまは祝福してやるさ。新たな王の誕生を――",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"葬儀社",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_t04.png",
+	"tags": null,
+	"expansionId": 55
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ステキステキ！こんなの隠してたなんて、さすがは纏博士だわ",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［手札の「変装」を1枚控え室に置き、このカードを【レスト】する］ あなたは自分のクロック置場のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
@@ -25,8 +25,9 @@
 		"服",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_027.png",
+	"tags": null,
+	"expansionId": 117
 }

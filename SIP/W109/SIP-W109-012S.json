@@ -15,16 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SIP/W109-012S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sip_w109/sip_w109_012s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sip_w109/sip_w109_012s.png",
+	"tags": null,
+	"expansionId": 448
 }

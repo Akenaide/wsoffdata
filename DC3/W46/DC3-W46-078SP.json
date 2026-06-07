@@ -15,20 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "またね♪",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《魔法》か《生徒会》のキャラの枚数×500に等しい。",
-		"【自】［(3) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《魔法》か《生徒会》のキャラの枚数×500に等しい。\u003cbr\u003e【自】［(3) 手札を1枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W46-078SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w46/dc3_w46_078sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w46/dc3_w46_078sp.png",
+	"tags": null,
+	"expansionId": 178
 }

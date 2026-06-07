@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "3",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"あなたのカード名に「テラフォーマー」を含むキャラが5枚以上なら、あなたは自分の【スタンド】しているキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたは相手のレベル3以下のキャラを1枚選び、クロック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TF/S32-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_047.png",
+	"tags": null,
+	"expansionId": 135
 }

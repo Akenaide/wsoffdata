@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "起きろ！　蒼！　頼む、目を覚ましてくれ！",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「蒼」か「藍」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の手札のキャラを1枚選び、思い出にしてよい。そうしたら、あなたは自分の控え室のカード名に「蒼」か「藍」を含むキャラを2枚まで選び、手札に戻す。"
+		"このカードは、あなたのカード名に「蒼」か「藍」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の手札のキャラを1枚選び、思い出にしてよい。そうしたら、あなたは自分の控え室のカード名に「蒼」か「藍」を含むキャラを2枚まで選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SMP/W60-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_070.png",
+	"tags": null,
+	"expansionId": 238
 }

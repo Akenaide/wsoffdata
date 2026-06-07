@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一撃必殺！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「一撃必殺の狙撃」があるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたは他の自分のキャラを1枚と、このカードを選び、手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"銃"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_033.png",
+	"tags": null,
+	"expansionId": 297
 }

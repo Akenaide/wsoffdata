@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほら、これ聞いて元気だしな？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが5枚以上なら、他のあなたの《風紀委員》のキャラすべてに、パワーを＋500。",
 		"【自】 絆／「“風紀委員”初春」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“風紀委員”初春」を1枚選び、手札に戻す）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W10-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w10/rg_w10_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w10/rg_w10_033.png",
+	"tags": null,
+	"expansionId": 40
 }

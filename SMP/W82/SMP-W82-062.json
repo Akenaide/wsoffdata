@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "心配するな。私が守ってやる",
+	"trigger": null,
 	"ability": [
 		"【起】［手札の「“のどかな時間”しろは」を1枚控え室に置く］ あなたは相手の前列のコスト0以下のキャラを1枚まで選び、控え室に置き、そのターン中、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_062.png",
+	"tags": null,
+	"expansionId": 311
 }

@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やっぱり、かーくんとは気が合うなー！",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「香澄」か「はぐみ」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+		"このカードは、あなたのカード名に「香澄」か「はぐみ」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W63-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_066.png",
+	"tags": null,
+	"expansionId": 255
 }

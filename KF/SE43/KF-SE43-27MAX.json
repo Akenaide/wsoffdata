@@ -15,7 +15,7 @@
 	"rarity": "MAX",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"オロチ",
 		"暗黒街"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/SE43-27MAX",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_27max.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_se43/kf_se43_27max.png",
+	"tags": null,
+	"expansionId": 441
 }

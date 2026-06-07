@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "市民プールや海水浴場は超混んでて\u003cbr /\u003e泳ぐスペースが超ありませんが",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札の《超能力》のキャラを1枚思い出にする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1500し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W26-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w26/rg_w26_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w26/rg_w26_007.png",
+	"tags": null,
+	"expansionId": 103
 }

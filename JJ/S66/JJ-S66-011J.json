@@ -15,18 +15,18 @@
 	"rarity": "JJR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「亀の中の部屋」を1枚選び、手札に戻す。"
+		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「亀の中の部屋」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"黄金の風",
 		"スタンド使い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/S66-011J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_s66/jj_s66_011j.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_s66/jj_s66_011j.png",
+	"tags": null,
+	"expansionId": 277
 }

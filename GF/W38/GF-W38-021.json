@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうせなら、観て行こうよ。うん、決まり。\u003cbr /\u003eじゃあ二人分のチケット、頼んでみてね",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
 		"【起】［このカードを控え室に置く］ あなたは自分の《ガール》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_021.png",
+	"tags": null,
+	"expansionId": 144
 }

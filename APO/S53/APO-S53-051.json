@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前を殺して、私は願いを叶える",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－1。",
-		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
+		"【永】 舞台のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
 	],
 	"specialAttrib": [
 		"サーヴァント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_051.png",
+	"tags": null,
+	"expansionId": 228
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "メイプルを見てると飽きないな…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ゲーム》のキャラが4枚以上なら、あなたは自分の控え室の《ゲーム》のキャラを1枚選び、ストック置場に置いてよい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ゲーム》のキャラが4枚以上なら、あなたは自分の控え室の《ゲーム》のキャラを1枚選び、ストック置場に置いてよい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BFR/S78-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bfr_s78/bfr_s78_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bfr_s78/bfr_s78_051.png",
+	"tags": null,
+	"expansionId": 313
 }

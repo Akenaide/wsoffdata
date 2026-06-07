@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、あの、ダメダメな私なんかじゃムリです～",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはアタックできない。",
 		"【起】［あなたの《音楽》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"お茶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_016.png",
+	"tags": null,
+	"expansionId": 29
 }

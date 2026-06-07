@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "作戦通りだわ",
+	"trigger": null,
 	"ability": [
 		"【起】[(1)] あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-112",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_112.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_112.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なかなか面白い先生ですね",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_040.png",
+	"tags": null,
+	"expansionId": 86
 }

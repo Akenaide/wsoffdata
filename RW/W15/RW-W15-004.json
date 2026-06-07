@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "瑚太朗、遅いです",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以上のキャラなら、このカードを【レスト】する。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"お菓子",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_004.png",
+	"tags": null,
+	"expansionId": 65
 }

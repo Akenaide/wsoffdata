@@ -8,14 +8,14 @@
 	"jpName": "深淵のネクロマンサー",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あこ「死んだふりをして敵に気づかれなくなる、\u003cbr\u003eあこの得意スキルですっ！」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W95-123",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_123.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_123.png",
+	"tags": null,
+	"expansionId": 382
 }

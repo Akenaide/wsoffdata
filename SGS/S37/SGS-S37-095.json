@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "これがゲームじゃない現実なんだって\u003cbr\u003eいつも自分に言い聞かせています",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ストライカー",
 		"カードゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_095.png",
+	"tags": null,
+	"expansionId": 162
 }

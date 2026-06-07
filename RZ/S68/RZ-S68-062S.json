@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ズルっこ！もう、そんなことしちゃだめじゃない",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場に「何でもお任せ レム」があるなら、あなたは1枚まで引き、自分の手札を1枚選び、控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場に「何でもお任せ レム」があるなら、あなたは1枚まで引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"Memory Snow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S68-062S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_062s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_062s.png",
+	"tags": null,
+	"expansionId": 280
 }

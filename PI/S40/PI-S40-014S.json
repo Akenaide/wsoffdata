@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ごきげんようシェロ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《宝石》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時か「“人の恋路”ルヴィア」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 他のあなたの《宝石》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時か「“人の恋路”ルヴィア」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"宝石",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/S40-014S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_s40/pi_s40_014s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_s40/pi_s40_014s.png",
+	"tags": null,
+	"expansionId": 170
 }

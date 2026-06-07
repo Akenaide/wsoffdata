@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "先生と一緒にいるというだけで、何故かいつも通りではいられなくて…。\u003cbr\u003e本当に、困りましたね…色々と…。",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"風紀委員会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-T06R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_t06r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_t06r.png",
+	"tags": null,
+	"expansionId": 459
 }

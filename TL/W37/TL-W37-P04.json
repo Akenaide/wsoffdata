@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの、カード名に「ララ」を含むキャラとカード名に「美柑」を含むキャラを1枚ずつ【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"家事"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-P04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_p04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_p04.png",
+	"tags": null,
+	"expansionId": 12
 }

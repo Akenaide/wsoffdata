@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ええ。私は和を重んじる日本人よ",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】［(1)］ あなたは自分のカード名に「イリヤ」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
+		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】［(1)］ あなたは自分のカード名に「イリヤ」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
 	],
 	"specialAttrib": [
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE24-11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se24/pi_se24_11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se24/pi_se24_11.png",
+	"tags": null,
+	"expansionId": 133
 }

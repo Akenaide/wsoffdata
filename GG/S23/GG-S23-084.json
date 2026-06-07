@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "レド「あいつを倒そうチェインバー。\u003cbr /\u003eそれが俺たちの務めだ」\u003cbr /\u003eチェインバー「全面的に同意する」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、他のあなたのカード名に「レド」を含むキャラすべてに、そのターン中、レベルを＋1。",
 		"【自】 絆／「信念の崩壊 レド」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「信念の崩壊 レド」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"メカ",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_084.png",
+	"tags": null,
+	"expansionId": 101
 }

@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "プロデューサーさん。さあ、立って下さい！\u003cbr /\u003e私がついていますから！",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_087.png",
+	"tags": null,
+	"expansionId": 29
 }

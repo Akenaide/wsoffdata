@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっ、どーゆーことよ！？\u003cbr /\u003e格ゲーの２Ｐキャラみたいになってんじゃん！？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《悪魔》か《プリニー》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_13.png",
+	"tags": null,
+	"expansionId": 102
 }

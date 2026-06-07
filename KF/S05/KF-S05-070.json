@@ -10,20 +10,21 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "京「そこに一生這いつくばってるつもりか？ちったぁ意地ってもんを見せてみろよ！」",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたのカード名に「京」か「紅丸」か「大門」を含むキャラがいないなら、手札からプレイできない。",
 		"あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KF/S05-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_070.png",
+	"tags": null,
+	"expansionId": 27
 }

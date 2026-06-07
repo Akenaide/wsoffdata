@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ラジャ！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"幼稚園",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_105.png",
+	"tags": null,
+	"expansionId": 13
 }

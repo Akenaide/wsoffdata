@@ -15,19 +15,19 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "メジロアルダンと申します。この脚は儚くとも、誇り高く走りたい…一瞬でもいい",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《ウマ娘》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《ウマ娘》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\u003cbr\u003e【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-T32",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t32.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_t32.png",
+	"tags": null,
+	"expansionId": 430
 }

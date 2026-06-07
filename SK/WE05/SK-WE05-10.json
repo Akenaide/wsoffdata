@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ミンタオ「いくわよ、ブー！」",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは自分の「ミンタオ＆ブーゲンビリア」を1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"コロニー",
 		"警察"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SK/WE05-10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sk_we05/sk_we05_10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sk_we05/sk_we05_10.png",
+	"tags": null,
+	"expansionId": 30
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "トップアイドルの道は１日にしてならずよ。 経験と努力を積み重ねて、大きく羽ばたいてね",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"影"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/SE04-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_se04/im_se04_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_se04/im_se04_08.png",
+	"tags": null,
+	"expansionId": 36
 }

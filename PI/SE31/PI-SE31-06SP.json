@@ -1,6 +1,6 @@
 {
 	"set": "PI",
-	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"setName": " Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
 	"side": "S",
 	"release": "E31",
 	"id": "06SP",
@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、あなたのキャラすべてが《魔法》か《腹ペコ》なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"腹ペコ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE31-06SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se31/pi_se31_06sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se31/pi_se31_06sp.png",
+	"tags": null,
+	"expansionId": 202
 }

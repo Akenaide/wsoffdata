@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "早く着替えてしまいなさい。\u003cbr /\u003eワタクシより遅かったら、下僕失格よ？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが黄のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"ドレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_023.png",
+	"tags": null,
+	"expansionId": 144
 }

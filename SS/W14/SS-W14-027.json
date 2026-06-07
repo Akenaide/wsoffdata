@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シャナ「……これは多分、楽しい」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋4500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SS/W14-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_027.png",
+	"tags": null,
+	"expansionId": 58
 }

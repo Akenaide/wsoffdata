@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《Anniversary》のキャラが4枚以上なら、このカードのパワーを＋6000。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。"
+		"【永】 他のあなたの《Anniversary》のキャラが4枚以上なら、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラが2枚以上なら、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"さくらカード編",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W113-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w113/ccs_w113_096.png",
+	"tags": null,
+	"expansionId": 461
 }

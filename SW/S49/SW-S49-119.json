@@ -8,24 +8,25 @@
 	"jpName": "Great Mentor",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アナキン「オビ=ワンは偉大な師で、マスター・ヨーダのように賢く、マスター・ウィンドゥのように強い」",
 	"trigger": [
 		"DRAW"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+		"（[[draw.gif]]：このカードがトリガーした時、あなたは1枚引いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SW/S49-119",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_119.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_119.png",
+	"tags": null,
+	"expansionId": 199
 }

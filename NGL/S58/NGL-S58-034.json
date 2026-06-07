@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いの「――お待たせ致しました。\u003cbr\u003e東部連合・在エルキア大使――初瀬いづな、でございます」",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたが『加速』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが0以下ならストック置場の上か下に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）",
-		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、ソウルを＋1。"
+		"【自】 あなたが『加速』を使った時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが0以下ならストック置場の上か下に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）\u003cbr\u003e【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"獣人種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_034.png",
+	"tags": null,
+	"expansionId": 236
 }

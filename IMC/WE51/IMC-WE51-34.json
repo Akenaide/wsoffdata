@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサーさん、この街の音と景色を、たくさん楽しみましょうね♪",
+	"trigger": null,
 	"ability": [
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの、黄のキャラと青のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの、黄のキャラと青のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"フルート"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/WE51-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_we51/imc_we51_34.png",
+	"tags": null,
+	"expansionId": 539
 }

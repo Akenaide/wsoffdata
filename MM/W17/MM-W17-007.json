@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのソウルを＋1。",
 		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、次のあなたのターンの終わりまで、このカードのパワーを＋1000。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_007.png",
+	"tags": null,
+	"expansionId": 74
 }

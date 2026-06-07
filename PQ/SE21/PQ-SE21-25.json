@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんなには内緒だからね！？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《魔法》か《武器》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PQ/SE21-25",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pq_se21/pq_se21_25.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pq_se21/pq_se21_25.png",
+	"tags": null,
+	"expansionId": 125
 }

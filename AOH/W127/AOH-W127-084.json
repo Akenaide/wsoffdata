@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［他のあなたの舞台の《あおぎり高校》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
 	],
@@ -24,8 +24,9 @@
 		"あおぎり高校",
 		"嫁"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOH/W127-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aoh_w127/aoh_w127_084.png",
+	"tags": null,
+	"expansionId": 517
 }

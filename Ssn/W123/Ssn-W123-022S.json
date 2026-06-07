@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私、あなたとこうして穏やかな再会ができて嬉しいわ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』",
-		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』\u003cbr\u003e【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"加護"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssn/W123-022S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssn_w123_022s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/ssn_w123_022s.png",
+	"tags": null,
+	"expansionId": 510
 }

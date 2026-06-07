@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はるちんアタック!",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《委員長》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1500。",
 		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「佳奈多」を含むキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -25,8 +25,9 @@
 		"ビー玉",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W02-E07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_e07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_e07.png",
+	"tags": null,
+	"expansionId": 20
 }

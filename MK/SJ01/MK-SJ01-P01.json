@@ -16,15 +16,16 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手は月刊ブシロードを購入したくなる。あなたと相手がお花見中なら、このゲームに負けたプレイヤーは買い出しに行く。"
 	],
 	"specialAttrib": [
 		"探偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SJ01-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

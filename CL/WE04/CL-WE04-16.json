@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "待ってほしいのー",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"本",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE04-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we04/cl_we04_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we04/cl_we04_16.png",
+	"tags": null,
+	"expansionId": 24
 }

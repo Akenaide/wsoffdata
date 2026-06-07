@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "何か言いたそうだった、理樹くん",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「あたたかくて、やさしい世界」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から3枚を、控え室に置き、相手にＸダメージを与える。Ｘはこの効果で控え室に置かれたカードの持つ色の合計に等しい。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】［(2)］ このカードがアタックした時、クライマックス置場に「あたたかくて、やさしい世界」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から3枚を、控え室に置き、相手にＸダメージを与える。Ｘはこの効果で控え室に置かれたカードの持つ色の合計に等しい。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W78-073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klb_w78/klb_w78_073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klb_w78/klb_w78_073.png",
+	"tags": null,
+	"expansionId": 296
 }

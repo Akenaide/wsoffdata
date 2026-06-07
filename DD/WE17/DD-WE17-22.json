@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "22",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "でも、いいなぁ～、楽しそうだなぁ～",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚と控え室の、《動物》か《勇者》のキャラを1枚を選び、入れ替えてよい。"
@@ -25,8 +25,9 @@
 		"勇者",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE17-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_22.png",
+	"tags": null,
+	"expansionId": 100
 }

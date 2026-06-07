@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "見て見て、コトハがコーディネートしてくれたんだヨ！オスマシエレナも、悪くないよネ～♪",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの《音楽》のキャラがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。"
+		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、他のあなたの《音楽》のキャラがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"サンバ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_022.png",
+	"tags": null,
+	"expansionId": 392
 }

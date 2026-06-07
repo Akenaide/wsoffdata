@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日は偶然二人とも《あのころカラー》なんだ。\u003cbr\u003eすごい確率だね",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの、《アバター》か《ネット》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S47-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s47/sao_s47_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s47/sao_s47_016.png",
+	"tags": null,
+	"expansionId": 189
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "だから私は、先輩が行くところにどこまでもついていく",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《アラトラム号》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「銀の涙」があるなら、あなたは自分の山札を上から2枚まで見て、《アラトラム号》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 あなたの《アラトラム号》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「銀の涙」があるなら、あなたは自分の山札を上から2枚まで見て、《アラトラム号》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"アラトラム号",
 		"人類"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GZL/SE33-46",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gzl_se33/gzl_se33_46.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gzl_se33/gzl_se33_46.png",
+	"tags": null,
+	"expansionId": 244
 }

@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あれは、皆の物語。私たち皆の。\u003cbr /\u003eね？　それでいいでしょ？",
+	"trigger": null,
 	"ability": [
 		"あなたは2枚まで引く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC/WE08-72",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we08/dc_we08_72.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we08/dc_we08_72.png",
+	"tags": null,
+	"expansionId": 45
 }

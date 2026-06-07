@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "結城くんがホントは誠実な人だって事",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
 	],
 	"specialAttrib": [
 		"スポーツ",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_086.png",
+	"tags": null,
+	"expansionId": 150
 }

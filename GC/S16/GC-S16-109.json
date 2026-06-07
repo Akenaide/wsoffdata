@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "集「僕は君のためにここに来たんだ。\u003cbr /\u003e君を守りたくて……。だから――」",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"葬儀社"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-109",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_109.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_109.png",
+	"tags": null,
+	"expansionId": 13
 }

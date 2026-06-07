@@ -8,14 +8,14 @@
 	"jpName": "ロイヤルの艦船達",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ベルファスト「ご主人様、委託を完了したお嬢様方がお出迎えをお待ちしているようです」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "AZL/S102-T38",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_t38.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_t38.png",
+	"tags": null,
+	"expansionId": 409
 }

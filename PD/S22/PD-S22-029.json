@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "唐突に鳴り響く　僕を呼ぶ別れの音\u003cbr /\u003e見慣れたその泣き顔も　しばらくは見れないね",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「タイムマシン」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋5500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_029.png",
+	"tags": null,
+	"expansionId": 93
 }

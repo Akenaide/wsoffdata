@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰だ、お前は",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ 他のあなたのバトル中の《服》のキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"服",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_049.png",
+	"tags": null,
+	"expansionId": 117
 }

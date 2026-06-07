@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "デンジくんみたいな人",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、他のあなたの、《デビルハンター》か《悪魔》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-T04R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_t04r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_t04r.png",
+	"tags": null,
+	"expansionId": 422
 }

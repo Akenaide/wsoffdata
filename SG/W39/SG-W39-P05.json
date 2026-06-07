@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「調」を含むキャラがいるなら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_p05.png",
+	"tags": null,
+	"expansionId": 12
 }

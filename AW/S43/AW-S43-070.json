@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もうちょっと待ってね、お兄ちゃん",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、レベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S43-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_070.png",
+	"tags": null,
+	"expansionId": 176
 }

@@ -15,8 +15,8 @@
 	"rarity": "CA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "旅行に行く人たちを見てると、私もどこかに行きたくなっちゃった。あなたならどこに行きたい？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"空"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-091A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_091a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_091a.png",
+	"tags": null,
+	"expansionId": 272
 }

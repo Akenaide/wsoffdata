@@ -15,17 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのトリガーアイコンが[GATE]のCXがCX置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。』"
+		"【自】 あなたのトリガーアイコンが[[gate.gif]]のCXがCX置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。』"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"密偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-077S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_077s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_077s.png",
+	"tags": null,
+	"expansionId": 479
 }

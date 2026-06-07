@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "千種「天海、春香さん……ですよね？」",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたのターン中、あなたの思い出置場に「プレゼント」があるなら、このカードのパワーを＋2000。",
 		"【自】 絆／「新たなる約束 千早」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「新たなる約束 千早」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_049.png",
+	"tags": null,
+	"expansionId": 80
 }

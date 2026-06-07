@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ご、ごめんなさい！",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"風南島",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W46-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w46/ds_w46_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w46/ds_w46_023.png",
+	"tags": null,
+	"expansionId": 178
 }

@@ -15,7 +15,7 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "教えて、何があったのかを……！\u003cbr /\u003eどうしたらあなたの心を救えるのかを……！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"タロット",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_051.png",
+	"tags": null,
+	"expansionId": 106
 }

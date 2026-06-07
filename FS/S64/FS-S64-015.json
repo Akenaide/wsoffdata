@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "衛宮は間桐の妹さんと、お付き合いしているのか？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_015.png",
+	"tags": null,
+	"expansionId": 262
 }

@@ -15,8 +15,8 @@
 	"rarity": "KBR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"しっかり者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BTR/W107-048KBR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_048kbr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/btr_w107/btr_w107_048kbr.png",
+	"tags": null,
+	"expansionId": 444
 }

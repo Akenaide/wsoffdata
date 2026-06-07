@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "え……えぇぇっ！？ど、どうしてそんな急に、え、そ、それは……っ！？",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"エンジニア部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-T16R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_t16r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_t16r.png",
+	"tags": null,
+	"expansionId": 459
 }

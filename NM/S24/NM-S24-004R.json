@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋500し、このカードは次の能力を得る。『【永】 あなたのターン中、このカードのパワーを＋1000。』"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-004R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_004r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_004r.png",
+	"tags": null,
+	"expansionId": 105
 }

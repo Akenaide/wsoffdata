@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "デュソルバート「ダークテリトリーへの侵入である」",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのカード名に「キリト」か「ユージオ」を含むキャラが手札から舞台に置かれた時、そのターン中、そのキャラのパワーを＋1000し、《お弁当》を与える。",
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 他のあなたのカード名に「キリト」か「ユージオ」を含むキャラが手札から舞台に置かれた時、そのターン中、そのキャラのパワーを＋1000し、《お弁当》を与える。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"神聖術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S65-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_012.png",
+	"tags": null,
+	"expansionId": 267
 }

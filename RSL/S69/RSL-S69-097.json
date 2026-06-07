@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やちよ「栞のサイズ、言い当てちゃおっか？」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたの《シークフェルト音楽学院》のキャラが5枚以上なら、あなたは自分のクロック置場の《シークフェルト音楽学院》のキャラを1枚選び、手札に戻す。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RSL/S69-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s69/rsl_s69_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s69/rsl_s69_097.png",
+	"tags": null,
+	"expansionId": 279
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "戦いが終わって、あたしたちはそれぞれのギルドに帰る",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《鍵》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_18.png",
+	"tags": null,
+	"expansionId": 68
 }

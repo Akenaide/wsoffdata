@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "でも、この苦しみと逃げずに向き合うことこそが何より大切で、とても尊いことなのだと、わかってほしい",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場に「“こぼれ落ちる涙”湊友希那」があるなら、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、他のあなたの《Roselia》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見てカードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
+		"【永】 経験 あなたのレベル置場に「“こぼれ落ちる涙”湊友希那」があるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《Roselia》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見てカードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_092.png",
+	"tags": null,
+	"expansionId": 255
 }

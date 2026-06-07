@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "世の男子学生というのは、女子に手を握られると嬉しいものだと知り及んでおりまする……が、如何で御座いましょう？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《魔法》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《魔法》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《魔法》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《魔法》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法",
 		"鬼"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W128-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w128/dc_w128_066.png",
+	"tags": null,
+	"expansionId": 544
 }

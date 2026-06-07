@@ -15,15 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハンゾウ、火の輪くぐり！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが《Peaky P-key》なら、このカードのパワーを＋2000。",
-		"【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたはこのカードをストック置場に置いてよい。"
+		"【永】 あなたのターン中、あなたのキャラすべてが《Peaky P-key》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたはこのカードをストック置場に置いてよい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"音楽",
+		"Peaky P-key"
+	],
+	"version": "4",
 	"cardcode": "DJ/S97-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_067.png",
+	"tags": null,
+	"expansionId": 423
 }

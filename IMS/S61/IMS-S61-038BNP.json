@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの黄のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋4500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IMS/S61-038BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_038bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_038bnp.png",
+	"tags": null,
+	"expansionId": 251
 }

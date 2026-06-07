@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さっそく、新しいカードを使った所を！",
+	"trigger": null,
 	"ability": [
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「Maison de Tomoyo」を1枚選び、手札に戻す。",
-		"【自】 絆／「“CLEAR”木之本桜」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“CLEAR”木之本桜」を1枚選び、手札に戻す）"
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「Maison de Tomoyo」を1枚選び、手札に戻す。\u003cbr\u003e【自】 絆／「“CLEAR”木之本桜」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“CLEAR”木之本桜」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"カメラ",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_056.png",
+	"tags": null,
+	"expansionId": 274
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "狭いところで固まって、いい的になってくれちゃってさぁ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《リリィ》のキャラがいるなら、すべてのプレイヤーは自分の山札の上から1枚を、控え室に置く。それらのカードにCXか「“クエレブレ”緋紅」があるなら、あなたは自分の控え室の《リリィ》のキャラを1枚選び、手札に戻してよい。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《リリィ》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《リリィ》のキャラがいるなら、すべてのプレイヤーは自分の山札の上から1枚を、控え室に置く。それらのカードにCXか「“クエレブレ”緋紅」があるなら、あなたは自分の控え室の《リリィ》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《リリィ》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"クエレブレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S127-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s127/all_s127_090.png",
+	"tags": null,
+	"expansionId": 541
 }

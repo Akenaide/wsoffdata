@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日この日を……ハダカ記念日と名付けるぜ",
+	"trigger": null,
 	"ability": [
-		"【永】 他の《武器》のキャラがいないなら、このカードは《服》をすべて失い、このカードは次の能力を得る。『【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋500。』",
-		"【永】 他の《武器》のキャラがいるなら、このカードは次の能力を得る。『【永】 あなたのターン中、このカードのパワーを＋2000。』"
+		"【永】 他の《武器》のキャラがいないなら、このカードは《服》をすべて失い、このカードは次の能力を得る。『【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋500。』\u003cbr\u003e【永】 他の《武器》のキャラがいるなら、このカードは次の能力を得る。『【永】 あなたのターン中、このカードのパワーを＋2000。』"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_090.png",
+	"tags": null,
+	"expansionId": 238
 }

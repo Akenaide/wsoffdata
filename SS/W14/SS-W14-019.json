@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいぞ…吉田さんがボクに注目している",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを【レスト】する］ あなたは自分のキャラを１枚選び、そのターン中、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_019.png",
+	"tags": null,
+	"expansionId": 58
 }

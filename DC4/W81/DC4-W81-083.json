@@ -15,22 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この勝負、延長戦とさせていただきたい！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《魔法》のキャラが2枚以上なら、このカードのパワーを＋4000。",
-		"【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「ナイスキャッチ！」があるなら、あなたは自分の山札の上から3枚を公開し、その山札をシャッフルする。それらのカードの持つ色の合計が2色なら、あなたは相手に1ダメージを与える。3色以上なら、あなたは相手に3ダメージを2回与える。（ダメージキャンセルは発生する）",
-		""
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《魔法》のキャラが2枚以上なら、このカードのパワーを＋4000。\u003cbr\u003e【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「ナイスキャッチ！」があるなら、あなたは自分の山札の上から3枚を公開し、その山札をシャッフルする。それらのカードの持つ色の合計が2色なら、あなたは相手に1ダメージを与える。3色以上なら、あなたは相手に3ダメージを2回与える。（ダメージキャンセルは発生する）\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法",
 		"銃"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC4/W81-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc4_w81/dc4_w81_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc4_w81/dc4_w81_083.png",
+	"tags": null,
+	"expansionId": 310
 }

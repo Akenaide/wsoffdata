@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ええ…厄介ですよ、この彩南は…",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが控え室から舞台に置かれた時、そのターン中、このカードのソウルを＋1。",
-		"【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“リト抹殺指令”ヤミ」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）"
+		"【自】 このカードが控え室から舞台に置かれた時、そのターン中、このカードのソウルを＋1。\u003cbr\u003e【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“リト抹殺指令”ヤミ」を1枚選び、このカードがいた枠に置く。（クライマックスフェイズの始めにこのカードがいないなら発動しない）"
 	],
 	"specialAttrib": [
 		"変身",
 		"たいやき"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_008.png",
+	"tags": null,
+	"expansionId": 150
 }

@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "…ッッは！！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《グリザイア》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 手札のこのカードをプレイするにあたり、あなたは自分の「初めての味 タイガ」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。",
-		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋2500し、このカードは『【永】 大活躍』を得る。"
+		"【永】 あなたの《グリザイア》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 手札のこのカードをプレイするにあたり、あなたは自分の「初めての味 タイガ」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋2500し、このカードは『【永】 大活躍』を得る。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_012.png",
+	"tags": null,
+	"expansionId": 472
 }

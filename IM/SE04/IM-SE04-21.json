@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うっう～！会場の屋根、吹き飛ばしちゃうぐらい元気爆発で、頑張っちゃいますよーっ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/SE04-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_se04/im_se04_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_se04/im_se04_21.png",
+	"tags": null,
+	"expansionId": 36
 }

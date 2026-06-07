@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ど、どうして……！？どうして先生が、こ、ここにいらっしゃるのですか……！？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《キヴォトス》のキャラがいるなら、このカードのレベルを＋1し、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"便利屋68"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-T01R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_t01r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_t01r.png",
+	"tags": null,
+	"expansionId": 459
 }

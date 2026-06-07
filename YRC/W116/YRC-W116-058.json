@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《ゆるキャン△》のキャラが2枚以上なら、このカードのパワーを＋6000。",
-		"【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「吊り橋の上で」があり、前列にこのカードがいて、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードは【リバース】しない。』"
+		"【永】 あなたのターン中、他のあなたの《ゆるキャン△》のキャラが2枚以上なら、このカードのパワーを＋6000。\u003cbr\u003e【自】【CXコンボ】 あなたのアンコールステップの始めに、CX置場に「吊り橋の上で」があり、前列にこのカードがいて、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードは【リバース】しない。』"
 	],
 	"specialAttrib": [
 		"ゆるキャン△",
 		"バイク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YRC/W116-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yrc_w116/yrc_w116_058.png",
+	"tags": null,
+	"expansionId": 490
 }

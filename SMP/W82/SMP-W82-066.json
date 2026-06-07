@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いただきまーーす",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「“戻りつつある記憶”識」すべてに、パワーを＋1500し、《おむすび》を与え、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの「“戻りつつある記憶”識」すべてに、パワーを＋1500し、《おむすび》を与え、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_066.png",
+	"tags": null,
+	"expansionId": 311
 }

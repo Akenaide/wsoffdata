@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "好きです！指揮官のことも、皆のことも！",
+	"trigger": null,
 	"ability": [
-		"【永】 前列の中央の枠にこのカードがいるなら、あなたの《艦船》のキャラすべてに、パワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
+		"【永】 前列の中央の枠にこのカードがいるなら、あなたの《艦船》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"重桜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_058.png",
+	"tags": null,
+	"expansionId": 410
 }

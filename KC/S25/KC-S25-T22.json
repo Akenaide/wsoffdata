@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "オレの名は天龍。フフフ、怖いか？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"軽巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-T22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_t22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_t22.png",
+	"tags": null,
+	"expansionId": 112
 }

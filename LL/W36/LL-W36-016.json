@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ウチもトナカイがひくソリに乗ってみたいな。空を飛べたら最高やん♪",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のカード名に「希」を含むキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のカード名に「希」を含むキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_016.png",
+	"tags": null,
+	"expansionId": 142
 }

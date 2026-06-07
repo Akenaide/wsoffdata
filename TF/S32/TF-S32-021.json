@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "― 一属一種の“電気生物”である ―",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「アドルフ」を含むキャラがいないなら、手札からプレイできない。",
-		"【カウンター】 あなたは自分の《改造》のキャラを1枚選び、そのターン中、パワーを＋3500し、ソウルを＋1。"
+		"このカードは、あなたのカード名に「アドルフ」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003e【カウンター】 あなたは自分の《改造》のキャラを1枚選び、そのターン中、パワーを＋3500し、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TF/S32-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_021.png",
+	"tags": null,
+	"expansionId": 135
 }

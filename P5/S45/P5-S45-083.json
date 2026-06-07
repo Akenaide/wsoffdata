@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "看守とは元来、囚人を守る職務。私たちもまた協力者です。\u003cbr\u003e…但し、貴方が従順なら",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「カロリーヌ」がいるなら、このカードは『【永】 応援 このカードの前のあなたの《怪盗》のキャラすべてに、レベルを＋1し、パワーを＋500。』を得る。",
-		"【自】 絆／「カロリーヌ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「カロリーヌ」を1枚選び、手札に戻す）"
+		"【永】 他のあなたの「カロリーヌ」がいるなら、このカードは『【永】 応援 このカードの前のあなたの《怪盗》のキャラすべてに、レベルを＋1し、パワーを＋500。』を得る。\u003cbr\u003e【自】 絆／「カロリーヌ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「カロリーヌ」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"双子",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_083.png",
+	"tags": null,
+	"expansionId": 180
 }

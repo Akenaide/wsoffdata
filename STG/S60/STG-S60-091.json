@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "倫太郎「待て！俺を担ぐのはよせ。お前は正真正銘の男だ！なぜならここに……」",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「IBN 5100」を1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_091.png",
+	"tags": null,
+	"expansionId": 243
 }

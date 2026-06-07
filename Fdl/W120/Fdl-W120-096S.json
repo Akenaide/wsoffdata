@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "狂三「わたくしは、いきなりランジェリーショップに連れて行かれてしまいましたわ」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてが《ファンタジア文庫》か《デート》なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の、《ファンタジア文庫》か《デート》のキャラを1枚控え室に置く］』を得る。",
-		"【自】【CXコンボ】［あなたのCX置場の「デート・ア・プレイバック」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
+		"【永】 あなたのキャラすべてが《ファンタジア文庫》か《デート》なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の、《ファンタジア文庫》か《デート》のキャラを1枚控え室に置く］』を得る。\u003cbr\u003e【自】【CXコンボ】［あなたのCX置場の「デート・ア・プレイバック」を1枚控え室に置く］ あなたのアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、このカードを【スタンド】する。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fdl/W120-096S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w120/fdl_w120_096s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fdl_w120/fdl_w120_096s.png",
+	"tags": null,
+	"expansionId": 489
 }

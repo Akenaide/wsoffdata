@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おまえはまさにたいしたヒーローだよ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋2000。",
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「Mission!」があり、他のあなたの「“形勢逆転”チューバッカ」がいるなら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"帝国の逆襲"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_007.png",
+	"tags": null,
+	"expansionId": 199
 }

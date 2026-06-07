@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "狡噛さん相手には切り札があります。\u003cbr /\u003e大丈夫、任せてください",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《公安》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"公安",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PP/SE14-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pp_se14/pp_se14_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pp_se14/pp_se14_15.png",
+	"tags": null,
+	"expansionId": 95
 }

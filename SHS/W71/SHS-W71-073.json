@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なのに、安芸くんはわたしに何も話さなかった",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
 	],
 	"specialAttrib": [
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_073.png",
+	"tags": null,
+	"expansionId": 278
 }

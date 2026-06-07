@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "来たからには思いっきり楽しまなくちゃね。よぉし、まずはこいつをぶん投げて――",
+	"trigger": null,
 	"ability": [
-		"【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の「千歳」を1枚選び、手札に戻す。",
-		"【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋500し、このカードは次の能力を得る。『【永】 他のあなたのすべての領域の、「千歳」と「千代田」のトリガーアイコンに[SOUL]を与える。』"
+		"【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の「千歳」を1枚選び、手札に戻す。\u003cbr\u003e【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋500し、このカードは次の能力を得る。『【永】 他のあなたのすべての領域の、「千歳」と「千代田」のトリガーアイコンに[[soul.gif]]を与える。』"
 	],
 	"specialAttrib": [
 		"艦船",
 		"重桜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-048S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_048s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_048s.png",
+	"tags": null,
+	"expansionId": 499
 }

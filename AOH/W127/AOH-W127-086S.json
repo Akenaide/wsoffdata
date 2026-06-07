@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードの与えたダメージがキャンセルされた時、他のあなたの《あおぎり高校》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋4000。",
-		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、トリガーアイコンが[SOUL]のCXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【自】 このカードの与えたダメージがキャンセルされた時、他のあなたの《あおぎり高校》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋4000。\u003cbr\u003e【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、トリガーアイコンが[[soul.gif]][[soul.gif]]のCXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"あおぎり高校",
 		"アイドル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOH/W127-086S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aoh_w127/aoh_w127_086s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aoh_w127/aoh_w127_086s.png",
+	"tags": null,
+	"expansionId": 517
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うみちゃん、甘えん坊さんだね",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの《サマポケ》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【自】 このカードがアタックした時、他のあなたの《サマポケ》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_022.png",
+	"tags": null,
+	"expansionId": 311
 }

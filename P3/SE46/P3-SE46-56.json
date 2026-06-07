@@ -15,8 +15,8 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私、強くなってる…！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［手札を2枚控え室に置く］ このカードがアタックした時、CX置場に「THERE YOU HAVE IT.」があり、あなたのキャラすべてが《リロード》なら、あなたはコストを払ってよい。そうしたら、あなたは相手に2ダメージか4ダメージを与え、相手の控え室のカードを1枚まで選び、山札の上に置き、次の相手のターンの終わりまで、このカードのパワーを＋3000。（ダメージキャンセルは発生する）"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SE46-56",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_56.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_se46/p3_se46_56.png",
+	"tags": null,
+	"expansionId": 469
 }

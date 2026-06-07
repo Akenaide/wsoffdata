@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "世間では僕らのことを、シビュラシステムと呼んでいる",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の舞台の自分のレベル以下のレベルのキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の山札を見てそのキャラと同じレベルのキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PP/SE14-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pp_se14/pp_se14_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pp_se14/pp_se14_34.png",
+	"tags": null,
+	"expansionId": 95
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "騎士の戦い、その身に刻みつけてあげるよ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
 	],
@@ -24,8 +24,9 @@
 		"華撃団",
 		"倫敦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SKR/S73-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_009.png",
+	"tags": null,
+	"expansionId": 293
 }

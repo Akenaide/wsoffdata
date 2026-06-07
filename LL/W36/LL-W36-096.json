@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "風が冷たい日は、誰かと一緒に帰りたくなっちゃいますね～",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】しているカード名に「花陽」を含むキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を上から4枚まで見て、カードを1枚選び、手札に加え、残りのカードを山札の上に好きな順番で置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LL/W36-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_096.png",
+	"tags": null,
+	"expansionId": 142
 }

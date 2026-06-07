@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"格闘",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_074.png",
+	"tags": null,
+	"expansionId": 200
 }

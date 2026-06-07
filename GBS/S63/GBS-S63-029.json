@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そう考えるだろう事はわかっていた",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《秩序》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「命懸けの死闘」があり、他のあなたの《秩序》のキャラがいるなら、以下の効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の「松明」を1枚選び、手札に戻す。』『あなたは自分の山札を見て「松明」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+		"【永】 他のあなたの《秩序》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「命懸けの死闘」があり、他のあなたの《秩序》のキャラがいるなら、以下の効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の「松明」を1枚選び、手札に戻す。』『あなたは自分の山札を見て「松明」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
 	],
 	"specialAttrib": [
 		"秩序",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_029.png",
+	"tags": null,
+	"expansionId": 260
 }

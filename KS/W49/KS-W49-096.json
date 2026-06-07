@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゴッドブローとは、女神の怒りと悲しみを乗せた必殺の拳！相手は死ぬ！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の《女神》のキャラを1枚選び、そのターン中、ソウルを＋50し、次の3つの能力を与える。『【永】 このカードはサイドアタックできない。』『【永】 このカードの正面のキャラは【リバース】しない。』『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは3枚まで引き、自分の手札を2枚選び、控え室に置く。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KS/W49-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_096.png",
+	"tags": null,
+	"expansionId": 192
 }

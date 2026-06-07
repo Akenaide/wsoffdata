@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「その瞳に映るのは 知花」を1枚まで選び、このカードがいた枠に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"青春",
 		"マケイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-062S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_062s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_062s.png",
+	"tags": null,
+	"expansionId": 520
 }

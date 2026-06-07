@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "葵「すみません……もう少しだけ、\u003cbr /\u003eこのままでもいいですか？」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードは、あなたの思い出が2枚以下なら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC3/W18-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_095.png",
+	"tags": null,
+	"expansionId": 78
 }

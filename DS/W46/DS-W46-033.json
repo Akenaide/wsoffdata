@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしね、けっこう料理するの好きなんだから！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《風南島》のキャラすべてに、パワーを＋500。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはあなたの思い出の枚数に等しい。"
+		"【永】 他のあなたの《風南島》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはあなたの思い出の枚数に等しい。"
 	],
 	"specialAttrib": [
 		"風南島",
 		"家族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W46-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w46/ds_w46_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w46/ds_w46_033.png",
+	"tags": null,
+	"expansionId": 178
 }

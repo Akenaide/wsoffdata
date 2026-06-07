@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お帰りなさい。先に頂いているわよ？加藤さん",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの後列の《ゲーム》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。"
+		"【永】 他のあなたの後列の《ゲーム》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_074.png",
+	"tags": null,
+	"expansionId": 391
 }

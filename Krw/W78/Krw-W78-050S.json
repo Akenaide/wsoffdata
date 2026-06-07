@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "法を遵守できぬ者には正義の鉄槌で思い知らせてやる！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの、《Anniversary》かカード名に「ルチア」か「静流」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラすべてに、そのターン中、パワーを－2000。"
+		"【永】 あなたの、《Anniversary》かカード名に「ルチア」か「静流」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラすべてに、そのターン中、パワーを－2000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"委員長",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Krw/W78-050S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/krw_w78/krw_w78_050s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/krw_w78/krw_w78_050s.png",
+	"tags": null,
+	"expansionId": 296
 }

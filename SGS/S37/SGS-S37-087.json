@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こう見えて私、わりとイケイケなところもあるんですよ～",
+	"trigger": null,
 	"ability": [
 		"【自】 経験 他のあなたのバトル中のキャラが【リバース】した時、あなたのレベル置場のカードのレベルの合計が2以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_087.png",
+	"tags": null,
+	"expansionId": 162
 }

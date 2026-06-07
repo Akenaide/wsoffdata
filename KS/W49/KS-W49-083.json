@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぐ―――――――",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_083.png",
+	"tags": null,
+	"expansionId": 192
 }

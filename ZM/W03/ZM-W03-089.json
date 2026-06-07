@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私はメイジが嫌いだ！　特に炎を使う奴がな…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《王族》のキャラすべてに、パワーを＋500。",
 		"【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのカードをそのカードがいた枠に【レスト】して置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_089.png",
+	"tags": null,
+	"expansionId": 3
 }

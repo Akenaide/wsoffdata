@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一条君はどう思ってるんだろう――",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"お菓子",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/W30-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_w30/nk_w30_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

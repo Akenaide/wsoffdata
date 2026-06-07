@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ねぇ、見てこれ",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラは他の枠に動かせない。",
-		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。"
+		"【永】 このカードの正面のキャラは他の枠に動かせない。\u003cbr\u003e【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_018.png",
+	"tags": null,
+	"expansionId": 311
 }

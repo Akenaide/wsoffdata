@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "僕は義賊だ。悪党からしか物は奪わないよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、あなたの表向きのマーカーを持つキャラが2枚以上なら、あなたはこのカードをストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"盗賊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_079.png",
+	"tags": null,
+	"expansionId": 297
 }

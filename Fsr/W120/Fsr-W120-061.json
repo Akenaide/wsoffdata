@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これくらいできないと、錬金術師は名乗れませんよ",
+	"trigger": null,
 	"ability": [
 		"【自】［(2) 他のあなたの舞台のキャラを1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、イベントかCXを1枚選び、手札に戻す。"
 	],
@@ -25,8 +25,9 @@
 		"ヨック村",
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsr/W120-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsr_w120/fsr_w120_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsr_w120/fsr_w120_061.png",
+	"tags": null,
+	"expansionId": 489
 }

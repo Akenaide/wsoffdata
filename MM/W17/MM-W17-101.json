@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今度こそ、決着をつけてやる",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見てカードを1枚選び、山札の上に置く。残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_101.png",
+	"tags": null,
+	"expansionId": 66
 }

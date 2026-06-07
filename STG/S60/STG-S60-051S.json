@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これでも相対的にみれば家庭的なほうなのよ",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のアタックフェイズの始めに、あなたは相手の山札の上から1枚を、控え室に置いてよい。そのカードのレベルが2以上なら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。（クライマックスのレベルは0として扱う）",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 相手のアタックフェイズの始めに、あなたは相手の山札の上から1枚を、控え室に置いてよい。そのカードのレベルが2以上なら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。（クライマックスのレベルは0として扱う）\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ラボメン",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-051S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_051s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_051s.png",
+	"tags": null,
+	"expansionId": 243
 }

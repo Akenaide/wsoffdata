@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…早く、来ないかな",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見て特徴を持たないキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/W06-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_020.png",
+	"tags": null,
+	"expansionId": 18
 }

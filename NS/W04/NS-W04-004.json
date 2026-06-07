@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしに笑いかけてくれる人たちを……自分の力で……守りたいっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「エリオ＆キャロ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エリオ＆キャロ」を1枚選び、手札に戻す）",
 		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「エリオ」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_004.png",
+	"tags": null,
+	"expansionId": 6
 }

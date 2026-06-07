@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まったくいつまでも子供なんだから",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋2000。"
+		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。\u003cbr\u003e【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"フラクトライト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S71-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_101.png",
+	"tags": null,
+	"expansionId": 288
 }

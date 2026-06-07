@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたし達SOS団はもっと面白い事をするわよ！",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《SOS団》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"団長",
 		"SOS団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/WE09-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_we09/sy_we09_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_we09/sy_we09_16.png",
+	"tags": null,
+	"expansionId": 52
 }

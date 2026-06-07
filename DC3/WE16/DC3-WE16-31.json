@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "え、えっと…こんな感じですか？",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアタックフェイズの始めに、他のあなたの前列のキャラが1枚以下なら、次の相手のターンの終わりまで、このカードのパワーを＋2000し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE16-31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we16/dc3_we16_31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we16/dc3_we16_31.png",
+	"tags": null,
+	"expansionId": 99
 }

@@ -15,18 +15,18 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサー、私達の今を、しっかりと見ていてください！",
+	"trigger": null,
 	"ability": [
-		"【自】 記憶 あなたがこのカードの『助太刀』を使った時、あなたの思い出置場の「フラスタ」が2枚以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+		"【自】 記憶 あなたがこのカードの『助太刀』を使った時、あなたの思い出置場の「フラスタ」が2枚以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ピアノ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-109BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_109bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_109bnp.png",
+	"tags": null,
+	"expansionId": 251
 }

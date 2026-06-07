@@ -15,20 +15,20 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "りんちゃんと私、お友達だから",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 相手がレベルアップした時、あなたは自分の山札の上から1枚を、ストック置場に置く。",
-		"【起】［(3)］ あなたは自分のキャラすべてに、そのターン中、ソウルを＋1。"
+		"【自】 相手がレベルアップした時、あなたは自分の山札の上から1枚を、ストック置場に置く。\u003cbr\u003e【起】［(3)］ あなたは自分のキャラすべてに、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"動物",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WC02-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_wc02/lb_wc02_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_wc02/lb_wc02_014.png",
+	"tags": null,
+	"expansionId": 358
 }

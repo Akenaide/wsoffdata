@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は一言たりとも暑い、つらい、バテたなんて言ってないよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ID/W10-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/id_w10/id_w10_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/id_w10/id_w10_079.png",
+	"tags": null,
+	"expansionId": 40
 }

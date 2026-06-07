@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサー！\u003cbr /\u003eハイ、ターッチ、いぇい！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手の「私服のやよい」がいて、すべてのプレイヤーが認めたなら、ハイタッチする。そうしたら、すべてのプレイヤーは自分の山札の上から1枚を、ストック置場に置く。（音には注意しましょう）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_015.png",
+	"tags": null,
+	"expansionId": 64
 }

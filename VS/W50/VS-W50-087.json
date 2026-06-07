@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リンネの才能に溺れて指導を誤ったんじゃないかって",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、相手のキャラが3枚以下なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"格闘",
 		"トレーナー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_087.png",
+	"tags": null,
+	"expansionId": 200
 }

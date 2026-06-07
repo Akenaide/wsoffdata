@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_t01.png",
+	"tags": null,
+	"expansionId": 72
 }

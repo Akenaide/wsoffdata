@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だから今のこんな状況見たら卒倒するかも",
+	"trigger": null,
 	"ability": [
 		"【自】[(1) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《ゲーム》か《小説》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-056S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_056s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_056s.png",
+	"tags": null,
+	"expansionId": 220
 }

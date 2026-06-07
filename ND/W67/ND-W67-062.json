@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "でかした！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《魔法》か《武器》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【永】 このカードはサイドアタックできない。"
+		"【永】 他のあなたの、《魔法》か《武器》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【永】 このカードはサイドアタックできない。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_062.png",
+	"tags": null,
+	"expansionId": 268
 }

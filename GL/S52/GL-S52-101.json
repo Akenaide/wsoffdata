@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
 	],
@@ -24,8 +24,9 @@
 		"大グレン団",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GL/S52-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gl_s52/gl_s52_101.png",
+	"tags": null,
+	"expansionId": 217
 }

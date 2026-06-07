@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "つかさ「見ててくれよな、父ちゃん」",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《ギガント》のキャラがいるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ギガント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GST/SE22-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gst_se22/gst_se22_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gst_se22/gst_se22_08.png",
+	"tags": null,
+	"expansionId": 126
 }

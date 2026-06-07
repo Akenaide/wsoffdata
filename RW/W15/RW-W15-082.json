@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "切らないでよぉ…",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードはあなたのスタンドフェイズに【スタンド】しない。",
 		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_082.png",
+	"tags": null,
+	"expansionId": 65
 }

@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《レヴュー》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"レヴュー",
 		"青嵐総合芸術院"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/SE38-10S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_se38/rsl_se38_10s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_se38/rsl_se38_10s.png",
+	"tags": null,
+	"expansionId": 384
 }

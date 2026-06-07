@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お仕置きタイムね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「春＆ミラディ / NOIR」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 あなたのクライマックス置場に「Adieu.」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋1500。"
+		"【永】 あなたのクロック置場に「春＆ミラディ / NOIR」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 あなたのクライマックス置場に「Adieu.」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"怪盗",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_032.png",
+	"tags": null,
+	"expansionId": 180
 }

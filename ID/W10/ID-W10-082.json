@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この七天七刀が織りなす七閃の斬撃速度は一瞬で七度殺せるレベルです",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ID/W10-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/id_w10/id_w10_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/id_w10/id_w10_082.png",
+	"tags": null,
+	"expansionId": 40
 }

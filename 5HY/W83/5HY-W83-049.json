@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "四葉「きれいだねー」\u003cbr\u003eらいは「うん！」",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《五つ子》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「姉妹のような二人」があるなら、あなたは自分の控え室の《五つ子》のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《五つ子》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「姉妹のような二人」があるなら、あなたは自分の控え室の《五つ子》のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_049.png",
+	"tags": null,
+	"expansionId": 309
 }

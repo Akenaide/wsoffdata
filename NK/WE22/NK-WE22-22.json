@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ウフフフフ。作戦、大成功ですわ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「楽」を含むキャラがいるなら、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"警察",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/WE22-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_we22/nk_we22_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_we22/nk_we22_22.png",
+	"tags": null,
+	"expansionId": 147
 }

@@ -15,18 +15,18 @@
 	"rarity": "SPb",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、あなたの舞台のキャラの持つ色の合計が4色以上なら、他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《Pastel＊Palettes》のキャラを1枚まで選び、手札に戻す。"
+		"【永】 あなたのターン中、あなたの舞台のキャラの持つ色の合計が4色以上なら、他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《Pastel＊Palettes》のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-023SPb",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_023spb.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_023spb.png",
+	"tags": null,
+	"expansionId": 286
 }

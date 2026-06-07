@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋4000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《MOVIE》か《家族》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
+		"【永】 あなたのターン中、このカードのパワーを＋4000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《MOVIE》か《家族》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
 	],
 	"specialAttrib": [
 		"MOVIE",
 		"家族",
 		"幼稚園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_017.png",
+	"tags": null,
+	"expansionId": 480
 }

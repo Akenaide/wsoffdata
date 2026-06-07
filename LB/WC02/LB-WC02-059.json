@@ -15,19 +15,19 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "テンション、回復、回復！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】 バトルしているこのカードが【リバース】した時、あなたのストックが相手のストックより少ないなら、あなたはこのカードをストック置場に置いてよい。』",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見てカード名に「唯湖」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【自】 バトルしているこのカードが【リバース】した時、あなたのストックが相手のストックより少ないなら、あなたはこのカードをストック置場に置いてよい。』\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見てカード名に「唯湖」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ビー玉"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WC02-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_wc02/lb_wc02_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_wc02/lb_wc02_059.png",
+	"tags": null,
+	"expansionId": 358
 }

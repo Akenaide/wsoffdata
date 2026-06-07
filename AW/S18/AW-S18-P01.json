@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いつでもキミのことを考えて、\u003cbr /\u003e嬉しくなったり悲しくなったりしているよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"アバター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

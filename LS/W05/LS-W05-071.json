@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "かがみ「まったく 毎回よくそんなに同じ本を何冊も買うわね」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LS/W05-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_071.png",
+	"tags": null,
+	"expansionId": 16
 }

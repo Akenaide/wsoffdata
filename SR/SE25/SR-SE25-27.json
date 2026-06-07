@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……実はこの歌には\u003cbr /\u003e「土地を潤し、祝福を与える」という意味の他に、\u003cbr /\u003eもう１つ意味があるのです",
 	"trigger": [
 		"SOUL"
 	],
@@ -28,8 +28,9 @@
 		"音楽",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SR/SE25-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sr_se25/sr_se25_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sr_se25/sr_se25_27.png",
+	"tags": null,
+	"expansionId": 145
 }

@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "艦隊、出撃する！　私に続くがいい！\u003cbr\u003e戦艦Гангут、抜錨だ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 あなたの思い出置場の《艦娘》のキャラが2枚以上なら、このカードのパワーを＋5000。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【永】 記憶 あなたの思い出置場の《艦娘》のキャラが2枚以上なら、このカードのパワーを＋5000。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"戦艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_036.png",
+	"tags": null,
+	"expansionId": 270
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "入稿終わったら旅行するです。わふっ！",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《ビジュアルアーツ》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"ビジュアルアーツ",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VA/WPR-P12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/va_wpr/va_wpr_p12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/va_wpr/va_wpr_p12.png",
+	"tags": null,
+	"expansionId": 12
 }

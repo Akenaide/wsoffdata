@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "鉄は熱いうちに打てってな！ガハハハハ…",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"鍛冶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_020.png",
+	"tags": null,
+	"expansionId": 283
 }

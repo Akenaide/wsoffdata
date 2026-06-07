@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"夢限大みゅーたいぷ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BDY/W135-T15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bdy_w135/bdy_w135_t15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bdy_w135/bdy_w135_t15.png",
+	"tags": null,
+	"expansionId": 543
 }

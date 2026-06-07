@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アリス、僕が言いすぎた。ごめん。だから落ち着いて……",
+	"trigger": null,
 	"ability": [
 		"【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。",
 		"【永】 他のあなたの、《怪盗》かカード名に「アリス」を含むキャラすべてに、パワーを＋500。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_083.png",
+	"tags": null,
+	"expansionId": 136
 }

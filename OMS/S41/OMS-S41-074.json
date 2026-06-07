@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "十四松、今日はやらないの？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「“F６”十四松」すべてに、パワーを＋1000。",
-		"【自】 絆／「“F６”十四松」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“F６”十四松」を1枚選び、手札に戻す）"
+		"【永】 他のあなたの「“F６”十四松」すべてに、パワーを＋1000。\u003cbr\u003e【自】 絆／「“F６”十四松」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“F６”十四松」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"６つ子",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_074.png",
+	"tags": null,
+	"expansionId": 171
 }

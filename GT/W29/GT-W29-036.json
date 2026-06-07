@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックス置場に「月蝕」が置かれた時、他のあなたの前列のキャラが1枚以下なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「オオカミ少女 るな」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"タロット",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_036.png",
+	"tags": null,
+	"expansionId": 106
 }

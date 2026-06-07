@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だいぼうけんですー！",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ そのターン中、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-P10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_p10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_p10.png",
+	"tags": null,
+	"expansionId": 13
 }

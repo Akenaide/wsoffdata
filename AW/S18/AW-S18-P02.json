@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あまりじろじろ見ないでくれ。\u003cbr /\u003eサイズの合う色がこれしかなかったんだ",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

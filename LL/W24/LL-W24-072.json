@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうですか…。あのステップ…私が考えたのですが…",
+	"trigger": null,
 	"ability": [
 		"相手に5ダメージを与える。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LL/W24-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w24/ll_w24_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w24/ll_w24_072.png",
+	"tags": null,
+	"expansionId": 98
 }

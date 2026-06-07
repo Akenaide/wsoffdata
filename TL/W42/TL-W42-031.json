@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "リトの言う通りかもね…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室の「“仲良し兄妹”美柑」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（そうでないなら元に戻す。クライマックスのレベルは0として扱う）",
-		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
+		"【永】 あなたの控え室の「“仲良し兄妹”美柑」が2枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（そうでないなら元に戻す。クライマックスのレベルは0として扱う）\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
 	],
 	"specialAttrib": [
 		"家事",
 		"ランドセル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W42-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_031.png",
+	"tags": null,
+	"expansionId": 163
 }

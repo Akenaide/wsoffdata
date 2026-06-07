@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが3枚以下なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"Mirrorverse",
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRp/S111-T03R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrp_s111_t03r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrp_s111_t03r.png",
+	"tags": null,
+	"expansionId": 470
 }

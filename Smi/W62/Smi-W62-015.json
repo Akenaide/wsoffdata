@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―――っ、黙れッ!!!",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、《スニーカー文庫》か《恩恵》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -25,8 +25,9 @@
 		"恩恵",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Smi/W62-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smi_w62/smi_w62_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smi_w62/smi_w62_015.png",
+	"tags": null,
+	"expansionId": 259
 }

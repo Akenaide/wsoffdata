@@ -16,16 +16,16 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
-		"【永】あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
-		"【永】あなたのターン中、他のあなたの《ホロライブ》のキャラすべてに、パワーを＋500。"
+		"【永】あなたのストックが2枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【永】あなたのターン中、他のあなたの《ホロライブ》のキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"ホロライブ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_p02.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,19 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "歌って、少し上品な気持ちになるわよね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"特待生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-P12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_p12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_p12.png",
+	"tags": null,
+	"expansionId": 12
 }

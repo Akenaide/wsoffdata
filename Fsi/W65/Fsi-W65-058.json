@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "真冬は、先輩に、恋をしていたのだと思います",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"生徒会",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsi/W65-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsi_w65/fsi_w65_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsi_w65/fsi_w65_058.png",
+	"tags": null,
+	"expansionId": 264
 }

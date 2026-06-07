@@ -15,19 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたのクロックフェイズ中、このカードが手札からクロック置場に置かれた時、あなたの控え室にトリガーアイコンが[DRAW]のCXがあるなら、あなたは1枚引く。"
+		"【自】 あなたのクロックフェイズ中、このカードが手札からクロック置場に置かれた時、あなたの控え室にトリガーアイコンが[[draw.gif]]のCXがあるなら、あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"おっぱい"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-079S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_079s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_079s.png",
+	"tags": null,
+	"expansionId": 548
 }

@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "カオスイーター",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 他のあなたの、「豚頭将軍」か「豚頭族」1枚につき、このカードのパワーを＋1500。"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr\u003e【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 他のあなたの、「豚頭将軍」か「豚頭族」1枚につき、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"魔大陸"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_022.png",
+	"tags": null,
+	"expansionId": 283
 }

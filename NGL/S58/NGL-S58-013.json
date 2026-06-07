@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自分たちがゲームマスターになり行うテレビゲームなら\u003cbr\u003eチート放題、やり放題",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のコスト1以上のキャラを1枚選び、後列のキャラのいない枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"人類種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_013.png",
+	"tags": null,
+	"expansionId": 236
 }

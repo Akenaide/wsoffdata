@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "逃が――――\u003cbr /\u003eすかってんだ、このヤロウ――――！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、山札の上に置く。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FS/S03-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_022.png",
+	"tags": null,
+	"expansionId": 7
 }

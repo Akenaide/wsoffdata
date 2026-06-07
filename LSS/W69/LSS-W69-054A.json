@@ -15,8 +15,8 @@
 	"rarity": "CA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "新しい年は、どんな年になるかな……ううん、どんな年にしようかな♪",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"年越し"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W69-054A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_054a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_054a.png",
+	"tags": null,
+	"expansionId": 273
 }

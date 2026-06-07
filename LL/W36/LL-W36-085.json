@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わ、わわっ、止まらないよ～っ！　ど、どいてください～っ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「花陽」を含むキャラすべてに、パワーを＋500。",
-		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。"
+		"【永】 他のあなたのカード名に「花陽」を含むキャラすべてに、パワーを＋500。\u003cbr\u003e【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_085.png",
+	"tags": null,
+	"expansionId": 142
 }

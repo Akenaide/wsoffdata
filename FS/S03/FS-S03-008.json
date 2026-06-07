@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "士郎、おかわり！",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのカード名に「士郎」を含むキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_008.png",
+	"tags": null,
+	"expansionId": 7
 }

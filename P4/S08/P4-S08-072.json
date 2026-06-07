@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "りせ「せ、先輩！？」\u003cbr /\u003e完二「一撃だ…」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】しているキャラを1枚選び【レスト】する。そうしたら、あなたは相手の【スタンド】しているキャラを1枚選び、【レスト】し、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P4/S08-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_s08/p4_s08_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_s08/p4_s08_072.png",
+	"tags": null,
+	"expansionId": 34
 }

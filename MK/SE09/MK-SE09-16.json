@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あらあら、遅刻してしまいますわ",
+	"trigger": null,
 	"ability": [
 		"【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。",
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。",
@@ -26,8 +26,9 @@
 		"探偵",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE09-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se09/mk_se09_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se09/mk_se09_16.png",
+	"tags": null,
+	"expansionId": 62
 }

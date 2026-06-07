@@ -10,21 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "昔々――",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「すもも」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札を見て青のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"このカードは、あなたのカード名に「すもも」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札を見て青のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC3/W46-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w46/dc3_w46_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w46/dc3_w46_108.png",
+	"tags": null,
+	"expansionId": 178
 }

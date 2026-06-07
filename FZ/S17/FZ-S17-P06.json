@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがダイレクトアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ホムンクルス",
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-P06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_p06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_p06.png",
+	"tags": null,
+	"expansionId": 13
 }

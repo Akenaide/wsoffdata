@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "友達になったんだ！なっメダQ♫",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの、《宇宙人》か《動物》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
-		"【自】 あなたのクライマックス置場に「本当の友達」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の、《宇宙人》か《動物》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。"
+		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの、《宇宙人》か《動物》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 あなたのクライマックス置場に「本当の友達」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の、《宇宙人》か《動物》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"宇宙人",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_072.png",
+	"tags": null,
+	"expansionId": 150
 }

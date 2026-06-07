@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『この子たちのように。\u003cbr\u003e私たちは、ずーっと一緒にいる』",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 あなたの《サマポケ》のキャラが5枚以上なら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【カウンター】 あなたの《サマポケ》のキャラが5枚以上なら、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SMP/W130-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w130/smp_w130_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w130/smp_w130_053.png",
+	"tags": null,
+	"expansionId": 521
 }

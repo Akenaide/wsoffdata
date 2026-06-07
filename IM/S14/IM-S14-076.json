@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "四条さん、それに、真。\u003cbr /\u003eこのステージ、大事にしていきましょう！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「ピンクダイヤモンド７６５ 真」1枚につき、他のあなたの「ピンクダイヤモンド７６５ 貴音」すべてに、パワーを＋1000。",
 		"【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_076.png",
+	"tags": null,
+	"expansionId": 64
 }

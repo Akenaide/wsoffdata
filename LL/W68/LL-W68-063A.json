@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "8",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札の上から6枚までを、控え室に置き、あなたの控え室に、カード名に「穂乃果」を含むキャラと「絵里」を含むキャラと「ことり」を含むキャラと「海未」を含むキャラと「凛」を含むキャラと「真姫」を含むキャラと「希」を含むキャラと「花陽」を含むキャラと「にこ」を含むキャラが別々に1枚ずつあるなら、次の行動を4回行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LL/W68-063A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_063a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_063a.png",
+	"tags": null,
+	"expansionId": 272
 }

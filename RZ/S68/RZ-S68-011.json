@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "スバル「尻尾と翼も付けて、それにミサイルと変形合体機能とコックピットとキャタピラも」",
+	"trigger": null,
 	"ability": [
-		"記憶 このカードは、あなたの《Memory Snow》のキャラがいないなら、手札からプレイできない。",
-		"あなたの思い出置場の「雪うさぎ」が3枚以上なら、相手に2ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（ダメージキャンセルは発生する）"
+		"記憶 このカードは、あなたの《Memory Snow》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたの思い出置場の「雪うさぎ」が3枚以上なら、相手に2ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RZ/S68-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_011.png",
+	"tags": null,
+	"expansionId": 280
 }

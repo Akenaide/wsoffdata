@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あの…ありがとう……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《ラボメン》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"ケータイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_006.png",
+	"tags": null,
+	"expansionId": 243
 }

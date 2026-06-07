@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今のうちに食事もしといたほうがいいかなぁって",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のクロックを2枚まで選び、控え室に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/W06-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_096.png",
+	"tags": null,
+	"expansionId": 18
 }

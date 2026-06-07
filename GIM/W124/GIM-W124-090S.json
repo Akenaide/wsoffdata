@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたのレベルが1以上なら、あなたのメインフェイズの始めに、あなたは自分の山札の上から1枚を控え室に置く。そのカードが「はいっ、みんなも一緒に♪」かレベル0以下のキャラなら、このカードを山札の下に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"天才"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GIM/W124-090S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_090s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_090s.png",
+	"tags": null,
+	"expansionId": 514
 }

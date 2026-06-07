@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんながんばってるー？",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S51-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s51/sao_s51_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s51/sao_s51_038.png",
+	"tags": null,
+	"expansionId": 209
 }

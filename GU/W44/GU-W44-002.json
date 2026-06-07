@@ -15,20 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "先輩～",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、クライマックス置場に「バリボ～ダイスキ～」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「シャロ」か「千夜」を含むキャラなら手札に加える。（そうでないなら元に戻す）",
-		"【自】 このカードがアタックした時、他のあなたのカード名に「シャロ」か「千夜」を含むキャラが3枚以上なら、そのターン中、このカードのパワーを＋2000。"
+		"【自】 このカードがアタックした時、クライマックス置場に「バリボ～ダイスキ～」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「シャロ」か「千夜」を含むキャラなら手札に加える。（そうでないなら元に戻す）\u003cbr\u003e【自】 このカードがアタックした時、他のあなたのカード名に「シャロ」か「千夜」を含むキャラが3枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"特待生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_002.png",
+	"tags": null,
+	"expansionId": 174
 }

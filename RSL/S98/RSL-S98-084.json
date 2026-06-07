@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "神の器が、幾千、幾万の無限の私を映し出す！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 前列の中央の枠にこのカードがいるなら、他のあなたの《レヴュー》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
+		"【永】 前列の中央の枠にこのカードがいるなら、他のあなたの《レヴュー》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。"
 	],
 	"specialAttrib": [
 		"レヴュー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S98-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_084.png",
+	"tags": null,
+	"expansionId": 402
 }

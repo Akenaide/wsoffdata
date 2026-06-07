@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋3000。",
-		"【起】［このカードを控え室に置く］ あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』"
+		"【永】 あなたのターン中、このカードのパワーを＋3000。\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』"
 	],
 	"specialAttrib": [
 		"サッカー",
 		"日本代表"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CTB/W118-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ctb_w118/ctb_w118_008.png",
+	"tags": null,
+	"expansionId": 485
 }

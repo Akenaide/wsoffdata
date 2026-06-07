@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "似合ってるわよ、エリー",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの「和服のエリー」がいるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_084.png",
+	"tags": null,
+	"expansionId": 87
 }

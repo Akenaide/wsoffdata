@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヒカエオロウ",
+	"trigger": null,
 	"ability": [
 		"集中 あなたは自分の山札の上から7枚をめくり、控え室に置く。相手にＸダメージを与える。Ｘはそれらのカードの「みどりぷよ」の枚数に等しい。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PY/S38-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_059.png",
+	"tags": null,
+	"expansionId": 160
 }

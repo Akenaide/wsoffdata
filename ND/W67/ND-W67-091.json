@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしはイリスに頼りっぱなしで…\u003cbr\u003e優しい人に甘えていろんな人に迷惑かけて",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のコスト1以上のキャラを1枚選び、後列のキャラのいない枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"フォーミュラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_091.png",
+	"tags": null,
+	"expansionId": 268
 }

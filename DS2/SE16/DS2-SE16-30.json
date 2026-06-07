@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヤマト、君が進もうとしている道は……真っ暗だよ？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分のカード名に「ヤマト」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
 		"【自】 このカードがアタックした時、あなたは他の自分のカード名に「ヒビキ」を含むキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"セプテントリオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS2/SE16-30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds2_se16/ds2_se16_30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds2_se16/ds2_se16_30.png",
+	"tags": null,
+	"expansionId": 104
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そして……澤村先輩の、絵も",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場に「リトル・ラブ・ラプソディ」があるなら、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_006.png",
+	"tags": null,
+	"expansionId": 278
 }

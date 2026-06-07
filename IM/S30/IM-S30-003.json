@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うっうー！　楽しいですー！",
+	"trigger": null,
 	"ability": [
-		"【永】あなたのターン中、他のあなたの、《カエル》か《家族》のキャラすべてに、パワーを＋500。",
-		"【起】集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《カエル》か《家族》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】あなたのターン中、他のあなたの、《カエル》か《家族》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《カエル》か《家族》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_003.png",
+	"tags": null,
+	"expansionId": 129
 }

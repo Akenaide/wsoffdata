@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "追いつけるかな？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが2枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"雪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE21-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we21/lb_we21_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we21/lb_we21_05.png",
+	"tags": null,
+	"expansionId": 124
 }

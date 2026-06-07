@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "かれん「皆さん…！ご覧になって！」",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたの《秀知院》のキャラすべてに、パワーを＋1000。",
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《秀知院》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
+		"【永】 相手のターン中、他のあなたの《秀知院》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《秀知院》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"秀知院",
 		"マスメディア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S79-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_085.png",
+	"tags": null,
+	"expansionId": 317
 }

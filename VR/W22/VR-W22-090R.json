@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのレベル2以上のキャラがいるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"鍵",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VR/W22-090R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_090r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_090r.png",
+	"tags": null,
+	"expansionId": 97
 }

@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "他の『ふつうの大衆』は、別々じゃなくて\u003cbr\u003e１つに融合した巨大なパレスを共有している。\u003cbr\u003eそれがココ…『メメントス』だ",
+	"trigger": null,
 	"ability": [
-		"このカードを思い出にする。",
-		"【自】 記憶 ［このカードを控え室に置く］ あなたの受けたダメージがキャンセルされなかった時、思い出置場にこのカードがあり、そのダメージが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、ストック置場に置く。"
+		"このカードを思い出にする。\u003cbr\u003e【自】 記憶 ［このカードを控え室に置く］ あなたの受けたダメージがキャンセルされなかった時、思い出置場にこのカードがあり、そのダメージが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、ストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P5/S45-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_071.png",
+	"tags": null,
+	"expansionId": 180
 }

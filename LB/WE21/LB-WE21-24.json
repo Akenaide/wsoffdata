@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "日向は苦手です",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE21-24",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we21/lb_we21_24.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we21/lb_we21_24.png",
+	"tags": null,
+	"expansionId": 124
 }

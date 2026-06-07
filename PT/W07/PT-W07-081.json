@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この手で人を殺し、この手で物を食べる……どっちも同じことなんだ。そうやって僕は生きてる……",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_081.png",
+	"tags": null,
+	"expansionId": 32
 }

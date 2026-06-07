@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だからこそ、お互いのことをもっと知りたいし\u003cbr /\u003e仲良くなりたい……",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の《タロット》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"タロット",
 		"占い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_054.png",
+	"tags": null,
+	"expansionId": 106
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それっぽっちで大和撫子を買収できるとでも？これだから貧困系男子は…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手は自分の手札を公開してよい。そうしたら、それらのカードにクライマックスがあるなら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"改造",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TF/S32-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_068.png",
+	"tags": null,
+	"expansionId": 135
 }

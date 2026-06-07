@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "目の前の人間も救えなくて世界再生なんてやれるかよ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《冒険》のキャラがいるなら、このカードのパワーを＋6000。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《冒険》のキャラが4枚以上なら、あなたは自分の控え室の《冒険》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【永】 あなたのターン中、他のあなたの《冒険》のキャラがいるなら、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《冒険》のキャラが4枚以上なら、あなたは自分の控え室の《冒険》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"冒険",
 		"シンフォニア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_t08.png",
+	"tags": null,
+	"expansionId": 537
 }

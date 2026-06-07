@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それなら任せてっ！　じゃーん！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。",
-		"【自】［あなたの控え室の、《Anniversary》か《ハロー、ハッピーワールド！》のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の、《Anniversary》か《ハロー、ハッピーワールド！》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードがアタックした時、他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】［あなたの控え室の、《Anniversary》か《ハロー、ハッピーワールド！》のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の、《Anniversary》か《ハロー、ハッピーワールド！》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_020.png",
+	"tags": null,
+	"expansionId": 382
 }

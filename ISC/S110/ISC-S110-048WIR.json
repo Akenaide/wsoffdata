@@ -15,20 +15,20 @@
 	"rarity": "WIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "夏葉「なるほど……　それじゃ、誰が一番叩けるか、勝負しましょう！」\u003cbr\u003e樹里「あははっ、また汗かきそうだな」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"放課後クライマックスガールズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-048WIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_048wir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_048wir.png",
+	"tags": null,
+	"expansionId": 468
 }

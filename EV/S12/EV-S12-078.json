@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……あ、ありがと",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。』"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"パイロット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_078.png",
+	"tags": null,
+	"expansionId": 49
 }

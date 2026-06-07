@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "島の男は、大事なときにはいつも、\u003cbr\u003e海で、己の覚悟をしめしてきた",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのカード名に「しろは」を含むキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 アンコール ［手札の《サマポケ》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 他のあなたのカード名に「しろは」を含むキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 アンコール ［手札の《サマポケ》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"格闘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_019.png",
+	"tags": null,
+	"expansionId": 238
 }

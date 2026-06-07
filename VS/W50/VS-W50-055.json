@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアンコールステップの始めに、あなたは自分の山札の上から1枚を控え室に置く。そのカードのレベルが0以下なら、このカードを控え室に置く。（クライマックスのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"格闘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_055.png",
+	"tags": null,
+	"expansionId": 200
 }

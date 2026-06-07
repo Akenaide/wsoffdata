@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おいしそう！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《きんいろ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の前列の中央の枠の《きんいろ》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、このカードのパワーを＋1500。"
+		"【永】 他のあなたの《きんいろ》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分の前列の中央の枠の《きんいろ》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替え、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"大食い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-073S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_073s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_073s.png",
+	"tags": null,
+	"expansionId": 534
 }

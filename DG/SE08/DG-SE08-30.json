@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "閣下……！　そんなにポンポンとくだらない約束をしてもらっては困ります！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE08-30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se08/dg_se08_30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se08/dg_se08_30.png",
+	"tags": null,
+	"expansionId": 59
 }

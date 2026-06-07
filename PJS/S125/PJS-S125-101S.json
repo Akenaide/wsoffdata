@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「本当の想いを 朝比奈まふゆ」すべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。』",
-		"【起】［手札を2枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の控え室の自分のレベル以下のレベルの《25時、ナイトコードで。》のキャラを1枚選び、舞台の好きな枠に置く。"
+		"【永】 他のあなたの「本当の想いを 朝比奈まふゆ」すべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。』\u003cbr\u003e【起】［手札を2枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の控え室の自分のレベル以下のレベルの《25時、ナイトコードで。》のキャラを1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"25時、ナイトコードで。"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S125-101S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_101s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s125/pjs_s125_101s.png",
+	"tags": null,
+	"expansionId": 536
 }

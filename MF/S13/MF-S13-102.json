@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《音楽》か《パイロット》のキャラが3枚以上なら、そのターン中、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_102.png",
+	"tags": null,
+	"expansionId": 55
 }

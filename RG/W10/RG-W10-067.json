@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うふふ…ふふ…今ならお姉さまと…",
+	"trigger": null,
 	"ability": [
 		"【自】 [(1)] 他のあなたのバトル中のキャラが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。",
 		"【起】 [(2) このカードを【レスト】する] あなたは自分の山札を見て《カエル》のキャラを１枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"超能力",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W10-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w10/rg_w10_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w10/rg_w10_067.png",
+	"tags": null,
+	"expansionId": 40
 }

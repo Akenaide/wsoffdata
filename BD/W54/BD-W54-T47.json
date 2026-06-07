@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お互いの音を聞けば、何を考えてるのかってなんとなくわかるんだよね",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-T47",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_t47.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_t47.png",
+	"tags": null,
+	"expansionId": 224
 }

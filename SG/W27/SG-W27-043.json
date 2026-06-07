@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
 		"【永】 他のあなたの《ノイズ》のキャラ1枚につき、このカードのパワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ノイズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W27-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w27/sg_w27_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w27/sg_w27_043.png",
+	"tags": null,
+	"expansionId": 107
 }

@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……第五の黒が令呪\u003cbr\u003eを以て命ずる……っ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 あなたがレベルアップした時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。"
+		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 あなたがレベルアップした時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_082.png",
+	"tags": null,
+	"expansionId": 228
 }

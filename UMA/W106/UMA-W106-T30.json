@@ -15,17 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サトノダイヤモンドと申します。最初から決まった運命なんてありません",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋4000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「風のはじまり」があり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたは自分の山札を上から5枚まで見て、《ウマ娘》のキャラをＸ枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘはこのカードの下にマーカーがあるなら2、ないなら1に等しい。"
+		"【永】 あなたのターン中、他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋4000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「風のはじまり」があり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたは自分の山札を上から5枚まで見て、《ウマ娘》のキャラをＸ枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘはこのカードの下にマーカーがあるなら2、ないなら1に等しい。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-T30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_t30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_t30.png",
+	"tags": null,
+	"expansionId": 430
 }

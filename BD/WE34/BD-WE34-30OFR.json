@@ -15,18 +15,18 @@
 	"rarity": "OFR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんなの音が支えてくれる……\u003cbr\u003eあんなに怖かったステージが怖くない……すごく楽しい！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の《Morfonica》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】［あなたの山札の上から1枚をクロック置場に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+		"【自】 このカードがアタックした時、あなたは自分の《Morfonica》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】［あなたの山札の上から1枚をクロック置場に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Morfonica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE34-30OFR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_30ofr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we34/bd_we34_30ofr.png",
+	"tags": null,
+	"expansionId": 336
 }

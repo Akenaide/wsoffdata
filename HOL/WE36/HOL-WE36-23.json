@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－1。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
+		"【永】 舞台のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"4期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE36-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we36/hol_we36_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we36/hol_we36_23.png",
+	"tags": null,
+	"expansionId": 383
 }

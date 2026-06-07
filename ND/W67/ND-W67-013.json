@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "夜天の書の意志でもある管制融合騎\u003cbr\u003eある意味では彼女自身が夜天の書そのものだった",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたの手札が相手の手札より少ないなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたの手札が相手の手札より少ないなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_013.png",
+	"tags": null,
+	"expansionId": 268
 }

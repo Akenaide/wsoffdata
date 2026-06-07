@@ -10,21 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さよなら藤原さん、絶交よ",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《秀知院》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《秀知院》のキャラを1枚選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1500。』",
-		"あなたは相手のキャラを1枚選び、そのターン中、パワーを－500。"
+		"このカードは、あなたの《秀知院》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《秀知院》のキャラを1枚選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1500。』\u003cbr\u003eあなたは相手のキャラを1枚選び、そのターン中、パワーを－500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KGL/S79-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_069.png",
+	"tags": null,
+	"expansionId": 317
 }

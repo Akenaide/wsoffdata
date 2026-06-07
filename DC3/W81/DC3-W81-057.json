@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしには、やりたいことが、\u003cbr\u003eい～っぱいあるんですからね",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のバトル中の、《Anniversary》か《新聞》のキャラを1枚選び、思い出にする。次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそのキャラを、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1000し、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC3/W81-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w81/dc3_w81_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w81/dc3_w81_057.png",
+	"tags": null,
+	"expansionId": 310
 }

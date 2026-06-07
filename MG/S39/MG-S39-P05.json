@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_p05.png",
+	"tags": null,
+	"expansionId": 13
 }

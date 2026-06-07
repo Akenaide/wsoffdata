@@ -15,7 +15,7 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あなたの周りで魅了されている男性が居た場合、\u003cbr /\u003eそれは彼女の仕業なのかもしれない",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SF/S04-112",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sf_s04/sf_s04_112.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sf_s04/sf_s04_112.png",
+	"tags": null,
+	"expansionId": 13
 }

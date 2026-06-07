@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これでほぼ完成かな……\u003cbr\u003eふう、完成っと……",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_017.png",
+	"tags": null,
+	"expansionId": 255
 }

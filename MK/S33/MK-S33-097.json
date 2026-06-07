@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……！！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の手札の、「浴衣ドレス コーデリア」か「オーバードライブ！橘田いずみ」を1枚まで選び、舞台の好きな枠に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/S33-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_097.png",
+	"tags": null,
+	"expansionId": 136
 }

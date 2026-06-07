@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "構わない。道を空けてあげなさい",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、「量産型イリス」と「エクスカベータ」すべてに、パワーを＋1000。",
-		"【自】 あなたのキャラのトリガーチェックで「量産型イリス」か「エクスカベータ」がでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの、「量産型イリス」と「エクスカベータ」すべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックで「量産型イリス」か「エクスカベータ」がでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"武器",
 		"フォーミュラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_077.png",
+	"tags": null,
+	"expansionId": 268
 }

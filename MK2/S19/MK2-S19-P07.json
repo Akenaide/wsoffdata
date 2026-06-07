@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それが私のトイズなんです、でも…捜査の役にも立たなくて…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「ロンドンでの捜査 シャロ」すべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-P07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_p07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_p07.png",
+	"tags": null,
+	"expansionId": 13
 }

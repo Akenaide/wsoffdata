@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_013.png",
+	"tags": null,
+	"expansionId": 129
 }

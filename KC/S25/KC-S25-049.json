@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "夜は良いよね～夜はさ。",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「絶対夜戦してよね！」が置かれた時、前列にこのカードがいるなら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 レベル1以下のキャラすべてに、ソウルを＋2。』"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"軽巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_049.png",
+	"tags": null,
+	"expansionId": 113
 }

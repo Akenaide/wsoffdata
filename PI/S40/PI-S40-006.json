@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "とにかく何でもいいから都合よく報告なさい",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の《宝石》のキャラを1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の《宝石》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"宝石",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/S40-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_s40/pi_s40_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_s40/pi_s40_006.png",
+	"tags": null,
+	"expansionId": 170
 }

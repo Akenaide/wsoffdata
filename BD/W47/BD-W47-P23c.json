@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"チョココロネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-P23c",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_p23c.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_p23c.png",
+	"tags": null,
+	"expansionId": 12
 }

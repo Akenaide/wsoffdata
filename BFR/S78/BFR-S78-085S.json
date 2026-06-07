@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		" 【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から6枚をめくり、控え室に置く。それらのカードにトリガーアイコンが[DRAW]のクライマックスがあるなら、あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻す。"
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e 【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から6枚をめくり、控え室に置く。それらのカードにトリガーアイコンが[[draw.gif]]のクライマックスがあるなら、あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BFR/S78-085S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bfr_s78/bfr_s78_085s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bfr_s78/bfr_s78_085s.png",
+	"tags": null,
+	"expansionId": 313
 }

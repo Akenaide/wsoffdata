@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "クド「お疲れ様なのです、リキ」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のクロック置場の《動物》のキャラを2枚まで選び、手札に加える。あなたの山札の上から2枚を、クロック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KW/W11-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kw_w11/kw_w11_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kw_w11/kw_w11_045.png",
+	"tags": null,
+	"expansionId": 46
 }

@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W94-061S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_061s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w94/gu_w94_061s.png",
+	"tags": null,
+	"expansionId": 374
 }

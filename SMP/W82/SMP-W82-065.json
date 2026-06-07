@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋2000。",
-		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《サマポケ》のキャラを1枚選び、手札に戻す。"
+		"【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋2000。\u003cbr\u003e【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《サマポケ》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_065.png",
+	"tags": null,
+	"expansionId": 311
 }

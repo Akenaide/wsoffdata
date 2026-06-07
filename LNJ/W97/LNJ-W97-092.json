@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "がおー、クマ・ヴェルデだよー！食べちゃうぞー",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋10500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ファンの声 近江 彼方」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋10500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ファンの声 近江 彼方」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W97-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w97/lnj_w97_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w97/lnj_w97_092.png",
+	"tags": null,
+	"expansionId": 390
 }

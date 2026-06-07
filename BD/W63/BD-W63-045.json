@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "紗夜さん、見てください。\u003cbr\u003eここはラッピンググッズの品揃えが豊富なんですよ！",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「紗夜」か「つぐみ」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の控え室のレベル2以上のキャラを1枚選び、手札に戻す。"
+		"このカードは、あなたのカード名に「紗夜」か「つぐみ」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の控え室のレベル2以上のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W63-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_045.png",
+	"tags": null,
+	"expansionId": 255
 }

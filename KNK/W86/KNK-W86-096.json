@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "言ったじゃないですか",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 他のあなたの《かのかり》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。",
-		"【自】 アンコール ［手札の《かのかり》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【自】 他のあなたの《かのかり》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 アンコール ［手札の《かのかり》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_096.png",
+	"tags": null,
+	"expansionId": 322
 }

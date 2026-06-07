@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "助けて、キリト君……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「キリト」を含むキャラがいるなら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_004.png",
+	"tags": null,
+	"expansionId": 92
 }

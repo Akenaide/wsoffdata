@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのCX置場にトリガーアイコンが[CHOICE]を得る。",
-		"【自】 このカードが【リバース】した時、あなたのキャラすべてが《音楽》で、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+		"【永】 あなたのCX置場にトリガーアイコンが[[choice.gif]]のCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[[choice.gif]]を得る。\u003cbr\u003e【自】 このカードが【リバース】した時、あなたのキャラすべてが《音楽》で、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"スリーズブーケ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LHS/W122-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lhs_w122/lhs_w122_006.png",
+	"tags": null,
+	"expansionId": 502
 }

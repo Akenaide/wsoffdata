@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "宗介「これは――説明に時間を要する問題でもあり、なんというのか、君が納得するかどうか確信が持てない」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室のレベルＸ以下の、《ファンタジア文庫》か《ミスリル》か《ウィスパード》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「ずっと平和な日常を かなめ＆テレサ」の枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Ffp/W120-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ffp_w120/ffp_w120_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ffp_w120/ffp_w120_070.png",
+	"tags": null,
+	"expansionId": 489
 }

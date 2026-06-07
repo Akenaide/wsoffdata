@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰もがびっくりするだろうな！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1500。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが0以下なら、あなたはこのカードを前列の右のキャラのいない枠に動かす。そのカードのレベルが1以上なら、あなたはこのカードを前列の左のキャラのいない枠に動かす。（クライマックスのレベルは0として扱う。1番右の枠か1番左の枠にしか動かせない）"
+		"【永】 あなたのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが0以下なら、あなたはこのカードを前列の右のキャラのいない枠に動かす。そのカードのレベルが1以上なら、あなたはこのカードを前列の左のキャラのいない枠に動かす。（クライマックスのレベルは0として扱う。1番右の枠か1番左の枠にしか動かせない）"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"2期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_101.png",
+	"tags": null,
+	"expansionId": 357
 }

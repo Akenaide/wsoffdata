@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《魔大陸》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《魔大陸》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"魔大陸",
 		"魔王"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S82-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s82/tsk_s82_103pr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s82/tsk_s82_103pr.png",
+	"tags": null,
+	"expansionId": 333
 }

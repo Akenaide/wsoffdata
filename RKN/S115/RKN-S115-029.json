@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】【CXコンボ】［あなたのカード名に「弥彦」を含むキャラを1枚控え室に置く］ あなたのCX置場に「己が剣に背負うもの」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「弱き者を助け強き者を挫く 明神弥彦」を1枚選び、舞台のキャラのいない枠に置き、そのターン中、そのキャラのパワーを＋3000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】【CXコンボ】［あなたのカード名に「弥彦」を含むキャラを1枚控え室に置く］ あなたのCX置場に「己が剣に背負うもの」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「弱き者を助け強き者を挫く 明神弥彦」を1枚選び、舞台のキャラのいない枠に置き、そのターン中、そのキャラのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"師範代"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_029.png",
+	"tags": null,
+	"expansionId": 479
 }

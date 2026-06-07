@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "チッ、もう来んじゃねえぞ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがプレイされて舞台に置かれた時、あなたは相手の控え室のイベントを1枚選び、思い出にしてよい。",
 		"【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_057.png",
+	"tags": null,
+	"expansionId": 4
 }

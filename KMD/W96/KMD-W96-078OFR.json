@@ -15,21 +15,20 @@
 	"rarity": "OFR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 あなたの、《人間》か《ドラゴン》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"ドラゴン",
 		"調和勢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMD/W96-078OFR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_078ofr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmd_w96/kmd_w96_078ofr.png",
+	"tags": null,
+	"expansionId": 386
 }

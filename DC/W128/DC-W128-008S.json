@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……ん",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
-		"【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W128-008S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_008s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w128/dc_w128_008s.png",
+	"tags": null,
+	"expansionId": 544
 }

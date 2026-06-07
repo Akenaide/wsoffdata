@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "降り積もる雪のように、私の想いも日に日に大きくなっていきます。",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のカード名に「海未」を含むキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のカード名に「海未」を含むキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"雪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_049.png",
+	"tags": null,
+	"expansionId": 142
 }

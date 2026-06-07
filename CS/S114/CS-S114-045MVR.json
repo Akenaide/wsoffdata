@@ -15,8 +15,8 @@
 	"rarity": "MVR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -25,8 +25,9 @@
 		"家族",
 		"幼稚園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-045MVR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_045mvr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_045mvr.png",
+	"tags": null,
+	"expansionId": 480
 }

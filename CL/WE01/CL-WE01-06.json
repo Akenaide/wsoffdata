@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "僕の背中はお前にまかせるぜ！",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたはキャラを2枚まで選び、そのターン中、《スポーツ》を与える。",
 		"【起】［このカードを控え室に置く］ あなたは自分のカード名に「智代」を含むキャラを1枚選び、そのターン中、パワーを＋2500。"
@@ -25,8 +25,9 @@
 		"不良",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE01-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we01/cl_we01_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we01/cl_we01_06.png",
+	"tags": null,
+	"expansionId": 21
 }

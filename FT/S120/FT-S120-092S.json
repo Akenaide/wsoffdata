@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S120-092S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_092s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s120/ft_s120_092s.png",
+	"tags": null,
+	"expansionId": 503
 }

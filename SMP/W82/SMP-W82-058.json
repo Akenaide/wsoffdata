@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "美希「どうせ脱ぐから、先に撃っておいただけだ」",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\u003cbr\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_058.png",
+	"tags": null,
+	"expansionId": 311
 }

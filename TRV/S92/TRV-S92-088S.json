@@ -15,16 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 共鳴 ［手札を1枚控え室に置き、手札の「大事にしてやれよ マイキー」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《リベンジ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"リベンジ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TRV/S92-088S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_088s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_088s.png",
+	"tags": null,
+	"expansionId": 389
 }

@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "新緑が眩しいです。もっと近くに緑を見に行きませんか？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたの控え室のカードの持つ色の合計が2色以上なら、そのターン中、このカードのパワーを＋1500。",
-		"【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+		"【自】 このカードがアタックした時、あなたの控え室のカードの持つ色の合計が2色以上なら、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SIN/W109-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sin_w109/sin_w109_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sin_w109/sin_w109_086.png",
+	"tags": null,
+	"expansionId": 448
 }

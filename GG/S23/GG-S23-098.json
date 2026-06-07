@@ -8,24 +8,25 @@
 	"jpName": "最後の支援啓発",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私はパイロット支援啓発システム。\u003cbr /\u003eあなたがより多くの成果を獲得することで、\u003cbr /\u003e存在意義を達成する",
 	"trigger": [
 		"DRAW"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+		"（[[draw.gif]]：このカードがトリガーした時、あなたは1枚引いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GG/S23-098",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_098.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_098.png",
+	"tags": null,
+	"expansionId": 101
 }

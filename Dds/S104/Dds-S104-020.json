@@ -15,19 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《Celebration》か《Disney》のキャラすべてに、パワーを＋1000し、《音楽》を与える。",
-		"【自】 あなたのトリガーアイコンが[CHOICE]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。",
-		"【起】［あなたの、《Celebration》か《Disney》のキャラを2枚【レスト】し、このカードを山札の下に置く］ あなたは1枚引く。"
+		"【永】 あなたのターン中、他のあなたの、《Celebration》か《Disney》のキャラすべてに、パワーを＋1000し、《音楽》を与える。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[choice.gif]]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。\u003cbr\u003e【起】［あなたの、《Celebration》か《Disney》のキャラを2枚【レスト】し、このカードを山札の下に置く］ あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"Celebration",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Dds/S104-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_020.png",
+	"tags": null,
+	"expansionId": 420
 }

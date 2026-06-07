@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アミタ「ねえキリエ。\u003cbr\u003eこの世界の『魔導師』って魔法使いって意味だそうなんです」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《フォーミュラ》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"フォーミュラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NR/W58-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_038.png",
+	"tags": null,
+	"expansionId": 226
 }

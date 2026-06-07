@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何これ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の前列の《きんいろ》のキャラを1枚まで選び、このカードを【レスト】し、選んだキャラの後ろのキャラのいない枠にこのカードを動かす。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の前列の《きんいろ》のキャラを1枚まで選び、このカードを【レスト】し、選んだキャラの後ろのキャラのいない枠にこのカードを動かす。"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"金髪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_021.png",
+	"tags": null,
+	"expansionId": 534
 }

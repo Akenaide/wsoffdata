@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我が大道寺トイズの開発部に、鉄壁の防水加工を施しておいていただきましたから",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《クリアカード編》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+		"【永】 他のあなたの《クリアカード編》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
 	"specialAttrib": [
 		"カメラ",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_066.png",
+	"tags": null,
+	"expansionId": 274
 }

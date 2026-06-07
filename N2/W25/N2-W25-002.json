@@ -15,7 +15,7 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "申し訳ありません、我等が主…\u003cbr /\u003eただ一度だけあなたとの誓いを破ります！",
 	"trigger": [
 		"SOUL"
 	],
@@ -28,8 +28,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_002.png",
+	"tags": null,
+	"expansionId": 94
 }

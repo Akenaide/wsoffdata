@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あっちを見てもカップル",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、あなたのキャラすべてが《ランドソル》なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W84-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w84/prd_w84_045.png",
+	"tags": null,
+	"expansionId": 320
 }

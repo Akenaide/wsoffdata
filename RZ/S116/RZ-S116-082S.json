@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 すべての領域にあるこのカードのカード名は「レム」としても扱う。",
-		"【永】 あなたのターン中、あなたのキャラすべてが《魔法》か《武器》なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 あなたのCX置場に「心で繋がる不変の絆」が置かれた時、前列にこのカードがいて、他のあなたの前列の「魔法少女 愛夢」がいるなら、あなたは自分の控え室のキャラを2枚まで選び、1枚選び、手札に加え、残りのカードをストック置場に置く。"
+		"【永】 すべての領域にあるこのカードのカード名は「レム」としても扱う。\u003cbr\u003e【永】 あなたのターン中、あなたのキャラすべてが《魔法》か《武器》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 あなたのCX置場に「心で繋がる不変の絆」が置かれた時、前列にこのカードがいて、他のあなたの前列の「魔法少女 愛夢」がいるなら、あなたは自分の控え室のキャラを2枚まで選び、1枚選び、手札に加え、残りのカードをストック置場に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S116-082S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s116/rz_s116_082s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s116/rz_s116_082s.png",
+	"tags": null,
+	"expansionId": 492
 }

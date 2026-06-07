@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "・・・",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－1。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「禁忌の魔法」があり、あなたの手札が相手の手札より少ないなら、あなたは1枚引く。"
+		"【永】 舞台のこのカードのレベルを－1。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「禁忌の魔法」があり、あなたの手札が相手の手札より少ないなら、あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"本",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_086.png",
+	"tags": null,
+	"expansionId": 274
 }

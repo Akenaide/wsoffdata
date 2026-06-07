@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚と、このカードを選び、思い出にする。次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのキャラを、舞台の別々の枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"MOVIE",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-043SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_043sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_043sp.png",
+	"tags": null,
+	"expansionId": 480
 }

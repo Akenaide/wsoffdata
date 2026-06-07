@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "肝に銘じろ。\u003cbr\u003eもはや地上は人類の味方ではない",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《NIKKE》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】［手札のトリガーアイコンが[GATE]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 応援 このカードの前のあなたの《NIKKE》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】［手札のトリガーアイコンが[[gate.gif]]のCXを1枚控え室に置く］ あなたのトリガーアイコンが[[gate.gif]]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"パイオニア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_091.png",
+	"tags": null,
+	"expansionId": 494
 }

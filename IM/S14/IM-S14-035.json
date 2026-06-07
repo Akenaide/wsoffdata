@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キミは新人だが、なかなか見所があるねえ！\u003cbr /\u003eいや～、私の見る目はやはり最高だな！",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"影"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_035.png",
+	"tags": null,
+	"expansionId": 64
 }

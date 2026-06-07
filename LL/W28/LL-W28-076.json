@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょ、ちょっと！あっち行きなさいよね！",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“次の獲物はあなた”真姫」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"パジャマ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W28-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w28/ll_w28_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w28/ll_w28_076.png",
+	"tags": null,
+	"expansionId": 110
 }

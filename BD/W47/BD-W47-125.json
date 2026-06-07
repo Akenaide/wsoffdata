@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふふっ…よし♪",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、次の相手のターンの終わりまで、このカードのパワーを＋1500。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"うさぎ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-125",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_125.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_125.png",
+	"tags": null,
+	"expansionId": 196
 }

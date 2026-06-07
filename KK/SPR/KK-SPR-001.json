@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……　ああ…\u003cbr /\u003eこの螺旋が矛盾していたら良かったのに…",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“スプリンター”臙条 巴」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
 		"【自】 あなたがレベルアップした時、このカードを控え室に置く。"
@@ -25,8 +25,9 @@
 		"人形",
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KK/SPR-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kk_spr/kk_spr_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kk_spr/kk_spr_001.png",
+	"tags": null,
+	"expansionId": 13
 }

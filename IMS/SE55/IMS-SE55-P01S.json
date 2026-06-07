@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《音楽》のキャラが2枚以下なら、手札からプレイできない。このカードは、色条件を満たさずに手札からプレイできる。",
-		"あなたは自分の控え室のカードを1枚選び、手札に戻す。このカードを思い出にする。"
+		"このカードは、あなたの《音楽》のキャラが2枚以下なら、手札からプレイできない。このカードは、色条件を満たさずに手札からプレイできる。\u003cbr\u003eあなたは自分の控え室のカードを1枚選び、手札に戻す。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IMS/SE55-P01S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_se55/ims_se55_p01s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_se55/ims_se55_p01s.png",
+	"tags": null,
+	"expansionId": 13
 }

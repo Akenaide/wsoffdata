@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "…ちょっと、雲が少なくなって感じが変わったわね…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《グリザイア》のキャラの枚数に等しい。",
-		"【起】［手札を2枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋7000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《グリザイア》のキャラの枚数に等しい。\u003cbr\u003e【起】［手札を2枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋7000。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_040.png",
+	"tags": null,
+	"expansionId": 285
 }

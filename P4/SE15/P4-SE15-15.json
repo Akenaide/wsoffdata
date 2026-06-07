@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "まずは帰りましょう、りせさん、姉さん。\u003cbr /\u003eみなさんが待つ場所へ",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"メカ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE15-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se15/p4_se15_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se15/p4_se15_15.png",
+	"tags": null,
+	"expansionId": 91
 }

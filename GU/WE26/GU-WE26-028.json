@@ -15,19 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "キャンプに行った時の写真をお見せしまーす！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードのトリガーアイコンに[SOUL]があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードのトリガーアイコンに[[soul.gif]]があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE26-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we26/gu_we26_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we26/gu_we26_028.png",
+	"tags": null,
+	"expansionId": 184
 }

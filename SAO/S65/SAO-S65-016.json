@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まかせて！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたのカード名に「キリト」を含むキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】 このカードがダイレクトアタックした時、そのターン中、このカードのソウルを＋1。"
+		"【永】 あなたのターン中、他のあなたのカード名に「キリト」を含むキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードがダイレクトアタックした時、そのターン中、このカードのソウルを＋1。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S65-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_016.png",
+	"tags": null,
+	"expansionId": 267
 }

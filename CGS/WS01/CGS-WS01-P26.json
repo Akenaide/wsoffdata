@@ -16,15 +16,16 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、他のキャラすべてに、《元気》を与える。"
 	],
 	"specialAttrib": [
 		"カードゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CGS/WS01-P26",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cgs_ws01/cgs_ws01_p26.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cgs_ws01/cgs_ws01_p26.png",
+	"tags": null,
+	"expansionId": 11
 }

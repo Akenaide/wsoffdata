@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だが貴様に人間の自由を守るという志があるなら、今は全力で戦え！",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「我が行動に一点の曇り無し！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《服》のキャラの枚数×500に等しい。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"服",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_077.png",
+	"tags": null,
+	"expansionId": 117
 }

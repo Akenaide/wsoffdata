@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "爆弾処理ロボット、ポポロマーク２デス。ヨロピコ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「小衣」か「KoKoRo」を含むキャラすべてに、パワーを＋500。",
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは相手の【スタンド】しているキャラを1枚まで選び、【レスト】し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"警察",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_063.png",
+	"tags": null,
+	"expansionId": 87
 }

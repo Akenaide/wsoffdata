@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうなってんだ、こりゃ",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"神器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE15-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we15/ss_we15_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we15/ss_we15_15.png",
+	"tags": null,
+	"expansionId": 83
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "できるだけ、早く帰ってね。\u003cbr\u003eわたしたちの家は、一箇所なんだからね",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE23-T10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se23/sao_se23_t10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se23/sao_se23_t10.png",
+	"tags": null,
+	"expansionId": 112
 }

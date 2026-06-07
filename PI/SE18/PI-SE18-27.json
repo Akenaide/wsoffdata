@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一人じゃできない事でも、一緒ならうまくいくって",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。",
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「クラスカード ランサー」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、そのターン中、このカードのパワーを＋1000。"
@@ -25,8 +25,9 @@
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE18-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se18/pi_se18_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se18/pi_se18_027.png",
+	"tags": null,
+	"expansionId": 108
 }

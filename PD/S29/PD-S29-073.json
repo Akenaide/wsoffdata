@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「巡音ルカ“華”」すべてに、レベルを＋1し、パワーを＋500。",
 		"【自】 絆／「巡音ルカ“華”」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「巡音ルカ“華”」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"音楽",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S29-073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s29/pd_s29_073.png",
+	"tags": null,
+	"expansionId": 121
 }

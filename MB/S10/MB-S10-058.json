@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "言う事を聞いてくださらないのなら、力づくでも帰っていただきます！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、レベルを＋1。",
 		"【自】 チェンジ ［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“紅赤朱”秋葉」を1枚選び、このカードがいた枠に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_058.png",
+	"tags": null,
+	"expansionId": 48
 }

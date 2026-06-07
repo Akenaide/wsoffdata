@@ -15,17 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の《PIXAR》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《PIXAR》のキャラの枚数×500に等しい。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【自】 このカードがアタックした時、あなたは自分の《PIXAR》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《PIXAR》のキャラの枚数×500に等しい。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S122-056S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s122/pxr_s122_056s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s122/pxr_s122_056s.png",
+	"tags": null,
+	"expansionId": 523
 }

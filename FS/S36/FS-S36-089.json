@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "無名のまま死んでいった私にもし望みがあったとしたら…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《マスター》か《サーヴァント》のキャラが4枚以上なら、そのターン中、このカードはサイドアタックしてもソウルが減少しない。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S36-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s36/fs_s36_089.png",
+	"tags": null,
+	"expansionId": 155
 }

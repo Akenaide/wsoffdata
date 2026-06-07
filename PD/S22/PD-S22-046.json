@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "幸せ離したくないの　ほら　両手を高く上げて\u003cbr /\u003eプリズムの向こう側　待ちきれない　Weekender Girl",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。",
 		"あなたは自分の山札を見て《音楽》のキャラを2枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PD/S22-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_046.png",
+	"tags": null,
+	"expansionId": 93
 }

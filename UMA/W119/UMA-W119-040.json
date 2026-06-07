@@ -1,6 +1,6 @@
 {
 	"set": "UMA",
-	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"setName": " 劇場版『ウマ娘 プリティーダービー 新時代の扉』",
 	"side": "W",
 	"release": "119",
 	"id": "040",
@@ -15,20 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《ウマ娘》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋6000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にCXがあるなら、あなたはそのキャラを山札の上に置いてよい。"
+		"【永】 あなたの《ウマ娘》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にCXがあるなら、あなたはそのキャラを山札の上に置いてよい。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W119-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w119/uma_w119_040.png",
+	"tags": null,
+	"expansionId": 486
 }

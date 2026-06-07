@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "命に代えても姫様をお守りするんだ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「勇者アルマース」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
 		"【自】 絆／「殺りくマッスィーン サファイア」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「殺りくマッスィーン サファイア」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"勇者",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_078.png",
+	"tags": null,
+	"expansionId": 5
 }

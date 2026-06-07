@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こんな風に一面雪景色になってると、\u003cbr /\u003eいつも見慣れた公園でも雰囲気違うわね",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"雪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_060.png",
+	"tags": null,
+	"expansionId": 144
 }

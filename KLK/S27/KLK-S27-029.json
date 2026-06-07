@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "戦力のつもりだったかもしれないが、こうすれば私の駒になる",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1) このカードを【レスト】する］ あなたは自分の、マーカーを持つキャラを1枚選び、そのターン中、パワーを＋2500。"
@@ -25,8 +25,9 @@
 		"服",
 		"CEO"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_029.png",
+	"tags": null,
+	"expansionId": 117
 }

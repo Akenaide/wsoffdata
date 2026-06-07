@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "指揮官さん、電と一緒にパーティーに行きませんか？",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"艦船",
 		"重桜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-T47R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_t47r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_t47r.png",
+	"tags": null,
+	"expansionId": 409
 }

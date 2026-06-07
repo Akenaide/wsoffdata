@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こ、この声アクア先輩!?まさか本物!?",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたの《女神》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の、《冒険者》か《女神》のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』"
+		"【カウンター】 このカードは、あなたの《女神》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の、《冒険者》か《女神》のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KS/W49-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_097.png",
+	"tags": null,
+	"expansionId": 192
 }

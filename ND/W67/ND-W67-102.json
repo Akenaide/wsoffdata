@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《魔法》か《武器》のキャラすべてに、パワーを＋500。",
-		"【起】［あなたの、《魔法》か《武器》のキャラを2枚【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。"
+		"【永】 他のあなたの、《魔法》か《武器》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［あなたの、《魔法》か《武器》のキャラを2枚【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_102.png",
+	"tags": null,
+	"expansionId": 268
 }

@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あなた達が不甲斐ないから、余計な被害者出しちゃったかも",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-		"【自】［手札の、「ノーブルレッド ミラアルク」と「ノーブルレッド エルザ」を1枚ずつ控え室に置き、このカードを控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。"
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。\u003cbr\u003e【自】［手札の、「ノーブルレッド ミラアルク」と「ノーブルレッド エルザ」を1枚ずつ控え室に置き、このカードを控え室に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。"
 	],
 	"specialAttrib": [
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W89-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w89/sg_w89_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w89/sg_w89_096.png",
+	"tags": null,
+	"expansionId": 343
 }

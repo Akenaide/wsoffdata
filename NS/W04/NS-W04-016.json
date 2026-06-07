@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ようこそ、クラウディアへ",
+	"trigger": null,
 	"ability": [
 		"【永】 アラーム このカードがクロックの1番上にあるなら、あなたのレベル2以上のキャラすべてに、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_016.png",
+	"tags": null,
+	"expansionId": 6
 }

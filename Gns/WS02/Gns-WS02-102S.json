@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の下で、まだやっていく気ある？",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの控え室の《電撃文庫》のキャラを1枚クロック置場の下に置く］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"電撃文庫",
 		"SE"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gns/WS02-102S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gns_ws02_102s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gns_ws02_102s.png",
+	"tags": null,
+	"expansionId": 439
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "153cmの身長が154cmに伸びていた！\u003cbr /\u003e私の成長期に終わりはない。",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"ビジュアルアーツ",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VA/WPR-P32",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/va_wpr/va_wpr_p32.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/va_wpr/va_wpr_p32.png",
+	"tags": null,
+	"expansionId": 12
 }

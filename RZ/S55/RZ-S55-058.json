@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《魔法》か《武器》のキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】 このカードがアタックした時、他のあなたの、《魔法》か《武器》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
+		"【永】 あなたのターン中、他のあなたの、《魔法》か《武器》のキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの、《魔法》か《武器》のキャラが2枚以上なら、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S55-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s55/rz_s55_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s55/rz_s55_058.png",
+	"tags": null,
+	"expansionId": 234
 }

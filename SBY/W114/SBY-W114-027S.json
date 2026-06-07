@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "するかっつーの！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、次の相手のターンの終わりまで、このカードのパワーを＋4500。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、次の相手のターンの終わりまで、このカードのパワーを＋4500。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"オシャレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W114-027S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_027s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w114/sby_w114_027s.png",
+	"tags": null,
+	"expansionId": 463
 }

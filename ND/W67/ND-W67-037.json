@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なのは「魔法と出会うきっかけをくれたユーノくんは\u003cbr\u003eいまでもわたしの大切な友達で魔法の先生」",
+	"trigger": null,
 	"ability": [
 		"【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは相手のレベル0以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_037.png",
+	"tags": null,
+	"expansionId": 268
 }

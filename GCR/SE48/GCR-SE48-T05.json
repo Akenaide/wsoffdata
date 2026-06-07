@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがトリガーした時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[salvage.gif]]のCXがトリガーした時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"トゲナシトゲアリ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GCR/SE48-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gcr_se48/gcr_se48_t05.png",
+	"tags": null,
+	"expansionId": 507
 }

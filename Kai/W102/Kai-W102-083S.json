@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《夏》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「もう一度そばに」が置かれた時、前列にこのカードがいて、他のあなたの、《Anniversary》か《夏》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の「人形劇」を1枚選び、手札に戻す。』『あなたは自分の山札を見て「人形劇」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+		"【永】 他のあなたの、《Anniversary》か《夏》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「もう一度そばに」が置かれた時、前列にこのカードがいて、他のあなたの、《Anniversary》か《夏》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の「人形劇」を1枚選び、手札に戻す。』『あなたは自分の山札を見て「人形劇」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"夏",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kai/W102-083S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/kai_w102_083s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/kai_w102_083s.png",
+	"tags": null,
+	"expansionId": 406
 }

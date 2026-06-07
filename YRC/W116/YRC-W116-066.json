@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今度は山梨（そっち）まで行くからさ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ゆるキャン△》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《ゆるキャン△》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"ゆるキャン△",
 		"バイク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YRC/W116-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yrc_w116/yrc_w116_066.png",
+	"tags": null,
+	"expansionId": 490
 }

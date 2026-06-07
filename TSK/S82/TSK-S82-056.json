@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リムル「みごとな手加減だったよ…」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔大陸",
 		"魔王"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S82-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s82/tsk_s82_056c.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s82/tsk_s82_056c.png",
+	"tags": null,
+	"expansionId": 333
 }

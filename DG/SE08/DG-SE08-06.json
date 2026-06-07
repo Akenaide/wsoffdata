@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "オレ様のことは、エミーゼル様と呼ぶんだ。\u003cbr /\u003e大統領の御曹司エミーゼル様とな！！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のクライマックス置場にクライマックスがあるなら、このカードの正面のキャラのソウルを－1。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE08-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se08/dg_se08_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se08/dg_se08_06.png",
+	"tags": null,
+	"expansionId": 59
 }

@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"オロチ",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/SE43-23SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_23sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_se43/kf_se43_23sp.png",
+	"tags": null,
+	"expansionId": 441
 }

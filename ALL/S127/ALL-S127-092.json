@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "直接斬り合うのは、わたしがやるよ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"リリィ",
 		"バシャンドレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S127-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s127/all_s127_092.png",
+	"tags": null,
+	"expansionId": 541
 }

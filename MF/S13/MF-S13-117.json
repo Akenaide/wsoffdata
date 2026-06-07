@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "巫女の衣装って初めて着たわ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-117",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_117.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_117.png",
+	"tags": null,
+	"expansionId": 13
 }

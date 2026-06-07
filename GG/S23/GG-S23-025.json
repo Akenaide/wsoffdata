@@ -8,14 +8,14 @@
 	"jpName": "夢に見た宝島",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "逃げられる奴は\u003cbr /\u003e逃げるに越したこたぁねぇよ。\u003cbr /\u003e…なあそうだろ、兄貴",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GG/S23-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_025.png",
+	"tags": null,
+	"expansionId": 101
 }

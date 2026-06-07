@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "美味しくなあれ。萌え萌えきゅん",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは相手の舞台にいるキャラの特徴を1つ選び、相手のキャラすべては、そのターン中、その特徴をすべて失う。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Fdl/W65-099",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w65/fdl_w65_099.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fdl_w65/fdl_w65_099.png",
+	"tags": null,
+	"expansionId": 264
 }

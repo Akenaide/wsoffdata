@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アリスのベッドだからだもん",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「アローのトイズ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、パワーを－2000。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"パジャマ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_034.png",
+	"tags": null,
+	"expansionId": 136
 }

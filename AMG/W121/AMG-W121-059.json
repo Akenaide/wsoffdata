@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のカード名に「夕奈」を含むキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「夕奈」を含むキャラを1枚選び、そのターン中、パワーを＋2000し、《団子》を与える。"
+		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分のカード名に「夕奈」を含むキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「夕奈」を含むキャラを1枚選び、そのターン中、パワーを＋2000し、《団子》を与える。"
 	],
 	"specialAttrib": [
 		"縁",
 		"親友"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AMG/W121-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/amg_w121/amg_w121_059.png",
+	"tags": null,
+	"expansionId": 512
 }

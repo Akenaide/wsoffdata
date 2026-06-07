@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたの幸せを願います……なんて、神官っぽかったです？",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"RPG"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_093.png",
+	"tags": null,
+	"expansionId": 272
 }

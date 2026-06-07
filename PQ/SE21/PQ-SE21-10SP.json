@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の「謎の二人 玲＆善」を1枚クロック置場に置く］ このカードがアタックした時、クライマックス置場に「守りたい人」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、思い出にし、そのターン中、このカードのパワーを＋4000。"
 	],
@@ -24,8 +24,9 @@
 		"腹ペコ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PQ/SE21-10SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pq_se21/pq_se21_10sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pq_se21/pq_se21_10sp.png",
+	"tags": null,
+	"expansionId": 125
 }

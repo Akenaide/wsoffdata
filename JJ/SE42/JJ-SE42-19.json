@@ -15,20 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あんたへの警告のために見せている",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、相手の思い出が4枚以上なら、相手は自分の思い出置場のカードを3枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。",
-		"【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、相手の思い出が4枚以上なら、相手は自分の思い出置場のカードを3枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"スタンド使い",
 		"スタンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/SE42-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se42/jj_se42_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_se42/jj_se42_19.png",
+	"tags": null,
+	"expansionId": 435
 }

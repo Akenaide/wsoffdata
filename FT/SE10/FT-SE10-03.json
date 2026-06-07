@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ついて来い!!!!!",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場の《魔法》のキャラが2枚以上なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_03.png",
+	"tags": null,
+	"expansionId": 68
 }

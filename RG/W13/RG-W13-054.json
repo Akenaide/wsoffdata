@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あれって、これのこと？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてが《超能力》なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"超能力",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W13-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w13/rg_w13_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w13/rg_w13_054.png",
+	"tags": null,
+	"expansionId": 54
 }

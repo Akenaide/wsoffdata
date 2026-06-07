@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お……",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を2枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"スライム",
 		"毒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_063.png",
+	"tags": null,
+	"expansionId": 214
 }

@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だから私、入れ物でしかないのに、普通の人みたいに恋できたの",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《葬儀社》のキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【永】 他のあなたの《葬儀社》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"葬儀社"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-127",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_127.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_127.png",
+	"tags": null,
+	"expansionId": 13
 }

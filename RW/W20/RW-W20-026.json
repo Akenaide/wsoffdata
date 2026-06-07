@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "行こう、コタロー",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。"
@@ -25,8 +25,9 @@
 		"風紀委員",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W20-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w20/rw_w20_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w20/rw_w20_026.png",
+	"tags": null,
+	"expansionId": 84
 }

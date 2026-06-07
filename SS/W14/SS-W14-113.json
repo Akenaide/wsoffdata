@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "夏が暑いのは当たり前でしょ",
+	"trigger": null,
 	"ability": [
 		"【永】あなたのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"メロンパン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-113",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_113.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_113.png",
+	"tags": null,
+	"expansionId": 12
 }

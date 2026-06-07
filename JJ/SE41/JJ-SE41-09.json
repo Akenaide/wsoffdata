@@ -15,16 +15,17 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ナレーション「バステト女神のカード 本体の名は『マライア』」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが1以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"スタンド使い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/SE41-09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se41/jj_se41_09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_se41/jj_se41_09.png",
+	"tags": null,
+	"expansionId": 434
 }

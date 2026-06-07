@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お待たせ",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを【レスト】する］ あなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻す。",
 		"【起】［このカードをクロック置場に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_003.png",
+	"tags": null,
+	"expansionId": 32
 }

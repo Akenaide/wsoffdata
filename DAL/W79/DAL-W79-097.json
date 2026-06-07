@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "士道「気をつけて行くんだぞ」\u003cbr\u003e\u003cbr\u003e亜衣「あれ五河君じゃなーい？」\u003cbr\u003e麻衣「仲良さげー。シスコンって噂マジなんだー」\u003cbr\u003e美衣「マジ引くわー」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の手札すべてを、控え室に置き、Ｘ枚引く。Ｘはこの効果で控え室に置かれたカードの枚数＋1に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DAL/W79-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_097.png",
+	"tags": null,
+	"expansionId": 302
 }

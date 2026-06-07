@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…頑張ってください",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたの青のキャラすべてに、パワーを＋500。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見てカード名に「チノ」か「マヤ」か「メグ」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 応援 このカードの前のあなたの青のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見てカード名に「チノ」か「マヤ」か「メグ」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"コーヒー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_072.png",
+	"tags": null,
+	"expansionId": 174
 }

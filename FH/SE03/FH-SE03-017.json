@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すごいですね、こんな屋内型プール、本当に作ってたんですね！",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「水着の凛」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
 		"【自】 絆／「水着のライダー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「水着のライダー」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"マスター",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_016.png",
+	"tags": null,
+	"expansionId": 33
 }

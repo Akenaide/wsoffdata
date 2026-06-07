@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "開始後すぐに降参すれば……、虚刀流、おまえは無傷でこの闘技場から出ることができるぜ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_05.png",
+	"tags": null,
+	"expansionId": 56
 }

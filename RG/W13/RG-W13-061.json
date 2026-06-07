@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここは、わたくしたちが引き受けますの",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「まさかの共闘」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"超能力",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W13-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w13/rg_w13_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w13/rg_w13_061.png",
+	"tags": null,
+	"expansionId": 54
 }

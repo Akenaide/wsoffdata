@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この世界にも夏が来たんや！夏ゆーたら海やろ？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《武器》か《魔法》のキャラすべてに、パワーを＋500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
@@ -26,8 +26,9 @@
 		"魔法",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_01.png",
+	"tags": null,
+	"expansionId": 118
 }

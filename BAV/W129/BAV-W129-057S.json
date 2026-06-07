@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《キヴォトス》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"風紀委員会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W129-057S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_057s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w129/bav_w129_057s.png",
+	"tags": null,
+	"expansionId": 530
 }

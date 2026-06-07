@@ -15,22 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "了解しました!!\u003cbr\u003e若輩の身ではありますが、精一杯務めます！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードは、色条件を満たさずに手札からプレイできる。",
-		"【永】 あなたの《華撃団》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの《華撃団》のキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 このカードは、色条件を満たさずに手札からプレイできる。\u003cbr\u003e【永】 あなたの《華撃団》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの《華撃団》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"華撃団",
 		"剣術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SKR/S73-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_056.png",
+	"tags": null,
+	"expansionId": 293
 }

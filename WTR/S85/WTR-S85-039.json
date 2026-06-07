@@ -15,18 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「連携するトリオン兵 アイドラ」を3枚まで選び、このカードの下にマーカーとして表向きに置く。"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr\u003e【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「連携するトリオン兵 アイドラ」を3枚まで選び、このカードの下にマーカーとして表向きに置く。"
 	],
 	"specialAttrib": [
 		"トリオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WTR/S85-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wtr_s85/wtr_s85_039.png",
+	"tags": null,
+	"expansionId": 360
 }

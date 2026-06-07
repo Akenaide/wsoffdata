@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それ以外に何か？",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの《音楽》のキャラが手札から舞台に置かれた時、そのターン中、そのキャラのパワーを＋500し、《ドリンク》を与える。",
-		"【起】[(2) このカードを【レスト】する］ あなたは1枚引く。"
+		"【自】 他のあなたの《音楽》のキャラが手札から舞台に置かれた時、そのターン中、そのキャラのパワーを＋500し、《ドリンク》を与える。\u003cbr/\u003e【起】[(2) このカードを【レスト】する］ あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_040.png",
+	"tags": null,
+	"expansionId": 151
 }

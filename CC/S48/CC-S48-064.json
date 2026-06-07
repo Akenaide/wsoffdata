@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "議長はあなた方に期待していますから",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
@@ -24,8 +24,9 @@
 		"マナ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_064.png",
+	"tags": null,
+	"expansionId": 193
 }

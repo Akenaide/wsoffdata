@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちぎれるわけないでしょ、こっち来なさい",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラを【リバース】してよい。』",
 		"【自】 絆／「“おしゃべり”葉留佳」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“おしゃべり”葉留佳」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"委員長",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_054.png",
+	"tags": null,
+	"expansionId": 18
 }

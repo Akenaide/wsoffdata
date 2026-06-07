@@ -8,14 +8,14 @@
 	"jpName": "まさかの共闘",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "黒子「まさか、あなたとコンビを組むなんて、思ってもみませんでしたわ」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RG/W13-075",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w13/rg_w13_075.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w13/rg_w13_075.png",
+	"tags": null,
+	"expansionId": 54
 }

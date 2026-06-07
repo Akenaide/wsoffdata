@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたは誰？",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋3000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《スニーカー文庫》か《ロードス島》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《スニーカー文庫》か《ロードス島》のキャラの枚数×500に等しい。"
+		"【永】 あなたのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《スニーカー文庫》か《ロードス島》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《スニーカー文庫》か《ロードス島》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"ロードス島",
 		"エルフ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sls/W123-032S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sls_w123_032s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/sls_w123_032s.png",
+	"tags": null,
+	"expansionId": 510
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よもや私の剣が鈍るものと期待してはいるまいな",
+	"trigger": null,
 	"ability": [
 		"【自】［手札のクライマックスを好きな枚数公開する］ このカードのバトル中、あなたのバトルステップの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋Ｘ。Ｘは公開されたカードの枚数×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_020.png",
+	"tags": null,
+	"expansionId": 82
 }

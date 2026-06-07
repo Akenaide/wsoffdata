@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "い、い、いい加減にしなさいよ、霞ヶ丘詩羽！",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
-		"【自】 アタックフェイズ中、あなたか相手のキャラが、控え室から手札に戻った時、そのプレイヤーのキャラすべてに、そのターン中、ソウルを－3。"
+		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 アタックフェイズ中、あなたか相手のキャラが、控え室から手札に戻った時、そのプレイヤーのキャラすべてに、そのターン中、ソウルを－3。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_006.png",
+	"tags": null,
+	"expansionId": 220
 }

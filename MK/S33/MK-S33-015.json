@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ミルキィさんだ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分のカード名に「カズミ」を含むキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"探偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_015.png",
+	"tags": null,
+	"expansionId": 136
 }

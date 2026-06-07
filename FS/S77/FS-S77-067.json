@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まさか衛宮君が同じこと考えてたなんてね",
+	"trigger": null,
 	"ability": [
-		"【自】［手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「宝石防御魔術 凛」を1枚選び、手札に戻す。",
-		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+		"【自】［手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「宝石防御魔術 凛」を1枚選び、手札に戻す。\u003cbr\u003e【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
 	"specialAttrib": [
 		"マスター",
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S77-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s77/fs_s77_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s77/fs_s77_067.png",
+	"tags": null,
+	"expansionId": 314
 }

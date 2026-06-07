@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"ホロライブインドネシア2期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE36-30SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we36/hol_we36_30sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we36/hol_we36_30sp.png",
+	"tags": null,
+	"expansionId": 383
 }

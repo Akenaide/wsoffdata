@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もうおこプンだよ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードの与えたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋6000。"
 	],
@@ -24,8 +24,9 @@
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W100-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_070.png",
+	"tags": null,
+	"expansionId": 397
 }

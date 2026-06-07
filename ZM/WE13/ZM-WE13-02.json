@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ウィンディ・アイシクル！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_02.png",
+	"tags": null,
+	"expansionId": 77
 }

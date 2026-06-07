@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "（しかし、ノアに飛びつくときのダッシュ、\u003cbr\u003eあれはなかなかのものがあったなぁ）",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《音楽》なら、このカードは次の2つの能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』『【自】 アンコール ［手札のキャラを1枚控え室に置く］』",
-		"【自】 共鳴 ［手札の「Starry Sky 出雲咲姫」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。"
+		"【永】 あなたのキャラすべてが《音楽》なら、このカードは次の2つの能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』『【自】 アンコール ［手札のキャラを1枚控え室に置く］』\u003cbr\u003e【自】 共鳴 ［手札の「Starry Sky 出雲咲姫」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Photon Maiden"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DJ/S97-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_047.png",
+	"tags": null,
+	"expansionId": 423
 }

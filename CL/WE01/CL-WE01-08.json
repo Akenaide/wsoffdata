@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "伝説のヒトデヒートをお見せする機会がついに訪れました！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがこのカードの『助太刀』を使った時、バトルしているキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』",
 		"【起】【カウンター】 助太刀0 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋0）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ヒトデ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE01-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we01/cl_we01_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we01/cl_we01_08.png",
+	"tags": null,
+	"expansionId": 21
 }

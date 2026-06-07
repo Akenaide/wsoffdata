@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "7",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの赤のキャラがいないなら、手札からプレイできない。あなたは自分の手札を3枚選び、控え室に置いてよい。そうしたら、次の行動を3回行う。『相手に2ダメージを与える。』（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IMS/S61-080BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_080bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_080bnp.png",
+	"tags": null,
+	"expansionId": 251
 }

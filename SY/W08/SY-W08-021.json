@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハルヒ「もっとこっちに寄せなさいよ、あたしが濡れるでしょ」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードは、あなたの前列のキャラが3枚以上なら、手札からプレイできない。",
 		"あなたのキャラすべてに、そのターン中、パワーを＋2500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SY/W08-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_021.png",
+	"tags": null,
+	"expansionId": 35
 }

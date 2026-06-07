@@ -10,21 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「クリス」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札の上から6枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの[SOUL]の合計に等しい。（ダメージキャンセルは発生する）",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"このカードは、あなたのカード名に「クリス」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から6枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの[[soul.gif]]の合計に等しい。（ダメージキャンセルは発生する）\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SG/W52-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w52/sg_w52_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w52/sg_w52_078.png",
+	"tags": null,
+	"expansionId": 206
 }

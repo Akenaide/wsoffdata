@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このターン中、あなたが「ラリーの応酬」をプレイしていないなら、あなたの手札の「ラリーの応酬」のコストを－2。",
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ラリーの応酬」を1枚選び、手札に戻す。"
+		"【永】 このターン中、あなたが「ラリーの応酬」をプレイしていないなら、あなたの手札の「ラリーの応酬」のコストを－2。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ラリーの応酬」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-095S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_095s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_095s.png",
+	"tags": null,
+	"expansionId": 548
 }

@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「ACUTE」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「初音ミク“イノセント”」か「巡音ルカ“アムール”」を1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、そのターン中、このカードのパワーを＋2500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_086.png",
+	"tags": null,
+	"expansionId": 93
 }

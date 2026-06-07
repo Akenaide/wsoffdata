@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私以外、誰も乗れないのに……",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_056.png",
+	"tags": null,
+	"expansionId": 49
 }

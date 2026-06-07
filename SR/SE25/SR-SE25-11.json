@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それは僕たちがもらっていく。\u003cbr /\u003eおとなしく、こちらに渡して欲しいな",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
 		"【永】 舞台にこのカードがいるなら、このカードのカード名は「マリオン」としても扱う。"
@@ -25,8 +25,9 @@
 		"武器",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SR/SE25-11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sr_se25/sr_se25_11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sr_se25/sr_se25_11.png",
+	"tags": null,
+	"expansionId": 145
 }

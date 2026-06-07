@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私はラ・ヴァリエール家の長女よ",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのカード名に「ルイズ」を含むキャラすべてに、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_076.png",
+	"tags": null,
+	"expansionId": 3
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―だからどうしたっていうの？　それ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S77-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s77/fs_s77_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s77/fs_s77_054.png",
+	"tags": null,
+	"expansionId": 314
 }

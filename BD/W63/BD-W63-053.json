@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "もしかするとさ、あたしも夢とか目標とか、持てるのかも♪",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードは緑を得る。",
-		"【永】 あなたのターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「“謙虚系アイドル”大和麻弥」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 このカードの下にマーカーがあるなら、このカードは緑を得る。\u003cbr\u003e【永】 あなたのターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「“謙虚系アイドル”大和麻弥」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_053.png",
+	"tags": null,
+	"expansionId": 255
 }

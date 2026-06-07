@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "トイズも持っていないのに、探偵を指揮…？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"警察"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_t04.png",
+	"tags": null,
+	"expansionId": 67
 }

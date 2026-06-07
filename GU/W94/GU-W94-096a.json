@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サ～～・イェッサ～～！",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 集中 このカードは、あなたの青のキャラが3枚以下なら、手札からプレイできない。",
-		"あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋4000し、次の能力を与える。『【永】 このカードの正面のキャラはプレイヤーにダメージを与えることができない。』そうでないなら、このカードを山札の上に置く。"
+		"【カウンター】 集中 このカードは、あなたの青のキャラが3枚以下なら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋4000し、次の能力を与える。『【永】 このカードの正面のキャラはプレイヤーにダメージを与えることができない。』そうでないなら、このカードを山札の上に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GU/W94-096a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_096a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w94/gu_w94_096a.png",
+	"tags": null,
+	"expansionId": 374
 }

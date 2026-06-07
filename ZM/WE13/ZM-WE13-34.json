@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "オストラント号の強みは、水蒸気機関を使っている\u003cbr /\u003eことによる速さだからね。逃げて、逃げて、逃げまくる",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"魔法",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_34.png",
+	"tags": null,
+	"expansionId": 77
 }

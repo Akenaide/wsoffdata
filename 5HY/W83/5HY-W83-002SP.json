@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの《五つ子》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「夜闇に咲く名花」があり、あなたの手札が6枚以下なら、あなたは自分の山札を上から3枚まで見て、《五つ子》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 このカードがアタックした時、他のあなたの《五つ子》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「夜闇に咲く名花」があり、あなたの手札が6枚以下なら、あなたは自分の山札を上から3枚まで見て、《五つ子》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"オシャレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-002SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_002sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_002sp.png",
+	"tags": null,
+	"expansionId": 309
 }

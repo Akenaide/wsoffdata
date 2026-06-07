@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ええと…",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_033.png",
+	"tags": null,
+	"expansionId": 119
 }

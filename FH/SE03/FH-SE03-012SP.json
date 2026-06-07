@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいこと？　キレイなものがこの上なく無様に踊る……\u003cbr /\u003eこれが本当の美しさというものよ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「ステンノ＆エウリュアレ」がいるなら、他のあなたのカード名に「ライダー」を含むキャラすべてに、パワーを＋1000。",
 		"【永】 他のあなたのカード名に「ライダー」を含むキャラすべてに、次の能力を与える。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。このカードはサイドアタックできない。』"
@@ -25,8 +25,9 @@
 		"神",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-012SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_012sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_012sp.png",
+	"tags": null,
+	"expansionId": 33
 }

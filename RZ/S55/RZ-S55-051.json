@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ベティーとお前にどんな関係があるのかしら",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】しているカード名に「ベアトリス」を含むキャラを1枚選び【レスト】する。そうしたら、あなたは自分のレベル2のカード名に「ベアトリス」を含むキャラを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札のカード名に「ベアトリス」を含むキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RZ/S55-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s55/rz_s55_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s55/rz_s55_051.png",
+	"tags": null,
+	"expansionId": 234
 }

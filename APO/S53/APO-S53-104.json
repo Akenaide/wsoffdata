@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "潰しやすいところから潰すのは常道でしょう？",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
-		"【永】 舞台のこのカードのレベルを－1。"
+		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\u003cbr\u003e【永】 舞台のこのカードのレベルを－1。"
 	],
 	"specialAttrib": [
 		"サーヴァント",
 		"霧"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_104.png",
+	"tags": null,
+	"expansionId": 228
 }

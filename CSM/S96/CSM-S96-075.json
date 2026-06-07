@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードを思い出にする。",
-		"【自】 記憶 ［表向きのこのカードを裏向きにする］ 思い出置場にこのカードがあるなら、相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－3。"
+		"このカードを思い出にする。\u003cbr\u003e【自】 記憶 ［表向きのこのカードを裏向きにする］ 思い出置場にこのカードがあるなら、相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－3。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "CSM/S96-075",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_075.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_075.png",
+	"tags": null,
+	"expansionId": 428
 }

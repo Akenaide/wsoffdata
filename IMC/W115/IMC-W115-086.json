@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あっ、はぁとちゃん、すみませんがもう一枚ナナの腰にシップを貼ってくださ…ひゃあぁーんっ！？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、黄のキャラと青のキャラがいるなら、このカードのパワーを＋8000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。"
+		"【永】 あなたのターン中、他のあなたの、黄のキャラと青のキャラがいるなら、このカードのパワーを＋8000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ウサミン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_086.png",
+	"tags": null,
+	"expansionId": 477
 }

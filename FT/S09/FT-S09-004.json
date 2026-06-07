@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いくぞ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「妖精の尻尾じゃああっ!!!!!!」があるなら、あなたは自分の山札を見てカード名に「エルザ」を含むキャラを1枚まで選び、控え室に置く。その山札をシャッフルし、そのターン中、このカードのパワーを＋2500。",
 		"【自】［このカードを控え室に置く］ 相手のドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“炎帝の鎧”エルザ」を1枚選び、このカードがいた枠に置き、そのターン中、そのキャラのパワーを＋2500。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_004.png",
+	"tags": null,
+	"expansionId": 43
 }

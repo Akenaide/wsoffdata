@@ -15,17 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんな見てると思うけど、オタクやってくのって色々大変なんだね。",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「運命との出逢い」があり、他のあなたの《ゲーム》のキャラが2枚以上なら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「運命との出逢い」があり、他のあなたの《ゲーム》のキャラが2枚以上なら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_t04.png",
+	"tags": null,
+	"expansionId": 219
 }

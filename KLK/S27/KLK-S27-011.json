@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "たいしたものはないけど、どんどん食べてちょーだい",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の、《服》か《家族》のキャラを1枚選び、そのターン中、ソウルを＋1し、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
 	],
@@ -24,8 +24,9 @@
 		"家族",
 		"コロッケ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_011.png",
+	"tags": null,
+	"expansionId": 117
 }

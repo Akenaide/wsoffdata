@@ -15,19 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】このカードは、色条件を満たさずに手札からプレイできる。",
-		"【永】あなたのターン中、このカードのパワーを＋10000。"
+		"【永】このカードは、色条件を満たさずに手札からプレイできる。\u003cbr\u003e【永】あなたのターン中、このカードのパワーを＋10000。"
 	],
 	"specialAttrib": [
 		"五つ子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W90-P12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w90/5hy_w90_p12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w90/5hy_w90_p12.png",
+	"tags": null,
+	"expansionId": 12
 }

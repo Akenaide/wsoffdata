@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "五円でも優しさがこもっていれば\u003cbr /\u003eそれはとってもプライスレス！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"お菓子",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_101.png",
+	"tags": null,
+	"expansionId": 66
 }

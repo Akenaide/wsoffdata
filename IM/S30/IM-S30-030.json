@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサーさんも、ごいっしょにいかがですか？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《愛》か《占い》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。"
+		"【永】 他のあなたの、《愛》か《占い》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_030.png",
+	"tags": null,
+	"expansionId": 129
 }

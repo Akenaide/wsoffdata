@@ -15,20 +15,20 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "みなさん、私達のパレードを観に来てくれて、ありがとうございます。",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。",
-		"【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。\u003cbr\u003e【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"手品"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-117BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_117bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_117bnp.png",
+	"tags": null,
+	"expansionId": 392
 }

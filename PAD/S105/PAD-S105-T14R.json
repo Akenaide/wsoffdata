@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋4500。"
 	],
@@ -24,8 +24,9 @@
 		"攻撃",
 		"ドラゴン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PAD/S105-T14R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t14r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_t14r.png",
+	"tags": null,
+	"expansionId": 425
 }

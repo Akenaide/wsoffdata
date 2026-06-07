@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "エネルギーをプロテクターとして固着させる機能が損なわれている状態です",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
 	"specialAttrib": [
 		"オペレーター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_089.png",
+	"tags": null,
+	"expansionId": 154
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "甘えていいぞ～？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"格闘",
 		"シスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_057.png",
+	"tags": null,
+	"expansionId": 200
 }

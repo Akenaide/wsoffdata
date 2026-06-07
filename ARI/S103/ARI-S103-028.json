@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "露出プレイとは…ナイスプレイ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"トータス",
 		"竜人族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_028.png",
+	"tags": null,
+	"expansionId": 414
 }

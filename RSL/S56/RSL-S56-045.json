@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "キリン「これこそ私が観たかった舞台……！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《レヴュー》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 アンコール ［手札の《レヴュー》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 他のあなたの《レヴュー》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 アンコール ［手札の《レヴュー》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_045.png",
+	"tags": null,
+	"expansionId": 250
 }

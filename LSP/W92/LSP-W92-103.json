@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたし、かのんちゃんのできないことをできるようになる",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場にカードがあるなら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSP/W92-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lsp_w92/lsp_w92_103.png",
+	"tags": null,
+	"expansionId": 368
 }

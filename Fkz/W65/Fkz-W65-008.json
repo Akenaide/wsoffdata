@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ずっとあなたのそばにいるよ\u003cbr\u003e死んだらね",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
 	],
@@ -25,8 +25,9 @@
 		"武器",
 		"魔装少女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fkz/W65-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fkz_w65/fkz_w65_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fkz_w65/fkz_w65_008.png",
+	"tags": null,
+	"expansionId": 264
 }

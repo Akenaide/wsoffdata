@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "黙って",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】【CXコンボ】 あなたのクライマックス置場に「弓に託した信念」が置かれた時、前列にこのカードがいるなら、あなたのキャラすべてに、そのターン中、ソウルを＋1。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+		"【自】【CXコンボ】 あなたのクライマックス置場に「弓に託した信念」が置かれた時、前列にこのカードがいるなら、あなたのキャラすべてに、そのターン中、ソウルを＋1。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_006.png",
+	"tags": null,
+	"expansionId": 260
 }

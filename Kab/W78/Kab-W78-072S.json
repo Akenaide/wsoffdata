@@ -15,23 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "一体、あたしのどこに惹かれたのかしら",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《死》のキャラすべてに、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《Anniversary》か《死》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは国内流通版のみの収録になります。\u003c/font\u003e"
+		"【永】 他のあなたの、《Anniversary》か《死》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置き、残りのカードを山札の上に好きな順番で置く。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《Anniversary》か《死》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは国内流通版のみの収録になります。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"死",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kab/W78-072S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kab_w78/kab_w78_072s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kab_w78/kab_w78_072s.png",
+	"tags": null,
+	"expansionId": 296
 }

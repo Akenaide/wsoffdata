@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のアタックフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、次の行動を行う。『あなたは自分の控え室の、《Mirrorverse》か《PIXAR》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
+		"【自】 相手のアタックフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、次の行動を行う。『あなたは自分の控え室の、《Mirrorverse》か《PIXAR》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
 	],
 	"specialAttrib": [
 		"Mirrorverse",
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRp/S111-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrp_S111_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrp_s111_091.png",
+	"tags": null,
+	"expansionId": 471
 }

@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "構わない、俺を喰え！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の《軍隊》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GG/S23-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_047.png",
+	"tags": null,
+	"expansionId": 101
 }

@@ -10,20 +10,21 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フェイト「強くなろう…」\u003cbr /\u003eなのは「悲しい事を、見過ごさずに済むように！」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。",
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "N2/W25-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_052.png",
+	"tags": null,
+	"expansionId": 94
 }

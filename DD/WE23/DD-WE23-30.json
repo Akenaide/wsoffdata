@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "姫様の歌が必要なんだ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-		"【自】［(4) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「英雄モード」があるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを山札の上に置き、このカードを【スタンド】する。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\u003cbr/\u003e【自】［(4) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「英雄モード」があるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを山札の上に置き、このカードを【スタンド】する。"
 	],
 	"specialAttrib": [
 		"勇者",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE23-30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we23/dd_we23_30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we23/dd_we23_30.png",
+	"tags": null,
+	"expansionId": 153
 }

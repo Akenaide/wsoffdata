@@ -10,21 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "虹夏「ぼっちちゃん、顔やばいって！」",
+	"trigger": null,
 	"ability": [
-		"相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストック置場に置く。",
-		"あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋4000。",
-		"このカードを思い出にする。"
+		"相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストック置場に置く。\u003cbr\u003eあなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋4000。\u003cbr\u003eこのカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BTR/W107-096a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_096a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/btr_w107/btr_w107_096a.png",
+	"tags": null,
+	"expansionId": 444
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そ、その……",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1) このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_078.png",
+	"tags": null,
+	"expansionId": 60
 }

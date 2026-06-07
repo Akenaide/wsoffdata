@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "はい、これ。　今日だけじゃなく、日頃の感謝も込めて。\u003cbr /\u003e受け取ってもらえる？",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_080.png",
+	"tags": null,
+	"expansionId": 144
 }

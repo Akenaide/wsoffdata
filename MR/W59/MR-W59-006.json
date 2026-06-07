@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "気合はいつだって十分！この由比鶴乃に任せてっての！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"アビリティ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_006.png",
+	"tags": null,
+	"expansionId": 232
 }

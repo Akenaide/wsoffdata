@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すももとあたしの仲に割って入ろうだなんて百万年早いわ",
+	"trigger": null,
 	"ability": [
 		"【永】他のあなたの、《新聞》か《愛》のキャラが3枚以上なら、このカードのパワーを＋1500し、このカードは『【自】アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W46-P04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w46/dc3_w46_p04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w46/dc3_w46_p04.png",
+	"tags": null,
+	"expansionId": 12
 }

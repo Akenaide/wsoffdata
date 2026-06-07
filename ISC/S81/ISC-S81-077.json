@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マジックアワー。遊ぼう太陽がリボン色になるまで",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいないなら、このカードを控え室に置く。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラがいないなら、このカードを控え室に置く。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"アルストロメリア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_077.png",
+	"tags": null,
+	"expansionId": 332
 }

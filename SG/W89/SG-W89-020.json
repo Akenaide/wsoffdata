@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、あなたのクロックフェイズであなたがカードを引いていたなら、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W89-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w89/sg_w89_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w89/sg_w89_020.png",
+	"tags": null,
+	"expansionId": 343
 }

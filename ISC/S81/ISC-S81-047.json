@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "マジックアワー。跣に痛いくらいの熱",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 他のあなたの《音楽》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）"
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 他のあなたの《音楽》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ノクチル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_047.png",
+	"tags": null,
+	"expansionId": 332
 }

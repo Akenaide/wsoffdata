@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "実は、そろそろ禁断症状が出そうなほど\u003cbr /\u003e体が“あれ”を求めていたところだ",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P4/SE15-25",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se15/p4_se15_25.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se15/p4_se15_25.png",
+	"tags": null,
+	"expansionId": 91
 }

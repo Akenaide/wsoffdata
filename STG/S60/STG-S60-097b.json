@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "倫太郎「それから俺はまゆりを助けるために何度もタイムリープをした…」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のカード名に「まゆり」を含むキャラを1枚選び、控え室に置く。そうしたら、あなたは自分のクロックの上から1枚を、手札に戻し、このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "STG/S60-097b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_097b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_097b.png",
+	"tags": null,
+	"expansionId": 243
 }

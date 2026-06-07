@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なのは「いい子にしてた？」\u003cbr /\u003eヴィヴィオ「……うん……」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「ママと約束ね」があるなら、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"オッドアイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_066.png",
+	"tags": null,
+	"expansionId": 6
 }

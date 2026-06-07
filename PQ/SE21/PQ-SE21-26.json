@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "テオドアと申します。\u003cbr /\u003eいつも姉エリザベスがお世話になっております",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1) このカードを【レスト】する］ あなたは他の自分のキャラを1枚選び、控え室に置く。そうしたら、あなたは自分の山札を見てそのキャラと同じ特徴を1つ以上持つキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"鍛冶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PQ/SE21-26",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pq_se21/pq_se21_26.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pq_se21/pq_se21_26.png",
+	"tags": null,
+	"expansionId": 125
 }

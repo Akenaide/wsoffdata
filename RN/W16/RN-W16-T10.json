@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "三流ロボ部に入るつもりなんてありません",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-T10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_t10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_t10.png",
+	"tags": null,
+	"expansionId": 66
 }

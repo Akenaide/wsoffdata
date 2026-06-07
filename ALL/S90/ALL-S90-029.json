@@ -10,22 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "高嶺「かしてごらんなさい」",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の《リリィ》のキャラを2枚まで選び、そのターン中、パワーを＋1500。",
-		"共鳴 あなたは自分の手札の「“その笑顔を守るために”叶星」と「“グラン・エプレの必勝戦術”高嶺」を1枚ずつ公開してよい。1枚ずつ公開したなら、あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"このカードを思い出にする。",
-		"【永】 記憶 あなたのターン中、思い出置場にこのカードがあるなら、あなたの《リリィ》のキャラすべてに、パワーを＋500。"
+		"あなたは自分の《リリィ》のキャラを2枚まで選び、そのターン中、パワーを＋1500。\u003cbr\u003e共鳴 あなたは自分の手札の「“その笑顔を守るために”叶星」と「“グラン・エプレの必勝戦術”高嶺」を1枚ずつ公開してよい。1枚ずつ公開したなら、あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003eこのカードを思い出にする。\u003cbr\u003e【永】 記憶 あなたのターン中、思い出置場にこのカードがあるなら、あなたの《リリィ》のキャラすべてに、パワーを＋500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ALL/S90-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_029.png",
+	"tags": null,
+	"expansionId": 371
 }

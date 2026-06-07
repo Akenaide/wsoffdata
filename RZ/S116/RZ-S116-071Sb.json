@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "君の応報は……ようやく果たされる",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置き、相手の山札を上から2枚まで見て、山札の上に元の順番で置き、自分の控え室のキャラを1枚まで選び、手札に戻す。",
-		"このカードを思い出にする。"
+		"あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置き、相手の山札を上から2枚まで見て、山札の上に元の順番で置き、自分の控え室のキャラを1枚まで選び、手札に戻す。\u003cbr\u003eこのカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RZ/S116-071Sb",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s116/rz_s116_071sb.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s116/rz_s116_071sb.png",
+	"tags": null,
+	"expansionId": 492
 }

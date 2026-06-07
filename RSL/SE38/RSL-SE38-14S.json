@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"レヴュー",
 		"シークフェルト音楽学院"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/SE38-14S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_se38/rsl_se38_14s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_se38/rsl_se38_14s.png",
+	"tags": null,
+	"expansionId": 384
 }

@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の【スタンド】しているキャラを1枚選び、【レスト】する。"
 	],
 	"specialAttrib": [
 		"霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KR/SE30-36d",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kr_se30/kr_se30_36d.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kr_se30/kr_se30_36d.png",
+	"tags": null,
+	"expansionId": 172
 }

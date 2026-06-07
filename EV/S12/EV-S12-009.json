@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はじめまして。お父さん",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《謎》のキャラすべてに、パワーを＋500。",
 		"【起】［(1) このカードを【レスト】する］ あなたは自分の《謎》のキャラを1枚選び、そのターン中、ソウルを＋1。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_009.png",
+	"tags": null,
+	"expansionId": 49
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ブレッシング！",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードに「“街を歩けば”アクシズ教徒」があるなら、あなたは自分の控え室の、《女神》か《アクシズ教徒》のキャラを1枚選び、手札に戻す。"
+		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードに「“街を歩けば”アクシズ教徒」があるなら、あなたは自分の控え室の、《女神》か《アクシズ教徒》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_083.png",
+	"tags": null,
+	"expansionId": 214
 }

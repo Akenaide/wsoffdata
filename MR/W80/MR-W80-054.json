@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なくなって困るものなら焼失するような素材に\u003cbr\u003e書き留めるほうが悪いんじゃないかにゃー？",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[TREASURE]なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[[treasure.gif]]なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"天才"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W80-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w80/mr_w80_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w80/mr_w80_054.png",
+	"tags": null,
+	"expansionId": 301
 }

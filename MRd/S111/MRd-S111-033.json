@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋7000。"
 	],
@@ -24,8 +24,9 @@
 		"Mirrorverse",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRd/S111-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_S111_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrd_s111_033.png",
+	"tags": null,
+	"expansionId": 471
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヴェルフと合流したら渡して欲しい物があるの",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
-		"【起】［(1) このカードを思い出にする］ あなたは自分の控え室の「呪われた一族 ヴェルフ」を1枚選び、手札に戻す。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\u003cbr\u003e【起】［(1) このカードを思い出にする］ あなたは自分の控え室の「呪われた一族 ヴェルフ」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ファミリア",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDM/S88-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddm_s88/ddm_s88_056.png",
+	"tags": null,
+	"expansionId": 367
 }

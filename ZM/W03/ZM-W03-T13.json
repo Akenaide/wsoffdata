@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "隊長、陛下です！",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚を、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－6000。",
 		"【起】［(1) このカードを控え室に置く］ あなたは自分のクロックすべてを、クロック置場に好きな順番で置く。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_t13.png",
+	"tags": null,
+	"expansionId": 8
 }

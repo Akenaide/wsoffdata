@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "理樹はなかなか役に立つな",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「あたしたちが付き合おう」があるなら、あなたは自分の山札を見てレベル2以上のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE18-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we18/lb_we18_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we18/lb_we18_03.png",
+	"tags": null,
+	"expansionId": 116
 }

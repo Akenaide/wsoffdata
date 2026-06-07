@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "鉄血軽巡洋艦のマクデブルクだ！お近づきのしるしに拳でも合わせようか！",
+	"trigger": null,
 	"ability": [
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【起】［このカードを控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"鉄血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_077.png",
+	"tags": null,
+	"expansionId": 499
 }

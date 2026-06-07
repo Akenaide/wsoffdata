@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "以上。Ｋ？",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「料理が得意 ニコ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「料理が得意 ニコ」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_069.png",
+	"tags": null,
+	"expansionId": 85
 }

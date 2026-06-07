@@ -15,22 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードは相手の効果に選ばれない。",
-		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。",
-		"【起】［手札の、《Anniversary》か《能力者》のキャラを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+		"【永】 このカードは相手の効果に選ばれない。\u003cbr\u003e【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。\u003cbr\u003e【起】［手札の、《Anniversary》か《能力者》のキャラを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kch/W78-012S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kch_w78/kch_w78_012s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kch_w78/kch_w78_012s.png",
+	"tags": null,
+	"expansionId": 296
 }

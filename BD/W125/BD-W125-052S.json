@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ラッキ～、これは10万20万いくな～",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのアタックフェイズの始めに、あなたは自分の《音楽》のキャラを2枚まで選び、そのターン中、パワーを＋1000。",
-		"【起】［(1) このカードを【レスト】する］ あなたのレベルが2以上なら、あなたは自分の控え室の「哀れな人形 アモーリス」を1枚とこのカードを選び、入れ替える。"
+		"【自】 あなたのアタックフェイズの始めに、あなたは自分の《音楽》のキャラを2枚まで選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】［(1) このカードを【レスト】する］ あなたのレベルが2以上なら、あなたは自分の控え室の「哀れな人形 アモーリス」を1枚とこのカードを選び、入れ替える。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Ave Mujica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W125-052S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_052s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w125/bd_w125_052s.png",
+	"tags": null,
+	"expansionId": 506
 }

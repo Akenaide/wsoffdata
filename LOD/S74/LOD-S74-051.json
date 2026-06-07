@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "弓の腕は未熟ですが、陣地や集落を守るのは得意です。\u003cbr\u003e隕石くらいまでなら一人でなんとかできると思います",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_051.png",
+	"tags": null,
+	"expansionId": 297
 }

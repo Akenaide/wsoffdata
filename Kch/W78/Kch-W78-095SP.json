@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「奇跡の歌」があり、他のあなたの、《Anniversary》か《能力者》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、《Anniversary》か《能力者》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -25,8 +25,9 @@
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kch/W78-095SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kch_w78/kch_w78_095sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kch_w78/kch_w78_095sp.png",
+	"tags": null,
+	"expansionId": 296
 }

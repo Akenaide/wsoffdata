@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は、本に囲まれて暮らしてたな。 物心ついたときには……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《本》のキャラ1枚につき、このカードのパワーを+500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-107",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_107.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_107.png",
+	"tags": null,
+	"expansionId": 13
 }

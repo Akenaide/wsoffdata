@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サイト「あの、姫様……俺達、来てよかったんですか？」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのレベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_t01.png",
+	"tags": null,
+	"expansionId": 66
 }

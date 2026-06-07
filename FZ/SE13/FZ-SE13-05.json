@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
 		"【自】 チェンジ ［(3) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「冷酷非情の猟犬 切嗣」を1枚選び、このカードがいた枠に置く。"
@@ -25,8 +25,9 @@
 		"マスター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/SE13-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_se13/fz_se13_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_se13/fz_se13_05.png",
+	"tags": null,
+	"expansionId": 73
 }

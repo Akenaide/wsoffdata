@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "爪熊だとこれ以上はあがらないな",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。",
-		"【永】 他のあなたの《トータス》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見てよい。そうしたら、あなたはそのカードをこのカードの下にマーカーとして裏向きに置く。"
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【永】 他のあなたの《トータス》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を上から1枚見てよい。そうしたら、あなたはそのカードをこのカードの下にマーカーとして裏向きに置く。"
 	],
 	"specialAttrib": [
 		"トータス",
 		"クラスメイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_059.png",
+	"tags": null,
+	"expansionId": 414
 }

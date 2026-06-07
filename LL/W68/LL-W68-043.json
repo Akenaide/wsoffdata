@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "空が青いのは、空が海に恋してるからだって聞いたことがあるの。なんだかロマンチックだよね♪",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「花陽」か「穂乃果」か「ことり」を含むキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 経験 ［(1)］ このカードがアタックした時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【永】 他のあなたのカード名に「花陽」か「穂乃果」か「ことり」を含むキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 経験 ［(1)］ このカードがアタックした時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"空"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_043.png",
+	"tags": null,
+	"expansionId": 272
 }

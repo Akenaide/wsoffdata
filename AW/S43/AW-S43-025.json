@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ええい何を手間取っているのです！",
+	"trigger": null,
 	"ability": [
 		"あなたは相手の前列のレベル3以下のキャラを1枚まで選び、手札に戻し、相手にＸダメージを与える。Ｘはそのキャラのソウルに等しい。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "AW/S43-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_025.png",
+	"tags": null,
+	"expansionId": 176
 }

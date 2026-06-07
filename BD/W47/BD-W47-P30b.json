@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 あなたのクロックが3枚以上なら、このカードのパワーを＋1000。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 あなたのクロックが3枚以上なら、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-P30b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_p30b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_p30b.png",
+	"tags": null,
+	"expansionId": 12
 }

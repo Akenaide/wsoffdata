@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "整合騎士とてお腹は空くし食事を摂らねば天命が損耗します！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《フラクトライト》のキャラの枚数×1000に等しい。",
-		"【起】［このカードを控え室に置く］ あなたは自分の《フラクトライト》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《フラクトライト》のキャラの枚数×1000に等しい。\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは自分の《フラクトライト》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"整合騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_101.png",
+	"tags": null,
+	"expansionId": 318
 }

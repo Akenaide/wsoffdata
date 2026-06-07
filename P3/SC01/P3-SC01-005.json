@@ -15,20 +15,20 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "だから全力を尽くして戦います。復讐じゃなくて、生きる為に",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがプレイされて舞台に置かれた時、そのターン中、このカードのソウルを＋1。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「復讐の終わり」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+		"【自】 このカードがプレイされて舞台に置かれた時、そのターン中、このカードのソウルを＋1。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「復讐の終わり」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_005.png",
+	"tags": null,
+	"expansionId": 340
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "経費……\u003cbr\u003e削減……\u003cbr\u003e廃部……\u003cbr\u003e根絶……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「猫耳メイド 天愛星」がいるなら、このカードのパワーを＋5000。",
-		"【永】 他のあなたの「猫耳メイド 天愛星」すべてに、パワーを＋2000。"
+		"【永】 他のあなたの「猫耳メイド 天愛星」がいるなら、このカードのパワーを＋5000。\u003cbr\u003e【永】 他のあなたの「猫耳メイド 天愛星」すべてに、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"青春",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_097.png",
+	"tags": null,
+	"expansionId": 520
 }

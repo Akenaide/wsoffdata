@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "F.I.S.なんて事を……",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"オペレーター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W27-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w27/sg_w27_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w27/sg_w27_091.png",
+	"tags": null,
+	"expansionId": 107
 }

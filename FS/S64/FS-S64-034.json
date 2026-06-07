@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…！",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】 絆／「ケガの具合 士郎」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ケガの具合 士郎」を1枚選び、手札に戻す）"
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】 絆／「ケガの具合 士郎」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ケガの具合 士郎」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"マスター",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_034.png",
+	"tags": null,
+	"expansionId": 262
 }

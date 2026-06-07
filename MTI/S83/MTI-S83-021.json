@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺は精一杯、新しい世界で出来た友達を、大切にすればいいのだ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《六面世界》のキャラすべてに、パワーを＋500。",
-		"【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 他のあなたの《六面世界》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"魔術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_021.png",
+	"tags": null,
+	"expansionId": 346
 }

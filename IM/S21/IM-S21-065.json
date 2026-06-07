@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "夏の太陽の眩しさは、\u003cbr /\u003eいつもより心を開放的にさせてくれます",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"音楽",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_065.png",
+	"tags": null,
+	"expansionId": 80
 }

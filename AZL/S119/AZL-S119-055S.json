@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私のカブキ踊りを見たい？お前、いいセンスをしているな",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《艦船》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 他のあなたの《艦船》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"重桜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-055S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_055s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_055s.png",
+	"tags": null,
+	"expansionId": 499
 }

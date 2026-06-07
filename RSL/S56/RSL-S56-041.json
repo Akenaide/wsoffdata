@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大丈夫！……",
+	"trigger": null,
 	"ability": [
 		"【自】［(2) 手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《レヴュー》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、そのターン中、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"レヴュー",
 		"髪留め"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_041.png",
+	"tags": null,
+	"expansionId": 250
 }

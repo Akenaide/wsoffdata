@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シャロ「必ず捕まえてみせます！」\u003cbr /\u003e小衣「覚悟よ、アルセーヌ！」",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのキャラのトリガーチェックで「怪盗を追う二人 シャロ＆小衣」がでた時、そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、あなたはこのカードのバトル相手を【リバース】してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"警察"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_p03.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "少しばかり腕自慢のな",
+	"trigger": null,
 	"ability": [
 		"【自】 記憶 このカードのバトル相手が【リバース】した時、あなたの思い出置場に「“追憶”フィー」があるなら、あなたはそのバトル相手を山札の上に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"鍛冶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE23-35",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we23/dd_we23_35.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we23/dd_we23_35.png",
+	"tags": null,
+	"expansionId": 153
 }

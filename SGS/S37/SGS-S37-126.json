@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "隊長さまのおかげです",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。",
-		"【自】 他のあなたの青のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。\u003cbr\u003e【自】 他のあなたの青のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ストライカー",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-126",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_126.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_126.png",
+	"tags": null,
+	"expansionId": 162
 }

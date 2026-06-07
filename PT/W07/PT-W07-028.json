@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私欲のままに組織を惑わした裏切り者を……この私が処分いたしました",
+	"trigger": null,
 	"ability": [
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
 		"【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
@@ -25,8 +25,9 @@
 		"暗黒街",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_028.png",
+	"tags": null,
+	"expansionId": 32
 }

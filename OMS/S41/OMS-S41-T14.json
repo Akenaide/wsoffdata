@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヨイショー！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のカード名に「松」を含むキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"６つ子",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_t14.png",
+	"tags": null,
+	"expansionId": 161
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この人たちはね、まだあんまり有名じゃないんだけど、私的には次のロックを担う…なに？ボロが出る！？出ないよ失礼な！！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋3000。"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ロック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_106.png",
+	"tags": null,
+	"expansionId": 477
 }

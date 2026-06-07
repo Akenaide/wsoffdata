@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゲームオーバーです、有田先輩…、いえ、《シルバー・クロウ》",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの、《アバター》か《ネット》のキャラを2枚【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
 	],
@@ -24,8 +24,9 @@
 		"スポーツ",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_039.png",
+	"tags": null,
+	"expansionId": 85
 }

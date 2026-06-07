@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Photon Maiden"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DJ/S97-T35R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_t35r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_t35r.png",
+	"tags": null,
+	"expansionId": 417
 }

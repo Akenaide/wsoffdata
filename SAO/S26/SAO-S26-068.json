@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "偽物なんです、全部……この涙も……。ごめんなさい",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【自】［(1) あなたの【スタンド】しているキャラを2枚【レスト】する］ あなたが『加速』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S26-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s26/sao_s26_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s26/sao_s26_068.png",
+	"tags": null,
+	"expansionId": 115
 }

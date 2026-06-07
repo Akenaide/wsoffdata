@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"ヌイグルミ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-029S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_029s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_029s.png",
+	"tags": null,
+	"expansionId": 548
 }

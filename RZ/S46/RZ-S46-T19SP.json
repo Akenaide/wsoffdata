@@ -15,20 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】 あなたのクライマックス置場に「微精霊との対話」が置かれた時、前列にこのカードがいて、あなたのキャラすべてが《魔法》か《武器》なら、あなたは自分の山札を見て《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、次の相手のターンの終わりまで、このカードのパワーを＋2500。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】 あなたのクライマックス置場に「微精霊との対話」が置かれた時、前列にこのカードがいて、あなたのキャラすべてが《魔法》か《武器》なら、あなたは自分の山札を見て《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、次の相手のターンの終わりまで、このカードのパワーを＋2500。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S46-T19SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s46/rz_s46_t19sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s46/rz_s46_t19sp.png",
+	"tags": null,
+	"expansionId": 161
 }

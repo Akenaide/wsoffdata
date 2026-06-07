@@ -1,6 +1,6 @@
 {
 	"set": "KGL",
-	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"setName": "かぐや様は告らせたい？\u003cs\u003e～天才たちの恋愛頭脳戦～\u003c/s\u003e",
 	"side": "S",
 	"release": "95",
 	"id": "093",
@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "主人が男に染まって変な性癖を持ってしまった",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"秀知院",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S95-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s95/kgl_s95_093.png",
+	"tags": null,
+	"expansionId": 394
 }

@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "政宗「来い、真田幸村！　アンタを倒して俺が勝つ！」\u003cbr /\u003e幸村「ならばこの幸村、貴様という壁を超える！　今ここに、命を賭して！」",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"武器",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_102.png",
+	"tags": null,
+	"expansionId": 26
 }

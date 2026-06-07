@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "…どう、似合う？　眼鏡は普段かけないし、自分では印象がよくわからないのだけど",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの青のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを－1500。",
-		"【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
+		"【永】 あなたの青のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを－1500。\u003cbr\u003e【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
 	],
 	"specialAttrib": [
 		"ガール",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-116",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_116.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_116.png",
+	"tags": null,
+	"expansionId": 131
 }

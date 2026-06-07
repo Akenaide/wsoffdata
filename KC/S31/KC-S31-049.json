@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大丈夫、私に任せて。",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「千歳型水上機母艦2番艦 千代田甲」すべてに、パワーを＋1000。",
 		"【自】［手札の《艦娘》のキャラを1枚控え室に置き、あなたの舞台の「千歳型水上機母艦2番艦 千代田甲」を1枚とこのカードをクロック置場に置く］ あなたのクライマックス置場に「水上爆撃機隊、行っけえー！」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「千歳型軽空母1番艦 千歳航」を1枚までと「千歳型軽空母2番艦 千代田航」を1枚まで選び、舞台の別々の枠に置く。"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"水上機母艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_049.png",
+	"tags": null,
+	"expansionId": 130
 }

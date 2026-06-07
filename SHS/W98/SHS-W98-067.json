@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "もうちょっと、ヒロインに寄り添って欲しいよね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《ゲーム》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「縮まるキミとの距離」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から5枚まで見て、カードを5枚まで選び、控え室に置き、残りのカードを山札に戻し、相手はその山札をシャッフルする。"
+		"【永】 他のあなたの《ゲーム》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「縮まるキミとの距離」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から5枚まで見て、カードを5枚まで選び、控え室に置き、残りのカードを山札に戻し、相手はその山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_067.png",
+	"tags": null,
+	"expansionId": 391
 }

@@ -15,20 +15,19 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたの手札が6枚以下なら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 あなたの控え室のCXが2枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたの手札が6枚以下なら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S113-082SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_082sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s113/mar_s113_082sp.png",
+	"tags": null,
+	"expansionId": 484
 }

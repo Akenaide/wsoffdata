@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分のカード名に「テント」を含むキャラを1枚選び、自分の控え室の「のんびりソロキャンパー リン」を1枚まで選び、そのキャラの下にマーカーとして表向きに置き、自分の控え室の《ゆるキャン△》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ゆるキャン△",
 		"バイク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YRC/W116-071S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_071s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yrc_w116/yrc_w116_071s.png",
+	"tags": null,
+	"expansionId": 490
 }

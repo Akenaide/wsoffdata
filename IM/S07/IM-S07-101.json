@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "次は、あなたがいいかな？\u003cbr /\u003eさあ、来て！私たちの舞台へ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、 あなたは自分の山札を見て《音楽》のキャラを1枚まで選び、控え室に置く。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_101.png",
+	"tags": null,
+	"expansionId": 26
 }

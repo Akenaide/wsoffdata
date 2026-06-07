@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "かたじけない、主君！……これなら……あと一撃で……！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
 		"【起】［あなたのキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
@@ -25,8 +25,9 @@
 		"武器",
 		"忍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_02.png",
+	"tags": null,
+	"expansionId": 118
 }

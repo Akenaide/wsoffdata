@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "びしゃもんてんのかごぞある！",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ 他のあなたの《忍》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"薔薇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/SE05-40",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_se05/sb_se05_40.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_se05/sb_se05_40.png",
+	"tags": null,
+	"expansionId": 47
 }

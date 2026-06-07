@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "遠慮するな。刀のことなら、\u003cbr /\u003eいくらでもつきあってやるぞ",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"魔法",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W23-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w23/dc3_w23_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w23/dc3_w23_022.png",
+	"tags": null,
+	"expansionId": 90
 }

@@ -15,7 +15,7 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -24,11 +24,11 @@
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー"
+		"バーチャル・シンガー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S125-036SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_036sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s125/pjs_s125_036sp.png",
+	"tags": null,
+	"expansionId": 536
 }

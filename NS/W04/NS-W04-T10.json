@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "防御ごと潰す打撃は、あたしの専門分野だからな",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-T10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_t10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_t10.png",
+	"tags": null,
+	"expansionId": 8
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "天使イジメは、この愛の堕天使\u003cbr /\u003eフロンが許しませんよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《悪魔》か《天使》のキャラが2枚以上なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"天使",
 		"悪魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_08.png",
+	"tags": null,
+	"expansionId": 102
 }

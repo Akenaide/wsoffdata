@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今回のレースだが……ふわっと走れ",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードを思い出にし、次の行動を行う。『あなたのクロックが5枚以下なら、あなたは自分のクロックの上から1枚までを、控え室に置く。あなたのクロックが6枚なら、あなたは自分のクロックの上から2枚までを、控え室に置く。』",
-		"【自】 経験 レベル置場にこのカードがあるなら、あなたのアタックフェイズの始めに、あなたは自分の前列の中央の枠の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【カウンター】 このカードを思い出にし、次の行動を行う。『あなたのクロックが5枚以下なら、あなたは自分のクロックの上から1枚までを、控え室に置く。あなたのクロックが6枚なら、あなたは自分のクロックの上から2枚までを、控え室に置く。』\u003cbr\u003e【自】 経験 レベル置場にこのカードがあるなら、あなたのアタックフェイズの始めに、あなたは自分の前列の中央の枠の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "UMA/W134-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w134/uma_w134_096.png",
+	"tags": null,
+	"expansionId": 540
 }

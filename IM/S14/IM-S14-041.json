@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっと、プロデューサー。\u003cbr /\u003e私まで、ステージに上げるつもりですか？",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_041.png",
+	"tags": null,
+	"expansionId": 64
 }

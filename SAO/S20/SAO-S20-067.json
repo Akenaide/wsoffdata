@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まあ、変だけど悪い人じゃないわね。\u003cbr /\u003e応援するからさ、頑張りなよ",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(2) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「前向きな笑顔 リズベット」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_067.png",
+	"tags": null,
+	"expansionId": 92
 }

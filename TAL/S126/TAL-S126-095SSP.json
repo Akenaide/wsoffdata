@@ -15,7 +15,7 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"冒険",
 		"ヴェスペリア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-095SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_095ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_095ssp.png",
+	"tags": null,
+	"expansionId": 538
 }

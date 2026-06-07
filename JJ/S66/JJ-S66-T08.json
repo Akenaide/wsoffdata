@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ジョルノ「うおぉおおおお」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "JJ/S66-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_s66/jj_s66_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_s66/jj_s66_t08.png",
+	"tags": null,
+	"expansionId": 265
 }

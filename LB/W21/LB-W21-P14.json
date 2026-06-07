@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "恭介「鈴は完全に魔球を会得したようだな」",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの、《動物》か《スポーツ》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-P14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_p14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_p14.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なにを人の名前で迷子の呼び出しなんぞ流してくれとるかぁ、このおバカ～！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「タペストリ？ 優木苗」すべてに、パワーを＋1500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_034.png",
+	"tags": null,
+	"expansionId": 131
 }

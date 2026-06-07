@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私は、フィリップ・ボレアス・グレイラット。この町の町長だ。パウロとは従兄弟にあたるのかな",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ボレアス家の獣人メイド」を3枚まで選び、このカードの下にマーカーとして裏向きに置く。"
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「ボレアス家の獣人メイド」を3枚まで選び、このカードの下にマーカーとして裏向きに置く。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"貴族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_065.png",
+	"tags": null,
+	"expansionId": 346
 }

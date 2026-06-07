@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ようこそ、『死んでたまるか戦線』へ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《死》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_060.png",
+	"tags": null,
+	"expansionId": 119
 }

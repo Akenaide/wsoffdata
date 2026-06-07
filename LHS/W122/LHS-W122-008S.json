@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがカード名に「花帆」を含むキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。カード名に「梢」を含むキャラなら、あなたはこのカードを手札に戻してよい。カード名に「吟子」を含むキャラなら、あなたはこのカードをストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"スリーズブーケ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LHS/W122-008S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_008s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lhs_w122/lhs_w122_008s.png",
+	"tags": null,
+	"expansionId": 502
 }

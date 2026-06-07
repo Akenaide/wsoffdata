@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "有馬かな「あらあら関連検索に『かわいい』までつけて……そんなにかわいいって言われたかった？」",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードのレベルを＋1し、パワーを＋3500。",
-		"【自】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのキャラすべてが《芸能界》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+		"【永】 このカードの正面のキャラのコストが0以下なら、このカードのレベルを＋1し、パワーを＋3500。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのキャラすべてが《芸能界》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"芸能界",
 		"アイドル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OSK/S107-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/osk_s107/osk_s107_080.png",
+	"tags": null,
+	"expansionId": 454
 }

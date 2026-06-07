@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "任務や…！",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場の《タロット》のキャラが2枚以上なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"タロット",
 		"商人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_017.png",
+	"tags": null,
+	"expansionId": 106
 }

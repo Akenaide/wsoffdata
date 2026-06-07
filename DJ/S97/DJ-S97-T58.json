@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。このカードは、色条件を満たさずに手札からプレイできる。",
-		"あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。このカードは、色条件を満たさずに手札からプレイできる。\u003cbr\u003eあなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DJ/S97-T58",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_t58.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_t58.png",
+	"tags": null,
+	"expansionId": 418
 }

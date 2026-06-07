@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぶりぶりざえもん「さあ出すものを出してもらおうか」",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
 	],
@@ -25,8 +25,9 @@
 		"動物",
 		"ダークヒーロー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_029.png",
+	"tags": null,
+	"expansionId": 480
 }

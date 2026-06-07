@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "メア…",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
-		"【自】 共鳴 ［(1) 手札の「“ネコミミ▽モード”ネメシス」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《変身》か《だんご》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\u003cbr\u003e【自】 共鳴 ［(1) 手札の「“ネコミミ▽モード”ネメシス」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《変身》か《だんご》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"変身",
 		"だんご"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W42-005R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_005r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_005r.png",
+	"tags": null,
+	"expansionId": 163
 }

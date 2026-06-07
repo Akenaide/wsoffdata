@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じゃあ、それをどこかに落としたってこと？",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の控え室の、《Anniversary》か《Afterglow》のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
-		"あなたは自分のクロックの上から1枚と控え室の、《Anniversary》か《Afterglow》のキャラを1枚選び、入れ替えてよい。"
+		"あなたは自分の控え室の、《Anniversary》か《Afterglow》のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。\u003cbr\u003eあなたは自分のクロックの上から1枚と控え室の、《Anniversary》か《Afterglow》のキャラを1枚選び、入れ替えてよい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W95-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_058.png",
+	"tags": null,
+	"expansionId": 382
 }

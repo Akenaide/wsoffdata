@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シールドは、逆手、順手って巻くの。8の字巻き。私、けっこう得意なんだ",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-T91",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_t91.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_t91.png",
+	"tags": null,
+	"expansionId": 246
 }

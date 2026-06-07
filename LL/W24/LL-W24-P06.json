@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたの心を\u003cbr /\u003e私の青でいっぱいに満たしてしまいましょう――",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W24-P06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w24/ll_w24_p06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w24/ll_w24_p06.png",
+	"tags": null,
+	"expansionId": 12
 }

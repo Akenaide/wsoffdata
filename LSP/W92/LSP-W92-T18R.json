@@ -15,19 +15,19 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。",
-		"【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。\u003cbr\u003e【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSP/W92-T18R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_t18r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lsp_w92/lsp_w92_t18r.png",
+	"tags": null,
+	"expansionId": 349
 }

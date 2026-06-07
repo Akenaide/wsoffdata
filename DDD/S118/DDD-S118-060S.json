@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から4枚まで見て、「ギャルはおしゃれが戦闘服 モモ」を1枚まで選び、舞台の好きな枠に置き、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"人間",
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDD/S118-060S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_060s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddd_s118/ddd_s118_060s.png",
+	"tags": null,
+	"expansionId": 511
 }

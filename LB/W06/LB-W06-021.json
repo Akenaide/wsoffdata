@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…いいよ、欲しかったらあげる",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。",
 		"そのターン中、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/W06-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_021.png",
+	"tags": null,
+	"expansionId": 18
 }

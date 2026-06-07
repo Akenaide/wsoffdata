@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フェイト「元気そうだね」\u003cbr /\u003eアルフ「元気！」",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_t02.png",
+	"tags": null,
+	"expansionId": 8
 }

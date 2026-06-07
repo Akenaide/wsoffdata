@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…我は汝、汝は我。禁断の叡智は開かれた。\u003cbr\u003eいかなる謎も幻も、もはやお前を惑わせない",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《怪盗》か《コーヒー》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-081S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_081s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_081s.png",
+	"tags": null,
+	"expansionId": 180
 }

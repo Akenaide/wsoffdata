@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アバッキオ「近づくなよ……「P・H」が「拳」を使うとき何者も そばにいてはならない…」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時か「狂暴性の発露 フーゴ」の【起】の効果で舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《黄金の風》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"黄金の風",
 		"スタンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/S66-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_s66/jj_s66_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_s66/jj_s66_015.png",
+	"tags": null,
+	"expansionId": 277
 }

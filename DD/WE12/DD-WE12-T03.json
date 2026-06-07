@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これを奪えば……！",
+	"trigger": null,
 	"ability": [
 		"【自】 アンコール ［(2)］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_t03.png",
+	"tags": null,
+	"expansionId": 72
 }

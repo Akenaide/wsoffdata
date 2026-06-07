@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "きっとね、みんなと一緒にいて楽しいのは、\u003cbr /\u003eみんなといるのをお互いに、幸せに思うから",
+	"trigger": null,
 	"ability": [
 		"【永】 他の《お菓子》のあなたのキャラが2枚以上いるなら、このカードのパワーを＋1000。",
 		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋X。Xはそのキャラのレベル＊500に等しい。"
@@ -25,8 +25,9 @@
 		"お菓子",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W02-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_005.png",
+	"tags": null,
+	"expansionId": 2
 }

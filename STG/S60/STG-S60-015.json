@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "紅莉栖「どうやらあなた達ふたりとも変態みたいね」\u003cbr\u003e至「いやぁ」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《ラボメン》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《ラボメン》のキャラを1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたの《ラボメン》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《ラボメン》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ラボメン",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_015.png",
+	"tags": null,
+	"expansionId": 243
 }

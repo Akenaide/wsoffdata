@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしの名前は、空門蒼よ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《サマポケ》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-P04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_p04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_p04.png",
+	"tags": null,
+	"expansionId": 12
 }

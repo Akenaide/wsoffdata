@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "清隆「サラさんの代わりに、俺がクリサリスの名を\u003cbr /\u003eもう一度世に知らしめる、そんな魔法使いになりますから」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、【スタンド】する。あなたは自分の《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC3/W18-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_037.png",
+	"tags": null,
+	"expansionId": 78
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おうよ、あのアマゾネスをブッ殺してやろうぜ！",
+	"trigger": null,
 	"ability": [
 		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのアタックフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2以上なら、そのターン中、このカードのパワーを＋6000。』"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/SE50-31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_se50/ggo_se50_31.png",
+	"tags": null,
+	"expansionId": 508
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…ミシェル…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「奇跡の生還」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋1000。",
 		"【自】 チェンジ ［(2)このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「いつもの笑顔 クラン」を1枚選び、このカードがいた枠に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"パイロット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_080.png",
+	"tags": null,
+	"expansionId": 61
 }

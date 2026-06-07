@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふぁー。おはよ",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの「学校デビュー なの」すべてに、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NJ/WE11-28",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nj_we11/nj_we11_28.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nj_we11/nj_we11_28.png",
+	"tags": null,
+	"expansionId": 70
 }

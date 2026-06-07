@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今、お前に必要なのは、言葉による『教育』ではなく『教訓』だ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《兵団》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 あなたのキャラすべてが《兵団》なら、このカードのパワーを＋1000。",
-		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。"
+		"【永】 あなたの《兵団》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 あなたのキャラすべてが《兵団》なら、このカードのパワーを＋1000。\u003cbr\u003e【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。"
 	],
 	"specialAttrib": [
 		"兵団",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S35-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s35/aot_s35_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s35/aot_s35_031.png",
+	"tags": null,
+	"expansionId": 149
 }

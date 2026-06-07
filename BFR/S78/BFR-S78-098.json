@@ -15,19 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『流水』まで使わされるなんて……",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。",
-		" 【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。",
-		" 【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたは『流水』と宣言してよい。"
+		"【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。\u003cbr\u003e 【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。\u003cbr\u003e 【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたは『流水』と宣言してよい。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BFR/S78-098",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bfr_s78/bfr_s78_098.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bfr_s78/bfr_s78_098.png",
+	"tags": null,
+	"expansionId": 313
 }

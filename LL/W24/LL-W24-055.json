@@ -15,20 +15,21 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ことりちゃん、ごめん！\u003cbr /\u003e私、スクールアイドルやりたいの！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
 		"【自】 チェンジ ［このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「高坂 穂乃果」を1枚選び、このカードがいた枠に置く。",
-		"【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“僕らは今のなかで”μ\u0026#39;s」を1枚選び、このカードがいた枠に置く。"
+		"【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“僕らは今のなかで”μ's」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W24-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w24/ll_w24_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w24/ll_w24_055.png",
+	"tags": null,
+	"expansionId": 98
 }

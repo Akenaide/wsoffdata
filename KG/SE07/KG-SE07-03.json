@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "拙者にときめいてもらうでござる",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_03.png",
+	"tags": null,
+	"expansionId": 56
 }

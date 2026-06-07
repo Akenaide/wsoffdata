@@ -15,19 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "飛鳥「あら、高級菓子折だそうよ春日部さん」\u003cbr\u003e耀「そう。楽しみだね」",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラは他の枠に動かせない。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
+		"【永】 このカードの正面のキャラは他の枠に動かせない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"恩恵",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Smi/W62-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smi_w62/smi_w62_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smi_w62/smi_w62_106.png",
+	"tags": null,
+	"expansionId": 259
 }

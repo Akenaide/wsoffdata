@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "すべての悪魔は名前をもって産まれてくる",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《デビルハンター》か《悪魔》のキャラが4枚以上なら、あなたは自分の控え室の、《デビルハンター》か《悪魔》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの、《デビルハンター》か《悪魔》のキャラが4枚以上なら、あなたは自分の控え室の、《デビルハンター》か《悪魔》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-T06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_t06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_t06.png",
+	"tags": null,
+	"expansionId": 422
 }

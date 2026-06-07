@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自由には、覚悟がいりますよ",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-39",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_39.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_39.png",
+	"tags": null,
+	"expansionId": 118
 }

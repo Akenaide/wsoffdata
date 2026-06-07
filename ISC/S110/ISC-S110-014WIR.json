@@ -15,18 +15,18 @@
 	"rarity": "WIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "優雅な午後に。背伸びをして鏡に向かって",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「ウィッシュフルリリー 大崎甘奈」すべてに、パワーを＋1000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【永】 他のあなたの「ウィッシュフルリリー 大崎甘奈」すべてに、パワーを＋1000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"アルストロメリア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-014WIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_014wir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_014wir.png",
+	"tags": null,
+	"expansionId": 468
 }

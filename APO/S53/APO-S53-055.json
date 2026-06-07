@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "すべての、圧制者に、ことごとく、死を与えよう！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－2。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。"
+		"【永】 舞台のこのカードのレベルを－2。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"サーヴァント",
 		"筋肉"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_055.png",
+	"tags": null,
+	"expansionId": 228
 }

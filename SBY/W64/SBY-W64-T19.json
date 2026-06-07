@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "無理やり笑顔を作るしかなかった",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《思春期》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の控え室のレベル2以上のキャラを1枚選び、手札に戻す。"
+		"このカードは、あなたの《思春期》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の控え室のレベル2以上のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SBY/W64-T19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_t19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_t19.png",
+	"tags": null,
+	"expansionId": 256
 }

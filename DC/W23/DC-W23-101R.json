@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "えへへへへ……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋500し、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W23-101R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_101r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w23/dc_w23_101r.png",
+	"tags": null,
+	"expansionId": 88
 }

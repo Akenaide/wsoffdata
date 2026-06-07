@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "へい、お待ち！",
+	"trigger": null,
 	"ability": [
 		"【起】[(1)] あなたは自分の《動物》のキャラを1枚選び、そのターン中、パワーを+1500。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"ウェイトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-107",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_107.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_107.png",
+	"tags": null,
+	"expansionId": 12
 }

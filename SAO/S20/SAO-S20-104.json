@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アスナ「たとえ怪物に負けて死んでも、このゲーム……\u003cbr /\u003eこの世界には負けたくない。どうしても」",
 	"trigger": [
 		"SOUL"
 	],
@@ -28,8 +28,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_104.png",
+	"tags": null,
+	"expansionId": 67
 }

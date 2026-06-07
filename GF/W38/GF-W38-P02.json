@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ケーキもいろいろあって凄いですよね～どれも美味しそうで、迷っちゃいます",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたの《ガール》のキャラすべてに、レベルを＋1し、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_p02.png",
+	"tags": null,
+	"expansionId": 12
 }

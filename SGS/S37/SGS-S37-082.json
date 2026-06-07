@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大丈夫大丈夫、アタシに任せておきなって！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《ストライカー》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"家事"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_082.png",
+	"tags": null,
+	"expansionId": 162
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "御法川「見事な肉まん型だな……」",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"病気",
 		"ウェイトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CN/SE02-20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cn_se02/cn_se02_20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cn_se02/cn_se02_20.png",
+	"tags": null,
+	"expansionId": 31
 }

@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我が愛の為に、死ね！魔王！",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋6000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「完璧なメイドモード 緋月」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「完璧なメイドモード 緋月」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"神",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fma/W120-138",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fma_w120/fma_w120_138.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fma_w120/fma_w120_138.png",
+	"tags": null,
+	"expansionId": 489
 }

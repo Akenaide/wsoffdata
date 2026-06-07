@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "日向「ずっと……ずっと、そばに居てやんよ」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。",
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたはこのカードを思い出にしてよい。（公開したカードは元に戻す）"
@@ -25,8 +25,9 @@
 		"死",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/WE14-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_we14/ab_we14_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_we14/ab_we14_08.png",
+	"tags": null,
+	"expansionId": 81
 }

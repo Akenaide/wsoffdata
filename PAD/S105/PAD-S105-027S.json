@@ -15,7 +15,7 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"神",
 		"バランス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PAD/S105-027S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_027s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_027s.png",
+	"tags": null,
+	"expansionId": 424
 }

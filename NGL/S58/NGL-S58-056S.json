@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "せっかくです、楽しみましょう。",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「“死”そのもの」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《ゲーム》のキャラを1枚選び、【スタンド】する。"
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「“死”そのもの」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《ゲーム》のキャラを1枚選び、【スタンド】する。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"天翼種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-056S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_056s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_056s.png",
+	"tags": null,
+	"expansionId": 236
 }

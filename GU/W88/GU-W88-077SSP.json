@@ -15,8 +15,8 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「“うさぎになったバリスタ” 青山ブルーマウンテン」を1枚選び、舞台の好きな枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"小説",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-077SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_077ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_077ssp.png",
+	"tags": null,
+	"expansionId": 344
 }

@@ -15,21 +15,21 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "止めるのは、いつだってできる。だから、続けようと思う",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの後列の《電撃文庫》のキャラ1枚につき、このカードのパワーを＋3000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたはそのキャラを山札の下に置いてよい。"
+		"【永】 あなたのターン中、他のあなたの後列の《電撃文庫》のキャラ1枚につき、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"旅",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gkb/WS02-126SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gkb_ws02_126sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gkb_ws02_126sp.png",
+	"tags": null,
+	"expansionId": 439
 }

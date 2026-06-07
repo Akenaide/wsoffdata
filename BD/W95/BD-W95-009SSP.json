@@ -15,22 +15,21 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの後列の、《Anniversary》か《Pastel＊Palettes》のキャラ1枚につき、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「最高のおもてなし」が置かれた時、前列にこのカードがいるなら、あなたは他の自分の、《Anniversary》か《Pastel＊Palettes》のキャラを1枚選び、【スタンド】してよい。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【永】 他のあなたの後列の、《Anniversary》か《Pastel＊Palettes》のキャラ1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「最高のおもてなし」が置かれた時、前列にこのカードがいるなら、あなたは他の自分の、《Anniversary》か《Pastel＊Palettes》のキャラを1枚選び、【スタンド】してよい。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-009SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_009ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_009ssp.png",
+	"tags": null,
+	"expansionId": 382
 }

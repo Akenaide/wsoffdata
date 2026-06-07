@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "解放戦力…46％",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の、《防衛隊》か《怪獣》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「四ノ宮キコル専用武器  Ax-0112」か「保科宗四郎専用武器  SW-2033」か「亜白ミナ専用武器 T-25101985」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"防衛隊",
 		"オペレーター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KJ8/S123-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_080.png",
+	"tags": null,
+	"expansionId": 525
 }

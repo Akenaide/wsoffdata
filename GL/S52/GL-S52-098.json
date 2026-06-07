@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アンチスパイラル「螺旋の墓場だ…」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたはバトル中以外の相手のキャラを2枚選び、それぞれを【スタンド】して入れ替える。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GL/S52-098",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_098.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gl_s52/gl_s52_098.png",
+	"tags": null,
+	"expansionId": 217
 }

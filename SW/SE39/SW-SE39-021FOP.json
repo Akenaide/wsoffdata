@@ -15,7 +15,7 @@
 	"rarity": "FOP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -23,11 +23,11 @@
 		"【永】 あなたのターン中、他のあなたの、青かカード名に「アナキン」を含むキャラ1枚につき、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
-		"ファントム",
-		"メナス"
+		"ファントム・メナス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/SE39-021FOP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se39/sw_se39_021fop.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_se39/sw_se39_021fop.png",
+	"tags": null,
+	"expansionId": 411
 }

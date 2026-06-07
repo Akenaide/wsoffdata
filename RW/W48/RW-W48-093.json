@@ -15,19 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【永】 他のあなたの前列の「“小鳥さん謹製”魔物」1枚につき、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の青のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr\u003e【永】 他のあなたの前列の「“小鳥さん謹製”魔物」1枚につき、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の青のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
 	],
 	"specialAttrib": [
 		"植物",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W48-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_093.png",
+	"tags": null,
+	"expansionId": 186
 }

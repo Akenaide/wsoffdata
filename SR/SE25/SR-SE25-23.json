@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お姉さんがきっちり教育してあげます。\u003cbr /\u003e覚悟してくださいね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
 		"【自】 このカードがアタックした時、あなたのレベルが0なら、あなたは自分の手札すべてを、山札に戻してシャッフルしてよい。そうしたら、あなたは同じ枚数引く。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SR/SE25-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sr_se25/sr_se25_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sr_se25/sr_se25_23.png",
+	"tags": null,
+	"expansionId": 145
 }

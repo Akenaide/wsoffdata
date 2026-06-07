@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハメを外しすぎないよう\u003cbr /\u003eお姉さん達の言う事を聞いて早めに帰りなよ―――？",
+	"trigger": null,
 	"ability": [
 		"【自】 バトルしているこのカードが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"警察",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_064.png",
+	"tags": null,
+	"expansionId": 16
 }

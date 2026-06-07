@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あははは！　やっぱり砂浜はいいな！\u003cbr /\u003eなんか童心に帰れる気がするぞ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「shiny smile」があるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×1500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_055.png",
+	"tags": null,
+	"expansionId": 64
 }

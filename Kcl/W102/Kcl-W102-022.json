@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これでも食らいなさい！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「負けヒロイン団」があるなら、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、前列のキャラのいない枠に置き、そのターン中、あなたは4回目以降のアタックができない。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「負けヒロイン団」があるなら、あなたは自分の控え室のコスト0以下のキャラを1枚まで選び、前列のキャラのいない枠に置き、そのターン中、あなたは4回目以降のアタックができない。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"双子",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kcl/W102-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/kcl_w102_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/kcl_w102_022.png",
+	"tags": null,
+	"expansionId": 406
 }

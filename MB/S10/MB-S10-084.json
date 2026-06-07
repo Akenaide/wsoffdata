@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっと痛いけど、ごめんなさいっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_084.png",
+	"tags": null,
+	"expansionId": 48
 }

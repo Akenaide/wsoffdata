@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《魔大陸》のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのパワーを＋Ｘ。Ｘはこのカードのソウル×1500に等しい。』",
-		"【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。",
-		"【起】［(1) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、そのターン中、レベルを－1。"
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《魔大陸》のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのパワーを＋Ｘ。Ｘはこのカードのソウル×1500に等しい。』\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。\u003cbr\u003e【起】［(1) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、そのターン中、レベルを－1。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"忍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S82-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s82/tsk_s82_091c.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s82/tsk_s82_091c.png",
+	"tags": null,
+	"expansionId": 333
 }

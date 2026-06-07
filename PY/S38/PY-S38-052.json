@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アナタのファッション、チェックしてあげるワ",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは自分の《ぷよ》のキャラを1枚選び、そのターン中、パワーを＋1000し、そのキャラ以外の自分の、そのキャラと同じカード名のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_052.png",
+	"tags": null,
+	"expansionId": 160
 }

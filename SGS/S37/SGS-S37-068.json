@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今年のクリスマスケーキは久しぶりに\u003cbr\u003eあたし自ら作ってみるか",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以下のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_068.png",
+	"tags": null,
+	"expansionId": 162
 }

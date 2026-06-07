@@ -15,19 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ドキドキするわね",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが3枚以下なら、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"特待生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE26-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we26/gu_we26_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we26/gu_we26_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

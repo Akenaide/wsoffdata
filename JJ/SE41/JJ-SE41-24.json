@@ -15,17 +15,17 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おれの『スタンド』がしかるべき報いを与えてやるッ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《スタンド使い》か《スタンド》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《スタンド使い》か《スタンド》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"スタンド使い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/SE41-24",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se41/jj_se41_24.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_se41/jj_se41_24.png",
+	"tags": null,
+	"expansionId": 434
 }

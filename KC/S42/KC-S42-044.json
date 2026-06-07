@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "三川艦隊の仲間にも、自慢できちゃいます",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を公開してよい。そうしたら、それらのカードにクライマックスがあるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"重巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_044.png",
+	"tags": null,
+	"expansionId": 173
 }

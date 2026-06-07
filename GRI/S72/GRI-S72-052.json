@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お待たせしました。これですよね？",
+	"trigger": null,
 	"ability": [
 		"【起】 経験 ［(1) このカードを【レスト】する］ あなたのレベル置場のカードのレベルの合計が5以上なら、次の2つの効果のうちあなたが選んだ1つを行う。そうでないなら、あなたは次の2つの効果のうち相手が選んだ1つを行う。『あなたは自分の《グリザイア》のキャラを2枚まで選び、そのターン中、ソウルを＋1。』『あなたは自分の山札の上から1枚を公開する。そのカードが《グリザイア》のキャラかイベントなら手札に加える。』（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_052.png",
+	"tags": null,
+	"expansionId": 285
 }

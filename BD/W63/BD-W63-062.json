@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あの時は、必死だっただけで……",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードがダイレクトアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードがダイレクトアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_062.png",
+	"tags": null,
+	"expansionId": 255
 }

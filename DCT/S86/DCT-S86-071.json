@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の《ノッカーアップ》のキャラを1枚選び、控え室に置いてよい。そうしたら、このカードを思い出にする。",
-		"【永】 記憶 思い出置場にこのカードがあるなら、あなたの《ノッカーアップ》のキャラすべてに、パワーを＋1000。"
+		"あなたは自分の《ノッカーアップ》のキャラを1枚選び、控え室に置いてよい。そうしたら、このカードを思い出にする。\u003cbr\u003e【永】 記憶 思い出置場にこのカードがあるなら、あなたの《ノッカーアップ》のキャラすべてに、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DCT/S86-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dct_s86/dct_s86_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dct_s86/dct_s86_071.png",
+	"tags": null,
+	"expansionId": 387
 }

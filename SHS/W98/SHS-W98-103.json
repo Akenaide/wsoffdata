@@ -15,17 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日は来てくれてありがとうね？",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードは、あなたの《ゲーム》のキャラが2枚以下なら、手札からプレイできない。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 このカードは、あなたの《ゲーム》のキャラが2枚以下なら、手札からプレイできない。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_103.png",
+	"tags": null,
+	"expansionId": 391
 }

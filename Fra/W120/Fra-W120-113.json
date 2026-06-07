@@ -15,19 +15,19 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何よ？珍しく褒めてやってんのに、さっきから黙って",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《ファンタジア文庫》か《魔法》なら、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《ファンタジア文庫》か《魔法》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 あなたのキャラすべてが《ファンタジア文庫》か《魔法》なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《ファンタジア文庫》か《魔法》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"魔法",
 		"炎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fra/W120-113",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fra_w120/fra_w120_113.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fra_w120/fra_w120_113.png",
+	"tags": null,
+	"expansionId": 489
 }

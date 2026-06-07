@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シグナム「我々は戸惑いながらも……静かな日々を過ごし始めていた」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。",
 		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
@@ -25,8 +25,9 @@
 		"使い魔",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_t13.png",
+	"tags": null,
+	"expansionId": 38
 }

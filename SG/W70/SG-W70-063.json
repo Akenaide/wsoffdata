@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "甘い…フルーツみたいッ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[COMEBACK]なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[[salvage.gif]]なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_063.png",
+	"tags": null,
+	"expansionId": 276
 }

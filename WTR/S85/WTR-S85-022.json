@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "OK！左端からいくか！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを2枚まで選び、そのターン中、パワーを－1500。"
 	],
@@ -24,8 +24,9 @@
 		"トリオン",
 		"嵐山隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WTR/S85-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wtr_s85/wtr_s85_022.png",
+	"tags": null,
+	"expansionId": 360
 }

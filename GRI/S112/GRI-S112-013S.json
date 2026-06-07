@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《グリザイア》のキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 あなたのターン中、他のあなたの《グリザイア》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-013S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_013s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_013s.png",
+	"tags": null,
+	"expansionId": 472
 }

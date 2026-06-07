@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてがカード名に「五月」を含むなら、他のあなたのカード名に「五月」を含むキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"五つ子",
 		"ヘッドホン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_083.png",
+	"tags": null,
+	"expansionId": 309
 }

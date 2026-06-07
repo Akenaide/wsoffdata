@@ -15,8 +15,8 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "愛ちゃん、やさしく大きな声、出してみて？\u003cbr /\u003eボリュームは大きく、ニュアンスはやわらかく",
+	"trigger": null,
 	"ability": [
 		"【起】 [他のあなたのキャラを2枚【レスト】する] あなたは自分のカード名に「愛」を含むキャラを1枚選び、そのターン中、ソウルを＋1し、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-118",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_118.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_118.png",
+	"tags": null,
+	"expansionId": 80
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰の手も届かない安全な場所まで！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの控え室の《夏》のキャラを1枚クロック置場の下に置き、このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"夏",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_036.png",
+	"tags": null,
+	"expansionId": 342
 }

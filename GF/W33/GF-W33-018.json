@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この死に様を美しく保存して愛でるのが甘利の役目であり使命じゃないですかー",
+	"trigger": null,
 	"ability": [
-		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
-		"【起】［あなたの《ガール》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。"
+		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\u003cbr\u003e【起】［あなたの《ガール》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。"
 	],
 	"specialAttrib": [
 		"ガール",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_018.png",
+	"tags": null,
+	"expansionId": 131
 }

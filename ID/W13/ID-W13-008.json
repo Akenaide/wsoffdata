@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "二学期というのは忙しいんだぞー",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ID/W13-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/id_w13/id_w13_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/id_w13/id_w13_008.png",
+	"tags": null,
+	"expansionId": 54
 }

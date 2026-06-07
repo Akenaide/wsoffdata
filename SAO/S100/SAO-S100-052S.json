@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"プログレッシブ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-052S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_052s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_052s.png",
+	"tags": null,
+	"expansionId": 405
 }

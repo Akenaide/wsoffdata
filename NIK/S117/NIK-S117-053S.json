@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《NIKKE》のキャラが3枚以上なら、このカードのパワーを＋5000。",
-		"【自】 このカードの与えたダメージがキャンセルされなかった時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1000。"
+		"【永】 他のあなたの《NIKKE》のキャラが3枚以上なら、このカードのパワーを＋5000。\u003cbr\u003e【自】 このカードの与えたダメージがキャンセルされなかった時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"アカデミア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-053S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_053s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_053s.png",
+	"tags": null,
+	"expansionId": 494
 }

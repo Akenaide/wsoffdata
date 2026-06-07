@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "事件の解決なら私たちミルキィホームズにお任せです",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［(2) このカードを【レスト】する］ あなたは1枚引く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"探偵",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-T18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_t18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_t18.png",
+	"tags": null,
+	"expansionId": 138
 }

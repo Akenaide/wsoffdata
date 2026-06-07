@@ -15,21 +15,20 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この力が私の、覚悟の証！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 大活躍",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「命ある者」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。",
-		"【起】 【CXコンボ】［(4)］ あなたは自分のクロックか控え室の「命ある者」を1枚選び、クライマックス置場に置く。"
+		"【永】 大活躍\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「命ある者」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【起】 【CXコンボ】［(4)］ あなたは自分のクロックか控え室の「命ある者」を1枚選び、クライマックス置場に置く。"
 	],
 	"specialAttrib": [
 		"メカ",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_036.png",
+	"tags": null,
+	"expansionId": 340
 }

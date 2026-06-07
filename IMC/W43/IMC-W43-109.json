@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "偉い人のお眼鏡に適ったということですね！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「メガネアイドル 春菜」を1枚選び、舞台の好きな枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-109",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_109.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_109.png",
+	"tags": null,
+	"expansionId": 167
 }

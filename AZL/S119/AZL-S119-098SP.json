@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 経験 あなたのCX置場に「ご褒美もーらい♪」が置かれた時、あなたのレベル置場のカードのレベルの合計が5以上なら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《艦船》のキャラなら、あなたはこのカードを手札に戻してよい。』（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"艦船",
 		"北方連合"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-098SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_098sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_098sp.png",
+	"tags": null,
+	"expansionId": 499
 }

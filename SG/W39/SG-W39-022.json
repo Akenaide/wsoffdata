@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "男の子は知らないけど意外に簡単",
+	"trigger": null,
 	"ability": [
 		"あなたは相手のキャラを3枚まで選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SG/W39-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_022.png",
+	"tags": null,
+	"expansionId": 154
 }

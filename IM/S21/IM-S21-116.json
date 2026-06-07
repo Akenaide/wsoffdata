@@ -15,8 +15,8 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "う～ん、何か変なのよね。意志を感じるの。\u003cbr /\u003e真相をごまかそうとしているような意志を",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「涼」を含むキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら手札に加え、自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
@@ -25,8 +25,9 @@
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-116",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_116.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_116.png",
+	"tags": null,
+	"expansionId": 80
 }

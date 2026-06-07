@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プリシラ、あとはよろしく～",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの「プリシラ・トワイライト」がアタックした時、そのターン中、このカードのパワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"タロット",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_086.png",
+	"tags": null,
+	"expansionId": 106
 }

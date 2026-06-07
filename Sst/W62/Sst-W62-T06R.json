@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……別に、彼女の味方になった訳じゃない",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「柚希の下僕記念日」があり、あなたのストックが5枚以下なら、あなたは自分の山札を上から4枚まで見て、《スニーカー文庫》か《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"幼馴染"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sst/W62-T06R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sst_w62/sst_w62_t06r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sst_w62/sst_w62_t06r.png",
+	"tags": null,
+	"expansionId": 257
 }

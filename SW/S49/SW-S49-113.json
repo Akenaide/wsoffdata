@@ -10,21 +10,22 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヨーダ「フォースはお前とわしの間にもある。木にも。石にも。いたる所にある！」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。",
 		"あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。",
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SW/S49-113",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_113.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_113.png",
+	"tags": null,
+	"expansionId": 199
 }

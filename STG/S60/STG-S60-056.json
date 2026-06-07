@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "でもでも…今の話は内緒にしておいて欲しいニャ。みんなも今までどおりフェイリスLOVEで接して欲しいニャ",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「フェイリス杯」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《ラボメン》のキャラを1枚選び、【スタンド】する。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_056.png",
+	"tags": null,
+	"expansionId": 243
 }

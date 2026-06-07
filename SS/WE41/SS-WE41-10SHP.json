@@ -15,20 +15,20 @@
 	"rarity": "SHP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "じゃあ、君はシャナだ…。ボクは今からそう呼ぶ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《炎》のキャラが2枚以上なら、あなたは相手のキャラの【自】の効果によるダメージを受けない。",
-		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。"
+		"【永】 他のあなたの《炎》のキャラが2枚以上なら、あなたは相手のキャラの【自】の効果によるダメージを受けない。\u003cbr\u003e【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"炎",
 		"宝具"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE41-10SHP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we41/ss_we41_10shp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we41/ss_we41_10shp.png",
+	"tags": null,
+	"expansionId": 447
 }

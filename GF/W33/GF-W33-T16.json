@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "流れ星、見えましたか？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】あなたのキャラすべてが《ガール》なら、このカードのパワーを＋1000。",
-		"【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《ガール》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】あなたのキャラすべてが《ガール》なら、このカードのパワーを＋1000。\u003cbr\u003e【自】このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《ガール》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ガール",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-T16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_t16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_t16.png",
+	"tags": null,
+	"expansionId": 111
 }

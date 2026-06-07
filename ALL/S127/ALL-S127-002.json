@@ -15,20 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "来夢「幸恵お姉様！ そちらに何台か行きました！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《リリィ》のキャラが2枚以上なら、このカードのパワーを＋5000。",
-		"【自】【CXコンボ】［(1)］ このカードがアタックした時、CX置場に「心を鋼鉄に変えて」があるなら、あなたは自分の控え室の《リリィ》のキャラを1枚まで選び、手札に戻し、コストを払ってよい。コストを払ったなら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【永】 他のあなたの《リリィ》のキャラが2枚以上なら、このカードのパワーを＋5000。\u003cbr\u003e【自】【CXコンボ】［(1)］ このカードがアタックした時、CX置場に「心を鋼鉄に変えて」があるなら、あなたは自分の控え室の《リリィ》のキャラを1枚まで選び、手札に戻し、コストを払ってよい。コストを払ったなら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"アイアンサイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S127-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s127/all_s127_002.png",
+	"tags": null,
+	"expansionId": 541
 }

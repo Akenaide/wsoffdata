@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この格好なら、見えてたら見るでしょ",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"思春期",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-T12S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_t12s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_t12s.png",
+	"tags": null,
+	"expansionId": 256
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "し、失礼な…ホメさんと一緒にしないでください！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「迷子の転校生」があるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"お菓子",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_021.png",
+	"tags": null,
+	"expansionId": 65
 }

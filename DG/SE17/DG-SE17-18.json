@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あーあ、ヘンなスイッチ入っちゃってますよ。\u003cbr /\u003eどうします？　殿下",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_18.png",
+	"tags": null,
+	"expansionId": 102
 }

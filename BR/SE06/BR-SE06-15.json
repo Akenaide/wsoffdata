@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "たかなしって読むの。コトリアソビと書いて",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「星型のストラップ」があるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500し、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BR/SE06-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/br_se06/br_se06_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/br_se06/br_se06_15.png",
+	"tags": null,
+	"expansionId": 51
 }

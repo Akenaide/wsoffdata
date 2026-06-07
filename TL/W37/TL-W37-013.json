@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "はい、わかってますよマスター",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「金色の闇」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの、《変身》か《家事》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
+		"【永】 あなたのクロック置場に「金色の闇」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの、《変身》か《家事》のキャラが3枚以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
 	"specialAttrib": [
 		"変身",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_013.png",
+	"tags": null,
+	"expansionId": 150
 }

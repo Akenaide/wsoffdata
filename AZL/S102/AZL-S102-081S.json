@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "U-110、きれいだぞー。……かわいい？",
+	"trigger": null,
 	"ability": [
-		"【起】［あなたの《艦船》のキャラを1枚【レスト】する］ あなたは自分のレベル置場の《艦船》のキャラと控え室の《艦船》のキャラを1枚ずつ選び、入れ替える。",
-		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の控え室の《艦船》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
+		"【起】［あなたの《艦船》のキャラを1枚【レスト】する］ あなたは自分のレベル置場の《艦船》のキャラと控え室の《艦船》のキャラを1枚ずつ選び、入れ替える。\u003cbr\u003e【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の控え室の《艦船》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。』"
 	],
 	"specialAttrib": [
 		"艦船",
 		"鉄血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-081S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_081s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_081s.png",
+	"tags": null,
+	"expansionId": 410
 }

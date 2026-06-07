@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "慌てる必要はないよ……",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_026.png",
+	"tags": null,
+	"expansionId": 278
 }

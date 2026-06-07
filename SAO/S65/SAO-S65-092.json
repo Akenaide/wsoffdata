@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これ以上、君と話すことはないよ",
+	"trigger": null,
 	"ability": [
 		"【自】 経験 このカードのバトル相手が【リバース】した時、あなたのレベル置場のカードのレベルの合計が3以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"フラクトライト",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S65-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_092.png",
+	"tags": null,
+	"expansionId": 267
 }

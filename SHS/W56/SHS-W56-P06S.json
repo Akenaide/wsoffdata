@@ -15,17 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お待たせ～～\u003cbr\u003e晴れてよかったね～～今日",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《ゲーム》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。",
-		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の控え室の「理想の女の子 恵」を1枚選び、思い出にしてよい。"
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《ゲーム》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】 このカードが舞台から控え室に置かれた時、あなたは自分の控え室の「理想の女の子 恵」を1枚選び、思い出にしてよい。"
 	],
 	"specialAttrib": [
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-P06S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_p06s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_p06s.png",
+	"tags": null,
+	"expansionId": 12
 }

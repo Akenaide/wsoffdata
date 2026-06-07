@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……だから、本当に嫌だと思ってるのなら言ってほしいの",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベルＸ以下の《音楽》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「不甲斐ない私からの卒業 日野森雫」の枚数に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"MORE MORE JUMP！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S125-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s125/pjs_s125_049.png",
+	"tags": null,
+	"expansionId": 536
 }

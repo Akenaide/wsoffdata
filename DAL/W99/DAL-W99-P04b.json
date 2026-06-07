@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが1以上で、他のあなたの、《デート》か《精霊》のキャラが2枚以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の控え室のレベル1以下の、《デート》か《精霊》のキャラを1枚選び、このカードがいた枠に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W99-P04b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w99/dal_w99_p04b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w99/dal_w99_p04b.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを控え室に置く］ 相手は自分の控え室のカードすべてを、山札に戻す。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"スポーツ",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_044.png",
+	"tags": null,
+	"expansionId": 85
 }

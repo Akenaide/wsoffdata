@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "要は戦闘バカってことです",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、「魔法兵団師団長 カティア」と「氷の刻印者 ユニ」すべてに、パワーを＋1000。",
-		"【永】 他のあなたの《マナ》のキャラすべてに、パワーを＋500。"
+		"【永】 あなたのターン中、他のあなたの、「魔法兵団師団長 カティア」と「氷の刻印者 ユニ」すべてに、パワーを＋1000。\u003cbr\u003e【永】 他のあなたの《マナ》のキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"マナ",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_018.png",
+	"tags": null,
+	"expansionId": 193
 }

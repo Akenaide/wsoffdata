@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "たーい…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、レベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"家族",
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_005.png",
+	"tags": null,
+	"expansionId": 114
 }

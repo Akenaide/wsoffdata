@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "如月も一緒に行かせて。ねっ？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の「睦月型駆逐艦1番艦 睦月改二」1枚につき、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_069.png",
+	"tags": null,
+	"expansionId": 173
 }

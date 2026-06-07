@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この情熱を食らえっスー！！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_058.png",
+	"tags": null,
+	"expansionId": 431
 }

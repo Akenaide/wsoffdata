@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"髪留め"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-E01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_e01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_e01.png",
+	"tags": null,
+	"expansionId": 496
 }

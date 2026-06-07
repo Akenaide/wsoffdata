@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "集う　積もる　重なる　最期の唄\u003cbr /\u003e響け　謳え　唱えよ　還れ",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PD/S22-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_096.png",
+	"tags": null,
+	"expansionId": 93
 }

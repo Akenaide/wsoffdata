@@ -15,22 +15,21 @@
 	"rarity": "BDR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "自分なりの答えがでるまで一生懸命考えたいと思います",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、相手のキャラを1枚まで選び、手札に戻す。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《RAISE A SUILEN》のキャラがいるなら、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE49-24BDR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_24bdr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we49/bd_we49_24bdr.png",
+	"tags": null,
+	"expansionId": 526
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《Mirrorverse》か《Disney》のキャラがいるなら、このカードのパワーを＋1500。",
-		"【自】［(1) 他のあなたの舞台の、《Mirrorverse》か《Disney》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《Mirrorverse》か《Disney》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのターン中、他のあなたの、《Mirrorverse》か《Disney》のキャラがいるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1) 他のあなたの舞台の、《Mirrorverse》か《Disney》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《Mirrorverse》か《Disney》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"Mirrorverse",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRd/S111-084S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_S111_084sr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrd_s111_084s.png",
+	"tags": null,
+	"expansionId": 471
 }

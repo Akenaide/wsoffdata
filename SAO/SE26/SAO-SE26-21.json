@@ -1,6 +1,6 @@
 {
 	"set": "SAO",
-	"setName": "ソードアート・オンラインⅡ Vol.2",
+	"setName": " ソードアート・オンラインⅡ Vol.2",
 	"side": "S",
 	"release": "E26",
 	"id": "21",
@@ -8,14 +8,14 @@
 	"jpName": "Braves of 27th floor",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "－",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室の緑のカードを1枚まで選び、ストック置場に置き、自分のキャラすべてに、そのターン中、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SAO/SE26-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se26/sao_se26_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se26/sao_se26_21.png",
+	"tags": null,
+	"expansionId": 146
 }

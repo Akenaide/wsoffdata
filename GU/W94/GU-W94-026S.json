@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「シャロ」か「千夜」を含むキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"甘兎庵",
 		"和菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W94-026S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_026s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w94/gu_w94_026s.png",
+	"tags": null,
+	"expansionId": 374
 }

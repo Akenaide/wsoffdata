@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぶっ！　ぶはははあははははっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「看破された抵抗 エルザ」を1枚選び、舞台の好きな枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/S59-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_090.png",
+	"tags": null,
+	"expansionId": 245
 }

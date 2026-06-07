@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どお？ ひより ネタ出た？",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_013.png",
+	"tags": null,
+	"expansionId": 16
 }

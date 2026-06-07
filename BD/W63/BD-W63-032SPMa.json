@@ -15,18 +15,18 @@
 	"rarity": "SPMa",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】【クロック】 アラーム ［(2)］ このカードがクロックの1番上にあり、あなたのレベルが2以上で、あなたのキャラすべてが《Afterglow》なら、あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】【クロック】 アラーム ［(2)］ このカードがクロックの1番上にあり、あなたのレベルが2以上で、あなたのキャラすべてが《Afterglow》なら、あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-032SPMa",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_032spma.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_032spma.png",
+	"tags": null,
+	"expansionId": 255
 }

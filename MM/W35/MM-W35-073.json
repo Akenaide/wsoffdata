@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さあ、暁美ほむら。まどかに助けを求めるといい",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの舞台の《魔法》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「円環の観測者」があるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3500。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W35-073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_073.png",
+	"tags": null,
+	"expansionId": 140
 }

@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ランド「何しに来たんだ？」\u003cbr /\u003eハン・ソロ「ああ、修理だ。おまえなら手を貸してくれるかと思って」",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、他のあなたの黄のキャラが1枚以下なら、このカードをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"帝国の逆襲"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-021_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_021_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_021_.png",
+	"tags": null,
+	"expansionId": 400
 }

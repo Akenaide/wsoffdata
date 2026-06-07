@@ -15,20 +15,20 @@
 	"rarity": "UA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ことりパトロール実施中です！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。",
-		"【自】 経験 このカードがアタックした時、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《音楽》のキャラの枚数に等しい。\u003cbr\u003e【自】 経験 このカードがアタックした時、あなたのレベル置場のカードのレベルの合計が6以上なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"職業"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-053A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_053a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_053a.png",
+	"tags": null,
+	"expansionId": 272
 }

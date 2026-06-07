@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わ、私はユエ！痛みを快感に変えることは出来ないけれど…何をされても死なない女！",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの《トータス》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-		"【自】 アンコール ［あなたの舞台の《トータス》のキャラを1枚クロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【自】 他のあなたの《トータス》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 アンコール ［あなたの舞台の《トータス》のキャラを1枚クロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"トータス",
 		"吸血鬼族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_012.png",
+	"tags": null,
+	"expansionId": 414
 }

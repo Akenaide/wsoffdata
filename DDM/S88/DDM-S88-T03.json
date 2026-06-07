@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"ファミリア",
 		"鍛冶師"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDM/S88-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddm_s88/ddm_s88_t03.png",
+	"tags": null,
+	"expansionId": 364
 }

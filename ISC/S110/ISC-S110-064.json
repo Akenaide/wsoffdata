@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "心に……しまいきれない────",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの、カード名に「ルカ」か「羽那」か「はるき」を含むキャラと、クライマックスは、色条件を満たさずに手札からプレイできる。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【永】 あなたの、カード名に「ルカ」か「羽那」か「はるき」を含むキャラと、クライマックスは、色条件を満たさずに手札からプレイできる。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"コメティック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_064.png",
+	"tags": null,
+	"expansionId": 468
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "未年もヴァイスシュヴァルツしよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《カードゲーム》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"カードゲーム",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CGS/WS01-T06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cgs_ws01/cgs_ws01_t06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cgs_ws01/cgs_ws01_t06.png",
+	"tags": null,
+	"expansionId": 164
 }

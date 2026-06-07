@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ポピパー！ピポパー！ポピパパピポパー！",
+	"trigger": null,
 	"ability": [
-		"集中 あなたは自分の控え室の《Poppin\u0026#39;Party》のキャラを1枚まで選び、手札に戻す。あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードすべてが《Poppin\u0026#39;Party》のキャラなら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+		"集中 あなたは自分の控え室の《Poppin'Party》のキャラを1枚まで選び、手札に戻す。あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードすべてが《Poppin'Party》のキャラなら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W73-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_062.png",
+	"tags": null,
+	"expansionId": 286
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "もっと派手な感じなのかと思ってたけど、落ち着いて上品な感じなんだな～",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋3000。",
-		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"ガール",
 		"ドレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_102.png",
+	"tags": null,
+	"expansionId": 131
 }

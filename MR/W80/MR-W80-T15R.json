@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ういの、ういの病気を治して!!",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《魔法》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「叶えたい願い」があるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+		"【永】 他のあなたの《魔法》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「叶えたい願い」があるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
 	],
 	"specialAttrib": [
 		"魔法",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W80-T15R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w80/mr_w80_t15r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w80/mr_w80_t15r.png",
+	"tags": null,
+	"expansionId": 300
 }

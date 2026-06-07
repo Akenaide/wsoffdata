@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "行くデスよ、調ッ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「裂空・亜リiす」があるなら、あなたは自分の控え室のカード名に「切歌」か「調」を含むキャラか「供養デス」を1枚まで選び、手札に戻し、他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋500。"
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「裂空・亜リiす」があるなら、あなたは自分の控え室のカード名に「切歌」か「調」を含むキャラか「供養デス」を1枚まで選び、手札に戻し、他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W52-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w52/sg_w52_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w52/sg_w52_021.png",
+	"tags": null,
+	"expansionId": 206
 }

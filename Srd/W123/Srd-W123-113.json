@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "い、いつもはナイトブラ着けてるのよ？\u003cbr\u003eでも、今日は持ってくるの忘れちゃって……",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、《スニーカー文庫》か《生徒会》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"スニーカー文庫",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Srd/W123-113",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/srd_w123_113.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/srd_w123_113.png",
+	"tags": null,
+	"expansionId": 510
 }

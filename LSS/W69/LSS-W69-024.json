@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "星が何年も輝くように、ルビィもずっと輝き続けられるかな",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《音楽》のキャラを1枚選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《音楽》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"星"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W69-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_024.png",
+	"tags": null,
+	"expansionId": 273
 }

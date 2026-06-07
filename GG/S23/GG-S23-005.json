@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "べローズ「…大胆だな、水着」\u003cbr /\u003eリジット「えっ、そう？」",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_005.png",
+	"tags": null,
+	"expansionId": 101
 }

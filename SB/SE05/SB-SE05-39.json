@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Fumちょいとヒートアップし過ぎた。 クールにいかねえとな",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/SE05-39",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_se05/sb_se05_39.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_se05/sb_se05_39.png",
+	"tags": null,
+	"expansionId": 47
 }

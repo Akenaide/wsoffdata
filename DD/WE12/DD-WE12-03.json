@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フン…面白い",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
 		"【起】［このカードを【レスト】する］ あなたは自分の《動物》のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -25,8 +25,9 @@
 		"動物",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_03.png",
+	"tags": null,
+	"expansionId": 71
 }

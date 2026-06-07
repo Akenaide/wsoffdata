@@ -10,20 +10,21 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私、待つことには慣れっこなの",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの《フォースの覚醒》のキャラがいないなら、手札からプレイできない。",
 		"あなたは自分のクロックを1枚選び、手札に戻す。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SW/S49-116_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_116_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_116_.png",
+	"tags": null,
+	"expansionId": 400
 }

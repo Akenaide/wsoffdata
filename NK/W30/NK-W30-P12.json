@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の《鍵》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"警察",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/W30-P12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_p12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_w30/nk_w30_p12.png",
+	"tags": null,
+	"expansionId": 12
 }

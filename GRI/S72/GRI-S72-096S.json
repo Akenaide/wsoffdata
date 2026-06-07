@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい？",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは相手のキャラを1枚選び、【レスト】する。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GRI/S72-096S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_096s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_096s.png",
+	"tags": null,
+	"expansionId": 285
 }

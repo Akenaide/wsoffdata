@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "やちよさんの願いが捩じ曲げられてしまったのなら、\u003cbr\u003e私はそれをはねのけてみせる。それくらいできます",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W80-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w80/mr_w80_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w80/mr_w80_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

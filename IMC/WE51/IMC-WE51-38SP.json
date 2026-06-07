@@ -15,20 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【起】［手札の赤のカードを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下の赤のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（CXのレベルは0として扱う。公開したカードは元に戻す）"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［手札の赤のカードを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下の赤のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベルに等しい。（CXのレベルは0として扱う。公開したカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"飴"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/WE51-38SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_38sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_we51/imc_we51_38sp.png",
+	"tags": null,
+	"expansionId": 539
 }

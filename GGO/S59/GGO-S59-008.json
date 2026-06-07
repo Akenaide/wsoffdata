@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "また呼んでください！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「お菓子作戦、大成功です！」があるなら、あなたは自分の控え室の、《SHINC》か《スポーツ》のキャラを2枚まで選び、ストック置場に好きな順番で置く。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/S59-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_008.png",
+	"tags": null,
+	"expansionId": 245
 }

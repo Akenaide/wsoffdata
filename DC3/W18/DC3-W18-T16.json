@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ええー！　な、なんでわかるですか？\u003cbr /\u003eもしかして、お医者さんですか！？",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"新聞",
 		"ウェイトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-T16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_t16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_t16.png",
+	"tags": null,
+	"expansionId": 66
 }

@@ -10,21 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"次の2つの効果のうちあなたが選んだ1つを行う。",
-		"『あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000し、他の枠に動かせない。』",
-		"『あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを－3000し、次の能力を与える。『【自】 このカードがダイレクトアタックした時、あなたは自分の山札を見て《Celebration》か《Disney》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。』』"
+		"次の2つの効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000し、他の枠に動かせない。』\u003cbr\u003e『あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを－3000し、次の能力を与える。『【自】 このカードがダイレクトアタックした時、あなたは自分の山札を見て《Celebration》か《Disney》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。』』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Dds/S104-024S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_024s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_024s.png",
+	"tags": null,
+	"expansionId": 420
 }

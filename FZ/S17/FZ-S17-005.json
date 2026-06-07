@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そんな私を拾ったのは切嗣だ。だから切嗣が好きなように使ってくれればいい",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのクライマックス置場に黄のクライマックスがあるなら、このカードのソウルを＋1。",
 		"【永】 他のあなたの「信じる正義 切嗣」すべてに、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_005.png",
+	"tags": null,
+	"expansionId": 82
 }

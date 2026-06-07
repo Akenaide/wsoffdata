@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《艦娘》のキャラを1枚まで選び、手札に戻す。"
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《艦娘》のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"重巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-073SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_073sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_073sp.png",
+	"tags": null,
+	"expansionId": 270
 }

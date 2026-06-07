@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは1枚まで引く。"
+		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは1枚まで引く。"
 	],
 	"specialAttrib": [
 		"青春",
 		"マケイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-T01SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_t01sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_t01sp.png",
+	"tags": null,
+	"expansionId": 519
 }

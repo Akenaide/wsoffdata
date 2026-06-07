@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そういや圭ちゃんうちの生徒会来たんだって？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「圭」を含むキャラすべてに、パワーを＋500。",
-		"【自】 絆／「首をかしげる圭」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「首をかしげる圭」を1枚選び、手札に戻す）"
+		"【永】 他のあなたのカード名に「圭」を含むキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 絆／「首をかしげる圭」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「首をかしげる圭」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"秀知院",
 		"会長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S79-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_062.png",
+	"tags": null,
+	"expansionId": 317
 }

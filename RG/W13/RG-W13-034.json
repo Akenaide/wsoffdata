@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ピコピコ出てきて可愛い…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、パワーを－500。",
 		"【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“精神感応”春上」を1枚選び、このカードがいた枠に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W13-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w13/rg_w13_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w13/rg_w13_034.png",
+	"tags": null,
+	"expansionId": 54
 }

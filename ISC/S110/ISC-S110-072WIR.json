@@ -15,18 +15,18 @@
 	"rarity": "WIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "トレイ捌きはお任せ♪\u003cbr\u003e",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"イルミネーションスターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-072WIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_072wir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_072wir.png",
+	"tags": null,
+	"expansionId": 468
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ボルテクスクラーッシュ!!",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から4枚を、控え室に置く。それらのカードに「名前の上書き ガビル」があるなら、あなたはこのカードを手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"魔大陸",
 		"水"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_087.png",
+	"tags": null,
+	"expansionId": 283
 }

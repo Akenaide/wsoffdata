@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "基本 骨子 解明 構成材質解明！",
+	"trigger": null,
 	"ability": [
 		"あなたのキャラすべてに、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FS/S34-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_031.png",
+	"tags": null,
+	"expansionId": 139
 }

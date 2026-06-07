@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ばぁ?",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《リベンジ》のキャラなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－6000。（公開したカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"リベンジ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TRV/S92-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_022.png",
+	"tags": null,
+	"expansionId": 389
 }

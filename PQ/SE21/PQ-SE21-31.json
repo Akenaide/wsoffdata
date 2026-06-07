@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いや、僕が行こう",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《魔法》か《武器》のキャラが2枚以上なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"ヘッドフォン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PQ/SE21-31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pq_se21/pq_se21_31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pq_se21/pq_se21_31.png",
+	"tags": null,
+	"expansionId": 13
 }

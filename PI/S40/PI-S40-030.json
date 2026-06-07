@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、他のあなたのキャラがいないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以下のカード名に「ルヴィア」を含むキャラを1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"宝石",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/S40-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_s40/pi_s40_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_s40/pi_s40_030.png",
+	"tags": null,
+	"expansionId": 170
 }

@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "純那「なりたいの……スタァに……」",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の山札の上から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの[SOUL]の合計に等しい。（ダメージキャンセルは発生する）"
+		"あなたは自分の山札の上から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの[[soul.gif]]の合計に等しい。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RSL/S56-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_094.png",
+	"tags": null,
+	"expansionId": 250
 }

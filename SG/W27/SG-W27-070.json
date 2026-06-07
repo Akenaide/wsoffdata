@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「バビロニアの鍵」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、控え室に置き、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W27-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w27/sg_w27_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w27/sg_w27_070.png",
+	"tags": null,
+	"expansionId": 107
 }

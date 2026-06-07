@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてがカード名に「四葉」を含むなら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたはこのカードを思い出にしてよい。』",
-		"【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【永】 あなたのキャラすべてがカード名に「四葉」を含むなら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたはこのカードを思い出にしてよい。』\u003cbr\u003e【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/WE43-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_we43/5hy_we43_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_we43/5hy_we43_01.png",
+	"tags": null,
+	"expansionId": 462
 }

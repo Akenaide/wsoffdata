@@ -15,22 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ドキドキ、キュ…キュン…\u003cbr\u003eはっ！ま、まさか聞こえてました？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのCX置場にCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[SHOT]を得る。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルする。"
+		"【永】 あなたのCX置場にCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[[shot.gif]]を得る。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたの山札が6枚以下なら、あなたは自分の控え室のカードすべてを、山札に戻してよい。そうしたら、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"NIKKE",
-		"メイド",
-		"フォー",
-		"ユー"
+		"メイド・フォー・ユー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_086.png",
+	"tags": null,
+	"expansionId": 494
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ジュビアはエレメント4の一人にして雨女",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたが自分の手札か舞台のキャラの【起】のコストを払うとき、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。",
 		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
@@ -26,8 +26,9 @@
 		"魔法",
 		"エレメント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_083.png",
+	"tags": null,
+	"expansionId": 43
 }

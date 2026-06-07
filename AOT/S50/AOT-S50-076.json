@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハンジ「書類……？わかった、ご苦労さん」",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 このカードの正面のキャラのソウルを＋1し、このカードは《芋》を得る。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 このカードの正面のキャラのソウルを＋1し、このカードは《芋》を得る。"
 	],
 	"specialAttrib": [
 		"兵団",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S50-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s50/aot_s50_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s50/aot_s50_076.png",
+	"tags": null,
+	"expansionId": 207
 }

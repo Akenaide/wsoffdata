@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"スパイ",
 		"灯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsp/W120-019S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsp_w120/fsp_w120_019s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsp_w120/fsp_w120_019s.png",
+	"tags": null,
+	"expansionId": 489
 }

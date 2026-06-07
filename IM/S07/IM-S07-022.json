@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "伊織ちゃんのかわいいポーズが見れて、あんたは幸せ者ね。にひひっ♪",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S07-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_022.png",
+	"tags": null,
+	"expansionId": 29
 }

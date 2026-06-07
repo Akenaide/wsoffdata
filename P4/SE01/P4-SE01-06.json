@@ -8,14 +8,14 @@
 	"jpName": "イザナギ覚醒",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "我は汝、汝は我、\u003cbr /\u003e双眸を見開きて汝、今こそ発せよ",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P4/SE01-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se01/p4_se01_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se01/p4_se01_06.png",
+	"tags": null,
+	"expansionId": 22
 }

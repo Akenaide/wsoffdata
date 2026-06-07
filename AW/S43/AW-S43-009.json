@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ニコ「この女、こう見えて脱いだら案外……」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S43-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_009.png",
+	"tags": null,
+	"expansionId": 176
 }

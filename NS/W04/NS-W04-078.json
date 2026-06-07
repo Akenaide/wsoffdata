@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "クラールヴィントのセンサーからは逃げられない……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「はやて」を含むキャラすべてに、パワーを＋500。",
 		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_078.png",
+	"tags": null,
+	"expansionId": 6
 }

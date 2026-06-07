@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前の質問はこうじゃ。お前は何者じゃ？",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「神の宣託」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《夏》のキャラならストック置場に置き、あなたは相手の控え室のカードを1枚まで選び、山札の上に置く。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"夏",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-T13S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_t13s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_t13s.png",
+	"tags": null,
+	"expansionId": 341
 }

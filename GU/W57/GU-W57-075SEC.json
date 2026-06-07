@@ -15,18 +15,18 @@
 	"rarity": "SEC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 アタックフェイズ中、あなたは自分のカードの効果で自分の控え室のキャラを手札に戻せない。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを－1500。"
+		"【永】 アタックフェイズ中、あなたは自分のカードの効果で自分の控え室のキャラを手札に戻せない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを－1500。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W57-075SEC",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w57/gu_w57_075sec.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w57/gu_w57_075sec.png",
+	"tags": null,
+	"expansionId": 221
 }

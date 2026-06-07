@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置いてよい。"
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"死",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kab/W102-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/kab_w102_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/kab_w102_057.png",
+	"tags": null,
+	"expansionId": 406
 }

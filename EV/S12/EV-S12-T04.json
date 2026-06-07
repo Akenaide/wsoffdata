@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ミサト「作戦どおり、いいわね。シンジ君」",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードはサイドアタックできない。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"メカ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_t04.png",
+	"tags": null,
+	"expansionId": 42
 }

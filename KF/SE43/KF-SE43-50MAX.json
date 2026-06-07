@@ -15,18 +15,18 @@
 	"rarity": "MAX",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[GATE]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでトリガーアイコンが[[gate.gif]]のクライマックスがでた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。"
 	],
 	"specialAttrib": [
 		"超能力",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/SE43-50MAX",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_50max.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_se43/kf_se43_50max.png",
+	"tags": null,
+	"expansionId": 441
 }

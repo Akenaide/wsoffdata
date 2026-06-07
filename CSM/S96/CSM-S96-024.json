@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "野菜を投げるな！",
+	"trigger": null,
 	"ability": [
 		"［手札の、《デビルハンター》か《悪魔》のキャラを2枚控え室に置く］ あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「デンジ」か「チェンソーマン」を含むキャラを1枚までとカード名に「早川アキ」を含むキャラを1枚までとカード名に「パワー」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "CSM/S96-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_024.png",
+	"tags": null,
+	"expansionId": 428
 }

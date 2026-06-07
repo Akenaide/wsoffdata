@@ -15,18 +15,17 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一番槍、突貫しますッ！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 共鳴 ［手札の「新たな戦い 切歌」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1。"
+		"【永】 あなたのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 共鳴 ［手札の「新たな戦い 切歌」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_001.png",
+	"tags": null,
+	"expansionId": 276
 }

@@ -15,8 +15,8 @@
 	"rarity": "MDR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"人間",
 		"社畜SE"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMD/W96-063MDR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_063mdr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmd_w96/kmd_w96_063mdr.png",
+	"tags": null,
+	"expansionId": 386
 }

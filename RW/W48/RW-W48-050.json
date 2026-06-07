@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ルチア「手作り弁当をメ、メイド服でふるまえと言ったのはおまえだろうがぁー！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－2。",
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。"
+		"【永】 舞台のこのカードのレベルを－2。\u003cbr\u003e【自】 この能力は1ターンにつき1回まで発動する。あなたがイベントをプレイした時、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"超能力",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W48-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_050.png",
+	"tags": null,
+	"expansionId": 186
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大抵のアニオタは同時に\u003cbr /\u003e漫画オタ、ゲーオタでもあるんだよ!!",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《オタク》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"オタク",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-125",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_125.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_125.png",
+	"tags": null,
+	"expansionId": 12
 }

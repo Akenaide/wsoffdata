@@ -10,22 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "外を見ればすぐにでも蘇る。あの日の記憶",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《六面世界》のキャラがいないなら、手札からプレイできない。",
-		"次の2つの効果のうちあなたが選んだ1つを行う。",
-		"『あなたは自分の山札を見て《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』",
-		"『あなたは自分の《六面世界》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3500。そのキャラは次のあなたのスタンドフェイズに【スタンド】しない。』"
+		"このカードは、あなたの《六面世界》のキャラがいないなら、手札からプレイできない。\u003cbr\u003e次の2つの効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたは自分の山札を見て《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』\u003cbr\u003e『あなたは自分の《六面世界》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3500。そのキャラは次のあなたのスタンドフェイズに【スタンド】しない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MTI/S83-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_t11.png",
+	"tags": null,
+	"expansionId": 345
 }

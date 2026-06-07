@@ -15,17 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あらゆるウマ娘の頂点に立ち導く“皇帝”たらんとする者だ",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ウマ娘》のキャラの枚数×500に等しい。",
-		"【起】［あなたの《ウマ娘》のキャラを1枚【レスト】する］ そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ウマ娘》のキャラの枚数×500に等しい。\u003cbr\u003e【起】［あなたの《ウマ娘》のキャラを1枚【レスト】する］ そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-157",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_157.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_157.png",
+	"tags": null,
+	"expansionId": 12
 }

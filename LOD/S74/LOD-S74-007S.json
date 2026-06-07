@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何か私にできることがあれば仰ってくださいね？ただし、戦いとならず者を牢屋にぶち込む以外に得意なことはありませんよ？",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《冒険者》のキャラすべてに、パワーを＋1000。",
-		"【起】［手札のカード名に「アイテム」を含むイベントを1枚控え室に置き、このカードを【レスト】する］ あなたは1枚引く。"
+		"【永】 あなたのターン中、他のあなたの《冒険者》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［手札のカード名に「アイテム」を含むイベントを1枚控え室に置き、このカードを【レスト】する］ あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-007S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_007s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_007s.png",
+	"tags": null,
+	"expansionId": 297
 }

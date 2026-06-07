@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ガルングン「その御方こそ、新生魔界を担う最凶魔王、\u003cbr /\u003e新生クリチェフスコイさまである！」",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
 		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"プリニー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_27.png",
+	"tags": null,
+	"expansionId": 102
 }

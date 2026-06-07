@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――おもしれぇ、ですッ！！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「血壊」があり、あなたの手札が5枚以下なら、あなたは自分の山札を上から3枚まで見て、《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"獣人種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_036.png",
+	"tags": null,
+	"expansionId": 236
 }

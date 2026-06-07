@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《双子》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-005SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_005sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_005sp.png",
+	"tags": null,
+	"expansionId": 129
 }

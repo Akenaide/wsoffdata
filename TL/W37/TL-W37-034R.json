@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "でも…意外にマジメな所もあるんだ……",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+		"【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"風紀委員",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-034R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_034r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_034r.png",
+	"tags": null,
+	"expansionId": 150
 }

@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《電撃文庫》のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《電撃文庫》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《電撃文庫》のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《電撃文庫》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gok/WS02-P04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gok_ws02_p04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gok_ws02_p04.png",
+	"tags": null,
+	"expansionId": 12
 }

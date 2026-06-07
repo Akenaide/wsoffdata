@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "人の気持ちは簡単に変わる",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"キズナ",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KI/S44-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_079.png",
+	"tags": null,
+	"expansionId": 177
 }

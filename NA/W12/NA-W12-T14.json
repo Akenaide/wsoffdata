@@ -10,20 +10,21 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『主はやてのそれは…病気ではなかった…』",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの《本》のキャラがいないなら、手札からプレイできない。",
 		"あなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NA/W12-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_t14.png",
+	"tags": null,
+	"expansionId": 38
 }

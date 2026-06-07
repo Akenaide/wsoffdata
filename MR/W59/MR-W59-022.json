@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょとつもうしん？…ってどういう意味？",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのストックが2枚以下なら、このカードはアタックできない。",
-		"【永】 あなたのターン中、このカードのレベルを－1し、パワーを＋500。"
+		"【永】 あなたのストックが2枚以下なら、このカードはアタックできない。\u003cbr\u003e【永】 あなたのターン中、このカードのレベルを－1し、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"マギア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_022.png",
+	"tags": null,
+	"expansionId": 232
 }

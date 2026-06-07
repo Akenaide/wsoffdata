@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「イカれたレン」すべてに、パワーを＋500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
-		"【永】 応援 このカードの前のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1500。",
-		"【起】［(3) このカードを【レスト】する］ あなたは自分の手札の「イカれたレン」を1枚まで選び、舞台の好きな枠に置く。"
+		"【永】 他のあなたの「イカれたレン」すべてに、パワーを＋500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\u003cbr\u003e【永】 応援 このカードの前のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【起】［(3) このカードを【レスト】する］ あなたは自分の手札の「イカれたレン」を1枚まで選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/SE50-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_se50/ggo_se50_23.png",
+	"tags": null,
+	"expansionId": 508
 }

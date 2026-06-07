@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "真！　私は一人抜いたわ！\u003cbr /\u003eだから残り全部、抜きなさい！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_033.png",
+	"tags": null,
+	"expansionId": 80
 }

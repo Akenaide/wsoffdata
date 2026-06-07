@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「魔王ゼノン倒される！！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《プリニー》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
 		"【起】［(1)］ あなたは自分の《プリニー》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
@@ -25,8 +25,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-055S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_055sr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_055sr.png",
+	"tags": null,
+	"expansionId": 5
 }

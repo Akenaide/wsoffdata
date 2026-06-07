@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE32-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we32/bd_we32_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we32/bd_we32_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

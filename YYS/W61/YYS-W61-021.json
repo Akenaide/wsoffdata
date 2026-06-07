@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "クッキー焼いてきたの。よかったら食べて",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の【スタンド】している、《ゆらぎ荘》か《湯煙町》のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を上から3枚まで見て、《ゆらぎ荘》か《湯煙町》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
-		""
+		"あなたは自分の【スタンド】している、《ゆらぎ荘》か《湯煙町》のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を上から3枚まで見て、《ゆらぎ荘》か《湯煙町》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\u003cbr\u003e"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "YYS/W61-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yys_w61/yys_w61_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yys_w61/yys_w61_021.png",
+	"tags": null,
+	"expansionId": 249
 }

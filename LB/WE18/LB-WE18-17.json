@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はぁーい！",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「“なんでもない日常”佳奈多」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“なんでもない日常”佳奈多」を1枚選び、手札に戻す）",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見てカード名に「葉留佳」か「佳奈多」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"ビー玉",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE18-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we18/lb_we18_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we18/lb_we18_17.png",
+	"tags": null,
+	"expansionId": 116
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ワンナウト！ツーアウト！スリーアウト！チェーンジ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、このカードをストック置場に置く。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"６つ子",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_085.png",
+	"tags": null,
+	"expansionId": 171
 }

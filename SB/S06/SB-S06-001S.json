@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのカード名に「いつき」を含むキャラがアタックした時、そのターン中、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"雪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-001S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_001s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_001s.png",
+	"tags": null,
+	"expansionId": 28
 }

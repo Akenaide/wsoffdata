@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "炬燵、出すんだ～",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《思春期》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"思春期",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_015.png",
+	"tags": null,
+	"expansionId": 290
 }

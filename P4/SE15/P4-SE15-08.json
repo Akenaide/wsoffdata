@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "風紀の乱れにチェーンナックル！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
 		"【自】［(1) ］ あなたのクライマックス置場に「ラビリスの怒り」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－4000。"
@@ -25,8 +25,9 @@
 		"メカ",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE15-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se15/p4_se15_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se15/p4_se15_08.png",
+	"tags": null,
+	"expansionId": 91
 }

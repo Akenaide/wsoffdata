@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ねえ、この子の名前は？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《魔大陸》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《魔大陸》のキャラの枚数×500に等しい。",
-		"【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「目覚めし衝動」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、思い出にする。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《魔大陸》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《魔大陸》のキャラの枚数×500に等しい。\u003cbr\u003e【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「目覚めし衝動」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、思い出にする。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"炎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_054.png",
+	"tags": null,
+	"expansionId": 283
 }

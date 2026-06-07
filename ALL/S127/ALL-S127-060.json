@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "無し",
+	"trigger": null,
 	"ability": [
 		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたのレベルが2以上なら、あなたのメインフェイズの始めに、あなたはこのカードを山札の下に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"リリィ",
 		"アールヴヘイム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S127-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s127/all_s127_060.png",
+	"tags": null,
+	"expansionId": 541
 }

@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの後列の《音楽》のキャラ1枚につき、このカードのパワーを＋2500。",
-		"【自】［(1) 手札を1枚控え室に置く］ あなたの「虹を咲かせに 中須 かすみ」が舞台から控え室に置かれた時、控え室にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に【レスト】して置く。"
+		"【永】 他のあなたの後列の《音楽》のキャラ1枚につき、このカードのパワーを＋2500。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置く］ あなたの「虹を咲かせに 中須 かすみ」が舞台から控え室に置かれた時、控え室にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台の好きな枠に【レスト】して置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W97-015S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w97/lnj_w97_015s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w97/lnj_w97_015s.png",
+	"tags": null,
+	"expansionId": 390
 }

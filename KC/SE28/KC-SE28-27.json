@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サセヌ…サセヌワ…！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《深海棲艦》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【永】 他のあなたの《深海棲艦》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"深海棲艦",
 		"鬼"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/SE28-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_se28/kc_se28_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_se28/kc_se28_27.png",
+	"tags": null,
+	"expansionId": 157
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "提督、どうしたの？そんなに赤くなって…。",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードをクロック置場に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「川内型軽巡1番艦 川内改二」を1枚まで選び、このカードがいた枠に防御キャラとして置く。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"軽巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_041.png",
+	"tags": null,
+	"expansionId": 130
 }

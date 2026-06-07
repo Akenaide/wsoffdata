@@ -15,21 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードは青を得る。",
-		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《Pastel＊Palettes》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《Pastel＊Palettes》のキャラを1枚選び、そのターン中、パワーを＋1000し、このカードの下にマーカーがないなら、自分の控え室の「飾らない姿 大和麻弥」を1枚選び、このカードの下にマーカーとして表向きに置く。"
+		"【永】 このカードの下にマーカーがあるなら、このカードは青を得る。\u003cbr\u003e【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《Pastel＊Palettes》のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《Pastel＊Palettes》のキャラを1枚選び、そのターン中、パワーを＋1000し、このカードの下にマーカーがないなら、自分の控え室の「飾らない姿 大和麻弥」を1枚選び、このカードの下にマーカーとして表向きに置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE42-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we42/bd_we42_020.png",
+	"tags": null,
+	"expansionId": 440
 }

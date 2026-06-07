@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "チャン「フンフンフンフンフンフン」\u003cbr /\u003eチョイ「キラーんでやんす」",
+	"trigger": null,
 	"ability": [
 		"【永】 アラーム このカードがクロックの1番上にあるなら、あなたの、《先生》か《暗黒街》か《不良》のキャラすべてに、パワーを＋1000。",
 		"【自】 チェンジ ［このカードをクロック置場に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「正義の教育者キム」を1枚選び、このカードがいた枠に置く。"
@@ -25,8 +25,9 @@
 		"武器",
 		"暗黒街"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_003.png",
+	"tags": null,
+	"expansionId": 27
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "男子の目の前でなんてカッコしてんのよ",
+	"trigger": null,
 	"ability": [
 		"【自】 記憶 このカードがアタックした時、あなたの思い出置場にカードがあるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ゲーム》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_011.png",
+	"tags": null,
+	"expansionId": 220
 }

@@ -15,21 +15,21 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋3500。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「リトルバスターズ！」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋3500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「リトルバスターズ！」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"動物",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/WE50-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/klb_we50_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/klb_we50_13.png",
+	"tags": null,
+	"expansionId": 532
 }

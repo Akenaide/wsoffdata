@@ -15,19 +15,19 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あのバカ……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《パラサイト》か《フランクス》のキャラの枚数に等しい。",
-		"【自】 このカードがアタックした時、他のあなたの、《パラサイト》か《フランクス》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《パラサイト》か《フランクス》のキャラの枚数に等しい。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの、《パラサイト》か《フランクス》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"パラサイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-T18R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_t18r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_t18r.png",
+	"tags": null,
+	"expansionId": 231
 }

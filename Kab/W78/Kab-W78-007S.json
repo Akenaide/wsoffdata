@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしは歌を唄っている時が一番リラックスしているんだ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《死》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「始まりの音」が置かれた時、前列にこのカードがいて、あなたのキャラすべてが《Anniversary》か《死》なら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置き、そうでないならあなたはそのカードを手札に加えるか控え室に置く。"
+		"【永】 他のあなたの、《Anniversary》か《死》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「始まりの音」が置かれた時、前列にこのカードがいて、あなたのキャラすべてが《Anniversary》か《死》なら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置き、そうでないならあなたはそのカードを手札に加えるか控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"死",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kab/W78-007S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kab_w78/kab_w78_007s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kab_w78/kab_w78_007s.png",
+	"tags": null,
+	"expansionId": 296
 }

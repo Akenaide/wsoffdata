@@ -15,15 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが《ホロライブ》なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「ありがチュー！」が置かれた時、他のあなたの《ホロライブ》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードは【リバース】しない。』『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』"
+		"【永】 あなたのターン中、あなたのキャラすべてが《ホロライブ》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「ありがチュー！」が置かれた時、他のあなたの《ホロライブ》のキャラが2枚以上なら、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードは【リバース】しない。』『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"ホロライブ",
+		"ホロライブEnglish-Council-"
+	],
+	"version": "4",
 	"cardcode": "HOL/W104-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w104/hol_w104_046.png",
+	"tags": null,
+	"expansionId": 419
 }

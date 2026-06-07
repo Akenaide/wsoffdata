@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "え…",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て緑か《契約黒猫》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KR/SE30-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kr_se30/kr_se30_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kr_se30/kr_se30_14.png",
+	"tags": null,
+	"expansionId": 172
 }

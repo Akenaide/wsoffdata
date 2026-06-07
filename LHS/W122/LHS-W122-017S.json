@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「Holiday∞Holiday」があり、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「Holiday∞Holiday」があり、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"スリーズブーケ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LHS/W122-017S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_017s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lhs_w122/lhs_w122_017s.png",
+	"tags": null,
+	"expansionId": 502
 }

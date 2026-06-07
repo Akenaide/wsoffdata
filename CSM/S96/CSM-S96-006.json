@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "約束だったじゃろ。胸を揉ませてやるから…揉め！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分の控え室の、《デビルハンター》か《悪魔》か《動物》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_006.png",
+	"tags": null,
+	"expansionId": 428
 }

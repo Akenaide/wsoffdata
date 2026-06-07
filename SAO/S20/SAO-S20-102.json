@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "俺たちが頑張らなきゃ、\u003cbr /\u003eサポートしてくれる職人クラスの連中に\u003cbr /\u003e申し訳が立たないもんな",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_102.png",
+	"tags": null,
+	"expansionId": 67
 }

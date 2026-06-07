@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前たち、準備はいいか？　超魔王バールを倒しに向かうぞ！",
+	"trigger": null,
 	"ability": [
 		"あなたは相手の控え室のクライマックスを1枚選び、山札に戻す。そうしたら、その山札をシャッフルし、あなたは相手のレベル2以下のキャラを1枚選び、ストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DG/S02-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_020.png",
+	"tags": null,
+	"expansionId": 5
 }

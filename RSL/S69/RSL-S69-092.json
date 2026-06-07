@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "火の女神だといっても\u003cbr\u003eファイヤーダンスは踊りませんよ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場のカードと控え室の「新たな舞台 雪代 晶」を1枚ずつ選び、入れ替えてよい。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《レヴュー》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル置場のカードと控え室の「新たな舞台 雪代 晶」を1枚ずつ選び、入れ替えてよい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《レヴュー》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"シークフェルト音楽学院"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S69-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s69/rsl_s69_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s69/rsl_s69_092.png",
+	"tags": null,
+	"expansionId": 279
 }

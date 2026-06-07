@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "陣形を整え、私に続いて！　行くからね！",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場の「神風型駆逐艦2番艦 朝風」1枚につき、このカードのパワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_063.png",
+	"tags": null,
+	"expansionId": 270
 }

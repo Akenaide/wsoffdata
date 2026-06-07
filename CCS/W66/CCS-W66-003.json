@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ワン・ツー・スリー",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《クリアカード編》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「さくら色の毎日」があり、他のあなたの《クリアカード編》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+		"【永】 他のあなたの《クリアカード編》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「さくら色の毎日」があり、他のあなたの《クリアカード編》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_003.png",
+	"tags": null,
+	"expansionId": 274
 }

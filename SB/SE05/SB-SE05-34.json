@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここは俺に任せろ。私怨に駆られて大義を忘れるんじゃねえ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手でレベル1以上のキャラが【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/SE05-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_se05/sb_se05_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_se05/sb_se05_34.png",
+	"tags": null,
+	"expansionId": 47
 }

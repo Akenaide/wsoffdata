@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "言ったろ、一人じゃなきゃ罰の意味がないって！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《炎》かカード名に「近衛」を含むキャラの枚数×500に等しい。",
-		"【自】 このカードがアタックした時、あなたは自分の、《炎》かカード名に「近衛」を含むキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《炎》かカード名に「近衛」を含むキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の、《炎》かカード名に「近衛」を含むキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"炎",
 		"蛇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE41-52",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we41/ss_we41_52.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we41/ss_we41_52.png",
+	"tags": null,
+	"expansionId": 447
 }

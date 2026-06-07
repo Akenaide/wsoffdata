@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いらっしゃいませ～！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《BLOOM》か《ラビットハウス》なら、このカードのパワーを＋1000。",
-		"【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+		"【永】 あなたのキャラすべてが《BLOOM》か《ラビットハウス》なら、このカードのパワーを＋1000。\u003cbr\u003e【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_036.png",
+	"tags": null,
+	"expansionId": 344
 }

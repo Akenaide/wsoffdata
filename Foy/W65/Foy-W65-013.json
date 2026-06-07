@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "過程や方法など、どうでもよいのだーッ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《ファンタジア文庫》か《戦国》のキャラなら、相手の前列のキャラすべてに、そのターン中、パワーを－1000。（公開したカードは元に戻す）"
 	],
@@ -25,8 +25,9 @@
 		"戦国",
 		"中二病"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Foy/W65-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/foy_w65/foy_w65_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/foy_w65/foy_w65_013.png",
+	"tags": null,
+	"expansionId": 264
 }

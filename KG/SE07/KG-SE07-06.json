@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『不肯』あなたに言われたくはない",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"忍",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_06.png",
+	"tags": null,
+	"expansionId": 56
 }

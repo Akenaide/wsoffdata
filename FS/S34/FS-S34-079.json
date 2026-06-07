@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アサシンのサーヴァント、佐々木小次郎",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、前列の中央の枠にこのカードがいるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_079.png",
+	"tags": null,
+	"expansionId": 139
 }

@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みなさん、ごきげんよう。\u003cbr\u003e私はアナスタシア・パルマ",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を上から4枚まで見て、《華撃団》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SKR/S73-T09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_t09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_t09.png",
+	"tags": null,
+	"expansionId": 292
 }

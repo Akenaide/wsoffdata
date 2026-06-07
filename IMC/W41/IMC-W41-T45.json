@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ロック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-T45",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_t45.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_t45.png",
+	"tags": null,
+	"expansionId": 141
 }

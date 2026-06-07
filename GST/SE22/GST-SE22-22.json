@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前らのギガントを全部出しやがれ！",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《ギガント》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"不良",
 		"ギガント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GST/SE22-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gst_se22/gst_se22_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gst_se22/gst_se22_22.png",
+	"tags": null,
+	"expansionId": 126
 }

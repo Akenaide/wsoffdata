@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "淳和「ああ、愛理ちゃん、\u003cbr /\u003eほら、口、拭いてあげるから、じっとしてて」",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_080.png",
+	"tags": null,
+	"expansionId": 86
 }

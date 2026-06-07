@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "C-3PO: \"I'm quite sure you'll be very pleased with that one, sir. He really is in first-class condition.\"",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"新たなる希望"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-087R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_087r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_087r.png",
+	"tags": null,
+	"expansionId": 199
 }

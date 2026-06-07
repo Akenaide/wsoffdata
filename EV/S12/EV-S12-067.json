@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいけど、弁当は分けないわよ",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《パイロット》のキャラを1枚選び、手札に戻す。",
 		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
@@ -25,8 +25,9 @@
 		"パイロット",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_067.png",
+	"tags": null,
+	"expansionId": 49
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "遮蔽物もないし、空気も済んでる……よく見える……",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(2)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－4000。"
 	],
@@ -24,8 +24,9 @@
 		"メカ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_039.png",
+	"tags": null,
+	"expansionId": 6
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほらほらいくよ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て特徴を持たないか《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-P10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_p10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_p10.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,7 +15,7 @@
 	"rarity": "GBCR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"トゲナシトゲアリ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GCR/SE48-36GBC",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_36gbc.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gcr_se48/gcr_se48_36gbc.png",
+	"tags": null,
+	"expansionId": 497
 }

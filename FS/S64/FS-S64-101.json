@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "桜が悪いコトしたら怒る。誰よりも叱る",
+	"trigger": null,
 	"ability": [
 		"【永】 前列の中央の枠にこのカードがいるなら、このカードのレベルを＋1し、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_101.png",
+	"tags": null,
+	"expansionId": 262
 }

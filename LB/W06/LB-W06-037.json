@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それは…のりたま！？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の後列のカード名に「真人」を含むキャラを1枚選び、ストック置場に置いてよい。",
 		"【起】［あなたの《動物》のキャラを1枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_037.png",
+	"tags": null,
+	"expansionId": 18
 }

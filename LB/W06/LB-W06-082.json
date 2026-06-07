@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お姉ちゃんを―――お願いね",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「美魚」を含むキャラすべてに、《メガネ》を与える。",
 		"【自】 絆／「“浮世離れ”美魚」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“浮世離れ”美魚」を1枚選び、手札に戻す）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"影"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_082.png",
+	"tags": null,
+	"expansionId": 18
 }

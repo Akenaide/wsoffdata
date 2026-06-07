@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もし死んだら帝国が弁償する",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの赤のキャラ1枚につき、このカードのパワーを＋500。",
 		"【自】 バトル中のこのカードが【リバース】した時、相手はあなたの控え室のキャラを1枚選び、山札の上に置いてよい。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"帝国の逆襲"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_059.png",
+	"tags": null,
+	"expansionId": 199
 }

@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "一度ダイブすれば、ずっといることも可能だよ。\u003cbr /\u003eもっともレベル4以上じゃないと入れないけどね",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_095.png",
+	"tags": null,
+	"expansionId": 85
 }

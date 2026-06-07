@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの「キミと願うミライ 湊あくあ」がいるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。"
+		"【永】 あなたのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの「キミと願うミライ 湊あくあ」がいるなら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"2期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE36-47",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we36/hol_we36_47.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we36/hol_we36_47.png",
+	"tags": null,
+	"expansionId": 383
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふふ、『取り引き成立』ね。\u003cbr\u003eなんだか怪盗っぽい！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置き、そのターン中、そのキャラに《コーヒー》を与える。"
+		"【永】 他のあなたの前列のキャラが1枚以下なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたのキャラが1枚以下なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル0以下のキャラなら、そのキャラを後列の好きな枠に置き、そのターン中、そのキャラに《コーヒー》を与える。"
 	],
 	"specialAttrib": [
 		"怪盗",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_041.png",
+	"tags": null,
+	"expansionId": 180
 }

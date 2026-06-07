@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"声優"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WS/WSPR-P26",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/ws_wspr/ws_wspr_p26.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/ws_wspr/ws_wspr_p26.png",
+	"tags": null,
+	"expansionId": 11
 }

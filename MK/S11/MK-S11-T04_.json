@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぼ、僕のお菓子が～！",
+	"trigger": null,
 	"ability": [
 		"【自】 ［(1)］ このカードがアタックした時、クライマックス置場に「ダイレクトハック」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-T04_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_t04.png",
+	"tags": null,
+	"expansionId": 42
 }

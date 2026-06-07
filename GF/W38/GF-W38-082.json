@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "脚を止めずにダッシュダッシュ、急いで！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《ガール》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"ガール",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_082.png",
+	"tags": null,
+	"expansionId": 144
 }

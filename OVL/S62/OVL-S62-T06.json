@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はっ！",
+	"trigger": null,
 	"ability": [
 		"【永】他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"異形種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-T06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_t06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_t06.png",
+	"tags": null,
+	"expansionId": 253
 }

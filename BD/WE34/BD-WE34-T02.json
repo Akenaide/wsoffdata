@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "つくし「ふふん、これくらい当然だよ！」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたのキャラすべてが《音楽》なら、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Morfonica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE34-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we34/bd_we34_t02.png",
+	"tags": null,
+	"expansionId": 334
 }

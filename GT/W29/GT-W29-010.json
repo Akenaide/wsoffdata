@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日は5万ユーロや！インフレやで～！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札の「１００万ドル金貨」を1枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"タロット",
 		"コイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_010.png",
+	"tags": null,
+	"expansionId": 106
 }

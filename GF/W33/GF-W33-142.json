@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…よ～し、私の出番だぁ、行ってくるね。少しはプロっぽいところ見せちゃうよ～",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"ドレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-142",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_142.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_142.png",
+	"tags": null,
+	"expansionId": 131
 }

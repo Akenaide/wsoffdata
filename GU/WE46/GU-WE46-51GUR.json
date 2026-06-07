@@ -15,18 +15,18 @@
 	"rarity": "GUR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの青のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、そのターン中、レベルを＋2。"
+		"【永】 他のあなたの青のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、そのターン中、レベルを＋2。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"コーヒー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE46-51GUR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we46/gu_we46_51gur.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we46/gu_we46_51gur.png",
+	"tags": null,
+	"expansionId": 487
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "確かに受け取ったぞ、ジェラール",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「ナツ vs. ゼロ」が置かれた時、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』",
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-26",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_26.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_26.png",
+	"tags": null,
+	"expansionId": 68
 }

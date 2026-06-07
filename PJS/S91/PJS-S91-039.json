@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――アイドルになりたい、アイドルでいたい",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「国民的アイドルだった少女 桐谷遥」を1枚選び、思い出にしてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「国民的アイドルだった少女 桐谷遥」を1枚選び、思い出にしてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"MORE MORE JUMP！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_039.png",
+	"tags": null,
+	"expansionId": 380
 }

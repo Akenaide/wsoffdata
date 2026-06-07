@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "わたしだって戦える！だって、百合ヶ丘のリリィだもん！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《リリィ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋9500し、このカードは次の2つの能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』『【自】 ターンの終わりに、このカードを思い出にする。』"
+		"【永】 あなたの《リリィ》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋9500し、このカードは次の2つの能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。』『【自】 ターンの終わりに、このカードを思い出にする。』"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S127-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s127/all_s127_065.png",
+	"tags": null,
+	"expansionId": 541
 }

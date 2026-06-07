@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お年玉貯金しかないんですけど…",
+	"trigger": null,
 	"ability": [
-		"【自】［あなたの思い出置場の「私の居場所 さな」を1枚控え室に置く］ このカードがアタックした時、他のあなたの《魔法》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【自】［あなたの思い出置場の「私の居場所 さな」を1枚控え室に置く］ このカードがアタックした時、他のあなたの《魔法》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W80-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w80/mr_w80_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w80/mr_w80_043.png",
+	"tags": null,
+	"expansionId": 301
 }

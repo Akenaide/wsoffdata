@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の《ウマ娘》のキャラを1枚控え室に置く］』を得る。",
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1500に等しい。"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の《ウマ娘》のキャラを1枚控え室に置く］』を得る。\u003cbr\u003e【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1500に等しい。"
 	],
 	"specialAttrib": [
 		"ウマ娘",
 		"シンデレラグレイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W134-026S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_026s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w134/uma_w134_026s.png",
+	"tags": null,
+	"expansionId": 540
 }

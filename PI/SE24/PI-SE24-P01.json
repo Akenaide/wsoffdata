@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "美遊「…イリヤ」\u003cbr /\u003eイリヤ「ん？なーに、美遊？」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE24-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se24/pi_se24_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se24/pi_se24_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

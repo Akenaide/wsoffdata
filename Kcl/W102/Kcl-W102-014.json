@@ -15,20 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……そんなことできないです",
+	"trigger": null,
 	"ability": [
-		"【永】【CXコンボ】 控え室にこのカードがあるなら、このカードのカード名は「桜舞い散る坂道」としても扱う。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】［このカードを控え室に置く］ あなたのレベルが1以上なら、あなたは自分の控え室の「二人の子供 汐」を1枚選び、このカードがいた枠に置く。"
+		"【永】【CXコンボ】 控え室にこのカードがあるなら、このカードのカード名は「桜舞い散る坂道」としても扱う。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】［このカードを控え室に置く］ あなたのレベルが1以上なら、あなたは自分の控え室の「二人の子供 汐」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"演劇",
 		"だんご"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kcl/W102-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/kcl_w102_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/kcl_w102_014.png",
+	"tags": null,
+	"expansionId": 406
 }

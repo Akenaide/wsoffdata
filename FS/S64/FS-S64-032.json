@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "止めとけ 生まれつきでな 飛び道具は通じねぇんだ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。",
-		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラが2枚以上なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の、《マスター》か《サーヴァント》のキャラを1枚控え室に置く］』を得る。"
+		"【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。\u003cbr\u003e【永】 他のあなたの、《マスター》か《サーヴァント》のキャラが2枚以上なら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札の、《マスター》か《サーヴァント》のキャラを1枚控え室に置く］』を得る。"
 	],
 	"specialAttrib": [
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_032.png",
+	"tags": null,
+	"expansionId": 262
 }

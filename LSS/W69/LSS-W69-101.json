@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたはどのキャンディにするか決めた？",
+	"trigger": null,
 	"ability": [
-		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、思い出にし、アンコールステップの始めに、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。",
-		"【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、思い出にし、アンコールステップの始めに、相手は自分の思い出置場のそのキャラを、舞台の好きな枠に置く。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W69-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_101.png",
+	"tags": null,
+	"expansionId": 273
 }

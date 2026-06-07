@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "出撃です！本領発揮するよぉ。",
+	"trigger": null,
 	"ability": [
 		"【自】［他のあなたの【スタンド】している《駆逐艦》のキャラを1枚と、このカードを【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_102.png",
+	"tags": null,
+	"expansionId": 113
 }

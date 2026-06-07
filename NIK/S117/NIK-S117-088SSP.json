@@ -15,19 +15,18 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台にこのカードがいるなら、このカードは《浸食》を得る。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、あなたは自分の控え室の《NIKKE》のキャラを1枚選び、手札に戻してよい。",
-		"【自】 あなたのドローフェイズの始めに、あなたは他の自分の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
+		"【永】 舞台にこのカードがいるなら、このカードは《浸食》を得る。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、あなたは自分の控え室の《NIKKE》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】 あなたのドローフェイズの始めに、あなたは他の自分の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"カウンターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-088SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_088ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_088ssp.png",
+	"tags": null,
+	"expansionId": 494
 }

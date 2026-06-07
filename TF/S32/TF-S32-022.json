@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《改造》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000し、ソウルを＋2。"
+		"このカードは、あなたの《改造》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000し、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TF/S32-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_022.png",
+	"tags": null,
+	"expansionId": 135
 }

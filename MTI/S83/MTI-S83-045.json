@@ -10,21 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この槍は…俺を呪いから救い出す為に、命を投げ出した息子の魂だ。…スペルド族の悪評は、迂闊にラプラスを信じ、呪われた槍を受けとってしまった俺達への罰だ",
+	"trigger": null,
 	"ability": [
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
-		"このカードを思い出にする。",
-		"【自】 記憶 あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。\u003cbr\u003eこのカードを思い出にする。\u003cbr\u003e【自】 記憶 あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MTI/S83-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_045.png",
+	"tags": null,
+	"expansionId": 346
 }

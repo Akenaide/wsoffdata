@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ユージオ「わ、解かってるよ。ステイ・クール、だろ？」",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《フラクトライト》なら、このカードのパワーを＋1000。",
-		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【永】 あなたのキャラすべてが《フラクトライト》なら、このカードのパワーを＋1000。\u003cbr\u003e【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S65-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_p03.png",
+	"tags": null,
+	"expansionId": 13
 }

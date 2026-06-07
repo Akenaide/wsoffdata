@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "市ヶ谷さん。これから、一緒に……がんばっていきましょう",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《Roselia》のキャラの枚数×500に等しい。"
 	],
@@ -25,8 +25,9 @@
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-110S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_110s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_110s.png",
+	"tags": null,
+	"expansionId": 382
 }

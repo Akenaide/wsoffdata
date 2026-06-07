@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "力を合わせて最高のライブにしよう！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《お菓子》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_058.png",
+	"tags": null,
+	"expansionId": 129
 }

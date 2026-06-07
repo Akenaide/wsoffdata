@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "蔵のスピーカー借りてもいい？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"うさぎ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_104.png",
+	"tags": null,
+	"expansionId": 196
 }

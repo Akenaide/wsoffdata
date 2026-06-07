@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "待ってるから",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「月下の誘い」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《五つ子》のキャラを1枚選び、【スタンド】する。"
 	],
@@ -24,8 +24,9 @@
 		"五つ子",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-071S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_071s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_071s.png",
+	"tags": null,
+	"expansionId": 309
 }

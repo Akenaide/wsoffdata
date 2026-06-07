@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……私の命は……あなたを守るためだけに、ある……",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
 		"【自】 アンコールステップの始めに、あなたのクライマックス置場に「風の記憶」があるなら、あなたはこのカードを手札に戻してよい。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_001.png",
+	"tags": null,
+	"expansionId": 32
 }

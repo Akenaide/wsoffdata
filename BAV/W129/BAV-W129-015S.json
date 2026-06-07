@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《キヴォトス》のキャラが3枚以上なら、あなたのCXフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《キヴォトス》のキャラが3枚以上なら、あなたのCXフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"対策委員会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W129-015S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_015s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w129/bav_w129_015s.png",
+	"tags": null,
+	"expansionId": 530
 }

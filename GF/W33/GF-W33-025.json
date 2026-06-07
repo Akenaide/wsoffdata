@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それで、記念撮影はどっちだって？…あの集団の向こうか",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1。"
 	],
 	"specialAttrib": [
 		"ガール",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_025.png",
+	"tags": null,
+	"expansionId": 131
 }

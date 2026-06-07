@@ -10,21 +10,22 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あと……六本……",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室の「謎の存在 アローン」を1枚選び、舞台の好きな枠に置く。このカードを思い出にする。",
 		"【永】 このカードと同じカード名のカードは、デッキに10枚まで入れることができる。",
 		"【永】 記憶 思い出置場にこのカードがあるなら、あなたの「謎の存在 アローン」すべてに、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "VR/W22-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_074.png",
+	"tags": null,
+	"expansionId": 97
 }

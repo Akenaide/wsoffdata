@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "美遊「イリヤ！何があったの！？」\r\nイリヤ「お、おはよう…」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が4枚以上なら、他のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE24-31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se24/pi_se24_31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se24/pi_se24_31.png",
+	"tags": null,
+	"expansionId": 133
 }

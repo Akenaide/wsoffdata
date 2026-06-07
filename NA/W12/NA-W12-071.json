@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…………………▽",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室のカード名に「ヴィータ」を含むキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NA/W12-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_071.png",
+	"tags": null,
+	"expansionId": 44
 }

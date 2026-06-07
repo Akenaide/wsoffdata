@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "04",
@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お待たせしたのですっ！",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの控え室の、《動物》か《勇者》のキャラを1枚クロック置場の下に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
 		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -25,8 +25,9 @@
 		"勇者",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE17-04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_04.png",
+	"tags": null,
+	"expansionId": 100
 }

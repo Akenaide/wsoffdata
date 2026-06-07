@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "………………はっ！　い、いけませんのっ！\u003cbr /\u003eお姉さまの香りに包まれていると思わず意識が",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の《超能力》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RG/W26-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w26/rg_w26_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w26/rg_w26_077.png",
+	"tags": null,
+	"expansionId": 103
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他の《武器》のキャラがいないなら、このカードは《服》をすべて失い、このカードは次の3つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋2000。』『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』『【自】 ターンの終わりに、このカードを控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_094.png",
+	"tags": null,
+	"expansionId": 548
 }

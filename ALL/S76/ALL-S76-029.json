@@ -10,22 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《リリィ》のキャラがいないなら、手札からプレイできない。",
-		"このカードを思い出にする。",
-		"あなたは自分の控え室の《リリィ》のキャラを1枚まで選び、手札に戻し、相手のキャラを1枚選び、そのターン中、レベルを－1。",
-		"【自】 記憶 ［手札のクライマックスを1枚控え室に置く］ あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。"
+		"このカードは、あなたの《リリィ》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eこのカードを思い出にする。\u003cbr\u003eあなたは自分の控え室の《リリィ》のキャラを1枚まで選び、手札に戻し、相手のキャラを1枚選び、そのターン中、レベルを－1。\u003cbr\u003e【自】 記憶 ［手札のクライマックスを1枚控え室に置く］ あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ALL/S76-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s76/all_s76_029.png",
+	"tags": null,
+	"expansionId": 337
 }

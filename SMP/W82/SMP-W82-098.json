@@ -10,22 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"相手はラリーする。",
-		"あなたは1枚引き、すべてのプレイヤーは自分の、このカードの効果で控え室に置かれたカード1枚につき、1枚引く。",
-		"このカードを思い出にする。",
-		"【リプレイ】 ラリー この行動をしているプレイヤーは自分の手札を1枚選び、控え室に置いてよい。置いてないなら、この行動をしているプレイヤーの相手は1枚引いてよい。置いたら、この行動をしているプレイヤーの相手はラリーする。"
+		"相手はラリーする。\u003cbr\u003eあなたは1枚引き、すべてのプレイヤーは自分の、このカードの効果で控え室に置かれたカード1枚につき、1枚引く。\u003cbr\u003eこのカードを思い出にする。\u003cbr\u003e【リプレイ】 ラリー この行動をしているプレイヤーは自分の手札を1枚選び、控え室に置いてよい。置いてないなら、この行動をしているプレイヤーの相手は1枚引いてよい。置いたら、この行動をしているプレイヤーの相手はラリーする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SMP/W82-098",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_098.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_098.png",
+	"tags": null,
+	"expansionId": 311
 }

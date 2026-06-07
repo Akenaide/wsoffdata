@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ハルヒって誰のことなの？そんな愛称の人がいたかしらね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《スニーカー文庫》か《宇宙人》のキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの、《スニーカー文庫》か《宇宙人》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"宇宙人",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssy/W62-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ssy_w62/ssy_w62_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ssy_w62/ssy_w62_090.png",
+	"tags": null,
+	"expansionId": 259
 }

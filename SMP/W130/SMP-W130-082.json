@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "だって、あたしは今、そういうことにかまけてらんないし",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたのカード名に「“夏の思い出”」を含むキャラすべてに、パワーを＋1000。",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
-		"【起】［(3) 手札を2枚控え室に置く］ 相手に5ダメージを与える。（ダメージキャンセルは発生する）"
+		"【永】 あなたのターン中、他のあなたのカード名に「“夏の思い出”」を含むキャラすべてに、パワーを＋1000。\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。\u003cbr\u003e【起】［(3) 手札を2枚控え室に置く］ 相手に5ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W130-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w130/smp_w130_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w130/smp_w130_082.png",
+	"tags": null,
+	"expansionId": 521
 }

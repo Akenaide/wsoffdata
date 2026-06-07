@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "了解…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたは相手のキャラを1枚選び、そのターンの次のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"助手"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_059.png",
+	"tags": null,
+	"expansionId": 472
 }

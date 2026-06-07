@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "若いうちはとりあえず肉だ。肉を食っていれば、\u003cbr\u003e人間は幸せになるぜ、臥煙の忘れ形見",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"怪異",
 		"肉"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_046.png",
+	"tags": null,
+	"expansionId": 159
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが《Merm4id》なら、このカードのパワーを＋2000。",
-		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+		"【永】 あなたのターン中、あなたのキャラすべてが《Merm4id》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Merm4id"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DJ/S97-006S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_006s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_006s.png",
+	"tags": null,
+	"expansionId": 423
 }

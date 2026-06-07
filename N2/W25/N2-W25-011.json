@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前達があれをどう決めつけようと…\u003cbr /\u003eどう罵ろうと、聞く耳は持てん",
+	"trigger": null,
 	"ability": [
 		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1500し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_011.png",
+	"tags": null,
+	"expansionId": 94
 }

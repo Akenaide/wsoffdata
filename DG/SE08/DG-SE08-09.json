@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これは戦争よ！！　悪夢を断ち切り、もっと乙女チックな夢を手に入れるための自由と青春の闘争なのよ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のクライマックスを1枚選び、山札に戻してよい。そうしたら、相手はその山札をシャッフルし、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"プリニー",
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE08-09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se08/dg_se08_09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se08/dg_se08_09.png",
+	"tags": null,
+	"expansionId": 59
 }

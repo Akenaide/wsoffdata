@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "つまりキミ達は、その寄せ集めなんだよ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《グリザイア》のキャラすべてに、パワーを＋1500。",
-		"【起】［(1) このカードを【レスト】する］ あなたは自分の《ヤブイヌ小隊》のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+		"【永】 応援 このカードの前のあなたの《グリザイア》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【起】［(1) このカードを【レスト】する］ あなたは自分の《ヤブイヌ小隊》のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"ヤブイヌ小隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_096.png",
+	"tags": null,
+	"expansionId": 347
 }

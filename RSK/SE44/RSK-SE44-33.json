@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よーし、い、いくぞ！",
+	"trigger": null,
 	"ability": [
 		"【自】 経験 共鳴 ［手札のあなたのレベル置場のキャラと同じカード名のキャラを1枚公開する］ あなたのクライマックスフェイズの始めに、他のあなたのキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"メルヴァニア",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSK/SE44-33",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_33.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsk_se44/rsk_se44_33.png",
+	"tags": null,
+	"expansionId": 457
 }

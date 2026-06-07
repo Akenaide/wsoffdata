@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あの子、私とまるで瓜二つでございます！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「終わらない稽古」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラなら手札に加え、あなたは相手の後列のレベル1以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"バランス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_036.png",
+	"tags": null,
+	"expansionId": 232
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もうちょっとあんたも喜びなさいよ、この発見を",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「浴衣のキョン」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「浴衣のキョン」を1枚選び、手札に戻す）",
 		"【起】［(1)］ あなたは自分の《和服》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"団長",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_053.png",
+	"tags": null,
+	"expansionId": 35
 }

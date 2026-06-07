@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今のお前たちの実力ではビーイングニュクスを倒すなどまったくもって不可能！無謀！ナンセンス！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「王を抱くシルバー・クロウ」を1枚選び、このカードがいた枠に置く。』",
-		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。"
+		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「王を抱くシルバー・クロウ」を1枚選び、このカードがいた枠に置く。』\u003cbr\u003e【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"ビーイング",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S43-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_017.png",
+	"tags": null,
+	"expansionId": 176
 }

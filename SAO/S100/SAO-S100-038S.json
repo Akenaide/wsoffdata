@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "たとえば……自分がどれくらい真剣なのか……とかね",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の《Anniversary》のキャラを1枚選び、手札に戻す。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の《Anniversary》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-038S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_038s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_038s.png",
+	"tags": null,
+	"expansionId": 405
 }

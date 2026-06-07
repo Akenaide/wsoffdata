@@ -15,20 +15,20 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】［他のあなたの舞台の《音楽》のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（CXのレベルは0として扱う。そうでないなら元に戻す）"
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】［他のあなたの舞台の《音楽》のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（CXのレベルは0として扱う。そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"占い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IAS/SE52-10BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_se52/ias_se52_10bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_se52/ias_se52_10bnp.png",
+	"tags": null,
+	"expansionId": 522
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お元気そうですね うふふ～",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_067.png",
+	"tags": null,
+	"expansionId": 162
 }

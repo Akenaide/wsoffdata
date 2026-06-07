@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ばいばい",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの青のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 経験 相手のアンコールステップの始めに、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは他の自分のキャラを1枚選び、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
+		"【永】 応援 このカードの前のあなたの青のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 経験 相手のアンコールステップの始めに、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは他の自分のキャラを1枚選び、そのターン中、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
 	],
 	"specialAttrib": [
 		"ストライカー",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-124",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_124.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_124.png",
+	"tags": null,
+	"expansionId": 162
 }

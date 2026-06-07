@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋1500。",
-		"【自】 あなたのトリガーアイコンが[RETURN]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から2枚までを、ストック置場に置く。』"
+		"【永】 あなたのターン中、他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[bounce.gif]]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から2枚までを、ストック置場に置く。』"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S89-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s89/mar_s89_009.png",
+	"tags": null,
+	"expansionId": 370
 }

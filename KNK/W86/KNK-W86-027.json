@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "－",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのカード名に「墨」を含むキャラすべてに、パワーを＋1500。",
-		"【自】 経験 ［手札を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたのレベル置場に「人見知りの“彼女” 墨」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【永】 応援 このカードの前のあなたのカード名に「墨」を含むキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 経験 ［手札を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたのレベル置場に「人見知りの“彼女” 墨」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"ダイアモンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_027.png",
+	"tags": null,
+	"expansionId": 322
 }

@@ -15,17 +15,17 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたの控え室にイベントがあるなら、あなたは自分の山札を上から1枚見て、山札の上か下か控え室に置き、そのターン中、このカードのパワーを＋2500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《PIXAR》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【自】 このカードがアタックした時、あなたの控え室にイベントがあるなら、あなたは自分の山札を上から1枚見て、山札の上か下か控え室に置き、そのターン中、このカードのパワーを＋2500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《PIXAR》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S122-073SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s122/pxr_s122_073sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s122/pxr_s122_073sp.png",
+	"tags": null,
+	"expansionId": 523
 }

@@ -15,21 +15,21 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋2500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"神",
 		"回復",
 		"体力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PAD/S105-T07R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t07r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_t07r.png",
+	"tags": null,
+	"expansionId": 425
 }

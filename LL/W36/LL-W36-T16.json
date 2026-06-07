@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "花火大会の大きな花火もいいけど、線香花火も好き。かわいいわよね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
-		"【起】［あなたの《音楽》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。"
+		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）\u003cbr\u003e【起】［あなたの《音楽》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-T16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_t16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_t16.png",
+	"tags": null,
+	"expansionId": 141
 }

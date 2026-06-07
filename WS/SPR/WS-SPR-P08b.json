@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"声優",
 		"カードゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WS/SPR-P08b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/ws_spr/ws_spr_p08b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/ws_spr/ws_spr_p08b.png",
+	"tags": null,
+	"expansionId": 13
 }

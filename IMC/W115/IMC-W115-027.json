@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "まったく、本当に子どもみたいにはしゃぐんだから。…おかしいわね。豚に笑っていいと言った覚えは無いのだけれど",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋2000。",
-		"【自】［(1)］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
+		"【永】 あなたのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】［(1)］ あなたのターン中、このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"女王"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_027.png",
+	"tags": null,
+	"expansionId": 477
 }

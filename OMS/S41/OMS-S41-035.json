@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "無理だよ、帰ろうよ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「松」を含むキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「チョロ松ライジング」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置く。"
+		"【永】 他のあなたのカード名に「松」を含むキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「チョロ松ライジング」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"６つ子",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_035.png",
+	"tags": null,
+	"expansionId": 171
 }

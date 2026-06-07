@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"あなたのカード名に「朝姫」を含むキャラが5枚以上なら、あなたは自分のクロック置場の《縁》のキャラを1枚選び、手札に戻し、このカードをクロック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【自】【クロック】 アラーム ［(1) 手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のCX置場のCXを1枚まで選び、控え室に置き、自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+		"あなたのカード名に「朝姫」を含むキャラが5枚以上なら、あなたは自分のクロック置場の《縁》のキャラを1枚選び、手札に戻し、このカードをクロック置場に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【自】【クロック】 アラーム ［(1) 手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のCX置場のCXを1枚まで選び、控え室に置き、自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "AMG/W121-096S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_096s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/amg_w121/amg_w121_096s.png",
+	"tags": null,
+	"expansionId": 512
 }

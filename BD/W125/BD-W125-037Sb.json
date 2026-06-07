@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-		"【自】 共鳴 ［(1) 手札の「迷子のバンド 高松燈」を1枚公開する］ このカードがアタックした時、あなたのキャラすべてが《音楽》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+		"【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 共鳴 ［(1) 手札の「迷子のバンド 高松燈」を1枚公開する］ このカードがアタックした時、あなたのキャラすべてが《音楽》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"MyGO!!!!!"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W125-037Sb",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w125/bd_w125_037sb.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w125/bd_w125_037sb.png",
+	"tags": null,
+	"expansionId": 506
 }

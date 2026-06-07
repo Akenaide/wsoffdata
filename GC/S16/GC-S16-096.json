@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "綾瀬「次のターゲットは？」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GC/S16-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_096.png",
+	"tags": null,
+	"expansionId": 76
 }

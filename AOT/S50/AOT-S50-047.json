@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リヴァイ「ハンジ……おい、クソメガネ」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見て《兵団》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "AOT/S50-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s50/aot_s50_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s50/aot_s50_047.png",
+	"tags": null,
+	"expansionId": 207
 }

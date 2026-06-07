@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こっちも結構たくさんできたよー。\u003cbr\u003e後は色を塗るだけ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の「“輝き始めた星”レイヤ」がいるなら、このカードのパワーを＋2000。",
-		"【自】 あなたのアタックフェイズの始めに、このカードが【スタンド】していて、他のあなたの前列のキャラがいないなら、あなたは相手の前列のレベル1以下のキャラを2枚まで選び、控え室に置き、自分の控え室のコスト0以下の《Anniversary》のキャラを1枚まで選び、舞台のキャラのいない枠に置く。"
+		"【永】 他のあなたの前列の「“輝き始めた星”レイヤ」がいるなら、このカードのパワーを＋2000。\u003cbr\u003e【自】 あなたのアタックフェイズの始めに、このカードが【スタンド】していて、他のあなたの前列のキャラがいないなら、あなたは相手の前列のレベル1以下のキャラを2枚まで選び、控え室に置き、自分の控え室のコスト0以下の《Anniversary》のキャラを1枚まで選び、舞台のキャラのいない枠に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-112",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_112.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_112.png",
+	"tags": null,
+	"expansionId": 382
 }

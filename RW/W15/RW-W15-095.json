@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それはもう樹木ではない。\u003cbr /\u003e命の激流…大海のようなものだった",
+	"trigger": null,
 	"ability": [
 		"あなたは1枚まで引き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RW/W15-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_095.png",
+	"tags": null,
+	"expansionId": 65
 }

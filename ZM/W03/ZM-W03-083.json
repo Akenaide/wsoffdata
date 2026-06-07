@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サイトさんにもらった服～着てみたんです～",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「サイト」を含むキャラすべてに、パワーを＋500。",
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から2枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは2枚まで引く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_083.png",
+	"tags": null,
+	"expansionId": 3
 }

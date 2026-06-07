@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "やはり、次は他のアイドルをプロデュースする番ね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 経験 あなたがこのカードの『助太刀』を使った時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場の上か下に置いてよい。",
-		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+		"【自】 経験 あなたがこのカードの『助太刀』を使った時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場の上か下に置いてよい。\u003cbr\u003e【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"生徒会長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GIM/W124-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_057.png",
+	"tags": null,
+	"expansionId": 514
 }

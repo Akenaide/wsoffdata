@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "次来る時はバナナを差し入れしてくれると\u003cbr /\u003e美夏が喜ぶぞ。あと、杉並によろしく",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"メカ",
 		"バナナ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_053.png",
+	"tags": null,
+	"expansionId": 78
 }

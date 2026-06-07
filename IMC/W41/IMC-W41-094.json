@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "雨、大変だけど、盛り上がるように頑張ります！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
-		"【自】 このカードがアタックした時、クライマックス置場に「できたてEvo! Revo! Generation!」があり、他のあなたの前列の、「new generations 未央」と「new generations 卯月」がいるなら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋5000。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。\u003cbr/\u003e【自】 このカードがアタックした時、クライマックス置場に「できたてEvo! Revo! Generation!」があり、他のあなたの前列の、「new generations 未央」と「new generations 卯月」がいるなら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋5000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_094.png",
+	"tags": null,
+	"expansionId": 151
 }

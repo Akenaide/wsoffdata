@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふんっ、上等ですわ！わたくしの梨璃さんを傷つけようとしたこと……たっぷり後悔させてあげます！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの「凛々しく咲く ミリアム」がいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「こっちおいで」を1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-061S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_061s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_061s.png",
+	"tags": null,
+	"expansionId": 371
 }

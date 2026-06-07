@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あーそっか……私、好きな人が出来たんだ",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの舞台のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「ただキミのことばかり」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。"
 	],
@@ -24,8 +24,9 @@
 		"令嬢",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/WE22-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_we22/nk_we22_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_we22/nk_we22_05.png",
+	"tags": null,
+	"expansionId": 147
 }

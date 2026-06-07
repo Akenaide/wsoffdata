@@ -10,21 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "出海「うわあ、すっごーいっ！！」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《ゲーム》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、このカードを思い出にする。",
-		"【自】 記憶 ［手札のクライマックスを1枚控え室に置く］ あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。"
+		"このカードは、あなたの《ゲーム》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札を見て《ゲーム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、このカードを思い出にする。\u003cbr\u003e【自】 記憶 ［手札のクライマックスを1枚控え室に置く］ あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、このカードを手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SHS/W56-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_026.png",
+	"tags": null,
+	"expansionId": 220
 }

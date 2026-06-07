@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…わかりました。どうしてもっていうなら、私もここに泊まります",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラは他の枠に動かせない。",
-		"【永】 このカードはサイドアタックできない。"
+		"【永】 このカードの正面のキャラは他の枠に動かせない。\u003cbr\u003e【永】 このカードはサイドアタックできない。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_011.png",
+	"tags": null,
+	"expansionId": 290
 }

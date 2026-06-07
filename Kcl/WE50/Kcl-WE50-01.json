@@ -15,18 +15,19 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[CHOICE]のCX1枚につき、次の行動を行う。『あなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[[choice.gif]]のCX1枚につき、次の行動を行う。『あなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"演劇",
 		"だんご"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kcl/WE50-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/kcl_we50_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/kcl_we50_01.png",
+	"tags": null,
+	"expansionId": 532
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あーっ、見てください、あの雲、かまぼこみたい！ おいしそー！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-117",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_117.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_117.png",
+	"tags": null,
+	"expansionId": 13
 }

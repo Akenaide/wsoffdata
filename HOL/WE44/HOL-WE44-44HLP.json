@@ -15,8 +15,8 @@
 	"rarity": "HLP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「輝くステージへ 星街すいせい」を1枚選び、このカードがいた枠に置き、そのターン中、そのキャラのパワーを＋Ｘ。Ｘはあなたの《ホロライブ》のキャラの枚数×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ホロライブ",
 		"0期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE44-44HLP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we44/hol_we44_44hlp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we44/hol_we44_44hlp.png",
+	"tags": null,
+	"expansionId": 464
 }

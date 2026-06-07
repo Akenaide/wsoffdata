@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうやったら言うコトを聞いてくれるようになるのかしらね、このひねくれ者は……",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1000 レベル0 ［ 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
@@ -24,8 +24,9 @@
 		"使い魔",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_008.png",
+	"tags": null,
+	"expansionId": 48
 }

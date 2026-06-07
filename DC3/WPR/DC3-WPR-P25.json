@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしたちのお願いを叶えるために\u003cbr /\u003eまた咲いてくれたのかもしれないね",
+	"trigger": null,
 	"ability": [
 		"【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《生徒会》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WPR-P25",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_wpr/dc3_wpr_p25.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_wpr/dc3_wpr_p25.png",
+	"tags": null,
+	"expansionId": 12
 }

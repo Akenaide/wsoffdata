@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……ごめん、寒いのに\u003cbr\u003e待たせちゃった？",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】［このカードを手札に戻す］ あなたのCX置場に「短二度、一番線」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《シーズ》のキャラを1枚選び、ストック置場に置く。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【自】【CXコンボ】［このカードを手札に戻す］ あなたのCX置場に「短二度、一番線」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《シーズ》のキャラを1枚選び、ストック置場に置く。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"シーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/SE53-36",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_se53/isc_se53_36.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_se53/isc_se53_36.png",
+	"tags": null,
+	"expansionId": 528
 }

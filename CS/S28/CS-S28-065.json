@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「上尾＆まつざか＆よしなが」1枚につき、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"先生",
 		"幼稚園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_065.png",
+	"tags": null,
+	"expansionId": 114
 }

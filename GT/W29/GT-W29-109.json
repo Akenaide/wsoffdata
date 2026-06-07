@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"集中 あなたは自分の山札の上から1枚をめくり、控え室に置く。あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋Ｘ。Ｘは控え室に置かれたカードのレベル×1000に等しい。（クライマックスのレベルは0として扱う）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GT/W29-109",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_109.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_109.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "UA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札の上から6枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのレベル1以上のカードの枚数に等しい。（クライマックスのレベルは0として扱う。ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LSS/W69-063A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_063a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_063a.png",
+	"tags": null,
+	"expansionId": 273
 }

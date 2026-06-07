@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "コノートには最強の戦士がいる\u003cbr /\u003eオレがこの世でただ一人、戦いたくなかった男だ",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-015SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_014sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_014sp.png",
+	"tags": null,
+	"expansionId": 33
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私が今から、これの美味しい飲み方を教えてあげるわ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「“媚び諂う”アクア」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 あなたがレベルアップした時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。"
+		"【永】 あなたのクロック置場に「“媚び諂う”アクア」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 あなたがレベルアップした時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_094.png",
+	"tags": null,
+	"expansionId": 192
 }

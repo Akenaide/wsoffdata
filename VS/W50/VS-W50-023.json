@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あんにゃろーそんなんが通るか\u003cbr\u003eいまから行って張り倒してやらあ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【自】 共鳴 ［(1) 手札の「ハリーと仲良し？エルス」を1枚公開する］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【自】 共鳴 ［(1) 手札の「ハリーと仲良し？エルス」を1枚公開する］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"格闘",
 		"不良"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_023.png",
+	"tags": null,
+	"expansionId": 200
 }

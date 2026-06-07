@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここがあなたの母校になるのよ",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3500し、ソウルを＋1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「不意の襲撃 由美子＆雄二」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3500し、ソウルを＋1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「不意の襲撃 由美子＆雄二」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_091.png",
+	"tags": null,
+	"expansionId": 285
 }

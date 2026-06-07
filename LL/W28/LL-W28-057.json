@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "待ちました？…なーんて、デートの予行練習です♪",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【起】［(1)］ あなたは相手の山札の上から1枚を控え室に置き、相手の控え室のカードを1枚選び、山札の上に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W28-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w28/ll_w28_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w28/ll_w28_057.png",
+	"tags": null,
+	"expansionId": 110
 }

@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたが自分の「シャルム・シェルシュール 渋谷 凛」の【CXコンボ】で得た【自】のコストを払う時、手札のこのカードを、手札の青のカード2枚のかわりに控え室に置いてよい。",
-		"【自】［(1) あなたの控え室の青のキャラを1枚クロック置場の下に置く］ このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500し、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て青のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたが自分の「シャルム・シェルシュール 渋谷 凛」の【CXコンボ】で得た【自】のコストを払う時、手札のこのカードを、手札の青のカード2枚のかわりに控え室に置いてよい。\u003cbr\u003e【自】［(1) あなたの控え室の青のキャラを1枚クロック置場の下に置く］ このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500し、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て青のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ネイル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/WE51-50SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_50sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_we51/imc_we51_50sp.png",
+	"tags": null,
+	"expansionId": 539
 }

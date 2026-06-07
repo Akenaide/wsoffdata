@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今度は、噓じゃないから……",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"妹"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sst/W123-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sst_w123_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/sst_w123_072.png",
+	"tags": null,
+	"expansionId": 510
 }

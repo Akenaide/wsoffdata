@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "佳奈多「誰も誰かの代わりになんかなれない、か…」",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「Best Shot！」が置かれた時、あなたは自分の、《ビー玉》のキャラと《委員長》のキャラを1枚ずつ選び、そのターン中、次の能力を与える。『【自】 このカードとバトルしているレベル1以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』",
 		"【起】［あなたの、《ビー玉》のキャラと《委員長》のキャラを1枚ずつ【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
@@ -25,8 +25,9 @@
 		"ビー玉",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_042.png",
+	"tags": null,
+	"expansionId": 18
 }

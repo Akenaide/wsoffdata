@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……皆さん、初めまして橘万里花と申します",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを【レスト】する。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"警察",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/W30-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_w30/nk_w30_067.png",
+	"tags": null,
+	"expansionId": 122
 }

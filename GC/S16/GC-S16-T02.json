@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いい眺めが見てえんだよ。\u003cbr /\u003e――涯と一緒に",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"葬儀社",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_t02.png",
+	"tags": null,
+	"expansionId": 55
 }

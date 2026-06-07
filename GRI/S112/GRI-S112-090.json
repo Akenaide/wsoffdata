@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自分はこの後、トーカ先輩に特別授業をしてもらう予定であります",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《グリザイア》のキャラの枚数×500に等しい。",
-		"【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《グリザイア》のキャラを1枚選び、手札に戻す。"
+		"【自】 このカードがアタックした時、あなたは自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《グリザイア》のキャラの枚数×500に等しい。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《グリザイア》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_090.png",
+	"tags": null,
+	"expansionId": 472
 }

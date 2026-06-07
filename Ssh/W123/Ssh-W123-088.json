@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい、ここに血判を押してね。……ねえ、十年後って長過ぎない？もうちょっとまからないかしら",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札が4枚以上で、他のあなたのキャラがいないなら、このカードは【リバース】しない。",
-		"【永】 あなたのターン中、このカードのパワーを＋2000。"
+		"【永】 あなたの手札が4枚以上で、他のあなたのキャラがいないなら、このカードは【リバース】しない。\u003cbr\u003e【永】 あなたのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"グレイス王国",
 		"ゼナリス教"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssh/W123-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssh_w123_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/ssh_w123_088.png",
+	"tags": null,
+	"expansionId": 510
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっと照れくさいけど、\u003cbr /\u003eステージでも全力出していきますよ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手でレベル1以上のキャラが【リバース】した時、他のあなたの《メガネ》のキャラが3枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-120",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_120.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_120.png",
+	"tags": null,
+	"expansionId": 13
 }

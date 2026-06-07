@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あい！",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《竜》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_064.png",
+	"tags": null,
+	"expansionId": 43
 }

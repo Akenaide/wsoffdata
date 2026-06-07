@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いい夢は見られました……？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《宇宙人》か《植物》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードがアタックした時、クライマックス置場に「愛しい想い」があり、あなたの手札が4枚以下なら、あなたは自分の控え室の、《宇宙人》か《植物》のキャラを1枚選び、手札に戻してよい。"
+		"【永】 他のあなたの、《宇宙人》か《植物》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「愛しい想い」があり、あなたの手札が4枚以下なら、あなたは自分の控え室の、《宇宙人》か《植物》のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"宇宙人",
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W42-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_053.png",
+	"tags": null,
+	"expansionId": 163
 }

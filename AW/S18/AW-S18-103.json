@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もっと先へ……《加速》したくはないか、少年",
+	"trigger": null,
 	"ability": [
 		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3500。"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"アバター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_103.png",
+	"tags": null,
+	"expansionId": 67
 }

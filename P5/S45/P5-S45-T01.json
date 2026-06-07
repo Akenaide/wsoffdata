@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) このカードを控え室に置く］ 他のあなたのキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"怪盗"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_t01.png",
+	"tags": null,
+	"expansionId": 161
 }

@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋2000。",
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
+		"【永】 あなたのターン中、このカードのパワーを＋2000。\u003cbr\u003e【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE42-P35",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p35.png?ver=20231215",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we42/bd_we42_p35.png?ver=20231215",
+	"tags": null,
+	"expansionId": 12
 }

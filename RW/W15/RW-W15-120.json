@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『いつかまた君と会いたい　天王寺瑚太朗』",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ この能力は1ターンに1回まで発動する。あなたがイベントをプレイした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 アンコールステップの始めに、あなたは1枚引いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"鍵",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-120",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_120.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_120.png",
+	"tags": null,
+	"expansionId": 12
 }

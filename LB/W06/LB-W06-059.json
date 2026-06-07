@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おねーさんが手を引いてやろうか？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_059.png",
+	"tags": null,
+	"expansionId": 18
 }

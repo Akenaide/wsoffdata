@@ -15,20 +15,20 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お待たせしました！　オラクル発動します！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】【クロック】 アラーム このカードがクロックの１番上にあるなら、緑のあなたのキャラすべてに、パワーを＋1000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「切れない絆」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
+		"【永】【クロック】 アラーム このカードがクロックの１番上にあるなら、緑のあなたのキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「切れない絆」があるなら、あなたは自分の山札の上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_030.png",
+	"tags": null,
+	"expansionId": 340
 }

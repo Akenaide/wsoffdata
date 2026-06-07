@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほらエンリョせずに♫",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの、《変身》か《家事》のキャラがいないなら、手札からプレイできない。あなたは相手の前列のキャラを2枚まで選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TL/W42-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_027.png",
+	"tags": null,
+	"expansionId": 163
 }

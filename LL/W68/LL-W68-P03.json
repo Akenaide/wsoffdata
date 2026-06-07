@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "凛「だって凛は、μ'sのみんなが大好きなんだもん！」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の思い出置場のカード名に「海未」か「希」か「凛」を含むキャラを1枚選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の思い出置場のカード名に「海未」か「希」か「凛」を含むキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"lily white"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

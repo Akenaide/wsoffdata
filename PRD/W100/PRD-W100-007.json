@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フフッ、うう…幸せです",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 経験 あなたのアンコールステップの始めに、クライマックス置場に「沢山の仲間」があり、前列にこのカードがいて、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分の山札を上から4枚まで見て、《ランドソル》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W100-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_007.png",
+	"tags": null,
+	"expansionId": 397
 }

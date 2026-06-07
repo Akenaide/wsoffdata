@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『小学生女子を２回も殴りつけ失神させたあげくに、ニヒルを気取ってたそがれている男子高校生の姿が、そこにはあった』",
+	"trigger": null,
 	"ability": [
 		"あなたのキャラすべてに、そのターン中、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BM/S15-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_021.png",
+	"tags": null,
+	"expansionId": 60
 }

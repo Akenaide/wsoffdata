@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここでは男も女もない 要は強いか弱いか…それだけさ",
+	"trigger": null,
 	"ability": [
 		"【自】[(1)] このカードがアタックした時、あなたはコストを払ってよい。 そうしたら、あなたは相手の後列のレベル0以下のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"男装",
 		"薔薇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_106.png",
+	"tags": null,
+	"expansionId": 13
 }

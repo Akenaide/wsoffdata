@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "駄目、ですか……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室のイベントの枚数×1500に等しい。"
+		"【永】 他のあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室のイベントの枚数×1500に等しい。"
 	],
 	"specialAttrib": [
 		"豊穣の女主人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDM/S88-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddm_s88/ddm_s88_043.png",
+	"tags": null,
+	"expansionId": 367
 }

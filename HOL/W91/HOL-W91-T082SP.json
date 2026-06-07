@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+		"【自】 このカードがアタックした時、あなたは他の自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"3期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T082SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t082sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t082sp.png",
+	"tags": null,
+	"expansionId": 354
 }

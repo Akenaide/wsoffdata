@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "え、えへへ……\u003cbr\u003e夢みたいですね、全部……！",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ノクチル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_092.png",
+	"tags": null,
+	"expansionId": 332
 }

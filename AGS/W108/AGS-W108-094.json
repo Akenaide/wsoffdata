@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《アリスギア》のキャラが4枚以上なら、このカードのパワーを＋6000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+		"【永】 他のあなたの《アリスギア》のキャラが4枚以上なら、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"アリスギア",
 		"アクトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AGS/W108-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ags_w108/ags_w108_094.png",
+	"tags": null,
+	"expansionId": 446
 }

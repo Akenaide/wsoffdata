@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "せめてもう一人欲しいんだ。頼めないかな？",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードのバトル中、あなたは『助太刀』を手札からプレイできない。"
 	],
@@ -24,8 +24,9 @@
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-T15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_t15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_t15.png",
+	"tags": null,
+	"expansionId": 258
 }

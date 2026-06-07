@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ベティーはにーちゃを待ってただけなのよ",
+	"trigger": null,
 	"ability": [
-		"【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のキャラを1枚選び、控え室に置く。",
-		"【自】 絆／「大精霊 パック」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「大精霊 パック」を1枚選び、手札に戻す）"
+		"【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分のキャラを1枚選び、控え室に置く。\u003cbr\u003e【自】 絆／「大精霊 パック」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「大精霊 パック」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S46-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s46/rz_s46_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s46/rz_s46_045.png",
+	"tags": null,
+	"expansionId": 185
 }

@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―ポツンと座る小さな命は、少女を支えた大きな命―",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のバトル中のキャラを1枚選び、手札に戻し、自分の前列のキャラを1枚選び、バトル中のキャラがいた枠に防御キャラとして動かす。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MR/W59-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_025.png",
+	"tags": null,
+	"expansionId": 232
 }

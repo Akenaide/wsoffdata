@@ -8,25 +8,25 @@
 	"jpName": "わたしたち、やればできる",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "千奈「ふふっ……我々は、調理実習で無残にも料理に失敗し――」\u003cbr\u003e佑芽「その補習授業中に、さらなる問題を引き起こしてしまったのだぁ！」\u003cbr\u003e広「……たくさん怒られた。今日が最後のチャンス」",
 	"trigger": [
 		"SOUL",
 		"GATE"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[GATE]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[gate.gif]]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GIM/W124-099R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_099r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_099r.png",
+	"tags": null,
+	"expansionId": 514
 }

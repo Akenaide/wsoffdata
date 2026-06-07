@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "信玄「おぬしか、ワシか…」\u003cbr /\u003e謙信「…いずれかめいうんつきたりや」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500し、次の能力を与える。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SB/S06-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_071.png",
+	"tags": null,
+	"expansionId": 28
 }

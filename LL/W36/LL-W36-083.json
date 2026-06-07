@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キミが私の言うことを聞くなら、紅茶の一杯くらい持ってきてあげてもいいけど？",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【起】［(2) このカードを【レスト】する］ あなたは1枚引く。"
+		"【永】 相手のターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_083.png",
+	"tags": null,
+	"expansionId": 142
 }

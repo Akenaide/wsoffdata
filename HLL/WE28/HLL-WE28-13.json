@@ -1,6 +1,6 @@
 {
 	"set": "HLL",
-	"setName": "「ひなろじ ～from Luck ＆ Logic～」Vol.1",
+	"setName": " 「ひなろじ ～from Luck ＆ Logic～」Vol.1",
 	"side": "W",
 	"release": "E28",
 	"id": "13",
@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "大丈夫！応援するから！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの、《定理者》か《使者》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+		"【永】 応援 このカードの前のあなたの、《定理者》か《使者》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
 	"specialAttrib": [
 		"定理者",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HLL/WE28-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we28/hll_we28_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we28/hll_we28_13.png",
+	"tags": null,
+	"expansionId": 210
 }

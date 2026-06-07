@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "行ってきます",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《レヴュー》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【永】 他のあなたの前列の中央の枠のカード名に「華恋」を含むキャラに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
+		"【永】 他のあなたの《レヴュー》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【永】 他のあなたの前列の中央の枠のカード名に「華恋」を含むキャラに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"髪留め"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_057.png",
+	"tags": null,
+	"expansionId": 250
 }

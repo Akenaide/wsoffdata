@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「韋駄天」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを＋2。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《トリオン》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、そのターン中、このカードのソウルを＋2。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《トリオン》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"トリオン",
 		"加古隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WTR/S85-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wtr_s85/wtr_s85_006.png",
+	"tags": null,
+	"expansionId": 360
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ありさはただ、雨に濡れないようまとめただけで……っ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【起】［このカードをクロック置場に置く］ あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+		"【起】［このカードをクロック置場に置く］ あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_076.png",
+	"tags": null,
+	"expansionId": 392
 }

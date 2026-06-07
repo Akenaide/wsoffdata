@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "《まぁ・とにかく・爆ぜろ》",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fra/W65-098",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fra_w65/fra_w65_098.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fra_w65/fra_w65_098.png",
+	"tags": null,
+	"expansionId": 264
 }

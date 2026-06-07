@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "クリスマスは毎年やってくるけど、あなたと一緒なら特別なクリスマスにできると思うんだっ♪",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"雪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W69-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_043.png",
+	"tags": null,
+	"expansionId": 273
 }

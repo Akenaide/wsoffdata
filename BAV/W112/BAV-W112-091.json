@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "諸君、私が先頭に立とう。",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札を上から3枚まで見て、クライマックスを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"レッドウィンター事務局"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_091.png",
+	"tags": null,
+	"expansionId": 460
 }

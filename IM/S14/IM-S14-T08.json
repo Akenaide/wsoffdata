@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサーさん、この衣装、似合ってますか？",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場に「BK MANIAC」があるなら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。』",
 		"【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_t08.png",
+	"tags": null,
+	"expansionId": 55
 }

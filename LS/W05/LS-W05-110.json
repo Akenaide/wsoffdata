@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "かがみんも何だかんだでノリノリじゃないか",
+	"trigger": null,
 	"ability": [
 		"【永】あなたのターン中、他のあなた《サーヴァント》のキャラ1枚につき、このカードのパワーを+500。",
 		"【永】相手のターン中、他のあなたの《マスター》のキャラ1枚につき、このカードのパワーを+500。"
@@ -25,8 +25,9 @@
 		"マスター",
 		"サーヴァント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-110",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_110.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_110.gif",
+	"tags": null,
+	"expansionId": 12
 }

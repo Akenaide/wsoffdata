@@ -10,21 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すいません！ドレインタッチ―!!",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「ウィズ」か「カズマ」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは相手のレベル1以下のキャラを1枚選び、控え室に置いてよい。そうしたら、相手は自分の控え室のレベル0以下のキャラを1枚まで選び、そのキャラがいた枠に置く。",
-		"このカードをストック置場に置く。"
+		"このカードは、あなたのカード名に「ウィズ」か「カズマ」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは相手のレベル1以下のキャラを1枚選び、控え室に置いてよい。そうしたら、相手は自分の控え室のレベル0以下のキャラを1枚まで選び、そのキャラがいた枠に置く。\u003cbr\u003eこのカードをストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KS/W49-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_065.png",
+	"tags": null,
+	"expansionId": 192
 }

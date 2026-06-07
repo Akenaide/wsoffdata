@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "緊張しているのか、集",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは自分のストックの上から1枚を、控え室に置く。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"葬儀社",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_009.png",
+	"tags": null,
+	"expansionId": 76
 }

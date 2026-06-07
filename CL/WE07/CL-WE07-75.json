@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしの妹をいじめるとはいい度胸じゃない",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、あなたは自分のストックの上から1枚を、控え室に置く。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"双子",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE07-75",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we07/cl_we07_75.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we07/cl_we07_75.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すーっ…はーっ",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 経験 このカードがアタックした時、クライマックス置場に「師匠から弟子へ」があり、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分の山札を上から3枚まで見て、《六面世界》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"六面世界",
 		"魔術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-T06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_t06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_t06.png",
+	"tags": null,
+	"expansionId": 345
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "理樹「あきらめちゃだめだ」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「クド」を含むキャラすべてに、パワーを＋500。",
 		"【自】 絆／「果てしない高さへの一歩 クド」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「果てしない高さへの一歩 クド」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"動物",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KW/W11-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kw_w11/kw_w11_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kw_w11/kw_w11_030.png",
+	"tags": null,
+	"expansionId": 46
 }

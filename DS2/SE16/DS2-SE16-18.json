@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あれ？君なんか暗いね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"サマナー",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS2/SE16-18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds2_se16/ds2_se16_18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds2_se16/ds2_se16_18.png",
+	"tags": null,
+	"expansionId": 104
 }

@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋3500。",
-		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「M@STERPIECE」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置く。"
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋3500。\u003cbr\u003e【自】［(1)］ このカードがアタックした時、クライマックス置場に「M@STERPIECE」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-012a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_012a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_012a.png",
+	"tags": null,
+	"expansionId": 129
 }

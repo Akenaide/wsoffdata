@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しんのすけ「いけ！カンタム！！」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、あなたの手札が4枚以下なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"メカ",
 		"ヒーロー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_018.png",
+	"tags": null,
+	"expansionId": 114
 }

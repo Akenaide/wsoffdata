@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おろっ！？やっぱりあゆには内緒でおふたり、つきあっていたりぃーー？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「欣喜雀躍！」があるなら、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストック置場に置き、そのターン中、このカードは次の能力を得る。『【自】 あなたのアンコールステップの始めに、このカードを思い出にし、あなたは自分のクライマックス置場のクライマックスを1枚選び、控え室に置き、すべてのプレイヤーは自分の山札の上から15枚を、控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"能力者",
 		"ピザソース"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_091.png",
+	"tags": null,
+	"expansionId": 152
 }

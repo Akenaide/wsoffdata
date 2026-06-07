@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "そなた、本は好きかま？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの正面のキャラのソウルを＋1。",
-		"【自】 あなたがレベルアップした時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。"
+		"【永】 このカードの正面のキャラのソウルを＋1。\u003cbr/\u003e【自】 あなたがレベルアップした時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。"
 	],
 	"specialAttrib": [
 		"ぷよ",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_046.png",
+	"tags": null,
+	"expansionId": 160
 }

@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前様は張り込みには向いておらんのう－－\u003cbr\u003eまだ数時間ちょっとしか経っておらんぞ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】［(1) このカードを控え室に置く］ 他のあなたの《怪異》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。",
-		""
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1) このカードを控え室に置く］ 他のあなたの《怪異》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_009.png",
+	"tags": null,
+	"expansionId": 159
 }

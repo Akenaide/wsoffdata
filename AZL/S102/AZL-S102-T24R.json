@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "潜水艦の子たちはこんな風景の中で戦っているんですね。\u003cbr\u003eふふ、いい眺めです",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《艦船》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-		"【自】 このカードがアタックした時、あなたは自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《艦船》のキャラが2枚以上なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《艦船》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ロイヤル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-T24R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_t24r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_t24r.png",
+	"tags": null,
+	"expansionId": 409
 }

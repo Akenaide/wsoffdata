@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何人たりとも私の前を走らせないぞーっ",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「体操着のまひる」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「体操着のまひる」を1枚選び、手札に戻す）",
 		"【起】［(1)］ あなたは自分の《スポーツ》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"スポーツ",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W09-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w09/dc_w09_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w09/dc_w09_028.png",
+	"tags": null,
+	"expansionId": 39
 }

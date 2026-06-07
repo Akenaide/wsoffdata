@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すまない、待たせたか？",
+	"trigger": null,
 	"ability": [
 		"【起】［(2)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。』"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_010.png",
+	"tags": null,
+	"expansionId": 43
 }

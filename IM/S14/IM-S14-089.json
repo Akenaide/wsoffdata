@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサー。くれぐれも準備の方、\u003cbr /\u003eお忘れ無きように、お願いいたします",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_089.png",
+	"tags": null,
+	"expansionId": 64
 }

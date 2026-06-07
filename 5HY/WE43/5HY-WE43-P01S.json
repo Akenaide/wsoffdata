@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《五つ子》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"五つ子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/WE43-P01S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_we43/5hy_we43_p01s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_we43/5hy_we43_p01s.png",
+	"tags": null,
+	"expansionId": 12
 }

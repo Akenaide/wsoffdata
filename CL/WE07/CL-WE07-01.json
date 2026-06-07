@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は、とってもとっても好きです",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたの《演劇》のキャラが2枚以上なら、このカードのパワーを＋2000。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］",
@@ -26,8 +26,9 @@
 		"演劇",
 		"だんご"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE07-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we07/cl_we07_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we07/cl_we07_01.png",
+	"tags": null,
+	"expansionId": 41
 }

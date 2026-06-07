@@ -8,14 +8,14 @@
 	"jpName": "雨野流誅魔忍術奥義　叢時雨",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "雨野流誅魔忍術奥義！！　叢時雨（むらしぐれ）！！！",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "YYS/W61-T20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yys_w61/yys_w61_t20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yys_w61/yys_w61_t20.png",
+	"tags": null,
+	"expansionId": 247
 }

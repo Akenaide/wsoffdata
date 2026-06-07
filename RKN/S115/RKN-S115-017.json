@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あれは…！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたの手札が4枚以上なら、そのターン中、このカードのパワーを＋3000。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 このカードがアタックした時、あなたの手札が4枚以上なら、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"師範代"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_017.png",
+	"tags": null,
+	"expansionId": 479
 }

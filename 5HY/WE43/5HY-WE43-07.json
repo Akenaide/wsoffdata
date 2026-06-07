@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋1500。",
-		"【自】 このカードかこのカードのバトル相手が【リバース】した時、そのターン中、そのキャラは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【永】 記憶 あなたのターン中、あなたの思い出置場にカードがあるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードかこのカードのバトル相手が【リバース】した時、そのターン中、そのキャラは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/WE43-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_we43/5hy_we43_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_we43/5hy_we43_07.png",
+	"tags": null,
+	"expansionId": 462
 }

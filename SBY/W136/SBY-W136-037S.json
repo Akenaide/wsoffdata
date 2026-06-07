@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の出した宿題、忘れないで下さいね",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋3000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《思春期》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+		"【永】 あなたのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《思春期》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"学生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-037S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_037s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_037s.png",
+	"tags": null,
+	"expansionId": 547
 }

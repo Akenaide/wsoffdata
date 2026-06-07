@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル1以上のキャラを1枚選び、そのターン中、ソウルを＋1。",
-		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のレベル1以上のキャラを1枚選び、そのターン中、ソウルを＋1。\u003cbr/\u003e【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ハピハピ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_t03.png",
+	"tags": null,
+	"expansionId": 141
 }

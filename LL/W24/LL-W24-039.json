@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハラショー…",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“僕らのLIVE 君とのLIFE”絢瀬 絵里」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W24-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w24/ll_w24_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w24/ll_w24_039.png",
+	"tags": null,
+	"expansionId": 98
 }

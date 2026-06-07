@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これも鍛錬のうちよ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(3) このカードを控え室に置く］ あなたのクライマックス置場に「どうしようもない気持ち」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「誇り高き者 シャナ」を1枚まで選び、このカードがいた枠に置く。その山札をシャッフルする。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"炎",
 		"メロンパン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_012.png",
+	"tags": null,
+	"expansionId": 58
 }

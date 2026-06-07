@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "他の所にも行かないで、ボクのそばに居てくれたんだ",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「頼れる相棒 直継」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「頼れる相棒 直継」を1枚選び、手札に戻す）",
 		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-35",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_35.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_35.png",
+	"tags": null,
+	"expansionId": 118
 }

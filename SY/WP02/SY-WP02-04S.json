@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ある日の部室」があるなら、あなたは相手の前列のレベル0以下のキャラを1枚まで選び、控え室に置き、自分の控え室の、《団長》か《SOS団》のキャラを1枚まで選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ある日の部室」があるなら、あなたは相手の前列のレベル0以下のキャラを1枚まで選び、控え室に置き、自分の控え室の、《団長》か《SOS団》のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"団長",
 		"SOS団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/WP02-04S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_wp02/sy_wp02_04s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_wp02/sy_wp02_04s.png",
+	"tags": null,
+	"expansionId": 181
 }

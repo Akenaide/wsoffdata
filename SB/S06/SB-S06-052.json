@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "忍がやることさ…なんでもありだよ",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ あなたのクライマックス置場に「二人の忍」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“蒼天疾駆”猿飛 佐助」を2枚まで選び、前列の別々の枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"忍",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_052.png",
+	"tags": null,
+	"expansionId": 28
 }

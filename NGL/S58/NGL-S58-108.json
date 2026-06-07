@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうやら君たちを呼んだのは間違いじゃなかったようだね",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"唯一神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_108.png",
+	"tags": null,
+	"expansionId": 236
 }

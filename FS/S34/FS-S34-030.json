@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あとは睡眠を取ることで消耗を防ぐことが出来ます",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の山札を上から4枚まで見て、《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。このカードをクロック置場に置く。"
+		"あなたは自分の山札を上から4枚まで見て、《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。このカードをクロック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FS/S34-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_030.png",
+	"tags": null,
+	"expansionId": 139
 }

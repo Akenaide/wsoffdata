@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんて誠実な人なのっ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《死神》のキャラすべてに、パワーを＋500。",
-		"【自】 他のあなたのカード名に「鯖人」を含むキャラが手札から舞台に置かれた時、あなたはこのカードをストック置場に置いてよい。"
+		"【永】 他のあなたの《死神》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 他のあなたのカード名に「鯖人」を含むキャラが手札から舞台に置かれた時、あなたはこのカードをストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KR/SE30-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kr_se30/kr_se30_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kr_se30/kr_se30_34.png",
+	"tags": null,
+	"expansionId": 172
 }

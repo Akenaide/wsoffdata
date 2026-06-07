@@ -15,8 +15,8 @@
 	"rarity": "OFR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あこちゃん！？",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［手札の「“Einheit”白金燐子」を1枚控え室に置き、あなたのクライマックス置場の「バンド合宿の夜」を1枚控え室に置く］ あなたのアンコールステップの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、《Roselia》のキャラを5枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE35-31OFR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we35/bd_we35_31ofr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we35/bd_we35_31ofr.png",
+	"tags": null,
+	"expansionId": 335
 }

@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ねえ、めぐみん、まだかしら？もう結構な量を吸われていると思うんですけど！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「“紅魔族”めぐみん」すべてに、次の能力を与える。『【自】 あなたのアンコールステップの始めに、あなたは相手の山札の上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札の上に置く。』",
-		"【永】 他のあなたの、《冒険者》か《女神》のキャラすべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
+		"【永】 他のあなたの「“紅魔族”めぐみん」すべてに、次の能力を与える。『【自】 あなたのアンコールステップの始めに、あなたは相手の山札の上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札の上に置く。』\u003cbr\u003e【永】 他のあなたの、《冒険者》か《女神》のキャラすべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_085.png",
+	"tags": null,
+	"expansionId": 192
 }

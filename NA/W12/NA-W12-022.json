@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ええと、あの……その……っ",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見て《クローン》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NA/W12-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_022.png",
+	"tags": null,
+	"expansionId": 44
 }

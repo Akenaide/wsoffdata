@@ -15,20 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "は、ご照覧あれ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《炎》のキャラの枚数×1000に等しい。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《炎》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"炎",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE41-56",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we41/ss_we41_56.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we41/ss_we41_56.png",
+	"tags": null,
+	"expansionId": 447
 }

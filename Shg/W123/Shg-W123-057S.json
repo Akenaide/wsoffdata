@@ -10,21 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大好きな人に毎日ご飯作るの、幸せだった",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《スニーカー文庫》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-		"あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが0以下なら、このカードをクロック置場に置く。（CXのレベルは0として扱う）"
+		"このカードは、あなたの《スニーカー文庫》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の控え室のキャラを1枚選び、手札に戻す。\u003cbr\u003eあなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが0以下なら、このカードをクロック置場に置く。（CXのレベルは0として扱う）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Shg/W123-057S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/shg_w123_057s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/shg_w123_057s.png",
+	"tags": null,
+	"expansionId": 510
 }

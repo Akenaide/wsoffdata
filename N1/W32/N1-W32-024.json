@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしに教えて……魔法の、上手な使い方！",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［手札を1枚控え室に置き、このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「信じた思い なのは」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N1/W32-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n1_w32/n1_w32_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n1_w32/n1_w32_024.png",
+	"tags": null,
+	"expansionId": 127
 }

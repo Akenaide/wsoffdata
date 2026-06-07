@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今年一年の無事を、ちゃんと願わないと。ぼーっとしてないで行くわよ、ほら",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードが黄のカードなら、そのターン中、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_036.png",
+	"tags": null,
+	"expansionId": 131
 }

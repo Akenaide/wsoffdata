@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まかせて。あざみの忍術で、敵を突破する！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《華撃団》のキャラすべてに、パワーを＋500し、『【自】 アンコール ［(2)］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"華撃団",
 		"忍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SKR/S73-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_003.png",
+	"tags": null,
+	"expansionId": 293
 }

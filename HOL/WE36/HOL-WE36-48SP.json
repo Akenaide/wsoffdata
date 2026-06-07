@@ -15,15 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』",
-		"【自】 他のあなたの《ホロライブ》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』\u003cbr\u003e【自】 他のあなたの《ホロライブ》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"ホロライブ",
+		"ホロライブEnglish-Council-"
+	],
+	"version": "4",
 	"cardcode": "HOL/WE36-48SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we36/hol_we36_48sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we36/hol_we36_48sp.png",
+	"tags": null,
+	"expansionId": 383
 }

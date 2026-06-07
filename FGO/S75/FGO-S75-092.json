@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はああッ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の、《カルデア》か《バビロニア》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《カルデア》か《バビロニア》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"カルデア",
 		"シールダー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_092.png",
+	"tags": null,
+	"expansionId": 298
 }

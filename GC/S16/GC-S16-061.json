@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……冗談はやめてよ。\u003cbr /\u003e僕にその脂身に触れって言うの？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは赤以外の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"軍隊",
 		"オペレーター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_061.png",
+	"tags": null,
+	"expansionId": 76
 }

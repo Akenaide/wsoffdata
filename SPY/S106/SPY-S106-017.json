@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いい気になるなよ",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"バーリント市",
 		"イーデン校"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SPY/S106-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/spy_s106/spy_s106_017.png",
+	"tags": null,
+	"expansionId": 433
 }

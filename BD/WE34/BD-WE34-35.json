@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ふふ、一緒にバンドがんばろ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置く。"
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードを手札に戻してよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Morfonica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE34-35",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we34/bd_we34_35.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we34/bd_we34_35.png",
+	"tags": null,
+	"expansionId": 336
 }

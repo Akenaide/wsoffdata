@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やったぁー！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"ホロライブ",
 		"1期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t020.png",
+	"tags": null,
+	"expansionId": 351
 }

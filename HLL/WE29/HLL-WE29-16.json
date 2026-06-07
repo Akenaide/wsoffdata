@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺の力、使いこなせるかな！？",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】［(1) このカードをバトル中のキャラの下にマーカーとして表向きに置く］ 他のあなたのバトル中のカード名に「弥生」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［(1) このカードをバトル中のキャラの下にマーカーとして表向きに置く］ 他のあなたのバトル中のカード名に「弥生」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。"
 	],
 	"specialAttrib": [
 		"使者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HLL/WE29-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we29/hll_we29_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we29/hll_we29_16.png",
+	"tags": null,
+	"expansionId": 215
 }

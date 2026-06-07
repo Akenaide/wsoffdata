@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……道案内するだけ。それだけよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋500。",
 		"【自】 絆／「大切な人のために キリト」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「大切な人のために キリト」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"ネット",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_032.png",
+	"tags": null,
+	"expansionId": 92
 }

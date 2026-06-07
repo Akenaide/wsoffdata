@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この日傘がなければ、傍らにいることもできないかも知れません",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「西園 美鳥」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「西園 美鳥」を1枚選び、手札に戻す）",
 		"【起】［(2) このカードを控え室に置く］ あなたは自分の控え室の「西園 美鳥」を1枚選び、舞台の好きな枠に置く。"
@@ -25,8 +25,9 @@
 		"本",
 		"日傘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W02-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_053.png",
+	"tags": null,
+	"expansionId": 2
 }

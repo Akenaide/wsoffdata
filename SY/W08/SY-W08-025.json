@@ -8,25 +8,26 @@
 	"jpName": "閉鎖空間",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "さて、僕も参加しなければ",
 	"trigger": [
 		"SOUL",
 		"SHOT"
 	],
 	"ability": [
 		"【永】あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[SHOT]：このターン中、今回の攻撃キャラが次に与えるダメージがキャンセルされた時、相手に１ダメージを与える。）"
+		"（[[shot.gif]]：このターン中、今回の攻撃キャラが次に与えるダメージがキャンセルされた時、相手に１ダメージを与える。）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SY/W08-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_025.png",
+	"tags": null,
+	"expansionId": 35
 }

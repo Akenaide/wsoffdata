@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《ホロライブ》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを3枚まで選び、そのターン中、ソウルを＋1。"
+		"【永】 あなたのターン中、他のあなたの《ホロライブ》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを3枚まで選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"4期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W104-009S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_009s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w104/hol_w104_009s.png",
+	"tags": null,
+	"expansionId": 419
 }

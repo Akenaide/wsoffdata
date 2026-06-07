@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "小恋「あああああああああああっ！！」\u003cbr /\u003e義之「いやぁぁぁぁぁぁぁぁあっ！！」\u003cbr /\u003e渉「うがあああああああああっ！！」\u003cbr /\u003eななか「きゃぁぁぁぁあぁあああっ！！」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の、《音楽》か《お菓子》のキャラを1枚選び、クロック置場に置く。そうしたら、あなたはそのカード以外の自分のクロック置場の、《音楽》か《お菓子》のキャラを1枚選び、手札に戻す。",
 		"あなたは自分の山札を見てコスト0以下の、《音楽》か《お菓子》のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC/WE08-82",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we08/dc_we08_82.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we08/dc_we08_82.png",
+	"tags": null,
+	"expansionId": 12
 }

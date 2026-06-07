@@ -15,18 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えっ、ご褒美！？ご褒美あるんですか！？",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたの思い出置場に「ミルキーハニー♡ 中須 かすみ」があるなら、あなたの手札のこのカードのカード名はあなたの舞台にいるカード名に「かすみ」を含むキャラすべてと同じカード名としても扱う。",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたはこのカードを思い出にしてよい。",
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+		"【永】 記憶 あなたの思い出置場に「ミルキーハニー♡ 中須 かすみ」があるなら、あなたの手札のこのカードのカード名はあなたの舞台にいるカード名に「かすみ」を含むキャラすべてと同じカード名としても扱う。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたはこのカードを思い出にしてよい。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W85-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w85/lnj_w85_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w85/lnj_w85_005.png",
+	"tags": null,
+	"expansionId": 338
 }

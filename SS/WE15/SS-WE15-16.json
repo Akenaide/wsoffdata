@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰もやらないのだから、私達がやる。\u003cbr /\u003e意思を持って、力を尽くして、策を巡らせ──結果を、掴む",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《炎》のキャラが2枚以下なら、このカードはあなたのスタンドフェイズに【スタンド】しない。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE15-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we15/ss_we15_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we15/ss_we15_16.png",
+	"tags": null,
+	"expansionId": 83
 }

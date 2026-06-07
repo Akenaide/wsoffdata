@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "風子「楽しいことは………、これから始りますよ」",
+	"trigger": null,
 	"ability": [
 		"【永】 舞台にこのカードがいるなら、このカードは《演劇》と《だんご》を得る。",
 		"【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋500。",
@@ -26,8 +26,9 @@
 		"本",
 		"ヒトデ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE07-74",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we07/cl_we07_74.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we07/cl_we07_74.png",
+	"tags": null,
+	"expansionId": 12
 }

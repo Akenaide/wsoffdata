@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの後列の《魔大陸》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時か「友に授ける依り代 リムル」の【自】の効果で舞台に置かれた時、あなたは自分の控え室の《魔大陸》のキャラを1枚選び、手札に戻してよい。"
+		"【永】 他のあなたの後列の《魔大陸》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時か「友に授ける依り代 リムル」の【自】の効果で舞台に置かれた時、あなたは自分の控え室の《魔大陸》のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S101-034S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_034s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s101/tsk_s101_034s.png",
+	"tags": null,
+	"expansionId": 412
 }

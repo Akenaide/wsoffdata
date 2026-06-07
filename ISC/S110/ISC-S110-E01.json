@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"イルミネーションスターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-E01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_e01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_e01.png",
+	"tags": null,
+	"expansionId": 496
 }

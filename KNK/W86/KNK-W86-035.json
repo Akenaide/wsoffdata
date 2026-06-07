@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《かのかり》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室の《かのかり》のキャラを1枚ずつ選び、入れ替える。"
+		"【永】 他のあなたの《かのかり》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室の《かのかり》のキャラを1枚ずつ選び、入れ替える。"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"ダイアモンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_035.png",
+	"tags": null,
+	"expansionId": 322
 }

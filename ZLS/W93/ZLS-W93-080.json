@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私を！　アイドルにしてくれて!!\u003cbr\u003eありがとうございました!!!",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードがアタックした時、あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《SAGA》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"SAGA",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZLS/W93-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zls_w93/zls_w93_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zls_w93/zls_w93_080.png",
+	"tags": null,
+	"expansionId": 366
 }

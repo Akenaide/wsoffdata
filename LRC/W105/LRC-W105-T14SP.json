@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×500に等しい。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"リコリコ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/W105-T14SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t14sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_w105/lrc_w105_t14sp.png",
+	"tags": null,
+	"expansionId": 427
 }

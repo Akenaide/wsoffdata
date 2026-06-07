@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしも、毎日楽しいよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「HiMEの力」があるなら、そのターン中、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"エレメント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MH/WE05-09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mh_we05/mh_we05_09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mh_we05/mh_we05_09.png",
+	"tags": null,
+	"expansionId": 30
 }

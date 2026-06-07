@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "飲み食いの事しかアタマにないんか、お前は",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《格闘》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、他のあなたのキャラがいないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以下のカード名に「フーカ」を含むキャラを1枚選び、このカードがいた枠に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《格闘》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、他のあなたのキャラがいないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以下のカード名に「フーカ」を含むキャラを1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"格闘",
 		"覇王流"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_011.png",
+	"tags": null,
+	"expansionId": 200
 }

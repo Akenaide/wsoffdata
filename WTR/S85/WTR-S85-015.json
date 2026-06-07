@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "全武装　起動",
+	"trigger": null,
 	"ability": [
 		"【自】 加速 ［あなたの控え室の《トリオン》のキャラを1枚クロック置場の下に置く］ あなたのクライマックスフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《トリオン》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"トリオン",
 		"玉狛第1"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WTR/S85-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wtr_s85/wtr_s85_015.png",
+	"tags": null,
+	"expansionId": 360
 }

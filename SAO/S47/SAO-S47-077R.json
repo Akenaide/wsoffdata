@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺が突っ込むから、バックアップよろしく",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分のカード名に「シノン」を含むキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《アバター》か《ネット》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【自】 このカードがアタックした時、あなたは他の自分のカード名に「シノン」を含むキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《アバター》か《ネット》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S47-077R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s47/sao_s47_077r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s47/sao_s47_077r.png",
+	"tags": null,
+	"expansionId": 189
 }

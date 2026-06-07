@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すべての魔女は、わたし一人で片付ける",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「まどか」を含むキャラがいるなら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_041.png",
+	"tags": null,
+	"expansionId": 74
 }

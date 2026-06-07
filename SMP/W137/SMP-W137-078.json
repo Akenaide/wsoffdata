@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《サマポケ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードのアタックの終わりに、CX置場に「ラッキーアクシデント」があり、他のあなたの《サマポケ》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の山札を見て《サマポケ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの《サマポケ》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードのアタックの終わりに、CX置場に「ラッキーアクシデント」があり、他のあなたの《サマポケ》のキャラが2枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の山札を見て《サマポケ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_078.png",
+	"tags": null,
+	"expansionId": 548
 }

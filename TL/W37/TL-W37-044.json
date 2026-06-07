@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私は好きでやってんだから余計な気遣わないの！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 他のあなたの、《変身》か《家事》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
+		"【自】 他のあなたの、《変身》か《家事》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"家事",
 		"ランドセル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_044.png",
+	"tags": null,
+	"expansionId": 150
 }

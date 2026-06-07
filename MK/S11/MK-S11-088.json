@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どなたにお任せになられても\u003cbr /\u003eきっとご期待にそえると思いますっ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《怪盗》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"執事"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_088.png",
+	"tags": null,
+	"expansionId": 50
 }

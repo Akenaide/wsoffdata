@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キラッ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、このカードを【レスト】する。（公開したカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KR/SE30-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kr_se30/kr_se30_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kr_se30/kr_se30_15.png",
+	"tags": null,
+	"expansionId": 172
 }

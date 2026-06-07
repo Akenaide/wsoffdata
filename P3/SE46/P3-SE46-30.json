@@ -15,19 +15,19 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ワン、ワンッ！",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"リロード",
 		"動物",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SE46-30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_se46/p3_se46_30.png",
+	"tags": null,
+	"expansionId": 469
 }

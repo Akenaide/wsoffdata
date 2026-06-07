@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はああッ！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたのカード名に「クリス」か「マリア」を含むキャラすべてに、パワーを＋1000。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のカード名に「クリス」か「マリア」を含むキャラを1枚選び、手札に戻す。"
+		"【永】 あなたのターン中、他のあなたのカード名に「クリス」か「マリア」を含むキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のカード名に「クリス」か「マリア」を含むキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-053S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_053s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_053s.png",
+	"tags": null,
+	"expansionId": 276
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この能力のおかげで何度病院送りになったことか…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_084.png",
+	"tags": null,
+	"expansionId": 152
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "その程度で止められると侮ることなかれ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【永】 他のあなたの《カルネ村》のキャラが2枚以上なら、このカードのパワーを＋4000。"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr\u003e【永】 他のあなたの《カルネ村》のキャラが2枚以上なら、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"亜人種",
 		"カルネ村"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S99-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s99/ovl_s99_093.png",
+	"tags": null,
+	"expansionId": 404
 }

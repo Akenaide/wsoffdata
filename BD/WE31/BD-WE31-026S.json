@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、そうか。\nなかったら自分で作ればいいんだ！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「カラフルポッピン！」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《Poppin’Party》のキャラを1枚選び、【スタンド】する。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE31-026S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_026s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we31/bd_we31_026s.png",
+	"tags": null,
+	"expansionId": 233
 }

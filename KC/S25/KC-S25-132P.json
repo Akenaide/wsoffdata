@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "も、も～ばかぁ～！これじゃあ戦えないっぽい！？",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ あなたのクライマックス置場に「さぁ、素敵なパーティしましょ！」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-132P",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_132p.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_132p.png",
+	"tags": null,
+	"expansionId": 113
 }

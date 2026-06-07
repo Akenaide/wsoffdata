@@ -10,23 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "恵「出海ちゃんは、サークルのために死に物狂いで頑張った……」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《ゲーム》のキャラがいないなら、手札からプレイできない。",
-		"次の2つの効果のうちあなたが選んだ1つを行う。",
-		"『あなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』",
-		"『あなたのクロックが6枚なら、あなたは自分の山札を見てカードを1枚まで選び、手札に加え、その山札をシャッフルする。』",
-		"そのターン中、あなたは「死に物狂いの徹夜作業」を手札からプレイできない。"
+		"このカードは、あなたの《ゲーム》のキャラがいないなら、手札からプレイできない。\u003cbr\u003e次の2つの効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたは自分の山札を上から4枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』\u003cbr\u003e『あなたのクロックが6枚なら、あなたは自分の山札を見てカードを1枚まで選び、手札に加え、その山札をシャッフルする。』\u003cbr\u003eそのターン中、あなたは「死に物狂いの徹夜作業」を手札からプレイできない。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SHS/W98-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_027.png",
+	"tags": null,
+	"expansionId": 391
 }

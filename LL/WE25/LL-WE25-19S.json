@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "う～ん、この水着ちょっとちっちゃい気がするよ～",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE25-19S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we25/ll_we25_19s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we25/ll_we25_19s.png",
+	"tags": null,
+	"expansionId": 156
 }

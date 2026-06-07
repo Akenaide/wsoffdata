@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺たちも行くぞ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《防衛隊》か《怪獣》のキャラがいるなら、このカードのレベルを＋1し、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"防衛隊",
 		"怪獣"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KJ8/S123-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_058.png",
+	"tags": null,
+	"expansionId": 525
 }

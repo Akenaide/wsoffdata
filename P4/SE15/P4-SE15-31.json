@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "その虚空　すべてを呑み込む！",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
 	],
@@ -24,8 +24,9 @@
 		"影",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE15-31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se15/p4_se15_31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se15/p4_se15_31.png",
+	"tags": null,
+	"expansionId": 91
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うう、いいから遊んでよ。ボクが帰っちゃったら、\u003cbr /\u003e清隆も遊び相手いなくなっちゃうんだからね！",
+	"trigger": null,
 	"ability": [
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
 		"【起】［(1)］ そのターン中、このカードのソウルを＋1。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_014.png",
+	"tags": null,
+	"expansionId": 78
 }

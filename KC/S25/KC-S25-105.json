@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "皆さん、ご一緒にがんばりましょう。",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
 		"【自】 他のあなたの「吹雪型駆逐艦3番艦 初雪」がアタックした時、前列にこのカードがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_105.png",
+	"tags": null,
+	"expansionId": 113
 }

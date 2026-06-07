@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたたちが勝てる確率は……「０％」\u003cbr\u003e(0%ルビ：ヌル・プロッツェント)",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《華撃団》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《華撃団》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"華撃団",
 		"伯林"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SKR/S73-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_032.png",
+	"tags": null,
+	"expansionId": 293
 }

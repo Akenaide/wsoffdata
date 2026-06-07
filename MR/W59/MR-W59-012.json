@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "笑う門には福来るってね！さー、笑おー!!",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの舞台の黄のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが黄のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"ディフェンス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_012.png",
+	"tags": null,
+	"expansionId": 232
 }

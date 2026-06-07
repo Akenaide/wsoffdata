@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゆまは『治癒魔法』っていうのが使えるの！",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「杏子」を含むキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「杏子」を含むキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
 	],
 	"specialAttrib": [
 		"魔法",
 		"ヒール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_091.png",
+	"tags": null,
+	"expansionId": 232
 }

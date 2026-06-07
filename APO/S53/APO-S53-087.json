@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ダーニック！貴様ぁぁぁぁぁぁぁぁぁッッッ!!",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_087.png",
+	"tags": null,
+	"expansionId": 228
 }

@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"マスター",
 		"サーヴァント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_063.png",
+	"tags": null,
+	"expansionId": 262
 }

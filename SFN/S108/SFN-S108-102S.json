@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あなたが私を知ろうとしてくれたことが、堪らなく嬉しいのです",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《冒険者》か《魔法》のキャラが2枚以上なら、このカードのパワーを＋4000。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の「誕生日のお祝い フリーレン」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
+		"【永】 あなたのターン中、他のあなたの、《冒険者》か《魔法》のキャラが2枚以上なら、このカードのパワーを＋4000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の「誕生日のお祝い フリーレン」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S108-102S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_102s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s108/sfn_s108_102s.png",
+	"tags": null,
+	"expansionId": 466
 }

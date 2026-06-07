@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あれ？流行りの挨拶って聞いたんだけど",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"バイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_t03.png",
+	"tags": null,
+	"expansionId": 242
 }

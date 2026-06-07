@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "「SECRET」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのクライマックス置場に「成りたての神様」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のキャラを1枚選び、手札に戻してよい。』"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのクライマックス置場に「成りたての神様」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のキャラを1枚選び、手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"怪異",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-005S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_005s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_005s.png",
+	"tags": null,
+	"expansionId": 159
 }

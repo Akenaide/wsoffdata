@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "司令官との大切な約束も、必ず守り通す覚悟です！",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードをストック置場に置いてよい。（クライマックスのレベルは0として扱う）",
-		"【起】［あなたのキャラを2枚【レスト】する］ このカードを控え室に置く。あなたは自分の控え室の「朝潮型駆逐艦1番艦 朝潮改二」を1枚選び、このカードがいた枠に置く。"
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードをストック置場に置いてよい。（クライマックスのレベルは0として扱う）\u003cbr\u003e【起】［あなたのキャラを2枚【レスト】する］ このカードを控え室に置く。あなたは自分の控え室の「朝潮型駆逐艦1番艦 朝潮改二」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_084.png",
+	"tags": null,
+	"expansionId": 270
 }

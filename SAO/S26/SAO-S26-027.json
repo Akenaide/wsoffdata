@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それじゃあ、ついてきて！",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場に置く。",
 		"【自】 このカードがアタックした時、あなたは自分の、《アバター》か《ネット》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S26-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s26/sao_s26_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s26/sao_s26_027.png",
+	"tags": null,
+	"expansionId": 115
 }

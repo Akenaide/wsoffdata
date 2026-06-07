@@ -15,22 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あたし、みんなと一緒にいたい！\u003cbr\u003eずっとずっと一緒に暮らしていきたい！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの、《Anniversary》か《魔法》か《新聞》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
+		"【永】 あなたの、《Anniversary》か《魔法》か《新聞》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋4500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法",
 		"オモチャ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W81-010S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w81/dc_w81_010s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w81/dc_w81_010s.png",
+	"tags": null,
+	"expansionId": 310
 }

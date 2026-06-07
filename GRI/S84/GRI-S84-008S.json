@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋3000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-008S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_008s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_008s.png",
+	"tags": null,
+	"expansionId": 347
 }

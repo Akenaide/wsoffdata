@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ランドソル》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《ランドソル》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。"
+		"【永】 他のあなたの《ランドソル》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《ランドソル》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W100-004S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_004s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_004s.png",
+	"tags": null,
+	"expansionId": 397
 }

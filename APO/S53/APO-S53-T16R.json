@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ばあ……さぁ……かぁ……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"電気"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-T16R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_t16r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_t16r.png",
+	"tags": null,
+	"expansionId": 223
 }

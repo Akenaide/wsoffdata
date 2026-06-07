@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……ああ……",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのレベルが3以上なら、このカードの正面のキャラのソウルを－1。",
-		"【起】［このカードを山札の下に置く］ あなたは自分の手札の自分のレベル以下のレベルの「“我が神はここにありて”ルーラー」を1枚まで選び、舞台の好きな枠に置く。"
+		"【永】 あなたのレベルが3以上なら、このカードの正面のキャラのソウルを－1。\u003cbr\u003e【起】［このカードを山札の下に置く］ あなたは自分の手札の自分のレベル以下のレベルの「“我が神はここにありて”ルーラー」を1枚まで選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_018.png",
+	"tags": null,
+	"expansionId": 228
 }

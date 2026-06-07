@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ウ……？",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 バトル中のこのカードが【リバース】した時、相手は1枚引いてよい。そうしたら、相手は自分の手札を1枚選び、控え室に置く。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、相手は1枚引いてよい。そうしたら、相手は自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"サーヴァント",
 		"電気"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_067.png",
+	"tags": null,
+	"expansionId": 228
 }

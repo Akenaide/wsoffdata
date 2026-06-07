@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どっちがいい？　右か、左か――両方か",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋2500。",
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「最強と最弱」があり、このカードの下のマーカーが3枚以下なら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W26-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w26/rg_w26_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w26/rg_w26_006.png",
+	"tags": null,
+	"expansionId": 103
 }

@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さすがレイヤさん！　ホント痺れちゃいますっ♪\u003cbr\u003eパレオも負けませんよっ",
+	"trigger": null,
 	"ability": [
-		"【自】［手札のレベル1以上のカードを1枚控え室に置く］ あなたのメインフェイズ中、このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルの、《Pastel＊Palettes》か《RAISE A SUILEN》のキャラを1枚選び、そのメインフェイズ中、そのカードを、色条件を満たさずに控え室からプレイしてよい。（クライマックスのレベルは0として扱う。コストが必要なカードならコストを払う）",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+		"【自】［手札のレベル1以上のカードを1枚控え室に置く］ あなたのメインフェイズ中、このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルの、《Pastel＊Palettes》か《RAISE A SUILEN》のキャラを1枚選び、そのメインフェイズ中、そのカードを、色条件を満たさずに控え室からプレイしてよい。（クライマックスのレベルは0として扱う。コストが必要なカードならコストを払う）\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-107S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_107s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_107s.png",
+	"tags": null,
+	"expansionId": 382
 }

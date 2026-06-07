@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おとり作戦か。引っかかるとでも思ったか",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"仮面",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE18-45",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we18/lb_we18_45.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we18/lb_we18_45.png",
+	"tags": null,
+	"expansionId": 116
 }

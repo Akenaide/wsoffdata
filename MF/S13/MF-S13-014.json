@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うるさいのよ！　アルトのくせに！",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは相手の前列のレベル0以下のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_014.png",
+	"tags": null,
+	"expansionId": 61
 }

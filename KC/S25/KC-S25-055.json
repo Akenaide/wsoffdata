@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こっち見んな！この糞提督！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_055.png",
+	"tags": null,
+	"expansionId": 113
 }

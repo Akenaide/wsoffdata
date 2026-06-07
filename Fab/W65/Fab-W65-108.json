@@ -15,19 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "モッフル「冷やしトマトと冷奴。あと焼き鳥、適当に見繕ってほしいふも」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《ファンタジア文庫》か《甘ブリ》のキャラの枚数×1000に等しい。",
-		"【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《ファンタジア文庫》か《甘ブリ》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"甘ブリ",
 		"マスコット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fab/W65-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fab_w65/fab_w65_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fab_w65/fab_w65_108.png",
+	"tags": null,
+	"expansionId": 264
 }

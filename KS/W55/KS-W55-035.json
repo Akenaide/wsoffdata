@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カズマ「―今、その危険なゲームの障害物に彼女が選ばれていた」",
+	"trigger": null,
 	"ability": [
 		"あなたは相手のキャラの中でパワーが1番高いキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KS/W55-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_035.png",
+	"tags": null,
+	"expansionId": 214
 }

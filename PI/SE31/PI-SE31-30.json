@@ -1,6 +1,6 @@
 {
 	"set": "PI",
-	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"setName": " Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
 	"side": "S",
 	"release": "E31",
 	"id": "30",
@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "転身しなさい、イリヤ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《武器》か《魔法》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
+		"【永】 あなたのターン中、このカードの下にマーカーがあるなら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《武器》か《魔法》のキャラならこのカードの下にマーカーとして裏向きに置いてよい。（そうしないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE31-30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se31/pi_se31_30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se31/pi_se31_30.png",
+	"tags": null,
+	"expansionId": 202
 }

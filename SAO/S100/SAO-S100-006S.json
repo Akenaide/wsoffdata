@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "整合騎士アリス・シンセシス・サーティ!!",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《Anniversary》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「人界の守護」が置かれた時、前列にこのカードがいて、他のあなたの《Anniversary》のキャラが4枚以上なら、あなたは自分の控え室の、キャラか「Alicization」を1枚まで選び、手札に戻し、自分の控え室の《Anniversary》のキャラを1枚まで選び、ストック置場に置く。"
+		"【永】 他のあなたの《Anniversary》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「人界の守護」が置かれた時、前列にこのカードがいて、他のあなたの《Anniversary》のキャラが4枚以上なら、あなたは自分の控え室の、キャラか「Alicization」を1枚まで選び、手札に戻し、自分の控え室の《Anniversary》のキャラを1枚まで選び、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"フラクトライト",
 		"整合騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-006S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_006s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_006s.png",
+	"tags": null,
+	"expansionId": 405
 }

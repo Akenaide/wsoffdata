@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふむ…いいだろう",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/WE10-32",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_we10/ab_we10_32.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_we10/ab_we10_32.png",
+	"tags": null,
+	"expansionId": 63
 }

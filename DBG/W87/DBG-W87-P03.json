@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 あなたは相手の舞台にいるキャラの特徴を1つ選び、相手のキャラすべては、そのターン中、その特徴をすべて失う。",
-		"このカードを思い出にする。"
+		"【カウンター】 あなたは相手の舞台にいるキャラの特徴を1つ選び、相手のキャラすべては、そのターン中、その特徴をすべて失う。\u003cbr\u003eこのカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DBG/W87-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

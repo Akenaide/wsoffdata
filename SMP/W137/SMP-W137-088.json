@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札が4枚以上で、他のあなたのキャラがいないなら、このカードは【リバース】しない。",
-		"【永】 あなたのターン中、このカードのパワーを＋2000。"
+		"【永】 あなたの手札が4枚以上で、他のあなたのキャラがいないなら、このカードは【リバース】しない。\u003cbr\u003e【永】 あなたのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"ヌイグルミ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_088.png",
+	"tags": null,
+	"expansionId": 548
 }

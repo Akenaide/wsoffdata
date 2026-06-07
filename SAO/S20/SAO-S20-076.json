@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "パパ……ママ……。\u003cbr /\u003eぜんぶ、思い出したよ……",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
 		"【起】［他のあなたのキャラを1枚とこのカードを【レスト】する］あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_076.png",
+	"tags": null,
+	"expansionId": 92
 }

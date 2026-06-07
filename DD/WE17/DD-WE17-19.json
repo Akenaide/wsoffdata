@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "19",
@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしが勝ち超すまで…やめない…！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE17-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_19.png",
+	"tags": null,
+	"expansionId": 100
 }

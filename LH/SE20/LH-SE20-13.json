@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そろそろ助け舟が必要なようですわね……",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「施療神官 マリエール」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「施療神官 マリエール」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_13.png",
+	"tags": null,
+	"expansionId": 118
 }

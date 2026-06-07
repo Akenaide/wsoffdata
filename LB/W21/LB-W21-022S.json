@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
 		"【自】 このカードがアタックした時、あなたは自分のクライマックス置場のクライマックスを1枚選び、ストック置場に置いてよい。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-022S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_022s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_022s.png",
+	"tags": null,
+	"expansionId": 96
 }

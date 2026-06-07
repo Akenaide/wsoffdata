@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おはよう、式",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《和服》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"探偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KK/SPR-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kk_spr/kk_spr_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kk_spr/kk_spr_004.png",
+	"tags": null,
+	"expansionId": 13
 }

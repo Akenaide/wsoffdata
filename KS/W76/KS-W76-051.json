@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【起】［手札のクライマックスを1枚控え室に置く］ そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。』"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【起】［手札のクライマックスを1枚控え室に置く］ そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札の上から2枚を公開し、相手はそれらのカードのキャラかイベントを1枚選び、あなたの手札に加え、残りのカードを控え室に置く。』"
 	],
 	"specialAttrib": [
 		"死",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_051.png",
+	"tags": null,
+	"expansionId": 291
 }

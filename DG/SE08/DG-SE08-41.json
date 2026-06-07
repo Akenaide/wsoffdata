@@ -5,7 +5,7 @@
 	"release": "E08",
 	"id": "41",
 	"name": "",
-	"jpName": "第６２代魔界大統領 アクターレ",
+	"jpName": "\u003cs\u003e第６２代魔界大統領\u003c/s\u003e アクターレ",
 	"cardType": "CH",
 	"colour": "BLUE",
 	"level": "0",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "聞き惚れるがいい！！\u003cbr /\u003eオレ様の美声を！　オレ様の歌を！！",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。",
 		"【起】［あなたの《悪魔》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
@@ -25,8 +25,9 @@
 		"悪魔",
 		"ダークヒーロー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE08-41",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se08/dg_se08_41.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se08/dg_se08_41.png",
+	"tags": null,
+	"expansionId": 59
 }

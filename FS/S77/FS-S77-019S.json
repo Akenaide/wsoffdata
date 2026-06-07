@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お互いの信頼ですね　…シロウ",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】［このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"サーヴァント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S77-019S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s77/fs_s77_019s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s77/fs_s77_019s.png",
+	"tags": null,
+	"expansionId": 314
 }

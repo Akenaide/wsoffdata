@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヒトを捨てたエヴァの力、見せてもらうわ",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。このカードをストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "EV/S12-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_046.png",
+	"tags": null,
+	"expansionId": 49
 }

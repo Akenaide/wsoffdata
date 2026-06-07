@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リムル「この日、新たな魔王の時代が幕を開けたのだ」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《魔王》のキャラが2枚以下なら、手札からプレイできない。",
-		"あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+		"このカードは、あなたの《魔王》のキャラが2枚以下なら、手札からプレイできない。\u003cbr\u003eあなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TSK/S101-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s101/tsk_s101_071.png",
+	"tags": null,
+	"expansionId": 412
 }

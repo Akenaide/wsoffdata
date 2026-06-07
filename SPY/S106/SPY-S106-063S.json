@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(2) 手札のトリガーアイコンが[COMEBACK]のクライマックスを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の手札の「殺人術の使い手 ヨル」を1枚まで選び、舞台の好きな枠に置く。』",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
-		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
+		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(2) 手札のトリガーアイコンが[[salvage.gif]]のクライマックスを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の手札の「殺人術の使い手 ヨル」を1枚まで選び、舞台の好きな枠に置く。』\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"バーリント市",
 		"殺し屋"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SPY/S106-063S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_063s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/spy_s106/spy_s106_063s.png",
+	"tags": null,
+	"expansionId": 433
 }

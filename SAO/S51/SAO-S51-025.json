@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日のMVPはあなた！おめでとー！！",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「夢だった大舞台」があるなら、あなたは自分のストックの上から1枚を、手札に戻してよい。"
+		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「夢だった大舞台」があるなら、あなたは自分のストックの上から1枚を、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"ネット",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S51-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s51/sao_s51_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s51/sao_s51_025.png",
+	"tags": null,
+	"expansionId": 209
 }

@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「ちぇりおー！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《武器》キャラを1枚選び、手札に戻し、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-40",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_40.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_40.png",
+	"tags": null,
+	"expansionId": 56
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "湖の騎士シャマルと風のリング「クラールヴィント」、\u003cbr /\u003e癒しと補助が本領です",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「シグナム」を含むキャラすべてに、パワーを＋500。",
 		"【自】 あなたのクライマックス置場に「癒しの力」が置かれた時、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードすべてが《魔法》のキャラなら、あなたは自分のクロックの上から1枚を、控え室に置く。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_080.png",
+	"tags": null,
+	"expansionId": 44
 }

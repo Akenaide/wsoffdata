@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はーい、火力が足りない時は私の出番ですっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"登山"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_t02.png",
+	"tags": null,
+	"expansionId": 248
 }

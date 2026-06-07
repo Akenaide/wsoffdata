@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ど、どうかしら？",
 	"trigger": [
 		"SOUL"
 	],
@@ -23,13 +23,12 @@
 		"-"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_012.png",
+	"tags": null,
+	"expansionId": 344
 }

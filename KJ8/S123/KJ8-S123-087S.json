@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "日比野カフカ「すっかり手の届かないところにいっちまった」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から4枚を、控え室に置く。それらのカードにCXがあるなら、あなたは相手のレベル3以下のキャラを1枚選び、手札に戻してよい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から4枚を、控え室に置く。それらのカードにCXがあるなら、あなたは相手のレベル3以下のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"防衛隊",
 		"隊長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KJ8/S123-087S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_087s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_087s.png",
+	"tags": null,
+	"expansionId": 525
 }

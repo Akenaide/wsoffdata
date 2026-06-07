@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "いいよー、告白しても。\u003cbr\u003e断るけど",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋6000。",
-		"【自】 このカードが【リバース】した時、このカードを思い出にする。",
-		"【起】 記憶 ［(1) 思い出置場のこのカードを控え室に置く］ あなたのレベルが2以上なら、あなたは自分の手札の「ナイスバディ 杏菜」を1枚まで選び、舞台の好きな枠に置く。"
+		"【永】 あなたのターン中、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードを思い出にする。\u003cbr\u003e【起】 記憶 ［(1) 思い出置場のこのカードを控え室に置く］ あなたのレベルが2以上なら、あなたは自分の手札の「ナイスバディ 杏菜」を1枚まで選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"青春",
 		"マケイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_081.png",
+	"tags": null,
+	"expansionId": 520
 }

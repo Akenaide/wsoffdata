@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"演劇",
 		"だんご"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WP01-03S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_wp01/cl_wp01_03s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_wp01/cl_wp01_03s.png",
+	"tags": null,
+	"expansionId": 166
 }

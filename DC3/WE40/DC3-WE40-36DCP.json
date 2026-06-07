@@ -15,21 +15,20 @@
 	"rarity": "DCP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「孤高のカトレア」があるなら、相手に1ダメージを与え、あなたはそのキャラを山札の上に置く。（ダメージキャンセルは発生する）"
+		"【永】 あなたのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「孤高のカトレア」があるなら、相手に1ダメージを与え、あなたはそのキャラを山札の上に置く。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE40-36DCP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc3_we40_36dcp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we40/dc3_we40_36dcp.png",
+	"tags": null,
+	"expansionId": 436
 }

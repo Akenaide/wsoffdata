@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そんなことないよ…ありがとうフェイトちゃん",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「今いるべき場所 フェイト」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「今いるべき場所 フェイト」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_047.png",
+	"tags": null,
+	"expansionId": 94
 }

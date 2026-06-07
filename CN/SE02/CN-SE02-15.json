@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サンタナ「いや……お前は、俺の心に咲いた花だよ。ハッコー」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが3以上なら、このカードの正面のキャラのソウルを－1。"
 	],
@@ -24,8 +24,9 @@
 		"病気",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CN/SE02-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cn_se02/cn_se02_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cn_se02/cn_se02_15.png",
+	"tags": null,
+	"expansionId": 31
 }

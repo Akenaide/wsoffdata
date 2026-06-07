@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "流石お兄ちゃん！ブタ野郎です！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのターン中、このカードのソウルを＋1。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）",
-		"【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《思春期》のキャラを1枚選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのターン中、このカードのソウルを＋1。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《思春期》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_102.png",
+	"tags": null,
+	"expansionId": 261
 }

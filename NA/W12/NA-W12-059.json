@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はやてっ！いってらっしゃい！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。",
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_059.png",
+	"tags": null,
+	"expansionId": 44
 }

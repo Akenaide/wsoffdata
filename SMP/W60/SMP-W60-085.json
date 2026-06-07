@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……明日、ちょっと時間貰える？",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場に「“妹想い”藍」があるなら、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_085.png",
+	"tags": null,
+	"expansionId": 238
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……あ、味見……するぞ……！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、あなたのキャラすべてが《音楽》なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ロック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-T16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_t16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_t16.png",
+	"tags": null,
+	"expansionId": 248
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そんな！ふたりきりじゃなくて！ みんなとも一緒じゃないと！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から1枚見て、山札の上か下に置く。",
 		"【自】 絆／「恥ずかしがり屋 エリー」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「恥ずかしがり屋 エリー」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"探偵",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_028.png",
+	"tags": null,
+	"expansionId": 50
 }

@@ -1,6 +1,6 @@
 {
 	"set": "PI",
-	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"setName": " Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
 	"side": "S",
 	"release": "E31",
 	"id": "17",
@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "寒いね…",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの、緑か《人形》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
-		"【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“仮面の下の素顔”ジュリアン」を1枚選び、舞台の好きな枠に【レスト】して置く。"
+		"【自】 他のあなたの、緑か《人形》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“仮面の下の素顔”ジュリアン」を1枚選び、舞台の好きな枠に【レスト】して置く。"
 	],
 	"specialAttrib": [
 		"宝具"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE31-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se31/pi_se31_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se31/pi_se31_17.png",
+	"tags": null,
+	"expansionId": 202
 }

@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ねぇ、兄さん。最初はどこに行こうか？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《魔法》のキャラが3枚以上なら、このカードのパワーを＋1000。",
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがクライマックスなら、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻してよい。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W23-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w23/dc_w23_051.png",
+	"tags": null,
+	"expansionId": 90
 }

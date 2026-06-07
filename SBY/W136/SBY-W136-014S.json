@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "麻衣さんに甘えてたらダメだからね",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、トリガーアイコンが[CHOICE]のCXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。",
-		"【起】［このカードを控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、トリガーアイコンが[[choice.gif]]のCXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-014S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_014s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_014s.png",
+	"tags": null,
+	"expansionId": 547
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "人類の未来のために！",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"アラトラム号",
 		"人類"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GZL/SE33-39",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gzl_se33/gzl_se33_39.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gzl_se33/gzl_se33_39.png",
+	"tags": null,
+	"expansionId": 244
 }

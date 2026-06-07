@@ -15,8 +15,8 @@
 	"rarity": "HR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "せっかくの、私達だけの新衣装！……だもんね？",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「グロウアップロック」があるなら、あなたは自分の控え室の『アラーム』を持つキャラを1枚選び、ストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE31-011H",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_011h.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we31/bd_we31_011h.png",
+	"tags": null,
+	"expansionId": 233
 }

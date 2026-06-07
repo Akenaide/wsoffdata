@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《Memory Snow》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"Memory Snow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S68-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_086.png",
+	"tags": null,
+	"expansionId": 280
 }

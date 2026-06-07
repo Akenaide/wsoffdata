@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マジカルポリス万里花ちゃん、見参☆",
+	"trigger": null,
 	"ability": [
-		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《警察》のキャラを1枚選び、手札に戻す。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《警察》のキャラを1枚選び、手札に戻す。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"警察",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/WE22-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_we22/nk_we22_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_we22/nk_we22_21.png",
+	"tags": null,
+	"expansionId": 147
 }

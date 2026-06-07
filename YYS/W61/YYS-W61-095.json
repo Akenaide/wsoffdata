@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "余の名は龍雅玄士郎。オヌシ、名は何と申す？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。",
-		""
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"神霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YYS/W61-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yys_w61/yys_w61_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yys_w61/yys_w61_095.png",
+	"tags": null,
+	"expansionId": 249
 }

@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "武器を持ったヤツが相手なら、覇王翔吼拳を使わざるを得ない！",
 	"trigger": [
 		"SOUL"
 	],
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_080.png",
+	"tags": null,
+	"expansionId": 27
 }

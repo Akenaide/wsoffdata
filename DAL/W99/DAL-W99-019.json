@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"デート",
 		"ラタトスク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W99-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w99/dal_w99_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w99/dal_w99_019.png",
+	"tags": null,
+	"expansionId": 396
 }

@@ -15,7 +15,7 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "確率からいってお前らの内一人か二人が死ぬわけだ",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"改造",
 		"電気"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TF/S32-006S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_006s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_006s.png",
+	"tags": null,
+	"expansionId": 135
 }

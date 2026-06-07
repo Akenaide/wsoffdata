@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "子供の頃、僕は正義の味方に憧れてた",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードのバトル中、このカードとバトルしているキャラがレベル2以上なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_011.png",
+	"tags": null,
+	"expansionId": 7
 }

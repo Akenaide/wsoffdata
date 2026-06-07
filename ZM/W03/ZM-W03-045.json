@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "せ…せっかくだから、借りてみたの。\u003cbr /\u003eだ、だって…もったいないでしょ？",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、【スタンド】する。あなたの、《メイド》と《ウェイトレス》のキャラすべてに、そのターン中、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ZM/W03-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_045.png",
+	"tags": null,
+	"expansionId": 3
 }

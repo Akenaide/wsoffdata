@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は、私が行かなきゃいけない場所に向かうから…",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、あなたのストックが3枚以下なら、このカードのパワーを＋2000。",
-		"【自】［(1) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「鶏小屋での目覚め 七海」を1枚まで選び、このカードがいた枠に置き、その山札をシャッフルする。"
+		"【永】 あなたのターン中、あなたのストックが3枚以下なら、このカードのパワーを＋2000。\u003cbr\u003e【自】［(1) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「鶏小屋での目覚め 七海」を1枚まで選び、このカードがいた枠に置き、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_059.png",
+	"tags": null,
+	"expansionId": 548
 }

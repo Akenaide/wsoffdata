@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "そう、ここは終末世界。\u003cbr /\u003eそしてフードを被った謎の黒幕こと、私――――",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"双子",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_060.png",
+	"tags": null,
+	"expansionId": 48
 }

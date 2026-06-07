@@ -15,18 +15,18 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "記念撮影するんですって！並んで写りましょ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。",
-		"【自】 加速 ［あなたの控え室の《音楽》のキャラを1枚クロック置場の下に置く］ あなたのクライマックスフェイズの始めに、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。"
+		"【自】 このカードがアタックした時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】 加速 ［あなたの控え室の《音楽》のキャラを1枚クロック置場の下に置く］ あなたのクライマックスフェイズの始めに、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-073BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_073bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_073bnp.png",
+	"tags": null,
+	"expansionId": 392
 }

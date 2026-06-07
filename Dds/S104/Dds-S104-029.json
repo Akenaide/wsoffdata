@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの、《Celebration》か《Disney》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「アラジン」があり、他のあなたの、《Celebration》か《Disney》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻すかストック置場の下に置いてよい。』"
+		"【自】 このカードがアタックした時、他のあなたの、《Celebration》か《Disney》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「アラジン」があり、他のあなたの、《Celebration》か《Disney》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻すかストック置場の下に置いてよい。』"
 	],
 	"specialAttrib": [
 		"Celebration",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Dds/S104-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_029.png",
+	"tags": null,
+	"expansionId": 420
 }

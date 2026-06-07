@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。あなたのキャラすべてが《プリコネ》か《ランドソル》なら、このカードのパワーを＋2000。",
-		"【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《プリコネ》か《ランドソル》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+		"【永】 このカードはサイドアタックできない。あなたのキャラすべてが《プリコネ》か《ランドソル》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《プリコネ》か《ランドソル》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"プリコネ",
 		"ランドソル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W100-E04S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_e04s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_e04s.png",
+	"tags": null,
+	"expansionId": 546
 }

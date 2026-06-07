@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ねぇ藤丸、私――",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から6枚をめくり、控え室に置く。それらのカードにトリガーアイコンに[RETURN]があるクライマックスがあるなら、あなたは自分の控え室の、《カルデア》か《バビロニア》のキャラを1枚選び、手札に戻す。"
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から6枚をめくり、控え室に置く。それらのカードにトリガーアイコンに[[bounce.gif]]があるクライマックスがあるなら、あなたは自分の控え室の、《カルデア》か《バビロニア》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"バビロニア",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_003.png",
+	"tags": null,
+	"expansionId": 298
 }

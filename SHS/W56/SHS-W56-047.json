@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "恵「それと、このしゃべり方や演技は霞ヶ丘先輩の台本通り……」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「衣装デザイン 英梨々」がいるなら、他のあなたの、《ゲーム》か《小説》のキャラすべてに、パワーを＋500。",
-		"【起】[(2) このカードを【レスト】する］ あなたは自分の控え室の、《ゲーム》か《小説》のキャラを1枚選び、手札に戻す。"
+		"【永】 他のあなたの「衣装デザイン 英梨々」がいるなら、他のあなたの、《ゲーム》か《小説》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】[(2) このカードを【レスト】する］ あなたは自分の控え室の、《ゲーム》か《小説》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_047.png",
+	"tags": null,
+	"expansionId": 220
 }

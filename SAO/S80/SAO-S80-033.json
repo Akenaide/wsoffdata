@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だって私は……お兄ちゃんの……《黒の剣士》キリトの――妹なんだからああああッ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《フラクトライト》のキャラを1枚まで選び、手札に戻す。"
+		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《フラクトライト》のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_033.png",
+	"tags": null,
+	"expansionId": 318
 }

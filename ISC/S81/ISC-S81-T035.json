@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "大船に乗ったつもりで\u003cbr\u003eうちにまかしとって！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「アンティーカ」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたのクロックの枚数に等しい。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれたターン中、アンコールステップの始めに、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「アンティーカ」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたのクロックの枚数に等しい。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"アンティーカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-T035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_t035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_t035.png",
+	"tags": null,
+	"expansionId": 327
 }

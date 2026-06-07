@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――――――友達だ",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがこのカードの『助太刀』を使った時、他のあなたのカード名に「なのは」を含むキャラがいるなら、あなたはすべてのプレイヤーの山札の上から3枚を、控え室に置く。",
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
@@ -25,8 +25,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_010.png",
+	"tags": null,
+	"expansionId": 44
 }

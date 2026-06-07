@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……よっしゃ！メッチャ音鳴ったし、神様も気づいてくれたはずやんな♪",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのレベルを＋1し、パワーを＋1000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのレベルを＋1し、パワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《音楽》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"関西弁"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_055.png",
+	"tags": null,
+	"expansionId": 392
 }

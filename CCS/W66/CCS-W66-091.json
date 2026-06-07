@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "秋穂「わたし、さくらさんと仲良くなりたいです」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て「固着」を1枚まで選び、控え室に置き、その山札をシャッフルする。",
-		"【自】 チェンジ ［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“夢の時計”木之本桜」を1枚選び、このカードがいた枠に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て「固着」を1枚まで選び、控え室に置き、その山札をシャッフルする。\u003cbr\u003e【自】 チェンジ ［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“夢の時計”木之本桜」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_091.png",
+	"tags": null,
+	"expansionId": 274
 }

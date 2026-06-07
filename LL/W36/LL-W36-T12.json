@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "水に入って少ししてから、プカッて身体が浮いてくるところが、花陽好きなんだ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、レベルを＋1し、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、レベルを＋1し、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_t12.png",
+	"tags": null,
+	"expansionId": 141
 }

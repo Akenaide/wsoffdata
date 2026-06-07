@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "クックックッ……、覚えているか？\u003cbr /\u003eオレさまのこと！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札の「永遠のアイドル」を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「アイドル魔王 ラハールちゃん」を1枚選び、舞台の好きな枠に【レスト】して置く。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_31.png",
+	"tags": null,
+	"expansionId": 102
 }

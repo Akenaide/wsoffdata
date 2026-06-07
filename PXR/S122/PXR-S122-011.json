@@ -15,20 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《PIXAR》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】［【スタンド】しているこのカードを【レスト】する］ あなたのキャラがダイレクトアタックした時、あなたの控え室のトリガーアイコンが[RETURN]のCXが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《PIXAR》のキャラを1枚選び、ストック置場に置く。",
-		"【自】［(1)］ あなたのトリガーアイコンが[RETURN]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《PIXAR》のキャラを1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたの《PIXAR》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】［【スタンド】しているこのカードを【レスト】する］ あなたのキャラがダイレクトアタックした時、あなたの控え室のトリガーアイコンが[[bounce.gif]]のCXが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《PIXAR》のキャラを1枚選び、ストック置場に置く。\u003cbr\u003e【自】［(1)］ あなたのトリガーアイコンが[[bounce.gif]]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《PIXAR》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S122-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s122/pxr_s122_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s122/pxr_s122_011.png",
+	"tags": null,
+	"expansionId": 523
 }

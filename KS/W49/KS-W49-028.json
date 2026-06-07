@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "くっ!?ぬかった!!",
+	"trigger": null,
 	"ability": [
 		"あなたのレベルが2以下で相手のレベルが1以下なら、あなたは自分の手札を3枚選び、控え室に置いてよい。そうしたら、このカードをレベル置場に置き、あなたは追加の1ターンを得る。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KS/W49-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_028.png",
+	"tags": null,
+	"expansionId": 192
 }

@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だったら、彼女は霧島透子じゃないんじゃない？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《思春期》のキャラが2枚以上なら、このカードは次の3つの能力を得る。『【永】 あなたのターン中、このカードのパワーを＋2000。』『【永】 このカードは相手の効果に選ばれない。』『【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。』"
 	],
@@ -24,8 +24,9 @@
 		"思春期",
 		"変わり者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-094S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_094s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_094s.png",
+	"tags": null,
+	"expansionId": 547
 }

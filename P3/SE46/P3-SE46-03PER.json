@@ -15,19 +15,19 @@
 	"rarity": "PER",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしだけここに待機していては、任務に支障をきたします。\u003cbr\u003eよって、同行を申し出たであります。",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《リロード》か《魔法》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードがアタックした時、あなたは自分の、《リロード》か《魔法》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《リロード》か《魔法》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の、《リロード》か《魔法》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"リロード",
 		"メカ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SE46-03PER",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_03per.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_se46/p3_se46_03per.png",
+	"tags": null,
+	"expansionId": 469
 }

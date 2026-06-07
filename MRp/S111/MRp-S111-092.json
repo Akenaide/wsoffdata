@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。2回行ったら、あなたは自分のストックの上から1枚を、控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"Mirrorverse",
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRp/S111-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrp_S111_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrp_s111_092.png",
+	"tags": null,
+	"expansionId": 471
 }

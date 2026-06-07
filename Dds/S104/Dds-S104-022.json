@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋11000し、ソウルを＋1。",
-		"【自】［このカードを【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\u0026#34;真実の愛\u0026#34; ベル」を1枚選び、このカードの下にマーカーとして表向きに置く。"
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋11000し、ソウルを＋1。\u003cbr\u003e【自】［このカードを【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「\"真実の愛\" ベル」を1枚選び、このカードの下にマーカーとして表向きに置く。"
 	],
 	"specialAttrib": [
 		"Celebration",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Dds/S104-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_022.png",
+	"tags": null,
+	"expansionId": 420
 }

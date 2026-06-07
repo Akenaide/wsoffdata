@@ -15,18 +15,18 @@
 	"rarity": "LCR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+		"【永】 あなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NTA/WE48-07LCR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_07lcr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nta_we48/nta_we48_07lcr.png",
+	"tags": null,
+	"expansionId": 518
 }

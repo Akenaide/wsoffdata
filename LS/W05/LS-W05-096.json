@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こなた「眼鏡と袴は女の子に限る――！！」\u003cbr /\u003eひより「私的には男の子もありなんですが…！！」\u003cbr /\u003eこなた「え～～～～！？」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を上からＸ枚まで見て、カードを2枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《オタク》のキャラの枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LS/W05-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_096.png",
+	"tags": null,
+	"expansionId": 16
 }

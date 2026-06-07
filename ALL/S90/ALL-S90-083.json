@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――『レジスタ』、発動！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《リリィ》のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《リリィ》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"リリィ",
 		"ヘルヴォル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_083.png",
+	"tags": null,
+	"expansionId": 371
 }

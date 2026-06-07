@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自分、カンペキだから、ファッションモデルの仕事だって余裕でできちゃうんだぞ♪",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「合言葉はスタートアップ！」があり、他のあなたの、《音楽》か《動物》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の、《音楽》か《動物》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IAS/S61-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_s61/ias_s61_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_s61/ias_s61_055.png",
+	"tags": null,
+	"expansionId": 251
 }

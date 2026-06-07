@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいったらいいの！",
+	"trigger": null,
 	"ability": [
 		"【起】[(1)]あなたは自分の《炎》のキャラを１枚選び、そのターン中、パワーを+500。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-111",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_111.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_111.png",
+	"tags": null,
+	"expansionId": 12
 }

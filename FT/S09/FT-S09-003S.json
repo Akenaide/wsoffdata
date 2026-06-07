@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのカード名に「エルザ」を含むキャラすべてに、パワーを＋1000。",
 		"【永】 あなたが自分の手札か舞台のキャラの【起】のコストを払うとき、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。",
@@ -26,8 +26,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-003S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_003s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_003s.png",
+	"tags": null,
+	"expansionId": 43
 }

@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードと、「封印された拳 アクション仮面」は、デッキに合計4枚まで入れることができる。",
-		"【永】 あなたのクロックが2枚以下なら、このカードはアタックできない。"
+		"【永】 このカードと同じカード名のカードと、「封印された拳 アクション仮面」は、デッキに合計4枚まで入れることができる。\u003cbr\u003e【永】 あなたのクロックが2枚以下なら、このカードはアタックできない。"
 	],
 	"specialAttrib": [
 		"MOVIE",
 		"仮面",
 		"ヒーロー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_030.png",
+	"tags": null,
+	"expansionId": 480
 }

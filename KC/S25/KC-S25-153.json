@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい！私、頑張っちゃいますから！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《艦娘》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-153",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_153.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_153.png",
+	"tags": null,
+	"expansionId": 113
 }

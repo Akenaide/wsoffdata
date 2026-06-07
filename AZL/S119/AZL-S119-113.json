@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ようやく私の力を見せる時が来たか……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《艦船》のキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのトリガーアイコンが[GATE]のCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
+		"【永】 応援 このカードの前のあなたの《艦船》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[gate.gif]]のCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ユニオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-113",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_113.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_113.png",
+	"tags": null,
+	"expansionId": 499
 }

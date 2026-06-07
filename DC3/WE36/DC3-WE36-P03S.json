@@ -15,17 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたし、なんだか変な夢を見てた気がします",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《新聞》のキャラなら、あなたはこのカードを思い出にしてよい。（公開したカードは元に戻す）",
-		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《新聞》のキャラなら、あなたはこのカードを思い出にしてよい。（公開したカードは元に戻す）\u003cbr\u003e【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
 	],
 	"specialAttrib": [
 		"新聞"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE36-P03S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we36/dc3_we36_p03s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we36/dc3_we36_p03s.png",
+	"tags": null,
+	"expansionId": 361
 }

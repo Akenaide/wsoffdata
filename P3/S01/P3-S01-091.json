@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "でもさ…この”浴衣”って、\u003cbr /\u003e何て言うか…だいぶ無防備な服だよね。",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000）",
-		"【起】［(2) このカードを【レスト】する］ あなたはこのカードを手札に戻す。"
+		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたはフロントアタックされている自分のキャラを1枚選び、そのターン中、パワーを＋2000）\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたはこのカードを手札に戻す。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_091.png",
+	"tags": null,
+	"expansionId": 4
 }

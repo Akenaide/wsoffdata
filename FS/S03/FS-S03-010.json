@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自らの持ち物を取りに来て何が悪い",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《武器》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_010.png",
+	"tags": null,
+	"expansionId": 7
 }

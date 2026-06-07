@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "とーちゃんがロボになっちゃった",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。"
 	],
@@ -24,8 +24,9 @@
 		"家族",
 		"幼稚園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,8 +15,8 @@
 	"rarity": "PER",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "負ける気がしない…なんて、自信持ち過ぎちゃダメだよね。",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SE46-49PER",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_49per.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_se46/p3_se46_49per.png",
+	"tags": null,
+	"expansionId": 469
 }

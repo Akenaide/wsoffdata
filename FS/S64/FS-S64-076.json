@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今朝もまた、新都で昏睡事件が起きたわ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「曰くの英霊 アーチャー」すべてに、パワーを＋1000。",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。",
-		"【起】［このカードを【レスト】する］ あなたは自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの「曰くの英霊 アーチャー」すべてに、パワーを＋1000。\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_076.png",
+	"tags": null,
+	"expansionId": 262
 }

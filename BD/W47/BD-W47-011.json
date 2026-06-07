@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の緑のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"不思議"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_011.png",
+	"tags": null,
+	"expansionId": 196
 }

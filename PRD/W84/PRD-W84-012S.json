@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "頼れる牧場主 マヒル",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、次の行動を2回行う。『あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W84-012S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_012s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w84/prd_w84_012s.png",
+	"tags": null,
+	"expansionId": 320
 }

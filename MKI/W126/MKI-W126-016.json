@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "よ、よくない……！\u003cbr\u003eちゃ、ちゃんと、やる。\u003cbr\u003eお客さん、いっぱい来て欲しい",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"青春",
 		"マケイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_016.png",
+	"tags": null,
+	"expansionId": 520
 }

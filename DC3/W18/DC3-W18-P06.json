@@ -15,7 +15,7 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あ、先輩。待って下さい。\u003cbr /\u003eせっかくだから一緒に行きませんか？",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"新聞",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-P06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_p06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_p06.png",
+	"tags": null,
+	"expansionId": 12
 }

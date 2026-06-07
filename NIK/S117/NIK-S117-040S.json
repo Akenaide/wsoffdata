@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】し、このカードを控え室に置く］ あなたは「“処断”D」以外の自分の控え室のレベル0以下の《NIKKE》のキャラを1枚選び、舞台の好きな枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"NIKKE",
 		"シージペリラス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-040S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_040s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_040s.png",
+	"tags": null,
+	"expansionId": 494
 }

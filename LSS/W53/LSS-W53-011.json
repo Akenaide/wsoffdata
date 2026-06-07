@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "人は生まれてきたの？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「“MY舞☆TONIGHT”津島 善子」すべてに、パワーを＋2000。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+		"【永】 他のあなたの「“MY舞☆TONIGHT”津島 善子」すべてに、パワーを＋2000。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W53-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w53/lss_w53_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w53/lss_w53_011.png",
+	"tags": null,
+	"expansionId": 225
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――取ろうぜ、聖杯",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「紅い雷鳴」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“最後の一閃”赤のセイバー」を1枚までと「ふたつのタバコ」を1枚まで選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_035.png",
+	"tags": null,
+	"expansionId": 228
 }

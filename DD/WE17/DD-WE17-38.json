@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "38",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "悩みってなんの事だ？",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) 手札を1枚控え室に置き、他のあなたの《勇者》のキャラを1枚とこのカードを【レスト】する］ あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE17-38",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_38.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_38.png",
+	"tags": null,
+	"expansionId": 100
 }

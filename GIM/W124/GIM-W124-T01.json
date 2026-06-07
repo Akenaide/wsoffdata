@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたくし、やめませんわ！思い知りましたもの！\u003cbr\u003eわたくしが憧れたアイドルは――\u003cbr\u003e想像していたよりも、ずっとずっと素敵で、すごい方々だったと！",
+	"trigger": null,
 	"ability": [
-		"【自】［このカードを山札の下に置く］ 他のあなたの《音楽》のキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを手札に戻す。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは1枚まで引く。"
+		"【自】［このカードを山札の下に置く］ 他のあなたの《音楽》のキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを手札に戻す。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは1枚まで引く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"お嬢様"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GIM/W124-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_t01.png",
+	"tags": null,
+	"expansionId": 513
 }

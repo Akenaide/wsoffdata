@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の山札を見て《芸能界》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"芸能界",
 		"アイドル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OSK/S107-P03S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_p03s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/osk_s107/osk_s107_p03s.png",
+	"tags": null,
+	"expansionId": 13
 }

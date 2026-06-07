@@ -15,17 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "香子「はぁ……気持ちいいわぁ……」\u003cbr\u003e双葉「気持ちわりぃ声出してんじゃねーよ」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「双葉」か「香子」を含むキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《レヴュー》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 他のあなたのカード名に「双葉」か「香子」を含むキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の《レヴュー》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"レヴュー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_101.png",
+	"tags": null,
+	"expansionId": 250
 }

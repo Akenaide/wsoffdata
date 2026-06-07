@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お兄ちゃん、それにしても随分と長風呂だね。\u003cbr /\u003eいつまで入ってる気？",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"怪異",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_058.png",
+	"tags": null,
+	"expansionId": 105
 }

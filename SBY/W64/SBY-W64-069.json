@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "どうして咲太がいるのよ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードは相手の効果に選ばれない。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+		"【永】 このカードは相手の効果に選ばれない。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_069.png",
+	"tags": null,
+	"expansionId": 261
 }

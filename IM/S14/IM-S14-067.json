@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ねえ、プロデューサー！\u003cbr /\u003e自分が海に連れて行ってあげるよ！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_067.png",
+	"tags": null,
+	"expansionId": 64
 }

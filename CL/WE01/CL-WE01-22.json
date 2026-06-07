@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "こんにちは、朋也君",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"本",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE01-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we01/cl_we01_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we01/cl_we01_22.png",
+	"tags": null,
+	"expansionId": 21
 }

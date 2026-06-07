@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それには正直、思うところもある。\u003cbr /\u003eだからここで決着をつけよう",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"盾",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_029.png",
+	"tags": null,
+	"expansionId": 48
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おねえちゃん……",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の、青か《BLOOM》か《ラビットハウス》のキャラを1枚選び、そのターン中、パワーを＋1500。』"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-100",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_100.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_100.png",
+	"tags": null,
+	"expansionId": 344
 }

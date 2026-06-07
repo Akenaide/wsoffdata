@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今の私と同じくらい、みんなが幸せでありますように",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 相手のターン中、相手のキャラが【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。"
+		"【自】 相手のターン中、相手のキャラが【リバース】した時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"救護騎士団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_028.png",
+	"tags": null,
+	"expansionId": 460
 }

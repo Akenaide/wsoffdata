@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これから大切な部活だって言うのに、居眠り？",
+	"trigger": null,
 	"ability": [
 		"【自】 記憶 このカードがアタックした時、クライマックス置場に「With You」があるなら、 あなたは自分の控え室のレベルＸ以下の、《新聞》か《生徒会》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの思い出の枚数に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W46-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w46/dc3_w46_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w46/dc3_w46_091.png",
+	"tags": null,
+	"expansionId": 178
 }

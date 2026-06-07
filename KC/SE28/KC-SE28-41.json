@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヤラセハ…シナイ…ヨ……ッ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-		"【自】 あなたのクライマックス置場に「オチロッ！」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《深海棲艦》のキャラなら、そのターン中、このカードのパワーを＋5000。（公開したカードは元に戻す）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\u003cbr\u003e【自】 あなたのクライマックス置場に「オチロッ！」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《深海棲艦》のキャラなら、そのターン中、このカードのパワーを＋5000。（公開したカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"深海棲艦",
 		"姫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/SE28-41",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_se28/kc_se28_41.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_se28/kc_se28_41.png",
+	"tags": null,
+	"expansionId": 157
 }

@@ -10,21 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これが何か知っているか？嘘を看破する魔道具だ",
+	"trigger": null,
 	"ability": [
-		"相手は自分の山札を上から1枚見て、0か1か2か3を宣言する。（見たカードは元に戻す）",
-		"あなたは本当か嘘を宣言する。",
-		"相手は自分の山札の上から1枚を公開する。そのカードが相手の宣言したレベルのカードであなたが本当と宣言したなら、あなたは2枚まで引く。相手の宣言したレベルのカードでなくあなたが嘘と宣言したなら、あなたは2枚まで引く。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
+		"相手は自分の山札を上から1枚見て、0か1か2か3を宣言する。（見たカードは元に戻す）\u003cbr\u003eあなたは本当か嘘を宣言する。\u003cbr\u003e相手は自分の山札の上から1枚を公開する。そのカードが相手の宣言したレベルのカードであなたが本当と宣言したなら、あなたは2枚まで引く。相手の宣言したレベルのカードでなくあなたが嘘と宣言したなら、あなたは2枚まで引く。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KS/W55-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_034.png",
+	"tags": null,
+	"expansionId": 214
 }

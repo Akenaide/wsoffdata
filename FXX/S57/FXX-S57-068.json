@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こっちへきて！！ここから、逃がしてあげる！！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《パラサイト》か《フランクス》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《パラサイト》か《フランクス》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かし、そのターン中、《飴》を与える。"
+		"【永】 他のあなたの、《パラサイト》か《フランクス》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《パラサイト》か《フランクス》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かし、そのターン中、《飴》を与える。"
 	],
 	"specialAttrib": [
 		"パラサイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_068.png",
+	"tags": null,
+	"expansionId": 241
 }

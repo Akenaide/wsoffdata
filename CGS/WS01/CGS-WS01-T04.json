@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マーライオンをモチーフにする時はシンガポール観光庁に申請しよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《カードゲーム》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"カードゲーム",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CGS/WS01-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cgs_ws01/cgs_ws01_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cgs_ws01/cgs_ws01_t04.png",
+	"tags": null,
+	"expansionId": 164
 }

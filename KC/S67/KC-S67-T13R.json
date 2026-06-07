@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "行きマス！　Feu！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《艦娘》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"水上機母艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-T13R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_t13r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_t13r.png",
+	"tags": null,
+	"expansionId": 269
 }

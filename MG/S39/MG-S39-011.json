@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ご両親も妹さん達もいないであろう阿良々木さんの家に這入るほど、\u003cbr\u003eわたしは女子として警戒心を失ってはいないのですよ",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_011.png",
+	"tags": null,
+	"expansionId": 159
 }

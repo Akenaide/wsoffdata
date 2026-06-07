@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここは練習スタジオじゃないよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、以下の効果のうちあなたが選んだ1つを行ってよい。『あなたは自分のストックの上から2枚を、控え室に置いてよい。そうしたら、あなたは自分の控え室のレベル1以下のキャラを1枚選び、舞台の好きな枠に置く。』『あなたは自分のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に置く。』"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_095.png",
+	"tags": null,
+	"expansionId": 196
 }

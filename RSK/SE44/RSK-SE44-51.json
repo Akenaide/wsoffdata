@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "でもなんとなく、このクラスに寄ってみたかったのよ",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の、《メルヴァニア》か《リアル》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「助けたい意思 ヒカリ」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"リアル",
 		"会長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSK/SE44-51",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_51.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsk_se44/rsk_se44_51.png",
+	"tags": null,
+	"expansionId": 457
 }

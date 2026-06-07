@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "咲夜「私があなたに教えられるとしたら…」",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたのカード名に「咲夜」か「瑚太朗」を含むキャラがいないなら、手札からプレイできない。このカードを思い出にする。",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの思い出置場の「咲夜の特訓」の枚数×2000に等しい。"
+		"【カウンター】 このカードは、あなたのカード名に「咲夜」か「瑚太朗」を含むキャラがいないなら、手札からプレイできない。このカードを思い出にする。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの思い出置場の「咲夜の特訓」の枚数×2000に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RW/W48-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_070.png",
+	"tags": null,
+	"expansionId": 186
 }

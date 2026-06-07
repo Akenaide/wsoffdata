@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「踊り手」",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「踊り手」があり、あなたのストックが6枚以下なら、あなたは自分の山札を上からＸ枚まで見て、《トリオン》のキャラか「緊急脱出」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。"
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「踊り手」があり、あなたのストックが6枚以下なら、あなたは自分の山札を上からＸ枚まで見て、《トリオン》のキャラか「緊急脱出」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘは相手のキャラの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"トリオン",
 		"ガロプラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WTR/S85-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wtr_s85/wtr_s85_032.png",
+	"tags": null,
+	"expansionId": 360
 }

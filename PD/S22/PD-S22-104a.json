@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-104a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_104a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_104a.png",
+	"tags": null,
+	"expansionId": 89
 }

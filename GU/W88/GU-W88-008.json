@@ -15,20 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "千夜たち……素敵な友達をもってて、ちょっと安心しました",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスフェイズの始めに、他のあなたの「“文化祭めぐり” リゼ」がいるなら、あなたは自分の、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラを1枚選び、手札に戻す。"
+		"【自】 あなたのクライマックスフェイズの始めに、他のあなたの「“文化祭めぐり” リゼ」がいるなら、あなたは自分の、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_008.png",
+	"tags": null,
+	"expansionId": 344
 }

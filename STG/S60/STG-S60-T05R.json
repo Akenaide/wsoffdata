@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "貴様、まさか“機関”が送り込んだエージェント！？",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「エル・プサイ・コングルゥ」があるなら、あなたは自分の山札を見て《ラボメン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-T05R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_t05r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_t05r.png",
+	"tags": null,
+	"expansionId": 242
 }

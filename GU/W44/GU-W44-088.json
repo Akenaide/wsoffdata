@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…わぁ！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、クライマックス置場に「寝坊助サンタクロース」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋500。"
+		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「寝坊助サンタクロース」があるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋500。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"コーヒー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_088.png",
+	"tags": null,
+	"expansionId": 174
 }

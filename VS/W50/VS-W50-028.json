@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "にゃあー！",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたのカード名に「フーカ」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の《覇王流》のキャラを1枚まで選び、【レスト】し、自分の控え室の《覇王流》のキャラを1枚まで選び、自分の「リンネとの対峙 フーカ」か「大きな背中 フーカ」の下にマーカーとして裏向きに置く。"
+		"【カウンター】 このカードは、あなたのカード名に「フーカ」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の《覇王流》のキャラを1枚まで選び、【レスト】し、自分の控え室の《覇王流》のキャラを1枚まで選び、自分の「リンネとの対峙 フーカ」か「大きな背中 フーカ」の下にマーカーとして裏向きに置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "VS/W50-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_028.png",
+	"tags": null,
+	"expansionId": 200
 }

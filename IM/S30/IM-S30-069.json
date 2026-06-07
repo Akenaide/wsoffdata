@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これまで多くの困難を乗り越え、成長してきた彼女たちだ。きっと受け入れてくれるはずさ",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のクライマックスがクライマックス置場に置かれた時、このカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_069.png",
+	"tags": null,
+	"expansionId": 129
 }

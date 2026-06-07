@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……だいじょうぶ、あたしが居場所をつくってあげるから……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 思い出置場にこのカードがあるなら、相手のターン中、他のあなたの「居てもいい居場所 ふゆほたる」すべてに、パワーを＋1000。",
-		"【起】［(2) 【スタンド】しているこのカードを思い出にする］ 他のあなたの《スニーカー文庫》のキャラが4枚以上なら、あなたは自分の手札の「居てもいい居場所 ふゆほたる」を1枚まで選び、舞台の好きな枠に置く。"
+		"【永】 記憶 思い出置場にこのカードがあるなら、相手のターン中、他のあなたの「居てもいい居場所 ふゆほたる」すべてに、パワーを＋1000。\u003cbr\u003e【起】［(2) 【スタンド】しているこのカードを思い出にする］ 他のあなたの《スニーカー文庫》のキャラが4枚以上なら、あなたは自分の手札の「居てもいい居場所 ふゆほたる」を1枚まで選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"虫憑き",
 		"夢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Smu/W123-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/smu_w123_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/smu_w123_053.png",
+	"tags": null,
+	"expansionId": 510
 }

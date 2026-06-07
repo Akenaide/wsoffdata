@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ん、新しいコード覚えたから練習してるんだ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのクライマックス置場に「Wonder goes on!!」が置かれた時、他のあなたの黄と赤のキャラがいるなら、あなたは相手のキャラを2枚選び、それぞれを【スタンド】して入れ替えてよい。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのクライマックス置場に「Wonder goes on!!」が置かれた時、他のあなたの黄と赤のキャラがいるなら、あなたは相手のキャラを2枚選び、それぞれを【スタンド】して入れ替えてよい。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ロック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_103.png",
+	"tags": null,
+	"expansionId": 167
 }

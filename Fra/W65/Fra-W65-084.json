@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちっ……速ぇ――間に合え――ッ！",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の、《ファンタジア文庫》か《魔法》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fra/W65-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fra_w65/fra_w65_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fra_w65/fra_w65_084.png",
+	"tags": null,
+	"expansionId": 264
 }

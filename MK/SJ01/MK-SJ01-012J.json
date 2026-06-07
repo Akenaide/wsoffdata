@@ -1,6 +1,6 @@
 {
 	"set": "MK",
-	"setName": "ミルキィホームズ ファンファンパーリーパック♪",
+	"setName": " ミルキィホームズ ファンファンパーリーパック♪",
 	"side": "S",
 	"release": "J01",
 	"id": "012J",
@@ -10,21 +10,20 @@
 	"colour": "YELLOW",
 	"level": "13",
 	"cost": "13",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"あなたの控え室のキャラすべての持つ異なる特徴1つにつき、あなたの手札のこのカードのレベルを－1し、コストを－1。",
-		"次の相手のターン中、あなたは相手のコントロールを得る。その後、相手は追加の1ターンを得る。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"あなたの控え室のキャラすべての持つ異なる特徴1つにつき、あなたの手札のこのカードのレベルを－1し、コストを－1。\u003cbr\u003e次の相手のターン中、あなたは相手のコントロールを得る。その後、相手は追加の1ターンを得る。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/SJ01-012J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_012.png",
+	"tags": null,
+	"expansionId": 195
 }

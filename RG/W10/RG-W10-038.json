@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なっ…なんか、大きくなってる…",
+	"trigger": null,
 	"ability": [
 		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て『記憶』を持つキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"先生",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W10-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w10/rg_w10_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w10/rg_w10_038.png",
+	"tags": null,
+	"expansionId": 40
 }

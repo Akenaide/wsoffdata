@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…で、なんで知らない宴会に誘われて、カラオケのマイク持ってるの～！？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたの控え室のクライマックスが1枚以下なら、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_061.png",
+	"tags": null,
+	"expansionId": 131
 }

@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたが自分のキャラの『チェンジ』のコストを払う時、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
@@ -26,8 +26,9 @@
 		"音楽",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W24-029R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w24/ll_w24_029r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w24/ll_w24_029r.png",
+	"tags": null,
+	"expansionId": 98
 }

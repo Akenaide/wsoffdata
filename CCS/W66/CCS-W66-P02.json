@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あとで気づいたの。心の中で、いま！と思った時、すぐ記録とか録音できるものがあればいいよね",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが5枚以上なら、このカードを【レスト】する。"
+		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが5枚以上なら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_p02.png",
+	"tags": null,
+	"expansionId": 12
 }

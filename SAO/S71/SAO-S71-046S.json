@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "勇敢なのか、愚鈍なのか",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《Anniversary》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《Anniversary》のキャラの枚数×1000に等しい。"
+		"【永】 他のあなたの《Anniversary》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《Anniversary》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S71-046S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_046s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_046s.png",
+	"tags": null,
+	"expansionId": 288
 }

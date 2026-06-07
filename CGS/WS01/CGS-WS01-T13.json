@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いっしょにバンドしよ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《カードゲーム》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《カードゲーム》のキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【永】 他のあなたの《カードゲーム》のキャラすべてに、パワーを＋500。\u003cbr/\u003e【起】［このカードを【レスト】する］ あなたは自分の《カードゲーム》のキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"カードゲーム",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CGS/WS01-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cgs_ws01/cgs_ws01_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cgs_ws01/cgs_ws01_t13.png",
+	"tags": null,
+	"expansionId": 164
 }

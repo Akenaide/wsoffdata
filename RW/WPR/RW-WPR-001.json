@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ねぇ、瑚太郎君。いろんなもの…見てね",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"植物",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/WPR-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_wpr/rw_wpr_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_wpr/rw_wpr_001.png",
+	"tags": null,
+	"expansionId": 12
 }

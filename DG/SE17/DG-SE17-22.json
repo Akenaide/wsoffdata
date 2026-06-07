@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この魔王ラハールさまが直々に葬ってくれよう",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】しているキャラを1枚選び、【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_22.png",
+	"tags": null,
+	"expansionId": 102
 }

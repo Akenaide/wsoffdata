@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いえ、ゴブリンスレイヤーさんがどうして色んな事を知ってるのか。わかったので",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの《秩序》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-		"【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に【レスト】して置く。"
+		"【自】 他のあなたの《秩序》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル0以下のキャラを1枚選び、舞台の好きな枠に【レスト】して置く。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_078.png",
+	"tags": null,
+	"expansionId": 260
 }

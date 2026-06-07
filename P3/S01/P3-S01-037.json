@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いらっしゃいませ、また来てくれたんかい",
+	"trigger": null,
 	"ability": [
 		"【自】 他の《メガネ》のあなたのキャラがプレイされて舞台に置かれた時、あなたは自分の山札の上から1枚を、クロック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_037.png",
+	"tags": null,
+	"expansionId": 4
 }

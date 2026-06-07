@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "エンドレス・ワルツ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の中央の枠の《ギガント》のキャラに、パワーを＋1500。",
 		"【自】 あなたのクライマックスフェイズの始めに、後列にこのカードがいるなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。",
@@ -26,8 +26,9 @@
 		"謎",
 		"ギガント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GST/SE22-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gst_se22/gst_se22_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gst_se22/gst_se22_14.png",
+	"tags": null,
+	"expansionId": 126
 }

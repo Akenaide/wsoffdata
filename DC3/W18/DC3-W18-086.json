@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そのっ、たまに清隆さんのこと、\u003cbr /\u003eお兄ちゃんって呼んでもいいですかっ！",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から1枚をめくり、控え室に置く。そのカードが《新聞》のキャラなら、あなたのキャラすべてに、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"ウェイトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_086.png",
+	"tags": null,
+	"expansionId": 78
 }

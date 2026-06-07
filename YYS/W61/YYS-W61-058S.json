@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "はい～、ゆらぎ荘のみなさんのお世話をさせて頂いてるんです～",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの、《ゆらぎ荘》か《湯煙町》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《ゆらぎ荘》か《湯煙町》のキャラの枚数に等しい。",
-		""
+		"【永】 あなたの、《ゆらぎ荘》か《湯煙町》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《ゆらぎ荘》か《湯煙町》のキャラの枚数に等しい。\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"座敷童子",
 		"ゆらぎ荘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YYS/W61-058S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yys_w61/yys_w61_058s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yys_w61/yys_w61_058s.png",
+	"tags": null,
+	"expansionId": 249
 }

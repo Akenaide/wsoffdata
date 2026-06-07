@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もしかしたら、ウチって天性のレーサーなのかも♪",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《音楽》のキャラか「改めて見てみると」なら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「“あなたにテレパシー”東條 希」を1枚選び、思い出にしてよい。"
+		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《音楽》のキャラか「改めて見てみると」なら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「“あなたにテレパシー”東條 希」を1枚選び、思い出にしてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"職業"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_007.png",
+	"tags": null,
+	"expansionId": 272
 }

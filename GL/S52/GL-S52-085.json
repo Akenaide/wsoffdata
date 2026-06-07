@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ギガ！ドリル！ブレイクゥ！！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のカード名に「グレンラガン」を含むキャラか「キングキタン」を1枚選び、そのターン中、次の能力を与える。『【自】 アンコールステップの始めに、前列にこのカードがいるなら、あなたは相手に4ダメージを与えてよい。』（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GL/S52-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gl_s52/gl_s52_085.png",
+	"tags": null,
+	"expansionId": 217
 }

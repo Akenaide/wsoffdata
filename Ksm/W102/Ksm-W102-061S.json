@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【起】［手札のイベントを1枚控え室に置き、このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［手札のイベントを1枚控え室に置き、このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"サマポケ",
 		"鬼"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ksm/W102-061S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/ksm_w102_061s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/ksm_w102_061s.png",
+	"tags": null,
+	"expansionId": 406
 }

@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "このケダモノ!!",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-057SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_057sp_2.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_057sp_2.png",
+	"tags": null,
+	"expansionId": 150
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "食らえー！　タネガシアッパー！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「追い続ける夢」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"科学",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_t03.png",
+	"tags": null,
+	"expansionId": 66
 }

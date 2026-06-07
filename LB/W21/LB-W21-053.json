@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "直枝さんと恭介さんなら深い絆で結ばれていますから、\u003cbr /\u003e周りがどうこうしなくても大丈夫ですよ。むしろ邪魔です",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"本",
 		"マネージャー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_053.png",
+	"tags": null,
+	"expansionId": 96
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "タッ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、他の自分の《フレンズ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこの効果で控え室に置かれたカードのレベルの合計×1500に等しい。（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"フレンズ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMN/W51-115",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmn_w51/kmn_w51_115.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmn_w51/kmn_w51_115.png",
+	"tags": null,
+	"expansionId": 205
 }

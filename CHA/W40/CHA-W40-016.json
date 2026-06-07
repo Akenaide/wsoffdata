@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "勉強の邪魔になるので、聴いてませーん",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開し、そのターン中、このカードのパワーを＋Ｘ。Ｘは公開されたカードのレベル×1500に等しい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_016.png",
+	"tags": null,
+	"expansionId": 152
 }

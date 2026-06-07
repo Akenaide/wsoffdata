@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "わぁ……‼",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのカード名に「ルーデウス」を含むキャラがいるなら、このカードのパワーを＋6000。",
-		"【自】【CXコンボ】［(1) このカードを思い出にする］ あなたのクライマックス置場に「将来の魔術師」が置かれた時、あなたの《六面世界》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“クォーターエルフの少女”シルフィエット」を1枚選び、このカードがいた枠に置く。"
+		"【永】 他のあなたのカード名に「ルーデウス」を含むキャラがいるなら、このカードのパワーを＋6000。\u003cbr\u003e【自】【CXコンボ】［(1) このカードを思い出にする］ あなたのクライマックス置場に「将来の魔術師」が置かれた時、あなたの《六面世界》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“クォーターエルフの少女”シルフィエット」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"魔術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_035.png",
+	"tags": null,
+	"expansionId": 346
 }

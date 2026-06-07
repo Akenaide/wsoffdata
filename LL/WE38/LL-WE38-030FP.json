@@ -15,17 +15,17 @@
 	"rarity": "FP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札が5枚以上なら、このカードのレベルを＋1し、パワーを＋1500し、このカードは次の能力を得る。『【永】 このカードの正面のキャラとこのカードはサイドアタックできない。』",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+		"【永】 あなたの手札が5枚以上なら、このカードのレベルを＋1し、パワーを＋1500し、このカードは次の能力を得る。『【永】 このカードの正面のキャラとこのカードはサイドアタックできない。』\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE38-030FP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we38/ll_we38_030fp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we38/ll_we38_030fp.png",
+	"tags": null,
+	"expansionId": 401
 }

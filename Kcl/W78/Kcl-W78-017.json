@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一名様ですね",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを思い出にする］ あなたは自分の山札を上から3枚まで見て、《Anniversary》か《だんご》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -25,8 +25,9 @@
 		"演劇",
 		"だんご"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kcl/W78-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kcl_w78/kcl_w78_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kcl_w78/kcl_w78_017.png",
+	"tags": null,
+	"expansionId": 296
 }

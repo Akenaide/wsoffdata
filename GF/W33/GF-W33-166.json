@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "椎名心実です",
+	"trigger": null,
 	"ability": [
 		"【自】 [(1) 手札を1枚控え室に置く] このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て青のキャラを1枚まで選んで相手に見せ、手札 に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-166",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_166.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_166.png",
+	"tags": null,
+	"expansionId": 131
 }

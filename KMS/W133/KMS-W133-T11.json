@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "きゃああっ！ カレン！ どうして欲しい物が分かったんですか!? エスパーみたいです！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"きんいろ",
 		"純和風"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_t11.png",
+	"tags": null,
+	"expansionId": 533
 }

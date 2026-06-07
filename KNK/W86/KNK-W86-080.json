@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっと２人で何やってるんですかーっ!?",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《かのかり》のキャラが2枚以上なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』"
 	],
@@ -24,8 +24,9 @@
 		"かのかり",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_080.png",
+	"tags": null,
+	"expansionId": 322
 }

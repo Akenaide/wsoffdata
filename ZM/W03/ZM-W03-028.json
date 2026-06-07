@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "スカロン「遂にわたしの美しさが世間に認められたのよ！」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《メイド》と《ウェイトレス》のキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ 他のあなたの、《メイド》と《ウェイトレス》のキャラすべてに、そのターン中、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"オカマ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_028.png",
+	"tags": null,
+	"expansionId": 3
 }

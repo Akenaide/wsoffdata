@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "潰れなさい！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"錬金術",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_028.png",
+	"tags": null,
+	"expansionId": 48
 }

@@ -15,19 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ひゃはああああああああ！",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
-		"【永】 他のあなたの「マシンガンたのしーなー！ ZEMAL」1枚につき、このカードのパワーを＋1000。"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr\u003e【永】 あなたはイベントと『助太刀』を手札からプレイできない。\u003cbr\u003e【永】 他のあなたの「マシンガンたのしーなー！ ZEMAL」1枚につき、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"ZEMAL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/S59-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_088.png",
+	"tags": null,
+	"expansionId": 245
 }

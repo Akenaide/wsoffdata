@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふっふっふ、天だって言われっぱなしではないのです！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の山札を見て「雪蛍の奇跡 天」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の山札を見て「雪蛍の奇跡 天」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"風南島",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W81-110",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w81/ds_w81_110.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w81/ds_w81_110.png",
+	"tags": null,
+	"expansionId": 310
 }

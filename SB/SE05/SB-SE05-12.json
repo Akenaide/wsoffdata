@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "恋ってのはいいもんだ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが5枚以上なら、他のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/SE05-12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_se05/sb_se05_12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_se05/sb_se05_12.png",
+	"tags": null,
+	"expansionId": 47
 }

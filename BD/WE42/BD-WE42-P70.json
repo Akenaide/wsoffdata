@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋3000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"MyGO!!!!!"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE42-P70",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p70.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we42/bd_we42_p70.png",
+	"tags": null,
+	"expansionId": 12
 }

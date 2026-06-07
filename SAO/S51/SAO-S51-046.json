@@ -10,22 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "エイジ「僕の思い出の日記みたいなものさ」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの、《アバター》か《ネット》のキャラがいないなら、手札からプレイできない。",
-		"以下の効果のうちあなたが選んだ1つを行う。",
-		"『あなたは相手の前列のレベル2以下の『記憶』を持つキャラを1枚選び、控え室に置く。』",
-		"『あなたは相手のキャラを1枚選び、そのターン中、パワーを－2000。』"
+		"このカードは、あなたの、《アバター》か《ネット》のキャラがいないなら、手札からプレイできない。\u003cbr\u003e以下の効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたは相手の前列のレベル2以下の『記憶』を持つキャラを1枚選び、控え室に置く。』\u003cbr\u003e『あなたは相手のキャラを1枚選び、そのターン中、パワーを－2000。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SAO/S51-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s51/sao_s51_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s51/sao_s51_046.png",
+	"tags": null,
+	"expansionId": 209
 }

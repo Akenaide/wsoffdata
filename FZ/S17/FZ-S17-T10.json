@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "僕にも宿ったぞ、令呪が。僕は聖杯に選ばれたんだ！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
 		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
@@ -25,8 +25,9 @@
 		"マスター",
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-T10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_t10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_t10.png",
+	"tags": null,
+	"expansionId": 67
 }

@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さて、天使さんのご気分はいかがかしら？",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
@@ -25,8 +25,9 @@
 		"死",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_056.png",
+	"tags": null,
+	"expansionId": 119
 }

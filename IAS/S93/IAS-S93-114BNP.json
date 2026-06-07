@@ -15,18 +15,18 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今宵演じるのはとある国に生まれた3人の姫君の物語です。どうか最後まで、お楽しみください……。",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「瞳の中のシリウス」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「瞳の中のシリウス」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"高貴"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IAS/S93-114BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_s93/ias_s93_114bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_s93/ias_s93_114bnp.png",
+	"tags": null,
+	"expansionId": 392
 }

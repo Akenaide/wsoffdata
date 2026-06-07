@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《探偵》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"探偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-P15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_p15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_p15.png",
+	"tags": null,
+	"expansionId": 13
 }

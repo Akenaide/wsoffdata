@@ -8,14 +8,14 @@
 	"jpName": "らっきー☆ちゃんねる",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "おは☆らっきーっ\u003cbr /\u003eお陰さまで「らき☆すた」6巻発売ですっ",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LS/W05-T09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_t09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_t09.png",
+	"tags": null,
+	"expansionId": 15
 }

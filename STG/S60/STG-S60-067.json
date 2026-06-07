@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これ以上変な呼び名を付け足すな！ていうか内緒にしておいてよ……",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《ラボメン》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_067.png",
+	"tags": null,
+	"expansionId": 243
 }

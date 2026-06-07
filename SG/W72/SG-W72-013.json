@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最速で、最短で、まっすぐに、一直線にッ！\u003cbr\u003e胸の響を、この想いを、伝えるために――ッ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W72-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w72/sg_w72_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w72/sg_w72_013.png",
+	"tags": null,
+	"expansionId": 275
 }

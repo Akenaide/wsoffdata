@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じゃあ、義之くん。お姉ちゃんを……よろしくね♪",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードのカード名は「花咲 茜」としても扱う。",
 		"【自】 このカードが手札か控え室から、舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W09-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w09/dc_w09_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w09/dc_w09_030.png",
+	"tags": null,
+	"expansionId": 39
 }

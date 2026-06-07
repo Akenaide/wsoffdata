@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "僕たちが失われた歌を取り戻す！",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-T06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_t06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_t06.png",
+	"tags": null,
+	"expansionId": 138
 }

@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "友利、お前が僕を変えてくれたんだな…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「“大切な何か”友利 奈緒」すべてに、パワーを＋1500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。"
+		"【永】 他のあなたの「“大切な何か”友利 奈緒」すべてに、パワーを＋1500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\u003cbr\u003e【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kch/W78-115",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kch_w78/kch_w78_115.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kch_w78/kch_w78_115.png",
+	"tags": null,
+	"expansionId": 296
 }

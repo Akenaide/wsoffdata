@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シロウのバカー！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を持つキャラすべてに、パワーを＋500。",
 		"【自】 絆／「破城槌 イリヤ＆バーサーカー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「破城槌 イリヤ＆バーサーカー」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"マスター",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-038SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_038sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_038sp.png",
+	"tags": null,
+	"expansionId": 33
 }

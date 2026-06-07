@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 経験 ［(2)］ あなたがこのカードの『助太刀』を使った時、あなたのレベル置場のカードのレベルの合計が5以上なら、あなたはコストを払ってよい。そうしたら、あなたはバトル中のキャラを1枚選び、そのターン中、ソウルを－1。",
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
@@ -25,8 +25,9 @@
 		"怪異",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_079.png",
+	"tags": null,
+	"expansionId": 60
 }

@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お疲れちゃん！デジたんですっ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。",
-		"【自】 他のあなたの《ウマ娘》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札を1枚選び、ストック置場に置いてよい。\u003cbr\u003e【自】 他のあなたの《ウマ娘》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_065.png",
+	"tags": null,
+	"expansionId": 431
 }

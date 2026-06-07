@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「わたしのイーヴァルディ」があるなら、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500し、このカードのパワーを＋1500。",
 		"【自】 チェンジ ［(3) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「勇者の“騎士” タバサ」を1枚選び、このカードがいた枠に置く。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_t03.png",
+	"tags": null,
+	"expansionId": 66
 }

@@ -15,22 +15,21 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "パラディオン、今であります！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの、《リロード》か《魔法》か《武器》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの、《リロード》か《魔法》か《武器》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"リロード",
 		"メカ",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SE46-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_se46/p3_se46_15.png",
+	"tags": null,
+	"expansionId": 469
 }

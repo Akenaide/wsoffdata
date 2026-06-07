@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……うれしい……！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「天使の悪ふざけ」が置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の控え室のコスト0以下のキャラを1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1000し、ターンの終わりに、そのキャラを控え室に置く。"
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「天使の悪ふざけ」が置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の控え室のコスト0以下のキャラを1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1000し、ターンの終わりに、そのキャラを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Happy Around!"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DJ/S97-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_034.png",
+	"tags": null,
+	"expansionId": 423
 }

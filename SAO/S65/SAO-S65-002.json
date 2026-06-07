@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は、私の成すべきことを成すために……あなたと、戦います!!",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「独立の宣言」があるなら、あなたは自分の山札を上から1枚見て《フラクトライト》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを山札の上に置き、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"フラクトライト",
 		"整合騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S65-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_002.png",
+	"tags": null,
+	"expansionId": 267
 }

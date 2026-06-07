@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふえ～、生徒会長って大変なんだね～！",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、他のあなたの《音楽》のキャラが1枚以下なら、このカードをクロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE19-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we19/ll_we19_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we19/ll_we19_19.png",
+	"tags": null,
+	"expansionId": 120
 }

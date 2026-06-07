@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "士朗に褒めて貰えて自信が出ました",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の《マスター》のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -25,8 +25,9 @@
 		"サーヴァント",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_018.png",
+	"tags": null,
+	"expansionId": 33
 }

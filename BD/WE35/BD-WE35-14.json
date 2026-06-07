@@ -15,17 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【起】［手札の《Poppin\u0026#39;Party》のキャラを1枚クロック置場に置き、このカードを【レスト】する］ あなたは2枚まで引く。"
+		"【起】［手札の《Poppin'Party》のキャラを1枚クロック置場に置き、このカードを【レスト】する］ あなたは2枚まで引く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE35-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we35/bd_we35_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we35/bd_we35_14.png",
+	"tags": null,
+	"expansionId": 335
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "神様は心の広い方やから、そんなに緊張しなくても大丈夫やで☆",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_p05.png",
+	"tags": null,
+	"expansionId": 12
 }

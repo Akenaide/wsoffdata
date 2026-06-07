@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "薫「助けてくれたお礼も言わずに、流浪人風情なんて…えっと…その…」",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《明治剣客浪漫譚》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"明治剣客浪漫譚",
 		"剣客"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_007.png",
+	"tags": null,
+	"expansionId": 479
 }

@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "セイクリッドハート！セーットアーップ！！",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「ヴィヴィオ」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の控え室の『助太刀』を持つキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置き、自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。"
+		"このカードは、あなたのカード名に「ヴィヴィオ」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の控え室の『助太刀』を持つキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置き、自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "VS/W50-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_063.png",
+	"tags": null,
+	"expansionId": 200
 }

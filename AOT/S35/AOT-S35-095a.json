@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フーゴ「何モタモタしてんだ！早くしろ、砲弾はどうした！」",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【永】 あなたのキャラすべてが《巨人》なら、このカードのパワーを＋2000。"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr\u003e【永】 あなたのキャラすべてが《巨人》なら、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"巨人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S35-095a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s35/aot_s35_095a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s35/aot_s35_095a.png",
+	"tags": null,
+	"expansionId": 149
 }

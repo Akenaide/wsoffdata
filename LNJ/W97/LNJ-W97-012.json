@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。",
-		"【自】【CXコンボ】 記憶 このカードがアタックした時、クライマックス置場に「笑顔のカタチ（⸝⸝\u0026gt;▿\u0026lt;⸝⸝）」があるなら、あなたは自分の控え室のレベルＸ以下の《音楽》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの思い出の枚数に等しい。"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《音楽》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】【CXコンボ】 記憶 このカードがアタックした時、クライマックス置場に「笑顔のカタチ（⸝⸝\u003e▿\u003c⸝⸝）」があるなら、あなたは自分の控え室のレベルＸ以下の《音楽》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの思い出の枚数に等しい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W97-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w97/lnj_w97_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w97/lnj_w97_012.png",
+	"tags": null,
+	"expansionId": 390
 }

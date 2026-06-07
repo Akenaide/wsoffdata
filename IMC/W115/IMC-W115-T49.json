@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日のきらりんは、お浴衣で、とってもほのぼの気分だから♪やさしーく…できりゅ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのCX置場にトリガーアイコンが[CHOICE]を得る。",
-		"【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て黄のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのCX置場にトリガーアイコンが[[choice.gif]]のCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[[choice.gif]]を得る。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て黄のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ハピハピ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T49",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t49.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t49.png",
+	"tags": null,
+	"expansionId": 476
 }

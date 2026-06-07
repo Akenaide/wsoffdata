@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ー",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「カワイイ♡はじめました 藤田ことね」を1枚選び、このカードがいた枠に置き、そのターン中、そのキャラのパワーを＋2000し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"バイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GIM/W124-019S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_019s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_019s.png",
+	"tags": null,
+	"expansionId": 514
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《魔法》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】 このカードがダイレクトアタックした時、あなたは他の自分の、《魔法》か《武器》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《魔法》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】 このカードがダイレクトアタックした時、あなたは他の自分の、《魔法》か《武器》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_081.png",
+	"tags": null,
+	"expansionId": 268
 }

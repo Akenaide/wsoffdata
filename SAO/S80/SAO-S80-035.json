@@ -15,19 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ティーゼ「あたしたちは入り口を守りましょう」",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードは相手の効果に選ばれない。",
-		"【永】 応援 このカードの前のあなたの、《整合騎士》か《貴族》のキャラすべてに、パワーを＋Ｘ。Ｘはこのカードの下のマーカーの枚数×1000に等しい。",
-		"【起】［このカードを【レスト】する］ あなたは自分の「砕けたセルフ・イメージ キリト」を1枚選び、このカードの下にマーカーとして表向きに置く。"
+		"【永】 このカードは相手の効果に選ばれない。\u003cbr\u003e【永】 応援 このカードの前のあなたの、《整合騎士》か《貴族》のキャラすべてに、パワーを＋Ｘ。Ｘはこのカードの下のマーカーの枚数×1000に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の「砕けたセルフ・イメージ キリト」を1枚選び、このカードの下にマーカーとして表向きに置く。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"貴族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_035.png",
+	"tags": null,
+	"expansionId": 318
 }

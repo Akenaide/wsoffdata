@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あぁ…ズヴェズダ…街に降っています…。日本のクリスマスは…星がたくさんありますね",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"星"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T28",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t28.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t28.png",
+	"tags": null,
+	"expansionId": 475
 }

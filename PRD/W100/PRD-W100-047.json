@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 経験 このカードがアタックした時、あなたは自分の《ランドソル》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたのレベル置場のカードの持つ色の合計×1500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W100-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_047.png",
+	"tags": null,
+	"expansionId": 397
 }

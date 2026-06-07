@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああ、なんてこと。高貴なお方、偉大なジャバ・ザ・ハット様は、あなたがたに即時処刑を言い渡されました",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋3000。",
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ジェダイの帰還"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-046_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_046_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_046_.png",
+	"tags": null,
+	"expansionId": 400
 }

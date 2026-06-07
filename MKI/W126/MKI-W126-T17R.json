@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「泥棒猫？ 華恋」がいるなら、あなたのターン中、このカードのパワーを＋8000し、相手のターン中、このカードのパワーを－2000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。"
+		"【永】 他のあなたの「泥棒猫？ 華恋」がいるなら、あなたのターン中、このカードのパワーを＋8000し、相手のターン中、このカードのパワーを－2000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。"
 	],
 	"specialAttrib": [
 		"青春",
 		"マケイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-T17R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_t17r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_t17r.png",
+	"tags": null,
+	"expansionId": 519
 }

@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《MARVEL》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《MARVEL》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S113-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s113/mar_s113_066.png",
+	"tags": null,
+	"expansionId": 484
 }

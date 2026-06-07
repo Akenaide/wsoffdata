@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さらっと受け止めといて、しれっと言ってんじゃねぇよ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 バトル中のこのカードが【リバース】した時、他のあなたの、《魔法》か《武器》のキャラが1枚以下なら、このカードをクロック置場に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、他のあなたの、《魔法》か《武器》のキャラが1枚以下なら、このカードをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"武器",
 		"八重歯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S55-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s55/rz_s55_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s55/rz_s55_003.png",
+	"tags": null,
+	"expansionId": 234
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大丈夫、また会えますから",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

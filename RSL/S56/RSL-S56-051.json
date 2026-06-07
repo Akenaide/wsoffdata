@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まひる「あぁ～っ、ひかりちゃんまで！」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「華恋」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【自】 他のあなたの《レヴュー》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+		"【永】 他のあなたのカード名に「華恋」を含むキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【自】 他のあなたの《レヴュー》のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"髪留め"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_051.png",
+	"tags": null,
+	"expansionId": 250
 }

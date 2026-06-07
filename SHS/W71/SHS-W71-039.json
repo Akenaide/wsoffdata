@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "はい安芸くん",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】［(1) このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたのレベルが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「新しい物語 恵」を1枚選び、このカードがいた枠に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】［(1) このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたのレベルが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「新しい物語 恵」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_039.png",
+	"tags": null,
+	"expansionId": 278
 }

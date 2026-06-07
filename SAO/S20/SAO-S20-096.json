@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……け、結婚しよう",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の「血盟騎士団への入団 キリト」を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室の「《黒の剣士》キリト」を1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、そのキャラのパワーを＋1500。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SAO/S20-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_096.png",
+	"tags": null,
+	"expansionId": 92
 }

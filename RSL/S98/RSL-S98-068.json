@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ずるい、ずるい！ずるい！！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上からＸ枚を、控え室に置いてよい。Ｘはあなたの《レヴュー》のキャラの枚数に等しい。",
-		"【自】［あなたの控え室の《レヴュー》のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の《レヴュー》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上からＸ枚を、控え室に置いてよい。Ｘはあなたの《レヴュー》のキャラの枚数に等しい。\u003cbr\u003e【自】［あなたの控え室の《レヴュー》のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の《レヴュー》のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S98-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_068.png",
+	"tags": null,
+	"expansionId": 402
 }

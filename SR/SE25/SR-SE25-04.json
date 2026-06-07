@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我はアストリア王の血を継ぎし竜奏騎士\u003cbr /\u003eソニア・ブランシュ！\u003cbr /\u003e……竜とともに魂の旋律を奏でる者！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《音楽》か《竜》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SR/SE25-04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sr_se25/sr_se25_04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sr_se25/sr_se25_04.png",
+	"tags": null,
+	"expansionId": 145
 }

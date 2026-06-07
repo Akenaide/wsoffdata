@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゆり「彼、ハンドルネーム・竹山くんを作戦チームに登用」",
+	"trigger": null,
 	"ability": [
 		"【永】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたの《死》のキャラすべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。』"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_086.png",
+	"tags": null,
+	"expansionId": 119
 }

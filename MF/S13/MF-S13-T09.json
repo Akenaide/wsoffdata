@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしはベクタープロのエルモさんがお兄ちゃんを説得してくれて、念願かなって歌手デビュー！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-T09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_t09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_t09.png",
+	"tags": null,
+	"expansionId": 55
 }

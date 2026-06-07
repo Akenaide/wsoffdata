@@ -1,6 +1,6 @@
 {
 	"set": "UMA",
-	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"setName": " 劇場版『ウマ娘 プリティーダービー 新時代の扉』",
 	"side": "W",
 	"release": "119",
 	"id": "039",
@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "走らずにはいられない\u003cbr\u003eその先にある何かを渇望し、執着し、追い続ける\u003cbr\u003eウマ娘の持つ可能性、その先へと",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札を好きな枚数選び、控え室に置き、Ｘ枚引く。Ｘはこの効果で控え室に置かれたカードの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W119-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w119/uma_w119_039.png",
+	"tags": null,
+	"expansionId": 486
 }

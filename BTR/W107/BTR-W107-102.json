@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"変人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BTR/W107-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/btr_w107/btr_w107_102.png",
+	"tags": null,
+	"expansionId": 444
 }

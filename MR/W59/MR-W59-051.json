@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "リア充が何だ！エタノールで爆発しやがれ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《魔法》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 舞台のこのカードのレベルを－2。"
+		"【永】 あなたの《魔法》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 舞台のこのカードのレベルを－2。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"サポート"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_051.png",
+	"tags": null,
+	"expansionId": 232
 }

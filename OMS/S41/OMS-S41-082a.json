@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「一松」を含むキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-082a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_082a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_082a.png",
+	"tags": null,
+	"expansionId": 171
 }

@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "皆さんおかえりなさい。さぁめぐみん！今日こそ勝負よ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの「“爆裂娘”めぐみん」がいるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの前列の「“爆裂娘”めぐみん」1枚につき、このカードのパワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 あなたの「“爆裂娘”めぐみん」がいるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの前列の「“爆裂娘”めぐみん」1枚につき、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-052S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_052s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_052s.png",
+	"tags": null,
+	"expansionId": 214
 }

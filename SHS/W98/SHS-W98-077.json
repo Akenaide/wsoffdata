@@ -15,18 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "詩ちゃんと、柏木エリ先生に、死ぬほど拘ることのできる、あなたでなくちゃ、ね",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札の「突然の入院 朱音」のコストを－1。",
-		"【起】［手札の「突然の入院 朱音」を1枚控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。",
-		"【起】［このカードを【レスト】する］ あなたは自分の、《ゲーム》か《小説》のキャラを1枚選び、そのターン中、パワーを＋2500。"
+		"【永】 あなたの手札の「突然の入院 朱音」のコストを－1。\u003cbr\u003e【起】［手札の「突然の入院 朱音」を1枚控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の、《ゲーム》か《小説》のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_077.png",
+	"tags": null,
+	"expansionId": 391
 }

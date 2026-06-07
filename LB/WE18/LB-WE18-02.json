@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どんな真人も真人だ。僕の大切な親友だよ",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】［(1)］ あなたのクライマックス置場に「僕は、君たちと出会いたい。」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE18-02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we18/lb_we18_02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we18/lb_we18_02.png",
+	"tags": null,
+	"expansionId": 116
 }

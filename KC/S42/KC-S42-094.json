@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あ、補給ありがとうございます。助かります",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場に「白露型駆逐艦9番艦 江風」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《艦娘》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 経験 あなたのレベル置場に「白露型駆逐艦9番艦 江風」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《艦娘》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_094.png",
+	"tags": null,
+	"expansionId": 173
 }

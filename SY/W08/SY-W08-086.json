@@ -15,20 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
 		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[DRAW]なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[[draw.gif]]なら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"宇宙人",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_086.png",
+	"tags": null,
+	"expansionId": 35
 }

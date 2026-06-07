@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これ、貸すから",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《本》のキャラすべてに、パワーを＋500。",
 		"【起】［(1) あなたのキャラを2枚【レスト】する］ 他のあなたの《本》のキャラが3枚以上なら、あなたは1枚引く。"
@@ -25,8 +25,9 @@
 		"宇宙人",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_090.png",
+	"tags": null,
+	"expansionId": 35
 }

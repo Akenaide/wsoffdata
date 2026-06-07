@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自由になって……ボク、どうすればいいの？",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、控え室に置いてよい。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SR/SE25-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sr_se25/sr_se25_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sr_se25/sr_se25_01.png",
+	"tags": null,
+	"expansionId": 145
 }

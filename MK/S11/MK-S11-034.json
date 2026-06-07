@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "教官もそうは思いませんか？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「メリーゴーランド」があるなら、あなたは相手の山札を上から1枚見て、山札の上か下に置く。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_034.png",
+	"tags": null,
+	"expansionId": 50
 }

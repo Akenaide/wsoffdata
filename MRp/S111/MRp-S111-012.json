@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのCX置場にトリガーアイコンが[CHOICE]を得る。",
-		"【永】 あなたのターン中、他のあなたの、《Mirrorverse》か《PIXAR》のキャラが2枚以上なら、このカードのパワーを＋4000。"
+		"【永】 あなたのCX置場にトリガーアイコンが[[choice.gif]]のCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[[choice.gif]]を得る。\u003cbr\u003e【永】 あなたのターン中、他のあなたの、《Mirrorverse》か《PIXAR》のキャラが2枚以上なら、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"Mirrorverse",
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRp/S111-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrp_S111_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrp_s111_012.png",
+	"tags": null,
+	"expansionId": 471
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "次がダメでも次の次にアルセーヌを捕まえてみせます！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《探偵》なら、このカードのレベルを＋1し、パワーを＋500。",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
+		"【永】 あなたのキャラすべてが《探偵》なら、このカードのレベルを＋1し、パワーを＋500。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"探偵",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE29-35",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se29/mk_se29_35.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se29/mk_se29_35.png",
+	"tags": null,
+	"expansionId": 169
 }

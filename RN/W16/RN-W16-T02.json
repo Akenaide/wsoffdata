@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんとしても部費を手に入れる。\u003cbr /\u003eそうして、今年中にガンつく１を完成させるの",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_t02.png",
+	"tags": null,
+	"expansionId": 66
 }

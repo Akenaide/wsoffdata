@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "本当の君が……過去が……ここにある",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［あなたの舞台の「二番目の男ツヴァイ」を1枚クロック置場に置く］ あなたは自分のクロック置場の「“ファントムを継ぎし者”ツヴァイ」を1枚選び、舞台の好きな枠に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"暗黒街"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_026.png",
+	"tags": null,
+	"expansionId": 32
 }

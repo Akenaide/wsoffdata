@@ -15,18 +15,18 @@
 	"rarity": "PS",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こうじゃないと夏って感じがしないわよね",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《超能力》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 あなたのクライマックス置場に「取り戻した日常」が置かれた時、前列にこのカードがいて、あなたのストックが5枚以下なら、あなたは自分の控え室のコスト0以下の、特徴を持たないか《超能力》のキャラを1枚選び、舞台の好きな枠に置いてよい。"
+		"【永】 他のあなたの《超能力》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 あなたのクライマックス置場に「取り戻した日常」が置かれた時、前列にこのカードがいて、あなたのストックが5枚以下なら、あなたは自分の控え室のコスト0以下の、特徴を持たないか《超能力》のキャラを1枚選び、舞台の好きな枠に置いてよい。"
 	],
 	"specialAttrib": [
 		"超能力",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/WP03-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_wp03/rg_wp03_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_wp03/rg_wp03_05.png",
+	"tags": null,
+	"expansionId": 182
 }

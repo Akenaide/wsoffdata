@@ -15,22 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "了解",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋8500し、このカードは次の能力を得る。『【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「コールサイン ウルズ７ 宗介」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋8500し、このカードは次の能力を得る。『【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「コールサイン ウルズ７ 宗介」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"ミスリル",
-		"アーム",
-		"スレイブ"
+		"アーム・スレイブ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ffp/W65-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ffp_w65/ffp_w65_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ffp_w65/ffp_w65_031.png",
+	"tags": null,
+	"expansionId": 264
 }

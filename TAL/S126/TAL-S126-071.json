@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ありがとう カイウス……",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《冒険》のキャラすべてに、パワーを＋500。",
-		"【起】［(1) このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（CXのレベルは0として扱う）"
+		"【永】 他のあなたの《冒険》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（CXのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"冒険",
 		"ザ テンペスト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_071.png",
+	"tags": null,
+	"expansionId": 538
 }

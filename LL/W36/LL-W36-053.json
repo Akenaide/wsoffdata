@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そんなに暑いですか？　何かに集中していれば、暑さはそれほど気にならないと思いますが……",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_053.png",
+	"tags": null,
+	"expansionId": 142
 }

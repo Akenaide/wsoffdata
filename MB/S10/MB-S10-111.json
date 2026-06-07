@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "志貴様がお休み中です。お静かに",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"双子",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-111",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_111.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_111.png",
+	"tags": null,
+	"expansionId": 13
 }

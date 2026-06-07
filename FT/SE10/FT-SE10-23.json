@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "その時ギルドの看板が壊れてて、\u003cbr /\u003eＬＵＣＫＹがＬＵＣＹになっていたんだ",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札の上から1枚を公開する。そのカードが《鍵》のキャラならストック置場に置き、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。（そうでないなら元に戻す）",
 		"このカードをストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FT/SE10-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_23.png",
+	"tags": null,
+	"expansionId": 68
 }

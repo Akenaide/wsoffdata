@@ -15,8 +15,8 @@
 	"rarity": "LRP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"リコリコ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/WE47-03LRP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_03lrp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_we47/lrc_we47_03lrp.png",
+	"tags": null,
+	"expansionId": 491
 }

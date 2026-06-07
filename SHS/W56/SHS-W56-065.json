@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『先輩』をつけなさいよ、後輩君",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】【CXコンボ】[(1)］ あなたのクライマックス置場に「恋するメトロノーム」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《ゲーム》か《小説》のキャラを1枚選び、手札に戻す。"
+		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】【CXコンボ】[(1)］ あなたのクライマックス置場に「恋するメトロノーム」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、《ゲーム》か《小説》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_065.png",
+	"tags": null,
+	"expansionId": 220
 }

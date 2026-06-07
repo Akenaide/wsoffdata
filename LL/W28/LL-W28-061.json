@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "沢山練習して、立派なスクールアイドルになりたいな♪",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W28-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w28/ll_w28_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w28/ll_w28_061.png",
+	"tags": null,
+	"expansionId": 110
 }

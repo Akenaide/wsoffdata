@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "We're about to get some! I hope.",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《フォースの覚醒》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-091R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_091r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_091r.png",
+	"tags": null,
+	"expansionId": 199
 }

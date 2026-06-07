@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "三角がおにぎりで、丸いとおむすびです\u003cbr /\u003e…逆だったかも知れません",
+	"trigger": null,
 	"ability": [
 		"【自】 バトルしているこのカードが【リバース】した時、このカードが《メガネ》を持つなら、このカードを思い出にする。"
 	],
@@ -24,8 +24,9 @@
 		"本",
 		"日傘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_091.png",
+	"tags": null,
+	"expansionId": 18
 }

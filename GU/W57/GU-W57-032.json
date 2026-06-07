@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんだ、ほしいのか？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《ラビットハウス》か《Dear My Sister》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの、《ラビットハウス》か《Dear My Sister》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W57-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w57/gu_w57_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w57/gu_w57_032.png",
+	"tags": null,
+	"expansionId": 221
 }

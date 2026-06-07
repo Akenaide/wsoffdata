@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ロー・アイアス！",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたの、《マスター》か《サーヴァント》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札の上から4枚を、控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこの効果で控え室に置かれたカードのトリガーアイコンの[SOUL]の合計×2000に等しい。"
+		"【カウンター】 このカードは、あなたの、《マスター》か《サーヴァント》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から4枚を、控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこの効果で控え室に置かれたカードのトリガーアイコンの[[soul.gif]]の合計×2000に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FS/S77-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s77/fs_s77_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s77/fs_s77_013.png",
+	"tags": null,
+	"expansionId": 314
 }

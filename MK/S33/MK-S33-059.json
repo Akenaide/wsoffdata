@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい、プレゼントです！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《探偵》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_059.png",
+	"tags": null,
+	"expansionId": 136
 }

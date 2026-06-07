@@ -15,20 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《冒険者》か《魔法》のキャラが2枚以上なら、このカードのパワーを＋8000。",
-		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードのパワーを＋2000。』『【永】 前列の中央の枠にこのカードがいるなら、このカードの正面のキャラのソウルを－1。』"
+		"【永】 他のあなたの、《冒険者》か《魔法》のキャラが2枚以上なら、このカードのパワーを＋8000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードのパワーを＋2000。』『【永】 前列の中央の枠にこのカードがいるなら、このカードの正面のキャラのソウルを－1。』"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S128-008SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s128/sfn_s128_008sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s128/sfn_s128_008sp.png",
+	"tags": null,
+	"expansionId": 545
 }

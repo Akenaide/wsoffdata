@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "毎日3000回の型打ちは霜天流の基礎中の基礎です！団長様も一緒にやりませんか！？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"格闘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_078.png",
+	"tags": null,
+	"expansionId": 297
 }

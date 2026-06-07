@@ -15,18 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "転校してきたばかりで至らぬ点もありましょうが、よろしくご教示願います",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。",
-		"【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[RETURN]なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《SOS団》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
+		"【自】［手札を1枚控え室に置く］ あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[[bounce.gif]]なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《SOS団》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"超能力",
 		"SOS団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_004.png",
+	"tags": null,
+	"expansionId": 35
 }

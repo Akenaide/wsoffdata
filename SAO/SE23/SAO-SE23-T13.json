@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "シノンが強くなればなるほど、現実世界の私も強くなれる。\u003cbr\u003eそう信じて、私は《ヘカートⅡ》と一緒に戦い続けてきた",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“氷の機械”シノン」を1枚選び、このカードがいた枠に置く。",
-		"【起】［このカードを【レスト】する］ あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“氷の機械”シノン」を1枚選び、このカードがいた枠に置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"ネット",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE23-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se23/sao_se23_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se23/sao_se23_t13.png",
+	"tags": null,
+	"expansionId": 112
 }

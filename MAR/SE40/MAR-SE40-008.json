@@ -10,23 +10,22 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「ソー」か「ハルク」を含むキャラがいないなら、手札からプレイできない。",
-		"すべてのプレイヤーのレベルが3以上なら、すべてのプレイヤーは自分のクロックの上から4枚までを、控え室に置き、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
-		"このカードを思い出にする。"
+		"このカードは、あなたのカード名に「ソー」か「ハルク」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eすべてのプレイヤーのレベルが3以上なら、すべてのプレイヤーは自分のクロックの上から4枚までを、控え室に置き、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。\u003cbr\u003eこのカードを思い出にする。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/SE40-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_se40/mar_se40_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_se40/mar_se40_008.png",
+	"tags": null,
+	"expansionId": 413
 }

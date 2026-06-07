@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "合宿中はビシバシいくから覚悟しなさいね！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの緑のキャラすべてに、パワーを＋500。",
-		"【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の緑のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【永】 他のあなたの緑のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 加速 ［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の緑のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_040.png",
+	"tags": null,
+	"expansionId": 129
 }

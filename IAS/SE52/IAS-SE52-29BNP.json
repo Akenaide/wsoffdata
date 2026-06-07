@@ -15,18 +15,18 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたにも、届いて欲しいな。この優しい音と……ボクの微かな、胸の高鳴りの音が。",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】［このカードを控え室に置く］ 他のあなたの《音楽》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［このカードを控え室に置く］ 他のあなたの《音楽》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"空手"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IAS/SE52-29BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_se52/ias_se52_29bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_se52/ias_se52_29bnp.png",
+	"tags": null,
+	"expansionId": 522
 }

@@ -5,7 +5,7 @@
 	"release": "02",
 	"id": "058",
 	"name": "",
-	"jpName": "キザな悪魔 バイアス 中ボス",
+	"jpName": "\u003cs\u003eキザな悪魔 バイアス\u003c/s\u003e 中ボス",
 	"cardType": "CH",
 	"colour": "RED",
 	"level": "0",
@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ラハール「お前の名前なんか、どうでもいい。\u003cbr /\u003eただの『中ボス』で十分だ」",
+	"trigger": null,
 	"ability": [
 		"【永】応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 バトルしているこのカードが【リバース】した時、あなたはこのカードを山札に戻してよい。そうしたら、その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"悪魔",
 		"遺言"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_058.png",
+	"tags": null,
+	"expansionId": 5
 }

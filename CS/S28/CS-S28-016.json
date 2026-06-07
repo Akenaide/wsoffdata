@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おし、とーちゃんは負けないぞ！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアンコールステップの始めに、クライマックス置場に「オラの家がなくなったゾ」があるなら、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがレベル0以下のキャラなら、あなたは他の自分のキャラを2枚までと、このカードを選び、手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"家族",
 		"サラリーマン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_016.png",
+	"tags": null,
+	"expansionId": 114
 }

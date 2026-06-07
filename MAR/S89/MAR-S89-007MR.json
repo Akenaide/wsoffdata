@@ -15,17 +15,17 @@
 	"rarity": "MR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「Guardians of the Galaxy」があり、他のあなたの《MARVEL》のキャラが2枚以上なら、あなたは相手の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札を上から3枚まで見て、《MARVEL》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1000。"
+		"【永】 他のあなたの《MARVEL》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「Guardians of the Galaxy」があり、他のあなたの《MARVEL》のキャラが2枚以上なら、あなたは相手の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の山札を上から3枚まで見て、《MARVEL》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S89-007MR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_007mr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s89/mar_s89_007mr.png",
+	"tags": null,
+	"expansionId": 370
 }

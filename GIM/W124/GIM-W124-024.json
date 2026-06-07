@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 共鳴 ［手札を1枚控え室に置き、手札の「Tame-Lie-One-Step 紫雲清夏」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「リーリヤ」か「清夏」を含むキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GIM/W124-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_024.png",
+	"tags": null,
+	"expansionId": 514
 }

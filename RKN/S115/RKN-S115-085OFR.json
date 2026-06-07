@@ -15,21 +15,20 @@
 	"rarity": "OFR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードのバトル相手は【リバース】しない。",
-		"【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-		"【起】［(4) 手札を3枚控え室に置く］ そのターン中、このカードは次の能力を得る。『【永】 後列に【スタンド】しているこのカードがいるなら、このカードはアタックを行うキャラとして選択してよい。そうしたら、このカードはダイレクトアタックする。』"
+		"【永】 このカードのバトル相手は【リバース】しない。\u003cbr\u003e【自】 相手のキャラが、控え室から手札に戻った時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\u003cbr\u003e【起】［(4) 手札を3枚控え室に置く］ そのターン中、このカードは次の能力を得る。『【永】 後列に【スタンド】しているこのカードがいるなら、このカードはアタックを行うキャラとして選択してよい。そうしたら、このカードはダイレクトアタックする。』"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"剣術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-085OFR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_085ofr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_085ofr.png",
+	"tags": null,
+	"expansionId": 479
 }

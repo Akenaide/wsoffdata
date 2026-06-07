@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わかってた……ソーニャお姉ちゃんのせいじゃないって……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_060.png",
+	"tags": null,
+	"expansionId": 276
 }

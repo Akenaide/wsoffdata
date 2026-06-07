@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ひゃあんっ！だっ、だから、そんないたずらしちゃ……も、もうっ！",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
-		"ハート",
-		"ハイブリッド",
-		"ギア",
+		"ハート・ハイブリッド・ギア",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Shh/W62-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shh_w62/shh_w62_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shh_w62/shh_w62_093.png",
+	"tags": null,
+	"expansionId": 259
 }

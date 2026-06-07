@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あっは～ん",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのキャラの下のマーカー1枚につき、このカードのパワーを＋1000。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
-		""
+		"【永】 あなたのキャラの下のマーカー1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"酒",
 		"ゆらぎ荘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YYS/W61-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yys_w61/yys_w61_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yys_w61/yys_w61_038.png",
+	"tags": null,
+	"expansionId": 249
 }

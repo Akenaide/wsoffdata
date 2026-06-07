@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の手札の「“UNCONTROLLABLE”ハルク」を1枚まで選び、舞台の好きな枠に置き、ターンの終わりに、そのキャラを手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MAR/S113-052S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_052s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s113/mar_s113_052s.png",
+	"tags": null,
+	"expansionId": 484
 }

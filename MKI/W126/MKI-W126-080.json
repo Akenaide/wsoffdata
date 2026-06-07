@@ -15,22 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋8000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置く。",
-		"【自】 マーカーを持つこのカードが舞台から控え室に置かれた時、このカードをクロック置場に置く。",
-		"【起】［(1)］ あなたはこのカードの下のマーカーを1枚選び、控え室に置く。"
+		"【永】 あなたのターン中、このカードのパワーを＋8000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の山札の上から1枚を、このカードの下にマーカーとして表向きに置く。\u003cbr\u003e【自】 マーカーを持つこのカードが舞台から控え室に置かれた時、このカードをクロック置場に置く。\u003cbr\u003e【起】［(1)］ あなたはこのカードの下のマーカーを1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"青春",
 		"マケイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_080.png",
+	"tags": null,
+	"expansionId": 520
 }

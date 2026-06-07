@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてに、次の能力を与える。『【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。』"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Snw/W62-111",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/snw_w62/snw_w62_111.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/snw_w62/snw_w62_111.png",
+	"tags": null,
+	"expansionId": 259
 }

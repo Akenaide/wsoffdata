@@ -15,20 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お姉ちゃん、ファイト！…の、赤城みりあです",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはこのカードの下のマーカーの枚数×1000に等しい。",
-		"【自】 あなたのクライマックス置場に「頼もしいお姉ちゃん」が置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはこのカードの下のマーカーの枚数×1000に等しい。\u003cbr\u003e【自】 あなたのクライマックス置場に「頼もしいお姉ちゃん」が置かれた時、あなたは自分の控え室の《音楽》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_020.png",
+	"tags": null,
+	"expansionId": 167
 }

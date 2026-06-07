@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マヤ「あはは、もう遊んでるよ」\u003cbr\u003eメグ「私もやりた～い」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、青か《Dear My Sister》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。"
+		"【永】 他のあなたの、青か《Dear My Sister》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に元の順番で置く。"
 	],
 	"specialAttrib": [
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W94-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w94/gu_w94_085.png",
+	"tags": null,
+	"expansionId": 374
 }

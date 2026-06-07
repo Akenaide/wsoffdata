@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "参りますゾー！",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の、《音楽》か《竜》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SR/SE25-29",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sr_se25/sr_se25_29.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sr_se25/sr_se25_29.png",
+	"tags": null,
+	"expansionId": 145
 }

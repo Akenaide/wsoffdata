@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "正しいのがどれか悩んでいりゃ\u003cbr\u003eどれも不正解というオチでした",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ロストワンの号哭」があるなら、あなたは自分の山札の上から2枚を、公開し、山札の下に好きな順番で置き、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻す。この効果で公開されたカードにクライマックスがあるなら、あなたは1枚引く。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ロストワンの号哭」があるなら、あなたは自分の山札の上から2枚を、公開し、山札の下に好きな順番で置き、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻す。この効果で公開されたカードにクライマックスがあるなら、あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/SE32-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_se32/pd_se32_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_se32/pd_se32_03.png",
+	"tags": null,
+	"expansionId": 211
 }

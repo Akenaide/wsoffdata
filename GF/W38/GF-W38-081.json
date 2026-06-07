@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おー、これにも反応するんだ。　おっもしろ！\u003cbr /\u003eじゃあ、これはどうだい？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「これでっす 江藤くるみ」すべてに、パワーを＋1000。",
 		"【自】 絆／「これでっす 江藤くるみ」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「これでっす 江藤くるみ」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"ガール",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_081.png",
+	"tags": null,
+	"expansionId": 144
 }

@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……神様に、直接……いつかは、会えるはずだから……",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室のカードを2枚まで選び、山札に戻す。その山札をシャッフルする。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PT/W07-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_021.png",
+	"tags": null,
+	"expansionId": 32
 }

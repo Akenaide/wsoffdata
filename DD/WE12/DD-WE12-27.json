@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "騎士「わかりました。お通ししてください」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのクロック置場に「リコッタ・エルマール」があるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_27.png",
+	"tags": null,
+	"expansionId": 71
 }

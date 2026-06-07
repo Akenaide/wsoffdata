@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シェリルさん！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「アイモ」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以上の、《音楽》か《バジュラ》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_t11.png",
+	"tags": null,
+	"expansionId": 55
 }

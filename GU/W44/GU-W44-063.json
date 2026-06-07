@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "千夜「ココアちゃんが牛みたいに」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「ココア」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたのキャラすべてに、そのターン中、パワーを＋2000。"
+		"このカードは、あなたのカード名に「ココア」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたのキャラすべてに、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GU/W44-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_063.png",
+	"tags": null,
+	"expansionId": 174
 }

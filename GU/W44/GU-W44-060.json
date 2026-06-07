@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "罪滅ぼしがしたい！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《ラビットハウス》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、クライマックス置場に「いつも ありがとな」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
+		"【永】 他のあなたの《ラビットハウス》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「いつも ありがとな」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_060.png",
+	"tags": null,
+	"expansionId": 174
 }

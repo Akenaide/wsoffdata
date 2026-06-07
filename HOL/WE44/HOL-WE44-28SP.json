@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【自】 このカードがアタックした時、あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"ホロライブインドネシア2期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE44-28SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we44/hol_we44_28sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we44/hol_we44_28sp.png",
+	"tags": null,
+	"expansionId": 464
 }

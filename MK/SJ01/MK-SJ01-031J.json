@@ -1,6 +1,6 @@
 {
 	"set": "MK",
-	"setName": "ミルキィホームズ ファンファンパーリーパック♪",
+	"setName": " ミルキィホームズ ファンファンパーリーパック♪",
 	"side": "S",
 	"release": "J01",
 	"id": "031J",
@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "IQ2016の明智小衣の推理通りよ～！",
+	"trigger": null,
 	"ability": [
-		"【起】［好きな数字を宣言する］ そのターン中、このカードのパワーとIQはＸとなる。Ｘはあなたの宣言した数字に等しい。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【起】［好きな数字を宣言する］ そのターン中、このカードのパワーとIQはＸとなる。Ｘはあなたの宣言した数字に等しい。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"警察",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SJ01-031J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_031.png",
+	"tags": null,
+	"expansionId": 195
 }

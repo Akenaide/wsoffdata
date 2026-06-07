@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大好きな友達を！　泣いてる友達を！\u003cbr\u003e放ってなんておけないよ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《フォーミュラ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《フォーミュラ》のキャラを1枚選び、手札に戻す。"
+		"【永】 他のあなたの《フォーミュラ》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《フォーミュラ》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"武器",
 		"フォーミュラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-049S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_049s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_049s.png",
+	"tags": null,
+	"expansionId": 268
 }

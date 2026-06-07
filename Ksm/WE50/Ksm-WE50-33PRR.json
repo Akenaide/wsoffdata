@@ -15,19 +15,19 @@
 	"rarity": "PRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【起】［このカードを控え室に置く］ あなたのレベルが3以上なら、あなたは自分の手札の「“夏の思い出”七海」を1枚まで選び、このカードがいた枠に置く。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の山札を見て《Anniversary》か《サマポケ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【起】［このカードを控え室に置く］ あなたのレベルが3以上なら、あなたは自分の手札の「“夏の思い出”七海」を1枚まで選び、このカードがいた枠に置く。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の山札を見て《Anniversary》か《サマポケ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ksm/WE50-33PRR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/ksm_we50_33prr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/ksm_we50_33prr.png",
+	"tags": null,
+	"expansionId": 532
 }

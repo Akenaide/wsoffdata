@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "被害者ぶるなよ。無理やりの撮影なんて、そっちが加害者でしょう",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】［このカードを【レスト】する］ あなたのクライマックス置場に「磯臭いやつら」が置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［このカードを【レスト】する］ あなたのクライマックス置場に「磯臭いやつら」が置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
 	],
 	"specialAttrib": [
 		"キズナ",
 		"ナルシスト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KI/S44-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_039.png",
+	"tags": null,
+	"expansionId": 177
 }

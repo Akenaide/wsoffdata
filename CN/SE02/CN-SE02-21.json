@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一人と一人が腕組めば、そこまで寂しいこたないスよ",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【永】 あなたのレベル置場に「大切な友人 カナン＆マリア」があるなら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』"
@@ -25,8 +25,9 @@
 		"病気",
 		"ウェイトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CN/SE02-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cn_se02/cn_se02_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cn_se02/cn_se02_21.png",
+	"tags": null,
+	"expansionId": 31
 }

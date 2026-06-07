@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "コンニチワ。ボクノナマエハ、ヨシロウ。\u003cbr /\u003eミンナノ、オトモダチロボットダヨ。ヨロシクネ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札か控え室から、舞台に置かれた時、あなたは他の自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_044.png",
+	"tags": null,
+	"expansionId": 86
 }

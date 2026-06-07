@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "オペレーター「上部外壁破損！最終結界が破られます！」",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《謎》のキャラなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_035.png",
+	"tags": null,
+	"expansionId": 49
 }

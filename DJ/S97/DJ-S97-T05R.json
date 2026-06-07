@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。",
-		"【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+		"【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Happy Around!"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DJ/S97-T05R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_t05r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_t05r.png",
+	"tags": null,
+	"expansionId": 416
 }

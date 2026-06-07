@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "遅くなりました！ミルヒオーレ、参りましたッ！！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《勇者》のキャラを1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"動物",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_23.png",
+	"tags": null,
+	"expansionId": 71
 }

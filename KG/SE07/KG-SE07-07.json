@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "棋士の聖地・出羽の将棋村に道場を構える心王一鞘流の十二代目当主",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードはサイドアタックできない。",
 		"【起】［このカードを【レスト】する］ あなたは自分の《武器》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"武器",
 		"将棋"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_07.png",
+	"tags": null,
+	"expansionId": 56
 }

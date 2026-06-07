@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私達、教官とまた捜査できて嬉しかったです",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《探偵》のキャラが2枚以上なら、このカードのパワーを＋1000。",
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「修羅の王様」があるなら、あなたは自分の山札を見て《スポーツ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"探偵",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_076.png",
+	"tags": null,
+	"expansionId": 136
 }

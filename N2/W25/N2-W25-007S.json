@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアンコールステップの始めに、クライマックス置場に「夢の終わり」があるなら、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「今いるべき場所 フェイト」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1500し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-007S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_007s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_007s.png",
+	"tags": null,
+	"expansionId": 94
 }

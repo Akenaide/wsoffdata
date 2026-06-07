@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のクロックの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"深海棲艦",
 		"戦艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/SE28-20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_se28/kc_se28_20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_se28/kc_se28_20.png",
+	"tags": null,
+	"expansionId": 157
 }

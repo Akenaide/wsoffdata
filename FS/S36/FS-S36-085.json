@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "その信念、力ずくでこじ開けようか",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「燕返し」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたはこのカードの正面のレベル1以下のキャラを1枚選び、山札の下に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S36-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s36/fs_s36_085.png",
+	"tags": null,
+	"expansionId": 155
 }

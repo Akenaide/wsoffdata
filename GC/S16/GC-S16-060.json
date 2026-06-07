@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "初めまして。桜満集君。\u003cbr /\u003eあなたを逮捕します",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは相手の山札の上から1枚を控え室に置き、 相手の控え室のカードを1枚選び、山札の上に置く。"
 	],
 	"specialAttrib": [
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_060.png",
+	"tags": null,
+	"expansionId": 76
 }

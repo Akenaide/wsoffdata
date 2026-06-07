@@ -15,20 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リゼ「まぁ、シャロはいつもの仕事着だし、他の格好も見たかったな」",
+	"trigger": null,
 	"ability": [
-		"【起】［このカードを控え室に置く］ あなたは自分の控え室の「“Halloween Night” シャロ」を1枚選び、このカードがいた枠に置く。",
-		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を見て《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。』"
+		"【起】［このカードを控え室に置く］ あなたは自分の控え室の「“Halloween Night” シャロ」を1枚選び、このカードがいた枠に置く。\u003cbr\u003e【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を見て《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。』"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_003.png",
+	"tags": null,
+	"expansionId": 344
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前と来る海も いいものだな",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが3枚以上なら、このカードを【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_069.png",
+	"tags": null,
+	"expansionId": 162
 }

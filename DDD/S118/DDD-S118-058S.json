@@ -15,17 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、あなたは自分の山札を上から4枚まで見て、トリガーアイコンが[CHOICE]のCXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【自】 このカードが【リバース】した時、あなたは自分の山札を上から4枚まで見て、トリガーアイコンが[[choice.gif]]のCXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"人間",
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDD/S118-058S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_058s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddd_s118/ddd_s118_058s.png",
+	"tags": null,
+	"expansionId": 511
 }

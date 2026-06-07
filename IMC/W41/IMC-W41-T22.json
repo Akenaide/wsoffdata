@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょーっと待つにゃーっ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
-		"【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\u003cbr/\u003e【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ネコキャラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-T22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_t22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_t22.png",
+	"tags": null,
+	"expansionId": 141
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アンカー・プラット「今日の取り分は......４分の１だ」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《フォースの覚醒》のキャラが2枚以上なら、このカードのパワーを＋2000。",
 		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「ジャクーからの脱出」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_t14.png",
+	"tags": null,
+	"expansionId": 198
 }

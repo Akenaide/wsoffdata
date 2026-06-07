@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アンタがそれでいいなら、まあいいわ♡",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の《SOS団》のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -25,8 +25,9 @@
 		"団長",
 		"SOS団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_054.png",
+	"tags": null,
+	"expansionId": 35
 }

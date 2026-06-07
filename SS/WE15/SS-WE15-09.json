@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最後のお仕事、ね",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) あなたの《炎》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE15-09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we15/ss_we15_09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we15/ss_we15_09.png",
+	"tags": null,
+	"expansionId": 83
 }

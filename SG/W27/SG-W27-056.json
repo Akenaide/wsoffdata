@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これが私のガングニール。\u003cbr /\u003e何物をも貫き徹す無双の一振り！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたは自分のクロックフェイズに、手札のクライマックスをクロック置場に置いてカードを引くことができない。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W27-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w27/sg_w27_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w27/sg_w27_056.png",
+	"tags": null,
+	"expansionId": 107
 }

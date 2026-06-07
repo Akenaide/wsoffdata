@@ -15,17 +15,17 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「ソウルフル・ワールド ジョー＆22番」を1枚選び、思い出にしてよい。",
-		"【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以下なら、あなたは自分の控え室の「ソウルフル・ワールド ジョー＆22番」を1枚選び、思い出にしてよい。\u003cbr\u003e【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S94-074SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s94/pxr_s94_074sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s94/pxr_s94_074sp.png",
+	"tags": null,
+	"expansionId": 403
 }

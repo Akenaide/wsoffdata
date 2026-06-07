@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "んー？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋5500し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"青春",
 		"マケイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_021.png",
+	"tags": null,
+	"expansionId": 520
 }

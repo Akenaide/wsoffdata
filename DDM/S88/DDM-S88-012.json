@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私はアイテムの補充に来たんだ",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。",
-		"【起】［このカードを【レスト】する］ 相手の前列のキャラすべてに、そのターン中、パワーを－500。"
+		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。\u003cbr\u003e【起】［このカードを【レスト】する］ 相手の前列のキャラすべてに、そのターン中、パワーを－500。"
 	],
 	"specialAttrib": [
 		"ファミリア",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDM/S88-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddm_s88/ddm_s88_012.png",
+	"tags": null,
+	"expansionId": 367
 }

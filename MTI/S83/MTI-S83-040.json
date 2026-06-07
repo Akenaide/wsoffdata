@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……うん…",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《六面世界》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 記憶 このカードがアタックした時、あなたの思い出置場に「“守りたい笑顔”シルフィエット」があるなら、あなたは他の自分の《六面世界》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【永】 他のあなたの《六面世界》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 記憶 このカードがアタックした時、あなたの思い出置場に「“守りたい笑顔”シルフィエット」があるなら、あなたは他の自分の《六面世界》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"魔術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_040.png",
+	"tags": null,
+	"expansionId": 346
 }

@@ -15,18 +15,18 @@
 	"rarity": "DCR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。あなたのキャラすべてが《音楽》か《パイロット》なら、このカードのパワーを＋2000。",
-		"【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《音楽》か《パイロット》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+		"【永】 このカードはサイドアタックできない。あなたのキャラすべてが《音楽》か《パイロット》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《音楽》か《パイロット》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ワルキューレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MDE/SE45-05DCR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mde_se45/mde_se45_05dcr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mde_se45/mde_se45_05dcr.png",
+	"tags": null,
+	"expansionId": 458
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なによ！\u003cbr\u003eわたしの家でなにやってたって、勝手でしょ!!",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「親友への想い 初穂」すべてに、パワーを＋1000。",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
+		"【永】 他のあなたの「親友への想い 初穂」すべてに、パワーを＋1000。\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"華撃団",
 		"剣術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SKR/S73-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_066.png",
+	"tags": null,
+	"expansionId": 293
 }

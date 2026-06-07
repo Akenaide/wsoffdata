@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "実体を伴うって、全然違うんだなあ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
-		"【起】［(1)］ あなたは自分の《風南島》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。\u003cbr\u003e【起】［(1)］ あなたは自分の《風南島》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"風南島",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W46-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w46/ds_w46_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w46/ds_w46_018.png",
+	"tags": null,
+	"expansionId": 178
 }

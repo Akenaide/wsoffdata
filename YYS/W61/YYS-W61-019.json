@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "そんなのいつ襲われたっておかしくないんだからぁ～～！！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 記憶 このカードがアタックした時、あなたの思い出が2枚以上なら、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《ゆらぎ荘》か《湯煙町》のキャラの枚数×1000に等しい。",
-		""
+		"【自】 記憶 このカードがアタックした時、あなたの思い出が2枚以上なら、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《ゆらぎ荘》か《湯煙町》のキャラの枚数×1000に等しい。\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"料理",
 		"湯煙町"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YYS/W61-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yys_w61/yys_w61_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yys_w61/yys_w61_019.png",
+	"tags": null,
+	"expansionId": 249
 }

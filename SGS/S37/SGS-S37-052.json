@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "もっとあたしを目立たせなさいよっ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《ストライカー》のキャラを1枚選び、手札に戻してよい。",
-		"【自】 このカードがアタックした時、クライマックス置場に「天音 オンステージ！」があるなら、あなたは相手にＸダメージを与えてよい。Ｘは相手の【リバース】しているキャラの枚数に等しい。（ダメージキャンセルは発生する）"
+		"【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《ストライカー》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「天音 オンステージ！」があるなら、あなたは相手にＸダメージを与えてよい。Ｘは相手の【リバース】しているキャラの枚数に等しい。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"ストライカー",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_052.png",
+	"tags": null,
+	"expansionId": 162
 }

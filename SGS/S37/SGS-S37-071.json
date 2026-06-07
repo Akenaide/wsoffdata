@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おイタがすぎますよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの赤のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"癒し"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_071.png",
+	"tags": null,
+	"expansionId": 162
 }

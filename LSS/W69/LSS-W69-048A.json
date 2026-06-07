@@ -15,18 +15,18 @@
 	"rarity": "UA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "朝を知らせるニワトリのように……遠くのあなたにも聞こえるくらい、力いっぱい歌ってくるわね",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 相手のターン中、このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 相手のターン中、このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W69-048A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_048a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_048a.png",
+	"tags": null,
+	"expansionId": 273
 }

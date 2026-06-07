@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "羊の皮を被っても、狼の嗅覚は忘れない",
+	"trigger": null,
 	"ability": [
 		"【起】［(2)］ あなたは他の自分のキャラを1枚選び、そのターン中、ソウルを＋1し、このカードのソウルを＋1。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_006.png",
+	"tags": null,
+	"expansionId": 32
 }

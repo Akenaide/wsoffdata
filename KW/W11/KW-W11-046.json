@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "では五千の半分、二千五百からはじめましょう",
+	"trigger": null,
 	"ability": [
 		"このカードを思い出にする。",
 		"記憶 思い出置場にこのカードがあるなら、あなたのカード名に「クド」を含むキャラすべてに、パワーを＋500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KW/W11-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kw_w11/kw_w11_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kw_w11/kw_w11_046.png",
+	"tags": null,
+	"expansionId": 46
 }

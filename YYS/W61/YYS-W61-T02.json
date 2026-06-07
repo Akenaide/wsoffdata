@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お年寄りを脅かしてんじゃねえええッ！！",
+	"trigger": null,
 	"ability": [
-		"【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
+		"【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"霊能力者",
 		"ゆらぎ荘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YYS/W61-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yys_w61/yys_w61_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yys_w61/yys_w61_t02.png",
+	"tags": null,
+	"expansionId": 247
 }

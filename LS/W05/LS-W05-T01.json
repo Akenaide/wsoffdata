@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "つかさ「今年もおみくじとかやっていかない？」\u003cbr /\u003eかがみ「いい事が有るか無いかは結局 本人の頑張り次第よ」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「かがみ」を含むキャラすべてに、パワーを＋500。",
 		"【永】 他のあなたのカード名に「つかさ」を含むキャラすべてに、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"双子",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_t01.png",
+	"tags": null,
+	"expansionId": 15
 }

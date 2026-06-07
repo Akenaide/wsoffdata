@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ん？",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 経験 バトル中のこのカードが【リバース】した時、あなたは自分の山札を上からＸ枚まで見て、「プリンセスストライク」か「グリムバースト」か「勝利のために」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。Ｘはあなたのレベル置場のカードの持つ色の合計が2色以上なら4に等しい。そうでないなら、3に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W84-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w84/prd_w84_093.png",
+	"tags": null,
+	"expansionId": 320
 }

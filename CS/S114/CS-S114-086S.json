@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カザマさん「子どもの遊びにはつきあってられないなあ」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《MOVIE》か《幼稚園》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、「謎メキ!花の天カス学園 しんのすけ」を1枚まで選び、舞台の好きな枠に置き、残りのカードを控え室に置く。"
 	],
@@ -25,8 +25,9 @@
 		"幼稚園",
 		"優等生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-086S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_086s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_086s.png",
+	"tags": null,
+	"expansionId": 480
 }

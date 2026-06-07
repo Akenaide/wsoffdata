@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アルコールストーブを作ったんですねぇ",
+	"trigger": null,
 	"ability": [
 		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ゆるキャン△",
 		"酒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YRC/W116-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yrc_w116/yrc_w116_t05.png",
+	"tags": null,
+	"expansionId": 473
 }

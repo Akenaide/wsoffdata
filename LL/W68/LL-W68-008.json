@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何だか眠くなってきちゃった。ウチと一緒に、お昼寝しない？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_008.png",
+	"tags": null,
+	"expansionId": 272
 }

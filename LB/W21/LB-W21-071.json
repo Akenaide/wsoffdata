@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この世界に…生きています。\u003cbr /\u003e…生きています",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"本",
 		"マネージャー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_071.png",
+	"tags": null,
+	"expansionId": 96
 }

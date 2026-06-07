@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっと頼みがあるんだが",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのコスト×500に等しい。",
 		"【自】 チェンジ ［(2) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「謝肉祭 べローズ」を1枚選び、このカードがいた枠に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"パイロット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_011.png",
+	"tags": null,
+	"expansionId": 101
 }

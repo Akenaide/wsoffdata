@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "は～い、ちょっとこっち向いて下さいね～\u003cbr /\u003eみんなで記念撮影を一枚。　はい、笑顔で～",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_102.png",
+	"tags": null,
+	"expansionId": 144
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ミク「ツノ……？」",
+	"trigger": null,
 	"ability": [
 		"【自】［他のあなたの舞台の《パラサイト》のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《パラサイト》か《フランクス》のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"パラサイト",
 		"叫竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_067.png",
+	"tags": null,
+	"expansionId": 241
 }

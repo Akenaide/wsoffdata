@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "本当にこんなんで大丈夫なんでしょうねぇっ！？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードの与えたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋6000。"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"ツンデレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_085.png",
+	"tags": null,
+	"expansionId": 347
 }

@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "こんなのはどうかな？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「ことりの歌」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「ことりの歌」があるなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W128-P08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_p08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w128/dc_w128_p08.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "乗った！",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 相手のターン中、あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_087.png",
+	"tags": null,
+	"expansionId": 159
 }

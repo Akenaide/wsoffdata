@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "必ず見つけ出して、俺の手で殺すまでは……！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"芸能界",
 		"俳優"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OSK/S107-T15R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_t15r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/osk_s107/osk_s107_t15r.png",
+	"tags": null,
+	"expansionId": 453
 }

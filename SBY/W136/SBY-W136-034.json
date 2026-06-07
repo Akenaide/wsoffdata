@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "咲太「何か？」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のキャラを1枚選び、舞台のキャラのいない枠に置く。",
-		"【起】［このカードを控え室に置く］ あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のキャラを1枚選び、舞台のキャラのいない枠に置く。\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"スマホ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_034.png",
+	"tags": null,
+	"expansionId": 547
 }

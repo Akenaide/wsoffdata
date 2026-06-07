@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ティリエル「それじゃお兄様」\u003cbr /\u003eソラト「うん、ごほうびだね」",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_089.png",
+	"tags": null,
+	"expansionId": 58
 }

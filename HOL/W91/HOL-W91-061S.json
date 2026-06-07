@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ルーナはでっかいバズーカでびっくりさせるのら！",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 あなたのターン中、このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル×1000に等しい。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを－Ｘする。Ｘはあなたのレベルに等しい。"
+		"【永】 応援 あなたのターン中、このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋Ｘ。Ｘはあなたのレベル×1000に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、レベルを－Ｘする。Ｘはあなたのレベルに等しい。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"4期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-061S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_061s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_061s.png",
+	"tags": null,
+	"expansionId": 357
 }

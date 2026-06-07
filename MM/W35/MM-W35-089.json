@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最終的な目標については否定しないよ。まあ道のりは困難だろう",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W35-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_089.png",
+	"tags": null,
+	"expansionId": 140
 }

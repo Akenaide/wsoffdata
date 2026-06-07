@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こんにちは、Afterglowでーすっ！みんなー！盛り上がってる～！？",
+	"trigger": null,
 	"ability": [
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたは自分の控え室のキャラを1枚とこのカードを選び、入れ替えてよい。",
-		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたは自分の控え室のキャラを1枚とこのカードを選び、入れ替えてよい。\u003cbr/\u003e【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_041.png",
+	"tags": null,
+	"expansionId": 213
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よろしくネ",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「マカロフの孫 ラクサス」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「マカロフの孫 ラクサス」を1枚選び、手札に戻す）",
 		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"マスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_013.png",
+	"tags": null,
+	"expansionId": 43
 }

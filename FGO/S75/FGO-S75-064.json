@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "はい！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《カルデア》か《バビロニア》のキャラを1枚選び、手札に戻してよい。",
-		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《カルデア》か《バビロニア》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"バビロニア",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_064.png",
+	"tags": null,
+	"expansionId": 298
 }

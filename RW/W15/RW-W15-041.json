@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そっかそっか。うん。\u003cbr /\u003eまっとうなガクセーさん、やってんだな",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのクライマックス置場に緑のクライマックスがあるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_041.png",
+	"tags": null,
+	"expansionId": 65
 }

@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ あなたのクライマックス置場に「アンハッピーリフレイン」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「鏡音レン“バッドボーイ”」を1枚までと「ＫＡＩＴＯ“ジェネラル”」を1枚まで選び、舞台の別々の枠に【レスト】して置く。その後、その山札をシャッフルし、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ヘッドフォン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-080S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_080s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_080s.png",
+	"tags": null,
+	"expansionId": 93
 }

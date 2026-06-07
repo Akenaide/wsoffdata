@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "もう消灯時間よ！　規則は規則！\u003cbr /\u003eただちに寮へ戻ること！　全員、解散！",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"委員長",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_026.png",
+	"tags": null,
+	"expansionId": 96
 }

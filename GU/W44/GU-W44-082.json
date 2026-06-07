@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リゼさんはもっと中学生の目線になるべきですね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの青のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"コーヒー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_082.png",
+	"tags": null,
+	"expansionId": 174
 }

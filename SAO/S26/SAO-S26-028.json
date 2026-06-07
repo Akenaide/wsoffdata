@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしは構わないけど……命の保証まではできないわよ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたは自分のクライマックスフェイズに、クライマックスを手札からプレイできない。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S26-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s26/sao_s26_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s26/sao_s26_028.png",
+	"tags": null,
+	"expansionId": 115
 }

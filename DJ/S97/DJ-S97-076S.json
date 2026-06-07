@@ -15,18 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが《Peaky P-key》なら、このカードのパワーを＋2000し、ソウルを＋1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】［(1)］ このカードが手札から舞台に置かれた時、他のあなたの《Peaky P-key》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』"
+		"【永】 あなたのターン中、あなたのキャラすべてが《Peaky P-key》なら、このカードのパワーを＋2000し、ソウルを＋1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】［(1)］ このカードが手札から舞台に置かれた時、他のあなたの《Peaky P-key》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードは次の能力を得る。『【自】 この能力は1ターンにつき1回まで発動する。このカードの与えたダメージがキャンセルされた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"音楽",
+		"Peaky P-key"
+	],
+	"version": "4",
 	"cardcode": "DJ/S97-076S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_076s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_076s.png",
+	"tags": null,
+	"expansionId": 423
 }

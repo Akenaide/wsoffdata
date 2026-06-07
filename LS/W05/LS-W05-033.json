@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほ　ほら……　３秒ルール　３秒ルール!!",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場のクライマックスを1枚選び、手札に戻し、自分の手札を1枚選び、クロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"スポーツ",
 		"八重歯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_033.png",
+	"tags": null,
+	"expansionId": 16
 }

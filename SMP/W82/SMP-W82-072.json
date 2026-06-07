@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "そう……愛は奪い合うものなのだからな",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《サマポケ》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+		"【永】 あなたのターン中、他のあなたの《サマポケ》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】［(1) 手札のクライマックスを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_072.png",
+	"tags": null,
+	"expansionId": 311
 }

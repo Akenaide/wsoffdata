@@ -15,20 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ごめんなさい、ちょっと通してくださいっ！",
+	"trigger": null,
 	"ability": [
-		"【永】【CXコンボ】 あなたのクライマックス置場に「変身の術？」があるなら、すべての領域にあるこのカードはトリガーアイコンに[CHOICE]を得る。",
-		"【永】 あなたは[CHOICE]の効果で自分の控え室の「みんな、行くわよー！」を選んでよい。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【永】【CXコンボ】 あなたのクライマックス置場に「変身の術？」があるなら、すべての領域にあるこのカードはトリガーアイコンに[[choice.gif]]を得る。\u003cbr\u003e【永】 あなたは[[choice.gif]]の効果で自分の控え室の「みんな、行くわよー！」を選んでよい。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_005.png",
+	"tags": null,
+	"expansionId": 382
 }

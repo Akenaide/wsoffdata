@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたのカード名に「美遊」を含むキャラすべてに、そのターン中、パワーを＋500。",
-		"【自】 絆／「“感動の再会”美遊」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“感動の再会”美遊」を1枚選び、手札に戻す）"
+		"【自】 このカードがアタックした時、他のあなたのカード名に「美遊」を含むキャラすべてに、そのターン中、パワーを＋500。\u003cbr\u003e【自】 絆／「“感動の再会”美遊」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“感動の再会”美遊」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/S40-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_s40/pi_s40_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_s40/pi_s40_065.png",
+	"tags": null,
+	"expansionId": 170
 }

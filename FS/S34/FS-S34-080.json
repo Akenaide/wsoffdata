@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "侮ったなセイバー",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_080.png",
+	"tags": null,
+	"expansionId": 139
 }

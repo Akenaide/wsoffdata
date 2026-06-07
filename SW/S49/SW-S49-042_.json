@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ジャバ「ついに怪力のチューバッカも我が手に落ちたか」",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
 		"【永】 他のあなたの前列の「ガモーリアン」1枚につき、このカードのパワーを＋1000。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"ジェダイの帰還"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-042_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_042_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_042_.png",
+	"tags": null,
+	"expansionId": 400
 }

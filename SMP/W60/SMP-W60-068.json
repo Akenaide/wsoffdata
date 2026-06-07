@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、そういえば海老のお腹側って、蝉っぽくない？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《サマポケ》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_068.png",
+	"tags": null,
+	"expansionId": 238
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "けれど…胸が苦しくなる、その気持ちは分かりますわ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。",
 		"【自】 このカードがアタックした時、クライマックス置場に｢不器用な友情｣があるなら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_029.png",
+	"tags": null,
+	"expansionId": 96
 }

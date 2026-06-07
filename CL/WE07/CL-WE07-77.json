@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "力を合わせてみんなで一つの事を頑張る。\u003cbr /\u003eそれは素晴らしいことだと思うんです",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。",
 		"【永】 このカードの正面のキャラのソウルを＋1。"
@@ -25,8 +25,9 @@
 		"演劇",
 		"だんご"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE07-77",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we07/cl_we07_77.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we07/cl_we07_77.png",
+	"tags": null,
+	"expansionId": 12
 }

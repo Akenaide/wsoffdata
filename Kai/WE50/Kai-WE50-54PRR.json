@@ -15,21 +15,21 @@
 	"rarity": "PRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの、《Anniversary》か《夏》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋4000。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「夏空の下で」があるなら、あなたは自分の山札を上から2枚まで見て、《Anniversary》か《夏》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 このカードがアタックした時、他のあなたの、《Anniversary》か《夏》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋4000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「夏空の下で」があるなら、あなたは自分の山札を上から2枚まで見て、《Anniversary》か《夏》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"夏",
 		"恐竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kai/WE50-54PRR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/kai_we50_54prr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/kai_we50_54prr.png",
+	"tags": null,
+	"expansionId": 532
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "見通す悪魔に隠し事は出来ない",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時か【リバース】した時、あなたは自分の山札を上から2枚まで見てカードを1枚選び、山札の上に置き、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"仮面",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_018.png",
+	"tags": null,
+	"expansionId": 291
 }

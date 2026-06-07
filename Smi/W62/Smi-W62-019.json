@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前が魔王か、アジ＝ダカーハ―――!!!",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
 	],
@@ -25,8 +25,9 @@
 		"恩恵",
 		"神器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Smi/W62-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smi_w62/smi_w62_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smi_w62/smi_w62_019.png",
+	"tags": null,
+	"expansionId": 259
 }

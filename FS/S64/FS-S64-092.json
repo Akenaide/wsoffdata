@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "早く呼び出さないと死んじゃうよ、お兄ちゃん",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1500。",
-		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「狂戦士の咆哮 バーサーカー」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+		"【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1500。\u003cbr\u003e【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「狂戦士の咆哮 バーサーカー」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"ホムンクルス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_092.png",
+	"tags": null,
+	"expansionId": 262
 }

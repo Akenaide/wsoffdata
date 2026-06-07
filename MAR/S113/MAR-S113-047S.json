@@ -15,17 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが、手札か山札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋2500。"
+		"【自】 このカードが、手札か山札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S113-047S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_047s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s113/mar_s113_047s.png",
+	"tags": null,
+	"expansionId": 484
 }

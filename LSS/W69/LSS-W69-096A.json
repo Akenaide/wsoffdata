@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "UA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "果南「レッスンで熱くなったら、アイスを食べて海で遊ぶ。うん、完璧なスケジュールだねっ」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を上からＸ枚まで見て、カードを2枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたのカード名に「ダイヤ」か「花丸」か「果南」を含むキャラの枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LSS/W69-096A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_096a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_096a.png",
+	"tags": null,
+	"expansionId": 273
 }

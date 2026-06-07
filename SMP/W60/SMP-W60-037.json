@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この目標が達成できた時に、\u003cbr\u003eわたしは自分を見つけられるような気がします",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻し、自分の手札を1枚選び、クロック置場に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻し、自分の手札を1枚選び、クロック置場に置く。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"ヌイグルミ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_037.png",
+	"tags": null,
+	"expansionId": 238
 }

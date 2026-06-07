@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ペガサスお母さんアターック！",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「キングメンガーを探すつかさ」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「キングメンガーを探すつかさ」を1枚選び、手札に戻す）",
 		"【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
@@ -25,8 +25,9 @@
 		"主婦",
 		"ギガント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GST/SE22-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gst_se22/gst_se22_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gst_se22/gst_se22_06.png",
+	"tags": null,
+	"expansionId": 126
 }

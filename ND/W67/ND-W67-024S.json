@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はぁい",
+	"trigger": null,
 	"ability": [
 		"【自】 記憶 このカードがアタックした時、あなたの思い出置場にカードがあるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《魔法》か《武器》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-024S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_024s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_024s.png",
+	"tags": null,
+	"expansionId": 268
 }

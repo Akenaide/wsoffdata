@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あんたの為にやってるんじゃないんだからねっ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
-		"【起】［(1) このカードを控え室に置く］ あなたのレベルが2以上なら、あなたは自分の控え室の「松嶋 みちる」を1枚選び、このカードがいた枠に置く。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたのレベルが2以上なら、あなたは自分の控え室の「松嶋 みちる」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"ツンデレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_t11.png",
+	"tags": null,
+	"expansionId": 284
 }

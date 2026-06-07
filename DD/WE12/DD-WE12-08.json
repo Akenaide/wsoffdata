@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我ら、ガレット獅子団領",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_08.png",
+	"tags": null,
+	"expansionId": 71
 }

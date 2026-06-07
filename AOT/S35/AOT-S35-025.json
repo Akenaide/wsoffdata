@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"巨人",
 		"兵団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S35-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s35/aot_s35_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s35/aot_s35_025.png",
+	"tags": null,
+	"expansionId": 149
 }

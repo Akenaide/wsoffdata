@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうよ、怖がってなんていられない！",
+	"trigger": null,
 	"ability": [
 		"【自】 アラーム このカードがクロックの１番上にあり、あなたのレベルが2以上なら、あなたのターンの終わりに、このカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_085.png",
+	"tags": null,
+	"expansionId": 4
 }

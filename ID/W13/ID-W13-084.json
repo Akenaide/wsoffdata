@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "騒いでんじゃないですよ！",
+	"trigger": null,
 	"ability": [
 		"【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出が2枚以上なら、あなたは他の自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが舞台から控え室に置かれた時、あなたはこのカードをこのカードがいた枠に【レスト】して置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"シスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ID/W13-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/id_w13/id_w13_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/id_w13/id_w13_084.png",
+	"tags": null,
+	"expansionId": 54
 }

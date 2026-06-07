@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "…はい。絶対しません\u003cbr /\u003e宮沢さんが拾ってくれた命です",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"スポーツ",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_092.png",
+	"tags": null,
+	"expansionId": 18
 }

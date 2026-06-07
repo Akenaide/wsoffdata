@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "つい勢いでお返しを…",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
-		"【自】［(1)あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+		"【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。\u003cbr\u003e【自】［(1)あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"コーヒー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,20 +15,20 @@
 	"rarity": "PRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《冬》のキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】［他のあなたの舞台の、《Anniversary》か《冬》のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》か《冬》のキャラなら手札に加える。（そうでないなら元に戻す）"
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《冬》のキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】［他のあなたの舞台の、《Anniversary》か《冬》のキャラを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《Anniversary》か《冬》のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"冬"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kka/WE50-07PRR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/kka_we50_07prr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/kka_we50_07prr.png",
+	"tags": null,
+	"expansionId": 532
 }

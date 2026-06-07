@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "レイ「あなた、どこから来たの？」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《フォースの覚醒》のキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-T11_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_t11_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_t11_.png",
+	"tags": null,
+	"expansionId": 400
 }

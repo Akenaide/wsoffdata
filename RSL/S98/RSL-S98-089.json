@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "まひる！！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《レヴュー》のキャラの枚数×1000に等しい。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「競演のレヴュー」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「舞台で演じないのなら 露崎 まひる」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分の山札の上から1枚までを、ストック置場に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《レヴュー》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「競演のレヴュー」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「舞台で演じないのなら 露崎 まひる」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分の山札の上から1枚までを、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"レヴュー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S98-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_089.png",
+	"tags": null,
+	"expansionId": 402
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ご主人様。お帰りなさいにゃ♪",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE11-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se11/mk_se11_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se11/mk_se11_22.png",
+	"tags": null,
+	"expansionId": 69
 }

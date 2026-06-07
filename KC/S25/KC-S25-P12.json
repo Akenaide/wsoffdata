@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "スタンバイオーケーよ",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら、このカードを控え室に置く。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-P12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_p12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_p12.png",
+	"tags": null,
+	"expansionId": 13
 }

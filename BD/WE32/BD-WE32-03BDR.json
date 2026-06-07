@@ -15,18 +15,18 @@
 	"rarity": "BDR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今のちょっと普通じゃなかったかも……！？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《Morfonica》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードがクライマックスなら、このカードをストック置場に置く。"
+		"【永】 他のあなたの《Morfonica》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードがクライマックスなら、このカードをストック置場に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Morfonica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE32-03BDR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we32/bd_we32_03bdr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we32/bd_we32_03bdr.png",
+	"tags": null,
+	"expansionId": 325
 }

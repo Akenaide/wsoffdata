@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしはさ、自分の大切な人が幸せだったらそれでいいんだ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「さやか」を含むキャラとカード名に「杏子」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"スキル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_095.png",
+	"tags": null,
+	"expansionId": 232
 }

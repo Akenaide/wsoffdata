@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "中も外も変わらないって言うけどさ、\u003cbr /\u003eやっぱ変わってるトコロもあるんだよねー",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《オタク》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"オタク",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-115",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_115.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_115.png",
+	"tags": null,
+	"expansionId": 12
 }

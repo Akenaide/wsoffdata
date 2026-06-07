@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "広範囲攻撃が来るわ！下がって！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《アバター》か《ネット》のキャラがいないなら、このカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S51-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s51/sao_s51_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s51/sao_s51_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

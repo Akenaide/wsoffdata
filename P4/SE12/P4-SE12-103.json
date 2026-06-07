@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "クマはクマクマ。ずっとここに住んでるクマ",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"テレビ",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_103.png",
+	"tags": null,
+	"expansionId": 67
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お兄ちゃん、わたしのこと嫌いなの？",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
 		"【自】 あなたのクライマックス置場に「冬の聖女ユスティーツァ」が置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -25,8 +25,9 @@
 		"マスター",
 		"ホムンクルス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_080.png",
+	"tags": null,
+	"expansionId": 7
 }

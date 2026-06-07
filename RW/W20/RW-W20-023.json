@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『僕たち結婚します！』",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードは、あなたの黄のキャラが1枚以下なら、手札からプレイできない。",
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RW/W20-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w20/rw_w20_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w20/rw_w20_023.png",
+	"tags": null,
+	"expansionId": 84
 }

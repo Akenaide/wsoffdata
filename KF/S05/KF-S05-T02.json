@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハンデが必要かい？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"神器",
 		"日輪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_t02re.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_t02re.png",
+	"tags": null,
+	"expansionId": 26
 }

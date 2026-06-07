@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ありゃあ……デンデンデンジく～ん……なあんで私ん家にいんの～……？",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたのターン中、あなたの思い出置場に「Easy revenge!」があるなら、このカードのパワーを＋3500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_047.png",
+	"tags": null,
+	"expansionId": 428
 }

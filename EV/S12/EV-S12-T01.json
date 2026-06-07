@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《パイロット》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_t01.png",
+	"tags": null,
+	"expansionId": 42
 }

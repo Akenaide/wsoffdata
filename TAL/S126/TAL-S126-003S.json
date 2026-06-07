@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "覚悟を決めろ！派手に踊れ！",
+	"trigger": null,
 	"ability": [
-		"【起】［このカードを【レスト】する］ 他のあなたの《冒険》のキャラが3枚以上なら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[]のCX1枚につき、あなたは自分の控え室の《冒険》のキャラを1枚まで選び、手札に戻す。"
+		"【起】［このカードを【レスト】する］ 他のあなたの《冒険》のキャラが3枚以上なら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[[discovery.gif]]のCX1枚につき、あなたは自分の控え室の《冒険》のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"冒険",
 		"グレイセス エフ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-003S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_003s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_003s.png",
+	"tags": null,
+	"expansionId": 538
 }

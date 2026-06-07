@@ -8,14 +8,14 @@
 	"jpName": "友への誓い",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "…いいぜ、シンジ。美紀と２人で、そこから見ていろ…。\u003cbr /\u003e　まだ…俺にはやることがある。…そうだろ？",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P3/S01-075",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_075.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_075.png",
+	"tags": null,
+	"expansionId": 4
 }

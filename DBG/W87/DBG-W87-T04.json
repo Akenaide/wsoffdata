@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "兄貴、手伝ってほしいし",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《夏》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"夏",
 		"映画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_t04.png",
+	"tags": null,
+	"expansionId": 341
 }

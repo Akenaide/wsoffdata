@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "てめえのケツをふけねえ魔導士は、このギルドにはいねえ。だろ？",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1000。",
 		"【起】［(1)］ このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_015.png",
+	"tags": null,
+	"expansionId": 43
 }

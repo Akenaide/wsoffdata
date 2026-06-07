@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "083",
@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "藤丸立香「奮い立つ決意の壁を輝かせ、力なき人々を守護せよ！」",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「いまは遙か理想の城」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「いまは遙か理想の城」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"カルデア",
 		"シールダー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_083.png",
+	"tags": null,
+	"expansionId": 363
 }

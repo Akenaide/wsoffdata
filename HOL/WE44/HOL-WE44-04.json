@@ -15,14 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 加速 ［あなたの控え室の《ホロライブ》のキャラを1枚クロック置場の下に置く］ あなたのクライマックスフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ホロライブ》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"ホロライブ",
+		"ホロライブEnglish-Myth-"
+	],
+	"version": "4",
 	"cardcode": "HOL/WE44-04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we44/hol_we44_04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we44/hol_we44_04.png",
+	"tags": null,
+	"expansionId": 464
 }

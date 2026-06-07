@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…あれ、持ってきてる？",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CN/SE02-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cn_se02/cn_se02_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cn_se02/cn_se02_08.png",
+	"tags": null,
+	"expansionId": 31
 }

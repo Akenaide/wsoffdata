@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の歌、聞いてください。\u003cbr /\u003e必ず、あなたを虜にしてみせますから！",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のクライマックスがクライマックス置場に置かれた時、このカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_091.png",
+	"tags": null,
+	"expansionId": 64
 }

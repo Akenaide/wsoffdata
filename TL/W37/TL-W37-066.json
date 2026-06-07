@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "がんばってくださいね、リトさん",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「秘密の花園▽」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、コスト0以下のキャラを2枚まで選び、舞台の別々の枠に置き、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_066.png",
+	"tags": null,
+	"expansionId": 150
 }

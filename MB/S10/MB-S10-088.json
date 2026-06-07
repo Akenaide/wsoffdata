@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うん、いい調子いい調子♪",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が3以上なら、このカードは次の能力を得る。『【永】 応援 相手のターン中、このカードの前のあなたのキャラすべてに、パワーを＋500。』"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_088.png",
+	"tags": null,
+	"expansionId": 48
 }

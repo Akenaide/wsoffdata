@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……こわくない？ねぇ、こわくない？",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_065.png",
+	"tags": null,
+	"expansionId": 14
 }

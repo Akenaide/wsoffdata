@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "中央政府の庇護の下、アークは維持されていることを忘れないように",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋4500。"
 	],
@@ -24,8 +24,9 @@
 		"NIKKE",
 		"トライアングル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_t04.png",
+	"tags": null,
+	"expansionId": 493
 }

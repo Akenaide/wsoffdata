@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 控え室にこのカードがあるなら、あなたは[GATE]の効果でこのカードを選んでよい。",
-		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+		"【永】 控え室にこのカードがあるなら、あなたは[[gate.gif]]の効果でこのカードを選んでよい。\u003cbr\u003e【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"対策委員会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W129-086S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_086s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w129/bav_w129_086s.png",
+	"tags": null,
+	"expansionId": 530
 }

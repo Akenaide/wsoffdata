@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "友達と笑って、泣いて、時にはケンカして－－",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《ラビットハウス》か《パン》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_t01.png",
+	"tags": null,
+	"expansionId": 175
 }

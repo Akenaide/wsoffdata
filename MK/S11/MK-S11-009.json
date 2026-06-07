@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "へっ、くらわせてあげるよ、オレの爆弾を――！",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"炎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_009.png",
+	"tags": null,
+	"expansionId": 50
 }

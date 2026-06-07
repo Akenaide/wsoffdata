@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キレイな夕日……こんな夕日、みんなで見られたら最高だろうなぁ……",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたの《Afterglow》のキャラが5枚以上なら、あなたは相手のキャラを1枚選び、【レスト】する。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W63-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_044.png",
+	"tags": null,
+	"expansionId": 255
 }

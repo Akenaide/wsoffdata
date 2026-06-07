@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《デート》か《精霊》のキャラすべてに、パワーを＋500。",
-		"【起】［あなたの、《デート》か《精霊》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 他のあなたの、《デート》か《精霊》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［あなたの、《デート》か《精霊》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W99-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w99/dal_w99_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w99/dal_w99_016.png",
+	"tags": null,
+	"expansionId": 396
 }

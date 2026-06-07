@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "7",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『桜が咲いたら、約束のあの場所でお花見をしようね！』",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 相手のキャラすべてに、そのターン中、ソウルを＋5し、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC3/W18-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_096.png",
+	"tags": null,
+	"expansionId": 78
 }

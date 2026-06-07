@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こーなったらば仕方ない",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは相手の、レベルが相手のレベルより高いキャラを1枚選び、控え室に置き、相手は自分の控え室のレベル0以下のキャラを1枚まで選び、そのキャラがいた枠に置く。",
 		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -25,8 +25,9 @@
 		"音楽",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE19-24",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we19/ll_we19_24.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we19/ll_we19_24.png",
+	"tags": null,
+	"expansionId": 120
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ばたんきゅー",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_022.png",
+	"tags": null,
+	"expansionId": 160
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日中に解決しときなさいよ。阿良々木くんは明日から\u003cbr /\u003eまた、受験勉強をやらなきゃいけないんだから――",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_035.png",
+	"tags": null,
+	"expansionId": 105
 }

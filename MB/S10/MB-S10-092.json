@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……やれやれ。これじゃあ本当に、オレを止められるヤツはいなくなっちまったぜ？",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたはこのカードを山札に戻してよい。そうしたら、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_092.png",
+	"tags": null,
+	"expansionId": 48
 }

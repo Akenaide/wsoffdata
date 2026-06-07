@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほんと……。青いね",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"海賊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_093.png",
+	"tags": null,
+	"expansionId": 238
 }

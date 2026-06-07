@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "正義を求める人の元に……私あり……そう私こそがスーパースター。宇沢レイサ、見参です！",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ 他のあなたの《キヴォトス》のキャラがいるなら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"トリニティ自警団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_026.png",
+	"tags": null,
+	"expansionId": 460
 }

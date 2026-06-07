@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "天城が参ります！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「雲龍型正規空母2番艦 天城」1枚につき、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"正規空母"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_019.png",
+	"tags": null,
+	"expansionId": 173
 }

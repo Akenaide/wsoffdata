@@ -15,22 +15,21 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ヴィスコンティ大尉、バーガンデール少尉！先行せい！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から5枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から5枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのクライマックスの枚数に等しい。（ダメージキャンセルは発生する）\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Snw/W62-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/snw_w62/snw_w62_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/snw_w62/snw_w62_083.png",
+	"tags": null,
+	"expansionId": 259
 }

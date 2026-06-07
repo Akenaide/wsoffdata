@@ -8,14 +8,14 @@
 	"jpName": "Diva in Abyss",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "DCR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "すべて奪ってあげるわ 愛も 夢も 歌も 希望も",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MDE/SE45-59DCR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mde_se45/mde_se45_59dcr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mde_se45/mde_se45_59dcr.png",
+	"tags": null,
+	"expansionId": 458
 }

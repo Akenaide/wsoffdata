@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キリッ！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてがカード名に「シャロ」か「千夜」を含むなら、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、クライマックス置場に「大いなる野望」があるなら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+		"【永】 あなたのキャラすべてがカード名に「シャロ」か「千夜」を含むなら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「大いなる野望」があるなら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
 	"specialAttrib": [
 		"甘兎庵",
 		"和菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_024.png",
+	"tags": null,
+	"expansionId": 174
 }

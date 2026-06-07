@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ごめんなさい、嫌なことに巻き込んじゃって",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたの【レスト】しているキャラ1枚につき、このカードのパワーを＋500。",
 		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S26-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s26/sao_s26_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s26/sao_s26_010.png",
+	"tags": null,
+	"expansionId": 115
 }

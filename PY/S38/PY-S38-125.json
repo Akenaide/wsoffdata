@@ -7,7 +7,7 @@
 	"name": "",
 	"jpName": "むらさきパプリス",
 	"cardType": "CH",
-	"colour": "色：紫",
+	"colour": "紫",
 	"level": "0",
 	"cost": "0",
 	"power": "1000",
@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "むらさきパプリスが、\u003cbr/\u003eいっちばんかわいいでしょー！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-125",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_125.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_125.png",
+	"tags": null,
+	"expansionId": 13
 }

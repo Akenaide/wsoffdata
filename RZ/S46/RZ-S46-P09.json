@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《魔法》か《武器》のキャラの枚数×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S46-P09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s46/rz_s46_p09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s46/rz_s46_p09.png",
+	"tags": null,
+	"expansionId": 13
 }

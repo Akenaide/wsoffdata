@@ -15,8 +15,8 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"五つ子",
 		"オシャレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/WE43-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_we43/5hy_we43_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_we43/5hy_we43_03.png",
+	"tags": null,
+	"expansionId": 462
 }

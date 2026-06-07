@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《明治剣客浪漫譚》のキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】 このカードの正面のキャラがアタックした時、あなたは相手の山札の上から3枚を、控え室に置く。"
+		"【永】 あなたのターン中、他のあなたの《明治剣客浪漫譚》のキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードの正面のキャラがアタックした時、あなたは相手の山札の上から3枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"剣士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_048.png",
+	"tags": null,
+	"expansionId": 479
 }

@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "雪景色の中だと、周りの音が少しだけ静かになったように感じるよね。ふふっ♪",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「ことり」を含むキャラなら、そのカードをストック置場に置く。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたのカード名に「ことり」を含むキャラの枚数×1000に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがカード名に「ことり」を含むキャラなら、そのカードをストック置場に置く。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたのカード名に「ことり」を含むキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"雪"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_106.png",
+	"tags": null,
+	"expansionId": 272
 }

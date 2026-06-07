@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "特別に、エリスって呼ぶことを許してあげるわ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【自】 他のあなたの《六面世界》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《六面世界》のキャラの枚数×500に等しい。"
+		"【永】 あなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【自】 他のあなたの《六面世界》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《六面世界》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"剣士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_104.png",
+	"tags": null,
+	"expansionId": 346
 }

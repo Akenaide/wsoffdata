@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ハ、ハァ！？カスタネッ――",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 手札のこのカードをプレイするにあたり、あなたは自分の「魅惑の卵焼き 有咲」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。",
-		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。"
+		"【永】 手札のこのカードをプレイするにあたり、あなたは自分の「魅惑の卵焼き 有咲」を1枚選び、控え室に置いてよい。そうしたら、このカードをコスト0でプレイできる。\u003cbr\u003e【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"盆栽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-113",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_113.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_113.png",
+	"tags": null,
+	"expansionId": 196
 }

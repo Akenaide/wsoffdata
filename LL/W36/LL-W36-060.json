@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お料理って面白いよね～　お鍋でコトコト煮て、出来上がりを待つのとか～　結構楽しいの♪",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
-		"【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。"
+		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\u003cbr\u003e【自】［手札のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_060.png",
+	"tags": null,
+	"expansionId": 142
 }

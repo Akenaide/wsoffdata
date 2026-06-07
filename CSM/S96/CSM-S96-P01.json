@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《デビルハンター》か《悪魔》のキャラが2枚以上なら、このカードのパワーを+3000。",
-		"【自】このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。2回行ったら、あなたは自分のストックの上から1枚を、控え室に置く。"
+		"【永】 他のあなたの、《デビルハンター》か《悪魔》のキャラが2枚以上なら、このカードのパワーを+3000。\u003cbr\u003e【自】このカードがアタックした時、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。2回行ったら、あなたは自分のストックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

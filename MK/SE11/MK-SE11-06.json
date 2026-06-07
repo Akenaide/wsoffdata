@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここにお弁当ついてますよ",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の【スタンド】しているキャラを1枚選び、【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"警察",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE11-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se11/mk_se11_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se11/mk_se11_06.png",
+	"tags": null,
+	"expansionId": 69
 }

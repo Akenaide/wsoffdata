@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "了解……フェイズ２、開始",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの緑のキャラが2枚以下なら、手札からプレイできない。",
 		"相手のキャラすべてに、そのターン中、パワーを－1500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PT/W07-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_044.png",
+	"tags": null,
+	"expansionId": 32
 }

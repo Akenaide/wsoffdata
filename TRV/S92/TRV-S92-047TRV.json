@@ -15,19 +15,19 @@
 	"rarity": "TRV",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 あなたの思い出置場の「似合う男に タケミチ」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 前列にこのカードがいるなら、あなたの《リベンジ》のキャラすべてに、パワーを＋1500。"
+		"【永】 記憶 あなたの思い出置場の「似合う男に タケミチ」が2枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 前列にこのカードがいるなら、あなたの《リベンジ》のキャラすべてに、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"リベンジ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TRV/S92-047TRV",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_047trv.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_047trv.png",
+	"tags": null,
+	"expansionId": 389
 }

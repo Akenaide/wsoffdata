@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私のやるべき事はシロウを守る事です",
+	"trigger": null,
 	"ability": [
 		"【永】他のあなたのカード名に「士郎」を含むキャラがいるなら、このカードのパワーを+2000。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_104.png",
+	"tags": null,
+	"expansionId": 13
 }

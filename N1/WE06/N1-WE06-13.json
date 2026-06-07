@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……なのはちゃん、今日もだめなんだよね？",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「なのは」を含むキャラを1枚選び、そのターン中、レベルを＋1。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N1/WE06-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n1_we06/n1_we06_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n1_we06/n1_we06_13.png",
+	"tags": null,
+	"expansionId": 37
 }

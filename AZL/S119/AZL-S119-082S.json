@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "動物さんたちに囲まれていると、なんだか動物さんたちにもっと集まってほしい感じがしますね。",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがダイレクトアタックした時、あなたは自分の控え室の《艦船》のキャラを1枚選び、ストック置場に置いてよい。",
-		"【起】 経験 ［(4)］ あなたのレベル置場のカードのレベルの合計が5以上なら、あなたは相手の前列のレベル3以下のキャラすべてを、手札に戻す。"
+		"【自】 このカードがダイレクトアタックした時、あなたは自分の控え室の《艦船》のキャラを1枚選び、ストック置場に置いてよい。\u003cbr\u003e【起】 経験 ［(4)］ あなたのレベル置場のカードのレベルの合計が5以上なら、あなたは相手の前列のレベル3以下のキャラすべてを、手札に戻す。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"鉄血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-082S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_082s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_082s.png",
+	"tags": null,
+	"expansionId": 499
 }

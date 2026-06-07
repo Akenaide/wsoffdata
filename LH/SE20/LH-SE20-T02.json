@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私はこれから、主君の忍びとして、\u003cbr /\u003e身の回りを守ろうと思う",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードの下のマーカーを1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。",
 		"【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。"
@@ -25,8 +25,9 @@
 		"武器",
 		"忍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_t02.png",
+	"tags": null,
+	"expansionId": 112
 }

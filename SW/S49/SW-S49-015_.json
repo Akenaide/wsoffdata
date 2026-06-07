@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "C-3PO「すばらしい！仲間と認められた」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、他のあなたの黄のキャラが3枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"ジェダイの帰還"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-015_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_015_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_015_.png",
+	"tags": null,
+	"expansionId": 400
 }

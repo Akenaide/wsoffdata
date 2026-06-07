@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの《Memory Snow》のキャラが2枚以上なら、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「自力で頑張るベアトリス」を1枚選び、舞台の好きな枠に置き、自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"Memory Snow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S68-018S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_018s__.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_018s__.png",
+	"tags": null,
+	"expansionId": 280
 }

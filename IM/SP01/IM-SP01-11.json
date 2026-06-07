@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PS",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。このカードを思い出にする。あなたは自分の控え室の《音楽》のキャラをＸ枚まで選び、手札に戻す。Ｘはあなたの思い出置場の「M@STERS OF IDOL WORLD!!2015」の枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/SP01-11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_sp01/im_sp01_11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_sp01/im_sp01_11.png",
+	"tags": null,
+	"expansionId": 168
 }

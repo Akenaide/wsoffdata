@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれたターン中、アタックフェイズの始めに、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。",
-		"【自】［(1) このカードを控え室に置く］ 他のあなたの《MARVEL》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置き、そのターンの次のターンの終わりまで、パワーを＋3000。"
+		"【自】 このカードが手札から舞台に置かれたターン中、アタックフェイズの始めに、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。\u003cbr\u003e【自】［(1) このカードを控え室に置く］ 他のあなたの《MARVEL》のキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置き、そのターンの次のターンの終わりまで、パワーを＋3000。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S113-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s113/mar_s113_089.png",
+	"tags": null,
+	"expansionId": 484
 }

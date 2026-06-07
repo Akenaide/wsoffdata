@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《超能力》のキャラすべてに、パワーを＋500。",
 		"【自】［(1) このカードを【レスト】する］ 相手のアタックフェイズの始めに、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、相手のキャラすべてに、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
@@ -25,8 +25,9 @@
 		"超能力",
 		"手袋"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W26-061SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w26/rg_w26_061sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w26/rg_w26_061sp.png",
+	"tags": null,
+	"expansionId": 103
 }

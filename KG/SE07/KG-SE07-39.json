@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "虚刀流―『薔薇』！",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) あなたのカード名に「とがめ」を含むキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-39",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_39.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_39.png",
+	"tags": null,
+	"expansionId": 56
 }

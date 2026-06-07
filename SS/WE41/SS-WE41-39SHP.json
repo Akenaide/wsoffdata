@@ -15,7 +15,7 @@
 	"rarity": "SHP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"炎",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE41-39SHP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we41/ss_we41_39shp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we41/ss_we41_39shp.png",
+	"tags": null,
+	"expansionId": 447
 }

@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やっぱりヘン",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分のレベル以下でコスト0以下の、《ファンタジア文庫》か《ウィスパード》のキャラを1枚まで選び、舞台の好きな枠に【レスト】して置き、その山札をシャッフルする。"
 	],
@@ -25,8 +25,9 @@
 		"ウィスパード",
 		"優等生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ffp/W65-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ffp_w65/ffp_w65_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ffp_w65/ffp_w65_023.png",
+	"tags": null,
+	"expansionId": 264
 }

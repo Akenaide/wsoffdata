@@ -10,22 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の【スタンド】している《PIXAR》のキャラを1枚選び【レスト】する。そうしたら、次の3つの効果のうちあなたが選んだ1つを行う。",
-		"『あなたは自分の山札を見てレベル0以下の《PIXAR》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。』",
-		"『あなたは自分の控え室の「友情の絆 ウッディ＆バズ」を1枚選び、手札に戻してよい。』",
-		"『そのターン中、相手はイベントを手札からプレイできず、『【自】 アンコール』を使えない。』（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"あなたは自分の【スタンド】している《PIXAR》のキャラを1枚選び【レスト】する。そうしたら、次の3つの効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたは自分の山札を見てレベル0以下の《PIXAR》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。』\u003cbr\u003e『あなたは自分の控え室の「友情の絆 ウッディ＆バズ」を1枚選び、手札に戻してよい。』\u003cbr\u003e『そのターン中、相手はイベントを手札からプレイできず、『【自】 アンコール』を使えない。』（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PXR/S94-025a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s94/pxr_s94_025a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s94/pxr_s94_025a.png",
+	"tags": null,
+	"expansionId": 403
 }

@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋2000し、ソウルを＋1し、このカードは黄を得る。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Leo/need"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S109-046S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_046s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s109/pjs_s109_046s.png",
+	"tags": null,
+	"expansionId": 455
 }

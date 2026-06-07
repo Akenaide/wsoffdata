@@ -15,20 +15,19 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《スニーカー文庫》か《SOS団》なら、あなたのターン中、このカードのパワーを＋3000し、相手のターン中、このカードのパワーを＋1000。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。",
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋1500。"
+		"【永】 あなたのキャラすべてが《スニーカー文庫》か《SOS団》なら、あなたのターン中、このカードのパワーを＋3000し、相手のターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。\u003cbr\u003e【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"SOS団",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ssy/W123-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/ssy_w123_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/ssy_w123_027.png",
+	"tags": null,
+	"expansionId": 510
 }

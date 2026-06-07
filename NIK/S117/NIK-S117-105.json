@@ -15,19 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "トリック。思い出したよ",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《NIKKE》のキャラを1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\u003cbr\u003e【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《NIKKE》のキャラを1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"ライフトニック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_105.png",
+	"tags": null,
+	"expansionId": 494
 }

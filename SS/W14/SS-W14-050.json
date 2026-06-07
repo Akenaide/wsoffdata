@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そう、それだけ…！それだけで戦える！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「悠二」を含むキャラすべてに、パワーを＋500。",
 		"【自】 絆／「坂井 悠二」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「坂井 悠二」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"炎",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_050.png",
+	"tags": null,
+	"expansionId": 58
 }

@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたのカード名に「唯」か「春菜」を含むキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-P07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_p07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_p07.png",
+	"tags": null,
+	"expansionId": 12
 }

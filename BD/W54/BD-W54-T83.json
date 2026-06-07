@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "香澄「私、そんなのやだ……そんなの絶対にやだよ……っ！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】［あなたの山札の上から1枚をクロック置場に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「有咲」か「りみ」を含むキャラを1枚選び、手札に戻す。",
-		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+		"【自】［あなたの山札の上から1枚をクロック置場に置く］ あなたがこのカードの『助太刀』を使った時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「有咲」か「りみ」を含むキャラを1枚選び、手札に戻す。\u003cbr\u003e【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-T83",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_t83.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_t83.png",
+	"tags": null,
+	"expansionId": 246
 }

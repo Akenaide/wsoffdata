@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヒロインは不器用な女の子なんだけど",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
-		"【起】［手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の「集いしスタッフ」を1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の「集いしスタッフ」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"夏",
 		"映画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_004.png",
+	"tags": null,
+	"expansionId": 342
 }

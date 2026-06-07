@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "必ず巨人に勝つ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがダイレクトアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+		"【自】 このカードがダイレクトアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"兵団",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S35-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s35/aot_s35_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s35/aot_s35_t02.png",
+	"tags": null,
+	"expansionId": 138
 }

@@ -8,14 +8,14 @@
 	"jpName": "キラキラドキドキしようよ♪",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "「戸山香澄役の愛美と！」　「山吹沙綾役の大橋彩香です！」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】あなたのキラキラしているキャラすべてに、《ドキドキ》を与える!!!!!"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W47-P15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_p15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_p15.png",
+	"tags": null,
+	"expansionId": 12
 }

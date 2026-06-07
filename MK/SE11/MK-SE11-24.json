@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "名探偵シャーロック！\u003cbr /\u003eいえ、名名名名名名名名名名探偵シャーロック！\u003cbr /\u003eあなたに不可能はありません！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《探偵》のキャラすべてに、《除湿機》を与える。",
 		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のカード名に「シャロ」を含むキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE11-24",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se11/mk_se11_24.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se11/mk_se11_24.png",
+	"tags": null,
+	"expansionId": 69
 }

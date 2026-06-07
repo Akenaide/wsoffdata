@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［手札の、「彼女モード」か「私と付き合ってくださいっ!!」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「彼女モード」か「私と付き合ってくださいっ!!」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"かのかり"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_t13.png",
+	"tags": null,
+	"expansionId": 321
 }

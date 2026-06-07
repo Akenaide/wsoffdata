@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "人はみな一期一会、別れを迎えれば会えなくなる。\u003cbr\u003eしかし歌にすれば、私は心の内にいつまでも彼らを残しておける",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_031.png",
+	"tags": null,
+	"expansionId": 297
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんなでいっぱい食べちゃってくださいっ",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。",
 		"【起】［手札のクライマックスを1枚控え室に置く］ あなたは相手の前列のコスト0以下のキャラを1枚選び、ストック置場に置く。"
@@ -25,8 +25,9 @@
 		"お菓子",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_t03.png",
+	"tags": null,
+	"expansionId": 15
 }

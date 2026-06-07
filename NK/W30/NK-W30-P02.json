@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほら！話合わせてよ……！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が4枚以下なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"令嬢",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/W30-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_w30/nk_w30_p02.png",
+	"tags": null,
+	"expansionId": 12
 }

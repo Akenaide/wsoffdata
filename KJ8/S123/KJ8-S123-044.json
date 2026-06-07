@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "保科宗四郎「1％くらいは期待しといたる」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】 チェンジ ［このカードを控え室に置く］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「コードネーム 怪獣８号」を1枚選び、このカードがいた枠に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】 チェンジ ［このカードを控え室に置く］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「コードネーム 怪獣８号」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"防衛隊",
 		"怪獣"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KJ8/S123-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_044.png",
+	"tags": null,
+	"expansionId": 525
 }

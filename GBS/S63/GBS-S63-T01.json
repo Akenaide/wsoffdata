@@ -15,17 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じゃあ、あたしも配送あるから、一緒に行こう！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの「寡黙な気配り ゴブリンスレイヤー」すべてに、パワーを＋2000。",
-		"【自】 絆／「寡黙な気配り ゴブリンスレイヤー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「寡黙な気配り ゴブリンスレイヤー」を1枚選び、手札に戻す）"
+		"【永】 あなたのターン中、他のあなたの「寡黙な気配り ゴブリンスレイヤー」すべてに、パワーを＋2000。\u003cbr\u003e【自】 絆／「寡黙な気配り ゴブリンスレイヤー」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「寡黙な気配り ゴブリンスレイヤー」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"秩序"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_t01.png",
+	"tags": null,
+	"expansionId": 258
 }

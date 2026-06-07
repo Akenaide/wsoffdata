@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「Dream Believers 日野下 花帆」すべてに、パワーを＋500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時か「アオクハルカ 乙宗 梢」の【起】の効果で舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。"
+		"【永】 他のあなたの「Dream Believers 日野下 花帆」すべてに、パワーを＋500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時か「アオクハルカ 乙宗 梢」の【起】の効果で舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"スリーズブーケ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LHS/W122-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lhs_w122/lhs_w122_010.png",
+	"tags": null,
+	"expansionId": 502
 }

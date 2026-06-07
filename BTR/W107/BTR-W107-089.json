@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "絶対コミュ症直して、ギターヒーローの私としての力を発揮するんだ！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、他のあなたのキャラがいないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベル1以下の《音楽》のキャラを1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BTR/W107-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/btr_w107/btr_w107_089.png",
+	"tags": null,
+	"expansionId": 444
 }

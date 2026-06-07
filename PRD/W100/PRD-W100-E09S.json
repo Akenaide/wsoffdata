@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘが3以上なら、あなたは自分の山札の上から1枚までを、ストック置場に置く。Ｘは公開されたカードのレベルに等しい。（CXのレベルは0として扱う。ストック置場に置かないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"プリコネ",
 		"ランドソル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W100-E09S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_e09s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_e09s.png",
+	"tags": null,
+	"expansionId": 546
 }

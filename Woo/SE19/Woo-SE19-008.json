@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「クリスマス中止のお知らせ」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《謎》のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"謎",
 		"氷"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Woo/SE19-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/woo_se19/woo_se19_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/woo_se19/woo_se19_008.png",
+	"tags": null,
+	"expansionId": 109
 }

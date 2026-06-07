@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ああお前達も",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの、青かカード名に「シグナム」か「ヴィータ」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
+		"【永】 あなたの、青かカード名に「シグナム」か「ヴィータ」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NR/W58-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_014.png",
+	"tags": null,
+	"expansionId": 226
 }

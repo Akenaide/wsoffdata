@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『私は最後の意地を振り絞って、\u003cbr\u003eこぼれそうな涙をこらえていた』",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場に「『やって後悔しない』神原駿河」があるなら、このカードのパワーを＋1500。",
-		"【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【永】 経験 あなたのレベル置場に「『やって後悔しない』神原駿河」があるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"怪異",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_030.png",
+	"tags": null,
+	"expansionId": 159
 }

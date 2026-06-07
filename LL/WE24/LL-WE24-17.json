@@ -15,19 +15,19 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
-		"【自】 あなたのクライマックス置場に「SUNNY DAY SONG」が置かれた時、前列にこのカードがいるなら、あなたのキャラすべてに、そのターン中、パワーを＋500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《音楽》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）\u003cbr\u003e【自】 あなたのクライマックス置場に「SUNNY DAY SONG」が置かれた時、前列にこのカードがいるなら、あなたのキャラすべてに、そのターン中、パワーを＋500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE24-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we24/ll_we24_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we24/ll_we24_17.png",
+	"tags": null,
+	"expansionId": 158
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リムロ「まったく商売あがったりだよ」\u003cbr /\u003e華夢「ホントホント。ま、実際良く当たるから\u003cbr /\u003e仕方ないんだけど」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《タロット》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"占い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_060.png",
+	"tags": null,
+	"expansionId": 106
 }

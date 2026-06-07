@@ -15,21 +15,20 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「儚さと美しさ」が置かれた時、前列にこのカードがいて、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「儚さと美しさ」が置かれた時、前列にこのカードがいて、他のあなたの《音楽》のキャラが4枚以上なら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"25時、ナイトコードで。"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S109-092SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_092ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s109/pjs_s109_092ssp.png",
+	"tags": null,
+	"expansionId": 455
 }

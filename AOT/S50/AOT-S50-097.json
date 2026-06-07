@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "－",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードはダイレクトアタックとサイドアタックできない。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。"
+		"【永】 このカードはダイレクトアタックとサイドアタックできない。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"巨人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S50-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s50/aot_s50_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s50/aot_s50_097.png",
+	"tags": null,
+	"expansionId": 207
 }

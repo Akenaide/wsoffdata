@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ふふっ、先生。\u003cbr\u003eもう少し近くで見ていただいても大丈夫ですよ。",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の《キヴォトス》のキャラを1枚選び、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、相手は自分の控え室のクライマックスを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の《キヴォトス》のキャラを1枚選び、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"修行部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-057S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_057s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_057s.png",
+	"tags": null,
+	"expansionId": 460
 }

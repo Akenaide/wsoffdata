@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "はぁぁぁーッ！！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「我流・大地浸透勁」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、他のあなたのキャラすべてに、そのターン中、ソウルを＋1。"
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「我流・大地浸透勁」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、他のあなたのキャラすべてに、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W52-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w52/sg_w52_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w52/sg_w52_015.png",
+	"tags": null,
+	"expansionId": 206
 }

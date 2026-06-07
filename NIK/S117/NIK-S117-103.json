@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "う～ん…指揮…官、ですよね？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上からＸ枚を、控え室に置いてよい。Ｘはあなたの《NIKKE》のキャラの枚数に等しい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上からＸ枚を、控え室に置いてよい。Ｘはあなたの《NIKKE》のキャラの枚数に等しい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"A.C.P.U."
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_103.png",
+	"tags": null,
+	"expansionId": 494
 }

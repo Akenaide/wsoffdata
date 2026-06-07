@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "金城「怪盗だ…笑わせんじゃねえ」",
+	"trigger": null,
 	"ability": [
-		"相手の思い出置場に裏向きのカードがないなら、相手は自分の手札を1枚選び、裏向きで思い出にし、1枚まで引く。",
-		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』このカードを思い出にする。"
+		"相手の思い出置場に裏向きのカードがないなら、相手は自分の手札を1枚選び、裏向きで思い出にし、1枚まで引く。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをクロック置場に置いてよい。』このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P5/S45-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_046.png",
+	"tags": null,
+	"expansionId": 180
 }

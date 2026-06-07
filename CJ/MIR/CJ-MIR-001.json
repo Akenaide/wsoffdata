@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "日本の為に！ For Japan!",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"未来"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CJ/MIR-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cj_mir/cj_mir_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cj_mir/cj_mir_001.png",
+	"tags": null,
+	"expansionId": 12
 }

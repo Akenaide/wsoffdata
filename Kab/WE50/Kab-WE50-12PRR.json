@@ -15,21 +15,21 @@
 	"rarity": "PRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 チェンジ ［このカードを手札に戻す］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札のカード名に「かなで」か「ゆり」を含むキャラを1枚まで選び、このカードがいた枠に置く。",
-		"【起】［(2) このカードを【レスト】する］ 相手に1ダメージを与える。（ダメージキャンセルは発生する）"
+		"【自】 チェンジ ［このカードを手札に戻す］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の手札のカード名に「かなで」か「ゆり」を含むキャラを1枚まで選び、このカードがいた枠に置く。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ 相手に1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"死",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kab/WE50-12PRR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/kab_we50_12prr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/kab_we50_12prr.png",
+	"tags": null,
+	"expansionId": 532
 }

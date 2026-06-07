@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "クリスマスプレゼントありがとう！\u003cbr\u003eこの防水カメラは大切にするね！",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"艦船",
 		"ユニオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-T10R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_t10r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_t10r.png",
+	"tags": null,
+	"expansionId": 409
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうもありがとう",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
 		"【起】［(1) このカードを【レスト】する］ あなたは他の自分の《タロット》のキャラを1枚選び、【スタンド】する。"
@@ -25,8 +25,9 @@
 		"タロット",
 		"日傘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_034.png",
+	"tags": null,
+	"expansionId": 106
 }

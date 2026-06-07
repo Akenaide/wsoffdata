@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺は童じゃねぇ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を2枚控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《明治剣客浪漫譚》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"明治剣客浪漫譚",
 		"剣士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-T16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_t16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_t16.png",
+	"tags": null,
+	"expansionId": 478
 }

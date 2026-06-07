@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なら、あんたも働け！",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_t02.png",
+	"tags": null,
+	"expansionId": 242
 }

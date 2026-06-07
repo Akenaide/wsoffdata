@@ -15,8 +15,8 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ニンゲンには意外性が必要でしょ？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードのカード名に「葉留佳」か「佳奈多」を含むキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ビー玉",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE30-52",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_52.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we30/lb_we30_52.png",
+	"tags": null,
+	"expansionId": 222
 }

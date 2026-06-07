@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "どうか、この手に\u003cbr\u003e…フランスに光をもたらす力を！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【起】［(1) このカードを思い出にする］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［(1) このカードを思い出にする］ あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"アビリティ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_014.png",
+	"tags": null,
+	"expansionId": 232
 }

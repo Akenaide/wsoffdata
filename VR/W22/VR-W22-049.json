@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の使命は、示現エンジンを破壊すること……",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ あなたのクライマックス置場に「れいの使命」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト0以下のキャラを1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"鍵",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VR/W22-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_049.png",
+	"tags": null,
+	"expansionId": 97
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラが2枚以上なら、このカードのパワーを＋3000。",
-		"【自】 絆／「かけがえのない友情 オットー」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「かけがえのない友情 オットー」を1枚選び、手札に戻す）"
+		"【永】 他のあなたのキャラが2枚以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】 絆／「かけがえのない友情 オットー」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「かけがえのない友情 オットー」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"死",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S116-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s116/rz_s116_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s116/rz_s116_091.png",
+	"tags": null,
+	"expansionId": 492
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "渡したいものが、ありますわ",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「人類への信頼の全て」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室の「希望の鍵」を1枚まで選び、手札に戻す。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「人類への信頼の全て」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の控え室の「希望の鍵」を1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"人類種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_057.png",
+	"tags": null,
+	"expansionId": 236
 }

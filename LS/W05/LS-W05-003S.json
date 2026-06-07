@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【起】［手札のクライマックスを1枚控え室に置き、このカードを【レスト】する］ あなたは自分のスタンドしているキャラを1枚選び、【レスト】する。そうしたら、あなたは自分の手札の自分のレベル以下のレベルでコスト2以下の、そのキャラと同じ特徴を1つ以上持つキャラを1枚選び、舞台の好きな枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"オタク",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-003S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_003s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_003s.png",
+	"tags": null,
+	"expansionId": 16
 }

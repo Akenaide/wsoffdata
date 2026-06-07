@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "かわいい…",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』",
-		"【自】 このカードがアタックした時、CX置場にCXがあり、他のあなたの《きんいろ》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
+		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』\u003cbr\u003e【自】 このカードがアタックした時、CX置場にCXがあり、他のあなたの《きんいろ》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"ツンデレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_097.png",
+	"tags": null,
+	"expansionId": 534
 }

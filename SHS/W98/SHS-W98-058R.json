@@ -8,24 +8,25 @@
 	"jpName": "彼はこれからもずっと私たちを追い続ける",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "詩羽「だって彼は、間違いなく、私たちに、恋をしてた……」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のトリガーアイコンに[SOUL]があるキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
+		"【自】 このカードが手札からクライマックス置場に置かれた時、あなたは自分の控え室のトリガーアイコンに[[soul.gif]]があるキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SHS/W98-058R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_058r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_058r.png",
+	"tags": null,
+	"expansionId": 391
 }

@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何者ざます！？　いまから大事な改造手術を始めるところなのに",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを2枚選び【レスト】する。2枚【レスト】したなら、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DG/S02-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_046.png",
+	"tags": null,
+	"expansionId": 5
 }

@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの後列の《PIXAR》のキャラ1枚につき、このカードのパワーを＋2500。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。",
-		"【自】【CXコンボ】 記憶 ［(1)］ 思い出置場にこのカードがあり、あなたのクライマックス置場に「ソウルフル・ワールド」が置かれた時、あなたのレベルが2以上なら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に置いてよい。"
+		"【永】 他のあなたの後列の《PIXAR》のキャラ1枚につき、このカードのパワーを＋2500。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。\u003cbr\u003e【自】【CXコンボ】 記憶 ［(1)］ 思い出置場にこのカードがあり、あなたのクライマックス置場に「ソウルフル・ワールド」が置かれた時、あなたのレベルが2以上なら、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に置いてよい。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S94-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s94/pxr_s94_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s94/pxr_s94_094.png",
+	"tags": null,
+	"expansionId": 403
 }

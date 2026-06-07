@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何って…あなたが用意したんでしょ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上からＸ枚を、控え室に置いてよい。Ｘはあなたの、《動物》か《植物》のキャラの枚数に等しい。",
-		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上からＸ枚を、控え室に置いてよい。Ｘはあなたの、《動物》か《植物》のキャラの枚数に等しい。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"風紀委員",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_036.png",
+	"tags": null,
+	"expansionId": 150
 }

@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"盆栽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-130SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_130sp_2.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_130sp_2.png",
+	"tags": null,
+	"expansionId": 194
 }

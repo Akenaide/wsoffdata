@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最後に先ほどの方々を引き入れれば\u003cbr\u003e無血で全勢力の取り込みが完成しましたのに",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《ゲーム》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"人類種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_058.png",
+	"tags": null,
+	"expansionId": 236
 }

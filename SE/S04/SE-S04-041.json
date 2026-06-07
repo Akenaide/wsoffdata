@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ほ～ら、ごらんなさい！アタシの魔法にかかれば、こんなもんよ",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_041.png",
+	"tags": null,
+	"expansionId": 14
 }

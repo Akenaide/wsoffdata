@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺の名前はさ、結弦。弦を結ぶって書いて、結弦",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《Anniversary》か《死》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"Anniversary",
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kab/W78-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kab_w78/kab_w78_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kab_w78/kab_w78_076.png",
+	"tags": null,
+	"expansionId": 296
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「わたしのたいせつなともだち」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+		"【自】 このカードがアタックした時、他のあなたの《音楽》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「わたしのたいせつなともだち」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Lyrical Lily"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DJ/S97-045S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_045s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_045s.png",
+	"tags": null,
+	"expansionId": 423
 }

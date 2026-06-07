@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ギアを纏う力はわたしが望んだモノじゃないけど、この力で、みんなを守りたいと望んだのは、わたしなんだから",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてがカード名に「マリア」か「セレナ」を含むなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W72-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w72/sg_w72_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w72/sg_w72_064.png",
+	"tags": null,
+	"expansionId": 275
 }

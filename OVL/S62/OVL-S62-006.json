@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《異形種》か《ナザリック》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「鋼の執事」があるなら、あなたは相手のキャラを1枚まで選び、手札に戻し、自分の控え室の《ナザリック》のキャラを1枚まで選び、ストック置場に置く。"
+		"【永】 あなたのターン中、他のあなたの、《異形種》か《ナザリック》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「鋼の執事」があるなら、あなたは相手のキャラを1枚まで選び、手札に戻し、自分の控え室の《ナザリック》のキャラを1枚まで選び、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"異形種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_006.png",
+	"tags": null,
+	"expansionId": 254
 }

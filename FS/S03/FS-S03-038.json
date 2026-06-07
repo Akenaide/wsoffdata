@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私はサクラを呼んできます",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_038.png",
+	"tags": null,
+	"expansionId": 7
 }

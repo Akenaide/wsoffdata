@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何のお願いにする？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《動物》のキャラを1枚選び、そのターン中、パワーを＋500。",
 		"【自】 絆／「“新たな絆”鈴」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“新たな絆”鈴」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"お菓子",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_063.png",
+	"tags": null,
+	"expansionId": 96
 }

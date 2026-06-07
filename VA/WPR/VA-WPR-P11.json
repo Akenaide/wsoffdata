@@ -15,7 +15,7 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "忙しいのはわかるけど、皆さん休んで！\u003cbr /\u003e残業しすぎる社員に注意する役目",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"ビジュアルアーツ",
 		"マネージャー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VA/WPR-P11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/va_wpr/va_wpr_p11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/va_wpr/va_wpr_p11.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この世界の運命は、私が護りますッ！",
+	"trigger": null,
 	"ability": [
 		"【自】 ［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“時の操手”キリエ」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
 		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"魔法",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-G17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_g17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_g17.png",
+	"tags": null,
+	"expansionId": 53
 }

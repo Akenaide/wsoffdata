@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "でも・・もしもママがまだ生きていたら・・あなたの好きな事をやりなさいって言ってくれると思うの",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたが自分の手札か舞台のキャラの【起】のコストを払うとき、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。",
 		"【自】 ［あなたの【スタンド】しているキャラを2枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
@@ -26,8 +26,9 @@
 		"魔法",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_028.png",
+	"tags": null,
+	"expansionId": 43
 }

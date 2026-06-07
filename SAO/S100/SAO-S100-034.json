@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "深澄「後ろで結んだらもっと可愛いわよ\u003cbr\u003eきっと似合うと思うな」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の、《Anniversary》か《プログレッシブ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】［あなたの山札の上から1枚をクロック置場に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+		"【自】 このカードがアタックした時、あなたは自分の、《Anniversary》か《プログレッシブ》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】［あなたの山札の上から1枚をクロック置場に置く］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"ネット",
 		"プログレッシブ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_034.png",
+	"tags": null,
+	"expansionId": 405
 }

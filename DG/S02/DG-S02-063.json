@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一つ貸しだからね！　 いつかキッチリ返してもらうから！",
+	"trigger": null,
 	"ability": [
 		"【自】このカードが手札から舞台に置かれた時、相手の控え室にクライマックスがないなら、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_063.png",
+	"tags": null,
+	"expansionId": 5
 }

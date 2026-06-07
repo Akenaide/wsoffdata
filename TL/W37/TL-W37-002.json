@@ -15,20 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "「…素敵▽」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《変身》か《家事》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《変身》か《家事》のキャラの枚数に等しい。"
+		"【永】 あなたのターン中、他のあなたの、《変身》か《家事》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《変身》か《家事》のキャラの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"変身",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_002.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_002.png",
+	"tags": null,
+	"expansionId": 150
 }

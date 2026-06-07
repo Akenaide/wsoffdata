@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だが レイモーンの民である事を恥じる事はない。\u003cbr\u003eどんな姿でもお前はお前なのだから",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
-		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの《冒険》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以上のキャラなら手札に加える。（そうでないなら元に戻す）"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、他のあなたの《冒険》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以上のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"冒険",
 		"ザ テンペスト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_081.png",
+	"tags": null,
+	"expansionId": 538
 }

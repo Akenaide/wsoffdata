@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "おじさんってば",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「お嬢様 四ノ宮キコル」がいないなら、あなたのすべての領域のトリガーアイコンが[CHOICE]を与える。",
-		"【永】 あなたのターン中、他のあなたの、《防衛隊》か《怪獣》のキャラすべてに、パワーを＋1000。"
+		"【永】 他のあなたの「お嬢様 四ノ宮キコル」がいないなら、あなたのすべての領域のトリガーアイコンが[[choice.gif]]のCXのトリガーアイコンに[[soul.gif]]を与える。\u003cbr\u003e【永】 あなたのターン中、他のあなたの、《防衛隊》か《怪獣》のキャラすべてに、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"防衛隊",
 		"エリート"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KJ8/S123-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_016.png",
+	"tags": null,
+	"expansionId": 525
 }

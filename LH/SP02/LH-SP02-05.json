@@ -15,8 +15,8 @@
 	"rarity": "PS",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なぜ戦乱を望むにゃ！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"コック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SP02-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_sp02/lh_sp02_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_sp02/lh_sp02_05.png",
+	"tags": null,
+	"expansionId": 165
 }

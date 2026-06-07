@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うふ▽ジョーダンですよぅ▽",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［手札の、《宇宙人》か《植物》のキャラを2枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ドキドキバスタイム”モモ」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_077.png",
+	"tags": null,
+	"expansionId": 150
 }

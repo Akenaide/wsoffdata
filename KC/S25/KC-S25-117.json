@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "木曾だ。お前に最高の勝利を与えてやる。",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"軽巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-117",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_117.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_117.png",
+	"tags": null,
+	"expansionId": 113
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…………",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に｢志貴｣を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"使い魔",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_003.png",
+	"tags": null,
+	"expansionId": 48
 }

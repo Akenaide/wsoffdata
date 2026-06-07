@@ -15,20 +15,20 @@
 	"rarity": "WIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "マジックアワー。流れる汗がキレイに見えた",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《音楽》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。",
-		"【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《音楽》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。\u003cbr\u003e【起】【カウンター】 助太刀3000 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋3000）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"アンティーカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-078WIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_078wir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_078wir.png",
+	"tags": null,
+	"expansionId": 332
 }

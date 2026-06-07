@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お祭りが始まりますわ",
+	"trigger": null,
 	"ability": [
 		"【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。",
 		"【永】 他のあなたの《怪盗》のキャラすべてに、パワーを＋500。",
@@ -26,8 +26,9 @@
 		"探偵",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE09-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se09/mk_se09_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se09/mk_se09_15.png",
+	"tags": null,
+	"expansionId": 62
 }

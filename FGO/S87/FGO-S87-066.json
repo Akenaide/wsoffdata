@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "066",
@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "我が王、我が主よ。今こそ、いえ今度こそ\u003cbr\u003eこの剣を、お返しします",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 前列にこのカードがいるなら、あなたの、《カルデア》か《キャメロット》のキャラすべてに、パワーを＋1500。",
-		"【自】【CXコンボ】［(4) 手札を2枚控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「剣を摂れ、銀色の腕」があり、他のあなたの、《カルデア》か《キャメロット》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを2回与え、このカードを思い出にする。（ダメージキャンセルは発生する）"
+		"【永】 前列にこのカードがいるなら、あなたの、《カルデア》か《キャメロット》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】【CXコンボ】［(4) 手札を2枚控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「剣を摂れ、銀色の腕」があり、他のあなたの、《カルデア》か《キャメロット》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを2回与え、このカードを思い出にする。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"キャメロット",
 		"遍歴の騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_066.png",
+	"tags": null,
+	"expansionId": 363
 }

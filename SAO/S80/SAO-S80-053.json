@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "我が前に立つ者は、骨すら残らず燃え尽きると知れッ！！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室の「整合騎士団長 ベルクーリ」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの、《整合騎士》か《貴族》のキャラが2枚以上なら、このカードのパワーを＋3000。",
-		"【自】 このカードが手札から舞台に置かれた時、相手のキャラすべてに、そのターン中、パワーを－1000。"
+		"【永】 あなたの控え室の「整合騎士団長 ベルクーリ」が2枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの、《整合騎士》か《貴族》のキャラが2枚以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、相手のキャラすべてに、そのターン中、パワーを－1000。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"整合騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_053.png",
+	"tags": null,
+	"expansionId": 318
 }

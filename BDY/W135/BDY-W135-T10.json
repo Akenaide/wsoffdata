@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの「“真夜中遊園地”千石ユノ」すべてに、パワーを＋2000。",
-		"【自】 絆／「“真夜中遊園地”千石ユノ」 ［(1)］ （このカードが、手札から舞台またはプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“真夜中遊園地”千石ユノ」を1枚選び、手札に戻す）"
+		"【永】 あなたのターン中、他のあなたの「“真夜中遊園地”千石ユノ」すべてに、パワーを＋2000。\u003cbr\u003e【自】 絆／「“真夜中遊園地”千石ユノ」 ［(1)］ （このカードが、手札から舞台またはプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“真夜中遊園地”千石ユノ」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"夢限大みゅーたいぷ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BDY/W135-T10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bdy_w135/bdy_w135_t10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bdy_w135/bdy_w135_t10.png",
+	"tags": null,
+	"expansionId": 543
 }

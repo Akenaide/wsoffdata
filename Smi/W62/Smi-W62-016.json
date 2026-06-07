@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "最終作戦決行だ。今度こそ、あの魔王を仕留める",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 他のあなたの、《スニーカー文庫》か《恩恵》のキャラ1枚につき、このカードのパワーを＋1000。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 他のあなたの、《スニーカー文庫》か《恩恵》のキャラ1枚につき、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"恩恵",
 		"神器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Smi/W62-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smi_w62/smi_w62_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smi_w62/smi_w62_016.png",
+	"tags": null,
+	"expansionId": 259
 }

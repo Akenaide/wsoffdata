@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ん？なに？ああ、キャロルか。そこら辺に置いてきた。今頃困っているだろうな",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《冒険者》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《冒険者》のキャラの枚数×500に等しい。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《冒険者》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《冒険者》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"剣術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_t12.png",
+	"tags": null,
+	"expansionId": 295
 }

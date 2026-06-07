@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ゆ…結城くん…？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「“料理を作ると吉”春菜」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 あなたのクライマックス置場に「予期せぬ事態」が置かれた時、他のあなたの前列のキャラが1枚以下なら、あなたは2枚まで引き、次の相手のターンの終わりまで、このカードのパワーを＋2500。"
+		"【永】 あなたのクロック置場に「“料理を作ると吉”春菜」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 あなたのクライマックス置場に「予期せぬ事態」が置かれた時、他のあなたの前列のキャラが1枚以下なら、あなたは2枚まで引き、次の相手のターンの終わりまで、このカードのパワーを＋2500。"
 	],
 	"specialAttrib": [
 		"スポーツ",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W42-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_085.png",
+	"tags": null,
+	"expansionId": 163
 }

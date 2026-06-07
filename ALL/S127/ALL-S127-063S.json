@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ミリアム「わしは幸せ、じゃな」",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを手札に戻す］ あなたのCXがCX置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下か控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S127-063S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_063s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s127/all_s127_063s.png",
+	"tags": null,
+	"expansionId": 541
 }

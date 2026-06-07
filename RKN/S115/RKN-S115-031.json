@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《明治剣客浪漫譚》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのトリガーアイコンが[SOUL]のCXがCX置場に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
+		"【永】 応援 このカードの前のあなたの《明治剣客浪漫譚》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[soul.gif]][[soul.gif]]のCXがCX置場に置かれた時、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"剣士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_031.png",
+	"tags": null,
+	"expansionId": 479
 }

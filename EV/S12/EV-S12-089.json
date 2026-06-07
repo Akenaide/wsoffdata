@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "３年ぶりの対面か……",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
 		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_089.png",
+	"tags": null,
+	"expansionId": 49
 }

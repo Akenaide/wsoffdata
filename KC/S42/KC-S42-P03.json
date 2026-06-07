@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さぁ、行きましょう！やるわよー！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《艦娘》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"重巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_p03.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《動物》か《霊》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"スポーツ",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W42-083S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_083s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_083s.png",
+	"tags": null,
+	"expansionId": 163
 }

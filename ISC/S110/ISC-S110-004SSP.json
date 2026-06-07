@@ -15,20 +15,20 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋1000。",
-		"【自】 経験 ［(2) 手札を1枚控え室に置く］ このカードがアタックした時、あなたのレベル置場のカードの持つ色の合計が3色以上で、他のあなたのキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを2回与える。』『相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
+		"【永】 あなたのキャラすべてが《音楽》なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 経験 ［(2) 手札を1枚控え室に置く］ このカードがアタックした時、あなたのレベル置場のカードの持つ色の合計が3色以上で、他のあなたのキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『相手に1ダメージを2回与える。』『相手に3ダメージを与える。』（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"イルミネーションスターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-004SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_004ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_004ssp.png",
+	"tags": null,
+	"expansionId": 468
 }

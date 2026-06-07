@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……なんなのよ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、相手の控え室にクライマックスがないなら、あなたは自分の控え室のカードを1枚選び、ストック置場に置いてよい。"
+		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、相手の控え室にクライマックスがないなら、あなたは自分の控え室のカードを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"キズナ",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KI/S44-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_036.png",
+	"tags": null,
+	"expansionId": 177
 }

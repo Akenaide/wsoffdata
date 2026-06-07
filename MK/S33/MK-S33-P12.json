@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "とろとろどんどんゲーム！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「探偵歌劇上演！」があるなら、あなたは自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-P12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_p12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_p12.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 この能力は1ターンにつき3回まで発動する。他のあなたのカード名に「スバル」を含むキャラが舞台から控え室に置かれた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 この能力は1ターンにつき3回まで発動する。他のあなたのカード名に「スバル」を含むキャラが舞台から控え室に置かれた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"魔女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S116-020S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s116/rz_s116_020s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s116/rz_s116_020s.png",
+	"tags": null,
+	"expansionId": 492
 }

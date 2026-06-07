@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"メルヴァニア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSK/SE44-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsk_se44/rsk_se44_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

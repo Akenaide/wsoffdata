@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "それが“必然”なら、あなたがたは\u003cbr /\u003eここで為すべきことがあるのでしょう",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"魔法",
 		"保健室"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PQ/SE21-24",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pq_se21/pq_se21_24.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pq_se21/pq_se21_24.png",
+	"tags": null,
+	"expansionId": 125
 }

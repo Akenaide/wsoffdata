@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えっと、気をつけてね",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのクロックが0枚なら、このカードはアタックできない。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
+		"【永】 あなたのクロックが0枚なら、このカードはアタックできない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_065.png",
+	"tags": null,
+	"expansionId": 196
 }

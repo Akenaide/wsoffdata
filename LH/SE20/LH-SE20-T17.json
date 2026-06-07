@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "エンチャンターの攻撃力は弱い。\u003cbr /\u003eだが、敵の攻撃を阻害、味方の力を増幅することが出来る",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"魔法",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-T17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_t17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_t17.png",
+	"tags": null,
+	"expansionId": 112
 }

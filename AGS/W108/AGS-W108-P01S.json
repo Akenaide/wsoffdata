@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "凄いスゴイ！",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の《アリスギア》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 あなたのトリガーアイコンが[COMEBACK]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の《アリスギア》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[salvage.gif]]のクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
 	"specialAttrib": [
 		"アリスギア",
 		"アクトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AGS/W108-P01S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_p01s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ags_w108/ags_w108_p01s.png",
+	"tags": null,
+	"expansionId": 12
 }

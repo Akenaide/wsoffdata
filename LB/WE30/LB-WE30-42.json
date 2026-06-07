@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "理樹「え、なに？ 恭介？」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の山札を見てカード名に「棗」か「恭介」か「直枝」か「理樹」を含むキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/WE30-42",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we30/lb_we30_42.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we30/lb_we30_42.png",
+	"tags": null,
+	"expansionId": 222
 }

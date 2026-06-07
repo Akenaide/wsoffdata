@@ -15,20 +15,20 @@
 	"rarity": "LRP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。",
-		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、他のあなたの、《リコリコ》か《武器》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、他のあなたの、《リコリコ》か《武器》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"リコリコ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/WE47-10LRP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_10lrp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_we47/lrc_we47_10lrp.png",
+	"tags": null,
+	"expansionId": 491
 }

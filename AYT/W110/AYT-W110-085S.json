@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、あなたのクロック置場に「トクベツな関係 すず」があるなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。』（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"小美呼市",
 		"妖巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AYT/W110-085S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_085s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ayt_w110/ayt_w110_085s.png",
+	"tags": null,
+	"expansionId": 452
 }

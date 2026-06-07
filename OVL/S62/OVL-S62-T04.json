@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いただきまーす",
+	"trigger": null,
 	"ability": [
 		"【自】バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】アンコール』を使えない。（ルールによる『【自】アンコール ［(3)］』も使えない）"
 	],
@@ -24,8 +24,9 @@
 		"人間種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_t04.png",
+	"tags": null,
+	"expansionId": 253
 }

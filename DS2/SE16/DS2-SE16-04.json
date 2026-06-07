@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺の仕事はな……悪魔狩りや",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手でレベル1以上のキャラが【リバース】した時、あなたは自分の山札を見て《サマナー》のキャラを1枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、控え室に置き、その山札をシャッフルする。』"
 	],
@@ -24,8 +24,9 @@
 		"サマナー",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS2/SE16-04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds2_se16/ds2_se16_04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds2_se16/ds2_se16_04.png",
+	"tags": null,
+	"expansionId": 104
 }

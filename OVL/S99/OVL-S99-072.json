@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……さようならだ、ガゼフ・ストロノーフ。\u003cbr\u003e嫌いではなかったぞ",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの、《異形種》か《ナザリック》のキャラがいないなら、手札からプレイできない。",
-		"あなたは相手のレベル3以下のキャラを1枚選び、控え室に置く。"
+		"このカードは、あなたの、《異形種》か《ナザリック》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは相手のレベル3以下のキャラを1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "OVL/S99-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s99/ovl_s99_072.png",
+	"tags": null,
+	"expansionId": 404
 }

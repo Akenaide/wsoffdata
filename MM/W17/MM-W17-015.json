@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まいったなぁ……まだまだちゃんと\u003cbr /\u003e先輩ぶってなきゃいけないのになぁ……\u003cbr /\u003eやっぱり私、駄目な子だ…",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"お茶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_015.png",
+	"tags": null,
+	"expansionId": 74
 }

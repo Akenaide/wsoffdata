@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "このまま精進を続け、いつの日か必ず聖剣を使いこなしてみせましょう",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下に表向きのマーカーがあるなら、このカードのパワーを＋2000。",
-		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《冒険者》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 このカードの下に表向きのマーカーがあるなら、このカードのパワーを＋2000。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《冒険者》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_t13.png",
+	"tags": null,
+	"expansionId": 295
 }

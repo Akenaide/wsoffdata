@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "絵本をかこう。野球もしよう。あまいもの食べて、\u003cbr /\u003e小次郎おじいちゃんにも会いに行こう",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"お菓子",
 		"童話"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_016.png",
+	"tags": null,
+	"expansionId": 96
 }

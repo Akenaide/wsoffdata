@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "き、きっと何とかなります……！よね……？",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。』（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"シスターフッド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_009.png",
+	"tags": null,
+	"expansionId": 460
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "グラーフアイゼン・ロード、カートリッジ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時か「闇の書覚醒」の効果で舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《魔法》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W32-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w32/n2_w32_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w32/n2_w32_064.png",
+	"tags": null,
+	"expansionId": 127
 }

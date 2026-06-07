@@ -15,19 +15,19 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あなたの～♪ テレビに～♪ 時価ネットたなか～♪",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがプレイされて舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。",
-		"【起】［(2) このカードを【レスト】する］ あなたはこのカードを手札に戻す。"
+		"【自】 このカードがプレイされて舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたはこのカードを手札に戻す。"
 	],
 	"specialAttrib": [
 		"テレビ通販"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_010.png",
+	"tags": null,
+	"expansionId": 340
 }

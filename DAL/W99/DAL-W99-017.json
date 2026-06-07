@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの、《デート》か《精霊》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"デート",
 		"ラタトスク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W99-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w99/dal_w99_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w99/dal_w99_017.png",
+	"tags": null,
+	"expansionId": 396
 }

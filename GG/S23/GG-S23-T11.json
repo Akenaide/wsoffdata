@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今はこれが最善だ",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ あなたのクライマックス置場に「海賊迎撃」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、山札の下に置く。"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_t11.png",
+	"tags": null,
+	"expansionId": 89
 }

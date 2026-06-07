@@ -15,23 +15,21 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《Pastel＊Palettes》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【起】【CXコンボ】 経験 ［このカードを控え室に置く］ あなたのレベル置場に「“朝焼けに包まれて”丸山彩」があるなら、あなたは自分の控え室の「イベント前のワクワク」を1枚選び、手札に戻す。"
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 あなたのターン中、他のあなたの、《Anniversary》か《Pastel＊Palettes》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【起】【CXコンボ】 経験 ［このカードを控え室に置く］ あなたのレベル置場に「“朝焼けに包まれて”丸山彩」があるなら、あなたは自分の控え室の「イベント前のワクワク」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE42-P15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_p15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we42/bd_we42_p15.png",
+	"tags": null,
+	"expansionId": 442
 }

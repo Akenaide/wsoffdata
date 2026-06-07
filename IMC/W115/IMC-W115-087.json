@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "実はわたくしも今夜はまだ眠くありませんの。だって、パジャマパーティーにはぴったりの夜ですものね♪",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋4000。",
-		"【自】 このカードがダイレクトアタックした時、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋4000。\u003cbr\u003e【自】 このカードがダイレクトアタックした時、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_087.png",
+	"tags": null,
+	"expansionId": 477
 }

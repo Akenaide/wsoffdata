@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じゃあ……、ちゃんと戦わないと",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「誰も信用しない 千石撫子」を1枚選び、このカードがいた枠に防御キャラとして置く。"
 	],
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_090.png",
+	"tags": null,
+	"expansionId": 159
 }

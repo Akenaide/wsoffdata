@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はやての未来を汚したくないから、人殺しはしねえ…\u003cbr\u003eだけどそれ以外なら！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが5枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W32-121",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w32/n2_w32_121.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w32/n2_w32_121.png",
+	"tags": null,
+	"expansionId": 127
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "チノ「音楽会の……、合唱のソロパートに選ばれてしまいました……」",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の、青か《ラビットハウス》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の、青か《ラビットハウス》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"Sing For You"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W94-073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w94/gu_w94_073.png",
+	"tags": null,
+	"expansionId": 374
 }

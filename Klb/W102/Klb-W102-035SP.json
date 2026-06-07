@@ -15,19 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W102-035SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/klb_w102_035sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/klb_w102_035sp.png",
+	"tags": null,
+	"expansionId": 406
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日のあたしなんかイケてるかも、ふふっ♪",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ノッカーアップ》のキャラすべてに、パワーを＋500。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の、《ノッカーアップ》のキャラか「カフェで自撮り」を1枚選び、手札に戻す。「カフェで自撮り」を手札に戻したなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの《ノッカーアップ》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の、《ノッカーアップ》のキャラか「カフェで自撮り」を1枚選び、手札に戻す。「カフェで自撮り」を手札に戻したなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ノッカーアップ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DCT/S86-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dct_s86/dct_s86_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dct_s86/dct_s86_059.png",
+	"tags": null,
+	"expansionId": 387
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私にだって出来ること、きっとあると思うから",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが5枚以上なら、このカードのパワーを＋1000。",
 		"【自】 あなたのクライマックス置場に「コノハナサクヤ発動」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の「自称特別捜査隊 雪子」を1枚選び、舞台の好きな枠に置いてよい。"
@@ -25,8 +25,9 @@
 		"扇子",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_21.png",
+	"tags": null,
+	"expansionId": 75
 }

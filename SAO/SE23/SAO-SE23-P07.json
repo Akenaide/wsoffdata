@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お兄ちゃん、これ見て",
+	"trigger": null,
 	"ability": [
 		"【自】  あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE23-P07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se23/sao_se23_p07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se23/sao_se23_p07.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "翠「ふふ。義之くんっていい子ね」\u003cbr /\u003e茜「でしょでしょ？　私が選んだ人だもん。当たり前です」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの特徴を持たないキャラすべてに、パワーを＋500。",
 		"【永】 あなたが自分の手札か舞台のキャラの【起】のコストを払う時、このカードの下のマーカーを、ストック1枚のかわりに控え室に置いてよい。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W23-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w23/dc_w23_033.png",
+	"tags": null,
+	"expansionId": 90
 }

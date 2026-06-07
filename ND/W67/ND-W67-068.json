@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰かが死んじゃうのはよくないことなんでしょ？フェイトがそう言った",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「我等が渾身の恩返し」があるなら、あなたは自分の山札を見て《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_068.png",
+	"tags": null,
+	"expansionId": 268
 }

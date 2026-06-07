@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おお、君は、松明に輝き方を教えている――儚いね",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「“うれしい変化だね”松原花音」がいるなら、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-T67",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_t67.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_t67.png",
+	"tags": null,
+	"expansionId": 230
 }

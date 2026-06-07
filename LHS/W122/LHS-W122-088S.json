@@ -15,17 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、CX置場と控え室の、トリガーアイコンが[CHOICE]のCXと「眩耀夜行」の枚数の合計×1000に等しい。"
+		"【自】【CXコンボ】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、CX置場と控え室の、トリガーアイコンが[[choice.gif]]のCXと「眩耀夜行」の枚数の合計×1000に等しい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"スリーズブーケ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LHS/W122-088S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_088s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lhs_w122/lhs_w122_088s.png",
+	"tags": null,
+	"expansionId": 502
 }

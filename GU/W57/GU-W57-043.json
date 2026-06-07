@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もっと早く、袋詰め3秒目標にっ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたはこのカードの下の裏向きのマーカーを1枚選び、公開する。あなたの控え室にそのカードと同じカード名のカードがあるなら、あなたはそのマーカーを手札に戻す。（そうでないなら元に戻す）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、あなたはこのカードの下の裏向きのマーカーを1枚選び、公開する。あなたの控え室にそのカードと同じカード名のカードがあるなら、あなたはそのマーカーを手札に戻す。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"パン",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W57-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w57/gu_w57_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w57/gu_w57_043.png",
+	"tags": null,
+	"expansionId": 221
 }

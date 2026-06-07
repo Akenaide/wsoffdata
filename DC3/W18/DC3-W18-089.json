@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "その俺が断言するのだ。それを信じろ。\u003cbr /\u003e貴様なら、この危機的状況を切り抜けられる！",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"新聞"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W18-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_089.png",
+	"tags": null,
+	"expansionId": 78
 }

@@ -1,6 +1,6 @@
 {
 	"set": "ISC",
-	"setName": "[TD+]アイドルマスター シャイニーカラーズ 283プロ イルミネーションスターズ",
+	"setName": "[TD+]アイドルマスター シャイニーカラーズ 283プロ イルミネーションスターズ  ",
 	"side": "S",
 	"release": "81",
 	"id": "T003",
@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これから仕事だというのに\u003cbr\u003e気が緩んでいますよ！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「イルミネーションスターズ」があり、他のあなたの《音楽》のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"イルミネーションスターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-T003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_t003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_t003.png",
+	"tags": null,
+	"expansionId": 326
 }

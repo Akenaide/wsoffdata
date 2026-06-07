@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……あれ？",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下のマーカーが2枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。』を得る。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、控え室とマーカー置場の表向きの「命の危機 リムル」すべてを、このカードの下に好きな順番でマーカーとして表向きに置く。"
+		"【永】 このカードの下のマーカーが2枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。』を得る。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の、控え室とマーカー置場の表向きの「命の危機 リムル」すべてを、このカードの下に好きな順番でマーカーとして表向きに置く。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"秘書"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S82-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s82/tsk_s82_021c.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s82/tsk_s82_021c.png",
+	"tags": null,
+	"expansionId": 333
 }

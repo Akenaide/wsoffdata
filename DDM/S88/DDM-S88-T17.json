@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "君はダンジョンに夢を見すぎだよ",
+	"trigger": null,
 	"ability": [
-		"このカードを思い出にする。",
-		"【自】 記憶 ［手札の、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを1枚控え室に置き、このカードを手札に戻す］ あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを4枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"このカードを思い出にする。\u003cbr\u003e【自】 記憶 ［手札の、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを1枚控え室に置き、このカードを手札に戻す］ あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを4枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DDM/S88-T17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_t17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddm_s88/ddm_s88_t17.png",
+	"tags": null,
+	"expansionId": 364
 }

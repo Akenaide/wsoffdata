@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そう……異世界からやってきたカワイイ小動物と契約して\u003cbr\u003eあたしは運命に立ち向かう魔法少女に……",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-110",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_110.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_110.png",
+	"tags": null,
+	"expansionId": 162
 }

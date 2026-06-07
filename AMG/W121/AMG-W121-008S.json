@@ -15,19 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[CHOICE]のCX1枚につき、あなたは自分の山札を見て《縁》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[[choice.gif]]のCX1枚につき、あなたは自分の山札を見て《縁》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"縁",
 		"幼馴染"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AMG/W121-008S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_008s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/amg_w121/amg_w121_008s.png",
+	"tags": null,
+	"expansionId": 512
 }

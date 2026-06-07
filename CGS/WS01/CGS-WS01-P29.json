@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Come play card games with me!",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台にこのカードがいるなら、このカードは色をすべて失い、色を得ない。",
-		"【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。"
+		"【永】 舞台にこのカードがいるなら、このカードは色をすべて失い、色を得ない。\u003cbr\u003e【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"カードゲーム",
 		"カートゥーン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CGS/WS01-P29",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cgs_ws01/cgs_ws01_p29.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cgs_ws01/cgs_ws01_p29.png",
+	"tags": null,
+	"expansionId": 11
 }

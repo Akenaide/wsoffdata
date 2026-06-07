@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「期待の一年生エース マト」1枚につき、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BR/SE06-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/br_se06/br_se06_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/br_se06/br_se06_27.png",
+	"tags": null,
+	"expansionId": 51
 }

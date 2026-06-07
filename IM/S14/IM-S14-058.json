@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああ、プロデューサーさんが、あんなことや\u003cbr /\u003eこんなことを…。ふふ、ふふふっ……！",
+	"trigger": null,
 	"ability": [
 		"【自】 記憶 他のあなたのバトル中のキャラが【リバース】した時、あなたの思い出置場にイベントがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_058.png",
+	"tags": null,
+	"expansionId": 64
 }

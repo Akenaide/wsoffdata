@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おじさん、撫子の話し相手になってよ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
-		"【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場に「“前髪娘”千石撫子」があるなら、あなたは自分のレベル1以上のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。\u003cbr\u003e【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場に「“前髪娘”千石撫子」があるなら、あなたは自分のレベル1以上のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"怪異",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_003.png",
+	"tags": null,
+	"expansionId": 159
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おはようございます、咲太さん",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
 	],
@@ -24,8 +24,9 @@
 		"思春期",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_042.png",
+	"tags": null,
+	"expansionId": 261
 }

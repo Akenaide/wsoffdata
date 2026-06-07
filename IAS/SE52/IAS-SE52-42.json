@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いま練習してる曲、苦手なんだよね……うう、早めに行って、自主練した方がいいかも。よしっ\u003cbr\u003e",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 あなたは自分の「I\u0026#39;m yours　天海春香」を1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－3。』"
+		"【カウンター】 あなたは自分の「I'm yours　天海春香」を1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－3。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IAS/SE52-42",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_se52/ias_se52_42.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_se52/ias_se52_42.png",
+	"tags": null,
+	"expansionId": 522
 }

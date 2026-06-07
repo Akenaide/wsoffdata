@@ -15,22 +15,21 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ありがとう",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの「共に明日へ ミト」すべてに、パワーを＋1000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』",
-		"【永】 他のあなたの、《Anniversary》か《プログレッシブ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。"
+		"【永】 あなたのターン中、他のあなたの「共に明日へ ミト」すべてに、パワーを＋1000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』\u003cbr\u003e【永】 他のあなたの、《Anniversary》か《プログレッシブ》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"プログレッシブ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_007.png",
+	"tags": null,
+	"expansionId": 405
 }

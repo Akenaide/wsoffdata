@@ -15,7 +15,7 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お別れであります！\u003cbr /\u003e行きます、ファイナルブレイク！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"メカ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE15-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se15/p4_se15_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se15/p4_se15_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

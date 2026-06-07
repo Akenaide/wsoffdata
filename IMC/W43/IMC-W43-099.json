@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "挑戦するのは楽しいから",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの【スタンド】している《音楽》のキャラを1枚【レスト】する］ あなたのクライマックス置場に「この空の下」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「決意を受けて 美波」か「変わるために アナスタシア」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"闇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-099",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_099.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_099.png",
+	"tags": null,
+	"expansionId": 167
 }

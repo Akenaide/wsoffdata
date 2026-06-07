@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Psyche up！　小十郎、ついて来い！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「“竜の右目”片倉 小十郎」がいるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_078.png",
+	"tags": null,
+	"expansionId": 28
 }

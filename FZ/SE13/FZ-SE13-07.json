@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…ありがとうセイバー。あなたのお陰で、生き残れた",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「セイバー」を含むキャラがいるなら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"ホムンクルス",
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/SE13-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_se13/fz_se13_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_se13/fz_se13_07.png",
+	"tags": null,
+	"expansionId": 73
 }

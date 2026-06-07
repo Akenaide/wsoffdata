@@ -15,8 +15,8 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よしっ、それじゃ……レッツダンシング！",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが2以上なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ダンス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-117BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_117bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_117bnp.png",
+	"tags": null,
+	"expansionId": 251
 }

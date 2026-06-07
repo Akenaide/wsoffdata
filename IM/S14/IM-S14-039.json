@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "亜美のメチャイケパワー、\u003cbr /\u003eちょっとだけ、わけてあげるね！",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場に「どっとっぷTV」があるなら、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
 		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_039.png",
+	"tags": null,
+	"expansionId": 64
 }

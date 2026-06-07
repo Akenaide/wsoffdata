@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これでも銃の扱いには一家言ありますのよ？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《デート》か《精霊》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W79-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_069.png",
+	"tags": null,
+	"expansionId": 302
 }

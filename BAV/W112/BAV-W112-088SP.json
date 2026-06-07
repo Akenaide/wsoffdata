@@ -15,20 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
-		"【起】【CXコンボ】［このカードを【レスト】する］ あなたは自分の山札を見てクライマックスを1枚まで選んで公開し、自分の控え室の「便利屋68」を1枚選び、それらのクライマックスを入れ替え、その山札をシャッフルし、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。\u003cbr\u003e【起】【CXコンボ】［このカードを【レスト】する］ あなたは自分の山札を見てクライマックスを1枚まで選んで公開し、自分の控え室の「便利屋68」を1枚選び、それらのクライマックスを入れ替え、その山札をシャッフルし、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"便利屋68"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-088SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_088sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_088sp.png",
+	"tags": null,
+	"expansionId": 460
 }

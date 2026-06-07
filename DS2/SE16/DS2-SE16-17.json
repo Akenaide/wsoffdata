@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我々は……誰も犠牲になどしない",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
@@ -24,8 +24,9 @@
 		"サマナー",
 		"警察"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS2/SE16-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds2_se16/ds2_se16_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds2_se16/ds2_se16_17.png",
+	"tags": null,
+	"expansionId": 104
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あおいパプリスが、\u003cbr/\u003eいっちばんかわいいでしょー！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-124",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_124.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_124.png",
+	"tags": null,
+	"expansionId": 13
 }

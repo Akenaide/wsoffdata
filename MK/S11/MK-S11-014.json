@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "物理的に断線してる…コントロールできないよ…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《探偵》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_014.png",
+	"tags": null,
+	"expansionId": 50
 }

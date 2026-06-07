@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日はおもいっきり楽しませてもらうね！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアンコールステップの始めに、クライマックス置場に「夢のような景色」があるなら、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「帰ってきた学園長 さくら」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋3500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/WE20-11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we20/dc_we20_11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we20/dc_we20_11.png",
+	"tags": null,
+	"expansionId": 123
 }

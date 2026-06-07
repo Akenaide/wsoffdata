@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《PIXAR》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《PIXAR》のキャラの枚数×500に等しい。",
-		"【自】 このカードがアタックした時、他のあなたの《PIXAR》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《PIXAR》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《PIXAR》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《PIXAR》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S122-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s122/pxr_s122_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s122/pxr_s122_016.png",
+	"tags": null,
+	"expansionId": 523
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "このお椀とマグカップ、大切にするわね",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの控え室の、《Anniversary》か《Pastel＊Palettes》のキャラを1枚クロック置場の下に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から2枚まで見て、《Anniversary》か《Pastel＊Palettes》のキャラか「SNS映え？」を2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -25,8 +25,9 @@
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_067.png",
+	"tags": null,
+	"expansionId": 382
 }

@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最初にやった時〝かわいい〟って言ってもらえたのが嬉しくってね～　",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《双子》のキャラの枚数×500に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LS/W05-T07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_t07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_t07.png",
+	"tags": null,
+	"expansionId": 15
 }

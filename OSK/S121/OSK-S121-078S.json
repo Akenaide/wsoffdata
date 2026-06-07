@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "知ってるのはそれだけじゃないよ？……この場所だ",
+	"trigger": null,
 	"ability": [
 		"【自】［他のあなたの舞台のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てCXを1枚まで選んで公開し、自分の手札のCXを1枚まで選んで公開し、それらのCXを入れ替え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"芸能界",
 		"女優"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OSK/S121-078S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s121/osk_s121_078s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/osk_s121/osk_s121_078s.png",
+	"tags": null,
+	"expansionId": 504
 }

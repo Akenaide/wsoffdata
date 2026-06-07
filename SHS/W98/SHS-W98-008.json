@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "それは、あんたが根暗で、性格悪くて、策士で……\u003cbr\u003eなのに頼りになって、実は優しいからに決まってるじゃない",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 あなたの思い出置場の《ゲーム》のキャラが2枚以上なら、このカードのパワーを＋4000。",
-		"【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+		"【永】 記憶 あなたの思い出置場の《ゲーム》のキャラが2枚以上なら、このカードのパワーを＋4000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_008.png",
+	"tags": null,
+	"expansionId": 391
 }

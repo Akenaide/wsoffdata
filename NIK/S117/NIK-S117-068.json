@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "舞台の上の俳優は誰よりも孤独なものよ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《NIKKE》のキャラすべてに、パワーを＋500。",
-		"【起】［あなたの《NIKKE》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 他のあなたの《NIKKE》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［あなたの《NIKKE》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"プリマドンナ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_068.png",
+	"tags": null,
+	"expansionId": 494
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それから、こっちは隠し味に\u003cbr /\u003eバルサミコ酢とゆず胡椒を少々……",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/WE08-80",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we08/dc_we08_80.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we08/dc_we08_80.png",
+	"tags": null,
+	"expansionId": 12
 }

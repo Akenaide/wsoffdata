@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今頃、レベッカから連絡を受けている頃でしょうね。\u003cbr /\u003eそれに、私の手紙も……",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"炎",
 		"神器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE15-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we15/ss_we15_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we15/ss_we15_23.png",
+	"tags": null,
+	"expansionId": 83
 }

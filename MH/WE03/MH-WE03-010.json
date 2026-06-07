@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "舞衣「行くわよ！アリカちゃん」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手は0か1か2か3を宣言する。あなたは自分の山札の上から1枚を公開し、そのカードが相手の宣言したレベルのキャラなら、舞台のいずれかの枠に置く。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"エレメント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MH/WE03-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mh_we03/mh_we03_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mh_we03/mh_we03_010.png",
+	"tags": null,
+	"expansionId": 23
 }

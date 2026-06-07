@@ -15,19 +15,19 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「飲酒配信 シュワちゃん」1枚につき、このカードのソウルを＋1。",
-		"【自】 チェンジ ［このカードを控え室に置く］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「清楚配信 淡雪」を1枚選び、このカードがいた枠に置く。（CXフェイズの始めにこのカードがいないなら発動しない）"
+		"【永】 他のあなたの「飲酒配信 シュワちゃん」1枚につき、このカードのソウルを＋1。\u003cbr\u003e【自】 チェンジ ［このカードを控え室に置く］ あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「清楚配信 淡雪」を1枚選び、このカードがいた枠に置く。（CXフェイズの始めにこのカードがいないなら発動しない）"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"ライブオン",
 		"酒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fvd/W120-120SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fvd_w120/fvd_w120_120sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fvd_w120/fvd_w120_120sp.png",
+	"tags": null,
+	"expansionId": 489
 }

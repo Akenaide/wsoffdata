@@ -1,6 +1,6 @@
 {
 	"set": "SAO",
-	"setName": "ソードアート・オンラインⅡ Vol.2",
+	"setName": " ソードアート・オンラインⅡ Vol.2",
 	"side": "S",
 	"release": "E26",
 	"id": "01",
@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やるだけやってみましょうか",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「ユウキ」か「スリーピング・ナイツ」を含むキャラがいるなら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE26-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se26/sao_se26_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se26/sao_se26_01.png",
+	"tags": null,
+	"expansionId": 146
 }

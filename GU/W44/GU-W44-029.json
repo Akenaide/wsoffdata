@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シャロちゃんが、こんなチラシを持ってきて…",
+	"trigger": null,
 	"ability": [
 		"あなたの控え室のクライマックスが4枚以上なら、あなたの、「お嬢様気質 シャロ」と「“うさみみパーカー”千夜」すべてに、そのターン中、パワーを＋3500し、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードに黄のカードと緑のカードがあるなら、あなたは相手に1ダメージを与えてよい。』（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GU/W44-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_029.png",
+	"tags": null,
+	"expansionId": 174
 }

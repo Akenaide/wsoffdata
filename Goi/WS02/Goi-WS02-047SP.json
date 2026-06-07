@@ -15,21 +15,21 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "桐乃「いままでずっと、あたしのワガママを聞いてくれて、ありがとう」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクライマックス置場にトリガーアイコンが[TREASURE]を与える。",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+		"【永】 あなたのクライマックス置場にトリガーアイコンが[[treasure.gif]]のクライマックスがあるなら、他のあなたのすべての領域の「人生相談 桐乃」のトリガーアイコンに[[treasure.gif]]を与える。\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"ゲーム",
 		"モデル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Goi/WS02-047SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/goi_ws02_047sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/goi_ws02_047sp.png",
+	"tags": null,
+	"expansionId": 439
 }

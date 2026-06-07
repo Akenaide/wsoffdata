@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時か「アナスタシア」の【自】の効果で舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_087.png",
+	"tags": null,
+	"expansionId": 151
 }

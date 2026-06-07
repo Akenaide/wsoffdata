@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "君がキミを忘れるまで\u003cbr\u003e",
+	"trigger": null,
 	"ability": [
-		"【永】 前列の中央の枠にこのカードがいるなら、このカードのレベルを＋1し、パワーを＋2500。",
-		"【永】 前列の中央の枠にこのカードがいるなら、他のあなたのレベル0以下のキャラすべてに、パワーを＋1000。"
+		"【永】 前列の中央の枠にこのカードがいるなら、このカードのレベルを＋1し、パワーを＋2500。\u003cbr\u003e【永】 前列の中央の枠にこのカードがいるなら、他のあなたのレベル0以下のキャラすべてに、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"アンティーカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_074.png",
+	"tags": null,
+	"expansionId": 468
 }

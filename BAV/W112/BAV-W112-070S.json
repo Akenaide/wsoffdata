@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ほら、先生？こっちに来てください。\u003cbr\u003e……私をこんな風にした責任、取ってくれますよね？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「朝比奈フィーナ」を1枚選び、舞台の好きな枠に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「朝比奈フィーナ」を1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"お祭り運営委員会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-070S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_070s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_070s.png",
+	"tags": null,
+	"expansionId": 460
 }

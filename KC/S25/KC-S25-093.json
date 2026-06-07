@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はじめまして、龍田だよ。\u003cbr /\u003e天龍ちゃんがご迷惑かけてないかなぁ。",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「そう来なくっちゃな、抜錨だっ！」が置かれた時、あなたはこのカードの下のマーカーを1枚ストック置場に置いてよい。",
 		"【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の控え室の《艦娘》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置く。",
@@ -26,8 +26,9 @@
 		"艦娘",
 		"軽巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_093.png",
+	"tags": null,
+	"expansionId": 113
 }

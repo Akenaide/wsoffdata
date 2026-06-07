@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "LA「Schlangebei\u0026#946;en! Angriff!」",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置き、あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のレベル0以下の《魔法》のキャラを1枚選び、舞台の好きな枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_016.png",
+	"tags": null,
+	"expansionId": 94
 }

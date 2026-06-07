@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "エルザ「術者が敵と認識したものだけを討つ\u003cbr /\u003eもはや伝説の一つに数えられる超魔法だ」",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの思い出が2枚以下なら、手札からプレイできない。",
 		"あなたは相手の前列のレベル2以下のキャラを3枚まで選び、ストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FT/S09-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_022.png",
+	"tags": null,
+	"expansionId": 43
 }

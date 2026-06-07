@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"フラクトライト",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_009.png",
+	"tags": null,
+	"expansionId": 318
 }

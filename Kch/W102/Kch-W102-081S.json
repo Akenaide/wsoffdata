@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。",
-		"【自】【クロック】 アラーム ［(1) 手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
+		"【自】 相手のアタックフェイズの始めに、このカードの正面に相手のキャラがいるなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。\u003cbr\u003e【自】【クロック】 アラーム ［(1) 手札を1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"能力者",
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kch/W102-081S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/kch_w102_081s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/kch_w102_081s.png",
+	"tags": null,
+	"expansionId": 406
 }

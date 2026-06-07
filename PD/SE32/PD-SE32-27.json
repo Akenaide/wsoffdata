@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "凍りついた世界に新しい風が吹く\u003cbr\u003e時計の針はもう動き出すから　今すぐに走り出せ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「卑怯」を含むキャラが2枚以上なら、このカードはサイドアタックしてもソウルが減少しない。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+		"【永】 他のあなたのカード名に「卑怯」を含むキャラが2枚以上なら、このカードはサイドアタックしてもソウルが減少しない。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ヒーロー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/SE32-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_se32/pd_se32_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_se32/pd_se32_27.png",
+	"tags": null,
+	"expansionId": 211
 }

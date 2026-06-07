@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふたりとも、なんか通じ合ってる感じね……",
+	"trigger": null,
 	"ability": [
 		"【自】［他のあなたの【スタンド】している《音楽》のキャラを1枚【レスト】する］ このカードがアタックした時、クライマックス置場に「駆け抜ける小鳥さん」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の、コスト1以下の《音楽》のキャラか「取材記者 善澤」を1枚まで選び、思い出にし、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそのキャラを、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_017.png",
+	"tags": null,
+	"expansionId": 129
 }

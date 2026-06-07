@@ -15,19 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "オーディンというめっちゃキュートな女神様じゃ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の山札を上から1枚見て、このカードの下にマーカーとして裏向きに置く。",
-		"【起】［このカードを【レスト】する］ 次の相手のターンの終わりまで、あなたが自分の手札のイベントのコストを払う時、このカードの下のマーカー1枚を、ストック1枚のかわりに控え室に置いてよい。"
+		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の山札を上から1枚見て、このカードの下にマーカーとして裏向きに置く。\u003cbr\u003e【起】［このカードを【レスト】する］ 次の相手のターンの終わりまで、あなたが自分の手札のイベントのコストを払う時、このカードの下のマーカー1枚を、ストック1枚のかわりに控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"夏",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-057S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_057s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_057s.png",
+	"tags": null,
+	"expansionId": 342
 }

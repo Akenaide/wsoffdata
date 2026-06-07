@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "イースターといえば、うさぎでしょ？どう、かわいい？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【自】 バトル中のこのカードが【リバース】した時、相手は1枚引いてよい。そうしたら、相手は自分の手札を1枚選び、控え室に置く。"
+		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、相手は1枚引いてよい。そうしたら、相手は自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_102.png",
+	"tags": null,
+	"expansionId": 272
 }

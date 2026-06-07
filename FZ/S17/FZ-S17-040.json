@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "夢を示すのが王たる余の務め。そして王の示した夢を\u003cbr /\u003e見極め、後世に語り継ぐのが臣たる貴様の務めである",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、すべてのプレイヤーは自分の山札の上から1枚を、控え室に置く。あなたのこの効果で控え室に置かれたカードのレベルが相手のこの効果で控え室に置かれたカードのレベルより高いなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_040.png",
+	"tags": null,
+	"expansionId": 82
 }

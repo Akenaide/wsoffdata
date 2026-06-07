@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アレって　アレのことかい？",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下のマーカーが2枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。』を得る。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。",
-		"【起】［このカードを【レスト】する］ このカードの下のマーカーが1枚以下なら、あなたは自分の控え室の「あおぷよ」を1枚選び、このカードの下にマーカーとして裏向きに置く。"
+		"【永】 このカードの下のマーカーが2枚以上なら、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1000。』を得る。\u003cbr/\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から3枚を、控え室に置いてよい。\u003cbr/\u003e【起】［このカードを【レスト】する］ このカードの下のマーカーが1枚以下なら、あなたは自分の控え室の「あおぷよ」を1枚選び、このカードの下にマーカーとして裏向きに置く。"
 	],
 	"specialAttrib": [
 		"ぷよ",
 		"けん玉"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-099",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_099.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_099.png",
+	"tags": null,
+	"expansionId": 160
 }

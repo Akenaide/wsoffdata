@@ -15,16 +15,17 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの舞台の《団長》のキャラを1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“いつも”のハルヒ」を1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"SOS団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-001R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_001r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_001r.png",
+	"tags": null,
+	"expansionId": 35
 }

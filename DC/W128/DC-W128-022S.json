@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "また春に、会いましょう",
+	"trigger": null,
 	"ability": [
-		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の、《Anniversary》か《魔法》のキャラを1枚選び、手札に戻してよい。』",
-		"このカードをストック置場に置く。"
+		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の、《Anniversary》か《魔法》のキャラを1枚選び、手札に戻してよい。』\u003cbr\u003eこのカードをストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC/W128-022S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_022s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w128/dc_w128_022s.png",
+	"tags": null,
+	"expansionId": 544
 }

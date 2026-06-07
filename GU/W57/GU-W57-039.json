@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今日もいざ焼かん!!",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】【CXコンボ】 あなたのクライマックス置場に「三姉妹？」があるなら、あなたのキャラすべてに、パワーを＋1000。",
-		"【永】 記憶 あなたの思い出置場に「Hot Bakery」があるなら、他のあなたのカード名に「ココア」か「モカ」を含むキャラすべてに、パワーを＋1500。"
+		"【永】【CXコンボ】 あなたのクライマックス置場に「三姉妹？」があるなら、あなたのキャラすべてに、パワーを＋1000。\u003cbr\u003e【永】 記憶 あなたの思い出置場に「Hot Bakery」があるなら、他のあなたのカード名に「ココア」か「モカ」を含むキャラすべてに、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"パン",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W57-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w57/gu_w57_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w57/gu_w57_039.png",
+	"tags": null,
+	"expansionId": 221
 }

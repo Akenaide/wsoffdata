@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…すごく、乗りたかった…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《グリザイア》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-123",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_123.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_123.png",
+	"tags": null,
+	"expansionId": 347
 }

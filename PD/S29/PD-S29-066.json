@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列のキャラがいないなら、このカードのパワーを＋1500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S29-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s29/pd_s29_066.png",
+	"tags": null,
+	"expansionId": 121
 }

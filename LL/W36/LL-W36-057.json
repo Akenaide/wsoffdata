@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ケガしちゃったんですか？ことりが絆創膏貼ってあげますね♪",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分のカード名に「ことり」を含むキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"保健室"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_057.png",
+	"tags": null,
+	"expansionId": 142
 }

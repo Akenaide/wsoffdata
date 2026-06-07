@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《音楽》か《パイロット》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル2以下のキャラを1枚選び、思い出にしてよい。",
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《音楽》か《パイロット》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは相手の前列のレベル2以下のキャラを1枚選び、思い出にしてよい。\u003cbr\u003e【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"闇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MDE/SE45-36",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mde_se45/mde_se45_36.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mde_se45/mde_se45_36.png",
+	"tags": null,
+	"expansionId": 458
 }

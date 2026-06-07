@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】［あなたのクライマックス置場の「嘘のない気持ち」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《五つ子》のキャラを1枚選び、手札に戻す。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+		"【自】【CXコンボ】［あなたのクライマックス置場の「嘘のない気持ち」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《五つ子》のキャラを1枚選び、手札に戻す。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/WE43-10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_we43/5hy_we43_10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_we43/5hy_we43_10.png",
+	"tags": null,
+	"expansionId": 462
 }

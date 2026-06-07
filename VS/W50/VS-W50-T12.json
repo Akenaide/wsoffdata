@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《格闘》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"格闘",
 		"トレーナー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_t12.png",
+	"tags": null,
+	"expansionId": 190
 }

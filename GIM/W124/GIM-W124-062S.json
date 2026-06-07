@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "咲季「ふっふっふ……いいじゃない。覚悟ならずっとあるわよ。　わたしたちが一番って言わせてみせる！さぁ、練習再開よ！」\u003cbr\u003e一同「おーっ！」",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 記憶 次の行動をＸ回行う。『あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』Ｘはあなたの思い出の持つ色の合計に等しい。",
-		"このカードを山札の下に置く。"
+		"【カウンター】 記憶 次の行動をＸ回行う。『あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』Ｘはあなたの思い出の持つ色の合計に等しい。\u003cbr\u003eこのカードを山札の下に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GIM/W124-062S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_062s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_062s.png",
+	"tags": null,
+	"expansionId": 514
 }

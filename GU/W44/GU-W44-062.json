@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ココア「でも“リゼちゃん”って言ったら振り向いたよ？」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室の《ラビットハウス》のキャラを2枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GU/W44-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_062.png",
+	"tags": null,
+	"expansionId": 174
 }

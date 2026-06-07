@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最短ルートですべて倒す！",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。",
-		"【自】【CXコンボ】［(2)］ あなたのアタックフェイズの始めに、あなたのクライマックス置場にクライマックスがないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「約束の続き」を1枚まで選び、クライマックス置場に置き、その山札をシャッフルする。"
+		"【永】 応援 このカードの前のあなたのレベル0以下のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［(2)］ あなたのアタックフェイズの始めに、あなたのクライマックス置場にクライマックスがないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「約束の続き」を1枚まで選び、クライマックス置場に置き、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S51-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s51/sao_s51_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s51/sao_s51_080.png",
+	"tags": null,
+	"expansionId": 209
 }

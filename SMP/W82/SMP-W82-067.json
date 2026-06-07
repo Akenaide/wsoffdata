@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "鷹原さん、がんばれー！　もっと早く走れー！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+		"【永】 他のあなたの《サマポケ》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_067.png",
+	"tags": null,
+	"expansionId": 311
 }

@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あーあ、残念。所詮私はバックアップだったかぁ",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは相手のクライマックス置場のクライマックスを1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SY/W08-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_097.png",
+	"tags": null,
+	"expansionId": 35
 }

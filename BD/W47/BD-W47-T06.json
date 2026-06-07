@@ -15,17 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日からお世話になります！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「Let\u0026#39;s! Poppin’Party」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「Let's! Poppin’Party」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"星"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-T06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_t06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_t06.png",
+	"tags": null,
+	"expansionId": 187
 }

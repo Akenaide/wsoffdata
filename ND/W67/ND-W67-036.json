@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "イリスさん、わたしたちと来て下さい。\u003cbr\u003e困ってる事があるならきっと力になりますから",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_036.png",
+	"tags": null,
+	"expansionId": 268
 }

@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "むっかつく！あの男！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《Anniversary》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 このカードのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【永】 あなたの《Anniversary》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 このカードのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"ネット",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_088.png",
+	"tags": null,
+	"expansionId": 405
 }

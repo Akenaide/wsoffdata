@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リズ「そうそう。セラは心配しすぎ」\u003cbr /\u003eセラ「あなたは放任しすぎなんです！」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《マスター》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ホムンクルス",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE18-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se18/pi_se18_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se18/pi_se18_022.png",
+	"tags": null,
+	"expansionId": 108
 }

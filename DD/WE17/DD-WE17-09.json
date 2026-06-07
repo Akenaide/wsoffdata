@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "09",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しかしお姉達、今日はいつにもまして、ツヤッツヤじゃのー",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)  手札を1枚控え室に置く］ あなたのクライマックス置場に「ガーネットスパーク」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE17-09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_09.png",
+	"tags": null,
+	"expansionId": 100
 }

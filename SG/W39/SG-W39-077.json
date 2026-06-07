@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "貴様の哲学に翼は折れぬと心得よ！！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室の「“剣にあらず”翼」が2枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。",
-		"【自】 記憶 あなたのアンコールステップの始めに、あなたの思い出置場に「イグナイトモジュール」がないなら、このカードを控え室に置く。"
+		"【永】 あなたの控え室の「“剣にあらず”翼」が2枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr/\u003e【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。\u003cbr/\u003e【自】 記憶 あなたのアンコールステップの始めに、あなたの思い出置場に「イグナイトモジュール」がないなら、このカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_077.png",
+	"tags": null,
+	"expansionId": 154
 }

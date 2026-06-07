@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうこなくっちゃ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「次なる舞台 四ノ宮キコル」を2枚まで選び、山札の下に好きな順番で置く。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《防衛隊》か《怪獣》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「次なる舞台 四ノ宮キコル」を2枚まで選び、山札の下に好きな順番で置く。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の、《防衛隊》か《怪獣》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"防衛隊",
 		"エリート"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KJ8/S123-023S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_023s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_023s.png",
+	"tags": null,
+	"expansionId": 525
 }

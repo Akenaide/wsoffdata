@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい、どこでも大丈夫です。先生と一緒にいられるなら！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の《キヴォトス》のキャラを2枚まで選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"補習授業部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-027S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_027s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_027s.png",
+	"tags": null,
+	"expansionId": 460
 }

@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "SECRET",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場に「扶桑型航空戦艦1番艦 扶桑改二」があるなら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時か「扶桑型航空戦艦1番艦 扶桑改二」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 経験 あなたのレベル置場に「扶桑型航空戦艦1番艦 扶桑改二」があるなら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時か「扶桑型航空戦艦1番艦 扶桑改二」の【自】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"航空戦艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-065S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_065s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_065s.png",
+	"tags": null,
+	"expansionId": 173
 }

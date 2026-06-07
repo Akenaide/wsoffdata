@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うちは貧乏だから、とっととメジャーデビューして独り立ちしてーな",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「“ひとり、何を思う”友利 奈緒」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ひとり、何を思う”友利 奈緒」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"能力者",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_008.png",
+	"tags": null,
+	"expansionId": 152
 }

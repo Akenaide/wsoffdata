@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、他のあなたの「“夢現妄想世界”仲町あられ」すべてに、そのターン中、パワーを＋1000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、他のあなたの「“夢現妄想世界”仲町あられ」すべてに、そのターン中、パワーを＋1000し、次の能力を与える。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"夢限大みゅーたいぷ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BDY/W135-T16R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bdy_w135/bdy_w135_t16r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bdy_w135/bdy_w135_t16r.png",
+	"tags": null,
+	"expansionId": 543
 }

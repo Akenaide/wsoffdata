@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うん…フェイトちゃん！　きっとまた…！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの「“また会う日まで”フェイト」がアタックした時、前列にこのカードがいるなら、あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N1/W32-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n1_w32/n1_w32_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n1_w32/n1_w32_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、青か《BLOOM》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 経験 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「学校見学会にいこう！」があり、あなたのレベル置場のカードのレベルの合計が5以上なら、あなたは自分の山札を見て青か《BLOOM》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの、青か《BLOOM》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 経験 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「学校見学会にいこう！」があり、あなたのレベル置場のカードのレベルの合計が5以上なら、あなたは自分の山札を見て青か《BLOOM》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"バレエ",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-079S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_079s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_079s.png",
+	"tags": null,
+	"expansionId": 344
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ねぇ 今日は一緒の部屋で寝てもいい？",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－1。",
-		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
+		"【永】 舞台のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_056.png",
+	"tags": null,
+	"expansionId": 174
 }

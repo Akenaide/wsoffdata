@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしたちが勝者になるにはまだ早い！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+		"【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"SAGA",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZLS/W93-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zls_w93/zls_w93_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zls_w93/zls_w93_081.png",
+	"tags": null,
+	"expansionId": 366
 }

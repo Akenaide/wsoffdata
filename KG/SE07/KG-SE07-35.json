@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "七花の姉。綺麗で清楚な女性で、弟の七花とは何もかも真逆の性格。病弱な身体でありながら、働きたがりで、しっかり者",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラがいないなら、このカードのパワーを＋2000。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《武器》のキャラを1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"武器",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KG/SE07-35",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kg_se07/kg_se07_35.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kg_se07/kg_se07_35.png",
+	"tags": null,
+	"expansionId": 56
 }

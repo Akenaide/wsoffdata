@@ -1,6 +1,6 @@
 {
 	"set": "ISC",
-	"setName": "[TD+]アイドルマスター シャイニーカラーズ 283プロ イルミネーションスターズ",
+	"setName": "[TD+]アイドルマスター シャイニーカラーズ 283プロ イルミネーションスターズ  ",
 	"side": "S",
 	"release": "81",
 	"id": "T001",
@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサー？どうしました？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「283プロのヒナ 櫻木真乃」すべてに、次の能力を与える。『【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。』",
-		"【自】 絆／「283プロのヒナ 櫻木真乃」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「283プロのヒナ 櫻木真乃」を1枚選び、手札に戻す）"
+		"【永】 他のあなたの「283プロのヒナ 櫻木真乃」すべてに、次の能力を与える。『【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。』\u003cbr\u003e【自】 絆／「283プロのヒナ 櫻木真乃」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「283プロのヒナ 櫻木真乃」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"イルミネーションスターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-T001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_t001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_t001.png",
+	"tags": null,
+	"expansionId": 326
 }

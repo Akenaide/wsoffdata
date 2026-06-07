@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もう大丈夫です",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_076.png",
+	"tags": null,
+	"expansionId": 150
 }

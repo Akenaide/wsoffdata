@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヴィルヘルム「…いい味です。かなり奮発されたものと思いますが」\u003cbr\u003eスバル「マジにこの屋敷で一番高い茶です。勝手に飲んだのがばれたら桃色の髪のメイドがマジギレするぐらい」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、あなたのキャラすべてが《魔法》か《武器》なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S46-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s46/rz_s46_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s46/rz_s46_p05.png",
+	"tags": null,
+	"expansionId": 13
 }

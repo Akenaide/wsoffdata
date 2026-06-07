@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "教えて、メアド",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"ラボメン",
 		"ケータイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_t08.png",
+	"tags": null,
+	"expansionId": 242
 }

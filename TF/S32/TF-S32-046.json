@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】しているカード名に「小吉」を含むキャラを1枚選び【レスト】する。そうしたら、あなたのキャラすべてに、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TF/S32-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_046.png",
+	"tags": null,
+	"expansionId": 135
 }

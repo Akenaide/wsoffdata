@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "君島さんはある日、素敵なプレゼントをしてくれました。\u003cbr /\u003eそれが、当時、君島さんが開発していた\u003cbr /\u003e『居ル夫。』のアルファ版だったんです",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札の上から1枚を公開する。そのカードが《科学》のキャラなら、あなたは3枚まで引き、自分の手札を2枚選び、控え室に置く。そうでないなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RN/W16-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_097.png",
+	"tags": null,
+	"expansionId": 86
 }

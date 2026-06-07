@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《グリザイア》のキャラが4枚以上なら、このカードのパワーを＋6000。",
-		"【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場に「タナトス・システム」があるなら、あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
+		"【永】 他のあなたの《グリザイア》のキャラが4枚以上なら、このカードのパワーを＋6000。\u003cbr\u003e【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場に「タナトス・システム」があるなら、あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-093S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_093s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_093s.png",
+	"tags": null,
+	"expansionId": 472
 }

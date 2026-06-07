@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しんのすけ「オラ達は帰ったあとも、ずっとここにいるよ」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《家族》か《和服》のキャラすべてに、パワーを＋500。",
 		"【自】 絆／「怖いもの知らずなしんのすけ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「怖いもの知らずなしんのすけ」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"家族",
 		"サラリーマン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_078.png",
+	"tags": null,
+	"expansionId": 114
 }

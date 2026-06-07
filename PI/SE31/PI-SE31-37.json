@@ -1,6 +1,6 @@
 {
 	"set": "PI",
-	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"setName": " Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
 	"side": "S",
 	"release": "E31",
 	"id": "37",
@@ -10,21 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はいはい",
+	"trigger": null,
 	"ability": [
-		"あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の2つの能力を与える。",
-		"『【永】 このカードはフロントアタックできない。』",
-		"『【永】 このカードの正面のキャラはフロントアタックできない。』"
+		"あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の2つの能力を与える。\u003cbr\u003e『【永】 このカードはフロントアタックできない。』\u003cbr\u003e『【永】 このカードの正面のキャラはフロントアタックできない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PI/SE31-37",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se31/pi_se31_37.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se31/pi_se31_37.png",
+	"tags": null,
+	"expansionId": 202
 }

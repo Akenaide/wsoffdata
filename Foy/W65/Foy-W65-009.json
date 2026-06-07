@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんな、わたしの夢に、乗ってくれる!?",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「野望を叶える者」があり、他のあなたの、《ファンタジア文庫》か《戦国》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の、《ファンタジア文庫》か《戦国》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
 	],
@@ -25,8 +25,9 @@
 		"戦国",
 		"姫大名"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Foy/W65-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/foy_w65/foy_w65_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/foy_w65/foy_w65_009.png",
+	"tags": null,
+	"expansionId": 264
 }

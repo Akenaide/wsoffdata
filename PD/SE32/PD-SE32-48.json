@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "なんで？どおして？頭ん中パニック",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「初音ミク“グリーンぽんぽこ”」がいるなら、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の「初音ミク“グリーンぽんぽこ”」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
+		"【永】 他のあなたの「初音ミク“グリーンぽんぽこ”」がいるなら、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の「初音ミク“グリーンぽんぽこ”」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"忍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/SE32-48",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_se32/pd_se32_48.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_se32/pd_se32_48.png",
+	"tags": null,
+	"expansionId": 211
 }

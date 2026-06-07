@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ホロライブ》のキャラの枚数×1000に等しい。",
-		"【自】 あなたのクライマックスフェイズの始めに、相手は自分のストックの上から2枚を、控え室に置いてよい。そうしたら、そのターン中、このカードはフロントアタックできない。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《ホロライブ》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 あなたのクライマックスフェイズの始めに、相手は自分のストックの上から2枚を、控え室に置いてよい。そうしたら、そのターン中、このカードはフロントアタックできない。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"1期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W104-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w104/hol_w104_059.png",
+	"tags": null,
+	"expansionId": 419
 }

@@ -15,21 +15,20 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《Pastel＊Palettes》のキャラすべてに、パワーを＋Ｘ。Ｘはあなたの舞台のキャラの持つ色の合計×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《Pastel＊Palettes》のキャラを1枚選び、手札に戻してよい。",
-		"【起】［あなたの《Pastel＊Palettes》のキャラを2枚【レスト】する］ あなたは自分の手札とレベル置場のカードを1枚ずつ選び、入れ替える。"
+		"【永】 他のあなたの《Pastel＊Palettes》のキャラすべてに、パワーを＋Ｘ。Ｘはあなたの舞台のキャラの持つ色の合計×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《Pastel＊Palettes》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【起】［あなたの《Pastel＊Palettes》のキャラを2枚【レスト】する］ あなたは自分の手札とレベル置場のカードを1枚ずつ選び、入れ替える。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-056SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_056ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_056ssp.png",
+	"tags": null,
+	"expansionId": 286
 }

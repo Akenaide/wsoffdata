@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんなを楽しませる漆黒のエンターテイナー\u003cbr\u003eフジキセキだよ！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ウマ娘》のキャラの枚数×500に等しい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+		"【自】 このカードがアタックした時、あなたは他の自分の《ウマ娘》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ウマ娘》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_021.png",
+	"tags": null,
+	"expansionId": 431
 }

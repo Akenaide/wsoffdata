@@ -15,19 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は女である前に誅魔忍であると決めている",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《ゆらぎ荘》か《湯煙町》か《忍》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。",
-		""
+		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《ゆらぎ荘》か《湯煙町》か《忍》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"忍",
 		"ゆらぎ荘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YYS/W61-077S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yys_w61/yys_w61_077s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yys_w61/yys_w61_077s.png",
+	"tags": null,
+	"expansionId": 249
 }

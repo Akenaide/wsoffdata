@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "三都制圧襲学旅行、作戦開始！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《服》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"服",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_074.png",
+	"tags": null,
+	"expansionId": 117
 }

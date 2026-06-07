@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "助けた者が女ならば殺すな",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_082.png",
+	"tags": null,
+	"expansionId": 7
 }

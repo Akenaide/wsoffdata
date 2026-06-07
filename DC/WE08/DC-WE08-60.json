@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "は、恥ずかしいから、あんまり見ないで……",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「委員長の巫女姿」が置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《メカ》のキャラならストック置場に置く。（そうでないなら元に戻す）",
 		"【起】［(1) このカードを【レスト】する］ あなたは自分の山札の上から1枚を公開する。そのカードが《メカ》のキャラなら手札に加える。（そうでないなら元に戻す）"
@@ -25,8 +25,9 @@
 		"委員長",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/WE08-60",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we08/dc_we08_60.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we08/dc_we08_60.png",
+	"tags": null,
+	"expansionId": 45
 }

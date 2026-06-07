@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お昼しか勧誘できないんでは、天文部のアピールは難しい\u003cbr /\u003eですよね～…妙案がある？　それってなんですかぁ？",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードは、あなたの《ガール》のキャラが2枚以下なら、手札からプレイできない。"
 	],
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_062.png",
+	"tags": null,
+	"expansionId": 144
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "けじめ…って訳でもないけどね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたの控え室の異なるカード名のクライマックスが5枚以上なら、あなたは他の自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋7000。"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"ツンデレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_092.png",
+	"tags": null,
+	"expansionId": 347
 }

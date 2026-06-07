@@ -15,20 +15,19 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あなたいったい……何者なの？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの、緑か《契約黒猫》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの、緑か《契約黒猫》のキャラが3枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 あなたの、緑か《契約黒猫》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの、緑か《契約黒猫》のキャラが3枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KR/SE30-02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kr_se30/kr_se30_02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kr_se30/kr_se30_02.png",
+	"tags": null,
+	"expansionId": 172
 }

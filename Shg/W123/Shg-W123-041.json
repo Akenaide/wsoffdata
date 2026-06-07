@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "吉田さんとなら、行ってみたいかも。夏祭り",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《スニーカー文庫》のキャラを1枚選び、そのターン中、パワーを＋1000し、《味噌汁》を与える。"
+		"【永】 応援 このカードの前のあなたのレベル2以上のキャラすべてに、パワーを＋1500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《スニーカー文庫》のキャラを1枚選び、そのターン中、パワーを＋1000し、《味噌汁》を与える。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"制服",
 		"家事"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Shg/W123-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/shg_w123_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/shg_w123_041.png",
+	"tags": null,
+	"expansionId": 510
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "君にも、本当に悪いことした。\u003cbr\u003e…いつか、埋め合わせするから",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"スポーツ",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_t02.png",
+	"tags": null,
+	"expansionId": 161
 }

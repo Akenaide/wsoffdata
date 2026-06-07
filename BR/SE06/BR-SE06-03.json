@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "着地でぐねった？ 立てる？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《スポーツ》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"スポーツ",
 		"マネージャー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BR/SE06-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/br_se06/br_se06_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/br_se06/br_se06_03.png",
+	"tags": null,
+	"expansionId": 51
 }

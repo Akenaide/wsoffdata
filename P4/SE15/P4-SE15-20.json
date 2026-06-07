@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "薔薇と肉体の狂い咲き！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)  あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「ゲンコと絆」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、控え室に置き、そのターン中、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"不良",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE15-20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se15/p4_se15_20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se15/p4_se15_20.png",
+	"tags": null,
+	"expansionId": 91
 }

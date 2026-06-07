@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フラン「ガウル殿下と腹心の皆さんも、\u003cbr /\u003eバッチリとご参加です」",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_t02.png",
+	"tags": null,
+	"expansionId": 72
 }

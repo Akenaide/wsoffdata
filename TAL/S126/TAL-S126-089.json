@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "衝撃的な事実と､誓った決別",
+	"trigger": null,
 	"ability": [
-		"あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替えてよい。",
-		"あなたは相手の山札を上から1枚見て、山札の上か控え室に置き、自分の控え室の《冒険》のキャラを1枚選び、手札に戻す。"
+		"あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替えてよい。\u003cbr\u003eあなたは相手の山札を上から1枚見て、山札の上か控え室に置き、自分の控え室の《冒険》のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TAL/S126-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_089.png",
+	"tags": null,
+	"expansionId": 538
 }

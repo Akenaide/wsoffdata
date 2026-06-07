@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こっちにはこっちでしか味わえない、おいしいものがあるに違いないっ！",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のストックすべてを、控え室に置き、次の行動をＸ回行う。『あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－1。』』Ｘはこの効果で控え室に置かれたカードの枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Fsl/W120-107S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsl_w120/fsl_w120_107s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsl_w120/fsl_w120_107s.png",
+	"tags": null,
+	"expansionId": 489
 }

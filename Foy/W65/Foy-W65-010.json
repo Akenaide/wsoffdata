@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "最後の戦い――小田原攻めの戦略を、定めるわ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。",
-		"【起】［(1)］ あなたは自分の、《ファンタジア文庫》か《戦国》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。\u003cbr\u003e【起】［(1)］ あなたは自分の、《ファンタジア文庫》か《戦国》のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"戦国",
 		"姫大名"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Foy/W65-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/foy_w65/foy_w65_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/foy_w65/foy_w65_010.png",
+	"tags": null,
+	"expansionId": 264
 }

@@ -15,17 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ジュネスの御曹司にして爽やかイケメン、口を開けばガッカリ王子！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そうしたら、あなたは他の自分の《ジュネス》のキャラを1枚選び、控え室に置かれたカードのトリガーアイコンの[SOUL]1つにつき、そのターン中、ソウルを＋1。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そうしたら、あなたは他の自分の《ジュネス》のキャラを1枚選び、控え室に置かれたカードのトリガーアイコンの[[soul.gif]]1つにつき、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"ジュネス",
 		"女装"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/S08-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_s08/p4_s08_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_s08/p4_s08_008.png",
+	"tags": null,
+	"expansionId": 34
 }

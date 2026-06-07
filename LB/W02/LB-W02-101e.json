@@ -8,25 +8,26 @@
 	"jpName": "The confidence of Rin",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "For you, for me and for ones, it is the best way that two of us are together. I belive so, Riki.",
 	"trigger": [
 		"SOUL",
 		"SOUL"
 	],
 	"ability": [
 		"【永】 Your characters gets soul+2.",
-		"\u003cfont color=\"crimson\"\u003e※このカードはLB/W02-101「あたしたちが付き合おう」と同名カードとして扱います。日本国内で開催する公認大会・公式大会では、英語版のカードはデッキに入れることができません。\u003c/font\u003e"
+		"\u003cfont color=\"crimson\"\u003e※このカードはLB/W02-101「あたしたちが付き合おう」と同名カードとして扱います。日本国内で開催する公認大会・公式大会では、英語版のカードはデッキに入れることができません。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/W02-101e",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_101b.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_101b.gif",
+	"tags": null,
+	"expansionId": 12
 }

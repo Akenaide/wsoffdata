@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うふふふふ！おめでとう！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_060.png",
+	"tags": null,
+	"expansionId": 214
 }

@@ -15,18 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "未来「お待たせ。熱いうちにどうぞ」\u003cbr\u003e響「うわーッ、美味しそ～ッ！それにすごくいい匂いッ！」",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードと、「お昼寝の準備 響＆未来」は、デッキに合計4枚まで入れることができる。",
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。あなたは自分の手札を1枚選び、控え室に置く。"
+		"【永】 このカードと同じカード名のカードと、「お昼寝の準備 響＆未来」は、デッキに合計4枚まで入れることができる。\u003cbr\u003e【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W72-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w72/sg_w72_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w72/sg_w72_103.png",
+	"tags": null,
+	"expansionId": 275
 }

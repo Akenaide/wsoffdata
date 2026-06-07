@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "覗きに来たら殺すわよ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「パチモン幼なじみ」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたの控え室の「パチモン幼なじみ」の枚数に等しい。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「パチモン幼なじみ」があるなら、あなたはコストを払ってよい。そうしたら、相手にＸダメージを与える。Ｘはあなたの控え室の「パチモン幼なじみ」の枚数に等しい。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-003S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_003s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_003s.png",
+	"tags": null,
+	"expansionId": 220
 }

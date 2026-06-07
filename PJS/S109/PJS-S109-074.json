@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だから、お前が壁にぶつかった時は……もっと頼ってくれ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、次の行動を3回行う。『あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Vivid BAD SQUAD"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S109-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s109/pjs_s109_074.png",
+	"tags": null,
+	"expansionId": 455
 }

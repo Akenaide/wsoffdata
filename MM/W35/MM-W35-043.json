@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "だめだよ、ほむらちゃん。独りぼっちにならないでって言ったじゃない",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。"
+		"【永】 他のあなたの《魔法》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W35-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_043.png",
+	"tags": null,
+	"expansionId": 140
 }

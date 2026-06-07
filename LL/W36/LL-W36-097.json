@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はっ、はっ……　冬は走ってると、息が白くなるのが面白いにゃー",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの《音楽》のキャラが2枚以下なら、手札からプレイできない。あなたは相手のコスト1以下のキャラを1枚選び、山札の下に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LL/W36-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_097.png",
+	"tags": null,
+	"expansionId": 142
 }

@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの前列の「悪魔的な抱擁 ルコア」と後列の「魔法の才能 真ヶ土翔太」がいるなら、このカードのパワーを＋8000。",
-		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのターン中、他のあなたの前列の「悪魔的な抱擁 ルコア」と後列の「魔法の才能 真ヶ土翔太」がいるなら、このカードのパワーを＋8000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、他のあなたの、《人間》か《ドラゴン》のキャラが2枚以上なら、あなたは自分の山札を見て《人間》か《ドラゴン》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"人間",
 		"ドラゴン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMD/W96-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmd_w96/kmd_w96_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmd_w96/kmd_w96_081.png",
+	"tags": null,
+	"expansionId": 386
 }

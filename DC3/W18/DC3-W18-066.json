@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じゃ、じゃあ……改めて、\u003cbr /\u003eもう一度、キス……しましょ？",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室の《生徒会》のキャラを1枚選び、手札に戻す。あなたは自分の控え室の「年越しキス」を1枚選び、思い出にする。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC3/W18-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w18/dc3_w18_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w18/dc3_w18_066.png",
+	"tags": null,
+	"expansionId": 78
 }

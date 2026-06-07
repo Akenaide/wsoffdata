@@ -15,18 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「SECRET」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《怪異》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのクライマックス置場に「親友に出来ること」が置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《怪異》のキャラならストック置場に置き、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。（そうでないなら元に戻す）",
-		""
+		"【永】 他のあなたの《怪異》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのクライマックス置場に「親友に出来ること」が置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《怪異》のキャラならストック置場に置き、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。（そうでないなら元に戻す）\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-029S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_029s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_029s.png",
+	"tags": null,
+	"expansionId": 159
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "え？　――あ、兄さん。奇遇だね？",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「おかえりなさい」があり、他のあなたの、《Anniversary》か《魔法》のキャラが2枚以上なら、あなたは自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻してよい。Ｘはあなたの控え室の「おかえりなさい」の枚数に等しい。"
+		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「おかえりなさい」があり、他のあなたの、《Anniversary》か《魔法》のキャラが2枚以上なら、あなたは自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻してよい。Ｘはあなたの控え室の「おかえりなさい」の枚数に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W81-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w81/dc_w81_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w81/dc_w81_016.png",
+	"tags": null,
+	"expansionId": 310
 }

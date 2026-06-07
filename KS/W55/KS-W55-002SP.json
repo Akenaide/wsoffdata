@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私に力で勝てる気か？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの、《冒険者》か《魔法》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「私の心までは屈し……」があるなら、あなたは自分の山札を見て《冒険者》か《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 このカードがアタックした時、他のあなたの、《冒険者》か《魔法》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「私の心までは屈し……」があるなら、あなたは自分の山札を見て《冒険者》か《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"煩悩"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-002SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_002sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_002sp.png",
+	"tags": null,
+	"expansionId": 214
 }

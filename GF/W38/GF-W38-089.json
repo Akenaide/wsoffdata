@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この木がここで、大きく育つといいね",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_089.png",
+	"tags": null,
+	"expansionId": 144
 }

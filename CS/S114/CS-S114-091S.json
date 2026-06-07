@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しんのすけ「オラたちは正義のコンビなんだゾ！」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、「アクションスパイ しんのすけ」と「アクションスパイ レモン」すべてに、パワーを＋2500。"
 	],
@@ -25,8 +25,9 @@
 		"家族",
 		"幼稚園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-091S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_091s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_091s.png",
+	"tags": null,
+	"expansionId": 480
 }

@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "藍「あ、やっと見つけた！　辻谷君！　大人しく捕まりなさい！」\u003cbr\u003e大和「ふははははは！　来たか同志たちよ！」",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
-		"【起】［このカードを【レスト】する］ あなたは自分の、《新聞》か《オカルト》のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックしてもソウルが減少しない。』"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の、《新聞》か《オカルト》のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはサイドアタックしてもソウルが減少しない。』"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"風南島",
 		"新聞"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W81-111",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w81/ds_w81_111.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w81/ds_w81_111.png",
+	"tags": null,
+	"expansionId": 310
 }

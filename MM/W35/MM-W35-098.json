@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《魔法》のキャラが2枚以下なら、手札からプレイできない。",
-		"あなたは相手のコスト1以下のキャラを1枚選び、山札の下に置く。このカードを思い出にする。"
+		"このカードは、あなたの《魔法》のキャラが2枚以下なら、手札からプレイできない。\u003cbr\u003eあなたは相手のコスト1以下のキャラを1枚選び、山札の下に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MM/W35-098",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_098.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_098.png",
+	"tags": null,
+	"expansionId": 140
 }

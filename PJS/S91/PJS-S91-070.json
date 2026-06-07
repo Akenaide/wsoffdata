@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私、いつか父さんを超えてみせるから！",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】 あなたのターンの終わりに、クライマックス置場に「絶賛、手伝い中！」があり、他のあなたの《音楽》のキャラが3枚以上なら、あなたは自分のキャラを2枚選び、入れ替えてよい。（カードの向きは変わらない）",
-		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】【CXコンボ】 あなたのターンの終わりに、クライマックス置場に「絶賛、手伝い中！」があり、他のあなたの《音楽》のキャラが3枚以上なら、あなたは自分のキャラを2枚選び、入れ替えてよい。（カードの向きは変わらない）\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Vivid BAD SQUAD"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_070.png",
+	"tags": null,
+	"expansionId": 380
 }

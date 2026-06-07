@@ -15,19 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《Disney》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのトリガーアイコンが[COMEBACK]のCXがCX置場に置かれた時、あなたは自分の《Disney》のキャラを1枚選び、次の相手のターンの終わりまで、ソウルを＋1し、次の能力を与える。『【自】 相手のターン中、このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
+		"【永】 応援 このカードの前のあなたの《Disney》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[salvage.gif]]のCXがCX置場に置かれた時、あなたは自分の《Disney》のキャラを1枚選び、次の相手のターンの終わりまで、ソウルを＋1し、次の能力を与える。『【自】 相手のターン中、このカードが【リバース】した時、このカードのバトル相手のレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
 	],
 	"specialAttrib": [
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Dds/S104-P16S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dds_s104/dds_s104_p16s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dds_s104/dds_s104_p16s.png",
+	"tags": null,
+	"expansionId": 13
 }

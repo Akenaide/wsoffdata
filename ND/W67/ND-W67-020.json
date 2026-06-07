@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "斬り込むよレイジングハート",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 経験 このカードがアタックした時、クライマックス置場に「ダブルシュートッ！」があり、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分の控え室の、《魔法》か《武器》のキャラを1枚選び、手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_020.png",
+	"tags": null,
+	"expansionId": 268
 }

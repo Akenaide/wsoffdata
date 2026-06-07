@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KW/W11-124",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kw_w11/kw_w11_124.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kw_w11/kw_w11_124.png",
+	"tags": null,
+	"expansionId": 12
 }

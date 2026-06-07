@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だって、空からきた人かもしれないし",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「気付いた想い エイミー」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「気付いた想い エイミー」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"本",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_058.png",
+	"tags": null,
+	"expansionId": 101
 }

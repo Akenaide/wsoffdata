@@ -10,20 +10,21 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "佐助「ま、“俺たち”は俺たちで仲良くいこうぜ……」",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの《忍》のキャラがいないなら、手札からプレイできない。",
 		"あなたは自分の控え室の《忍》のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SB/S06-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_070.png",
+	"tags": null,
+	"expansionId": 28
 }

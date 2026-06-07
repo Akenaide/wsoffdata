@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんじゃこりゃああああァァ～！！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"不良"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_20.png",
+	"tags": null,
+	"expansionId": 75
 }

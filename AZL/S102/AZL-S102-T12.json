@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "君の盾となって、全ての砲火から君を守護ってあげよう",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《艦船》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 アンコール ［あなたの控え室の《艦船》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 他のあなたの《艦船》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 アンコール ［あなたの控え室の《艦船》のキャラを1枚クロック置場の下に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ユニオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_t12.png",
+	"tags": null,
+	"expansionId": 409
 }

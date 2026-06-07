@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お兄ちゃん、お散歩行きましょう♪\u003cbr /\u003eいい天気ですよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の《科学》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_018.png",
+	"tags": null,
+	"expansionId": 86
 }

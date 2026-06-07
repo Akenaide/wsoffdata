@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時かアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+		"【自】 このカードが手札から舞台に置かれた時かアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\u003cbr\u003e【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"芸能界",
 		"アイドル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OSK/S107-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s107/osk_s107_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/osk_s107/osk_s107_056.png",
+	"tags": null,
+	"expansionId": 454
 }

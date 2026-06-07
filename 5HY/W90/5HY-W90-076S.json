@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "は、ハンバーグ……",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-		"あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがカード名に「五月」を含むキャラなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+		"あなたは自分の控え室のキャラを1枚選び、手札に戻す。\u003cbr\u003eあなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがカード名に「五月」を含むキャラなら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "5HY/W90-076S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w90/5hy_w90_076s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w90/5hy_w90_076s.png",
+	"tags": null,
+	"expansionId": 348
 }

@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "それじゃあみんな！　気合い入れていこうぜっ！！\u003cbr\u003eせーーーーのっ！！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《Anniversary》か《Afterglow》のキャラを1枚選び、手札に戻してよい。",
-		"【自】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《Anniversary》か《Afterglow》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【自】［(2) 手札を2枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_044.png",
+	"tags": null,
+	"expansionId": 382
 }

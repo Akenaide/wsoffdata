@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたは一柳隊のリーダーであると同時に、わたしの大切な『シルト』なのだから",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが5枚以上なら、このカードを【レスト】する。"
+		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、相手の控え室のクライマックスが5枚以上なら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-112",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_112.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_112.png",
+	"tags": null,
+	"expansionId": 371
 }

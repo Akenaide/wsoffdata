@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あんたバカ？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《パイロット》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_055.png",
+	"tags": null,
+	"expansionId": 49
 }

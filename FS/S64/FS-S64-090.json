@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの「昼間の一面　イリヤスフィール」がいないなら、このカードを【レスト】する。"
+		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの「昼間の一面　イリヤスフィール」がいないなら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_090.png",
+	"tags": null,
+	"expansionId": 262
 }

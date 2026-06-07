@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの黄のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"魚"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_008.png",
+	"tags": null,
+	"expansionId": 171
 }

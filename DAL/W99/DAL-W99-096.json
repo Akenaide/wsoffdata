@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "また会おうね。その時はもう絶対離さないから、もう絶対間違わないから",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見て《デート》か《精霊》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DAL/W99-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w99/dal_w99_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w99/dal_w99_096.png",
+	"tags": null,
+	"expansionId": 396
 }

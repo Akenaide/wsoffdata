@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の歌う『温泉わっほい節』に合わせて、手拍子お願いしますね！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。",
-		"【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《音楽》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_072.png",
+	"tags": null,
+	"expansionId": 392
 }

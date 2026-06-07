@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［(4) このカードを【レスト】する］ あなたは自分のクロック置場の、《Mirrorverse》か《Disney》のキャラを2枚まで選び、山札に戻し、その山札をシャッフルする。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［(4) このカードを【レスト】する］ あなたは自分のクロック置場の、《Mirrorverse》か《Disney》のキャラを2枚まで選び、山札に戻し、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"Mirrorverse",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRd/S111-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_S111_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrd_s111_065.png",
+	"tags": null,
+	"expansionId": 471
 }

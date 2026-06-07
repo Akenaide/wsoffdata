@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だよね！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見て《小美呼市》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "AYT/W110-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ayt_w110/ayt_w110_064.png",
+	"tags": null,
+	"expansionId": 452
 }

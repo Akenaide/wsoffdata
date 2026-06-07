@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "凄い…",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの【スタンド】している《音楽》のキャラを1枚【レスト】する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てクライマックスを1枚まで選び、控え室に置く。1枚控え室に置いたなら、あなたは自分の控え室のクライマックスを1枚選び、山札に戻す。コストを払ったなら、その山札をシャッフルし、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W53-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w53/lss_w53_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w53/lss_w53_052.png",
+	"tags": null,
+	"expansionId": 225
 }

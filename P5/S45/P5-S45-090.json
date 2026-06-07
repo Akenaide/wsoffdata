@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前のフォローがあればこそだ。礼を言う",
+	"trigger": null,
 	"ability": [
 		"【永】 前列の中央の枠にこのカードがいるなら、このカードのレベルを＋1し、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"怪盗"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_090.png",
+	"tags": null,
+	"expansionId": 180
 }

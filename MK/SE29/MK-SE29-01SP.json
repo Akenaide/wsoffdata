@@ -15,21 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「逆襲のネロ」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋1500。",
-		"【自】この能力は1ターンにつき2回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+		"【永】 あなたのクロック置場に「逆襲のネロ」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードのパワーを＋1500。\u003cbr\u003e【自】この能力は1ターンにつき2回まで発動する。このカードが手札から舞台に置かれたターン中、このカードの与えたダメージがキャンセルされた時、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"探偵",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE29-01SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se29/mk_se29_01sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se29/mk_se29_01sp.png",
+	"tags": null,
+	"expansionId": 169
 }

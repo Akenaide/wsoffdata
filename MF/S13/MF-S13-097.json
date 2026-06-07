@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ルカ「話が違います！\u003cbr /\u003e　シェリルさんを死刑にするなんて!!」",
+	"trigger": null,
 	"ability": [
 		"あなたは相手の山札を上から3枚まで見てカードを3枚まで選び、控え室に置く。残りのカードを山札に戻す。相手はその山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MF/S13-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_097.png",
+	"tags": null,
+	"expansionId": 61
 }

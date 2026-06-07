@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あんたの顔なんて、もう見たくないわ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてがカード名に「二乃」を含むなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"五つ子",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_082.png",
+	"tags": null,
+	"expansionId": 309
 }

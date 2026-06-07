@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "しかたないなぁ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの後列の、《リコリコ》か《武器》のキャラ1枚につき、このカードのパワーを＋2500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「大手柄」があるなら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚まで選び、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×500に等しい。"
+		"【永】 他のあなたの後列の、《リコリコ》か《武器》のキャラ1枚につき、このカードのパワーを＋2500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「大手柄」があるなら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚まで選び、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはあなたの、《リコリコ》か《武器》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"リコリコ",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/W105-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_w105/lrc_w105_025.png",
+	"tags": null,
+	"expansionId": 426
 }

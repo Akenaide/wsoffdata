@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "好きな言葉、か",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《グリザイア》のキャラが2枚以上なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_025.png",
+	"tags": null,
+	"expansionId": 347
 }

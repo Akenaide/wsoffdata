@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あれは偶然。たまたまできたの。\u003cbr /\u003eホント、ラッキーだったわあ☆",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】［このカードを【レスト】する］ あなたがイベントをプレイした時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -25,8 +25,9 @@
 		"科学",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W19-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w19/sg_w19_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w19/sg_w19_060.png",
+	"tags": null,
+	"expansionId": 79
 }

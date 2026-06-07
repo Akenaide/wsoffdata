@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "『赤城、見っけ』ってとこか？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《思春期》のキャラすべてに、パワーを＋2000。",
-		"【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。"
+		"【永】 あなたのターン中、他のあなたの《思春期》のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。"
 	],
 	"specialAttrib": [
 		"思春期"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_086.png",
+	"tags": null,
+	"expansionId": 547
 }

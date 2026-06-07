@@ -15,19 +15,19 @@
 	"rarity": "BDR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それがどんな舞台であっても、\u003cbr\u003e瀬田薫は手を抜くことはしない",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのすべての領域のトリガーアイコンが[CHOICE]を与える。",
-		"【自】 あなたのトリガーアイコンに[CHOICE]があるカードがトリガーした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 あなたのすべての領域のトリガーアイコンが[[choice.gif]]のCXのトリガーアイコンに[[soul.gif]]を与える。\u003cbr\u003e【自】 あなたのトリガーアイコンに[[soul.gif]]があるカードがトリガーした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE49-03BDR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_03bdr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we49/bd_we49_03bdr.png",
+	"tags": null,
+	"expansionId": 526
 }

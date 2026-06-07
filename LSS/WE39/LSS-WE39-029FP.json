@@ -15,17 +15,17 @@
 	"rarity": "FP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《音楽》か《動物》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《音楽》か《動物》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/WE39-029FP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_we39/lss_we39_029fp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_we39/lss_we39_029fp.png",
+	"tags": null,
+	"expansionId": 421
 }

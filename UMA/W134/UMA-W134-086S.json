@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……遂に来ちゃった　原宿！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。",
-		"【自】【CXコンボ】 経験 ［手札を2枚控え室に置き、あなたのCX置場の「私にできること」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたのレベル置場のカードのレベルの合計が2以上で、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ウマ娘》のキャラを3枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの《ウマ娘》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】【CXコンボ】 経験 ［手札を2枚控え室に置き、あなたのCX置場の「私にできること」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたのレベル置場のカードのレベルの合計が2以上で、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ウマ娘》のキャラを3枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ウマ娘",
 		"シンデレラグレイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W134-086S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_086s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w134/uma_w134_086s.png",
+	"tags": null,
+	"expansionId": 540
 }

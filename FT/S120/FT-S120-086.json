@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 あなたのアタックフェイズの始めに、あなたの、CX置場か控え室に「滅悪魔法の悪魔の部分」があるなら、そのターン中、このカードのパワーを＋5500し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S120-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s120/ft_s120_086.png",
+	"tags": null,
+	"expansionId": 503
 }

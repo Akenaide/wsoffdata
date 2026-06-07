@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お礼を言うぞー",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《覇王流》なら、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【永】 あなたのキャラすべてが《覇王流》なら、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"格闘",
 		"覇王流"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_013.png",
+	"tags": null,
+	"expansionId": 200
 }

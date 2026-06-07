@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここ……。私が光に包まれた時と同じ景色です",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 あなたのアンコールステップの始めに、クライマックス置場に「別れの瞬間」があるなら、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「満月の夜の魔法 詩名」を1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1500し、ソウルを＋1。"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC4/W81-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc4_w81/dc4_w81_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc4_w81/dc4_w81_091.png",
+	"tags": null,
+	"expansionId": 310
 }

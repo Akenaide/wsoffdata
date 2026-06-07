@@ -15,8 +15,8 @@
 	"rarity": "KP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "第二十四駆逐隊、出撃します！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-087KP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_087kp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_087kp.png",
+	"tags": null,
+	"expansionId": 270
 }

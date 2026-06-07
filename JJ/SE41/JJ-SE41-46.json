@@ -15,7 +15,7 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"スタンド使い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/SE41-46",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se41/jj_se41_46.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_se41/jj_se41_46.png",
+	"tags": null,
+	"expansionId": 434
 }

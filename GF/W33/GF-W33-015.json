@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さあさあ皆の衆、やってくるが良いぞぉ。バッチリ驚かせてあげるからねぇ、にひひ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_015.png",
+	"tags": null,
+	"expansionId": 131
 }

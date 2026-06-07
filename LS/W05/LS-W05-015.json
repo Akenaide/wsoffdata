@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハンカチまで貸してくれたの　仲のいい友達ができそうで嬉しいんだ……",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのキャラとバトルしているキャラが【リバース】した時、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"保健室"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_015.png",
+	"tags": null,
+	"expansionId": 16
 }

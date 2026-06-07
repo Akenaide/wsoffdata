@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちゃんと勉強してる？　分からないことがあったら、教えてあげるわよ♪",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの緑のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"傘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_102.png",
+	"tags": null,
+	"expansionId": 142
 }

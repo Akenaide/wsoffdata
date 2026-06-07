@@ -15,8 +15,8 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「勝利のために」があり、他のあなたの《ランドソル》のキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て《ランドソル》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分の《ランドソル》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W84-029SSPb",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_029sspb.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w84/prd_w84_029sspb.png",
+	"tags": null,
+	"expansionId": 320
 }

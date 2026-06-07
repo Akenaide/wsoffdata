@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シャル、大丈夫？",
+	"trigger": null,
 	"ability": [
 		"【自】［手札のクライマックスを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルのキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"勇者",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE23-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we23/dd_we23_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we23/dd_we23_34.png",
+	"tags": null,
+	"expansionId": 153
 }

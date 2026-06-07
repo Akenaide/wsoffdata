@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "凛と花陽と仲がいいのかって？……別に、腐れ縁みたいなものよ",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが0以下なら、あなたはこのカードを手札に戻してよい。（クライマックスのレベルは0として扱う。公開したカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SIL/W109-124",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sil_w109/sil_w109_124.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sil_w109/sil_w109_124.png",
+	"tags": null,
+	"expansionId": 448
 }

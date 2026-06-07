@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お米の力はすごいねぇ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《セラフ》のキャラの枚数×500に等しい。",
-		"【起】［(1)］ 他のあなたの《セラフ》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋1000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《セラフ》のキャラの枚数×500に等しい。\u003cbr\u003e【起】［(1)］ 他のあなたの《セラフ》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋1000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"セラフ",
 		"第30G部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W103-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w103/hbr_w103_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w103/hbr_w103_019.png",
+	"tags": null,
+	"expansionId": 408
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「Change the Future」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、他の自分のキャラを1枚選び、そのターン中、レベルを＋1。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「Change the Future」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻し、他の自分のキャラを1枚選び、そのターン中、レベルを＋1。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_059.png",
+	"tags": null,
+	"expansionId": 276
 }

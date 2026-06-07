@@ -15,17 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《PIXAR》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【起】［(1) あなたの思い出置場の《PIXAR》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋4000。"
+		"【永】 他のあなたの《PIXAR》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【起】［(1) あなたの思い出置場の《PIXAR》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S94-107",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s94/pxr_s94_107.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s94/pxr_s94_107.png",
+	"tags": null,
+	"expansionId": 403
 }

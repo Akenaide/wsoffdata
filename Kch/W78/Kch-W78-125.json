@@ -15,21 +15,21 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あーんしてくださいっ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《Anniversary》か《能力者》のキャラの枚数に等しい。",
-		"【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《Anniversary》か《能力者》のキャラの枚数に等しい。\u003cbr\u003e【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kch/W78-125",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kch_w78/kch_w78_125.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kch_w78/kch_w78_125.png",
+	"tags": null,
+	"expansionId": 296
 }

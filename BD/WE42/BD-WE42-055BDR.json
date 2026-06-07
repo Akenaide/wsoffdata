@@ -15,8 +15,8 @@
 	"rarity": "BDR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカード名に「香澄」か「たえ」か「りみ」か「沙綾」か「有咲」を含むキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"星"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE42-055BDR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_055bdr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we42/bd_we42_055bdr.png",
+	"tags": null,
+	"expansionId": 440
 }

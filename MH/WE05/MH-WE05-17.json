@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ただいまお伺いいたしまー…ああっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
 		"【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《メカ》のキャラを1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"エレメント",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MH/WE05-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mh_we05/mh_we05_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mh_we05/mh_we05_17.png",
+	"tags": null,
+	"expansionId": 30
 }

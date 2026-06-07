@@ -15,19 +15,19 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】［あなたのクライマックス置場の「祝福」を1枚控え室に置く］ アンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】【CXコンボ】［あなたのクライマックス置場の「祝福」を1枚控え室に置く］ アンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から5枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"植物",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Krw/W102-076SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/krw_w102_076sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/krw_w102_076sp.png",
+	"tags": null,
+	"expansionId": 406
 }

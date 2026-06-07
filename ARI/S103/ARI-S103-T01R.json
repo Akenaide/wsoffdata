@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
 	],
 	"specialAttrib": [
 		"トータス",
 		"クラスメイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-T01R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_t01r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_t01r.png",
+	"tags": null,
+	"expansionId": 415
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ…あ、ああ…\u003cbr /\u003eあ、あ…くっ…くくくくく…くっ…",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(2)  このカードを【レスト】する］ あなたは自分の山札を見て《漫画》か《仏像》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NJ/WE11-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nj_we11/nj_we11_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nj_we11/nj_we11_01.png",
+	"tags": null,
+	"expansionId": 70
 }

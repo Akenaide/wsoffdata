@@ -15,20 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のターン中、このカードのパワーを－14000。",
-		"【自】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのCX置場にトリガーアイコンが[GATE]のCXがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。"
+		"【永】 相手のターン中、このカードのパワーを－14000。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのCX置場にトリガーアイコンが[[gate.gif]]のCXがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを2枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"世界"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/WE51-63SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_63sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_we51/imc_we51_63sp.png",
+	"tags": null,
+	"expansionId": 539
 }

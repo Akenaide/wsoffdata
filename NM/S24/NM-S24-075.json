@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『例外のほうが多い規則』――僕はキメ顔でそう言った",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-075",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_075.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_075.png",
+	"tags": null,
+	"expansionId": 105
 }

@@ -15,19 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「マジカルキョーコいつも見てます」って…言えば良かったかな",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 あなたのクライマックス置場に「ドキドキボイス」が置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。"
+		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 あなたのクライマックス置場に「ドキドキボイス」が置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。"
 	],
 	"specialAttrib": [
 		"風紀委員",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_038.png",
+	"tags": null,
+	"expansionId": 150
 }

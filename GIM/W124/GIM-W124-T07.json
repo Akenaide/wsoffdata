@@ -10,21 +10,22 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "先生は、知っています。\u003cbr\u003eきみがアイドルのために、いつもがんばっていることを。\u003cbr\u003eアイドルのために、日々悩み、必死になって走っていることを",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードは、色条件を満たさずに手札からプレイできる。あなたは相手のキャラを1枚選び、そのターン中、ソウルを＋4し、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GIM/W124-T07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_t07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_t07.png",
+	"tags": null,
+	"expansionId": 513
 }

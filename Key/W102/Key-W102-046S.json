@@ -15,7 +15,7 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"Anniversary",
 		"ルーパーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Key/W102-046S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/key_w102_046s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/key_w102_046s.png",
+	"tags": null,
+	"expansionId": 406
 }

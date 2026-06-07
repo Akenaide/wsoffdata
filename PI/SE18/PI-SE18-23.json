@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "友達を見捨てたままじゃ前へは進めないって",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE18-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se18/pi_se18_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se18/pi_se18_023.png",
+	"tags": null,
+	"expansionId": 108
 }

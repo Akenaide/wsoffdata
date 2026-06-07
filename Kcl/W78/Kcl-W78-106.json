@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "その…占いには…必要だと思ったので…",
+	"trigger": null,
 	"ability": [
-		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《Anniversary》か《双子》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの、《Anniversary》か《双子》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。"
+		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《Anniversary》か《双子》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003e【自】 この能力は1ターンにつき2回まで発動する。他のあなたの、《Anniversary》か《双子》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"双子",
 		"占い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kcl/W78-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kcl_w78/kcl_w78_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kcl_w78/kcl_w78_106.png",
+	"tags": null,
+	"expansionId": 296
 }

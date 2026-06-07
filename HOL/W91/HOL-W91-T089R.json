@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "わため「兎先輩！！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×1000に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"3期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T089R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t089r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t089r.png",
+	"tags": null,
+	"expansionId": 354
 }

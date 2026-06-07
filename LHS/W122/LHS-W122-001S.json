@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのキャラのトリガーチェックでCXがでた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。この効果で控え室に置かれたカードに「Dream Believers 乙宗 梢」があるなら、あなたは自分の控え室の「Dream Believers 乙宗 梢」を1枚まで選び、ストック置場の下に置く。"
+		"【自】 あなたのキャラのトリガーチェックでCXがでた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。この効果で控え室に置かれたカードに「Dream Believers 乙宗 梢」があるなら、あなたは自分の控え室の「Dream Believers 乙宗 梢」を1枚まで選び、ストック置場の下に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"スリーズブーケ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LHS/W122-001S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_001s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lhs_w122/lhs_w122_001s.png",
+	"tags": null,
+	"expansionId": 502
 }

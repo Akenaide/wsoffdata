@@ -15,19 +15,19 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おかわり！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「とらドラ！」があり、他のあなたのキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、《電撃文庫》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「とらドラ！」があり、他のあなたのキャラが2枚以上なら、あなたは自分の山札を上から3枚まで見て、《電撃文庫》のキャラを2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"青春",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gtd/WS02-009SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gtd_ws02_009sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gtd_ws02_009sp.png",
+	"tags": null,
+	"expansionId": 439
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "でもみんな私と同じで、誰かの中にお邪魔してると思います",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
 		"【永】 他のあなたの、「メロディア」と「“歌だけじゃない”茉莉音」すべてに、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"エレメント",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_013.png",
+	"tags": null,
+	"expansionId": 136
 }

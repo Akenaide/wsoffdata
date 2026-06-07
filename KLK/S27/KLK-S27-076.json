@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何！？",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「純潔」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
@@ -25,8 +25,9 @@
 		"服",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_076.png",
+	"tags": null,
+	"expansionId": 117
 }

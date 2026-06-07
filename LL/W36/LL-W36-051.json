@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたのためだけの特別なおまんじゅう、作っちゃおうかな♪",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中の《音楽》のキャラが【リバース】した時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"傘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_051.png",
+	"tags": null,
+	"expansionId": 142
 }

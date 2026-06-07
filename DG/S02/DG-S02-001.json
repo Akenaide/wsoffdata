@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ラズベリル「不良はクールに決めねぇとな！」",
+	"trigger": null,
 	"ability": [
 		"【自】このカードが手札から舞台に置かれた時、あなたは相手の控え室のクライマックスを1枚選び、山札に戻してよい。そうしたら、その山札をシャッフルし、そのターン中、このカードのパワーを＋1000し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_001.png",
+	"tags": null,
+	"expansionId": 5
 }

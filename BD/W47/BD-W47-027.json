@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "は～",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき3回まで発動する。他のあなたの《音楽》のキャラが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の、《音楽》かカード名に「明日香」を含むキャラを1枚選び、手札に戻す。"
+		"【自】 この能力は1ターンにつき3回まで発動する。他のあなたの《音楽》のキャラが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の、《音楽》かカード名に「明日香」を含むキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"星"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_027.png",
+	"tags": null,
+	"expansionId": 196
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これはこれはお姫さま、ごきげんよう",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの「優しい少年 ユタカ」がいるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_092.png",
+	"tags": null,
+	"expansionId": 87
 }

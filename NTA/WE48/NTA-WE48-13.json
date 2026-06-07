@@ -15,21 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのCX置場にトリガーアイコンが[SHOT]を得る。",
-		"【永】 あなたのターン中、あなたのキャラすべてが《魔法》か《武器》なら、このカードのパワーを＋6000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「ホーネットジャベリン」があるなら、あなたは自分の控え室の、《魔法》か《武器》のキャラを1枚まで選び、ストック置場に置き、自分の山札を見て《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのCX置場にトリガーアイコンが[[shot.gif]]のCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[[shot.gif]]を得る。\u003cbr\u003e【永】 あなたのターン中、あなたのキャラすべてが《魔法》か《武器》なら、このカードのパワーを＋6000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのCX置場に「ホーネットジャベリン」があるなら、あなたは自分の控え室の、《魔法》か《武器》のキャラを1枚まで選び、ストック置場に置き、自分の山札を見て《魔法》か《武器》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NTA/WE48-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nta_we48/nta_we48_13.png",
+	"tags": null,
+	"expansionId": 518
 }

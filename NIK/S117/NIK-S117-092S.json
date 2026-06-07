@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「スノーホワイト：イノセントデイズ」がいないなら、他のあなたのすべての領域のトリガーアイコンが[COMEBACK]を与える。",
-		"【永】 他のあなたの《NIKKE》のキャラが3枚以上で、他のあなたの「スノーホワイト：イノセントデイズ」がいないなら、あなたの手札の「最高の仲間たちへ レッドフード」のレベルを－1。",
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。"
+		"【永】 他のあなたの「スノーホワイト：イノセントデイズ」がいないなら、他のあなたのすべての領域のトリガーアイコンが[[salvage.gif]]のCXのトリガーアイコンに[[soul.gif]]を与える。\u003cbr\u003e【永】 他のあなたの《NIKKE》のキャラが3枚以上で、他のあなたの「スノーホワイト：イノセントデイズ」がいないなら、あなたの手札の「最高の仲間たちへ レッドフード」のレベルを－1。\u003cbr\u003e【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"ゴッデス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-092S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_092s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_092s.png",
+	"tags": null,
+	"expansionId": 494
 }

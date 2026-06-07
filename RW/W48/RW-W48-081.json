@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［手札のキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の自分のレベル以下のレベルの「“小鳥さん謹製”魔物」を1枚選び、舞台の好きな枠に置く。"
+		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［手札のキャラを1枚控え室に置き、このカードを【レスト】する］ あなたは自分の控え室の自分のレベル以下のレベルの「“小鳥さん謹製”魔物」を1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"植物",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W48-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_081.png",
+	"tags": null,
+	"expansionId": 186
 }

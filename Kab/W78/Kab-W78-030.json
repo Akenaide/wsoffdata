@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "関根「いやいや、クライマックスはこれからですよ！」",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場に「イタズラ好き 関根」があるなら、このカードのパワーを＋3000。"
 	],
@@ -25,8 +25,9 @@
 		"死",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kab/W78-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kab_w78/kab_w78_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kab_w78/kab_w78_030.png",
+	"tags": null,
+	"expansionId": 296
 }

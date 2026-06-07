@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたの、《動物》か《植物》のキャラが5枚以上なら、あなたは相手のキャラを1枚選び、【レスト】する。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TL/W42-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_049.png",
+	"tags": null,
+	"expansionId": 163
 }

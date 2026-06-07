@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "スバル「こいつ！とっくに人の心を失ってる！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－2。",
-		"【自】 他のあなたの《ホロライブ》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×500に等しい。"
+		"【永】 舞台のこのカードのレベルを－2。\u003cbr\u003e【自】 他のあなたの《ホロライブ》のキャラがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《ホロライブ》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"4期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-T107R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_t107r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_t107r.png",
+	"tags": null,
+	"expansionId": 355
 }

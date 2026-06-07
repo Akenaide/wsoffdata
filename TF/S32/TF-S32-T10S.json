@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "放せよ",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「既知との遭遇」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"改造",
 		"虫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TF/S32-T10S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_t10s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_t10s.png",
+	"tags": null,
+	"expansionId": 112
 }

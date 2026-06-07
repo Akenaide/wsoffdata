@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、あの、チュラカーギーっていうのは\u003cbr /\u003e『美人』って意味です",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×2000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"スポーツ",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_090.png",
+	"tags": null,
+	"expansionId": 85
 }

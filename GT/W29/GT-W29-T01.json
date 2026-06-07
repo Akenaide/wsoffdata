@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はーいっ！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"タロット",
 		"占い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_t01.png",
+	"tags": null,
+	"expansionId": 88
 }

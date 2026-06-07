@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺は、知っていると思った。\u003cbr\u003eこのまぶしさを、確かに知っている",
+	"trigger": null,
 	"ability": [
-		"集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の《サマポケ》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《サマポケ》のキャラの枚数に等しい。",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。"
+		"集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の《サマポケ》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《サマポケ》のキャラの枚数に等しい。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SMP/W130-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w130/smp_w130_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w130/smp_w130_026.png",
+	"tags": null,
+	"expansionId": 521
 }

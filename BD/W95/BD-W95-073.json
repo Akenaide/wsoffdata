@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "オモチャでも、驚かせるくらいはできるはず……！\u003cbr\u003eその隙に逃げれば……",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《Poppin\u0026#39;Party》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】［(1)］ このカードがアタックした時、このターン中、あなたがイベントをプレイしているなら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【永】 あなたのターン中、他のあなたの、《Anniversary》か《Poppin'Party》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】［(1)］ このカードがアタックした時、このターン中、あなたがイベントをプレイしているなら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_073.png",
+	"tags": null,
+	"expansionId": 382
 }

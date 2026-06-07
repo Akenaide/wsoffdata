@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ルディってスゴイ……犬だけど",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「ルンデルハウス」を含むキャラすべてに、パワーを＋500。",
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《武器》か《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"武器",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_10.png",
+	"tags": null,
+	"expansionId": 118
 }

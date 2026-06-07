@@ -10,23 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うるせぇバーカ!!",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「御行」か「優」を含むキャラがいないなら、手札からプレイできない。",
-		"次の3つの効果のうちあなたが選んだ1つを行う。",
-		"『あなたのキャラすべてに、そのターン中、ソウルを＋1。』",
-		"『あなたは相手のキャラを5枚まで選び、思い出にし、相手は自分の思い出置場のそれらのキャラを、舞台の別々の枠に置く。』",
-		"『相手の思い出が5枚以上なら、相手は自分の思い出置場のキャラすべてを、控え室に置く。』"
+		"このカードは、あなたのカード名に「御行」か「優」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003e次の3つの効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたのキャラすべてに、そのターン中、ソウルを＋1。』\u003cbr\u003e『あなたは相手のキャラを5枚まで選び、思い出にし、相手は自分の思い出置場のそれらのキャラを、舞台の別々の枠に置く。』\u003cbr\u003e『相手の思い出が5枚以上なら、相手は自分の思い出置場のキャラすべてを、控え室に置く。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KGL/S79-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_019.png",
+	"tags": null,
+	"expansionId": 317
 }

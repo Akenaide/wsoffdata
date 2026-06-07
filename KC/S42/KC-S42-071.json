@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "瑞穂をお呼びかしら？嬉しいわ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《艦娘》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《艦娘》のキャラを1枚選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《艦娘》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\u003cbr\u003e【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《艦娘》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"水上機母艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_071.png",
+	"tags": null,
+	"expansionId": 173
 }

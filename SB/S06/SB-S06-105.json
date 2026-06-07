@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "恐れを超えよ、それが誠の勇気なり！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手の【スタンド〕しているキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"鉢巻"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_105.png",
+	"tags": null,
+	"expansionId": 13
 }

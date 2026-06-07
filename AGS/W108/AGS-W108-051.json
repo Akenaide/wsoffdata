@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。"
+		"【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。"
 	],
 	"specialAttrib": [
 		"アリスギア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AGS/W108-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ags_w108/ags_w108_051.png",
+	"tags": null,
+	"expansionId": 446
 }

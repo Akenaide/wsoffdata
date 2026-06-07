@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "うますぎる！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの正面のキャラとこのカードのレベルの合計が6以上なら、このカードのパワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－4500。",
-		"【自】 このカードがアタックした時、クライマックス置場に「ハリネズミのジレンマ」があるなら、あなたは自分のクロックの上から1枚を、ストック置場に置いてよい。"
+		"【永】 このカードの正面のキャラとこのカードのレベルの合計が6以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－4500。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「ハリネズミのジレンマ」があるなら、あなたは自分のクロックの上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"６つ子",
 		"まゆげ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_036.png",
+	"tags": null,
+	"expansionId": 171
 }

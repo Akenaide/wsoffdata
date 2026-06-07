@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "温泉の効能書き。何にきくのかな～って\u003cbr /\u003eやっぱり温泉だし、ちゃんとした効能があるみたいよ",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"ガール",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_014.png",
+	"tags": null,
+	"expansionId": 144
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お姉ちゃん、似合うかな…？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「妹を守るかがみ」すべてに、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"双子",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_105.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_105.gif",
+	"tags": null,
+	"expansionId": 12
 }

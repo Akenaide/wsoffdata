@@ -15,18 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ボーちゃん「石 いい」",
+	"trigger": null,
 	"ability": [
-		"【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から4枚を、控え室に置き、自分の控え室のレベルＸ以下の、《MOVIE》か《幼稚園》のキャラを1枚まで選び、手札に戻す。Ｘはそれらのカードのトリガーアイコンの[SOUL]の合計に等しい。"
+		"【自】［手札を1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から4枚を、控え室に置き、自分の控え室のレベルＸ以下の、《MOVIE》か《幼稚園》のキャラを1枚まで選び、手札に戻す。Ｘはそれらのカードのトリガーアイコンの[[soul.gif]]の合計に等しい。"
 	],
 	"specialAttrib": [
 		"MOVIE",
 		"幼稚園",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-035S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_035s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_035s.png",
+	"tags": null,
+	"expansionId": 480
 }

@@ -15,17 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードを手札に戻してよい。（CXのレベルは0として扱う）",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《MARVEL》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
+		"【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードを手札に戻してよい。（CXのレベルは0として扱う）\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《MARVEL》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S124-005S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_005s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s124/mar_s124_005s.png",
+	"tags": null,
+	"expansionId": 527
 }

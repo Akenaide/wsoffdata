@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うあっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《アバター》か《ネット》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"SHINC"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/S59-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_016.png",
+	"tags": null,
+	"expansionId": 245
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ボクがやる事は一つ……逃げて、逃げて、逃げまくる！",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードを手札に戻してよい。（CXのレベルは0として扱う）",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【自】 相手のドローフェイズの始めに、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにレベル2以上のカードがあるなら、あなたはこのカードを手札に戻してよい。（CXのレベルは0として扱う）\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"ウマ娘",
 		"シンデレラグレイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W134-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w134/uma_w134_045.png",
+	"tags": null,
+	"expansionId": 540
 }

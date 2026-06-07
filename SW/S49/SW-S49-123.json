@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おそらくまた訓練だろう",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の赤のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの赤のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-123",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_123.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_123.png",
+	"tags": null,
+	"expansionId": 199
 }

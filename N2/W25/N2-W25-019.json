@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "バルディッシュ・アサルト！\u003cbr /\u003eセーット！　アーップ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【自】 チェンジ ［(1) このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ソニックドライブ フェイト」を1枚選び、このカードがいた枠に置く。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_019.png",
+	"tags": null,
+	"expansionId": 94
 }

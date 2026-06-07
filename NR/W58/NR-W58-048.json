@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なのは「それっ！」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたの、《魔法》か《武器》のキャラが5枚以上なら、あなたは相手のキャラを1枚選び、【レスト】する。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NR/W58-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_048.png",
+	"tags": null,
+	"expansionId": 226
 }

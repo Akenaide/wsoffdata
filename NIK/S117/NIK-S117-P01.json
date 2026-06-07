@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのCX置場にトリガーアイコンが[SHOT]を得る。",
-		"【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の山札を見て《NIKKE》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのCX置場にトリガーアイコンが[[shot.gif]]のCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[[shot.gif]]を得る。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の山札を見て《NIKKE》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"カウンターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

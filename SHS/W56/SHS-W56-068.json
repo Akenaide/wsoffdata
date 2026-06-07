@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それこそがギャルゲーの主人公の醍醐味だよ、詩羽先輩！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。",
-		"【自】【CXコンボ】 相手がレベルアップした時、あなたは自分のクライマックス置場の「二人の夜の選択肢」を1枚選び、手札に戻してよい。"
+		"【永】 他のあなたの《ゲーム》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】【CXコンボ】 相手がレベルアップした時、あなたは自分のクライマックス置場の「二人の夜の選択肢」を1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_068.png",
+	"tags": null,
+	"expansionId": 220
 }

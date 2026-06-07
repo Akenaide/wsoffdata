@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あの時、私、なんてお願いごと書いたんだろ？",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラは他の枠に動かせない。",
-		"【永】 このカードはサイドアタックできない。"
+		"【永】 このカードの正面のキャラは他の枠に動かせない。\u003cbr\u003e【永】 このカードはサイドアタックできない。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

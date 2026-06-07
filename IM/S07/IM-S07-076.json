@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、あの。私なんかの水着を見て喜ぶ人がいるんでしょうか？もっと、他の人の方が……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「癒し系あずさ」がいるなら、このカードのパワーを＋1000。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_076.png",
+	"tags": null,
+	"expansionId": 29
 }

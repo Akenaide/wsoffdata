@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "CANDY ISLANDですっ♥",
+	"trigger": null,
 	"ability": [
 		"【自】[(1)］ このカードがアタックした時、クライマックス置場に「本気を出した結果」があるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"飴"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_047.png",
+	"tags": null,
+	"expansionId": 151
 }

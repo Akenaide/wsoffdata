@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "その考え方は、危ないよ。正義とは随分程遠い",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「火憐」か「月火」を含むキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_036.png",
+	"tags": null,
+	"expansionId": 105
 }

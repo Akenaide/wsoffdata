@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私、歌います！　私の歌が、\u003cbr /\u003eみんなの力になるというのなら…！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
 		"【永】 記憶 相手のターン中、あなたの思い出置場に「765プロ地獄の特訓」があるなら、他のあなたのキャラすべてに、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_078.png",
+	"tags": null,
+	"expansionId": 64
 }

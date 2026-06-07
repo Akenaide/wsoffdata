@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "全身全霊で！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《Roselia》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+		"【永】 他のあなたの《Roselia》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_106.png",
+	"tags": null,
+	"expansionId": 286
 }

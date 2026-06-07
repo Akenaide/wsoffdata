@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "5",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 次の行動を4回行う。『あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－1。』』",
-		"このカードを思い出にする。"
+		"【カウンター】 次の行動を4回行う。『あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－1。』』\u003cbr\u003eこのカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LNJ/W97-060S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w97/lnj_w97_060s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w97/lnj_w97_060s.png",
+	"tags": null,
+	"expansionId": 390
 }

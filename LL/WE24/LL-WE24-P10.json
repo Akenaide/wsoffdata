@@ -15,17 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "花を咲かせる―――――",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE24-P10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we24/ll_we24_p10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we24/ll_we24_p10.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -10,21 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "穂乃香「悪い虫がつかなくなるでしょ？」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《キズナ》のキャラが2枚以下なら、手札からプレイできない。",
-		"あなたは自分の山札の上から1枚を公開する。そのカードが《キズナ》のキャラならストック置場に置く。（そうでないなら元に戻す）",
-		"あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－3000。"
+		"このカードは、あなたの《キズナ》のキャラが2枚以下なら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から1枚を公開する。そのカードが《キズナ》のキャラならストック置場に置く。（そうでないなら元に戻す）\u003cbr\u003eあなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－3000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KI/S44-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_046.png",
+	"tags": null,
+	"expansionId": 177
 }

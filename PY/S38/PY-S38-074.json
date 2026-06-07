@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ボクはいま　むずかし～い魔導書で\u003cbr/\u003eけんきゅうをしているんだ",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－1。",
-		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
+		"【永】 舞台のこのカードのレベルを－1。\u003cbr/\u003e【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
 	],
 	"specialAttrib": [
 		"ぷよ",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_074.png",
+	"tags": null,
+	"expansionId": 160
 }

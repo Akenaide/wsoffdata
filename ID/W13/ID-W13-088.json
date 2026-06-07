@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "このバスに乗ればよいのでございましょうか？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《魔法》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"シスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ID/W13-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/id_w13/id_w13_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/id_w13/id_w13_088.png",
+	"tags": null,
+	"expansionId": 54
 }

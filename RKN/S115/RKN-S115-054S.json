@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《明治剣客浪漫譚》のキャラがいるなら、このカードのパワーを＋3000。",
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
+		"【永】 あなたのターン中、他のあなたの《明治剣客浪漫譚》のキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"剣客"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-054S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_054s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_054s.png",
+	"tags": null,
+	"expansionId": 479
 }

@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "本日のお食事はさんまライスにさんまステーキ、\u003cbr /\u003eさんまスープ、デザートはさんまアイスとなっております☆",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"メイド",
 		"オッドアイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_031.png",
+	"tags": null,
+	"expansionId": 65
 }

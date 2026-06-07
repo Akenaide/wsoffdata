@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あと、前日がホワイトデーですので、\u003cbr /\u003e恋愛の特集とかしたら女子が盛り上がると思います",
+	"trigger": null,
 	"ability": [
 		"【永】 前列にこのカードがいるなら、このカードはあなたのスタンドフェイズに【スタンド】しない。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WPR-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_wpr/dc3_wpr_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_wpr/dc3_wpr_004.png",
+	"tags": null,
+	"expansionId": 12
 }

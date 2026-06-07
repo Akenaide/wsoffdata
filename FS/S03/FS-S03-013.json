@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お姉ちゃんはちょっと寂しいかな",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「桜」を含むキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「士郎」を含むキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"先生",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_013.png",
+	"tags": null,
+	"expansionId": 7
 }

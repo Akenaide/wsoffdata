@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアタックフェイズの始めに、前列にこのカードがいるなら、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"ヒール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_104.png",
+	"tags": null,
+	"expansionId": 232
 }

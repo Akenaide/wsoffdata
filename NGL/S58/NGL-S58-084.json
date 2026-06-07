@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "勝ち逃げはさせない。\u003cbr\u003e次は僕が勝つ――",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、カード名に「空」を含むキャラとカード名に「白」を含むキャラを1枚ずつ選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"唯一神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_084.png",
+	"tags": null,
+	"expansionId": 236
 }

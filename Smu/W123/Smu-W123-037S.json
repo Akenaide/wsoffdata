@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "夢の続きの、その先で――待ってるから",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《スニーカー文庫》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの《スニーカー文庫》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以上のキャラなら手札に加える。（そうでないなら元に戻す）"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《スニーカー文庫》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、他のあなたの《スニーカー文庫》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以上のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"虫憑き",
 		"夢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Smu/W123-037S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/smu_w123_037s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/smu_w123_037s.png",
+	"tags": null,
+	"expansionId": 510
 }

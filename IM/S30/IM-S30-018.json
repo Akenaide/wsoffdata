@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんなでおそろいっていいですよね♪",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのレベルが2以上なら、このカードのパワーを－1000し、ソウルを＋1。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「夕食後はミーティング！」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+		"【永】 あなたのレベルが2以上なら、このカードのパワーを－1000し、ソウルを＋1。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「夕食後はミーティング！」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_018.png",
+	"tags": null,
+	"expansionId": 129
 }

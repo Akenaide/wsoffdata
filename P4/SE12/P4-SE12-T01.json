@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "菜々子「おにいちゃん……」",
+	"trigger": null,
 	"ability": [
 		"【永】 舞台にこのカードがいるなら、このカードのカード名は「“お兄ちゃん”主人公」としても扱う。",
 		"【永】  他のあなたの「しっかり者の小学生 菜々子」すべてに、パワーを＋1000。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_t01.png",
+	"tags": null,
+	"expansionId": 67
 }

@@ -10,21 +10,22 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "IQ1000ぐらいの超天才美少女、明智小衣ちゃんですー！",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの《警察》のキャラがいないなら、手札からプレイできない。",
 		"相手にＸダメージを与える。Ｘはあなたの控え室のクライマックスの枚数に等しい。（ダメージキャンセルは発生する）",
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/S33-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_072.png",
+	"tags": null,
+	"expansionId": 136
 }

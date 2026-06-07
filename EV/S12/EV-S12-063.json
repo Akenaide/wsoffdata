@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "悪いね。このあいだの騒ぎで、あいつの妹さんケガしちゃってさ",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_063.png",
+	"tags": null,
+	"expansionId": 49
 }

@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここまで来たら……\u003cbr\u003eそれを見ないわけにはいかねーだろ、香澄",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《Poppin\u0026#39;Party》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《Poppin\u0026#39;Party》のキャラの枚数×500に等しい。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《Poppin'Party》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《Poppin'Party》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-113S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_113s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_113s.png",
+	"tags": null,
+	"expansionId": 382
 }

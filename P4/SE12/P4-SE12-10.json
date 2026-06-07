@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これが、俺の、チカラ――",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の手札の「悠＆イザナギ」を1枚まで選び、舞台の好きな枠に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P4/SE12-10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_10.png",
+	"tags": null,
+	"expansionId": 75
 }

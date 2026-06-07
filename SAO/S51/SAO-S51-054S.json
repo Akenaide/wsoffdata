@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まま、いいじゃあないの",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】［(1)］ あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[SOUL]なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】［(1)］ あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[[soul.gif]][[soul.gif]]なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S51-054S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s51/sao_s51_054s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s51/sao_s51_054s.png",
+	"tags": null,
+	"expansionId": 209
 }

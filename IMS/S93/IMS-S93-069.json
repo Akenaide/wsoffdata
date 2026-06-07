@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こんな大軍を前にして、くじけないなんて……スパルタ兵のみんな、すごい勇気だね……！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】 このカードがアタックした時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+		"【永】 他のあなたの《音楽》のキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードがアタックした時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"プロレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_069.png",
+	"tags": null,
+	"expansionId": 392
 }

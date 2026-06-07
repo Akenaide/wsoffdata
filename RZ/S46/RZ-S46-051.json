@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "レムに……ラムの妹に触らないで！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてがカード名に「ロズワール」か「ラム」か「レム」を含むなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてがカード名に「ロズワール」か「ラム」か「レム」を含むなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\u003cbr\u003e【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
 	],
 	"specialAttrib": [
 		"魔法",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S46-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s46/rz_s46_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s46/rz_s46_051.png",
+	"tags": null,
+	"expansionId": 185
 }

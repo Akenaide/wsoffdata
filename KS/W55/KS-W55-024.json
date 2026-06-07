@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そして、そんな状態の私を追いかけてく――!!",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたは相手の前列のキャラを1枚選び、前列のキャラのいない他の枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"煩悩"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_024.png",
+	"tags": null,
+	"expansionId": 214
 }

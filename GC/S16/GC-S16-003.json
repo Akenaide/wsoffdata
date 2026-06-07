@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "トリトンは私のナイトなんでしょう？\u003cbr /\u003eだから、これからも私を守って",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「運命を受け入れる涯」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「運命を受け入れる涯」を1枚選び、手札に戻す）",
 		"【自】【クロック】 シフト レベル0 （あなたのメインフェイズの始めに、あなたは自分の手札の黄のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_003.png",
+	"tags": null,
+	"expansionId": 76
 }

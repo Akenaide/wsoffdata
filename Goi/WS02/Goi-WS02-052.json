@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "見返してやれたかな？",
+	"trigger": null,
 	"ability": [
 		"【自】［(2) このカードを手札に戻す］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"電撃文庫",
 		"ダンス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Goi/WS02-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/goi_ws02_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/goi_ws02_052.png",
+	"tags": null,
+	"expansionId": 439
 }

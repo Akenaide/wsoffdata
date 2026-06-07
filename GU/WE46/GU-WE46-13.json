@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おかえりなさい！はどんな世界で言われても安心するのよ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"甘兎庵",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE46-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we46/gu_we46_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we46/gu_we46_13.png",
+	"tags": null,
+	"expansionId": 487
 }

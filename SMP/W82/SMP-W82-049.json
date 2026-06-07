@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おふろー、かえったら、おふろー",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《サマポケ》のキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】【CXコンボ】［手札の《サマポケ》のキャラを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「お決まりの朝食」があるなら、あなたは自分の控え室の《サマポケ》のキャラを1枚まで選び、手札に戻し、コストを払ってよい。そうしたら、あなたは自分の控え室の、《サマポケ》のキャラか「Summer Pockets」を1枚選び、手札に戻す。"
+		"【永】 あなたのターン中、他のあなたの《サマポケ》のキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】【CXコンボ】［手札の《サマポケ》のキャラを1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「お決まりの朝食」があるなら、あなたは自分の控え室の《サマポケ》のキャラを1枚まで選び、手札に戻し、コストを払ってよい。そうしたら、あなたは自分の控え室の、《サマポケ》のキャラか「Summer Pockets」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W82-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w82/smp_w82_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w82/smp_w82_049.png",
+	"tags": null,
+	"expansionId": 311
 }

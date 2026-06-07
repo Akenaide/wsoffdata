@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "これで、最後だからね！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"コロニー",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SK/WE03-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sk_we03/sk_we03_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sk_we03/sk_we03_003.png",
+	"tags": null,
+	"expansionId": 23
 }

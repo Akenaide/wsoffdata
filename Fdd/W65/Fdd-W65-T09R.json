@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うふふ、うれしいことを言ってくれるわね",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《ファンタジア文庫》か《悪魔》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -25,8 +25,9 @@
 		"悪魔",
 		"王"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fdd/W65-T09R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdd_w65/fdd_w65_t09r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fdd_w65/fdd_w65_t09r.png",
+	"tags": null,
+	"expansionId": 263
 }

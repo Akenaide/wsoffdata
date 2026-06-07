@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "夢結「ノインヴェルトとは9つの世界という意味よ」",
+	"trigger": null,
 	"ability": [
 		"あなたの《リリィ》のキャラが5枚以上なら、相手に4ダメージを与え、あなたは自分の山札の上から9枚を、控え室に置く。それらのカードにカード名に「梨璃」を含むキャラと「夢結」を含むキャラと「楓」を含むキャラと「二水」を含むキャラと「鶴紗」を含むキャラと「梅」を含むキャラと「神琳」を含むキャラと「雨嘉」を含むキャラと「ミリアム」を含むキャラが別々に1枚ずつあるなら、相手に2ダメージを4回与える。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ALL/S76-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s76/all_s76_063.png",
+	"tags": null,
+	"expansionId": 337
 }

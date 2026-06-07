@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…約束守ってくれてありがとう、ユウくん",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】［あなたのクライマックス置場の「クレイジー・アップル」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《グリザイア》のキャラを1枚選び、手札に戻す。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】【CXコンボ】［あなたのクライマックス置場の「クレイジー・アップル」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《グリザイア》のキャラを1枚選び、手札に戻す。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《グリザイア》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_088.png",
+	"tags": null,
+	"expansionId": 285
 }

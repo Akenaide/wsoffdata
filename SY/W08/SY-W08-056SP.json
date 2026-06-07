@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードとバトル中のキャラが【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「“いつも”のハルヒ」を1枚選び、舞台の好きな枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"団長",
 		"SOS団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-056SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_056sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_056sp.png",
+	"tags": null,
+	"expansionId": 35
 }

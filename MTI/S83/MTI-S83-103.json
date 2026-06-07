@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ギレーヌだ。明日から宜しく頼む",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【永】 他のあなたのキャラがいないなら、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"剣士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_103.png",
+	"tags": null,
+	"expansionId": 346
 }

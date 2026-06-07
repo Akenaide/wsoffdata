@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "流石梓川、ブタ野郎だね",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。"
+		"【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_105.png",
+	"tags": null,
+	"expansionId": 261
 }

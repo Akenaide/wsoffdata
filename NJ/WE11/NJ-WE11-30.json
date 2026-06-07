@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はっかせだにゃん！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の【スタンド】しているキャラを1枚選び、【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NJ/WE11-30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nj_we11/nj_we11_30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nj_we11/nj_we11_30.png",
+	"tags": null,
+	"expansionId": 70
 }

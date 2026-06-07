@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゆんゆん「めぐみんもやっぱり里の皆が心配になったの？」",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのカードのトリガーアイコンが[COMEBACK]なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのカードのトリガーアイコンが[[salvage.gif]]なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_029.png",
+	"tags": null,
+	"expansionId": 291
 }

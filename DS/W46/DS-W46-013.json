@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "人の幸せが見えて、それを操作しちゃうことが、どれだけ怖いことか……分かる？",
+	"trigger": null,
 	"ability": [
-		"このカードを思い出にする。",
-		"【自】 記憶 ［このカードを控え室に置く］ あなたの受けたダメージがキャンセルされなかった時、思い出置場にこのカードがあり、そのダメージが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《風南島》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、ストック置場に置き、その山札をシャッフルする。"
+		"このカードを思い出にする。\u003cbr\u003e【自】 記憶 ［このカードを控え室に置く］ あなたの受けたダメージがキャンセルされなかった時、思い出置場にこのカードがあり、そのダメージが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《風南島》のキャラを2枚まで選んで相手に見せ、手札に加え、自分の手札を1枚選び、ストック置場に置き、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DS/W46-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w46/ds_w46_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w46/ds_w46_013.png",
+	"tags": null,
+	"expansionId": 178
 }

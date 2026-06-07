@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰もが私の演出で踊るのだ。私の舞台で！　私のカンバスで！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
 		"【自】［(1) このカードを【レスト】する］ 他のあなたのキャラが舞台からクロック置場に置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
@@ -25,8 +25,9 @@
 		"メガネ",
 		"マスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_080.png",
+	"tags": null,
+	"expansionId": 32
 }

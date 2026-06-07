@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっと待ってくださいね。今、調べてみます",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場に「“無能力者”佐天」があるなら、このカードのパワーを＋1000。",
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「風紀委員の覚悟」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《風紀委員》かカード名に「佐天」を含むキャラを1枚まで選んで相手に見せ、手札に加える。残りのカードを控え室に置く。"
@@ -25,8 +25,9 @@
 		"超能力",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W10-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w10/rg_w10_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w10/rg_w10_026.png",
+	"tags": null,
+	"expansionId": 40
 }

@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自分を偽っている人の歌が誰かの心に届くわけがない……",
+	"trigger": null,
 	"ability": [
 		"相手は自分の山札の上から6枚を公開し、その山札をシャッフルし、自分の山札の上からＸ枚を、クロック置場に置く。Ｘはそれらのカードのクライマックスの枚数に等しい。このカードを山札の下に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LNJ/W97-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w97/lnj_w97_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w97/lnj_w97_027.png",
+	"tags": null,
+	"expansionId": 390
 }

@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "正直、どの作品がいいのか悪いのかわからなかったけど……\u003cbr\u003eそれでも、これが一番好きっていうのはあったから",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの、《Anniversary》か《Morfonica》のキャラが3枚以下なら、手札からプレイできない。",
-		"あなたは自分の「“花丸リーダーシップ”二葉つくし」を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室のカード名に「つくし」を含むキャラを1枚選び、舞台の好きな枠に置く。"
+		"このカードは、あなたの、《Anniversary》か《Morfonica》のキャラが3枚以下なら、手札からプレイできない。\u003cbr\u003eあなたは自分の「“花丸リーダーシップ”二葉つくし」を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室のカード名に「つくし」を含むキャラを1枚選び、舞台の好きな枠に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W95-120S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_120s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_120s.png",
+	"tags": null,
+	"expansionId": 382
 }

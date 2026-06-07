@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの「遊軍 市川レノ」がいるなら、このカードのパワーを＋4000。",
-		"【自】［手札の、《防衛隊》か《怪獣》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「遊軍 市川レノ」を1枚選び、舞台の好きな枠に置く。"
+		"【永】 あなたのターン中、他のあなたの「遊軍 市川レノ」がいるなら、このカードのパワーを＋4000。\u003cbr\u003e【自】［手札の、《防衛隊》か《怪獣》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「遊軍 市川レノ」を1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"防衛隊",
 		"エリート"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KJ8/S123-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kj8_s123/kj8_s123_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kj8_s123/kj8_s123_018.png",
+	"tags": null,
+	"expansionId": 525
 }

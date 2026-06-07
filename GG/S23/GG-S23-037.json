@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ピニオン「…お前、黒いな」",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"メカ",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_037.png",
+	"tags": null,
+	"expansionId": 101
 }

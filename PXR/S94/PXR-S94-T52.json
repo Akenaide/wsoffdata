@@ -15,19 +15,19 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「再起をかけた挑戦」があり、他のあなたの《PIXAR》のキャラが2枚以上なら、相手に1ダメージを与え、そのターン中、このカードのソウルを＋1。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「再起をかけた挑戦」があり、他のあなたの《PIXAR》のキャラが2枚以上なら、相手に1ダメージを与え、そのターン中、このカードのソウルを＋1。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S94-T52",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s94/pxr_s94_t52.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s94/pxr_s94_t52.png",
+	"tags": null,
+	"expansionId": 398
 }

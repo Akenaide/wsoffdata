@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】【CXコンボ】［(2) 他のあなたの舞台の《リベンジ》のキャラを1枚控え室に置く］ あなたは自分の控え室の「オレの“ヒーロー”」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"リベンジ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TRV/S92-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_063.png",
+	"tags": null,
+	"expansionId": 389
 }

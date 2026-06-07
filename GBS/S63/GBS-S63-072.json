@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "女神官「十年前、蘇った魔神王を討ち滅ぼした金等級、第二位の冒険者」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《秩序》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「揺れる乙女の肖像」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置く。"
+		"【永】 他のあなたの《秩序》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「揺れる乙女の肖像」があるなら、あなたは自分の山札の上から2枚までを、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"大司教"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_072.png",
+	"tags": null,
+	"expansionId": 260
 }

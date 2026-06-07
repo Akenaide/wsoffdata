@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんか最近、このあたしがイベントに、参加させられてる率が高い気ガス",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの黄のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「頭を使え」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、ソウルを＋1。"
+		"【永】 あなたのターン中、他のあなたの黄のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】［(1)］ このカードがアタックした時、クライマックス置場に「頭を使え」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_017.png",
+	"tags": null,
+	"expansionId": 131
 }

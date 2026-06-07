@@ -1,6 +1,6 @@
 {
 	"set": "KGL",
-	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"setName": "かぐや様は告らせたい？\u003cs\u003e～天才たちの恋愛頭脳戦～\u003c/s\u003e",
 	"side": "S",
 	"release": "95",
 	"id": "008",
@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、「天才たちの真剣勝負 千花」か「生徒会最後の日 千花」すべてに、パワーを＋1000。",
-		"【永】【CXコンボ】 あなたのクライマックス置場に、「ヨー！メーン♪」か「繰り返される過ち」があるなら、すべての領域にあるこのカードはトリガーアイコンに[CHOICE]を得る。"
+		"【永】 他のあなたの、「天才たちの真剣勝負 千花」か「生徒会最後の日 千花」すべてに、パワーを＋1000。\u003cbr\u003e【永】【CXコンボ】 あなたのクライマックス置場に、「ヨー！メーン♪」か「繰り返される過ち」があるなら、すべての領域にあるこのカードはトリガーアイコンに[[choice.gif]]を得る。"
 	],
 	"specialAttrib": [
 		"秀知院",
 		"書記"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S95-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s95/kgl_s95_008.png",
+	"tags": null,
+	"expansionId": 394
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あの日のこと、覚えてる？",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W23-P08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_p08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w23/dc_w23_p08.png",
+	"tags": null,
+	"expansionId": 12
 }

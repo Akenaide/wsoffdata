@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だってこんなご時世だもん。\u003cbr /\u003e言ったもん勝ちだと違う？",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"葬儀社",
 		"オペレーター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_084.png",
+	"tags": null,
+	"expansionId": 76
 }

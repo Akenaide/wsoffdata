@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よく見てごらんよ、ハロゲンヒーターが\u003cbr /\u003eなななーんと３９０円也。チョーふしぎ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《植物》のキャラなら、そのターン中、このカードのソウルを＋1。そのカードが《オカルト》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"植物",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_006.png",
+	"tags": null,
+	"expansionId": 65
 }

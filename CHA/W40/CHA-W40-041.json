@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ピザソースの恨み…晴らす！！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《能力者》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
+		"【永】 他のあなたの《能力者》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"能力者",
 		"ピザソース"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_041.png",
+	"tags": null,
+	"expansionId": 152
 }

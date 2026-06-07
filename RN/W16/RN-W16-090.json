@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これまでの実験はすべて、\u003cbr /\u003eこの日のためにあったと言ってもいい。\u003cbr /\u003eこれはプロジェクト・アトゥムの前兆だ",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《科学》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_090.png",
+	"tags": null,
+	"expansionId": 86
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "助けてくれてありがと……それから……\u003cbr /\u003eまた会えてすごく嬉しいよ……",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000。",
 		"【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_054.png",
+	"tags": null,
+	"expansionId": 44
 }

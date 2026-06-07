@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "知らないわよそんなの",
+	"trigger": null,
 	"ability": [
 		"【自】［(2) このカードをクロック置場に置く］ あなたのクライマックス置場に「夏の終わり」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「お花見 ハルヒ」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"団長",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/WE09-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_we09/sy_we09_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_we09/sy_we09_17.png",
+	"tags": null,
+	"expansionId": 52
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マシュ「ギルガメッシュ王の手ですでにサーヴァントが召喚されていたなんて頼もしい味方ですね！」",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの「語り継がれし英雄 牛若丸」すべてに、パワーを＋2000。",
-		"【起】［このカードを【レスト】する］ あなたは自分の、《カルデア》か《バビロニア》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 あなたのターン中、他のあなたの「語り継がれし英雄 牛若丸」すべてに、パワーを＋2000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の、《カルデア》か《バビロニア》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"バビロニア",
 		"英雄"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_065.png",
+	"tags": null,
+	"expansionId": 298
 }

@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "金剛と一緒におでかけする準備はよろしくて？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの後列の《艦船》のキャラ1枚につき、このカードのパワーを＋2500。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《艦船》のキャラが4枚以上なら、あなたは自分の控え室の《艦船》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【永】 他のあなたの後列の《艦船》のキャラ1枚につき、このカードのパワーを＋2500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《艦船》のキャラが4枚以上なら、あなたは自分の控え室の《艦船》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"重桜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-T54R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_t54r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_t54r.png",
+	"tags": null,
+	"expansionId": 409
 }

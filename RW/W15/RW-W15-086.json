@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "小鳥「手伝う！」　瑚太朗「…わかった。よろしくな」\u003cbr /\u003e小鳥「うん！」",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_086.png",
+	"tags": null,
+	"expansionId": 65
 }

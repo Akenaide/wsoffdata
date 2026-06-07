@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《デート》か《精霊》のキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの、《デート》か《精霊》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以上のキャラなら手札に加える。（そうでないなら元に戻す）"
+		"【永】 他のあなたの、《デート》か《精霊》のキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、他のあなたの、《デート》か《精霊》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル2以上のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W131-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w131/dal_w131_021.png",
+	"tags": null,
+	"expansionId": 529
 }

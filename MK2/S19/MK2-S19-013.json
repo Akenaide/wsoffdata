@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "立派な探偵になろう、な、シャロ！",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「新学期 シャロ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「新学期 シャロ」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_013.png",
+	"tags": null,
+	"expansionId": 87
 }

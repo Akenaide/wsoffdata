@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここのメロンパン、皮の部分がいい感じに固くて美味しい",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"メロンパン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_t01.png",
+	"tags": null,
+	"expansionId": 53
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ま、どっちにしても、私達の出番は、ほんまの非常事態だけや",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"ドレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-111",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_111.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_111.gif",
+	"tags": null,
+	"expansionId": 12
 }

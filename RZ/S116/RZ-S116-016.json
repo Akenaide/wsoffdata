@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "──ぞくぞくしちゃう",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「“魔獣使い” メィリィ」がいるなら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“魔獣使い” メィリィ」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+		"【永】 他のあなたの「“魔獣使い” メィリィ」がいるなら、このカードのパワーを＋2500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\u003cbr\u003e【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「“魔獣使い” メィリィ」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S116-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s116/rz_s116_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s116/rz_s116_016.png",
+	"tags": null,
+	"expansionId": 492
 }

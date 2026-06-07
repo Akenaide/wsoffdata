@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "学校を存続させようっていうのも、\u003cbr /\u003e生徒会長としての義務感やろ！？",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「音ノ木坂学院３年生 絵里」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「音ノ木坂学院３年生 絵里」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"占い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W24-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w24/ll_w24_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w24/ll_w24_037.png",
+	"tags": null,
+	"expansionId": 98
 }

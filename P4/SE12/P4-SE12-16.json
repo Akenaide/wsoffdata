@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "出前、お届けにきた",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのストックが6枚以上なら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500し、《肉》を与える。",
 		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"ウェイトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_16.png",
+	"tags": null,
+	"expansionId": 75
 }

@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "長いこと予習してたから",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《プログレッシブ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《プログレッシブ》のキャラの枚数×500に等しい。",
-		"【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』"
+		"【自】 このカードがアタックした時、あなたは他の自分の、《Anniversary》か《プログレッシブ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《プログレッシブ》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードがアタックした時、あなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードのトリガーチェックでトリガーアイコンが[[treasure.gif]]のクライマックスがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"プログレッシブ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-031S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_031s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_031s.png",
+	"tags": null,
+	"expansionId": 405
 }

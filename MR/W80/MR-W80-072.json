@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは他のレベル2以下のキャラを1枚選び、そのターン中、レベルを＋1か－1。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのクライマックスフェイズの始めに、あなたは他のレベル2以下のキャラを1枚選び、そのターン中、レベルを＋1か－1。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W80-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w80/mr_w80_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w80/mr_w80_072.png",
+	"tags": null,
+	"expansionId": 301
 }

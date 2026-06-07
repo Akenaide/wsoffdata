@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "卯月、出撃でぇーす！　がんばるぴょん！",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「ぷっぷくぷぅ～！」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《艦娘》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_064.png",
+	"tags": null,
+	"expansionId": 130
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ターゲット捕捉…距離は十分です",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。",
-		"【自】［(1) このカードを控え室に置く］ 他のあなたのキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+		"【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。\u003cbr\u003e【自】［(1) このカードを控え室に置く］ 他のあなたのキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"正義実現委員会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_012.png",
+	"tags": null,
+	"expansionId": 460
 }

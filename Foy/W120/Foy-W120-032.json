@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょ。なによこれええ？",
+	"trigger": null,
 	"ability": [
 		"［手札を2枚控え室に置く］ あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Foy/W120-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/foy_w120/foy_w120_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/foy_w120/foy_w120_032.png",
+	"tags": null,
+	"expansionId": 489
 }

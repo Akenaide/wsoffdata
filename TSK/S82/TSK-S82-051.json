@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "さ、はじめは誰からくる？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【起】［(2) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたのレベルが3以上なら、あなたは自分の控え室の、「鬼人の力 ベニマル」か「先陣を切るベニマル」を1枚選び、舞台の好きな枠に置く。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［(2) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたのレベルが3以上なら、あなたは自分の控え室の、「鬼人の力 ベニマル」か「先陣を切るベニマル」を1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"スライム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S82-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s82/tsk_s82_051u.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s82/tsk_s82_051u.png",
+	"tags": null,
+	"expansionId": 333
 }

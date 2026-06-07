@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "極刑",
+	"trigger": null,
 	"ability": [
 		"【起】［(2)］ あなたはレベル0以下の相手の前列のキャラを1枚選び、山札の上に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W02-E12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_e12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_e12.png",
+	"tags": null,
+	"expansionId": 20
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "海に来るのは久しぶりだったけど…来てよかったわ",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「誰かの悪戯 笹原野々花」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「誰かの悪戯 笹原野々花」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-138",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_138.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_138.png",
+	"tags": null,
+	"expansionId": 131
 }

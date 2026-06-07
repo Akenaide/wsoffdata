@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "1日が48時間あれば48ページのオフセット本が作れるのに……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《ゲーム》のキャラの枚数に等しい。"
+		"【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《ゲーム》のキャラの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W56-T09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w56/shs_w56_t09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w56/shs_w56_t09.png",
+	"tags": null,
+	"expansionId": 219
 }

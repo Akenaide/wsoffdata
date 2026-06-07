@@ -10,20 +10,21 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "闇の書の起動を確認しました",
+	"trigger": null,
 	"ability": [
 		"このカードを思い出にする。",
 		"記憶 思い出置場にこのカードがあるなら、あなたのカード名に「はやて」を含むキャラすべてに、パワーを＋500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NA/W12-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_097.png",
+	"tags": null,
+	"expansionId": 44
 }

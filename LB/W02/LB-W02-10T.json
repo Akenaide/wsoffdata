@@ -8,14 +8,14 @@
 	"jpName": "そよ風のハミング",
 	"cardType": "CX",
 	"colour": "GREEN",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"POOL"
 	],
@@ -23,9 +23,10 @@
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
 		"（このカードがトリガーした時、あなたは自分の山札を上から1枚選び、ストック置場に置いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/W02-10T",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_10t.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_10t.png",
+	"tags": null,
+	"expansionId": 8
 }

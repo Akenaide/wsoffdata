@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あれ～、なんだか賑やかだねー？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 他のあなたの黄のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。",
-		"【起】［あなたの黄のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
+		"【自】 他のあなたの黄のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。\u003cbr/\u003e【起】［あなたの黄のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ギャル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_t14.png",
+	"tags": null,
+	"expansionId": 141
 }

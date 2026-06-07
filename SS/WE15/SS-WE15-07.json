@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふん、どうだかね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋1500。",
 		"【起】［(1)］ あなたは相手の山札の上から1枚を控え室に置き、 相手の控え室のカードを1枚選び、山札の上に置く。"
@@ -25,8 +25,9 @@
 		"炎",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE15-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we15/ss_we15_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we15/ss_we15_07.png",
+	"tags": null,
+	"expansionId": 83
 }

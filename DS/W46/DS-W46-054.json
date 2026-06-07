@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "む、ようやく目が覚めたか",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《風南島》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「これからの二人を」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、山札の下に置く。"
+		"【永】 他のあなたの《風南島》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「これからの二人を」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のコスト0以下のキャラを1枚選び、山札の下に置く。"
 	],
 	"specialAttrib": [
 		"風南島",
 		"中二病"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W46-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w46/ds_w46_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w46/ds_w46_054.png",
+	"tags": null,
+	"expansionId": 178
 }

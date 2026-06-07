@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "笑っておけばなんとかなる\u003cbr\u003eアイドルって楽な商売",
+	"trigger": null,
 	"ability": [
-		"【自】 絆／「283プロのヒナ 浅倉 透」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「283プロのヒナ 浅倉 透」を1枚選び、手札に戻す）",
-		"【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。ターンの終わりに、このカードを思い出にする。"
+		"【自】 絆／「283プロのヒナ 浅倉 透」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「283プロのヒナ 浅倉 透」を1枚選び、手札に戻す）\u003cbr\u003e【起】［(1)］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。ターンの終わりに、このカードを思い出にする。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ノクチル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-T095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_t095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_t095.png",
+	"tags": null,
+	"expansionId": 331
 }

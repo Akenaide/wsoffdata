@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［(1) このカードを控え室に置く］ あなたは自分の手札の「かけがえのない存在 牧之原 翔子」を1枚まで選び、このカードがいた枠に置き、次の相手のターンの終わりまで、そのキャラのパワーを＋1500。』"
 	],
@@ -24,8 +24,9 @@
 		"思春期",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W114-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w114/sby_w114_082.png",
+	"tags": null,
+	"expansionId": 463
 }

@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "む？足袋がないな",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、「思いがけない初対面 夜重」か「思いがけない初対面 朝姫」を1枚選び、ストック置場に置いてよい。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、「思いがけない初対面 夜重」か「思いがけない初対面 朝姫」を1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"縁",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AMG/W121-T10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_t10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/amg_w121/amg_w121_t10.png",
+	"tags": null,
+	"expansionId": 500
 }

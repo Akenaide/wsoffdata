@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えへへ……。あの、頑張って下さい♪",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 他のあなたのバトルしているキャラが【リバース】した時、あなたは自分の「水瀬 伊織」を1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_063.png",
+	"tags": null,
+	"expansionId": 29
 }

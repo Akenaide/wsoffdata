@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、あなたはこのカードをストック置場に置いてよい。（CXのレベルは0として扱う。公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"NIKKE",
 		"インフィニティレール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-100S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_100s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_100s.png",
+	"tags": null,
+	"expansionId": 494
 }

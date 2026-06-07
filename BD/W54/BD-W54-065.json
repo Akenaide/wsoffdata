@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "実は、りみりんにがんばってもらいたくて、みんなでパンを焼いてきたの",
+	"trigger": null,
 	"ability": [
 		"相手のストックすべてを、控え室に置き、相手は自分の山札の上から同じ枚数をストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W54-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_065.png",
+	"tags": null,
+	"expansionId": 213
 }

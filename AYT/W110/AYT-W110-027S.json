@@ -10,21 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《小美呼市》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札を上から4枚まで見て、《小美呼市》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
-		"あなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻してよい。"
+		"このカードは、あなたの《小美呼市》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札を上から4枚まで見て、《小美呼市》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\u003cbr\u003eあなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻してよい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "AYT/W110-027S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_027s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ayt_w110/ayt_w110_027s.png",
+	"tags": null,
+	"expansionId": 452
 }

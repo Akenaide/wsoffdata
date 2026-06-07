@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "理樹、おまえは少しもちっぽけなんかじゃない。\u003cbr /\u003eおまえは自分がどれだけのことをしたか気がついてないんだ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1500し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_066.png",
+	"tags": null,
+	"expansionId": 96
 }

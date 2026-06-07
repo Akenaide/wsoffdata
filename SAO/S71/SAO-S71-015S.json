@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたたちを手助けできる余地なんて、ほとんどないような気がするんだけど……",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《Anniversary》のキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 あなたのターン中、他のあなたの《Anniversary》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S71-015S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_015s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_015s.png",
+	"tags": null,
+	"expansionId": 288
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "このぐらい、へーきだよ",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《動物》のキャラを2枚【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KW/W11-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kw_w11/kw_w11_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kw_w11/kw_w11_029.png",
+	"tags": null,
+	"expansionId": 46
 }

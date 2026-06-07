@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうとは限らんぞ、我があるじ様――",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたの《怪異》のキャラすべてに、レベルを＋1し、パワーを＋500。",
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードは『【永】 応援 このカードの前のあなたの『経験』を持つキャラすべてに、パワーを＋1000。』を得る。"
@@ -25,8 +25,9 @@
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_003.png",
+	"tags": null,
+	"expansionId": 105
 }

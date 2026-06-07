@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "麻央「絶対、この曲をものにしたいから――」\u003cbr\u003e莉波「卒業までに、絶対に披露するって、ふたりで決めたんです。そのためには、手段は選びません」",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻す。",
-		"あなたは次の効果を行ってよい。『相手は自分の控え室のCXを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。』"
+		"あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻す。\u003cbr\u003eあなたは次の効果を行ってよい。『相手は自分の控え室のCXを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GIM/W124-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_063.png",
+	"tags": null,
+	"expansionId": 514
 }

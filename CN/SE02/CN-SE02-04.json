@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この街は、いろんな色がひしめいてる。\u003cbr /\u003eいろんな感情が――ひしめいてる",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"カメラ",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CN/SE02-04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cn_se02/cn_se02_04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cn_se02/cn_se02_04.png",
+	"tags": null,
+	"expansionId": 31
 }

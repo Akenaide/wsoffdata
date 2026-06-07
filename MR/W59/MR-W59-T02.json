@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大切な…大切な人たちは喜んでくれるかなぁ…？",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"アビリティ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-T02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_t02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_t02.png",
+	"tags": null,
+	"expansionId": 229
 }

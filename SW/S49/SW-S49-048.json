@@ -10,22 +10,23 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Figrin D'an and the Modal Nodes",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの緑のキャラが2枚以下なら、手札からプレイできない。",
 		"あなたは自分の控え室の緑のキャラを1枚選び、ストック置場に置いてよい。",
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
 		"このカードをストック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SW/S49-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_048.png",
+	"tags": null,
+	"expansionId": 199
 }

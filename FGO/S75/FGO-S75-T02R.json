@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この程度の魔獣たちに手こずるようなら人理修復なんて夢のまた夢。せいぜい頑張りなさい",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"バビロニア",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-T02R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_t02r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_t02r.png",
+	"tags": null,
+	"expansionId": 289
 }

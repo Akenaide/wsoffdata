@@ -15,20 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "笑顔の――魔法の力を！！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。",
-		"【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の山札を見て《ワンダーランズ×ショウタイム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の山札を見て《ワンダーランズ×ショウタイム》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー",
+		"バーチャル・シンガー",
 		"ワンダーランズ×ショウタイム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S125-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s125/pjs_s125_004.png",
+	"tags": null,
+	"expansionId": 536
 }

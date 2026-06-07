@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、そのターン中、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お茶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-004R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_004r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_004r.png",
+	"tags": null,
+	"expansionId": 80
 }

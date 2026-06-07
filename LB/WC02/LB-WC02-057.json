@@ -15,18 +15,18 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "責任、取ってくださいね。",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのストックが7枚以上なら、このカードのパワーを＋2500。",
-		"【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【永】 あなたのストックが7枚以上なら、このカードのパワーを＋2500。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードとバトルしているキャラのレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"本",
 		"日傘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WC02-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_wc02/lb_wc02_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_wc02/lb_wc02_057.png",
+	"tags": null,
+	"expansionId": 358
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これ、どうぞ……つまらないものですが。受け取ってください!!",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《スニーカー文庫》のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の山札を見て《スニーカー文庫》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の《スニーカー文庫》のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の山札を見て《スニーカー文庫》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"お見合い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Soa/W123-047S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/soa_w123_047s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/soa_w123_047s.png",
+	"tags": null,
+	"expansionId": 510
 }

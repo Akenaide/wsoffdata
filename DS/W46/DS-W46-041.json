@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "兄さんの驚いた顔が見れたので、とりあえず、溜飲が下がりました",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたのクロック置場に「最愛の妹 鳴」があるなら、そのターン中、このカードのパワーを＋4000。",
-		"【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
+		"【自】 このカードがアタックした時、あなたのクロック置場に「最愛の妹 鳴」があるなら、そのターン中、このカードのパワーを＋4000。\u003cbr\u003e【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
 	],
 	"specialAttrib": [
 		"家族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W46-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w46/ds_w46_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w46/ds_w46_041.png",
+	"tags": null,
+	"expansionId": 178
 }

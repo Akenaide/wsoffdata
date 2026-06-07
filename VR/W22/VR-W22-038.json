@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はいこれ、次はあおいちゃんがやるのよ",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の手札の「天元理心流特訓術」を1枚選び、控え室に置いてよい。そうしたら、このカードを思い出にする。",
 		"【永】 記憶 思い出置場にこのカードがあるなら、あなたの《鍵》のキャラすべてに、パワーを＋1000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "VR/W22-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_038.png",
+	"tags": null,
+	"expansionId": 97
 }

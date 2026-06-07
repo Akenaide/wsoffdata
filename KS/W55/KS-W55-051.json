@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "我が力、見せてあげましょう！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《冒険者》か《魔法》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「新・爆裂魔法」があるなら、あなたは自分の控え室のレベル1以上のカードを1枚まで選び、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+		"【永】 他のあなたの、《冒険者》か《魔法》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「新・爆裂魔法」があるなら、あなたは自分の控え室のレベル1以上のカードを1枚まで選び、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W55-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w55/ks_w55_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w55/ks_w55_051.png",
+	"tags": null,
+	"expansionId": 214
 }

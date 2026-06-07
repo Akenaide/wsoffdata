@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっと。人の物に触らないでくれる？",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分の《超能力》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"超能力",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W26-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w26/rg_w26_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w26/rg_w26_072.png",
+	"tags": null,
+	"expansionId": 103
 }

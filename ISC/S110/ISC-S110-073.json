@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "でもね、今日、メイクも髪型も綺麗にしてもらったでしょ？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠の《音楽》のキャラに、パワーを＋1500。",
-		"【自】［(1) あなたのレベル置場の表向きのカードを1枚裏向きにする］ あなたがレベルアップした時、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+		"【永】 他のあなたの前列の中央の枠の《音楽》のキャラに、パワーを＋1500。\u003cbr\u003e【自】［(1) あなたのレベル置場の表向きのカードを1枚裏向きにする］ あなたがレベルアップした時、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"コメティック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_073.png",
+	"tags": null,
+	"expansionId": 468
 }

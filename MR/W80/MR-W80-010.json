@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "みんなが救われるの。…その権利があるの！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードは、色条件を満たさずに手札からプレイできる。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の上から1枚を、クロック置場に置く。"
+		"【永】 このカードは、色条件を満たさずに手札からプレイできる。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の上から1枚を、クロック置場に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"噂"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W80-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w80/mr_w80_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w80/mr_w80_010.png",
+	"tags": null,
+	"expansionId": 301
 }

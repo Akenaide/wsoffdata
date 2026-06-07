@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《グリザイア》のキャラが4枚以上なら、あなたのCXフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。\u003cbr\u003e【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《グリザイア》のキャラが4枚以上なら、あなたのCXフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_010.png",
+	"tags": null,
+	"expansionId": 472
 }

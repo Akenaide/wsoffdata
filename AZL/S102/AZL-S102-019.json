@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いけませんわ指揮官様、私をこんなに待たせるなんて",
+	"trigger": null,
 	"ability": [
 		"【自】 経験 ［手札の《艦船》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のコスト0以下のキャラを1枚選び、舞台の好きな枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"艦船",
 		"ロイヤル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_019.png",
+	"tags": null,
+	"expansionId": 410
 }

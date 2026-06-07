@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "全員が見失わなければ大丈夫だ！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、あなたのキャラすべてが《冒険者》なら、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_101.png",
+	"tags": null,
+	"expansionId": 297
 }

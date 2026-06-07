@@ -15,17 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どんな困難も、乗り越えてみせよう",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「きみはこの夏のFairy、ぼくはその姿を瞳の奥にRec.」があり、他のあなたの《セラフ》のキャラが3枚以上なら、そのターン中、このカードのパワーを＋1000し、あなたは自分の山札の上から4枚を、控え室に置き、自分の控え室のレベルＸ以下の《セラフ》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのトリガーアイコンの[SOUL]の合計に等しい。"
+		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「きみはこの夏のFairy、ぼくはその姿を瞳の奥にRec.」があり、他のあなたの《セラフ》のキャラが3枚以上なら、そのターン中、このカードのパワーを＋1000し、あなたは自分の山札の上から4枚を、控え室に置き、自分の控え室のレベルＸ以下の《セラフ》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのトリガーアイコンの[[soul.gif]]の合計に等しい。"
 	],
 	"specialAttrib": [
 		"セラフ",
 		"第30G部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W117-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w117/hbr_w117_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w117/hbr_w117_014.png",
+	"tags": null,
+	"expansionId": 482
 }

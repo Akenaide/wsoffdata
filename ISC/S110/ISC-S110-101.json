@@ -15,20 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "――――――夜は何色？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】 記憶 ［(3) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「floooat」があり、他のあなたの《音楽》のキャラが2枚以上で、あなたの思い出が4枚以上なら、あなたはコストを払ってよい。そうしたら、次の行動を3回行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】 記憶 ［(3) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「floooat」があり、他のあなたの《音楽》のキャラが2枚以上で、あなたの思い出が4枚以上なら、あなたはコストを払ってよい。そうしたら、次の行動を3回行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ノクチル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_101.png",
+	"tags": null,
+	"expansionId": 468
 }

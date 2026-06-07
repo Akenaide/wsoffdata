@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "イラッシャイ……カンゲイスルワネ…",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《深海棲艦》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 他のあなたの《深海棲艦》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"深海棲艦",
 		"鬼"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/SE28-30",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_se28/kc_se28_30.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_se28/kc_se28_30.png",
+	"tags": null,
+	"expansionId": 157
 }

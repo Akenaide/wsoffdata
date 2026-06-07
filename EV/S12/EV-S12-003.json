@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ごめん、綾波。口に合わなかったかな？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「アスカ」か「綾波」を含むキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「アスカ」か「綾波」を含むキャラを1枚選び、そのターン中、パワーを＋500し、《お弁当》を与える。"
@@ -25,8 +25,9 @@
 		"パイロット",
 		"お弁当"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_003.png",
+	"tags": null,
+	"expansionId": 49
 }

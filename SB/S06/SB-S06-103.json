@@ -15,7 +15,7 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "さて、次の相手はどいつかな",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"武器",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_103.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_103.gif",
+	"tags": null,
+	"expansionId": 13
 }

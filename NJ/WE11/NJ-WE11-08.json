@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ち…よ…た…に・け・と・ら・は、と、ほ・ら・す・て、\u003cbr /\u003eの・は・て・き、ら・と・な・り・は・し・て…と…",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見てレベル1以下のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"仏像"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NJ/WE11-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nj_we11/nj_we11_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nj_we11/nj_we11_08.png",
+	"tags": null,
+	"expansionId": 70
 }

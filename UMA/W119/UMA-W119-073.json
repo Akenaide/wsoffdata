@@ -1,6 +1,6 @@
 {
 	"set": "UMA",
-	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"setName": " 劇場版『ウマ娘 プリティーダービー 新時代の扉』",
 	"side": "W",
 	"release": "119",
 	"id": "073",
@@ -10,21 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "新時代の扉をこじ開けたのは\u003cbr\u003eジャングルポケット!!",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《ウマ娘》のキャラが1枚以下なら、手札からプレイできない。",
-		"あなたは自分の《ウマ娘》のキャラを2枚まで選び、そのターン中、ソウルを＋1。",
-		"そのターン中、あなたのすべての領域の「実力派アナウンサー 泉本奈々」のトリガーアイコンに[COMEBACK]を与える。"
+		"このカードは、あなたの《ウマ娘》のキャラが1枚以下なら、手札からプレイできない。\u003cbr\u003eあなたは自分の《ウマ娘》のキャラを2枚まで選び、そのターン中、ソウルを＋1。\u003cbr\u003eそのターン中、あなたのすべての領域の「実力派アナウンサー 泉本奈々」のトリガーアイコンに[[salvage.gif]][[standby.gif]]を与える。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "UMA/W119-073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w119/uma_w119_073.png",
+	"tags": null,
+	"expansionId": 486
 }

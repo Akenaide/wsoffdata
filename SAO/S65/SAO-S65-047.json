@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ソルティリーナ「なお、双方の合意により、両者ともに実剣を使用する」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《フラクトライト》のキャラの枚数×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"フラクトライト",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S65-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_047.png",
+	"tags": null,
+	"expansionId": 267
 }

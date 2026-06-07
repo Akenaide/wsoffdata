@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "せっかくのデートですのに",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが、手札から舞台に置かれた時か、アタックした時か、舞台から控え室に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W79-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_066.png",
+	"tags": null,
+	"expansionId": 302
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、他意はありません",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、他のあなたの《思春期》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"思春期",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_041.png",
+	"tags": null,
+	"expansionId": 261
 }

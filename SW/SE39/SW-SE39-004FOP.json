@@ -15,16 +15,17 @@
 	"rarity": "FOP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「Lightsaber」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"最後のジェダイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/SE39-004FOP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se39/sw_se39_004fop.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_se39/sw_se39_004fop.png",
+	"tags": null,
+	"expansionId": 411
 }

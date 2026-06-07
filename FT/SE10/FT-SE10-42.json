@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私・・戦闘はぜんぜんできませんけど、\u003cbr /\u003eみなさんの役に立つサポートの魔法、いっぱい使えます",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-42",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_42.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_42.png",
+	"tags": null,
+	"expansionId": 68
 }

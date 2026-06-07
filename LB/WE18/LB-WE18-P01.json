@@ -8,25 +8,26 @@
 	"jpName": "僕らはリトルバスターズ",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "もう一度ここから始まる。\u003cbr /\u003eそれは、僕たちリトルバスターズの物語。\u003cbr /\u003eきっと続いていく。はるか彼方まで――",
 	"trigger": [
 		"SOUL",
 		"GATE"
 	],
 	"ability": [
 		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[GATE]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
+		"（[[gate.gif]]：このカードがトリガーした時、あなたは自分の控え室のクライマックスを1枚選び、手札に戻してよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/WE18-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we18/lb_we18_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we18/lb_we18_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

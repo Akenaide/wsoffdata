@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……まだ決めた訳じゃない",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。あなたは自分の山札を見て《魔法》のキャラをＸ枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。あなたは自分の手札をＸ枚選び、控え室に置く。Ｘはそれらのカードのクライマックスの枚数に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_01.png",
+	"tags": null,
+	"expansionId": 77
 }

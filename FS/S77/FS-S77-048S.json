@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場の、「雲に隠れる月 桜」か「流れる涙 桜」1枚につき、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「気付けた優しさ」があるなら、あなたは自分の控え室のレベルＸ以下の、《マスター》か《サーヴァント》か《影》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの控え室の「気付けた優しさ」の枚数に等しい。"
+		"【永】 経験 あなたのレベル置場の、「雲に隠れる月 桜」か「流れる涙 桜」1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「気付けた優しさ」があるなら、あなたは自分の控え室のレベルＸ以下の、《マスター》か《サーヴァント》か《影》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの控え室の「気付けた優しさ」の枚数に等しい。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"影"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S77-048S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s77/fs_s77_048s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s77/fs_s77_048s.png",
+	"tags": null,
+	"expansionId": 314
 }

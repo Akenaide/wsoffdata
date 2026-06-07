@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…好きあっても、いい",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのキャラが2枚以下なら、他のあなたのキャラすべてに、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W20-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w20/rw_w20_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w20/rw_w20_009.png",
+	"tags": null,
+	"expansionId": 84
 }

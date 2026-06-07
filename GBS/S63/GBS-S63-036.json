@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ごめんね。あたしは、逃げない",
+	"trigger": null,
 	"ability": [
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分の《秩序》のキャラを1枚選び、手札に戻してよい。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《秩序》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは自分の《秩序》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《秩序》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"秩序"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_036.png",
+	"tags": null,
+	"expansionId": 260
 }

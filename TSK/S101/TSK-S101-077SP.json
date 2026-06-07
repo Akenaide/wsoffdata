@@ -15,19 +15,19 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《魔大陸》のキャラが2枚以上なら、このカードのパワーを＋5000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「一生を捧げる愛の言葉」が置かれた時、前列にこのカードがいて、他のあなたの《魔大陸》のキャラが4枚以上なら、あなたは自分の山札を見て《魔大陸》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分の控え室の《魔大陸》のキャラを1枚まで選び、ストック置場に置く。"
+		"【永】 他のあなたの《魔大陸》のキャラが2枚以上なら、このカードのパワーを＋5000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「一生を捧げる愛の言葉」が置かれた時、前列にこのカードがいて、他のあなたの《魔大陸》のキャラが4枚以上なら、あなたは自分の山札を見て《魔大陸》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルし、自分の控え室の《魔大陸》のキャラを1枚まで選び、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"魔大陸"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S101-077SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_077sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s101/tsk_s101_077sp.png",
+	"tags": null,
+	"expansionId": 412
 }

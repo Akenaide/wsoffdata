@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "日が暮れる前にとっとと消えな",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠の、《魔法》か《武器》のキャラに、パワーを＋1500。",
-		"【自】 このカードがダイレクトアタックした時、あなたは他の自分の、《魔法》か《武器》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 他のあなたの前列の中央の枠の、《魔法》か《武器》のキャラに、パワーを＋1500。\u003cbr\u003e【自】 このカードがダイレクトアタックした時、あなたは他の自分の、《魔法》か《武器》のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"武器",
 		"八重歯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S55-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s55/rz_s55_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s55/rz_s55_007.png",
+	"tags": null,
+	"expansionId": 234
 }

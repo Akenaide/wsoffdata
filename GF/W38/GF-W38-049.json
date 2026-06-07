@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっと待ってちょっと待って。　なにか思いつきそう…\u003cbr /\u003eふんふんふ～ん…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの赤のキャラすべてに、パワーを＋500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -25,8 +25,9 @@
 		"ガール",
 		"傘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_049.png",
+	"tags": null,
+	"expansionId": 144
 }

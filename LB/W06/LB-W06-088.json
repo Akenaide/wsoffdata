@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんな、揃ってるな　",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［このカードを控え室に置く］ あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_088.png",
+	"tags": null,
+	"expansionId": 18
 }

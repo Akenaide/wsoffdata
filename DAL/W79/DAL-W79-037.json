@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "大丈夫。こちらも不注意だった",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室のイベントの枚数×1500に等しい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+		"【自】 このカードがアタックした時、あなたは他の自分の、《デート》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室のイベントの枚数×1500に等しい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"デート",
 		"AST"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W79-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_037.png",
+	"tags": null,
+	"expansionId": 302
 }

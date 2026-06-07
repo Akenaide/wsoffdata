@@ -15,7 +15,7 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NTA/WE48-57",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_57.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nta_we48/nta_we48_57.png",
+	"tags": null,
+	"expansionId": 518
 }

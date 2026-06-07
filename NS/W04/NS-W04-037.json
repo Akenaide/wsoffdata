@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "気軽に声をかけてね",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1)］ あなたは自分の《メカ》のキャラを１枚選び、そのターン中、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_037.png",
+	"tags": null,
+	"expansionId": 6
 }

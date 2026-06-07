@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "このヘナチョコ冒険者共めが、ほらほらどうした！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの後列の、《スニーカー文庫》か《冒険者》か《煩悩》のキャラ1枚につき、このカードのパワーを＋1500。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【永】 他のあなたの後列の、《スニーカー文庫》か《冒険者》か《煩悩》のキャラ1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"冒険者",
 		"煩悩"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sks/W62-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sks_w62/sks_w62_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sks_w62/sks_w62_023.png",
+	"tags": null,
+	"expansionId": 259
 }

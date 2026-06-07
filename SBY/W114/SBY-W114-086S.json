@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「それぞれの選択 牧之原 翔子」を1枚選び、このカードがいた枠に置き、そのターン中、そのキャラのパワーを＋2500し、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"思春期",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W114-086S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_086s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w114/sby_w114_086s.png",
+	"tags": null,
+	"expansionId": 463
 }

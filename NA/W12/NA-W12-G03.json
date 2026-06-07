@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さすがにそうそう、\u003cbr /\u003e同じ技で落とされたりはしませんよ",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-G03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_g03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_g03.png",
+	"tags": null,
+	"expansionId": 53
 }

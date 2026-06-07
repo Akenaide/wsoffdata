@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【起】［あなたの青のキャラを1枚【レスト】する］ あなたは自分のレベル置場の青のキャラと控え室の青のキャラを1枚ずつ選び、入れ替える。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の青のキャラを1枚まで選び、手札に戻す。"
+		"【起】［あなたの青のキャラを1枚【レスト】する］ あなたは自分のレベル置場の青のキャラと控え室の青のキャラを1枚ずつ選び、入れ替える。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の青のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"シークフェルト音楽学院"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/SE38-06S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_se38/rsl_se38_06s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_se38/rsl_se38_06s.png",
+	"tags": null,
+	"expansionId": 384
 }

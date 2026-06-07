@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "敵は万夫不当の英雄王――相手にとって不足なし！",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの【スタンド】しているキャラを1枚【レスト】する］ あなたのクライマックス置場に「神威の車輪」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－2000。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_034.png",
+	"tags": null,
+	"expansionId": 82
 }

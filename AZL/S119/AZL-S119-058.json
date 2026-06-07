@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "日焼は健康の証！指揮官もちょっと焼いていかない？",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、CX置場に緑のCXがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、緑のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"艦船",
 		"重桜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_058.png",
+	"tags": null,
+	"expansionId": 499
 }

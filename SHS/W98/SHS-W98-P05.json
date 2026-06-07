@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "聞いてよ恵っ！この女っ、この女ったらねぇっ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠の《ゲーム》のキャラに、パワーを＋1500。",
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻す。"
+		"【永】 他のあなたの前列の中央の枠の《ゲーム》のキャラに、パワーを＋1500。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《ゲーム》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_p05.png",
+	"tags": null,
+	"expansionId": 13
 }

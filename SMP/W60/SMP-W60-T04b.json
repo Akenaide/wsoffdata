@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あの、あのね。歌えないカナリアって何。\u003cbr\u003eあなたは、歌を忘れたカナリアだって\u003cbr\u003e……おばーちゃんから聞いたから",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-T04b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_t04b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_t04b.png",
+	"tags": null,
+	"expansionId": 237
 }

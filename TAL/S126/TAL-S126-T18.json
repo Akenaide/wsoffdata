@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "クレア、待っていろ。必ず助け出す……",
+	"trigger": null,
 	"ability": [
 		"集中 あなたは自分の山札の上から3枚をめくり、控え室に置く。あなたは自分の控え室のレベルＸ以下の《冒険》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードの《冒険》のキャラの枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TAL/S126-T18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_t18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_t18.png",
+	"tags": null,
+	"expansionId": 537
 }

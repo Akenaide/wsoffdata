@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私が代わりに妹になる？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、あなたのキャラすべてがカード名に「ココア」か「モカ」を含むなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"パン",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W57-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w57/gu_w57_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w57/gu_w57_048.png",
+	"tags": null,
+	"expansionId": 221
 }

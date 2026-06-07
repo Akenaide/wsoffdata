@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何でも出来る、そんな気がする",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"蛇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE15-31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we15/ss_we15_31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we15/ss_we15_31.png",
+	"tags": null,
+	"expansionId": 83
 }

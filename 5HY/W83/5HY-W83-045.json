@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あなたが落としたのはこの100点のテスト？それとも0点のテスト？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのカード名に「四葉」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 あなたのキャラすべてがカード名に「四葉」を含むなら、このカードのパワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。"
+		"【永】 あなたのカード名に「四葉」を含むキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 あなたのキャラすべてがカード名に「四葉」を含むなら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_045.png",
+	"tags": null,
+	"expansionId": 309
 }

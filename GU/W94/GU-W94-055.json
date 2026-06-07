@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "チノ「今も昔もリゼさんは優しいですね」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の、《ラビットハウス》か《Dear My Sister》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《ラビットハウス》か《Dear My Sister》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W94-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w94/gu_w94_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w94/gu_w94_055.png",
+	"tags": null,
+	"expansionId": 374
 }

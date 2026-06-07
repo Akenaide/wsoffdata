@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最高だ───この『イワシ』という小魚はッ！！！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE08-25",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se08/dg_se08_25.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se08/dg_se08_25.png",
+	"tags": null,
+	"expansionId": 59
 }

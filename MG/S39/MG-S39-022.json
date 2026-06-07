@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"あなたは相手のキャラすべてを選び、それらのキャラ以外の相手のキャラすべてを、思い出にする。",
-		"あなたは自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。"
+		"あなたは相手のキャラすべてを選び、それらのキャラ以外の相手のキャラすべてを、思い出にする。\u003cbr\u003eあなたは自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MG/S39-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_022.png",
+	"tags": null,
+	"expansionId": 159
 }

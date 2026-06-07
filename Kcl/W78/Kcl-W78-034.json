@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "先生、わがまま言っちゃってますけどいいですか",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【起】［(2) このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"パン",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kcl/W78-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kcl_w78/kcl_w78_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kcl_w78/kcl_w78_034.png",
+	"tags": null,
+	"expansionId": 296
 }

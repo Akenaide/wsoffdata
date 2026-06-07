@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "めくるめく、きゃっきゃうふふなガールズトークと\u003cbr /\u003eしゃれ込むんだよ。理樹君は、朝まで我々のおもちゃだ",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て特徴を持たないキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_011.png",
+	"tags": null,
+	"expansionId": 96
 }

@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "姉さんにあげるものは、後悔と絶望だけ。\u003cbr /\u003eそれを――――ゆっくりと教えてあげます",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_068.png",
+	"tags": null,
+	"expansionId": 7
 }

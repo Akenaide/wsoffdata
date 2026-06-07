@@ -15,19 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "英梨々「で、どさくさに紛れて何やってんのよ霞ヶ丘詩羽」\u003cbr\u003e詩羽「プールといえば人工呼吸イベントが定番だと思ったのだけれど……」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】【応援】このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】【応援】このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

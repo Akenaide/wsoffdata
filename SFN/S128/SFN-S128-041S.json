@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "三年ほど前、あの竜が村を襲いました。\u003cbr\u003eそんなときに現れたのがシュタルク様です",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの後列の、《冒険者》か《魔法》のキャラ1枚につき、このカードのパワーを＋1500。",
-		"【自】 このカードが【リバース】した時、相手は自分の山札を上から3枚まで公開し、イベントを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
+		"【永】 他のあなたの後列の、《冒険者》か《魔法》のキャラ1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードが【リバース】した時、相手は自分の山札を上から3枚まで公開し、イベントを1枚まで選び、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"魔物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S128-041S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s128/sfn_s128_041s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s128/sfn_s128_041s.png",
+	"tags": null,
+	"expansionId": 545
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "翼が一緒に唄ってくれるってんなら、\u003cbr\u003eこれ以上、心強いものはないな",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのレベル置場に「【蒼ノ一閃 滅破：心】翼」があるなら、このカードのパワーを＋1500。",
-		"【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【永】 経験 あなたのレベル置場に「【蒼ノ一閃 滅破：心】翼」があるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W52-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w52/sg_w52_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w52/sg_w52_065.png",
+	"tags": null,
+	"expansionId": 206
 }

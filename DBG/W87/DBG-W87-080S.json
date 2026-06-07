@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "でも必要なのは独創性。だから今後、成神には既存の役は認めないわ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《夏》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】【CXコンボ】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のレベルＸ以下の《夏》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「無限立直」の枚数に等しい。"
+		"【永】 応援 このカードの前のあなたの《夏》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】【CXコンボ】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のレベルＸ以下の《夏》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「無限立直」の枚数に等しい。"
 	],
 	"specialAttrib": [
 		"夏",
 		"麻雀"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-080S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_080s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_080s.png",
+	"tags": null,
+	"expansionId": 342
 }

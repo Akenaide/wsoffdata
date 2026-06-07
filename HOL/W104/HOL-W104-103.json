@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの前列の「謝罪会見 宝鐘マリン」がいるなら、このカードのパワーを＋4000。",
-		"【自】［手札の《ホロライブ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「謝罪会見 宝鐘マリン」を1枚選び、舞台の好きな枠に置く。"
+		"【永】 他のあなたの前列の「謝罪会見 宝鐘マリン」がいるなら、このカードのパワーを＋4000。\u003cbr\u003e【自】［手札の《ホロライブ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「謝罪会見 宝鐘マリン」を1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"秘密結社holoX"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W104-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w104/hol_w104_103.png",
+	"tags": null,
+	"expansionId": 419
 }

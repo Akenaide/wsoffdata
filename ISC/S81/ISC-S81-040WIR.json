@@ -15,18 +15,18 @@
 	"rarity": "WIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "スタッカート。４Kなんかじゃ、追いつかない",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの【レスト】している《音楽》のキャラがいるなら、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』"
+		"【永】 他のあなたの【レスト】している《音楽》のキャラがいるなら、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、すべてのプレイヤーは次の行動を行う。『あなたの思い出が5枚以上なら、あなたは自分の思い出置場のカードを4枚選び、それらのカード以外の自分の思い出置場のカードすべてを、控え室に置く。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ノクチル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-040WIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_040wir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_040wir.png",
+	"tags": null,
+	"expansionId": 332
 }

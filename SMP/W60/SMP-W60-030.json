@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すごく……すごく嬉しいです",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたの思い出置場にカードがあるなら、このカードのパワーを＋3000。",
-		"【起】［手札のクライマックスを1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
+		"【永】 記憶 あなたの思い出置場にカードがあるなら、このカードのパワーを＋3000。\u003cbr\u003e【起】［手札のクライマックスを1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"ヌイグルミ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W60-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_030.png",
+	"tags": null,
+	"expansionId": 238
 }

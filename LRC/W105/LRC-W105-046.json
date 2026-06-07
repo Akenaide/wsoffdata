@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "CA「生き別れの娘様があちらでお待ちです」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。",
-		"【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを山札の下に置く］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"リコリコ",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/W105-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_w105/lrc_w105_046.png",
+	"tags": null,
+	"expansionId": 426
 }

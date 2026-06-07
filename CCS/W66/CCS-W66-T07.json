@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "さくら「…小狼君…？」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのカード名に「桜」を含むキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】 他のあなたの《クリアカード編》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
+		"【永】 他のあなたのカード名に「桜」を含むキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】 他のあなたの《クリアカード編》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-T07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_t07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_t07.png",
+	"tags": null,
+	"expansionId": 271
 }

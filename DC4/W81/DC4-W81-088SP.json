@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "伝わって……ます？",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたのキャラすべてが《Anniversary》か《魔法》か《音楽》か《ネット》なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、キャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC4/W81-088SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc4_w81/dc4_w81_088sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc4_w81/dc4_w81_088sp.png",
+	"tags": null,
+	"expansionId": 310
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の後に続け！",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-P10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_p10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_p10.png",
+	"tags": null,
+	"expansionId": 12
 }

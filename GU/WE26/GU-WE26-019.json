@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "準備はいいか？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの、「お見舞い ココア」と「お茶目さん チノ」がいるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】 このカードがアタックした時、他のあなたの《ラビットハウス》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
+		"【永】 あなたの、「お見舞い ココア」と「お茶目さん チノ」がいるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《ラビットハウス》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE26-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we26/gu_we26_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we26/gu_we26_019.png",
+	"tags": null,
+	"expansionId": 184
 }

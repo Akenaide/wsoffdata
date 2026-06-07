@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あきらめたらそこで終了だからやるだけやってみるさ…",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《魔大陸》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 あなたのメインフェイズの始めに、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\u003cbr\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《魔大陸》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"スライム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-068S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_068s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_068s.png",
+	"tags": null,
+	"expansionId": 283
 }

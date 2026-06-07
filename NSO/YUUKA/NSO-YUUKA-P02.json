@@ -8,9 +8,9 @@
 	"jpName": "Weiß＆Schwarz 西尾夕香",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NSO/YUUKA-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nso_yuuka/nso_yuuka_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nso_yuuka/nso_yuuka_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

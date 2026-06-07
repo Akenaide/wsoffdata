@@ -15,8 +15,8 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀Ｘ レベル1 ［手札のこのカードを控え室に置く］ Ｘはあなたの《音楽》のキャラの枚数×500に等しい。（あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋Ｘ）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"トゲナシトゲアリ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GCR/SE48-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gcr_se48/gcr_se48_21.png",
+	"tags": null,
+	"expansionId": 497
 }

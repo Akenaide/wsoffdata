@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この町は、これからあたしが守る",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
 		"【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「虚ろな目 さやか」を1枚選び、このカードがいた枠に置く。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_081.png",
+	"tags": null,
+	"expansionId": 74
 }

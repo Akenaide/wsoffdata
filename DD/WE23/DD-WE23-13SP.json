@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのレベルが1以上なら、このカードは次の能力を得る。『【自】 あなたのクライマックスフェイズの始めに、あなたは自分のクロック置場の「勇者の休息 ナナミ」を1枚とこのカードを選び、入れ替えてよい。』",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【永】 あなたのレベルが1以上なら、このカードは次の能力を得る。『【自】 あなたのクライマックスフェイズの始めに、あなたは自分のクロック置場の「勇者の休息 ナナミ」を1枚とこのカードを選び、入れ替えてよい。』\u003cbr/\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"勇者",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE23-13SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we23/dd_we23_13sp_2.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we23/dd_we23_13sp_2.png",
+	"tags": null,
+	"expansionId": 153
 }

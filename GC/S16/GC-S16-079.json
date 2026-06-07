@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしにハズカシイことした責任は取ってもらうかんね！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたがこのカードの『助太刀』を使った時、あなたの《葬儀社》のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
@@ -25,8 +25,9 @@
 		"葬儀社",
 		"オペレーター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_079.png",
+	"tags": null,
+	"expansionId": 76
 }

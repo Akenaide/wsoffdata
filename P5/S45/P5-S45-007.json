@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "我は汝、汝は我…覚悟して背負え…\u003cbr\u003eこれよりは、反逆のドクロが貴様の旗だ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ほんと、待たせちまったな」があるなら、あなたは他の自分のキャラを1枚までと相手のキャラを1枚まで選び、手札に戻す。"
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ほんと、待たせちまったな」があるなら、あなたは他の自分のキャラを1枚までと相手のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"怪盗",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_007.png",
+	"tags": null,
+	"expansionId": 180
 }

@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うりりゃゃゃゃゃゃゃ‼",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「ケツァル・コアトル」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは相手のキャラを1枚選び、そのターン中、パワーを－6000し、自分のキャラを1枚選び、そのターン中、パワーを－6000。"
+		"このカードは、あなたのカード名に「ケツァル・コアトル」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは相手のキャラを1枚選び、そのターン中、パワーを－6000し、自分のキャラを1枚選び、そのターン中、パワーを－6000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FGO/S75-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_047.png",
+	"tags": null,
+	"expansionId": 298
 }

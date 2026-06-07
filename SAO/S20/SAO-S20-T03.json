@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キリト君、君には私の正体を看破した報奨を\u003cbr /\u003e与えなくてはな。チャンスをあげよう",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_t03.png",
+	"tags": null,
+	"expansionId": 67
 }

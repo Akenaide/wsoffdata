@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《大グレン団》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"大グレン団",
 		"ドリル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GL/S52-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gl_s52/gl_s52_067.png",
+	"tags": null,
+	"expansionId": 217
 }

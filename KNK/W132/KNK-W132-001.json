@@ -15,19 +15,19 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのCX置場にCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[RETURN]を得る。",
-		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
+		"【永】 あなたのCX置場にCXがあるなら、すべての領域にあるこのカードはトリガーアイコンに[[bounce.gif]]を得る。\u003cbr\u003e【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
 	],
 	"specialAttrib": [
 		"かのかり"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W132-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w132/knk_w132_001.png",
+	"tags": null,
+	"expansionId": 531
 }

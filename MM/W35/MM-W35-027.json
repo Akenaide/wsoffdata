@@ -15,19 +15,19 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ほむらちゃんでさえ泣いちゃうような辛いこと、\u003cbr\u003e私が我慢できるわけないじゃない",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の自分のレベル以下のレベルの《魔法》のキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の山札の上から1枚を、クロック置場に置く。"
+		"【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の自分のレベル以下のレベルの《魔法》のキャラを1枚選び、舞台の好きな枠に置いてよい。そうしたら、あなたは自分の山札の上から1枚を、クロック置場に置く。"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W35-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_027.png",
+	"tags": null,
+	"expansionId": 140
 }

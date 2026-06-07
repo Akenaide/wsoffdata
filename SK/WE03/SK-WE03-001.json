@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰も見たことないもの見て、誰も知らなかったことを知らなきゃいけないの！",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"コロニー",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SK/WE03-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sk_we03/sk_we03_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sk_we03/sk_we03_001.png",
+	"tags": null,
+	"expansionId": 12
 }

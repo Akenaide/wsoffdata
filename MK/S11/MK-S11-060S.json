@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《警察》のキャラを1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"警察",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-060S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_060s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_060s.png",
+	"tags": null,
+	"expansionId": 50
 }

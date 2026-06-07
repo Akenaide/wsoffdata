@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしに投票してくださった隊長さん\u003cbr\u003e本当にありがとうございます！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
+		"【自】 このカードの与えたダメージがキャンセルされた時、あなたはこのカードをストック置場に置いてよい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ストライカー",
 		"クイーン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_007.png",
+	"tags": null,
+	"expansionId": 162
 }

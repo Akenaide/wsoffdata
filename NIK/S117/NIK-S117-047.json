@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おお、どこからか事件のにおいがします！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《NIKKE》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室の《NIKKE》のキャラを1枚ずつ選び、入れ替える。"
+		"【永】 他のあなたの《NIKKE》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室の《NIKKE》のキャラを1枚ずつ選び、入れ替える。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"プロトコール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_047.png",
+	"tags": null,
+	"expansionId": 494
 }

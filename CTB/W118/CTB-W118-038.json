@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】［(1) このカードを控え室に置く］ 他のあなたの《サッカー》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。』"
 	],
@@ -24,8 +24,9 @@
 		"サッカー",
 		"ハンブルク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CTB/W118-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ctb_w118/ctb_w118_038.png",
+	"tags": null,
+	"expansionId": 485
 }

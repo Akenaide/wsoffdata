@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よっぽど気に入られたようだな",
+	"trigger": null,
 	"ability": [
 		"【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《死》のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【自】絆／[おてんば娘 ユイ] [(1)] （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。 そうしたら、あなたは自分の控え室の「おてんば娘 ユイ」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"死",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W11-122",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w11/ab_w11_122.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w11/ab_w11_122.png",
+	"tags": null,
+	"expansionId": 12
 }

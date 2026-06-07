@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "香織さんのはヒラヒラですねぇ…布が多くて動きづらいですぅ",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"トータス",
 		"兎人族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_102.png",
+	"tags": null,
+	"expansionId": 414
 }

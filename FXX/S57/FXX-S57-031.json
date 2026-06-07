@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ココロ「焦らないで、ミツルくん」",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台にこのカードがいるなら、このカードのカード名は「ジェニスタのステイメン フトシ」としても扱う。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《パラサイト》か《フランクス》のキャラの枚数×500に等しい。"
+		"【永】 舞台にこのカードがいるなら、このカードのカード名は「ジェニスタのステイメン フトシ」としても扱う。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《パラサイト》か《フランクス》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"パラサイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_031.png",
+	"tags": null,
+	"expansionId": 241
 }

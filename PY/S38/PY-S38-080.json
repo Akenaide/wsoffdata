@@ -15,19 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それより、ムシがきになる…",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ぷよ》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、クライマックス置場に「かったのか」があるなら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、クライマックス置場に「かったのか」があるなら、あなたは相手のキャラを1枚とそのキャラの特徴を1つ選び、そのターン中、そのキャラはその特徴をすべて失う。"
+		"【永】 他のあなたの《ぷよ》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr/\u003e【自】 このカードがアタックした時、クライマックス置場に「かったのか」があるなら、そのターン中、このカードのパワーを＋2000。\u003cbr/\u003e【自】 このカードがアタックした時、クライマックス置場に「かったのか」があるなら、あなたは相手のキャラを1枚とそのキャラの特徴を1つ選び、そのターン中、そのキャラはその特徴をすべて失う。"
 	],
 	"specialAttrib": [
 		"ぷよ",
 		"虫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_080.png",
+	"tags": null,
+	"expansionId": 160
 }

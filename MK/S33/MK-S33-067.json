@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "遠慮なんかしなくていいから",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「シャロ」か「シャーロック」を含むキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室のカード名に「シャロ」か「シャーロック」を含むキャラを1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"探偵",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_067.png",
+	"tags": null,
+	"expansionId": 136
 }

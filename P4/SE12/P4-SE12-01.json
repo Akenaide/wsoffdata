@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "鳴上、だったよな？　俺、花村陽介",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがクライマックスなら、このカードをストック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ジュネス",
 		"ヘッドフォン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_01.png",
+	"tags": null,
+	"expansionId": 75
 }

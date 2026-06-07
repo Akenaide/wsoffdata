@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おはよー",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「なのは」を含むキャラすべてに、パワーを＋500。",
 		"【起】 集中 ［(2)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"オッドアイ",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_053.png",
+	"tags": null,
+	"expansionId": 6
 }

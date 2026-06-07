@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "感謝！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「共に歩む戦友」が置かれた時、前列にこのカードがいて、あなたのレベルが3以上なら、あなたは自分の控え室の「連弾の石礫 鉱人道士」を1枚選び、舞台の好きな枠に置いてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「共に歩む戦友」が置かれた時、前列にこのカードがいて、あなたのレベルが3以上なら、あなたは自分の控え室の「連弾の石礫 鉱人道士」を1枚選び、舞台の好きな枠に置いてよい。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_008.png",
+	"tags": null,
+	"expansionId": 260
 }

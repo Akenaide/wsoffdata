@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どう？美味しい？",
+	"trigger": null,
 	"ability": [
-		"【自】 絆／「“手作り弁当”乙坂 有宇」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“手作り弁当”乙坂 有宇」を1枚選び、手札に戻す）",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「有宇」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【自】 絆／「“手作り弁当”乙坂 有宇」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“手作り弁当”乙坂 有宇」を1枚選び、手札に戻す）\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「有宇」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"能力者",
 		"ピザソース"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_089.png",
+	"tags": null,
+	"expansionId": 152
 }

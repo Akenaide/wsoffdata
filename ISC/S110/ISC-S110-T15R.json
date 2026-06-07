@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "美琴「ちょっと、このままでいいよ\u003cbr\u003e…………なんか　――いつもと違う夏が来たんだなって感じだから」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのマーカーを持つキャラがいるなら、このカードは『【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋1500。』を得る。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋3000。"
+		"【永】 他のあなたのマーカーを持つキャラがいるなら、このカードは『【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋1500。』を得る。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"シーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-T15R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_t15r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_t15r.png",
+	"tags": null,
+	"expansionId": 467
 }

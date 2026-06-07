@@ -15,21 +15,20 @@
 	"rarity": "SPa",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《Roselia》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-		"【自】【CXコンボ】［(3) 手札を2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「仮入部員」があり、あなたのキャラすべてが《Roselia》なら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【スタンド】し、そのターン中、そのキャラのパワーを＋2000。"
+		"【永】 他のあなたの《Roselia》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】【CXコンボ】［(3) 手札を2枚控え室に置く］ この能力は1ターンにつき1回まで発動する。このカードのアタックの終わりに、クライマックス置場に「仮入部員」があり、あなたのキャラすべてが《Roselia》なら、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、【スタンド】し、そのターン中、そのキャラのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-081SPa",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_081spa.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_081spa.png",
+	"tags": null,
+	"expansionId": 255
 }

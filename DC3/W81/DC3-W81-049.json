@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいから、早く出ていきなさいっ！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 記憶 このカードがアタックした時、クライマックス置場に「海辺で語り合って」があり、あなたの思い出が3枚以上なら、あなたは自分の控え室の、《Anniversary》か《新聞》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"Anniversary",
 		"新聞"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W81-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w81/dc3_w81_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w81/dc3_w81_049.png",
+	"tags": null,
+	"expansionId": 310
 }

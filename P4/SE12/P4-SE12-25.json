@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お豆腐買って帰らなきゃ…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのストックが3枚以上なら、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"扇子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-25",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_25.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_25.png",
+	"tags": null,
+	"expansionId": 75
 }

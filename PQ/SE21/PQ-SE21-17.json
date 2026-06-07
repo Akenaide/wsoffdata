@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シャドウに襲われてもしらねーかんな",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時かこのカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが1以上なら、そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを【リバース】してよい。』（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"不良",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PQ/SE21-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pq_se21/pq_se21_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pq_se21/pq_se21_17.png",
+	"tags": null,
+	"expansionId": 125
 }

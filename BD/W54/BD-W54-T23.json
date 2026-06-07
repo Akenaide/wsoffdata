@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ど、どもー。後ろから読んでもやまとまや。大和麻弥です。よろしくお願いします",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《音楽》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-T23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_t23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_t23.png",
+	"tags": null,
+	"expansionId": 218
 }

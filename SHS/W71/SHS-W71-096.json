@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "って、加藤ちゃん！　なにこれ？　あんたたちいつからこんなコトになってたの！？",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋6000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「逆転の一手 倫也」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「逆転の一手 倫也」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_096.png",
+	"tags": null,
+	"expansionId": 278
 }

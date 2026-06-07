@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしたちの部隊は必ずA級に上がって\u003cbr\u003e部隊で遠征に行くと思います",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
 	"specialAttrib": [
 		"トリオン",
 		"玉狛第2"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WTR/S85-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wtr_s85/wtr_s85_108.png",
+	"tags": null,
+	"expansionId": 360
 }

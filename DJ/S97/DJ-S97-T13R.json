@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Lyrical Lily"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DJ/S97-T13R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_t13r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_t13r.png",
+	"tags": null,
+	"expansionId": 416
 }

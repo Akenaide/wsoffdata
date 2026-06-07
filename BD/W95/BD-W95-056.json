@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ジブンも見習わなくちゃですね！\u003cbr\u003eこれからは今まで以上に機材の写真を……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 このカードのパワーを＋Ｘ。Ｘはあなたの舞台のキャラの持つ色の合計×1000に等しい。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 このカードのパワーを＋Ｘ。Ｘはあなたの舞台のキャラの持つ色の合計×1000に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_056.png",
+	"tags": null,
+	"expansionId": 382
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "目視範囲の敵はウロボロスで吹き飛ばせます！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、青かカード名に「シグナム」か「ヴィータ」を含むキャラがいるなら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"ユニゾン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_069.png",
+	"tags": null,
+	"expansionId": 268
 }

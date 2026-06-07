@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「ラビットハウスへようこそ」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはあなたの《ラビットハウス》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"コーヒー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_093.png",
+	"tags": null,
+	"expansionId": 174
 }

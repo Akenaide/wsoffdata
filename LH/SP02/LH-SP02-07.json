@@ -15,18 +15,18 @@
 	"rarity": "PS",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうだ。必ず帰る、みんなのところへ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《武器》か《魔法》なら、このカードのパワーを＋1000。",
-		"【自】 バトル中のこのカードが【リバース】した時、他のあなたの、《武器》か《魔法》のキャラが1枚以下なら、このカードをクロック置場に置く。"
+		"【永】 あなたのキャラすべてが《武器》か《魔法》なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、他のあなたの、《武器》か《魔法》のキャラが1枚以下なら、このカードをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SP02-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_sp02/lh_sp02_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_sp02/lh_sp02_07.png",
+	"tags": null,
+	"expansionId": 165
 }

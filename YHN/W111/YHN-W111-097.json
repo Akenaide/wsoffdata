@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ダイヤ「お怪我はありませんか？」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたの《心の音》のキャラが5枚以上なら、あなたは自分のクロックの上から2枚までを、控え室に置き、自分の《心の音》のキャラを1枚選び、そのターン中、パワーを＋1500。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "YHN/W111-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yhn_w111/yhn_w111_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yhn_w111/yhn_w111_097.png",
+	"tags": null,
+	"expansionId": 450
 }

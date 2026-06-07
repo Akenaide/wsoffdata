@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "オレのコンピュータは。\u003cbr /\u003e他のコンピュータと同調して操作できるんだ",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの『応援』を持つキャラを1枚【レスト】する］ そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"家族",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-P06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_p06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_p06.png",
+	"tags": null,
+	"expansionId": 13
 }

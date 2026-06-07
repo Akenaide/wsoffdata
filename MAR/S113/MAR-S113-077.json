@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードはあなたのターン中、手札からプレイできない。あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルし、自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MAR/S113-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s113/mar_s113_077.png",
+	"tags": null,
+	"expansionId": 484
 }

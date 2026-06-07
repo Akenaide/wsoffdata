@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "面倒くさい人ね。希",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(2) このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「西木野 真姫」を1枚選び、このカードがいた枠に置く。",
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
@@ -25,8 +25,9 @@
 		"音楽",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W24-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w24/ll_w24_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w24/ll_w24_083.png",
+	"tags": null,
+	"expansionId": 98
 }

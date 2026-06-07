@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "鉄と人を叩く技術の精度がまた上がったニャ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《冒険者》のキャラすべてに、パワーを＋500。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「“アイテム”騎士の鋼靴」を1枚選び、手札に戻す。"
+		"【永】 他のあなたの《冒険者》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「“アイテム”騎士の鋼靴」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"鍛冶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_011.png",
+	"tags": null,
+	"expansionId": 297
 }

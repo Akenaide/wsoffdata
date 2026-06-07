@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋6000。",
-		"【自】 このカードかこのカードのバトル相手が【リバース】した時、そのターン中、そのキャラは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
+		"【永】 あなたのターン中、このカードのパワーを＋6000。\u003cbr\u003e【自】 このカードかこのカードのバトル相手が【リバース】した時、そのターン中、そのキャラは『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"ビアトリス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gms/WS02-067S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gms_ws02_067s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gms_ws02_067s.png",
+	"tags": null,
+	"expansionId": 439
 }

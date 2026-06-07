@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "こんな舞台に立てるなんて、夢みたい",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの《探偵》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【永】 このカードの正面のキャラのソウルを－1。"
+		"【永】 あなたの控え室のクライマックスが6枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの《探偵》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【永】 このカードの正面のキャラのソウルを－1。"
 	],
 	"specialAttrib": [
 		"探偵",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE29-40",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se29/mk_se29_40.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se29/mk_se29_40.png",
+	"tags": null,
+	"expansionId": 169
 }

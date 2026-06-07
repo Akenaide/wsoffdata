@@ -10,21 +10,22 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "玲二「僕らなら怪しまれることはない…」",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの赤のキャラが2枚以下なら、手札からプレイできない。",
 		"あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。",
 		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PT/W07-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_070.png",
+	"tags": null,
+	"expansionId": 32
 }

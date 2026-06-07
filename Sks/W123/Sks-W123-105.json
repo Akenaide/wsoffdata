@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 あなたのCXフェイズ中、CX置場に「乾杯！」が置かれた時、前列にこのカードがいて、他のあなたの、《スニーカー文庫》か《冒険者》か《女神》のキャラが2枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から4枚まで見て、《スニーカー文庫》か《冒険者》か《女神》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。』『［(1) このカードを控え室に置く］ あなたのレベルが2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「アークプリースト（駄女神） アクア」を1枚まで選び、このカードがいた枠に置く。』"
 	],
@@ -25,8 +25,9 @@
 		"冒険者",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sks/W123-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sks_w123_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/sks_w123_105.png",
+	"tags": null,
+	"expansionId": 510
 }

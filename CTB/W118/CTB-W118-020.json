@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、あなたのキャラすべてが《サッカー》なら、このカードのパワーを＋2000。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の、「修哲カルテット 井沢 守」か「修哲カルテット 滝 一」か「修哲カルテット 来生哲兵」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
+		"【永】 相手のターン中、あなたのキャラすべてが《サッカー》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の、「修哲カルテット 井沢 守」か「修哲カルテット 滝 一」か「修哲カルテット 来生哲兵」を1枚とこのカードを選び、それぞれを【スタンド】して入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"サッカー",
 		"南葛中"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CTB/W118-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ctb_w118/ctb_w118_020.png",
+	"tags": null,
+	"expansionId": 485
 }

@@ -15,8 +15,8 @@
 	"rarity": "SHP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "協力して頂きたいのですよ。あなたは最適だと思われるので",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"神器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE41-27SHP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we41/ss_we41_27shp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we41/ss_we41_27shp.png",
+	"tags": null,
+	"expansionId": 447
 }

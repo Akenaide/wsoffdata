@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…あ～ん",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、「友達と一緒の放課後 イリヤ」と「友達と一緒の放課後　美遊」すべてに、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE24-43",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se24/pi_se24_43.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se24/pi_se24_43.png",
+	"tags": null,
+	"expansionId": 133
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "少し勿体無いけど、潰すしかなさそうだ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの【スタンド】しているキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/SE05-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_se05/sb_se05_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_se05/sb_se05_14.png",
+	"tags": null,
+	"expansionId": 47
 }

@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "101",
@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "では頭を上げよガウェイン、膝はついたままでよい。\u003cbr\u003e立ち上がる必要はもうないのだからな",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてが《カルデア》か《キャメロット》なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"キャメロット",
 		"円卓の騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_101.png",
+	"tags": null,
+	"expansionId": 363
 }

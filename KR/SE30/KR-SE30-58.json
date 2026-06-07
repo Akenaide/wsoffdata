@@ -15,7 +15,7 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "― これは霊体クラッカー。大きな音を立て、敵を撃退する死神道具だ。ちなみに、普通のクラッカーでも同じ効果が期待できるぞ ―",
 	"trigger": [
 		"SOUL"
 	],
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"死神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KR/SE30-58",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kr_se30/kr_se30_58.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kr_se30/kr_se30_58.png",
+	"tags": null,
+	"expansionId": 172
 }

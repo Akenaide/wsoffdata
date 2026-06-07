@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "驚きましたよ。突然、何をなさるんですか",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが《魔法》か《武器》なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 あなたのキャラがアタックした時、クライマックス置場に「剣撃」があり、前列にこのカードがいるなら、そのターン中、あなたはそのアタックしているキャラのソウルを－1してよい。そうしたら、そのターン中、そのアタックしているキャラのパワーを＋2000。"
+		"【永】 あなたのターン中、あなたのキャラすべてが《魔法》か《武器》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 あなたのキャラがアタックした時、クライマックス置場に「剣撃」があり、前列にこのカードがいるなら、そのターン中、あなたはそのアタックしているキャラのソウルを－1してよい。そうしたら、そのターン中、そのアタックしているキャラのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"武器",
 		"騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S55-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s55/rz_s55_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s55/rz_s55_011.png",
+	"tags": null,
+	"expansionId": 234
 }

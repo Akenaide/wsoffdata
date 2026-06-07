@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フェイト『わたしがずっと……欲しかった時間だ……』",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを+1。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-109",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_109.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_109.png",
+	"tags": null,
+	"expansionId": 12
 }

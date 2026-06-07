@@ -1,6 +1,6 @@
 {
 	"set": "SAO",
-	"setName": "ソードアート・オンラインⅡ Vol.2",
+	"setName": " ソードアート・オンラインⅡ Vol.2",
 	"side": "S",
 	"release": "E26",
 	"id": "03",
@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ありがとう、ユイちゃん",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
-		"【自】 絆／「無邪気で奔放 ユウキ」 [(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「無邪気で奔放 ユウキ」を1枚選び、手札に戻す）"
+		"【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋500。\u003cbr/\u003e【自】 絆／「無邪気で奔放 ユウキ」 [(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「無邪気で奔放 ユウキ」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE26-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se26/sao_se26_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se26/sao_se26_03.png",
+	"tags": null,
+	"expansionId": 146
 }

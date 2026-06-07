@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ダメですよミヤコさん。カジュアルな感じで人に取り憑いては",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《ランドソル》のキャラすべてに、パワーを＋1000。",
-		"【起】［手札のキャラを1枚控え室に置く］ あなたは自分の控え室の「霊能少女 シノブ」を1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりに、そのキャラを控え室に置く。"
+		"【永】 他のあなたの《ランドソル》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［手札のキャラを1枚控え室に置く］ あなたは自分の控え室の「霊能少女 シノブ」を1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりに、そのキャラを控え室に置く。"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W84-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w84/prd_w84_077.png",
+	"tags": null,
+	"expansionId": 320
 }

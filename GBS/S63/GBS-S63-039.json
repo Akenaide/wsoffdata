@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "依頼は、ないわよ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見てカードを1枚選び、山札の上に置き、残りのカードを控え室に置く。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見てカードを1枚選び、山札の上に置き、残りのカードを控え室に置く。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが1以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_039.png",
+	"tags": null,
+	"expansionId": 260
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ミカエル「あれっ、サリエルじゃない！昼間に出てくるなんて珍しいねー！」",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《冒険者》のキャラがアタックした時、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"天使"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_p03.png",
+	"tags": null,
+	"expansionId": 13
 }

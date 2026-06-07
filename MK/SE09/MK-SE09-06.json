@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああ・・！思い出したくないような、そうでもないような",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「“自分大好き”トゥエンティ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“自分大好き”トゥエンティ」を1枚選び、手札に戻す）",
 		"【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「悩殺の視線 アルセーヌ」を1枚選び、このカードがいた枠に置く。"
@@ -25,8 +25,9 @@
 		"怪盗",
 		"ナルシスト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE09-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se09/mk_se09_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se09/mk_se09_06.png",
+	"tags": null,
+	"expansionId": 62
 }

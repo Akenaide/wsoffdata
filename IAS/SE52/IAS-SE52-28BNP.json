@@ -15,18 +15,18 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "家族に会えないのは、ちょっと寂しいけど。でも絶対に帰ってくるからね……またね！",
+	"trigger": null,
 	"ability": [
-		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。",
-		"【自】 このカードがアタックした時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
+		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。\u003cbr\u003e【自】 このカードがアタックした時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IAS/SE52-28BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_se52/ias_se52_28bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_se52/ias_se52_28bnp.png",
+	"tags": null,
+	"expansionId": 522
 }

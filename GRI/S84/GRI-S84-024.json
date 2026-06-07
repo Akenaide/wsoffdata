@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《グリザイア》のキャラの枚数×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_024.png",
+	"tags": null,
+	"expansionId": 347
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私に慈悲があるなんて思わない方が良いわよ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「亡霊に憑かれた少女 パンドラ」すべてに、パワーを＋1000。",
-		"【起】［手札の「亡霊に憑かれた少女 パンドラ」を1枚控え室に置く］ あなたは自分の山札を上から4枚まで見て、《冒険者》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 他のあなたの「亡霊に憑かれた少女 パンドラ」すべてに、パワーを＋1000。\u003cbr\u003e【起】［手札の「亡霊に憑かれた少女 パンドラ」を1枚控え室に置く］ あなたは自分の山札を上から4枚まで見て、《冒険者》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"ツノ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_040.png",
+	"tags": null,
+	"expansionId": 297
 }

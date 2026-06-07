@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さよなら…？ さよなら…",
+	"trigger": null,
 	"ability": [
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。",
-		"【自】 あなたのドローフェイズの始めに、他のあなたの前列のキャラがいないなら、そのターン中、このカードのパワーを＋4000。"
+		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。\u003cbr\u003e【自】 あなたのドローフェイズの始めに、他のあなたの前列のキャラがいないなら、そのターン中、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"人間",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDD/S118-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddd_s118/ddd_s118_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddd_s118/ddd_s118_015.png",
+	"tags": null,
+	"expansionId": 511
 }

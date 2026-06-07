@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……待ちかねたぞ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの下にマーカーがあるなら、このカードの前のあなたの《黒の軍勢》のキャラすべてに、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の「黒の兵士」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+		"【永】 応援 このカードの下にマーカーがあるなら、このカードの前のあなたの《黒の軍勢》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の「黒の兵士」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"黒の軍勢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_036.png",
+	"tags": null,
+	"expansionId": 193
 }

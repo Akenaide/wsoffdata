@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "これは命のだぞ",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"エレメント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MH/WE05-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mh_we05/mh_we05_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mh_we05/mh_we05_14.png",
+	"tags": null,
+	"expansionId": 30
 }

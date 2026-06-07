@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたの思い出置場に「何でもお任せ レム」があるなら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「日々のお勤め」があるなら、あなたは自分の控え室の《Memory Snow》のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 記憶 あなたの思い出置場に「何でもお任せ レム」があるなら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「日々のお勤め」があるなら、あなたは自分の控え室の《Memory Snow》のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"Memory Snow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S68-015SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_015sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_015sp.png",
+	"tags": null,
+	"expansionId": 280
 }

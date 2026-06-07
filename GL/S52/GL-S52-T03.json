@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カミナじゃねぇ、アニキって呼べ",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードはサイドアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"大グレン団",
 		"サングラス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GL/S52-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gl_s52/gl_s52_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gl_s52/gl_s52_t03.png",
+	"tags": null,
+	"expansionId": 216
 }

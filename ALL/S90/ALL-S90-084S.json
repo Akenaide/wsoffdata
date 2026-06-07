@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヘルヴォルの隊長として……私は、そう簡単に倒れるわけにはいきません！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの後列の《リリィ》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「空から見える景色」があり、他のあなたの《リリィ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《リリィ》のキャラを2枚まで選び、手札に戻す。"
+		"【永】 他のあなたの後列の《リリィ》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「空から見える景色」があり、他のあなたの《リリィ》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《リリィ》のキャラを2枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"ヘルヴォル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-084S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_084s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_084s.png",
+	"tags": null,
+	"expansionId": 371
 }

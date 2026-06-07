@@ -15,17 +15,17 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何を、何を、何を……何を、言ってるのか、なぁ……っ",
+	"trigger": null,
 	"ability": [
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《ゲーム》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。",
-		"【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の「新しい物語 恵」を1枚選び、手札に戻す。"
+		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から3枚までを、公開してよい。1枚以上公開したなら、あなたはそれらのカードの《ゲーム》のキャラを1枚まで選び、手札に加え、残りのカードを控え室に置き、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の「新しい物語 恵」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_055.png",
+	"tags": null,
+	"expansionId": 278
 }

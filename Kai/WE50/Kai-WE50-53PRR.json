@@ -15,21 +15,21 @@
 	"rarity": "PRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【永】 記憶 あなたの思い出置場に「神の使い 神奈」があるなら、他のあなたの、《Anniversary》か《夏》のキャラすべてに、パワーを＋1500。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【永】 記憶 あなたの思い出置場に「神の使い 神奈」があるなら、他のあなたの、《Anniversary》か《夏》のキャラすべてに、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"夏",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kai/WE50-53PRR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/kai_we50_53prr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/kai_we50_53prr.png",
+	"tags": null,
+	"expansionId": 532
 }

@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "国際法に反する、\u003cbr /\u003e非人道的な人体実験の数々が明らかになりました",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見て《パイロット》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GG/S23-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_096.png",
+	"tags": null,
+	"expansionId": 101
 }

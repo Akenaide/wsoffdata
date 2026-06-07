@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "頭に日の丸！\u003cbr /\u003e日本男児はこうでないとな",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500し、《鉢巻》を与える。"
 	],
 	"specialAttrib": [
 		"鉢巻"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_033.png",
+	"tags": null,
+	"expansionId": 27
 }

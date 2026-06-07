@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これはなかなか……ぶっちゃけ、お化け屋敷みたいですね",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 相手のターン中、あなたの思い出置場に「縁結びの組紐」があるなら、他のあなたのキャラすべてに、パワーを＋1000。",
-		"【起】 記憶 ［このカードを【レスト】する］ あなたの思い出置場に「縁結びの組紐」があるなら、あなたは自分の《縁》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+		"【永】 記憶 相手のターン中、あなたの思い出置場に「縁結びの組紐」があるなら、他のあなたのキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】 記憶 ［このカードを【レスト】する］ あなたの思い出置場に「縁結びの組紐」があるなら、あなたは自分の《縁》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"縁",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AMG/W121-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/amg_w121/amg_w121_090.png",
+	"tags": null,
+	"expansionId": 512
 }

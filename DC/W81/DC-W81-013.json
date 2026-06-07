@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ありがと。桜姫ちゃん、大好き",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《魔法》のキャラすべてに、パワーを＋1000。",
-		"【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「最後のお見舞い」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、相手はイベントと『助太刀』を手札からプレイできない。",
-		"【自】［(1) このカードを思い出にする］ あなたのアタックフェイズの始めに、あなたのレベルが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「付属制服の桜姫」を1枚選び、このカードがいた枠に置く。"
+		"【永】 他のあなたの、《Anniversary》か《魔法》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［(1)］ あなたのクライマックス置場に「最後のお見舞い」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、相手はイベントと『助太刀』を手札からプレイできない。\u003cbr\u003e【自】［(1) このカードを思い出にする］ あなたのアタックフェイズの始めに、あなたのレベルが3以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「付属制服の桜姫」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W81-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w81/dc_w81_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w81/dc_w81_013.png",
+	"tags": null,
+	"expansionId": 310
 }

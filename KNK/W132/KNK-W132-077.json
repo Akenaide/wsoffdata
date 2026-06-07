@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたの《かのかり》のキャラすべてに、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札を上から2枚まで見て、カードを1枚選び、山札の上に置き、残りのカードを控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"かのかり",
 		"コスプレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W132-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w132/knk_w132_077.png",
+	"tags": null,
+	"expansionId": 531
 }

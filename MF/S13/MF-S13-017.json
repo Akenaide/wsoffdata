@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シェリル「また…助けてくれたの…」",
+	"trigger": null,
 	"ability": [
 		"【永】 相手の前列のキャラが2枚以下なら、このカードのパワーを＋1500。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"音楽",
 		"パイロット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_017.png",
+	"tags": null,
+	"expansionId": 61
 }

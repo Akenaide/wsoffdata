@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"超能力",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Krw/W102-100",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/krw_w102_100.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/krw_w102_100.png",
+	"tags": null,
+	"expansionId": 406
 }

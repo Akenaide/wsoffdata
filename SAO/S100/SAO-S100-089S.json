@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "必ず勝つ。勝ってこの世界を終わらせる",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の《Anniversary》のキャラを1枚選び、自分の前列の中央のキャラのいない枠に動かしてよい。",
-		"【起】【CXコンボ】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のレベルＸ以下の《Anniversary》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「剣の世界」の枚数に等しい。"
+		"【自】 相手のアタックフェイズの始めに、あなたは自分の《Anniversary》のキャラを1枚選び、自分の前列の中央のキャラのいない枠に動かしてよい。\u003cbr\u003e【起】【CXコンボ】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の控え室のレベルＸ以下の《Anniversary》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「剣の世界」の枚数に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-089S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_089s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_089s.png",
+	"tags": null,
+	"expansionId": 405
 }

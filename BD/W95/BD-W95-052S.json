@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あこがいればアタシ、もっともっとカッコよくなれる気がするよ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、あなたのクロックの1番上に『アラーム』を持つカードがあるなら、他のあなたの、《Anniversary》か《Afterglow》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【クロック】 アラーム ［(1) 手札のクライマックスを1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
+		"【永】 あなたのターン中、あなたのクロックの1番上に『アラーム』を持つカードがあるなら、他のあなたの、《Anniversary》か《Afterglow》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【クロック】 アラーム ［(1) 手札のクライマックスを1枚控え室に置く］ このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のクライマックスを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-052S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_052s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_052s.png",
+	"tags": null,
+	"expansionId": 382
 }

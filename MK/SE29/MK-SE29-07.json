@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "3秒、時間を戻せるトイズです。たかが3秒、されど3秒。\u003cbr\u003e戦いでは絶大な威力を発揮します",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-		"【自】［手札を1枚控え室に置く］ 相手のドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のストックを上から3枚まで見て、山札の上に好きな順番で置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】［手札を1枚控え室に置く］ 相手のドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のストックを上から3枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"怪盗",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE29-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se29/mk_se29_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se29/mk_se29_07.png",
+	"tags": null,
+	"expansionId": 169
 }

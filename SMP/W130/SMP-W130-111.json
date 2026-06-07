@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すみません！　おまたせしました",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場に「蔵で見つけた写真」があるなら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】［このカードを控え室に置く］ 他のあなたのキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。』"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"ヌイグルミ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W130-111",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w130/smp_w130_111.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w130/smp_w130_111.png",
+	"tags": null,
+	"expansionId": 521
 }

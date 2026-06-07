@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「新ヒーロー参上」があり、他のあなたの《MARVEL》のキャラが3枚以上なら、あなたは自分の控え室の《MARVEL》のキャラを1枚まで選び、手札に戻し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《MARVEL》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。』"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S124-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s124/mar_s124_057.png",
+	"tags": null,
+	"expansionId": 527
 }

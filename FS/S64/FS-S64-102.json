@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もう、危ない目に合うことも、無いんですよね？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの後列の、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの後列の、《マスター》か《サーヴァント》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_102.png",
+	"tags": null,
+	"expansionId": 262
 }

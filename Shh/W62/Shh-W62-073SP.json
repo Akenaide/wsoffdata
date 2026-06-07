@@ -15,21 +15,19 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《スニーカー文庫》か《ハート・ハイブリッド・ギア》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《スニーカー文庫》か《ハート・ハイブリッド・ギア》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
-		"ハート",
-		"ハイブリッド",
-		"ギア",
+		"ハート・ハイブリッド・ギア",
 		"天地穹女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Shh/W62-073SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shh_w62/shh_w62_073sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shh_w62/shh_w62_073sp.png",
+	"tags": null,
+	"expansionId": 259
 }

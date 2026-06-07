@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "通じないなら通じ合うまでぶつけてみろ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の中央の枠のカード名に「響」を含むキャラに、パワーを＋500。",
 		"【自】［このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W27-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w27/sg_w27_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w27/sg_w27_085.png",
+	"tags": null,
+	"expansionId": 107
 }

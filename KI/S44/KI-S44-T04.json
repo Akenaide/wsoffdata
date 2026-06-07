@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "妖精さんを呼ぶための、祭壇だよぉ？",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"キズナ",
 		"不思議"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KI/S44-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_t04.png",
+	"tags": null,
+	"expansionId": 161
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今すぐ知ってること全部吐けっての！\u003cbr /\u003eでないと、ここであんたを殺すよ。",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてが《プリニー》かカード名に「エトナ」を含むキャラなら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

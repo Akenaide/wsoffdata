@@ -15,20 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "始末するのは3人同時だ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【起】［このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－3000。"
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－3000。"
 	],
 	"specialAttrib": [
 		"スタンド使い",
 		"スタンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/SE42-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se42/jj_se42_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_se42/jj_se42_15.png",
+	"tags": null,
+	"expansionId": 435
 }

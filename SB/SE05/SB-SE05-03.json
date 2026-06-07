@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ごめんあそばせ…！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、他のあなたの前列のキャラが1枚以下なら、あなたのキャラすべてに、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/SE05-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_se05/sb_se05_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_se05/sb_se05_03.png",
+	"tags": null,
+	"expansionId": 47
 }

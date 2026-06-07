@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの控え室のキャラを2枚山札に戻し、その山札をシャッフルする］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE26-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se26/sao_se26_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se26/sao_se26_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

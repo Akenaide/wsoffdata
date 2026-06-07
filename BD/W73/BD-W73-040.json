@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "テンション上がってきたァ！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《Afterglow》のキャラがいるなら、このカードのパワーを＋1500。",
-		"【自】［(1)］ このカードがアタックした時、あなたのクロックの1番上に『アラーム』を持つカードがあるなら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【永】 あなたのターン中、他のあなたの《Afterglow》のキャラがいるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1)］ このカードがアタックした時、あなたのクロックの1番上に『アラーム』を持つカードがあるなら、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_040.png",
+	"tags": null,
+	"expansionId": 286
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "横書きの文字で書くと、攻め×受けで、攻めの方が左側に来るでしょ？左が攻め、右が受けって意味なの",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［このカードを【レスト】する］ あなたは自分の山札の上から2枚をめくり、好きな順番で控え室に置く。あなたは相手の山札の上からＸ枚を、控え室に置く。Ｘはこの効果で2番目に控え室に置かれたカードのレベル×この効果で1番目に控え室に置かれたカードのレベルに等しい。（CXのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"青春",
 		"文芸部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_092.png",
+	"tags": null,
+	"expansionId": 520
 }

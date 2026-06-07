@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "バルディッシュ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のカード名に「フェイト」を含むキャラを1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N1/WE06-29",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n1_we06/n1_we06_29.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n1_we06/n1_we06_29.png",
+	"tags": null,
+	"expansionId": 12
 }

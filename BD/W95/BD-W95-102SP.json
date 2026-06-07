@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「“共に見る未来”湊友希那」を1枚選び、このカードがいた枠に置き、そのターン中、そのキャラのパワーを＋Ｘ。Ｘはあなたの、《Anniversary》か《Roselia》のキャラの枚数×1000に等しい。"
 	],
@@ -25,8 +25,9 @@
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-102SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_102sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_102sp.png",
+	"tags": null,
+	"expansionId": 382
 }

@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今やってることは、時間がかかるかもしれないけど、\u003cbr\u003eでも、絶対、結果を出して見せるから、\u003cbr\u003eそれまで、きちんと付き合ってよね",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「桜に語り掛ける立夏」を1枚まで選び、このカードがいた枠に置く。』",
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、《Anniversary》か《魔法》か《新聞》のキャラを1枚選び、手札に戻す。"
+		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「桜に語り掛ける立夏」を1枚まで選び、このカードがいた枠に置く。』\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、《Anniversary》か《魔法》か《新聞》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法",
 		"新聞"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W81-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w81/dc3_w81_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w81/dc3_w81_044.png",
+	"tags": null,
+	"expansionId": 310
 }

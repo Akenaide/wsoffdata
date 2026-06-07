@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "だから、とりあえず今は拓海で我慢する",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 前列にこのカードがいるなら、あなたの《思春期》のキャラすべてに、パワーを＋1500。",
-		"【自】【CXコンボ】［(3) 手札を1枚控え室に置く］ あなたのアンコールステップの始めに、CX置場に「思春期は終わらない」があり、あなたの手札が6枚以下なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+		"【永】 前列にこのカードがいるなら、あなたの《思春期》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】【CXコンボ】［(3) 手札を1枚控え室に置く］ あなたのアンコールステップの始めに、CX置場に「思春期は終わらない」があり、あなたの手札が6枚以下なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"思春期",
 		"モデル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-053S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_053s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_053s.png",
+	"tags": null,
+	"expansionId": 547
 }

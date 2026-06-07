@@ -10,21 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……昔、名前を付けてくれたから",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「イチゴ」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3500。",
-		"このカードを山札の下に置く。"
+		"このカードは、あなたのカード名に「イチゴ」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3500。\u003cbr\u003eこのカードを山札の下に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FXX/S57-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_097.png",
+	"tags": null,
+	"expansionId": 241
 }

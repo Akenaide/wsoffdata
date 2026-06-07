@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ようこそ、我が校へ",
+	"trigger": null,
 	"ability": [
 		"【起】 [手札のクライマックスを1枚控え室に置く] そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。「【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。」"
 	],
@@ -24,8 +24,9 @@
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_p03.png",
+	"tags": null,
+	"expansionId": 12
 }

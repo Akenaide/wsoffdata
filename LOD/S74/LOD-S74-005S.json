@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "行く先もすべき事もわからず…まるで霧の中にひとりで立っているみたい",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《冒険者》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"天使"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-005S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_005s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_005s.png",
+	"tags": null,
+	"expansionId": 297
 }

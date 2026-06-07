@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それでも、俺は繰り返す。何度でも――",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ 相手のアンコールステップの始めに、前列に【リバース】していないこのカードがいるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてを、【レスト】する。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE18-10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we18/lb_we18_10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we18/lb_we18_10.png",
+	"tags": null,
+	"expansionId": 116
 }

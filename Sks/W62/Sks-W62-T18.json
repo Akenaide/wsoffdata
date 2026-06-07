@@ -15,21 +15,21 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あなた……。ゲームは好きでしょ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《スニーカー文庫》か《冒険者》か《女神》のキャラの枚数に等しい。",
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《スニーカー文庫》か《冒険者》か《女神》のキャラの枚数×1000に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの、《スニーカー文庫》か《冒険者》か《女神》のキャラの枚数に等しい。\u003cbr\u003e【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《スニーカー文庫》か《冒険者》か《女神》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"冒険者",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sks/W62-T18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sks_w62/sks_w62_t18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sks_w62/sks_w62_t18.png",
+	"tags": null,
+	"expansionId": 257
 }

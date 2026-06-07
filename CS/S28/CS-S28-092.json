@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おじさんの旗だ！",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
 		"【自】 あなたのクライマックス置場に「ひとしずく」が置かれた時、前列にこのカードがいるなら、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、自分の山札を上から1枚見て、山札の上か下に置く。"
@@ -25,8 +25,9 @@
 		"家族",
 		"幼稚園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_092.png",
+	"tags": null,
+	"expansionId": 114
 }

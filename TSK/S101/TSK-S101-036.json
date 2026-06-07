@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヴェ、ヴェルドラー!?",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
-		"【自】 このカードがフロントアタックされた時、あなたは自分の手札の「突然の乱入 ヴェルドラ」を1枚選び、防御キャラとしてこのカードと入れ替えてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードがフロントアタックされた時、あなたは自分の手札の「突然の乱入 ヴェルドラ」を1枚選び、防御キャラとしてこのカードと入れ替えてよい。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"魔王"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S101-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s101/tsk_s101_036.png",
+	"tags": null,
+	"expansionId": 412
 }

@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はじめまして。よろしくおねがいします",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《ギガント》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ギガント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GST/SE22-20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gst_se22/gst_se22_20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gst_se22/gst_se22_20.png",
+	"tags": null,
+	"expansionId": 126
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたし、みんなに伝えたいの！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-116",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_116.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_116.gif",
+	"tags": null,
+	"expansionId": 13
 }

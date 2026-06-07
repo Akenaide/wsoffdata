@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……なんだか、不思議な気分です。こうして……\u003cbr\u003e人と一緒に、日の出を見るのは初めてで。",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ 他のあなたの《キヴォトス》のキャラがいるなら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"トリニティ自警団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-026S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_026s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_026s.png",
+	"tags": null,
+	"expansionId": 460
 }

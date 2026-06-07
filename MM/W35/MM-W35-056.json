@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああ、これが、私の、絶望",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の手札のカード名に「ほむら」を含むキャラを1枚まで選び、舞台の好きな枠に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MM/W35-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_056.png",
+	"tags": null,
+	"expansionId": 140
 }

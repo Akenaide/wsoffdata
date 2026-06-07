@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "夢へ向かいましょう！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「会長の演説 遥月」1枚につき、このカードのパワーを＋1000。",
-		"【自】 あなたのクライマックス置場に「一緒にフォトクラ」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「会長の演説 遥月」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+		"【永】 他のあなたの「会長の演説 遥月」1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 あなたのクライマックス置場に「一緒にフォトクラ」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て「会長の演説 遥月」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"風南島",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W46-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w46/ds_w46_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w46/ds_w46_027.png",
+	"tags": null,
+	"expansionId": 178
 }

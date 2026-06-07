@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だーめ、逃げないのっ。私と飛鳥にオシャレのコツを聞いたのは肇でしょ？",
+	"trigger": null,
 	"ability": [
-		"【永】 アタックフェイズ中、あなたは自分のカードの効果で自分の控え室のキャラを手札に戻せない。",
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室のカード名に「凛」か「奈緒」か「加蓮」を含むキャラを1枚選び、手札に戻す。"
+		"【永】 アタックフェイズ中、あなたは自分のカードの効果で自分の控え室のキャラを手札に戻せない。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室のカード名に「凛」か「奈緒」か「加蓮」を含むキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ネイル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-117",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_117.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_117.png",
+	"tags": null,
+	"expansionId": 477
 }

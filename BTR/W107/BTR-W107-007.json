@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの思い出置場にカードがないなら、このカードのパワーを－5000し、ソウルを－1。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BTR/W107-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/btr_w107/btr_w107_007.png",
+	"tags": null,
+	"expansionId": 444
 }

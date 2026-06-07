@@ -10,20 +10,21 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヴィアーズ「全兵士、地上攻撃を開始しろ。メイン・ジェネレータに照準用意」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
 		"あなたは自分の山札の上から1枚を控え室に置く。そのカードのレベルが1以上なら、あなたは相手のキャラを1枚選び、山札の下に置く。（クライマックスのレベルは0として扱う）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SW/S49-115",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_115.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_115.png",
+	"tags": null,
+	"expansionId": 199
 }

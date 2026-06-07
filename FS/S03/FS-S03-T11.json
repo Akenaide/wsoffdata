@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そんな余分なプライドはな、\u003cbr /\u003eそこいらの狗にでも食わせてしまえ",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_t11.png",
+	"tags": null,
+	"expansionId": 9
 }

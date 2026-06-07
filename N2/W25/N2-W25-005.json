@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "構いません。勝つの、私ですから…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《魔法》のキャラなら、そのターン中、このカードのパワーを＋2000。（公開したカードは元に戻す）",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】しているカード名に「フェイト」か「アルフ」を含むキャラを1枚選び、【レスト】する。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_005.png",
+	"tags": null,
+	"expansionId": 94
 }

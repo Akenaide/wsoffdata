@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラがいないなら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"文房具"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-055R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_055r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_055r.png",
+	"tags": null,
+	"expansionId": 60
 }

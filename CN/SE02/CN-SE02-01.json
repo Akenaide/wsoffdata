@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マリア「この目で、それを見てしまうのは……痛すぎるし、辛すぎるから」",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1) このカードを【レスト】する］ 次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 相手のキャラすべてに、黄と緑と赤と青を与える。』"
@@ -25,8 +25,9 @@
 		"カメラ",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CN/SE02-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cn_se02/cn_se02_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cn_se02/cn_se02_01.png",
+	"tags": null,
+	"expansionId": 31
 }

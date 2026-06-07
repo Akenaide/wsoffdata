@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "はい、落ち着きました！\u003cbr\u003e昼食の支度をしていたら急にいらっしゃって！\u003cbr\u003eあ！お昼ご飯は昨日の残りのカレーです！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【起】 共鳴 ［手札の「温水和彦」を1枚公開し、このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000し、次の能力を与える。『【永】 このカードのバトル中、あなたは『助太刀』を手札からプレイできない。』"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】 共鳴 ［手札の「温水和彦」を1枚公開し、このカードを【レスト】する］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000し、次の能力を与える。『【永】 このカードのバトル中、あなたは『助太刀』を手札からプレイできない。』"
 	],
 	"specialAttrib": [
 		"青春",
 		"妹"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-019",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_019.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_019.png",
+	"tags": null,
+	"expansionId": 520
 }

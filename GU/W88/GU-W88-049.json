@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わ、可愛いご褒美ー！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードの下に表向きのマーカーがあるなら、このカードのパワーを＋3000し、このカードは次の能力を得る。『【自】［(1)］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《BLOOM》か《ラビットハウス》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
 	],
@@ -24,8 +24,9 @@
 		"ラビットハウス",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W88-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w88/gu_w88_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w88/gu_w88_049.png",
+	"tags": null,
+	"expansionId": 344
 }

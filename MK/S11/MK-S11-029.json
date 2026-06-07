@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ネロ「ちょっと！エリーも手を貸して！ 絶対にできるって、僕たちなら」",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《探偵》のキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_029.png",
+	"tags": null,
+	"expansionId": 50
 }

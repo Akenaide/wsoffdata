@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ミサカ「次の実験相手はこのミサカ１００３１である。\u003cbr /\u003eとミサカは告げます」",
+	"trigger": null,
 	"ability": [
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
 		"【起】［あなたの《超能力》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W26-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w26/rg_w26_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w26/rg_w26_026.png",
+	"tags": null,
+	"expansionId": 103
 }

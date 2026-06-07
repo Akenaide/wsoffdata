@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《縁》のキャラがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードのパワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《縁》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《縁》のキャラがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《縁》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"縁",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AMG/W121-014SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_014sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/amg_w121/amg_w121_014sp.png",
+	"tags": null,
+	"expansionId": 512
 }

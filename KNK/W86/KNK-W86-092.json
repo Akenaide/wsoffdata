@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "本日はご一緒させて頂きます\u003cbr\u003e更科瑠夏と申しますっ",
+	"trigger": null,
 	"ability": [
 		"【自】 加速 ［あなたの控え室の《かのかり》のキャラを1枚クロック置場の下に置く］ 相手のクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"かのかり",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_092.png",
+	"tags": null,
+	"expansionId": 322
 }

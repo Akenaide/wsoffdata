@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お、おう",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの『絆』を持つキャラすべてに、ソウルを＋1。",
-		"【起】［あなたの《キズナ》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 他のあなたの『絆』を持つキャラすべてに、ソウルを＋1。\u003cbr\u003e【起】［あなたの《キズナ》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"キズナ",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KI/S44-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_014.png",
+	"tags": null,
+	"expansionId": 177
 }

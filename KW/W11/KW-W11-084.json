@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "毒の草でもあるから。不意に近づかないようにね",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1)］ あなたは自分の《科学》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"動物",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KW/W11-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kw_w11/kw_w11_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kw_w11/kw_w11_084.png",
+	"tags": null,
+	"expansionId": 46
 }

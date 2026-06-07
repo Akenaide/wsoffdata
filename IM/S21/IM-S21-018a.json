@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Ｐ「よし、一緒に考えてみるか」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の《音楽》のキャラを1枚選び、クロック置場に置いてよい。そうしたら、あなたは自分の控え室の自分のレベル以下のレベルの《音楽》のキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋3000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S21-018a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_018a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_018a.png",
+	"tags": null,
+	"expansionId": 80
 }

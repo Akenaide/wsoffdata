@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうせだから、立って歌おうか。\u003cbr /\u003eほら、恥ずかしがらない。　始まっちゃうよ～",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。",
 		"【自】［(1)］ このカードの与えたダメージがキャンセルされた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
@@ -25,8 +25,9 @@
 		"ガール",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_020.png",
+	"tags": null,
+	"expansionId": 144
 }

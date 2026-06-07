@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いつもあなたのことが気になります。\u003cbr\u003e何をしていて、そして誰に会っているのか",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、このカードを【レスト】する。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《NIKKE》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにCXがあるなら、このカードを【レスト】する。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《NIKKE》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"インヘルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_106.png",
+	"tags": null,
+	"expansionId": 494
 }

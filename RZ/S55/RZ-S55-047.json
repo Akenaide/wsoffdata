@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰もそんなこと考えてねぇ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがフロントアタックされた時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、このカードを控え室に置く。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S55-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s55/rz_s55_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s55/rz_s55_047.png",
+	"tags": null,
+	"expansionId": 234
 }

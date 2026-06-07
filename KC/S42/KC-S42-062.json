@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この二式大艇ちゃん？　あげないよ！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ あなたのクライマックス置場に「見つけたかもっ！」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、他のあなたのキャラすべてに、そのターン中、次の能力を与える。『【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《艦娘》のキャラなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"水上機母艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_062.png",
+	"tags": null,
+	"expansionId": 173
 }

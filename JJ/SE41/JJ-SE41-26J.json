@@ -15,16 +15,17 @@
 	"rarity": "JJR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) このカードを思い出にする］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは他の自分のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"スタンド使い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/SE41-26J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se41/jj_se41_26j.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_se41/jj_se41_26j.png",
+	"tags": null,
+	"expansionId": 434
 }

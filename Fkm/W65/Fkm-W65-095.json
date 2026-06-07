@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それでも、あたしは魔砲剣士になりたいのっ！",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。",
-		"【自】［(1) 手札を1枚控え室に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から1枚見て、このカードの下にマーカーとして裏向きに置き、このカードを【レスト】する。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置く］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から1枚見て、このカードの下にマーカーとして裏向きに置き、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fkm/W65-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fkm_w65/fkm_w65_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fkm_w65/fkm_w65_095.png",
+	"tags": null,
+	"expansionId": 264
 }

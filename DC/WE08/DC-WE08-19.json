@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あはは、今日は大切な挨拶を忘れてたから",
+	"trigger": null,
 	"ability": [
 		"【起】［(2)］ あなたは他の自分のキャラを1枚選び、そのターン中、ソウルを＋1し、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"オモチャ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/WE08-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we08/dc_we08_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we08/dc_we08_19.png",
+	"tags": null,
+	"expansionId": 45
 }

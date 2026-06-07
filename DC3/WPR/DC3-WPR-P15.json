@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私たちもいますよ～",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が6枚以上なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"ウェイトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WPR-P15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_wpr/dc3_wpr_p15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_wpr/dc3_wpr_p15.png",
+	"tags": null,
+	"expansionId": 12
 }

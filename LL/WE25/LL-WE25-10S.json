@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "泳いだ後は水分補給！　今日はリラックス効果のあるハーブティを淹れてきたの～っ",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「あなたへのエール 」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE25-10S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we25/ll_we25_10s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we25/ll_we25_10s.png",
+	"tags": null,
+	"expansionId": 156
 }

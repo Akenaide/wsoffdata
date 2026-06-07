@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そういえば瞳がいなくなる少し前、話を聞きにきたわ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《サマポケ》のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2500し、次の能力を与える。『【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。』"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_063.png",
+	"tags": null,
+	"expansionId": 548
 }

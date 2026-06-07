@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ダメですアリス……私はやっぱり若さが無いのです",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のトリガーアイコンが[TREASURE]のCXが3枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの《きんいろ》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場の《きんいろ》のキャラが3枚以上なら、あなたは2枚まで引き、自分の手札を1枚選び、ストック置場に置く。"
+		"【永】 あなたの控え室のトリガーアイコンが[[treasure.gif]]のCXが3枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの《きんいろ》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 記憶 このカードが手札から舞台に置かれた時、あなたの思い出置場の《きんいろ》のキャラが3枚以上なら、あなたは2枚まで引き、自分の手札を1枚選び、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"純和風"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-044S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_044s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_044s.png",
+	"tags": null,
+	"expansionId": 534
 }

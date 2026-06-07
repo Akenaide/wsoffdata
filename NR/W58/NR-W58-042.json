@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "地上の施設はボクが守る",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NR/W58-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_042.png",
+	"tags": null,
+	"expansionId": 226
 }

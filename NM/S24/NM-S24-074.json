@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "鬼のお兄ちゃん。\u003cbr /\u003eあなたはよくよく不死身の怪異に縁があるようだね",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_074.png",
+	"tags": null,
+	"expansionId": 105
 }

@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "いやぁ、昔ちょっと漫画家志望の霊に取り憑かれたことが",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のカード名に「呑子」を含むキャラを１枚選ぶ。あなたは自分の控え室の「敏腕アシスタント コガラシ」を1枚選び、その舞台のキャラの下にマーカーとして表向きに置いてよい。",
-		"【起】【カウンター】 助太刀1000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）",
-		""
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分のカード名に「呑子」を含むキャラを１枚選ぶ。あなたは自分の控え室の「敏腕アシスタント コガラシ」を1枚選び、その舞台のキャラの下にマーカーとして表向きに置いてよい。\u003cbr\u003e【起】【カウンター】 助太刀1000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"霊能力者",
 		"ゆらぎ荘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YYS/W61-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yys_w61/yys_w61_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yys_w61/yys_w61_036.png",
+	"tags": null,
+	"expansionId": 249
 }

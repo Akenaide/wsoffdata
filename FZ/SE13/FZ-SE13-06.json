@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…アイリスフィール、本当に私のこの格好は\u003cbr /\u003eこの時代になじむものなのですか？",
+	"trigger": null,
 	"ability": [
 		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの、《マスター》か《ホムンクルス》のキャラが、手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/SE13-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_se13/fz_se13_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_se13/fz_se13_06.png",
+	"tags": null,
+	"expansionId": 73
 }

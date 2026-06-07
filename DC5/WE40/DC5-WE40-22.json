@@ -15,8 +15,8 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "つまり、今日の成功は、兄さんのおかげってことにもなりますね。ふふ……",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「家族と恋人」があり、他のあなたのキャラが3枚以上なら、あなたは自分の山札を上から3枚まで見て、《Anniversary》か《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"アクセサリー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC5/WE40-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_we40/dc5_we40_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_we40/dc5_we40_22.png",
+	"tags": null,
+	"expansionId": 436
 }

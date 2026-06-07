@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "《ゲート》のスクロールだ。海の底へと繋げた",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたの《秩序》のキャラが5枚以上なら、あなたは相手のバトル中のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GBS/S63-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_052.png",
+	"tags": null,
+	"expansionId": 260
 }

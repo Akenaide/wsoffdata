@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "狙撃ポイントにつきました！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《トリオン》のキャラの枚数×500に等しい。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《トリオン》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"トリオン",
 		"玉狛第2"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WTR/S85-T18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_t18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wtr_s85/wtr_s85_t18.png",
+	"tags": null,
+	"expansionId": 359
 }

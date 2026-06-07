@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はーいっ！衣笠さんの登場よ！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置き、このカードを控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「青葉型重巡2番艦 衣笠改二」を1枚まで選び、このカードがいた枠に防御キャラとして置く。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"重巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_067.png",
+	"tags": null,
+	"expansionId": 113
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうだ！今度、俺が武器を作ってやるよ！",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《魔大陸》のキャラの枚数×500に等しい。",
-		"【起】［あなたの《魔大陸》のキャラを1枚【レスト】する］ そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが【起】を使った時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《魔大陸》のキャラの枚数×500に等しい。\u003cbr\u003e【起】［あなたの《魔大陸》のキャラを1枚【レスト】する］ そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"スライム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S82-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s82/tsk_s82_080u.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s82/tsk_s82_080u.png",
+	"tags": null,
+	"expansionId": 333
 }

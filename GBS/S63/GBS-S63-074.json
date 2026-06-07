@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "小鬼を退治して…なにか変わりました？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《秩序》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「救済の道標」があるなら、あなたは自分の控え室の《秩序》のキャラを1枚まで選び、ストック置場に置き、自分の山札を見て《秩序》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのターン中、他のあなたの《秩序》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「救済の道標」があるなら、あなたは自分の控え室の《秩序》のキャラを1枚まで選び、ストック置場に置き、自分の山札を見て《秩序》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"大司教"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_074.png",
+	"tags": null,
+	"expansionId": 260
 }

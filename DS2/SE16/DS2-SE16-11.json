@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "生きてる。だったら大丈夫",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「“悪魔使い”アイリ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“悪魔使い”アイリ」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"サマナー",
 		"板前"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS2/SE16-11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds2_se16/ds2_se16_11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds2_se16/ds2_se16_11.png",
+	"tags": null,
+	"expansionId": 104
 }

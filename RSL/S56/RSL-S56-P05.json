@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "夢は「ひかりちゃんと一緒に舞台に立つこと！」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1500。",
-		"【起】［(2) このカードを【レスト】する］ あなたは1枚引く。"
+		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1500。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"髪留め"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-P05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_p05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_p05.png",
+	"tags": null,
+	"expansionId": 13
 }

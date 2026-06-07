@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "手伝わない理由はないな",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「“レッツクエスト！”静流」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“レッツクエスト！”静流」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"委員長",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W20-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w20/rw_w20_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w20/rw_w20_071.png",
+	"tags": null,
+	"expansionId": 84
 }

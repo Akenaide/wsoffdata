@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やぁやぁお帰りーベル君！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラの枚数×500に等しい。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「神様の役目」があるなら、あなたは自分の手札の「ステイタス更新」を1枚選び、思い出にしてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラの枚数×500に等しい。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「神様の役目」があるなら、あなたは自分の手札の「ステイタス更新」を1枚選び、思い出にしてよい。"
 	],
 	"specialAttrib": [
 		"ファミリア",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDM/S88-T12S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_t12s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddm_s88/ddm_s88_t12s.png",
+	"tags": null,
+	"expansionId": 364
 }

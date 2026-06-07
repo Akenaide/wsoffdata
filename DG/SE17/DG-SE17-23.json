@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "殿下ー。金目のものがたくさんありますよ。\u003cbr /\u003e根こそぎ奪ってもいいですよね？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《悪魔》か《プリニー》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_23.png",
+	"tags": null,
+	"expansionId": 102
 }

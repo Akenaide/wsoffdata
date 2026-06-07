@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いっくよー だいれんさ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

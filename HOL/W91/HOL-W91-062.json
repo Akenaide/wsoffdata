@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ココ「私たちはどっちが本物のホロライブ羊なのかちゃんと知ってますよ！」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ホロライブ》のキャラがいるなら、あなたは自分の手札を2枚まで選び、ストック置場に好きな順番で置く。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ホロライブ》のキャラがいるなら、あなたは自分の手札を2枚まで選び、ストック置場に好きな順番で置く。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"4期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_062.png",
+	"tags": null,
+	"expansionId": 357
 }

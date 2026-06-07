@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしは…スイートバレットとしてみんなと武道館に立ちたいって今でも思ってる。 でも、それと同じくらいメンバーの努力は報われてほしいって思ってる",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《思春期》のキャラすべてに、パワーを＋500。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
+		"【永】 他のあなたの《思春期》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"思春期",
 		"オシャレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-065S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_065s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_065s.png",
+	"tags": null,
+	"expansionId": 547
 }

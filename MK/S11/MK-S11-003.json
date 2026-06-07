@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あの…こんな額…経費で落ちないんだけど…",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の《探偵》のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"探偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_003.png",
+	"tags": null,
+	"expansionId": 50
 }

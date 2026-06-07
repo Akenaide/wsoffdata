@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ならば、それを励みにがんばるとするか",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の《冒険》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てコスト0以下の《冒険》のキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"冒険",
 		"ファンタジア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_034.png",
+	"tags": null,
+	"expansionId": 538
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シャ、シャルです…！竜の巫女です！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「竜の森」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て赤か青のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、そのターン中、このカードのパワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE23-42",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we23/dd_we23_42.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we23/dd_we23_42.png",
+	"tags": null,
+	"expansionId": 153
 }

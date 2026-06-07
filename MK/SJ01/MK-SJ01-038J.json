@@ -1,6 +1,6 @@
 {
 	"set": "MK",
-	"setName": "ミルキィホームズ ファンファンパーリーパック♪",
+	"setName": " ミルキィホームズ ファンファンパーリーパック♪",
 	"side": "S",
 	"release": "J01",
 	"id": "038J",
@@ -8,23 +8,22 @@
 	"jpName": "巨人の罰!!",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ガチョウの中にプレゼントがある！！",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはあなたのファイナルフェイズの始めに、手札からクライマックス置場に置くことができる。",
-		"【自】［(4)］ あなたのファイナルフェイズ中、このカードが手札からクライマックス置場に置かれた時、すべてのプレイヤーの前列の中央の枠にキャラがいないなら、あなたはコストを払ってよい。そうしたら、相手に４ダメージを与える。このカードのダメージは無効化されず、キャンセルされない。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【永】 このカードはあなたのファイナルフェイズの始めに、手札からクライマックス置場に置くことができる。\u003cbr\u003e【自】［(4)］ あなたのファイナルフェイズ中、このカードが手札からクライマックス置場に置かれた時、すべてのプレイヤーの前列の中央の枠にキャラがいないなら、あなたはコストを払ってよい。そうしたら、相手に４ダメージを与える。このカードのダメージは無効化されず、キャンセルされない。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/SJ01-038J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_038.png",
+	"tags": null,
+	"expansionId": 195
 }

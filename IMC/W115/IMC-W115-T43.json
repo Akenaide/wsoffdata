@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "溶けて失われる、かつての形。でも境界が虚ろになり、新たな存在価値が生まれる…。零れ落ちるキミを、セカイは見捨てやしないさ。ああ…美味しいな。チョコレートってやつは♪",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 前列の中央の枠にこのカードがいるなら、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+		"【永】 前列の中央の枠にこのカードがいるなら、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、前列にこのカードがいるなら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"中二病"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T43",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t43.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t43.png",
+	"tags": null,
+	"expansionId": 475
 }

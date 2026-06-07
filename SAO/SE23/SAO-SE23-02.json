@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "《ラフィン・コフィン》……。\u003cbr\u003eまさか、あの男はリーダーだった包丁使いなの？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「キリト」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「キリト」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE23-02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se23/sao_se23_02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se23/sao_se23_02.png",
+	"tags": null,
+	"expansionId": 128
 }

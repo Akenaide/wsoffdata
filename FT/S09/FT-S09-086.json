@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "デリオラはオレが封じる!!!!",
+	"trigger": null,
 	"ability": [
 		"【自】［手札のキャラを1枚思い出にする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしないなら、このカードを控え室に置く。",
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「氷雪砲」があるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"氷"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_086.png",
+	"tags": null,
+	"expansionId": 43
 }

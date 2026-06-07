@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "おでん作る上で一番大事なのは何かわかるか？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのクライマックス置場に「仕込みの極意」が置かれた時、他のあなたの黄のキャラが4枚以上なら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのクライマックス置場に「仕込みの極意」が置かれた時、他のあなたの黄のキャラが4枚以上なら、あなたは相手のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"おでん"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_017.png",
+	"tags": null,
+	"expansionId": 171
 }

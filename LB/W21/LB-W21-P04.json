@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前、今日も手紙ないのか？",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 あなたのターン中、このカードの前のあなたのキャラすべてに、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-P04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_p04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_p04.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自分のしたことに向き合う強さを！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「“向き合う勇気”切歌」すべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
-		"【自】 絆／「“向き合う勇気”切歌」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“向き合う勇気”切歌」を1枚選び、手札に戻す）"
+		"【永】 他のあなたの「“向き合う勇気”切歌」すべてに、パワーを＋500し、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。\u003cbr/\u003e【自】 絆／「“向き合う勇気”切歌」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“向き合う勇気”切歌」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_028.png",
+	"tags": null,
+	"expansionId": 154
 }

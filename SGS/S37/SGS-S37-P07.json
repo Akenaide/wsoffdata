@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのカード名に「夕依」か「ほたる」か「サトカ」を含むキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-P07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_p07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_p07.png",
+	"tags": null,
+	"expansionId": 13
 }

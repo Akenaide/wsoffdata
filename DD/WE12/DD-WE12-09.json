@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "強さと華麗さ、豪快さ！\u003cbr /\u003eそのへんが、騎士と戦士の必須事項！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《動物》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_09.png",
+	"tags": null,
+	"expansionId": 71
 }

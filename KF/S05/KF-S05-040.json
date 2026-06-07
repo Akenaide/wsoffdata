@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アイアム、ライデン！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの【スタンド】しているキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"仮面",
 		"暗黒街"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_040.png",
+	"tags": null,
+	"expansionId": 27
 }

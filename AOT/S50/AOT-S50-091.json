@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ハンジ「今だ！削ぎ取れ!!」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 前列にこのカードがいるなら、あなたの《巨人》のキャラすべてに、パワーを＋1500。",
-		"【自】［手札の《巨人》のキャラを3枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを－1し、次の能力を与える。『【永】 このカードはフロントアタックできない。』"
+		"【永】 前列にこのカードがいるなら、あなたの《巨人》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】［手札の《巨人》のキャラを3枚控え室に置く］ 相手のアタックフェイズの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを－1し、次の能力を与える。『【永】 このカードはフロントアタックできない。』"
 	],
 	"specialAttrib": [
 		"巨人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S50-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s50/aot_s50_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s50/aot_s50_091.png",
+	"tags": null,
+	"expansionId": 207
 }

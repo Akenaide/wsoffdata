@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいアロハだな、どこで買った？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《パン》のキャラすべてに、次の能力を与える。『【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［(2)］』を得る。』",
-		"【永】 他のあなたの前列の中央の枠のレベル0以下のキャラに、パワーを＋1000。"
+		"【永】 他のあなたの《パン》のキャラすべてに、次の能力を与える。『【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［(2)］』を得る。』\u003cbr\u003e【永】 他のあなたの前列の中央の枠のレベル0以下のキャラに、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_017.png",
+	"tags": null,
+	"expansionId": 285
 }

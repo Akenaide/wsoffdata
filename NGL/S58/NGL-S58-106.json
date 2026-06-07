@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "マスター以外の人類種にはこれっぽっちも興味はございませんので\u003cbr\u003e（人類種ルビ：イマニティ）",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 あなたの思い出置場に「具象化しりとり」があるなら、このカードのレベルを＋2し、パワーを＋8000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたの手札が相手の手札より少ないなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 記憶 あなたの思い出置場に「具象化しりとり」があるなら、このカードのレベルを＋2し、パワーを＋8000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたの手札が相手の手札より少ないなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"天翼種"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NGL/S58-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_106.png",
+	"tags": null,
+	"expansionId": 236
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】［(1)］ このカードがアタックした時、あなたはコストを2回まで払う。次の行動をＸ回行う。『あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《バーリント市》のキャラなら手札に戻す。』Ｘはこの能力のコストを払った回数に等しい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+		"【自】［(1)］ このカードがアタックした時、あなたはコストを2回まで払う。次の行動をＸ回行う。『あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《バーリント市》のキャラなら手札に戻す。』Ｘはこの能力のコストを払った回数に等しい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"バーリント市",
 		"フォージャー家"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SPY/S106-041S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_041s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/spy_s106/spy_s106_041s.png",
+	"tags": null,
+	"expansionId": 433
 }

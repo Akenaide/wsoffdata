@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さー、戦闘開始だよ、ミュージックスタート！",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、相手は2枚引いてよい。そうしたら、相手は自分の手札を2枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S51-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s51/sao_s51_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s51/sao_s51_103.png",
+	"tags": null,
+	"expansionId": 209
 }

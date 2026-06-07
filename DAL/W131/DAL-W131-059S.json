@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どういう事ですの……？ 第六の弾が……【六の弾】が復活している……？\u003cbr\u003e【六の弾にルビ“ヴァヴ”】",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のクロック置場の、《デート》か《精霊》のキャラを1枚選び、手札に戻す。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DAL/W131-059S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_059s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w131/dal_w131_059s.png",
+	"tags": null,
+	"expansionId": 529
 }

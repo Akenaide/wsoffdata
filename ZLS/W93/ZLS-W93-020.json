@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わん！",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードは、あなたの《SAGA》のキャラがいないなら、手札からプレイできない。あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは【リバース】しない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ZLS/W93-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zls_w93/zls_w93_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zls_w93/zls_w93_020.png",
+	"tags": null,
+	"expansionId": 366
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シリル「さあ、行かなくちゃ！」",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_016.png",
+	"tags": null,
+	"expansionId": 14
 }

@@ -15,7 +15,7 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "模擬店にいる間は「指揮官」じゃなくて「ご主人さま」って呼んでいいかな？",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"艦船",
 		"鉄血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-080S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_080s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_080s.png",
+	"tags": null,
+	"expansionId": 499
 }

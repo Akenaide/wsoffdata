@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うぐっ、うぐあああああー!!",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、他のあなたの《魔大陸》のキャラが2枚以上なら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、パワーを－1000し、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔大陸",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S82-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s82/tsk_s82_059c.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s82/tsk_s82_059c.png",
+	"tags": null,
+	"expansionId": 333
 }

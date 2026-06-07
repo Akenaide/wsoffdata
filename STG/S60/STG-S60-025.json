@@ -10,21 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "宛先：ダル\u003cbr\u003eCc/Bcc\u003cbr\u003e件名：ヤバい\u003cbr\u003e牧瀬紅莉栖が、何者かに刺されたみたいだ…",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたのカード名に「岡部」か「紅莉栖」を含むキャラが1枚以下なら、手札からプレイできない。",
-		"あなたは自分のレベル置場のカードと控え室の《ラボメン》のキャラを1枚ずつ選び、入れ替えてよい。",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【カウンター】 このカードは、あなたのカード名に「岡部」か「紅莉栖」を含むキャラが1枚以下なら、手札からプレイできない。\u003cbr\u003eあなたは自分のレベル置場のカードと控え室の《ラボメン》のキャラを1枚ずつ選び、入れ替えてよい。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "STG/S60-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_025.png",
+	"tags": null,
+	"expansionId": 243
 }

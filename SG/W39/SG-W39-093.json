@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この身を人ではなく、道具として剣として研鑽してきたのだ…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「風輪火斬 月煌」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【永】 相手のターン中、他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr/\u003e【自】［(1)］ このカードがアタックした時、クライマックス置場に「風輪火斬 月煌」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_093.png",
+	"tags": null,
+	"expansionId": 154
 }

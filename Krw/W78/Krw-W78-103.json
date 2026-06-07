@@ -15,21 +15,21 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "いい女ってドライなの",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のレベル3以下のキャラを1枚選び、控え室に置いてよい。そうしたら、相手は自分の控え室のコスト0以下のキャラを1枚まで選び、そのキャラがいた枠に置く。",
-		"【自】［手札の「クラスの異端児 小鳥」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを2枚まで選び、山札に戻し、相手はその山札をシャッフルする。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のレベル3以下のキャラを1枚選び、控え室に置いてよい。そうしたら、相手は自分の控え室のコスト0以下のキャラを1枚まで選び、そのキャラがいた枠に置く。\u003cbr\u003e【自】［手札の「クラスの異端児 小鳥」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを2枚まで選び、山札に戻し、相手はその山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"植物",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Krw/W78-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/krw_w78/krw_w78_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/krw_w78/krw_w78_103.png",
+	"tags": null,
+	"expansionId": 296
 }

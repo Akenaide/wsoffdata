@@ -1,6 +1,6 @@
 {
 	"set": "UMA",
-	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"setName": " 劇場版『ウマ娘 プリティーダービー 新時代の扉』",
 	"side": "W",
 	"release": "119",
 	"id": "007",
@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラがいるなら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の手札を1枚選び、ストック置場に置いてよい。』『あなたは他の自分のキャラを1枚選び、自分の手札の『継承』を持つキャラを1枚まで選んで相手に見せ、そのキャラの下にマーカーとして表向きに置く。』"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W119-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w119/uma_w119_007.png",
+	"tags": null,
+	"expansionId": 486
 }

@@ -10,21 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "にゃあ",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「アインハルト」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札を上から3枚まで見て、緑のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
-		"あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。"
+		"このカードは、あなたのカード名に「アインハルト」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札を上から3枚まで見て、緑のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\u003cbr\u003eあなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "VS/W50-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_029.png",
+	"tags": null,
+	"expansionId": 200
 }

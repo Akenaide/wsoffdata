@@ -15,17 +15,17 @@
 	"rarity": "FOP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 思い出置場にこのカードがあるなら、あなたの「“夢を追う若者”ルーク」すべてに、パワーを＋500。",
-		"【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の「“夢を追う若者”ルーク」を1枚選び、手札に戻す。"
+		"【永】 記憶 思い出置場にこのカードがあるなら、あなたの「“夢を追う若者”ルーク」すべてに、パワーを＋500。\u003cbr\u003e【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の「“夢を追う若者”ルーク」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"帝国の逆襲"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/SE39-019FOP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se39/sw_se39_019fop.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_se39/sw_se39_019fop.png",
+	"tags": null,
+	"expansionId": 411
 }

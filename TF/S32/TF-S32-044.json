@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"改造",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TF/S32-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_044.png",
+	"tags": null,
+	"expansionId": 135
 }

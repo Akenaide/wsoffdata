@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふふ、なんか懐かしかったね～？昔もこんな風に、よく一緒に隠れてたもんだよ、うんうん",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「“クールな友達想い”美竹蘭」すべてに、パワーを＋1000。",
-		"【起】［手札の「“クールな友達想い”美竹蘭」を1枚控え室に置く］ あなたは自分のクロック置場の《Afterglow》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場の下に置く。"
+		"【永】 他のあなたの「“クールな友達想い”美竹蘭」すべてに、パワーを＋1000。\u003cbr\u003e【起】［手札の「“クールな友達想い”美竹蘭」を1枚控え室に置く］ あなたは自分のクロック置場の《Afterglow》のキャラを1枚選び、手札に戻し、自分の山札の上から1枚を、クロック置場の下に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-T42",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_t42.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_t42.png",
+	"tags": null,
+	"expansionId": 224
 }

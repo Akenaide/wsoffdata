@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「初音ミク“リグレット”」がいないなら、このカードはアタックできない。",
 		"【自】 他のあなたの「初音ミク“リグレット”」が舞台から控え室に置かれた時、このカードを控え室に置く。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S29-106b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_106b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s29/pd_s29_106b.png",
+	"tags": null,
+	"expansionId": 121
 }

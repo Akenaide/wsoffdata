@@ -15,7 +15,7 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"グリザイア",
 		"ツンデレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-075S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_075s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_075s.png",
+	"tags": null,
+	"expansionId": 347
 }

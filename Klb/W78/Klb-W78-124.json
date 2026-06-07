@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《Anniversary》か《動物》のキャラの枚数×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"Anniversary",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W78-124",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klb_w78/klb_w78_124.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klb_w78/klb_w78_124.png",
+	"tags": null,
+	"expansionId": 296
 }

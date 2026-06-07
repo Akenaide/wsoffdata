@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キュゥゥーーーット！！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードを1枚選び、山札の上に置く。"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-114",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_114.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_114.png",
+	"tags": null,
+	"expansionId": 119
 }

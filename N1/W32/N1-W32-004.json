@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ワガママを言って、母さんを困らせてばかりだった",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《使い魔》のキャラがいるなら、このカードのパワーを＋2000。",
-		"【自】［(6)］ このカードがアタックした時、クライマックス置場に「ファランクスシフト」があるなら、あなたはコストを払ってよい。そうしたら、あなたの「母を想うフェイト」1枚につき、次の行動を行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
+		"【永】 他のあなたの《使い魔》のキャラがいるなら、このカードのパワーを＋2000。\u003cbr\u003e【自】［(6)］ このカードがアタックした時、クライマックス置場に「ファランクスシフト」があるなら、あなたはコストを払ってよい。そうしたら、あなたの「母を想うフェイト」1枚につき、次の行動を行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N1/W32-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n1_w32/n1_w32_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n1_w32/n1_w32_004.png",
+	"tags": null,
+	"expansionId": 127
 }

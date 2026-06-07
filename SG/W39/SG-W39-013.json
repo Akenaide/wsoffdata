@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…やり直す…",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、前列の中央の枠にこのカードがいるなら、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_013.png",
+	"tags": null,
+	"expansionId": 154
 }

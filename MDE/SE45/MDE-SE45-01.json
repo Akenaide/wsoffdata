@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私が…ワルキューレ…",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、次の行動を行う。『あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ワルキューレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MDE/SE45-01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mde_se45/mde_se45_01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mde_se45/mde_se45_01.png",
+	"tags": null,
+	"expansionId": 458
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここまでたどり着いた子は初めてです。これは期待できるです",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手は0以下か1以上を選ぶ。あなたは自分の山札の上から1枚を、控え室に置き、そのカードが相手の選んだレベルのカードでないなら、あなたは相手のキャラを1枚選び、手札に戻してよい。（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"フレンズ",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMN/W51-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmn_w51/kmn_w51_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmn_w51/kmn_w51_052.png",
+	"tags": null,
+	"expansionId": 205
 }

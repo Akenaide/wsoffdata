@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お仕事まで時間あったから、加蓮ちゃんに宿題教えてもらってた！川島さんは撮影の休憩中！え、宿題してるようには見えない？それは～…はは…",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】 あなたのトリガーアイコンに[SOUL]があるカードがトリガーした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 あなたのトリガーアイコンに[[soul.gif]]があるカードがトリガーした時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ギャル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T47",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t47.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t47.png",
+	"tags": null,
+	"expansionId": 476
 }

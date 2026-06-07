@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何かたくらんでるみたいね！",
+	"trigger": null,
 	"ability": [
-		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「魔王軍襲来！」を1枚選び、手札に戻す。",
-		"【自】 このカードがアタックした時、あなたは他の自分の、《魔王軍》かカード名に「カズマ」を含むキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《魔王軍》かカード名に「カズマ」を含むキャラの枚数×500に等しい。"
+		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「魔王軍襲来！」を1枚選び、手札に戻す。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の、《魔王軍》かカード名に「カズマ」を含むキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《魔王軍》かカード名に「カズマ」を含むキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"魔王軍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_085.png",
+	"tags": null,
+	"expansionId": 291
 }

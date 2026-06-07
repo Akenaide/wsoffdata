@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "じゃあ、私もう行っちゃうから。兄さんも早くね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《魔法》か《バナナ》のキャラ1枚につき、このカードのパワーを＋1500。",
-		"【自】 あなたのCXがCX置場に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《Anniversary》か《魔法》か《バナナ》のキャラの枚数×500に等しい。"
+		"【永】 他のあなたの、《Anniversary》か《魔法》か《バナナ》のキャラ1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】 あなたのCXがCX置場に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《Anniversary》か《魔法》か《バナナ》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W128-069S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_069s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w128/dc_w128_069s.png",
+	"tags": null,
+	"expansionId": 544
 }

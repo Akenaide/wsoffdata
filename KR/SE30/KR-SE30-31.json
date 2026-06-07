@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "寝ても覚めてもアイツの事を考えてしまう…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「T.B.K.」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"死神",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KR/SE30-31",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kr_se30/kr_se30_31.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kr_se30/kr_se30_31.png",
+	"tags": null,
+	"expansionId": 172
 }

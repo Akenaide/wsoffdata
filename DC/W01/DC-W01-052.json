@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "兄さん…これ、お弁当",
+	"trigger": null,
 	"ability": [
 		"【起】［(3) このカードを控え室に置く］ あなたはレベル2以下の相手の前列のキャラを1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"お弁当"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W01-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w01/dc_w01_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w01/dc_w01_052.png",
+	"tags": null,
+	"expansionId": 1
 }

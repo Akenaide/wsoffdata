@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんなの悪魔、使わせてもらうよ！！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《サマナー》か《悪魔》のキャラすべてに、パワーを＋500。",
 		"【自】 他のあなたのバトル中の《サマナー》のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
@@ -26,8 +26,9 @@
 		"サマナー",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS2/SE16-02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds2_se16/ds2_se16_02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds2_se16/ds2_se16_02.png",
+	"tags": null,
+	"expansionId": 104
 }

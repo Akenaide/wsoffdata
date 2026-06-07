@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの、《スニーカー文庫》か《魔法》のキャラすべてに、パワーを＋1000。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
+		"【永】 あなたのターン中、他のあなたの、《スニーカー文庫》か《魔法》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Snw/W123-122S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/snw_w123_122s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/snw_w123_122s.png",
+	"tags": null,
+	"expansionId": 510
 }

@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《Anniversary》のキャラを1枚選び、手札に戻す。",
-		"【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《Anniversary》のキャラを1枚選び、手札に戻す。\u003cbr\u003e【起】【カウンター】 助太刀1000 レベル0 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"フラクトライト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S71-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_041.png",
+	"tags": null,
+	"expansionId": 288
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お～～",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《家族》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"家族",
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_088.png",
+	"tags": null,
+	"expansionId": 114
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "L.A.のオタク達「「「カンセイドゲキタカー！」」」",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) このカードを控え室に置く］ 他のあなたの《ラボメン》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_092.png",
+	"tags": null,
+	"expansionId": 243
 }

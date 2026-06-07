@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この聖杯戦争は何かが違う……",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは自分の、《マスター》か《サーヴァント》か《ホムンクルス》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"旗"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

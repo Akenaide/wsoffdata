@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――さて、私はそろそろ行くよ",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを思い出にする］ あなたは自分の《アバター》のキャラを1枚選び、そのターン中、パワーを＋4000。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S26-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s26/sao_s26_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s26/sao_s26_014.png",
+	"tags": null,
+	"expansionId": 115
 }

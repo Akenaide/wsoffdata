@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じゃ、殺す。 今すぐ殺す。 とりあえず殺す。",
+	"trigger": null,
 	"ability": [
 		"【起】[(3)] あなたは相手の前列のレベル1以下のキャラを1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W02-114",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_114.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_114.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "てっきり、吹いたらお前が現れるものと――",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが2枚以下なら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"忍",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/SE05-41",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_se05/sb_se05_41.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_se05/sb_se05_41.png",
+	"tags": null,
+	"expansionId": 47
 }

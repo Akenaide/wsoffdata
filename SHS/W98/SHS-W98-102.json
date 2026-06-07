@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それは言わない約束だよ、お兄ちゃん",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードの与えたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋6000。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W98-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w98/shs_w98_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w98/shs_w98_102.png",
+	"tags": null,
+	"expansionId": 391
 }

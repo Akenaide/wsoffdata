@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おばあさん 明けましておめでとうございます\u003cbr\u003e本年も宜しくお願いします",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、あなたは自分の《かのかり》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
+		"【永】 あなたのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《かのかり》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"ダイアモンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_068.png",
+	"tags": null,
+	"expansionId": 322
 }

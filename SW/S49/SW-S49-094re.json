@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おまえは交渉に応じるべきだった、ジャバ。おまえが死ぬ前に犯した最後の過ちだ",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「Return of the Jedi」があり、他のあなたの青のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、青のキャラか「Lightsaber」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「Return of the Jedi」があり、他のあなたの青のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、青のキャラか「Lightsaber」を1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"ジェダイの帰還"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-094re",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_094re.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_094re.png",
+	"tags": null,
+	"expansionId": 400
 }

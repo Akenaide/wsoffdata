@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "取るな盗人!!唐揚げは全部ワシのじゃ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の、《デビルハンター》か《悪魔》か《動物》のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【起】［このカードを【レスト】する］ このカードの下のマーカーが2枚以下なら、あなたは自分の控え室のキャラを1枚選び、このカードの下にマーカーとして表向きに置く。1枚置いたなら、あなたは相手の山札を上から1枚見て、山札の上か下に置く。"
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の、《デビルハンター》か《悪魔》か《動物》のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【起】［このカードを【レスト】する］ このカードの下のマーカーが2枚以下なら、あなたは自分の控え室のキャラを1枚選び、このカードの下にマーカーとして表向きに置く。1枚置いたなら、あなたは相手の山札を上から1枚見て、山札の上か下に置く。"
 	],
 	"specialAttrib": [
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_021.png",
+	"tags": null,
+	"expansionId": 428
 }

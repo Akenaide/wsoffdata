@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "指揮官も飲みたいようでしたら、どうぞ",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたが『共鳴』を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】 共鳴 ［手札の「ニュージャージー」を1枚公開し、このカードを【レスト】する］ クライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【自】 この能力は1ターンにつき1回まで発動する。あなたが『共鳴』を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】 共鳴 ［手札の「ニュージャージー」を1枚公開し、このカードを【レスト】する］ クライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ユニオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-125S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_125s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_125s.png",
+	"tags": null,
+	"expansionId": 410
 }

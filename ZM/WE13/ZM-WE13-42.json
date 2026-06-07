@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい、今日は魔法で変身する舞踏会ですから",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) このカードをクロック置場に置く］ あなたのクライマックス置場に「真実の鏡」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下の《魔法》のキャラを1枚まで選び、このカードがいた枠に置く。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-42",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_42.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_42.png",
+	"tags": null,
+	"expansionId": 77
 }

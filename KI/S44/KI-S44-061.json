@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《キズナ》のキャラすべてに、パワーを＋1000。",
-		"【自】 あなたのクライマックス置場に「好きな人の好きな人へ」が置かれた時、あなたの山札を公開し、相手はあなたの山札を見てレベル2以上のキャラを1枚選び、あなたの手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの《キズナ》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 あなたのクライマックス置場に「好きな人の好きな人へ」が置かれた時、あなたの山札を公開し、相手はあなたの山札を見てレベル2以上のキャラを1枚選び、あなたの手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"キズナ",
 		"家事"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KI/S44-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_061.png",
+	"tags": null,
+	"expansionId": 177
 }

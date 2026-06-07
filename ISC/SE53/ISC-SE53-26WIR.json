@@ -15,7 +15,7 @@
 	"rarity": "WIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"ノクチル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/SE53-26WIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_se53/isc_se53_26wir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_se53/isc_se53_26wir.png",
+	"tags": null,
+	"expansionId": 528
 }

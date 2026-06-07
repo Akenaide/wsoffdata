@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の口癖の『プラチナむかつく』のことなんだけど、あれ、\u003cbr /\u003e元々は『プチむかつく』からの変化だから、プラチナって言葉\u003cbr /\u003eから連想されるほど強くむかついてるわけじゃないの",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"怪異",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_059.png",
+	"tags": null,
+	"expansionId": 105
 }

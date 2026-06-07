@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀Ｘ レベル1 ［手札のこのカードを控え室に置く］ Ｘはあなたの《スニーカー文庫》のキャラの枚数×500に等しい。（あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋Ｘ）"
 	],
@@ -24,8 +24,9 @@
 		"スニーカー文庫",
 		"蒼鷗姫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sde/W123-068SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sde_w123_068sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/sde_w123_068sp.png",
+	"tags": null,
+	"expansionId": 510
 }

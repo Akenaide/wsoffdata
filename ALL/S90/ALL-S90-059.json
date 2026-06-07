@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたし、小さい頃からリリィが好きなんで、リリィのことになるとつい熱くなっちゃうんです",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
-		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[DRAW]のクライマックスがでた時、あなたは自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
+		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[[draw.gif]]のクライマックスがでた時、あなたは自分の《リリィ》のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_059.png",
+	"tags": null,
+	"expansionId": 371
 }

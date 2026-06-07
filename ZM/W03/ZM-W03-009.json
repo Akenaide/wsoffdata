@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ペルスラン「ですが、お嬢様は\u003cbr /\u003eこの理不尽な命令を、すべて完遂させました」",
 	"trigger": [
 		"SOUL"
 	],
@@ -28,8 +28,9 @@
 		"魔法",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_009.png",
+	"tags": null,
+	"expansionId": 3
 }

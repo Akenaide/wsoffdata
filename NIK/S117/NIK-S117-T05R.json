@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"NIKKE",
 		"トライアングル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-T05R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_t05r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_t05r.png",
+	"tags": null,
+	"expansionId": 493
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "大輝「語ろうぜ　俺たちの刃で」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《芸能界》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 あなたのCX置場に「対比構造」が置かれた時、前列にこのカードがいるなら、相手は自分の山札の上からＸ枚を、控え室に置く。Ｘはあなたの《芸能界》のキャラの枚数×4に等しい。"
+		"【永】 他のあなたの《芸能界》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのCX置場に「対比構造」が置かれた時、前列にこのカードがいるなら、相手は自分の山札の上からＸ枚を、控え室に置く。Ｘはあなたの《芸能界》のキャラの枚数×4に等しい。"
 	],
 	"specialAttrib": [
 		"芸能界",
 		"俳優"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OSK/S121-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s121/osk_s121_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/osk_s121/osk_s121_093.png",
+	"tags": null,
+	"expansionId": 504
 }

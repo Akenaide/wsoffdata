@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを【レスト】する］ あなたは自分の山札を見て「分身 ソウエイ」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルし、ターンの終わりに、そのキャラを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔大陸",
 		"忍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_088.png",
+	"tags": null,
+	"expansionId": 283
 }

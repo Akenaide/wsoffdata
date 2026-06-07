@@ -15,20 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "CD集めよろしくね！\u003cbr\u003eもふもふされたくなったらすぐに帰ってくるんだよ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 あなたのCX置場に「枕投げ」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、自分の控え室のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 あなたのCX置場に「枕投げ」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置き、自分の控え室のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE46-37",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we46/gu_we46_37.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we46/gu_we46_37.png",
+	"tags": null,
+	"expansionId": 487
 }

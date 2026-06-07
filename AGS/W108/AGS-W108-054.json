@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こっちもうかうかしてられないわね",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《アリスギア》なら、このカードのパワーを＋2000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがなく、他のあなたの《アリスギア》のキャラがいるなら、あなたはそのキャラを山札の上に置いてよい。"
+		"【永】 あなたのキャラすべてが《アリスギア》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがなく、他のあなたの《アリスギア》のキャラがいるなら、あなたはそのキャラを山札の上に置いてよい。"
 	],
 	"specialAttrib": [
 		"アリスギア",
 		"アクトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AGS/W108-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ags_w108/ags_w108_054.png",
+	"tags": null,
+	"expansionId": 446
 }

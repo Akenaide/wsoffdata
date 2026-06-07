@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リンディ「そんなことないわ…立派よ。これからもっと…\u003cbr /\u003eお話をしましょ。これまでの事も、これからの事も」",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードは相手の効果に選ばれない。",
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_015.png",
+	"tags": null,
+	"expansionId": 94
 }

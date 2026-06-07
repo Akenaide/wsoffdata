@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "先頭集団、第４コーナーを回ったぁー！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、CX置場にCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）",
-		"【自】 経験 このカードがアタックした時、あなたのレベル置場に「“トレーナー”小宮山 勝美」があるなら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋1000。"
+		"【自】 このカードがアタックした時、CX置場にCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）\u003cbr\u003e【自】 経験 このカードがアタックした時、あなたのレベル置場に「“トレーナー”小宮山 勝美」があるなら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置き、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ウマ娘",
 		"シンデレラグレイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W134-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w134/uma_w134_042.png",
+	"tags": null,
+	"expansionId": 540
 }

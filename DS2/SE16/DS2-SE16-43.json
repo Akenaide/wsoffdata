@@ -10,21 +10,22 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "新田さん…死、なんて……そんな選択選ばないでくれ……",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたのカード名に「ヤマト」か「ヒビキ」を含むキャラがいないなら、手札からプレイできない。",
 		"あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋4000。",
 		"このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DS2/SE16-43",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds2_se16/ds2_se16_43.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds2_se16/ds2_se16_43.png",
+	"tags": null,
+	"expansionId": 104
 }

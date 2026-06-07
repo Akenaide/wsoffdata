@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ウル「我々を舐めるなよ。スパイシー」",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"コロニー",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SK/WE05-11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sk_we05/sk_we05_11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sk_we05/sk_we05_11.png",
+	"tags": null,
+	"expansionId": 30
 }

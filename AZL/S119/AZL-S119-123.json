@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "艦隊の一員として仲間たちと協同して、勝利を勝ち取ることを願おう",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたのCX置場にCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）",
-		"【自】 このカードがアタックした時、あなたのCX置場にCXがなく、他のあなたの《艦船》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。"
+		"【自】 このカードがアタックした時、あなたのCX置場にCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）\u003cbr\u003e【自】 このカードがアタックした時、あなたのCX置場にCXがなく、他のあなたの《艦船》のキャラがいるなら、そのターン中、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ユニオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S119-123",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s119/azl_s119_123.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s119/azl_s119_123.png",
+	"tags": null,
+	"expansionId": 499
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゼロ距離ならば！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-110",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_110.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_110.png",
+	"tags": null,
+	"expansionId": 13
 }

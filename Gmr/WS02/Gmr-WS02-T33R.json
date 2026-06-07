@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「戦略級魔法師 達也」すべてに、パワーを＋1000。",
-		"【永】 他のあなたの《電撃文庫》のキャラすべてに、パワーを＋500。"
+		"【永】 他のあなたの「戦略級魔法師 達也」すべてに、パワーを＋1000。\u003cbr\u003e【永】 他のあなたの《電撃文庫》のキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gmr/WS02-T33R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gmr_ws02_t33r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gmr_ws02_t33r.png",
+	"tags": null,
+	"expansionId": 438
 }

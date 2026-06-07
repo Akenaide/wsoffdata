@@ -15,19 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室の《音楽》のキャラを1枚ずつ選び、入れ替える。",
-		"【起】 経験 ［(1) このカードを控え室に置く］ あなたのレベルが2以上で、あなたのレベル置場のカードのレベルの合計が3以上なら、あなたは自分の控え室の「輝けるやり方で アイ」を1枚選び、このカードがいた枠に置く。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のレベル置場のカードと控え室の《音楽》のキャラを1枚ずつ選び、入れ替える。\u003cbr\u003e【起】 経験 ［(1) このカードを控え室に置く］ あなたのレベルが2以上で、あなたのレベル置場のカードのレベルの合計が3以上なら、あなたは自分の控え室の「輝けるやり方で アイ」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ダイヤモンドダスト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GCR/SE48-53",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gcr_se48/gcr_se48_53.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gcr_se48/gcr_se48_53.png",
+	"tags": null,
+	"expansionId": 497
 }

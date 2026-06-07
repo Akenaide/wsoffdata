@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "小毬「おまちどおさま～」\u003cbr /\u003e鈴「……」",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1) このカードを控え室に置く］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。"
@@ -25,8 +25,9 @@
 		"動物",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_032.png",
+	"tags": null,
+	"expansionId": 96
 }

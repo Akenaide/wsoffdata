@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ジェットステップ、ＧＯーーッ！",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを正面に相手のキャラがいる、自分のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"オッドアイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-G05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_g05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_g05.png",
+	"tags": null,
+	"expansionId": 53
 }

@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "言った筈ですアーチャー。\u003cbr /\u003eシロウとの誓いはなくならないと",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_t04.png",
+	"tags": null,
+	"expansionId": 9
 }

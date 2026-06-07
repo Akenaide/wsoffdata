@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もっと、もっと、もっと、見せてよ！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】している《レヴュー》のキャラを1枚選び【レスト】する。そうしたら、あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かし、あなたは自分の控え室の《レヴュー》のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RSL/S98-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_042.png",
+	"tags": null,
+	"expansionId": 402
 }

@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "服も宝飾品も身につけてこそだ。傷もよごれも失ってしまうことさえも、大切な思い出になるんだ",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［(1) このカードを思い出にする］ あなたのクライマックス置場に「変えられない過去」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“全部終わりでいい”リンネ」を1枚選び、舞台の好きな枠に置き、次の相手のターンの終わりまで、そのキャラのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_091.png",
+	"tags": null,
+	"expansionId": 200
 }

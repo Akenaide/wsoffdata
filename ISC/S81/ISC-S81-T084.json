@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふゆは、どんなアイドルになれると思いますか？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ストレイライト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-T084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_t084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_t084.png",
+	"tags": null,
+	"expansionId": 330
 }

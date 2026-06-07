@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "別種のクエストが見つかったようなのです",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたのカード名に「キリト」か「アスナ」を含むキャラが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 この能力は1ターンにつき2回まで発動する。他のあなたのカード名に「キリト」か「アスナ」を含むキャラが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
 	],
 	"specialAttrib": [
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S47-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s47/sao_s47_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s47/sao_s47_092.png",
+	"tags": null,
+	"expansionId": 189
 }

@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かアタックした時か舞台から控え室に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"Anniversary",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W102-042S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/klb_w102_042s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/klb_w102_042s.png",
+	"tags": null,
+	"expansionId": 406
 }

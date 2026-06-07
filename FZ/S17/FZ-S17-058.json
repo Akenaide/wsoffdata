@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "見るがいい。そして思い知れ。\u003cbr /\u003eこれが『王の酒』というものだ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが3枚以上なら、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。』",
 		"【自】 絆／「言峰 綺礼」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「言峰 綺礼」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"サーヴァント",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_058.png",
+	"tags": null,
+	"expansionId": 82
 }

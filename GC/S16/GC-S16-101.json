@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "涯は、私に名前をくれたの\u003cbr /\u003e名前も……自分も……何も無かった私に、名前をくれたの",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《葬儀社》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"葬儀社"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_101.png",
+	"tags": null,
+	"expansionId": 55
 }

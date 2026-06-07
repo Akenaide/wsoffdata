@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。",
-		"【起】［このカードを山札の下に置く］ あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、このカードがいた枠に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。\u003cbr\u003e【起】［このカードを山札の下に置く］ あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"小美呼市",
 		"祓忍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AYT/W110-056S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ayt_w110/ayt_w110_056s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ayt_w110/ayt_w110_056s.png",
+	"tags": null,
+	"expansionId": 452
 }

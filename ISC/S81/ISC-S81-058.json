@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すごい……とっても綺麗です！",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場に黄のカードがあるなら、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"イルミネーションスターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_058.png",
+	"tags": null,
+	"expansionId": 332
 }

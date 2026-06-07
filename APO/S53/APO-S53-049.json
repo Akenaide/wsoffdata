@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"毒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_049.png",
+	"tags": null,
+	"expansionId": 228
 }

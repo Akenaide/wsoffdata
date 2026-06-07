@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "8",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "音無「あれは……雪…？」",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの、《Anniversary》か《死》のキャラが4枚以下なら、手札からプレイできない。あなたは自分の手札を2枚選び、控え室に置いてよい。そうしたら、次の行動を5回行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Kab/W102-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/kab_w102_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/kab_w102_069.png",
+	"tags": null,
+	"expansionId": 406
 }

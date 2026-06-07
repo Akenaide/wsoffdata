@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハグしてください",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「瑠夏」を含むキャラが1枚以下なら、手札からプレイできない。",
-		"あなたは自分の山札の上から1枚を、クロック置場に置き、相手に79ダメージを与え、自分の山札を見て「“大人なんです” 瑠夏」を2枚まで選び、舞台の別々の枠に置き、その山札をシャッフルし、そのターン中、それらのキャラのパワーを＋1000し、ソウルを＋1。（ダメージキャンセルは発生する）"
+		"このカードは、あなたのカード名に「瑠夏」を含むキャラが1枚以下なら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から1枚を、クロック置場に置き、相手に79ダメージを与え、自分の山札を見て「“大人なんです” 瑠夏」を2枚まで選び、舞台の別々の枠に置き、その山札をシャッフルし、そのターン中、それらのキャラのパワーを＋1000し、ソウルを＋1。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KNK/W86-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_097.png",
+	"tags": null,
+	"expansionId": 322
 }

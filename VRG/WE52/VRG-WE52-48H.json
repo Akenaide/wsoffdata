@@ -15,20 +15,20 @@
 	"rarity": "HU",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。",
-		"【起】［このカードを山札の下に置く］ あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のレベル1以上のキャラを1枚選んでよい。そうしたら、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。\u003cbr\u003e【起】［このカードを山札の下に置く］ あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"終末世界",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VRG/WE52-48H",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vrg_we52/vrg_we52_48h.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vrg_we52/vrg_we52_48h.png",
+	"tags": null,
+	"expansionId": 542
 }

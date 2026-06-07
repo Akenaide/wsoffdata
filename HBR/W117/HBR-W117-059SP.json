@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 前列の中央の枠にこのカードがいるなら、このカードのレベルを＋1し、パワーを＋3500し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"セラフ",
 		"第31F部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W117-059SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w117/hbr_w117_059sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w117/hbr_w117_059sp.png",
+	"tags": null,
+	"expansionId": 482
 }

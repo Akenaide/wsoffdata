@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ありゃ？今日のみなさんは、なんか頭良さそうですよ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_022.png",
+	"tags": null,
+	"expansionId": 119
 }

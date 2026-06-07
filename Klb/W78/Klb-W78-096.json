@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "はうぅぅ～…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「なかなか懐かない子猫 鈴」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの、《Anniversary》か《動物》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。"
+		"【永】 あなたのクロック置場に「なかなか懐かない子猫 鈴」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの、《Anniversary》か《動物》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W78-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klb_w78/klb_w78_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klb_w78/klb_w78_096.png",
+	"tags": null,
+	"expansionId": 296
 }

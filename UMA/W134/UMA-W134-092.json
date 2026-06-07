@@ -15,21 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "力が漲る感じがする",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋5000。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラが4枚以上なら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、ストック置場に置いてよい。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2以上なら、そのターン中、このカードのパワーを＋6000。"
+		"【永】 あなたのターン中、このカードのパワーを＋5000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《ウマ娘》のキャラが4枚以上なら、あなたは自分の控え室の《ウマ娘》のキャラを1枚選び、ストック置場に置いてよい。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2以上なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"ウマ娘",
 		"シンデレラグレイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W134-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w134/uma_w134_092.png",
+	"tags": null,
+	"expansionId": 540
 }

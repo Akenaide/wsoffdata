@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "HU",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"［あなたの【スタンド】している黄のキャラを1枚【レスト】する］ あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「亜人の軍勢」を2枚まで選び、舞台の別々の枠に置き、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "OVL/SE51-15H",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se51/ovl_se51_15h.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_se51/ovl_se51_15h.png",
+	"tags": null,
+	"expansionId": 515
 }

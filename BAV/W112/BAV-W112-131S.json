@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "せ、先生！？アリス、まだ準備中なので……",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てクライマックスを1枚まで選んで公開し、自分の手札のクライマックスを1枚まで選んで公開し、それらのクライマックスを入れ替え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"ゲーム開発部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-131S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_131s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_131s.png",
+	"tags": null,
+	"expansionId": 460
 }

@@ -10,21 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【CXコンボ】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、次の2つの効果のうちあなたが選んだ1つを行う。",
-		"『相手に1ダメージを与える。』（ダメージキャンセルは発生する）",
-		"『あなたは自分の控え室の「アタシ再生産」を1枚選び、手札に戻す。』"
+		"【CXコンボ】 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、次の2つの効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『相手に1ダメージを与える。』（ダメージキャンセルは発生する）\u003cbr\u003e『あなたは自分の控え室の「アタシ再生産」を1枚選び、手札に戻す。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RSL/S98-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s98/rsl_s98_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s98/rsl_s98_074.png",
+	"tags": null,
+	"expansionId": 402
 }

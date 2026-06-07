@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "和也君、だよね？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《かのかり》のキャラの枚数×500に等しい。",
-		"【自】 このカードがアタックした時、あなたは自分の《かのかり》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《かのかり》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《かのかり》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"ダイアモンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-T15S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_t15s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_t15s.png",
+	"tags": null,
+	"expansionId": 321
 }

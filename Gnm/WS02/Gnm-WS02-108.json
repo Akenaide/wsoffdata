@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "シェラ「固まっていては格好の的になりますわ！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《電撃文庫》のキャラすべてに、パワーを＋2000。",
-		"【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+		"【永】 あなたのターン中、他のあなたの《電撃文庫》のキャラすべてに、パワーを＋2000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gnm/WS02-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gnm_ws02_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gnm_ws02_108.png",
+	"tags": null,
+	"expansionId": 439
 }

@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのストックが3枚以下なら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"ゆるキャン△",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YRC/W116-T12R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_t12r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yrc_w116/yrc_w116_t12r.png",
+	"tags": null,
+	"expansionId": 473
 }

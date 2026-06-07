@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "見せもんじゃねぇぞ、コラ！",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"不良",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_104.png",
+	"tags": null,
+	"expansionId": 67
 }

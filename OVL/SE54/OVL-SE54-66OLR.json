@@ -15,8 +15,8 @@
 	"rarity": "OLR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
 	],
@@ -24,8 +24,9 @@
 		"人間種",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/SE54-66OLR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_66olr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_se54/ovl_se54_66olr.png",
+	"tags": null,
+	"expansionId": 535
 }

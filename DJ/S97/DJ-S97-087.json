@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょっとホバリングでお願いします～",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室の、《音楽》のキャラを1枚までとクライマックスを1枚まで選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DJ/S97-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_087.png",
+	"tags": null,
+	"expansionId": 423
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ドラは9がめくれると1に戻るじゃろ？",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは次の行動を行う。『あなたは自分の手札を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』あなたはその行動を好きな回数繰り返してよい。",
-		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは次の行動を行う。『あなたは自分の手札を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。』あなたはその行動を好きな回数繰り返してよい。\u003cbr\u003e【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
 	"specialAttrib": [
 		"夏",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DBG/W87-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dbg_w87/dbg_w87_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dbg_w87/dbg_w87_065.png",
+	"tags": null,
+	"expansionId": 342
 }

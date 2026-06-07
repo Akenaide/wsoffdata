@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わ、私がパフェを食べていると、……そ、そんなにもおかしいか",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"委員長",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_104.png",
+	"tags": null,
+	"expansionId": 53
 }

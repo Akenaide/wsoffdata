@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サイト「嬉しいような腹立つような…」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「メイド服のルイズ」すべてに、パワーを＋1000。",
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"使い魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_003.png",
+	"tags": null,
+	"expansionId": 3
 }

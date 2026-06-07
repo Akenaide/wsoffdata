@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……痛い",
+	"trigger": null,
 	"ability": [
 		"あなたは相手に5ダメージを与える。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC/WC01-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_wc01/dc_wc01_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_wc01/dc_wc01_070.png",
+	"tags": null,
+	"expansionId": 373
 }

@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "きらりも、それがいいと思うにぃ～☆",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの黄のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 あなたのターン中、他のあなたの黄のキャラ1枚につき、このカードのパワーを＋500。\u003cbr/\u003e【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ハピハピ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-T13c",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_t13c.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_t13c.png",
+	"tags": null,
+	"expansionId": 141
 }

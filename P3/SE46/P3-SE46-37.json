@@ -15,21 +15,21 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "俺もまだまだ強くなれる！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋10000。",
-		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 あなたのターン中、このカードのパワーを＋10000。\u003cbr\u003e【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"リロード",
 		"魔法",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SE46-37",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_37.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_se46/p3_se46_37.png",
+	"tags": null,
+	"expansionId": 469
 }

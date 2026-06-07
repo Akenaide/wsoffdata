@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マスター、指示を",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「風王鉄槌」があるなら、あなたは自分の山札を上から4枚まで見て、《マスター》か《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「風王鉄槌」があるなら、あなたは自分の山札を上から4枚まで見て、《マスター》か《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_001.png",
+	"tags": null,
+	"expansionId": 262
 }

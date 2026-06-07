@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アタシ達は当日を楽しみに待ってよっか！",
+	"trigger": null,
 	"ability": [
-		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋Ｘ。Ｘはこのカードのソウル×1000に等しい。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋Ｘ。Ｘはこのカードのソウル×1000に等しい。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_086.png",
+	"tags": null,
+	"expansionId": 382
 }

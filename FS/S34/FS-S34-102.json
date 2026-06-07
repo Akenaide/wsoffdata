@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マスター、指示を",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのクロックが0枚なら、このカードはアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_102.png",
+	"tags": null,
+	"expansionId": 139
 }

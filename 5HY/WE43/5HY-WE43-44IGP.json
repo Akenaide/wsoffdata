@@ -15,20 +15,20 @@
 	"rarity": "IGP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
-		"【自】 あなたのトリガーアイコンが[STANDBY]のクライマックスがトリガーした時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[standby.gif]]のクライマックスがトリガーした時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/WE43-44IGP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_we43/5hy_we43_44igp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_we43/5hy_we43_44igp.png",
+	"tags": null,
+	"expansionId": 462
 }

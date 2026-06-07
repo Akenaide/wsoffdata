@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "響「今日の夜更かしに備えてお昼寝するなら、ちょっと疲れたくらいが良くないかな？」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。あなたは自分の手札を1枚選び、控え室に置く。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr/\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から2枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_010.png",
+	"tags": null,
+	"expansionId": 154
 }

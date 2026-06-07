@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "巫女さんパワーでみんなに幸せ授けます♪",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】［(1) このカードを【レスト】する］ あなたが『チェンジ』を使った時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、パワーを＋2000。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W28-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w28/ll_w28_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w28/ll_w28_021.png",
+	"tags": null,
+	"expansionId": 110
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……また来るね、さーくん",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、《スニーカー文庫》か《生徒会》のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"スニーカー文庫",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Srd/W123-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/srd_w123_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/srd_w123_t11.png",
+	"tags": null,
+	"expansionId": 509
 }

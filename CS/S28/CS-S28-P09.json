@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しんのすけ「こっちこっち！！」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1500。",
 		"【起】［(1)］あなたは自分の、《家族》か《幼稚園》のキャラを1枚選び、そのターン中、ソウルを＋1。"
@@ -25,8 +25,9 @@
 		"家族",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-P09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_p09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_p09.png",
+	"tags": null,
+	"expansionId": 13
 }

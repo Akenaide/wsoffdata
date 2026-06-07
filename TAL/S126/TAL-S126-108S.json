@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたが美味しいと感じる心に種族はありますか？",
+	"trigger": null,
 	"ability": [
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の山札を見て《冒険》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《冒険》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の山札を見て《冒険》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《冒険》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"冒険",
 		"リバース"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-108S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_108s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_108s.png",
+	"tags": null,
+	"expansionId": 538
 }

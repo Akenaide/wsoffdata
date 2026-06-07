@@ -10,21 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一人前の騎士の証",
+	"trigger": null,
 	"ability": [
-		"あなたは自分のマーカーを持たないキャラを1枚選び、このカードをそのキャラの下にマーカーとして表向きに置き、そのターン中、そのキャラのパワーを＋1000。",
-		"【自】 このカードがマーカー置場から控え室に置かれた時、あなたの《冒険者》のキャラが2枚以上なら、あなたはこのカードを思い出にする。",
-		"【自】 記憶 あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、このカードを手札に戻す。"
+		"あなたは自分のマーカーを持たないキャラを1枚選び、このカードをそのキャラの下にマーカーとして表向きに置き、そのターン中、そのキャラのパワーを＋1000。\u003cbr\u003e【自】 このカードがマーカー置場から控え室に置かれた時、あなたの《冒険者》のキャラが2枚以上なら、あなたはこのカードを思い出にする。\u003cbr\u003e【自】 記憶 あなたのメインフェイズの始めに、思い出置場にこのカードがあるなら、このカードを手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LOD/S74-T18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_t18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_t18.png",
+	"tags": null,
+	"expansionId": 295
 }

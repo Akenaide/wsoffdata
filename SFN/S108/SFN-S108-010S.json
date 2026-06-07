@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハイター「今回は早く終わりましたね…」",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《冒険者》か《魔法》なら、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
+		"【永】 あなたのキャラすべてが《冒険者》か《魔法》なら、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の中央のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S108-010S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_010s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s108/sfn_s108_010s.png",
+	"tags": null,
+	"expansionId": 466
 }

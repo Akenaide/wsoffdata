@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あらゆる望みは我が手の中に…\u003cbr\u003e世界の全ては我が腕の中！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのカード名に「ディアーチェ」か「シュテル」か「レヴィ」か「ユーリ」を含むキャラすべてに、パワーを＋1000。",
-		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたのカード名に「ディアーチェ」か「シュテル」か「レヴィ」か「ユーリ」を含むキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NR/W58-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_077.png",
+	"tags": null,
+	"expansionId": 226
 }

@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "梨璃が結梨って名付けてくれたから、わたしは結梨になったんだよ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の思い出置場の表向きのカードを1枚選び、裏向きにしてよい。そうしたら、あなたのターンの終わりに、そのカードを表向きにする。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを思い出にしてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の思い出置場の表向きのカードを1枚選び、裏向きにしてよい。そうしたら、あなたのターンの終わりに、そのカードを表向きにする。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードを思い出にする。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを思い出にしてよい。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S76-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s76/all_s76_050.png",
+	"tags": null,
+	"expansionId": 337
 }

@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "岩沢『やっと…見つけた…』",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の《死》のキャラを1枚選び、そのターン中、パワーを＋3500"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "AB/W31-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_048.png",
+	"tags": null,
+	"expansionId": 119
 }

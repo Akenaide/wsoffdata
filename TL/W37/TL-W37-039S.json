@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日は特別に…いいよ？私のベッドで…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《変身》か《家事》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"家事",
 		"ランドセル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-039S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_039s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_039s.png",
+	"tags": null,
+	"expansionId": 150
 }

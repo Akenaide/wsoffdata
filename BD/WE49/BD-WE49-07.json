@@ -15,21 +15,21 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "普通だよ～。友達だもん",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。",
-		"【自】 あなたのCXがトリガーした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 応援 このカードの前のあなたのレベル3以上のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 あなたのCXがトリガーした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Morfonica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE49-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we49/bd_we49_07.png",
+	"tags": null,
+	"expansionId": 526
 }

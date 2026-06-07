@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おはよう。阿良々木先輩",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が6以上なら、このカードの正面のキャラのソウルを－1。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_028.png",
+	"tags": null,
+	"expansionId": 60
 }

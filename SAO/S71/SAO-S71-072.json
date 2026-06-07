@@ -15,19 +15,19 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《Anniversary》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 経験 このカードがアタックした時、クライマックス置場に「薄明のギルド」があり、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分の山札の上から3枚までを、控え室に置き、自分の控え室のレベルＸ以下の《Anniversary》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋500。Ｘはこの効果で控え室に置かれた《Anniversary》のキャラの枚数に等しい。"
+		"【永】 他のあなたの《Anniversary》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 経験 このカードがアタックした時、クライマックス置場に「薄明のギルド」があり、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分の山札の上から3枚までを、控え室に置き、自分の控え室のレベルＸ以下の《Anniversary》のキャラを1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋500。Ｘはこの効果で控え室に置かれた《Anniversary》のキャラの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"フラクトライト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S71-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_072.png",
+	"tags": null,
+	"expansionId": 288
 }

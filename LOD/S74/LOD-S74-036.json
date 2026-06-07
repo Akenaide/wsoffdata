@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今は読書の時間です、少し静かにしてもらえませんか",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「亡霊に憑かれた少女 パンドラ」すべてに、ソウルを＋1。",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「光なき救済」が置かれた時、他のあなたの《冒険者》のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、《冒険者》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 他のあなたの「亡霊に憑かれた少女 パンドラ」すべてに、ソウルを＋1。\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「光なき救済」が置かれた時、他のあなたの《冒険者》のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、《冒険者》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_036.png",
+	"tags": null,
+	"expansionId": 297
 }

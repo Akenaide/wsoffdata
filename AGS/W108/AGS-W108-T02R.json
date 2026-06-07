@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "モデラー心をくすぐられるッスよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時かこのカードの与えたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"アリスギア",
 		"アクトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AGS/W108-T02R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_t02r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ags_w108/ags_w108_t02r.png",
+	"tags": null,
+	"expansionId": 445
 }

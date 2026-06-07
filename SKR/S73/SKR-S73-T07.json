@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あざみ、がんばる",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《華撃団》のキャラが2枚以上なら、このカードのパワーを＋3000。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《華撃団》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 他のあなたの《華撃団》のキャラが2枚以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《華撃団》のキャラが4枚以上なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"華撃団",
 		"忍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SKR/S73-T07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_t07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_t07.png",
+	"tags": null,
+	"expansionId": 292
 }

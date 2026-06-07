@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リムル様の華々しい勝ち戦の",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラすべてに、そのターン中、パワーを－500。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《魔大陸》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《魔大陸》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラすべてに、そのターン中、パワーを－500。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《魔大陸》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《魔大陸》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"剣術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_004.png",
+	"tags": null,
+	"expansionId": 283
 }

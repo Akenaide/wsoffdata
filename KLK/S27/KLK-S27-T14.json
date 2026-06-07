@@ -8,14 +8,14 @@
 	"jpName": "我が行動に一点の曇り無し！",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "天下に乳房をさらそうと、\u003cbr /\u003e恥も無ければ怯みもない！！",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KLK/S27-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_t14.png",
+	"tags": null,
+	"expansionId": 112
 }

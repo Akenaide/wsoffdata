@@ -15,21 +15,20 @@
 	"rarity": "BDR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、他のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【永】 このカードはこのカードの下の表向きのマーカーすべての色を得る。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 あなたの舞台のキャラの持つ色の合計が4色以上なら、他のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【永】 このカードはこのカードの下の表向きのマーカーすべての色を得る。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE42-097BDR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we42/bd_we42_097bdr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we42/bd_we42_097bdr.png",
+	"tags": null,
+	"expansionId": 440
 }

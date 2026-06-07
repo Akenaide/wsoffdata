@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "でも…今は違うだろ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、このカードを【レスト】する。",
-		"【自】 あなたの青のクライマックスがクライマックス置場に置かれた時、このカードを【スタンド】する。",
-		"【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。"
+		"【自】 このカードが手札から舞台に置かれた時、このカードを【レスト】する。\u003cbr\u003e【自】 あなたの青のクライマックスがクライマックス置場に置かれた時、このカードを【スタンド】する。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの【スタンド】しているキャラすべてを、【レスト】する。"
 	],
 	"specialAttrib": [
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W42-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_096.png",
+	"tags": null,
+	"expansionId": 163
 }

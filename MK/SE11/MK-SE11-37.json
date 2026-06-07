@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もう、心配させんじゃないわよ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「平乃」を含むキャラがいるなら、このカードのパワーを＋1000。",
 		"【永】 他のあなたのカード名に「咲」を含むキャラがいるなら、このカードのパワーを＋1000。",
@@ -26,8 +26,9 @@
 		"警察",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE11-37",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se11/mk_se11_37.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se11/mk_se11_37.png",
+	"tags": null,
+	"expansionId": 13
 }

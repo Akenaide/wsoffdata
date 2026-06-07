@@ -15,20 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラがいるなら、そのターン中、このカードのパワーを＋4000。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラが4枚以上なら、あなたは自分の控え室の、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラを1枚選び、ストック置場に置いてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラがいるなら、そのターン中、このカードのパワーを＋4000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラが4枚以上なら、あなたは自分の控え室の、《BLOOM》かカード名に「シャロ」か「千夜」を含むキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"甘兎庵",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE46-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we46/gu_we46_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we46/gu_we46_14.png",
+	"tags": null,
+	"expansionId": 487
 }

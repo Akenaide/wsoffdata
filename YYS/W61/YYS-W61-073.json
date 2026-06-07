@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハッ！",
+	"trigger": null,
 	"ability": [
-		"あなたは相手のキャラを4枚まで選び、思い出にする。あなたはそれらのキャラを裏向きにシャッフルし、それぞれを舞台のキャラのいない別々の枠に裏向きに置く。それらのキャラを表向きにする。",
-		""
+		"あなたは相手のキャラを4枚まで選び、思い出にする。あなたはそれらのキャラを裏向きにシャッフルし、それぞれを舞台のキャラのいない別々の枠に裏向きに置く。それらのキャラを表向きにする。\u003cbr\u003e"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "YYS/W61-073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yys_w61/yys_w61_073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yys_w61/yys_w61_073.png",
+	"tags": null,
+	"expansionId": 249
 }

@@ -15,20 +15,20 @@
 	"rarity": "Co",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時か「密やかな饗宴 鷺沢文香」の【CXコンボ】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのCX置場に「咲いてJewel」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『相手は自分の山札の上から24枚を、控え室に置く。』『あなたは自分の控え室の《音楽》のキャラを1枚まで選び、舞台の好きな枠に置く。』"
+		"【自】 このカードが手札から舞台に置かれた時か「密やかな饗宴 鷺沢文香」の【CXコンボ】の効果で舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのCX置場に「咲いてJewel」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『相手は自分の山札の上から24枚を、控え室に置く。』『あなたは自分の控え室の《音楽》のキャラを1枚まで選び、舞台の好きな枠に置く。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T42Co",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t42co.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t42co.png",
+	"tags": null,
+	"expansionId": 475
 }

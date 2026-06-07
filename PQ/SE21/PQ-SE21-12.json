@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よーっし、任せといて！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【永】 記憶 相手の思い出置場にカードがあるなら、このカードは次の能力を得る。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』"
@@ -25,8 +25,9 @@
 		"スポーツ",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PQ/SE21-12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pq_se21/pq_se21_12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pq_se21/pq_se21_12.png",
+	"tags": null,
+	"expansionId": 125
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……私ね、いつも、いちばん後ろのお客さんまで声、届けようって思ってるの",
+	"trigger": null,
 	"ability": [
-		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋500。",
-		"【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋500し、このカードは相手のキャラの【自】の効果によって【リバース】されない。"
+		"【永】 相手の後列のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【永】 他のあなたの《音楽》のキャラが3枚以上なら、このカードのパワーを＋500し、このカードは相手のキャラの【自】の効果によって【リバース】されない。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S30-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_054.png",
+	"tags": null,
+	"expansionId": 129
 }

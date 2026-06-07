@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "小隊を率いる隊長として、\u003cbr\u003eかっこよく武器を扱えないとね♪",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの《レヴュー》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
-		"【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【自】 他のあなたの《レヴュー》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"聖翔音楽学園"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S69-006S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s69/rsl_s69_006s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s69/rsl_s69_006s.png",
+	"tags": null,
+	"expansionId": 279
 }

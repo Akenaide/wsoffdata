@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "オマエ本当に中学生？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《リベンジ》のキャラすべてに、パワーを＋500。",
-		"【起】［(1) このカードを【レスト】する］ あなたは相手のレベル1以上のキャラを1枚選び、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
+		"【永】 他のあなたの《リベンジ》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) このカードを【レスト】する］ あなたは相手のレベル1以上のキャラを1枚選び、相手は自分の控え室のレベルＸ以下のキャラを1枚選び、入れ替える。Ｘはあなたが選んだキャラのレベル－1に等しい。"
 	],
 	"specialAttrib": [
 		"リベンジ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TRV/S92-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_016.png",
+	"tags": null,
+	"expansionId": 389
 }

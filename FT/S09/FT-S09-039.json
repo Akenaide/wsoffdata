@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ビーストアーム“黒牛”!!!!",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「元・Ｓ級魔導士 ミラジェーン」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「元・Ｓ級魔導士 ミラジェーン」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_039.png",
+	"tags": null,
+	"expansionId": 43
 }

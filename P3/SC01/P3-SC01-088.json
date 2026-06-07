@@ -15,16 +15,17 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大切な人を目の前で失う気持ち…さっきの君を見て、わかった気がする",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックを上から1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_088.png",
+	"tags": null,
+	"expansionId": 340
 }

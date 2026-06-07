@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「花びらに横たわる ヨル」がいるなら、他のあなたの後列の《バーリント市》のキャラ1枚につき、このカードのパワーを＋2000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。"
+		"【永】 他のあなたの「花びらに横たわる ヨル」がいるなら、他のあなたの後列の《バーリント市》のキャラ1枚につき、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置き、自分の山札の上から1枚までを、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"バーリント市",
 		"国家保安局"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SPY/S106-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/spy_s106/spy_s106_074.png",
+	"tags": null,
+	"expansionId": 433
 }

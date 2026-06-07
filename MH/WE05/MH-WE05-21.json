@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "警察など、何も出来ないさ。\u003cbr /\u003eこの学園の裏に蠢く力の前にはな……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「藤乃 静留」がいないなら、このカードはアタックできない。",
 		"【自】 このカードがアタックした時、あなたの《エレメント》のキャラすべてに、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"エレメント",
 		"バイク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MH/WE05-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mh_we05/mh_we05_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mh_we05/mh_we05_21.png",
+	"tags": null,
+	"expansionId": 30
 }

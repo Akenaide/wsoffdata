@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "VIVA、ベガース！いや～、ついに来ちゃったね、憧れのショーの本場☆なんだか夢みたい♪",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの黄のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻し、それらの山札をシャッフルし、そのターン中、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ニックネーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T58",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t58.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t58.png",
+	"tags": null,
+	"expansionId": 476
 }

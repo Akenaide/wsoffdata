@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ビビッドエンジン、セーフティ解除！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「ビビッドコライダー」があるなら、そのターン中、このカードのパワーを＋2000。",
 		"【自】 このカードがアタックした時、クライマックス置場に「ビビッドコライダー」があるなら、あなたは他の自分のキャラを1枚選び、次の相手のターンの終わりまで、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。"
@@ -25,8 +25,9 @@
 		"鍵",
 		"盾"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VR/W22-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_015.png",
+	"tags": null,
+	"expansionId": 97
 }

@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "レム「レムがどうしても姉様と遊びたくて無理に誘ったんですよ」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《Memory Snow》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。"
+		"【永】 あなたの《Memory Snow》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは1枚まで引き、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"Memory Snow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S68-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

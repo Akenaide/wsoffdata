@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋4000。",
-		"【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋3000。"
+		"【永】 他のあなたのレベル3以上のキャラがいるなら、このカードのパワーを＋4000。\u003cbr\u003e【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-072S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_072s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_072s.png",
+	"tags": null,
+	"expansionId": 431
 }

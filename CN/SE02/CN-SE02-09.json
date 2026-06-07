@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……暴れればいいんでしょ？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】しているキャラを1枚選び、【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CN/SE02-09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cn_se02/cn_se02_09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cn_se02/cn_se02_09.png",
+	"tags": null,
+	"expansionId": 31
 }

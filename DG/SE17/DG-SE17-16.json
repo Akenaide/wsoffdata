@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ピュアフロンの天使技『ラブ・ネゴシエーション』で、\u003cbr /\u003e悪魔のみなさんを説得してみせましょう！",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋1500。",
 		"【自】 このカードが控え室から舞台に置かれた時、あなたは自分の控え室の《天使》のキャラを1枚選び、このカードの下にマーカーとして裏向きに置いてよい。",
@@ -26,8 +26,9 @@
 		"天使",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE17-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se17/dg_se17_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se17/dg_se17_16.png",
+	"tags": null,
+	"expansionId": 102
 }

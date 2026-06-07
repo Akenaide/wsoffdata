@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見てカード名に「暦」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"和服",
 		"お茶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_058.png",
+	"tags": null,
+	"expansionId": 60
 }

@@ -15,19 +15,19 @@
 	"rarity": "BDR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうする、写真撮る？　サインのほうがいい？\u003cbr\u003e喜べ～、こんな機会めったにないぞっ",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《Morfonica》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】【CXコンボ】 あなたのCX置場に「あたしたちって最高！」が置かれた時、前列にこのカードがいて、他のあなたの、《Anniversary》か《Morfonica》のキャラが2枚以上なら、あなたは自分の山札を見て《Anniversary》か《Morfonica》のキャラを2枚まで選んで相手に見せる。その後、相手はそれらのキャラを1枚選び、控え室に置き、残りのカードをあなたの手札に加え、その山札をシャッフルする。"
+		"【永】 他のあなたの、《Anniversary》か《Morfonica》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】【CXコンボ】 あなたのCX置場に「あたしたちって最高！」が置かれた時、前列にこのカードがいて、他のあなたの、《Anniversary》か《Morfonica》のキャラが2枚以上なら、あなたは自分の山札を見て《Anniversary》か《Morfonica》のキャラを2枚まで選んで相手に見せる。その後、相手はそれらのキャラを1枚選び、控え室に置き、残りのカードをあなたの手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Morfonica"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE49-04BDR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_04bdr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we49/bd_we49_04bdr.png",
+	"tags": null,
+	"expansionId": 526
 }

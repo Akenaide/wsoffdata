@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "杉並「まあ、ともあれここに載っている連中には目をつけられないよう注意してくれ」",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の空いている枠に動かしてよい。",
 		"【自】［(1)］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、このカードを思い出にする。"
@@ -25,8 +25,9 @@
 		"オカルト",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W09-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w09/dc_w09_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w09/dc_w09_078.png",
+	"tags": null,
+	"expansionId": 39
 }

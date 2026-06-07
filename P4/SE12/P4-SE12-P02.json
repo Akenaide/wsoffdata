@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "魔女犬「蜂の巣にされたいか！」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"探偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

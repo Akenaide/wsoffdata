@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "3",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―守りたいものを守るために、彼女はあらゆる手段を試行する―",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがないなら、相手に4ダメージを与え、あなたはバトル中のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードはプレイヤーにダメージを与えることができない。』（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MR/W59-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_053.png",
+	"tags": null,
+	"expansionId": 232
 }

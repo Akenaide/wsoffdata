@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "捕えよ！凍てつく足枷",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ このカードを思い出にする。あなたは自分の手札の自分のレベル以下のレベルの《ユニゾン》のキャラを1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"ユニゾン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_076.png",
+	"tags": null,
+	"expansionId": 6
 }

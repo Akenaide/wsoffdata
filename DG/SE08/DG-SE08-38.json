@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……じゃあ、三段変身とか、世界の半分をエサに勇者さんを誘惑したりもできるデスか？",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたが『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE08-38",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se08/dg_se08_38.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se08/dg_se08_38.png",
+	"tags": null,
+	"expansionId": 59
 }

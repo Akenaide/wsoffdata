@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サンタさんです…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの『経験』を持つキャラすべてに、パワーを＋500。",
 		"【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。"
@@ -25,8 +25,9 @@
 		"探偵",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE11-04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se11/mk_se11_04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se11/mk_se11_04.png",
+	"tags": null,
+	"expansionId": 69
 }

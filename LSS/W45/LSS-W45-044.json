@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい。来てください▽",
+	"trigger": null,
 	"ability": [
-		"【自】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「“私たち、輝きたい！”曜\u0026amp;千歌\u0026amp;梨子」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、控え室に置き、そのターン中、このカードのパワーを＋2500。"
+		"【自】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「“私たち、輝きたい！”曜\u0026千歌\u0026梨子」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル0以下のキャラを1枚選び、控え室に置き、そのターン中、このカードのパワーを＋2500。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W45-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w45/lss_w45_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w45/lss_w45_044.png",
+	"tags": null,
+	"expansionId": 179
 }

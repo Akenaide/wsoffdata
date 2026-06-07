@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ですからあなたも、大船に乗ったつもりで、どど～んと頼ってしまってくださ――あれ？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《風南島》のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《風南島》のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】［このカードを手札に戻す］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"風南島",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W46-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w46/ds_w46_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w46/ds_w46_050.png",
+	"tags": null,
+	"expansionId": 178
 }

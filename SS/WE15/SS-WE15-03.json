@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "このくらいならいいかも",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。"
 	],
@@ -24,8 +24,9 @@
 		"愛",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE15-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we15/ss_we15_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we15/ss_we15_03.png",
+	"tags": null,
+	"expansionId": 83
 }

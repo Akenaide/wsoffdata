@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私も やるときはやるんだからね！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「悠水」を含むキャラがいるなら、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、クライマックス置場に「普通って言うなぁ！」があるなら、そのターン中、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』"
+		"【永】 他のあなたのカード名に「悠水」を含むキャラがいるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「普通って言うなぁ！」があるなら、そのターン中、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。』"
 	],
 	"specialAttrib": [
 		"ストライカー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_023.png",
+	"tags": null,
+	"expansionId": 162
 }

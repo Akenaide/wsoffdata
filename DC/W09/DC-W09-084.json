@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うん……可愛い。それにする……",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「家族の顔」があるなら、次の相手のターンの終わりまで、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"演劇"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W09-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w09/dc_w09_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w09/dc_w09_084.png",
+	"tags": null,
+	"expansionId": 39
 }

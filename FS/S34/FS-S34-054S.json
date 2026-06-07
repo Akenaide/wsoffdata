@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "心の贅肉ね",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「凛」か「アーチャー」を含むキャラすべてに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-054S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_054sr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_054sr.png",
+	"tags": null,
+	"expansionId": 139
 }

@@ -15,8 +15,8 @@
 	"rarity": "PRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 経験 このカードがアタックした時、CX置場に「一日の終わりに」があり、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分の山札を上から3枚まで見て、《Anniversary》か《風紀委員》か《オカルト》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -25,8 +25,9 @@
 		"風紀委員",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Krw/WE50-27PRR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/krw_we50_27prr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/krw_we50_27prr.png",
+	"tags": null,
+	"expansionId": 532
 }

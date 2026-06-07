@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "レム「この前は……マヨネーズの量が足りなくて、スバルくんに怒られちゃいましたから」",
+	"trigger": null,
 	"ability": [
-		"【CXコンボ】 このカードは、あなたのカード名に「レム」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札を上から7枚まで見て、「そこじゃない レム」か「ほめてほめてオーラ」を1枚まで選んで相手に見せ、手札に加え、残りのカードを山札に戻し、その山札をシャッフルする。"
+		"【CXコンボ】 このカードは、あなたのカード名に「レム」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札を上から7枚まで見て、「そこじゃない レム」か「ほめてほめてオーラ」を1枚まで選んで相手に見せ、手札に加え、残りのカードを山札に戻し、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RZ/S68-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_093.png",
+	"tags": null,
+	"expansionId": 280
 }

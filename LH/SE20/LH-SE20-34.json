@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……敵の攻撃の全てを引き受けて\u003cbr /\u003e仲間を信じるのが前衛壁職の役目なんだぜ、トウヤ",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-34",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_34.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_34.png",
+	"tags": null,
+	"expansionId": 118
 }

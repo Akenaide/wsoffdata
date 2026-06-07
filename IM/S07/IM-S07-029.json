@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ～あ、今度は何を飼おうかな。\u003cbr /\u003eライオンとか象とか……。あ、キリンとかいいかも！？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_029.png",
+	"tags": null,
+	"expansionId": 29
 }

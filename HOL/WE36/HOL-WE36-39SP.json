@@ -15,20 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、相手のキャラを1枚まで選び、手札に戻す。",
-		"【起】［(1)］ あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、相手のキャラを1枚まで選び、手札に戻す。\u003cbr\u003e【起】［(1)］ あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"秘密結社holoX"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/WE36-39SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_we36/hol_we36_39sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_we36/hol_we36_39sp.png",
+	"tags": null,
+	"expansionId": 383
 }

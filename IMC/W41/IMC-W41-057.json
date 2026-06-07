@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードは、あなたの《音楽》のキャラが2枚以下なら、手札からプレイできない。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"クローバー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_057.png",
+	"tags": null,
+	"expansionId": 151
 }

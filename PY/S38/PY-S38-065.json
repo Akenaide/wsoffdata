@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "まだまだ行くよー",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「“ばたんきゅー”アミティ」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの《ぷよ》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《ぷよ》のキャラの枚数に等しい。"
+		"【永】 あなたのクロック置場に「“ばたんきゅー”アミティ」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr/\u003e【永】 他のあなたの《ぷよ》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr/\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。Ｘはあなたの《ぷよ》のキャラの枚数に等しい。"
 	],
 	"specialAttrib": [
 		"ぷよ",
 		"帽子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_065.png",
+	"tags": null,
+	"expansionId": 160
 }

@@ -15,8 +15,8 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "劇場いっぱいに、私の歌声を響かせます。どうか、聞いてください！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「FairyTaleじゃいられない」があり、他のあなたの《音楽》のキャラがいるなら、あなたは自分の山札を上から4枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ピアノ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-T15R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_t15r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_t15r.png",
+	"tags": null,
+	"expansionId": 248
 }

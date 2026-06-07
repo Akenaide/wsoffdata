@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】 あなたのCX置場に「生存本能ヴァルキュリア」が置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の控え室のレベル0以下の《音楽》のキャラを1枚選び、舞台の好きな枠に置いてよい。",
-		"【起】［(1) このカードを控え室に置く］ あなたのレベルが1以上なら、あなたは自分の控え室のコスト0以下の《音楽》のキャラを1枚選び、舞台の好きな枠に置く。"
+		"【自】【CXコンボ】 あなたのCX置場に「生存本能ヴァルキュリア」が置かれた時、他のあなたの《音楽》のキャラが2枚以上なら、あなたは自分の控え室のレベル0以下の《音楽》のキャラを1枚選び、舞台の好きな枠に置いてよい。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたのレベルが1以上なら、あなたは自分の控え室のコスト0以下の《音楽》のキャラを1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-102SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_102sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_102sp.png",
+	"tags": null,
+	"expansionId": 477
 }

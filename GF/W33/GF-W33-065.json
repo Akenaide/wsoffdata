@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "本当にいるんだね、そういう人たちって。ちょっとびっくりしちゃった",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の【スタンド】している赤のキャラを1枚選び、【レスト】する。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_065.png",
+	"tags": null,
+	"expansionId": 131
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それじゃ、元気出していくにゃ！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、前列の中央の枠にこのカードがいるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ネコキャラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_064.png",
+	"tags": null,
+	"expansionId": 151
 }

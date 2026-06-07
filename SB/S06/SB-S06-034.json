@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まつにござりまする。よしなに",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“豪放磊落”前田 利家」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"お弁当"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/S06-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_034.png",
+	"tags": null,
+	"expansionId": 28
 }

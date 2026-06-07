@@ -15,20 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋4000。",
-		"【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ロケットビート」があり、他のあなたの《Anniversary》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《Anniversary》のキャラかイベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 あなたのターン中、このカードのパワーを＋4000。\u003cbr\u003e【永】 前列の中央の枠にこのカードがいるなら、このカードのソウルを＋1。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「ロケットビート」があり、他のあなたの《Anniversary》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《Anniversary》のキャラかイベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"クリアカード編",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W113-001S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_001s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w113/ccs_w113_001s.png",
+	"tags": null,
+	"expansionId": 461
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……あいつはあいつで自業自得なんだよ。\u003cbr /\u003eあんたみたいな人間に関わるのが、そもそもいけない",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「蜂を贈られた少女 阿良々木火憐」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「蜂を贈られた少女 阿良々木火憐」を1枚選び、手札に戻す）",
 		"【自】 絆／「“ファイヤーシスターズ”阿良々木月火」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ファイヤーシスターズ”阿良々木月火」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_055.png",
+	"tags": null,
+	"expansionId": 105
 }

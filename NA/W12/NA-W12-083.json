@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うん、大丈夫みたいね。 よかったわ",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのキャラすべてに、レベルを＋1。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見てカード名に「はやて」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_083.png",
+	"tags": null,
+	"expansionId": 44
 }

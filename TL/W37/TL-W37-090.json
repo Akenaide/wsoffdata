@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いらっしゃいませぇ▽",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《動物》か《煩悩》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_090.png",
+	"tags": null,
+	"expansionId": 150
 }

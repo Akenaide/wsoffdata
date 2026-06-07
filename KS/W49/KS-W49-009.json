@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自分のぱんつの値段は自分で決めろって……",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手は0か1か2を宣言する。あなたは自分の山札の上から1枚を、控え室に置き、そのカードが相手の宣言したレベルのカードなら、あなたはＸ枚まで引く。Ｘは相手の宣言した数＋1に等しい。（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"盗賊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_009.png",
+	"tags": null,
+	"expansionId": 192
 }

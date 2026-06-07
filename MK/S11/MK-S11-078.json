@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "顔を隠していたらカレーが食べられないでしょ",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 チェンジ ［このカードを控え室に置く］ あなたのドローフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「怪盗 アルセーヌ」を1枚選び、このカードがいた枠に置く。"
@@ -25,8 +25,9 @@
 		"探偵",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_078.png",
+	"tags": null,
+	"expansionId": 50
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "オレが望むのはアイツだけだ！",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのアタックフェイズの始めに、あなたは自分の《ダークテリトリー》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラと同じカード名のキャラの枚数×500に等しい。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の「赤銅の群 暗黒騎士」を2枚まで選び、手札に戻す。"
+		"【自】 あなたのアタックフェイズの始めに、あなたは自分の《ダークテリトリー》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラと同じカード名のキャラの枚数×500に等しい。\u003cbr\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の「赤銅の群 暗黒騎士」を2枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"ダークテリトリー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_061.png",
+	"tags": null,
+	"expansionId": 318
 }

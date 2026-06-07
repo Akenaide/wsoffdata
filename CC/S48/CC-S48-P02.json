@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《マナ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《マナ》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"マナ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

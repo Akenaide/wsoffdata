@@ -15,18 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…とりあえず、急いで修理しないとだね。ああ、平気平気。本番には間に合わせるさ～",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの黄のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【永】 このカードは相手の効果に選ばれない。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
+		"【永】 あなたのターン中、他のあなたの黄のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【永】 このカードは相手の効果に選ばれない。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にしてよい。"
 	],
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-009S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_009s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_009s.png",
+	"tags": null,
+	"expansionId": 131
 }

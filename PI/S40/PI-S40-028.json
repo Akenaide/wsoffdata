@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのバトル中のキャラが【リバース】した時、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"保健室",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/S40-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_s40/pi_s40_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_s40/pi_s40_028.png",
+	"tags": null,
+	"expansionId": 170
 }

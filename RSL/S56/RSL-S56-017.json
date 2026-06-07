@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "最高の舞台……大切な仲間たち……全部守りたいから……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが《レヴュー》なら、このカードのパワーを＋4000。",
-		"【自】 アンコール ［手札の《レヴュー》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【永】 あなたのターン中、あなたのキャラすべてが《レヴュー》なら、このカードのパワーを＋4000。\u003cbr\u003e【自】 アンコール ［手札の《レヴュー》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_017.png",
+	"tags": null,
+	"expansionId": 250
 }

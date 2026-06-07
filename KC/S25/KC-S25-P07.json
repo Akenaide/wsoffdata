@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "僕に興味があるの？いいよ、何でも聞いてよ。",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のクライマックス置場にクライマックスがあるなら、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-P07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_p07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_p07.png",
+	"tags": null,
+	"expansionId": 13
 }

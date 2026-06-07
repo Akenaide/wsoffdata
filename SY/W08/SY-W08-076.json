@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "通俗的な用語を使用すると、宇宙人に該当する存在",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《宇宙人》のキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《宇宙人》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"宇宙人",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_076.png",
+	"tags": null,
+	"expansionId": 35
 }

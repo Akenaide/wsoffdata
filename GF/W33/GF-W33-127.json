@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…はぁ。…はい、お疲れ様でした。結果はまあ…予想通りなので、なんとも",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の青のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の青のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ガール",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-127",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_127.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_127.png",
+	"tags": null,
+	"expansionId": 131
 }

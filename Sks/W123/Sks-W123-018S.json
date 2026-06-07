@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おまっ!?",
+	"trigger": null,
 	"ability": [
 		"【起】［他のあなたの舞台のキャラを1枚控え室に置き、このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《スニーカー文庫》か《冒険者》か《煩悩》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -25,8 +25,9 @@
 		"冒険者",
 		"煩悩"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sks/W123-018S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sks_w123_018s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/sks_w123_018s.png",
+	"tags": null,
+	"expansionId": 510
 }

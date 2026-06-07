@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "最初はそんなものですよ！近くで見るととっても綺麗な方でした！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。",
-		"【自】 共鳴 ［手札の「温水和彦」を1枚公開する］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の《青春》のキャラを2枚まで選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが3以上なら、そのターン中、このカードのパワーを＋6000。\u003cbr\u003e【自】 共鳴 ［手札の「温水和彦」を1枚公開する］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは自分の《青春》のキャラを2枚まで選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"青春",
 		"妹"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_028.png",
+	"tags": null,
+	"expansionId": 520
 }

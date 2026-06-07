@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここは……何もないセカイだな",
+	"trigger": null,
 	"ability": [
-		"【自】［手札を1枚控え室に置く］ あなたのトリガーアイコンが[GATE]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。",
-		"【起】［(1) このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
+		"【自】［手札を1枚控え室に置く］ あなたのトリガーアイコンが[[gate.gif]]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。\u003cbr\u003e【起】［(1) このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー",
+		"バーチャル・シンガー",
 		"25時、ナイトコードで。"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S125-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s125/pjs_s125_105.png",
+	"tags": null,
+	"expansionId": 536
 }

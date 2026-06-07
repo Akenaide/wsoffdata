@@ -15,17 +15,17 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よっしゃああ！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたのキャラが2枚以上なら、このカードのパワーを＋3000。",
-		"【自】［(1) このカードを控え室に置く］ 他のあなたのキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+		"【永】 あなたのターン中、他のあなたのキャラが2枚以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】［(1) このカードを控え室に置く］ 他のあなたのキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
 	],
 	"specialAttrib": [
 		"鉢巻"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/SE43-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_se43/kf_se43_22.png",
+	"tags": null,
+	"expansionId": 441
 }

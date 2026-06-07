@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふっ…この勝利、わらわの力ではない。\u003cbr /\u003e皆の働きあっての事じゃ。",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_042.png",
+	"tags": null,
+	"expansionId": 130
 }

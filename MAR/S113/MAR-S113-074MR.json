@@ -15,16 +15,17 @@
 	"rarity": "MR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分の山札の上から3枚を、控え室に置く。それらのカードすべてが《MARVEL》のキャラなら、あなたはこのカードを手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S113-074MR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s113/mar_s113_074mr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s113/mar_s113_074mr.png",
+	"tags": null,
+	"expansionId": 484
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "変な事も言ってたけど",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋3000。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かし、次のあなたのアンコールステップの始めに、このカードを思い出にする。"
+		"【永】 あなたのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かし、次のあなたのアンコールステップの始めに、このカードを思い出にする。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S120-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s120/ft_s120_061.png",
+	"tags": null,
+	"expansionId": 503
 }

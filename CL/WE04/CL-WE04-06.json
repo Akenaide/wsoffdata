@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お前のおかげで生徒会長になれた…ありがとう",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"生徒会",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE04-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we04/cl_we04_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we04/cl_we04_06.png",
+	"tags": null,
+	"expansionId": 24
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あら、ご存知だったのですね",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《秩序》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードをクロック置場に置く］ あなたは自分の控え室の「処女同衾の奇跡 《蘇生》」を1枚選び、手札に戻す。"
+		"【永】 他のあなたの《秩序》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードをクロック置場に置く］ あなたは自分の控え室の「処女同衾の奇跡 《蘇生》」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"大司教"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_086.png",
+	"tags": null,
+	"expansionId": 260
 }

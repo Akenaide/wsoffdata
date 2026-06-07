@@ -10,21 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 次の2つの効果のうちあなたが選んだ1つを行う。",
-		"『あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2500。』",
-		"『あなたの《音楽》のキャラがいるなら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。』"
+		"【カウンター】 次の2つの効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2500。』\u003cbr\u003e『あなたの《音楽》のキャラがいるなら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LSP/W92-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lsp_w92/lsp_w92_037.png",
+	"tags": null,
+	"expansionId": 368
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の控え室の《セラフ》のキャラを1枚まで選び、ストック置場に置く。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《セラフ》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分の控え室の《セラフ》のキャラを1枚まで選び、ストック置場に置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《セラフ》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"セラフ",
 		"司令部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W103-064S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w103/hbr_w103_064s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w103/hbr_w103_064s.png",
+	"tags": null,
+	"expansionId": 408
 }

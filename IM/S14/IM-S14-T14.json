@@ -10,21 +10,22 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふははは、その衣装か？ 765,000マニーで売ってやろう！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
 		"あなたは自分の山札の上から1枚を、クロック置場に置いてよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。",
 		"このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S14-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_t14.png",
+	"tags": null,
+	"expansionId": 55
 }

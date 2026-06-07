@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この日だけは皆、ヒンメル様達を思い出すのです",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはアタックできない。",
-		"【永】 記憶 思い出置場にこのカードがあり、このターン中、あなたが「旅立ちのきっかけ ヒンメル」をプレイしていないなら、あなたの手札の「旅立ちのきっかけ ヒンメル」のコストを－1。",
-		"【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の、「“勇者”ヒンメル」か「“故郷の花” フリーレン＆ヒンメル」を1枚選び、手札に戻す。"
+		"【永】 このカードはアタックできない。\u003cbr\u003e【永】 記憶 思い出置場にこのカードがあり、このターン中、あなたが「旅立ちのきっかけ ヒンメル」をプレイしていないなら、あなたの手札の「旅立ちのきっかけ ヒンメル」のコストを－1。\u003cbr\u003e【起】［(1) 【スタンド】しているこのカードを思い出にする］ あなたは自分の控え室の、「“勇者”ヒンメル」か「“故郷の花” フリーレン＆ヒンメル」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S108-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s108/sfn_s108_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s108/sfn_s108_017.png",
+	"tags": null,
+	"expansionId": 466
 }

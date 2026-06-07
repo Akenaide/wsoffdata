@@ -15,21 +15,21 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アイテム、ゲットしたよ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 前列にこのカードがいるなら、あなたの、《Anniversary》か《プログレッシブ》のキャラすべてに、パワーを＋1500。"
+		"【永】 相手のレベル3以上のキャラがいるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 前列にこのカードがいるなら、あなたの、《Anniversary》か《プログレッシブ》のキャラすべてに、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"プログレッシブ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_103.png",
+	"tags": null,
+	"expansionId": 405
 }

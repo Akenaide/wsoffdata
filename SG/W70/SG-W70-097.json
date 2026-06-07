@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サンジェルマン「……ああ、死にたくないと思ったの、いつ以来だろう──」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を上から4枚まで見て、《錬金術》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、相手のキャラを1枚まで選び、手札に戻し、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SG/W70-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_097.png",
+	"tags": null,
+	"expansionId": 276
 }

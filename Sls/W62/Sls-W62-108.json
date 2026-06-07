@@ -15,21 +15,21 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ディードリット（あなたの冒険は人々の間で語り伝えられ、ロードスの伝承の中に残るでしょう。ささやかな英雄の名と共に）",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 前列にこのカードがいるなら、あなたの、《スニーカー文庫》か《ロードス島》のキャラすべてに、パワーを＋1500。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【永】 前列にこのカードがいるなら、あなたの、《スニーカー文庫》か《ロードス島》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"ロードス島",
 		"エルフ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sls/W62-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sls_w62/sls_w62_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sls_w62/sls_w62_108.png",
+	"tags": null,
+	"expansionId": 259
 }

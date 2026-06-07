@@ -15,20 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《レヴュー》のキャラの枚数×1000に等しい。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「温かい気高さ 夢大路 文」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《レヴュー》のキャラを1枚まで選び、手札に戻し、他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《レヴュー》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「温かい気高さ 夢大路 文」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《レヴュー》のキャラを1枚まで選び、手札に戻し、他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"凛明館女学校"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/SE38-03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_se38/rsl_se38_03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_se38/rsl_se38_03.png",
+	"tags": null,
+	"expansionId": 384
 }

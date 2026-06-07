@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ボクは犯罪者じゃない。\u003cbr /\u003e人間どもの罪を処断するために生まれた断罪者だよ",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは相手のクロックを1枚選び、控え室に置いてよい。そうしたら、相手は自分の山札の上から1枚を、クロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"霊",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE08-18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se08/dg_se08_18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se08/dg_se08_18.png",
+	"tags": null,
+	"expansionId": 59
 }

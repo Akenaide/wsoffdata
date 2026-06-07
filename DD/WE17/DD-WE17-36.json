@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "36",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そんな、こちらこそありがとうです",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ あなたのクライマックス置場に「Shiny Heart Shiny Smile」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE17-36",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_36.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_36.png",
+	"tags": null,
+	"expansionId": 100
 }

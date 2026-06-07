@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ☆手がすべった～☆",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/WE22-29",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_we22/nk_we22_29.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_we22/nk_we22_29.png",
+	"tags": null,
+	"expansionId": 147
 }

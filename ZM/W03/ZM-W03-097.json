@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あびぃ～ずびばせんでえざば～",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 集中 あなたは自分の山札の上から1枚をめくり、控え室に置く。あなたはバトルしているキャラを1枚選び、そのターン中、ソウルを－Ｘ。Ｘは控え室に置かれたカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ZM/W03-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_097.png",
+	"tags": null,
+	"expansionId": 3
 }

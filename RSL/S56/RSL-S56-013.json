@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "届かない……",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《レヴュー》のキャラの枚数×1000に等しい。",
-		"【自】【CXコンボ】 相手がレベルアップした時、あなたのクライマックス置場に「再演」があるなら、あなたは自分の山札を上から4枚まで見て、《レヴュー》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの《レヴュー》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】【CXコンボ】 相手がレベルアップした時、あなたのクライマックス置場に「再演」があるなら、あなたは自分の山札を上から4枚まで見て、《レヴュー》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"レヴュー",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSL/S56-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsl_s56/rsl_s56_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsl_s56/rsl_s56_013.png",
+	"tags": null,
+	"expansionId": 250
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "頼むよ、神様……こんな人生だったんだ……\u003cbr /\u003eせめて一度くらい、幸せな夢を見させてよ……",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ あなたのクライマックス置場に「独りぼっちは、寂しいもんな」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置き、ターンの終わりに、このカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_069.png",
+	"tags": null,
+	"expansionId": 74
 }

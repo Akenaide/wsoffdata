@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはパワーが増減しない。",
-		"【自】 このカードのアタックの終わりかこのカードが【リバース】した時、あなたの思い出が1枚以下なら、あなたはこのカードを思い出にしてよい。"
+		"【永】 このカードはパワーが増減しない。\u003cbr\u003e【自】 このカードのアタックの終わりかこのカードが【リバース】した時、あなたの思い出が1枚以下なら、あなたはこのカードを思い出にしてよい。"
 	],
 	"specialAttrib": [
 		"きんいろ",
 		"大食い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMS/W133-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kms_w133/kms_w133_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kms_w133/kms_w133_059.png",
+	"tags": null,
+	"expansionId": 534
 }

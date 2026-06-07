@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あ、どしたっすか？\u003cbr\u003eプロデューサーさん？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
-		"【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「あめ、ゆき、はれ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋4000。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】【CXコンボ】［(2) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「あめ、ゆき、はれ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋4000。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ストレイライト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-T089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_t089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_t089.png",
+	"tags": null,
+	"expansionId": 330
 }

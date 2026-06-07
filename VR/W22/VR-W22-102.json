@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "も～！\u003cbr /\u003e新聞配達が休みになると、途端に寝坊するんだから！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"家事",
 		"ランドセル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VR/W22-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_102.png",
+	"tags": null,
+	"expansionId": 88
 }

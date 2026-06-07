@@ -8,23 +8,24 @@
 	"jpName": "“成長してもやっぱりバカ”松野兄弟",
 	"cardType": "CH",
 	"colour": "RED",
-	"level": "0",
+	"level": "1",
 	"cost": "0",
 	"power": "5000",
 	"soul": "1",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「６つの顔に６つの個性」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"６つ子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-T19SR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_t19s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_t19s.png",
+	"tags": null,
+	"expansionId": 161
 }

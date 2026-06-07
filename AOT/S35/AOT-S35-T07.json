@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……オレハ……巨人ヲ……殺ス……一匹残ラズ……",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「ミカサ」か「アルミン」を含むキャラがいるなら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"巨人",
 		"兵団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AOT/S35-T07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aot_s35/aot_s35_t07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aot_s35/aot_s35_t07.png",
+	"tags": null,
+	"expansionId": 138
 }

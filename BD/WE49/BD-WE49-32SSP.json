@@ -15,21 +15,21 @@
 	"rarity": "SSP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《Poppin\u0026#39;Party》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 あなたのCX置場に「私たちの新しい未来へ」が置かれた時、前列にこのカードがいて、他のあなたの、《Anniversary》か《Poppin\u0026#39;Party》のキャラが4枚以上なら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分の控え室の、《Anniversary》か《Poppin\u0026#39;Party》のキャラを1枚まで選び、ストック置場に置く。"
+		"【永】 他のあなたの、《Anniversary》か《Poppin'Party》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのCX置場に「私たちの新しい未来へ」が置かれた時、前列にこのカードがいて、他のあなたの、《Anniversary》か《Poppin'Party》のキャラが4枚以上なら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分の控え室の、《Anniversary》か《Poppin'Party》のキャラを1枚まで選び、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE49-32SSP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_32ssp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we49/bd_we49_32ssp.png",
+	"tags": null,
+	"expansionId": 526
 }

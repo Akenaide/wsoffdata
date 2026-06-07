@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この場は俺たちに任せろ、追え！！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのカード名に「小吉」を含むキャラがいるなら、このカードのパワーを＋1500。",
-		"【永】 他のあなたの《改造》のキャラが2枚以上なら、このカードのパワーを＋1000。"
+		"【永】 他のあなたのカード名に「小吉」を含むキャラがいるなら、このカードのパワーを＋1500。\u003cbr\u003e【永】 他のあなたの《改造》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"改造",
 		"虫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TF/S32-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_t14.png",
+	"tags": null,
+	"expansionId": 112
 }

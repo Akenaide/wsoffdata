@@ -15,18 +15,18 @@
 	"rarity": "BDR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ワタシ達を目撃する準備はできてる？Are you ready？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《RAISE A SUILEN》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードがクライマックスなら、このカードをストック置場に置く。"
+		"【永】 他のあなたの《RAISE A SUILEN》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を控え室に置く。そのカードがクライマックスなら、このカードをストック置場に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"RAISE A SUILEN"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE32-28BDR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we32/bd_we32_28bdr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we32/bd_we32_28bdr.png",
+	"tags": null,
+	"expansionId": 325
 }

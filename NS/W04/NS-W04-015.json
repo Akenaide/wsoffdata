@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "娘が母親に連絡するのに、急にも何もないじゃない",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分の「なのは＆フェイト」を1枚選び、そのターン中、パワーを＋2500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_015.png",
+	"tags": null,
+	"expansionId": 6
 }

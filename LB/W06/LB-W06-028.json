@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自分のこと、見てくれるってやっぱりいいね",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《委員長》のキャラすべてに、パワーを＋500。",
 		"【起】［(1)］ あなたは自分の《ビー玉》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -25,8 +25,9 @@
 		"ビー玉",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_028.png",
+	"tags": null,
+	"expansionId": 18
 }

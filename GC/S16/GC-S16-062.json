@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "集「エゴイストの生ライブ!?」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの『応援』を持つキャラが2枚以上なら、このカードのパワーを＋1000。",
 		"【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の赤のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
@@ -25,8 +25,9 @@
 		"音楽",
 		"葬儀社"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_062.png",
+	"tags": null,
+	"expansionId": 76
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台にこのカードがいるなら、このカードのレベルを－1し、このカードは《人形》を得る。",
-		"【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
+		"【永】 舞台にこのカードがいるなら、このカードのレベルを－1し、このカードは《人形》を得る。\u003cbr\u003e【永】 他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋500。"
 	],
 	"specialAttrib": [
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/WE33-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_we33/dal_we33_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_we33/dal_we33_044.png",
+	"tags": null,
+	"expansionId": 339
 }

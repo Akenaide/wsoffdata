@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "日本の魔術師のレベル、見せてもらおうかしら？",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのカード名に「凛」を含むキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。",
 		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「凛」を含むキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_034.png",
+	"tags": null,
+	"expansionId": 7
 }

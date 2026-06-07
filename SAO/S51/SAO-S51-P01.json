@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こんなもんか、2位ってのは？",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの、《アバター》か《ネット》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。",
-		"【起】［手札のクライマックスを1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
+		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの、《アバター》か《ネット》のキャラが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【起】［手札のクライマックスを1枚控え室に置く］ そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。』"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S51-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s51/sao_s51_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s51/sao_s51_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -15,8 +15,8 @@
 	"rarity": "PRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のレベルＸ以下の、《Anniversary》か《能力者》のキャラを1枚選び、手札に戻す。Ｘはあなたの控え室の「撮りたかった景色 友利 奈緒」の枚数に等しい。"
 	],
@@ -25,8 +25,9 @@
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Kch/WE50-52PRR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kxx_we50/kch_we50_52prr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kxx_we50/kch_we50_52prr.png",
+	"tags": null,
+	"expansionId": 532
 }

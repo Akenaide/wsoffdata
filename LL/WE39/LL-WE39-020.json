@@ -15,19 +15,19 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私たちがびっくりしててどうすんのよ\u003cbr\u003eお客さんの盛り上がりに負けてられないわ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの正面のキャラのソウルを－1。",
-		"【自】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+		"【永】 このカードの正面のキャラのソウルを－1。\u003cbr\u003e【自】［(2) 手札を1枚控え室に置く］ このカードのバトル相手が【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE39-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we39/ll_we39_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we39/ll_we39_020.png",
+	"tags": null,
+	"expansionId": 421
 }

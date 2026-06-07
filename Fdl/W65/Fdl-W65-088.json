@@ -15,22 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "二人だけの秘密にしましょう？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【起】［このカードを【レスト】する］ あなたは自分の、《ファンタジア文庫》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋2500。",
-		"【起】［手札を1枚控え室に置き、このカードを【レスト】する］ あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。",
-		"【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【起】［このカードを【レスト】する］ あなたは自分の、《ファンタジア文庫》か《精霊》のキャラを1枚選び、そのターン中、パワーを＋2500。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを【レスト】する］ あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"精霊",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fdl/W65-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w65/fdl_w65_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fdl_w65/fdl_w65_088.png",
+	"tags": null,
+	"expansionId": 264
 }

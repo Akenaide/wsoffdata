@@ -15,17 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「卯月」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』"
+		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「卯月」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-047PR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_047p.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_047p.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,18 +15,18 @@
 	"rarity": "LRP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】【CXコンボ】 あなたのCX置場に「絶好のキャンプ日和」が置かれた時、後列にこのカードがいて、他のあなたの前列の、《リコリコ》か《武器》のキャラが3枚以上なら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、手札に戻してよい。",
-		"【起】［このカードを【レスト】する］ あなたは自分の、《リコリコ》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【自】【CXコンボ】 あなたのCX置場に「絶好のキャンプ日和」が置かれた時、後列にこのカードがいて、他のあなたの前列の、《リコリコ》か《武器》のキャラが3枚以上なら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、手札に戻してよい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の、《リコリコ》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"リコリコ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/WE47-41LRP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_we47/lrc_we47_41lrp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_we47/lrc_we47_41lrp.png",
+	"tags": null,
+	"expansionId": 491
 }

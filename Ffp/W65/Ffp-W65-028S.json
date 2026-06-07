@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "今日は、この子の一歳の誕生日なんです",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「戦いの幕開け」が置かれた時、前列にこのカードがいて、他のあなたの、《ファンタジア文庫》か《ミスリル》のキャラが4枚以上なら、あなたは相手の山札を上から3枚まで見てカードを3枚まで選び、控え室に置き、残りのカードを山札に戻し、相手はその山札をシャッフルする。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「戦いの幕開け」が置かれた時、前列にこのカードがいて、他のあなたの、《ファンタジア文庫》か《ミスリル》のキャラが4枚以上なら、あなたは相手の山札を上から3枚まで見てカードを3枚まで選び、控え室に置き、残りのカードを山札に戻し、相手はその山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"ミスリル",
 		"ウィスパード"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ffp/W65-028S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ffp_w65/ffp_w65_028s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ffp_w65/ffp_w65_028s.png",
+	"tags": null,
+	"expansionId": 264
 }

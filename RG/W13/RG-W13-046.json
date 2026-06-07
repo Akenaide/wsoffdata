@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うわぁぁぁぁぁぁぁぁぁ！！",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの緑のキャラが2枚以下なら、手札からプレイできない。",
 		"あなたは相手のキャラを2枚まで選び、そのターン中、パワーを－2500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RG/W13-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w13/rg_w13_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w13/rg_w13_046.png",
+	"tags": null,
+	"expansionId": 54
 }

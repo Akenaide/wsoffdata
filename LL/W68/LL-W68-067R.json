@@ -8,25 +8,25 @@
 	"jpName": "いつも全力で",
 	"cardType": "CX",
 	"colour": "RED",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ステージの上での解き放たれたような感覚…、いつもより大胆になってしまうんです",
 	"trigger": [
 		"SOUL",
 		"STANDBY"
 	],
 	"ability": [
-		"【自】 このカードが手札からクライマックス置場に置かれた時、[STANDBY]の効果を行う。",
-		"（[STANDBY]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+		"【自】 このカードが手札からクライマックス置場に置かれた時、[[standby.gif]]の効果を行う。\u003cbr\u003e（[[standby.gif]]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LL/W68-067R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_067r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_067r.png",
+	"tags": null,
+	"expansionId": 272
 }

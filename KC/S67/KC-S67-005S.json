@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "よ～し、いっけー！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《艦娘》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［(4) 手札を3枚控え室に置く］ そのターン中、このカードは次の能力を得る。『【永】 後列に【スタンド】しているこのカードがいるなら、このカードはアタックを行うキャラとして選択してよい。そうしたら、このカードはダイレクトアタックする。』"
+		"【永】 応援 このカードの前のあなたの《艦娘》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［(4) 手札を3枚控え室に置く］ そのターン中、このカードは次の能力を得る。『【永】 後列に【スタンド】しているこのカードがいるなら、このカードはアタックを行うキャラとして選択してよい。そうしたら、このカードはダイレクトアタックする。』"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"潜水艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-005S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_005s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_005s.png",
+	"tags": null,
+	"expansionId": 270
 }

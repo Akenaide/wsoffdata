@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "残念ながら、私はじょーくは苦手なのです",
+	"trigger": null,
 	"ability": [
 		"【永】 舞台にこのカードがいるなら、このカードは《警察》を得る。",
 		"【自】［(1)］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1500。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-075",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_075.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_075.png",
+	"tags": null,
+	"expansionId": 80
 }

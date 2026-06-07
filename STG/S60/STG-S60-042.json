@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ウィルスカードだお！フェイリスたん、完勝！",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のカード名に「フェイリス」を含むキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"オタク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_042.png",
+	"tags": null,
+	"expansionId": 243
 }

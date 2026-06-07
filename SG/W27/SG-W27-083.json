@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "貴様みたいのはそうやって…\u003cbr /\u003e見下ろしてばかりだから勝機を見落すッ",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、相手のキャラが3枚以下なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W27-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w27/sg_w27_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w27/sg_w27_083.png",
+	"tags": null,
+	"expansionId": 107
 }

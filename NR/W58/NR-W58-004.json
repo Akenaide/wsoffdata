@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うん…！すごいね！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「フェイト」を含むキャラすべてに、パワーを＋500。",
-		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。"
+		"【永】 他のあなたのカード名に「フェイト」を含むキャラすべてに、パワーを＋500。\u003cbr\u003e【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NR/W58-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_004.png",
+	"tags": null,
+	"expansionId": 226
 }

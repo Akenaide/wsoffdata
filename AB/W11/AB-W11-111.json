@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしは、本当に『神』がいるのなら、立ち向かいたいだけよ",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは相手の前列のレベル0以下のキャラを1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W11-111",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w11/ab_w11_111.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w11/ab_w11_111.png",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "にっこにっこにー！　どう？　似合ってる？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「笑顔にさせる仕事」があるなら、そのターン中、このカードのパワーを＋5500し、あなたのアンコールステップの始めに、このカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W24-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w24/ll_w24_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w24/ll_w24_034.png",
+	"tags": null,
+	"expansionId": 98
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-		"【起】 共鳴 ［(1) 手札の「“ヤブイヌ小隊” 雄二」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\u003cbr\u003e【起】 共鳴 ［(1) 手札の「“ヤブイヌ小隊” 雄二」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《グリザイア》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-120",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_120.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_120.png",
+	"tags": null,
+	"expansionId": 347
 }

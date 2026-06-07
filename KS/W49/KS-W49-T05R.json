@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わかりました",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「エクスプロージョン」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「エクスプロージョン」があるなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-T05R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_t05r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_t05r.png",
+	"tags": null,
+	"expansionId": 191
 }

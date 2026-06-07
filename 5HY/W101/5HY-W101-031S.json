@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのカード名に「五月」を含むキャラが5枚以上なら、あなたの手札のこのカードは『【起】【カウンター】 助太刀2000 レベル0 ［手札のこのカードを控え室に置く］』を得る。",
-		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が2以上なら、他のあなたのカード名に「五月」を含むキャラ1枚につき、このカードのパワーを＋1000。"
+		"【永】 あなたのカード名に「五月」を含むキャラが5枚以上なら、あなたの手札のこのカードは『【起】【カウンター】 助太刀2000 レベル0 ［手札のこのカードを控え室に置く］』を得る。\u003cbr\u003e【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が2以上なら、他のあなたのカード名に「五月」を含むキャラ1枚につき、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"真面目"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W101-031S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w101/5hy_w101_031s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w101/5hy_w101_031s.png",
+	"tags": null,
+	"expansionId": 399
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "変わらないのね…昔から…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードの正面のキャラは他の枠に動かせない。』"
 	],
@@ -24,8 +24,9 @@
 		"風紀委員",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_104.png",
+	"tags": null,
+	"expansionId": 12
 }

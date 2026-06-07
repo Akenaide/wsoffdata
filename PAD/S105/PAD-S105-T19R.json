@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】［(2)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「東雲の霊央神・カミムスビ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたはそのキャラを山札の上に置く。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】［(2)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「東雲の霊央神・カミムスビ」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、あなたはそのキャラを山札の上に置く。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"悪魔",
 		"バランス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PAD/S105-T19R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t19r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_t19r.png",
+	"tags": null,
+	"expansionId": 425
 }

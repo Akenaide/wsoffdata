@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "新学期も一緒に楽しみましょうね！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「普通じゃないことへの憧れ 喜多郁代」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋4000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「増えていく思い出」が置かれた時、前列にこのカードがいるなら、あなたは他の自分の《音楽》のキャラを1枚選び、【スタンド】してよい。"
+		"【永】 あなたのクロック置場に「普通じゃないことへの憧れ 喜多郁代」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたのキャラが3枚以上なら、このカードのパワーを＋4000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「増えていく思い出」が置かれた時、前列にこのカードがいるなら、あなたは他の自分の《音楽》のキャラを1枚選び、【スタンド】してよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"人気者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BTR/W107-075S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/btr_w107/btr_w107_075s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/btr_w107/btr_w107_075s.png",
+	"tags": null,
+	"expansionId": 444
 }

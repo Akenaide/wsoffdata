@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "皆様方、頑張ってください。\u003cbr /\u003e草葉の陰より応援しておりますので",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場の、「衣装変更」か「寄り道」か「プレゼント」か「ある日の風景」を1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_033.png",
+	"tags": null,
+	"expansionId": 29
 }

@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "迷った",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋3000。",
-		"【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
+		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンに[[soul.gif]]があるカードがでた時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《トリオン》のキャラを1枚選び、そのターン中、パワーを＋3000。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは相手のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"トリオン",
 		"太刀川隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "WTR/S85-010S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/wtr_s85/wtr_s85_010s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/wtr_s85/wtr_s85_010s.png",
+	"tags": null,
+	"expansionId": 360
 }

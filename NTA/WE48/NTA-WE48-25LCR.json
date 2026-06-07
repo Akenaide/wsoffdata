@@ -15,18 +15,18 @@
 	"rarity": "LCR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《魔法》か《武器》のキャラすべてに、パワーを＋500。",
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、《魔法》か《武器》のキャラを1枚選び、手札に戻す。"
+		"【永】 他のあなたの、《魔法》か《武器》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の、《魔法》か《武器》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NTA/WE48-25LCR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_25lcr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nta_we48/nta_we48_25lcr.png",
+	"tags": null,
+	"expansionId": 518
 }

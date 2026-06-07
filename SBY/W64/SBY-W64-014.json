@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "僕はシャワーの音だけでご飯三杯はいけるんで",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠の《思春期》のキャラに、パワーを＋1500。",
-		"【自】 このカードがダイレクトアタックした時、あなたは他の自分の《思春期》のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 他のあなたの前列の中央の枠の《思春期》のキャラに、パワーを＋1500。\u003cbr\u003e【自】 このカードがダイレクトアタックした時、あなたは他の自分の《思春期》のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"思春期"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_014.png",
+	"tags": null,
+	"expansionId": 261
 }

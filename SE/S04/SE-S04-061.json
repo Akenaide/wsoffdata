@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おまえは、魔族の女に興味はないのか？",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがサイドアタックした時、クライマックス置場に「ラ・ヴァースの誘惑」があるなら、あなたはコストを払ってよい。そうしたら、あなたはこのカードの正面のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードはアタックできない。』"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_061.png",
+	"tags": null,
+	"expansionId": 14
 }

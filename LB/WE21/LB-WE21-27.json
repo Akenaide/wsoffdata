@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はろうぃーんぱーてぃです！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《動物》のキャラが3枚以上なら、このカードのパワーを＋1000。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"動物",
 		"かぼちゃ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE21-27",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we21/lb_we21_27.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we21/lb_we21_27.png",
+	"tags": null,
+	"expansionId": 124
 }

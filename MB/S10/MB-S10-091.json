@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どちらがより優れた聖典の担い手か、\u003cbr /\u003e決着をつけましょう―――！",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードがアタックした時、クライマックス置場に「第七聖典」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、そのターン中、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"カレー",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_091.png",
+	"tags": null,
+	"expansionId": 48
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】［(1) このカードをバトル中のキャラの下にマーカーとして裏向きに置く］ 他のあなたのバトル中のマーカーを持つカード名に「フーカ」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《格闘》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】［(1) このカードをバトル中のキャラの下にマーカーとして裏向きに置く］ 他のあなたのバトル中のマーカーを持つカード名に「フーカ」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《格闘》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"格闘",
 		"覇王流"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-007S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_007s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_007s.png",
+	"tags": null,
+	"expansionId": 200
 }

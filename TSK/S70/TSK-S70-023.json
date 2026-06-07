@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "エレン「こっちだってねえ、命張って冒険者やってるんですぅ！」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のコスト1以上のキャラを1枚選び、後列のキャラのいない枠に置く。"
+		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは相手の控え室のコスト1以上のキャラを1枚選び、後列のキャラのいない枠に置く。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_023.png",
+	"tags": null,
+	"expansionId": 283
 }

@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "早く帰らなくちゃ…ごめんなさい、\u003cbr /\u003e０時までという約束なので…あ、靴が…",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"ガール",
 		"ドレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_087.png",
+	"tags": null,
+	"expansionId": 144
 }

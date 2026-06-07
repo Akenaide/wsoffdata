@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "週刊リリィ新聞号外です！",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたの、メインフェイズの始めかクライマックスフェイズの始めに、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 あなたの、メインフェイズの始めかクライマックスフェイズの始めに、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S76-034SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s76/all_s76_034sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s76/all_s76_034sp.png",
+	"tags": null,
+	"expansionId": 337
 }

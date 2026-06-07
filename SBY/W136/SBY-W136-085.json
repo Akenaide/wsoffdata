@@ -15,21 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "こういうの、もうやめてよ？ もう、大学生なんだし",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《思春期》のキャラすべてに、パワーを＋500。",
-		"【自】［(1)］ あなたのトリガーアイコンが[GATE]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置き、1枚まで引く。1枚引いたなら、あなたは自分の手札を1枚選び、控え室に置く。",
-		"【自】 あなたのトリガーアイコンが[GATE]のCXがCX置場に置かれた時、他のあなたの《思春期》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
+		"【永】 他のあなたの《思春期》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［(1)］ あなたのトリガーアイコンが[[gate.gif]]のCXがトリガーした時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置き、1枚まで引く。1枚引いたなら、あなたは自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[gate.gif]]のCXがCX置場に置かれた時、他のあなたの《思春期》のキャラがいるなら、あなたは自分の山札を上から3枚まで見て、山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"ボランティア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W136-085",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w136/sby_w136_085.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w136/sby_w136_085.png",
+	"tags": null,
+	"expansionId": 547
 }

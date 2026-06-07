@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここは…、オレンジ色のアイランド☆楽すぃことばっかりの、ぱーぺきな島なんだよぉ！フルーツもきゅもきゅ食べながらー、トロ☆トロ☆トロピカル☆",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の山札の上から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの[SOUL]の合計に等しい。（ダメージキャンセルは発生する）"
+		"あなたは自分の山札の上から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードのトリガーアイコンの[[soul.gif]]の合計に等しい。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IMC/W115-T67",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t67.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t67.png",
+	"tags": null,
+	"expansionId": 476
 }

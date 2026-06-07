@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "審判「白、黛」\u003cbr /\u003eタクム「はい！」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「チユリ」を含むキャラがいるなら、このカードのパワーを＋1000し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"スポーツ",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S18-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s18/aw_s18_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s18/aw_s18_082.png",
+	"tags": null,
+	"expansionId": 85
 }

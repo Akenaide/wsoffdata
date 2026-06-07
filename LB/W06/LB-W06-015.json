@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そのお願い事、叶えてみせる",
+	"trigger": null,
 	"ability": [
 		"【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《動物》のキャラすべてに、次の能力を与える。『【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。』",
 		"【起】［(1)］ そのターン中、このカードのソウルを＋1。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_015.png",
+	"tags": null,
+	"expansionId": 18
 }

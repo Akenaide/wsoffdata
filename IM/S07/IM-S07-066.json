@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "皆さ～ん！\u003cbr /\u003eビシビシ～って、はりきって、いきましょー！",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"音楽",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_066.png",
+	"tags": null,
+	"expansionId": 29
 }

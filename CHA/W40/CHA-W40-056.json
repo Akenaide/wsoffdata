@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はわわわわぁーーー！！",
+	"trigger": null,
 	"ability": [
 		"【自】この能力は1ターンにつき3回まで発動する。他のあなたのキャラが控え室から舞台に置かれた時、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_056.png",
+	"tags": null,
+	"expansionId": 152
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私たちが築く、新しい大怪盗時代のアイコンとして、あなたはまだ必要なの",
+	"trigger": null,
 	"ability": [
 		"【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。",
 		"【永】 他のあなたの、《警察》か《怪盗》のキャラすべてに、パワーを＋500。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"警察"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_058.png",
+	"tags": null,
+	"expansionId": 136
 }

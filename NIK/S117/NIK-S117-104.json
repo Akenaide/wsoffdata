@@ -15,20 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "メイドカフェではオムライスに絵も描いてあげるし、メンコトーナメントもやってる。だから一緒に遊ぼう",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「Maid in Valentine」があり、あなたの手札が6枚以下で、他のあなたの《NIKKE》のキャラがいるなら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
+		"【自】 このカードが【リバース】した時、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「Maid in Valentine」があり、あなたの手札が6枚以下で、他のあなたの《NIKKE》のキャラがいるなら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。"
 	],
 	"specialAttrib": [
 		"NIKKE",
-		"メイド",
-		"フォー",
-		"ユー"
+		"メイド・フォー・ユー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_104.png",
+	"tags": null,
+	"expansionId": 494
 }

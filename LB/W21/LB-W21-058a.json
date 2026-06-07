@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「――ただいま」\u003cbr /\u003e「――おかえりなさい」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のカード名に「葉留佳」か「佳奈多」を含むキャラを2枚まで選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/W21-058a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_058a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_058a.png",
+	"tags": null,
+	"expansionId": 96
 }

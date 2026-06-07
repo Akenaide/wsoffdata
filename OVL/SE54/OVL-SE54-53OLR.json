@@ -15,18 +15,18 @@
 	"rarity": "OLR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【起】【ターン3】［あなたの控え室の「“真祖”シャルティア」を1枚クロック置場に置く］ あなたは1枚引く。"
+		"【自】 他のあなたのキャラのバトル相手が【リバース】した時、あなたは自分の、《異形種》か《ナザリック》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【起】【ターン3】［あなたの控え室の「“真祖”シャルティア」を1枚クロック置場に置く］ あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"異形種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/SE54-53OLR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_se54/ovl_se54_53olr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_se54/ovl_se54_53olr.png",
+	"tags": null,
+	"expansionId": 535
 }

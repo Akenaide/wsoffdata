@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "全て打ち明けた方が、自分のためなのでしょうか？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《ファンタジア文庫》か《ゲーム》のキャラすべてに、パワーを＋500。",
-		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+		"【永】 他のあなたの、《ファンタジア文庫》か《ゲーム》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［あなたのキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fgm/W120-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgm_w120/fgm_w120_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgm_w120/fgm_w120_056.png",
+	"tags": null,
+	"expansionId": 489
 }

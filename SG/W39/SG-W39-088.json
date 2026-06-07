@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それを可能とするのが錬金術です",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr/\u003e【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W39-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w39/sg_w39_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w39/sg_w39_088.png",
+	"tags": null,
+	"expansionId": 154
 }

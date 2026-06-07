@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "つーかオマエ、東側のテリトリーに入ってくるなんて\u003cbr\u003e見かけによらず度胸あるじゃん",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
+		"【永】 あなたのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《魔法》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"傭兵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W80-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w80/mr_w80_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w80/mr_w80_092.png",
+	"tags": null,
+	"expansionId": 301
 }

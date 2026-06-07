@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、アンタが良いなら……あたしは、構わないけど",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《スニーカー文庫》か《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"妹"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sst/W62-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sst_w62/sst_w62_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sst_w62/sst_w62_t01.png",
+	"tags": null,
+	"expansionId": 257
 }

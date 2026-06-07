@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "魔界の後継者ラハールとはこのオレさまのことだ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「地球の王」があるなら、あなたは相手の控え室のカードを1枚選び、山札の上に置いてよい。",
 		"【自】 絆／「エトナ＆フロン」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「エトナ＆フロン」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_t13.png",
+	"tags": null,
+	"expansionId": 9
 }

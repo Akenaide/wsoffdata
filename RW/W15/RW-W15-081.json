@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "より良い記憶を…",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードがアタックした時、あなたのクライマックス置場に青のクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは1枚引き、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"鍵",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_081.png",
+	"tags": null,
+	"expansionId": 65
 }

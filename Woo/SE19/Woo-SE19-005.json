@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"謎",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Woo/SE19-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/woo_se19/woo_se19_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/woo_se19/woo_se19_005.png",
+	"tags": null,
+	"expansionId": 109
 }

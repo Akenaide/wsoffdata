@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "殿下ったら優しー。あたしだったら全殺しするのに",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードとバトルしているキャラが【リバース】した時、相手の控え室にクライマックスがないなら、あなたは自分の控え室のカードを１枚選び、ストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_103.png",
+	"tags": null,
+	"expansionId": 9
 }

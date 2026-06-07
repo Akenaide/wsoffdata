@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アイドルは私にとって、\u003cbr\u003e本当に切実な夢だから",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1500。",
-		"【自】【CXコンボ】［手札の緑のカードを1枚控え室に置く］ 他のあなたのキャラがアタックした時、クライマックス置場に「あっかい」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の「シルキージェムシリカ 七草にちか」を1枚とこのカードを選び、入れ替える。（カードの向きは変わらない）"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】【CXコンボ】［手札の緑のカードを1枚控え室に置く］ 他のあなたのキャラがアタックした時、クライマックス置場に「あっかい」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の「シルキージェムシリカ 七草にちか」を1枚とこのカードを選び、入れ替える。（カードの向きは変わらない）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"シーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-T16R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_t16r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_t16r.png",
+	"tags": null,
+	"expansionId": 467
 }

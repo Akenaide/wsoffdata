@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…ただの実験ですよ、とミサカは答えます",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「妹達」が2枚以上なら、このカードのパワーを＋1500。",
 		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。"
@@ -25,8 +25,9 @@
 		"クローン",
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ID/W10-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/id_w10/id_w10_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/id_w10/id_w10_014.png",
+	"tags": null,
+	"expansionId": 40
 }

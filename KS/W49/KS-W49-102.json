@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "このすば――",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。",
-		"【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4500。"
+		"【永】 あなたのクロックが1枚以下なら、このカードはアタックできない。\u003cbr\u003e【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4500。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"煩悩"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_102.png",
+	"tags": null,
+	"expansionId": 192
 }

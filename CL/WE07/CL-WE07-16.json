@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前、けっこういいやつだったんだな",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは自分の《不良》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CL/WE07-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cl_we07/cl_we07_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cl_we07/cl_we07_16.png",
+	"tags": null,
+	"expansionId": 41
 }

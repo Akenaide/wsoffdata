@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのレベル0以下のキャラ1枚につき、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"天才"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GIM/W124-025S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_025s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_025s.png",
+	"tags": null,
+	"expansionId": 514
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "桜「先輩も一緒にどうですか？」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_102.png",
+	"tags": null,
+	"expansionId": 9
 }

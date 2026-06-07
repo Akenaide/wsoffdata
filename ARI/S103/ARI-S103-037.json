@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前は強い。俺達が保証してやる",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「ライセン大迷宮攻略 シア」すべてに、パワーを＋Ｘし、《ドリュッケン》を与える。Ｘはあなたのレベル×1000に等しい。",
-		"【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《トータス》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
+		"【永】 他のあなたの「ライセン大迷宮攻略 シア」すべてに、パワーを＋Ｘし、《ドリュッケン》を与える。Ｘはあなたのレベル×1000に等しい。\u003cbr\u003e【起】［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《トータス》のキャラを1枚選び、手札に戻す。Ｘはそれらのカードのレベルの合計に等しい。（クライマックスのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"トータス",
 		"クラスメイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_037.png",
+	"tags": null,
+	"expansionId": 414
 }

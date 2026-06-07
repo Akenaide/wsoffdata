@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リィエル「ねぇ、グレン。ちょーだい。お菓子」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時かアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードが《ファンタジア文庫》か《魔法》のキャラなら手札に加え、あなたは自分の手札を1枚選び、控え室に置く。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"ファンタジア文庫",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fra/W120-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fra_w120/fra_w120_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fra_w120/fra_w120_t14.png",
+	"tags": null,
+	"expansionId": 488
 }

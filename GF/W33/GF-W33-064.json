@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "後はこれを…　あ、持ってくれるの？　うん、ありがとう。じゃ、行こっか",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に赤のクライマックスがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の赤のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-064",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_064.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_064.png",
+	"tags": null,
+	"expansionId": 131
 }

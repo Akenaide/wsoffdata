@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "VEGAのブラックカードよ。足りなきゃ、次のアルバムの印税をつぎ込んだっていいわ！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 あなたのキャラがダイレクトアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-013",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_013.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_013.png",
+	"tags": null,
+	"expansionId": 61
 }

@@ -10,22 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フェイト「観客席にご案内ー」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの、《魔法》か《武器》のキャラがいないなら、手札からプレイできない。",
-		"以下の効果のうちあなたが選んだ1つを行う。",
-		"『あなたは自分のストックの上から2枚を、控え室に置いてよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。』",
-		"『あなたは自分の手札の「お花見ティータイム フェイト」を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。』"
+		"このカードは、あなたの、《魔法》か《武器》のキャラがいないなら、手札からプレイできない。\u003cbr\u003e以下の効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたは自分のストックの上から2枚を、控え室に置いてよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。』\u003cbr\u003e『あなたは自分の手札の「お花見ティータイム フェイト」を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室のキャラを2枚まで選び、手札に戻す。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NR/W58-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_015.png",
+	"tags": null,
+	"expansionId": 226
 }

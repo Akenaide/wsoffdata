@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハン・ソロ「残念だったな。チューイがきみをけっこう気に入ってたみたいだったのにな」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《フォースの覚醒》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
 		"【自】［このカードを控え室に置く］ 他のあなたの《フォースの覚醒》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_014.png",
+	"tags": null,
+	"expansionId": 199
 }

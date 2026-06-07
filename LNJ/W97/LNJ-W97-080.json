@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のターン中、このカードのパワーを＋1500。",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが0以下なら、あなたはこのカードを前列の右のキャラのいない枠に動かす。そのカードのレベルが1以上なら、あなたはこのカードを前列の左のキャラのいない枠に動かす。（クライマックスのレベルは0として扱う。1番右の枠か1番左の枠にしか動かせない）"
+		"【永】 相手のターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置く。そのカードのレベルが0以下なら、あなたはこのカードを前列の右のキャラのいない枠に動かす。そのカードのレベルが1以上なら、あなたはこのカードを前列の左のキャラのいない枠に動かす。（クライマックスのレベルは0として扱う。1番右の枠か1番左の枠にしか動かせない）"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W97-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w97/lnj_w97_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w97/lnj_w97_080.png",
+	"tags": null,
+	"expansionId": 390
 }

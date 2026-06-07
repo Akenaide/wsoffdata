@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "政宗「久しぶりだな、真田幸村。You doing, okey？」\u003cbr /\u003e幸村「この時を待ちわびていた！独眼竜・伊達政宗…いざ尋常に、勝負！」",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"武器",
 		"眼帯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SB/SE05-28",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_se05/sb_se05_28.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_se05/sb_se05_28.png",
+	"tags": null,
+	"expansionId": 47
 }

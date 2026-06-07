@@ -15,20 +15,20 @@
 	"rarity": "CA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "正義の味方☆μ's海賊団がやってきたぞぉー！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 記憶 ［(2) 手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたの思い出が3枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以上のキャラを1枚選び、そのターン中、ソウルを－2。",
-		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+		"【自】 記憶 ［(2) 手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたの思い出が3枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以上のキャラを1枚選び、そのターン中、ソウルを－2。\u003cbr\u003e【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"海賊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-094A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_094a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_094a.png",
+	"tags": null,
+	"expansionId": 272
 }

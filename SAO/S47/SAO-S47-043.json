@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おっけー！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「アスナ」か「スリーピング・ナイツ」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「アスナ」か「スリーピング・ナイツ」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S47-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s47/sao_s47_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s47/sao_s47_043.png",
+	"tags": null,
+	"expansionId": 189
 }

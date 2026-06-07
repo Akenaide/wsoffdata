@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［(2) このカードを控え室に置く］ あなたは自分の控え室の「殺意に満ちた表情 琴里」を1枚選び、このカードがいた枠に置く。』",
-		"【永】 あなたのターン中、他のあなたの、《デート》か《精霊》のキャラすべてに、パワーを＋1000。"
+		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［(2) このカードを控え室に置く］ あなたは自分の控え室の「殺意に満ちた表情 琴里」を1枚選び、このカードがいた枠に置く。』\u003cbr\u003e【永】 あなたのターン中、他のあなたの、《デート》か《精霊》のキャラすべてに、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"デート",
 		"ラタトスク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W79-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_012.png",
+	"tags": null,
+	"expansionId": 302
 }

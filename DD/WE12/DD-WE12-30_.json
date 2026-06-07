@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "姫様からのお呼びに預かり……\u003cbr /\u003e勇者シンク、ただいま見ッ参ッッ！！！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがフロントアタックされた時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがクライマックスなら、あなたはこのカードの正面のキャラを1枚選び、そのターン中、ソウルを－1。"
 	],
@@ -24,8 +24,9 @@
 		"勇者",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE12-30_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we12/dd_we12_30_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we12/dd_we12_30_.png",
+	"tags": null,
+	"expansionId": 72
 }

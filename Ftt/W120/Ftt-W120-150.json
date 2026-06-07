@@ -8,24 +8,25 @@
 	"jpName": "祝福を贈る虹",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "「――空に」\u003cbr\u003e「――虹を」\u003cbr\u003e「――この国に住まう、全ての民へ」\u003cbr\u003e「――祝福を！」",
 	"trigger": [
 		"SOUL",
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のトリガーアイコンに[SOUL]があるキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
+		"【自】 このカードが手札からCX置場に置かれた時、あなたは自分の控え室のトリガーアイコンに[[soul.gif]]があるキャラを1枚まで選び、手札に戻し、自分のキャラを2枚まで選び、そのターン中、ソウルを＋1。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Ftt/W120-150",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ftt_w120/ftt_w120_150.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ftt_w120/ftt_w120_150.png",
+	"tags": null,
+	"expansionId": 489
 }

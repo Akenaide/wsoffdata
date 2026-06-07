@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "扶桑型戦艦姉妹、妹のほう、山城です。\u003cbr /\u003eあの、扶桑姉さま、見ませんでした？",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"艦娘",
 		"戦艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-120",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_120.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_120.png",
+	"tags": null,
+	"expansionId": 113
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "飛んでけぇぇぇ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。"
 	],
@@ -24,8 +24,9 @@
 		"スポーツ",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/SE12-17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_se12/p4_se12_17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_se12/p4_se12_17.png",
+	"tags": null,
+	"expansionId": 75
 }

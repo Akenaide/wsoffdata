@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うん、美味しい。　とってもいい感じです",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《ガール》のキャラが2枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_057.png",
+	"tags": null,
+	"expansionId": 144
 }

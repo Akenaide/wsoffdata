@@ -10,21 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "モルガナ「本人に予告してやるのさ。\u003cbr\u003e 『オマエの心を盗むぞ』ってな」",
+	"trigger": null,
 	"ability": [
-		"相手の思い出置場に裏向きのカードがないなら、相手は自分の手札を1枚選び、裏向きで思い出にし、1枚まで引く。",
-		"あなたは自分の山札を上から4枚まで見て、《怪盗》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。",
-		"あなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻してよい。"
+		"相手の思い出置場に裏向きのカードがないなら、相手は自分の手札を1枚選び、裏向きで思い出にし、1枚まで引く。\u003cbr\u003eあなたは自分の山札を上から4枚まで見て、《怪盗》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\u003cbr\u003eあなたは相手の前列のコスト0以下のキャラを1枚選び、手札に戻してよい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P5/S45-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_021.png",
+	"tags": null,
+	"expansionId": 180
 }

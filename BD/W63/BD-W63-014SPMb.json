@@ -15,20 +15,20 @@
 	"rarity": "SPMb",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】［このカードを控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「キラキラのお日様」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ここがあたしの居場所”奥沢美咲」を1枚選び、このカードがいた枠に【レスト】して置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】［このカードを控え室に置く］ このカードのアタックの終わりに、クライマックス置場に「キラキラのお日様」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“ここがあたしの居場所”奥沢美咲」を1枚選び、このカードがいた枠に【レスト】して置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-014SPMb",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_014spmb.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_014spmb.png",
+	"tags": null,
+	"expansionId": 255
 }

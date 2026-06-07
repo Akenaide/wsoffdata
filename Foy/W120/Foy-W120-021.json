@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "殿のためにわたしの知略と陰陽の術を思う存分お使いください",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】 共鳴 ［(1) 手札の「大切なもの 半兵衛」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《ファンタジア文庫》か《戦国》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 共鳴 ［(1) 手札の「大切なもの 半兵衛」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《ファンタジア文庫》か《戦国》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"戦国",
 		"陰陽術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Foy/W120-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/foy_w120/foy_w120_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/foy_w120/foy_w120_021.png",
+	"tags": null,
+	"expansionId": 489
 }

@@ -8,14 +8,14 @@
 	"jpName": "ロボットが世界を救う！",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "正義は！ 絶対に！ 勝つんだ！\u003cbr /\u003e勝って、うちらが！　お姉ちゃんを助けるんだ！",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RN/W16-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_023.png",
+	"tags": null,
+	"expansionId": 86
 }

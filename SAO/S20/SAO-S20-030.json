@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしがなるべく引き付けるから、\u003cbr /\u003eどうにか一人は落として",
+	"trigger": null,
 	"ability": [
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）",
 		"【起】［あなたの、《アバター》か《ネット》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。"
@@ -25,8 +25,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_030.png",
+	"tags": null,
+	"expansionId": 92
 }

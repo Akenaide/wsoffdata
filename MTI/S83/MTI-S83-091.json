@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "このあたりじゃ滅多に魔物には遭いませんよ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《六面世界》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「豪雷積層雲」があるなら、次の行動を2回行う。『あなたは自分の山札の上から1枚を公開する。そのカードが《六面世界》のキャラかイベントなら手札に加える。』（そうでないなら元に戻す）"
+		"【永】 他のあなたの《六面世界》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「豪雷積層雲」があるなら、次の行動を2回行う。『あなたは自分の山札の上から1枚を公開する。そのカードが《六面世界》のキャラかイベントなら手札に加える。』（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"魔術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_091.png",
+	"tags": null,
+	"expansionId": 346
 }

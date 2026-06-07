@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うわーい！みんな、亜美達の分まで、チョ→頑張ってね～っ！",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの思い出置場の「衣装変更」を1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、ソウルを＋1。",
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_003.png",
+	"tags": null,
+	"expansionId": 29
 }

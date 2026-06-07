@@ -15,21 +15,21 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたのクライマックスフェイズの始めに、あなたのクロックの1番上に『アラーム』を持つカードがあるなら、次の相手のターンの終わりまで、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2500。』を得る。",
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、次の行動を2回行う。『あなたは自分の、《Anniversary》か《Afterglow》のキャラを1枚選び、そのターン中、パワーを＋1500。』"
+		"【自】 あなたのクライマックスフェイズの始めに、あなたのクロックの1番上に『アラーム』を持つカードがあるなら、次の相手のターンの終わりまで、このカードは『【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2500。』を得る。\u003cbr\u003e【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、次の行動を2回行う。『あなたは自分の、《Anniversary》か《Afterglow》のキャラを1枚選び、そのターン中、パワーを＋1500。』"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-037SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_037sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_037sp.png",
+	"tags": null,
+	"expansionId": 382
 }

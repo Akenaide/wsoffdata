@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "調査する者同士、正々堂々と\u003cbr /\u003e相手をだしぬいていきましょう！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 	"specialAttrib": [
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_005.png",
+	"tags": null,
+	"expansionId": 65
 }

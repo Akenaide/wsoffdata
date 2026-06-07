@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "到着予定時刻を１２分もオーバー。\u003cbr /\u003eあんまり遅いので迎えに来たわ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
 		"【起】［このカードを【レスト】する］ あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_083.png",
+	"tags": null,
+	"expansionId": 49
 }

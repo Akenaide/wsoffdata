@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "こうギュってして、ぐーってして、最後にべたべたするの",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは海外流通版のみの収録になります。\u003c/font\u003e"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは海外流通版のみの収録になります。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"ビー玉",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W78-053S_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klb_w78/klb_w78_053s_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klb_w78/klb_w78_053s_.png",
+	"tags": null,
+	"expansionId": 296
 }

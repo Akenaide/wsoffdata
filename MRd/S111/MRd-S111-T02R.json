@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のCXがCX置場に置かれた時、あなたはこのカードをストック置場に置いてよい。",
-		"【起】［このカードを【レスト】する］ あなたは自分の、《Mirrorverse》か《Disney》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 相手のCXがCX置場に置かれた時、あなたはこのカードをストック置場に置いてよい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の、《Mirrorverse》か《Disney》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"Mirrorverse",
 		"Disney"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRd/S111-T02R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrd_s111_t02r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrd_s111_t02r.png",
+	"tags": null,
+	"expansionId": 470
 }

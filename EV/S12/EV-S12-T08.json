@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "青葉「目標内部に高エネルギー反応！」\u003cbr /\u003eミサト「何ですって！？」",
+	"trigger": null,
 	"ability": [
 		"あなたは相手のレベル1以下のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "EV/S12-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_t08.png",
+	"tags": null,
+	"expansionId": 42
 }

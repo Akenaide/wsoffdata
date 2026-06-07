@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "―――教えてやる。これが、モノを殺すっていうことだ",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「十七分割」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋3000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_006.png",
+	"tags": null,
+	"expansionId": 48
 }

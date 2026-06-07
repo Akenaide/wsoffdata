@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一度敗れた駒がゲームへ復帰する事は禁ずる",
+	"trigger": null,
 	"ability": [
 		"【起】［(2)］ そのターン中、このカードのパワーを＋2000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_10.png",
+	"tags": null,
+	"expansionId": 68
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よーし、いっくぞ～！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《冒険者》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのソウル×1000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_102.png",
+	"tags": null,
+	"expansionId": 297
 }

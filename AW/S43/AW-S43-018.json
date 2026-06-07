@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「《加速》の適正 ハルユキ」すべてに、パワーを＋500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
-		"【自】 絆／「《加速》の適正 ハルユキ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「《加速》の適正 ハルユキ」を1枚選び、手札に戻す）"
+		"【永】 他のあなたの「《加速》の適正 ハルユキ」すべてに、パワーを＋500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\u003cbr\u003e【自】 絆／「《加速》の適正 ハルユキ」 ［手札を1枚控え室に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「《加速》の適正 ハルユキ」を1枚選び、手札に戻す）"
 	],
 	"specialAttrib": [
 		"生徒会",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S43-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_018.png",
+	"tags": null,
+	"expansionId": 176
 }

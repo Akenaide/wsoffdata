@@ -15,18 +15,18 @@
 	"rarity": "SPM",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの黄のキャラすべてに、パワーを＋500。",
-		"【自】 他のあなたの黄のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）"
+		"【永】 他のあなたの黄のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 他のあなたの黄のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE31-001SPM",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we31/bd_we31_001spm.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we31/bd_we31_001spm.png",
+	"tags": null,
+	"expansionId": 233
 }

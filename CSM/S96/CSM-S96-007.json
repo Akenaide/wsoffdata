@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やってみろよバァ～～～～カ！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋4000し、このカードはサイドアタックできない。",
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを控え室に置いてよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。"
+		"【永】 あなたのターン中、このカードのパワーを＋4000し、このカードはサイドアタックできない。\u003cbr\u003e【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを控え室に置いてよい。そうしたら、あなたは自分の山札の上から1枚を、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_007.png",
+	"tags": null,
+	"expansionId": 428
 }

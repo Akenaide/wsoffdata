@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《サッカー》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《サッカー》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【永】 他のあなたの《サッカー》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《サッカー》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"サッカー",
 		"日本代表"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CTB/W118-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ctb_w118/ctb_w118_081.png",
+	"tags": null,
+	"expansionId": 485
 }

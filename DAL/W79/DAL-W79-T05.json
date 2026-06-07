@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ようこそ、ラタトスクへ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"デート",
 		"ラタトスク"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W79-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_t05.png",
+	"tags": null,
+	"expansionId": 299
 }

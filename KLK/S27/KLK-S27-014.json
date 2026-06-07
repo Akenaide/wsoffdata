@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すんげぇ腕なんだよ。半分裸みたいな格好でハサミふるってさ",
+	"trigger": null,
 	"ability": [
 		"【起】［(2)］ あなたは相手のキャラを1枚選び、そのターン中、パワーを－500し、このカードのパワーを＋3000。"
 	],
@@ -24,8 +24,9 @@
 		"家族",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_014.png",
+	"tags": null,
+	"expansionId": 117
 }

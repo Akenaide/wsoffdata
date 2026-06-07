@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "スカル４、逃げて！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「オズマ」を含むキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_088.png",
+	"tags": null,
+	"expansionId": 61
 }

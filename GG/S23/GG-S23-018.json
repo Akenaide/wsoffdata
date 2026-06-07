@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私には、この船に集った全ての同胞を守る義務がある",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの黄のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GG/S23-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_018.png",
+	"tags": null,
+	"expansionId": 101
 }

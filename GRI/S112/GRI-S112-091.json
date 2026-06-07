@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "庭には２羽ニワトリが必要なのです。では、降下…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にCXがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S112-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s112/gri_s112_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s112/gri_s112_091.png",
+	"tags": null,
+	"expansionId": 472
 }

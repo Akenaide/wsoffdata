@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…でも、ごめんなさい。はやてを引き取りたいと言っておきながら、まだ両親に言い出せなくて…",
+	"trigger": null,
 	"ability": [
 		"【自】 経験 このカードがアタックした時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"思春期",
 		"謎"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_091.png",
+	"tags": null,
+	"expansionId": 290
 }

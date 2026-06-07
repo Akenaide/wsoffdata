@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今回は、私にやらせてほしい！\u003cbr\u003e私に譲って、お願い！",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 あなたのアンコールステップの始めに、前列にこのカードがいて、このカードの正面のキャラがいないか【リバース】しているなら、相手に1ダメージを2回与える。』（ダメージキャンセルは発生する）"
+		"このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 あなたのアンコールステップの始めに、前列にこのカードがいて、このカードの正面のキャラがいないか【リバース】しているなら、相手に1ダメージを2回与える。』（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LNJ/W85-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w85/lnj_w85_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w85/lnj_w85_066.png",
+	"tags": null,
+	"expansionId": 338
 }

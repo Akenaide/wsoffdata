@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アークウィザードを生業とし、最強の攻撃魔法、爆裂魔法を操る者！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《冒険者》か《魔法》のキャラの枚数×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《冒険者》か《魔法》のキャラを1枚選び、手札に戻してよい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《冒険者》か《魔法》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《冒険者》か《魔法》のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W49-T09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w49/ks_w49_t09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w49/ks_w49_t09.png",
+	"tags": null,
+	"expansionId": 191
 }

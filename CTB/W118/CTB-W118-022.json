@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 前列の、右の枠か左の枠にこのカードがいるなら、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《サッカー》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 前列の、右の枠か左の枠にこのカードがいるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《サッカー》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"サッカー",
 		"南葛中"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CTB/W118-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ctb_w118/ctb_w118_022.png",
+	"tags": null,
+	"expansionId": 485
 }

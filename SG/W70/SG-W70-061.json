@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「Change the Future」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。"
+		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［(1)］ このカードがアタックした時、クライマックス置場に「Change the Future」があるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル1以下のキャラを1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_061.png",
+	"tags": null,
+	"expansionId": 276
 }

@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのCXフェイズの始めに、あなたは自分の《PIXAR》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】【CXコンボ】 あなたのCX置場に「バズ・ライトイヤー参上！」が置かれた時、他のあなたの《PIXAR》のキャラがいるなら、あなたは自分の控え室の《PIXAR》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【自】 あなたのCXフェイズの始めに、あなたは自分の《PIXAR》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 あなたのCX置場に「バズ・ライトイヤー参上！」が置かれた時、他のあなたの《PIXAR》のキャラがいるなら、あなたは自分の控え室の《PIXAR》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S122-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s122/pxr_s122_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s122/pxr_s122_054.png",
+	"tags": null,
+	"expansionId": 523
 }

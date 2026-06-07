@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "エミリア様が出席されると聞いて、まず君が来るんじゃないかと思ったよ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 この能力は1ターンにつき1回まで発動する。他のあなたの「王選候補者 フェルト」が手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 この能力は1ターンにつき1回まで発動する。他のあなたの「王選候補者 フェルト」が手札から舞台に置かれた時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"武器",
 		"騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S55-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s55/rz_s55_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s55/rz_s55_012.png",
+	"tags": null,
+	"expansionId": 234
 }

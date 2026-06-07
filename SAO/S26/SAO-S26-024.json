@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "好きになった人のこと、そんな簡単に諦めちゃだめだよ",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「揺るがぬ信念 キリト」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「揺るがぬ信念 キリト」を1枚選び、手札に戻す）",
 		"【自】 チェンジ ［(1) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「キリトの妹 直葉」を1枚選び、このカードがいた枠に置く。"
@@ -25,8 +25,9 @@
 		"ネット",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S26-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s26/sao_s26_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s26/sao_s26_024.png",
+	"tags": null,
+	"expansionId": 115
 }

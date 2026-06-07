@@ -15,18 +15,18 @@
 	"rarity": "BNP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……ふう。お茶がおいしいですね。自分で作った湯のみだから、そう思うんでしょうか？",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「Parade d’amour」が置かれた時、後列にこのカードがいて、他のあなたの前列の《音楽》のキャラが3枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「Parade d’amour」が置かれた時、後列にこのカードがいて、他のあなたの前列の《音楽》のキャラが3枚以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"クール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-110BNP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_110bnp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_110bnp.png",
+	"tags": null,
+	"expansionId": 392
 }

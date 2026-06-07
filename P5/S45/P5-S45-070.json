@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "鴨志田「来いよ…盗れるもんなら盗ってみろ！」",
+	"trigger": null,
 	"ability": [
-		"相手の思い出置場に裏向きのカードがないなら、相手は自分の手札を1枚選び、裏向きで思い出にし、1枚まで引く。",
-		"あなたは相手の前列のレベル1以下のキャラを1枚まで選び、控え室に置き、自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
+		"相手の思い出置場に裏向きのカードがないなら、相手は自分の手札を1枚選び、裏向きで思い出にし、1枚まで引く。\u003cbr\u003eあなたは相手の前列のレベル1以下のキャラを1枚まで選び、控え室に置き、自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P5/S45-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_070.png",
+	"tags": null,
+	"expansionId": 180
 }

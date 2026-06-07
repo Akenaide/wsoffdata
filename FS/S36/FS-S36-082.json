@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
-		"【自】 絆／「“神代の魔術師”キャスター」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“神代の魔術師”キャスター」を1枚選び、手札に戻す）",
-		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【自】 絆／「“神代の魔術師”キャスター」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“神代の魔術師”キャスター」を1枚選び、手札に戻す）\u003cbr\u003e【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S36-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s36/fs_s36_082.png",
+	"tags": null,
+	"expansionId": 155
 }

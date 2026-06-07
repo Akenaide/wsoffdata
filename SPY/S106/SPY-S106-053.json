@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ヨルさんもしやオレに―\u003cbr\u003e恋愛感情を…!!?",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《バーリント市》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000。"
+		"【永】 応援 このカードの前のあなたの《バーリント市》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"バーリント市",
 		"WISE"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SPY/S106-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/spy_s106/spy_s106_053.png",
+	"tags": null,
+	"expansionId": 433
 }

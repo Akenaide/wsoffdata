@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "うふふ えっちぃですねえあなたは▽",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの、《変身》か《家事》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"変身",
 		"たいやき"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W42-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_p02.png",
+	"tags": null,
+	"expansionId": 12
 }

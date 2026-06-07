@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "な、なんか、今動いて……わぁっ！？プロデューサー、ヘビ！ヘビがいるっ！",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【自】［(1)］ あなたのクライマックスがクライマックス置場に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。（クライマックスのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ダンス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_091.png",
+	"tags": null,
+	"expansionId": 392
 }

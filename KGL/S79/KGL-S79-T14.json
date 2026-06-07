@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《秀知院》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"秀知院",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KGL/S79-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s79/kgl_s79_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s79/kgl_s79_t14.png",
+	"tags": null,
+	"expansionId": 316
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "神聖な学び舎で、これ以上騒ぎを起こすというのであれば、\u003cbr\u003eこのクラス委員長此花ルチアが黙ってはいないぞ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「ルチア」か「静流」を含むキャラがいるなら、このカードのパワーを＋3000。",
-		"【自】 このカードがアタックした時、クライマックス置場に「地球を背負う拳」があるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
+		"【永】 他のあなたのカード名に「ルチア」か「静流」を含むキャラがいるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「地球を背負う拳」があるなら、そのターン中、このカードのパワーを＋1500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の下に置いてよい。』"
 	],
 	"specialAttrib": [
 		"委員長",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W48-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_078.png",
+	"tags": null,
+	"expansionId": 186
 }

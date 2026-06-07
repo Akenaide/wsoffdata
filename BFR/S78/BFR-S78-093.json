@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《ゲーム》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《ゲーム》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"モンスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BFR/S78-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bfr_s78/bfr_s78_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bfr_s78/bfr_s78_093.png",
+	"tags": null,
+	"expansionId": 313
 }

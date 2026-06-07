@@ -15,20 +15,20 @@
 	"rarity": "UA",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "空をテーマにしたライブだから、掛け声は「テイクオフ！」の方が感じでるのかな～、どうかな？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場に「“伝えたい気持ち”高坂 穂乃果」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
+		"【永】 経験 あなたのレベル置場に「“伝えたい気持ち”高坂 穂乃果」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"空"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W68-052A",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w68/ll_w68_052a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w68/ll_w68_052a.png",
+	"tags": null,
+	"expansionId": 272
 }

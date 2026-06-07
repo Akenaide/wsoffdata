@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あは～　怒られちゃった～！\u003cbr\u003eごめんなさい～！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、「クリアマリンカーム 浅倉 透」と「パーティーのやくそく 福丸小糸」すべてに、パワーを＋1000。",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+		"【永】 他のあなたの、「クリアマリンカーム 浅倉 透」と「パーティーのやくそく 福丸小糸」すべてに、パワーを＋1000。\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ノクチル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_035.png",
+	"tags": null,
+	"expansionId": 332
 }

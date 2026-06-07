@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "萌え萌えキュン！ はい、出来上がりました～！めしあがれっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。このカードのバトル相手のレベルがＸ以下なら、あなたはそのキャラを山札の下に置いてよい。Ｘは公開されたカードのレベルに等しい。（CXのレベルは0として扱う。公開したカードは元に戻す）"
 	],
@@ -25,8 +25,9 @@
 		"魔法",
 		"オッドアイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fma/W120-134S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fma_w120/fma_w120_134s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fma_w120/fma_w120_134s.png",
+	"tags": null,
+	"expansionId": 489
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だが俺たちはメカゴジラ開発に失敗し、お前たちの教義も地球人を洗脳しきれなかった。それが歴史だ。『もしも』は夢物語でしかない",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《アラトラム号》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"アラトラム号",
 		"ビルサルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GZL/S54-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gzl_s54/gzl_s54_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gzl_s54/gzl_s54_t08.png",
+	"tags": null,
+	"expansionId": 227
 }

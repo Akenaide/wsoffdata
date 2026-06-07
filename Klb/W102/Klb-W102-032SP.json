@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたのキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。",
-		"【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「夕焼けの決意」があり、他のあなたのキャラが3枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の控え室のキャラか「さらば諭吉ぃっ！！」を1枚まで選び、手札に戻す。"
+		"【自】 このカードがアタックした時、他のあなたのキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。\u003cbr\u003e【自】【CXコンボ】 このカードのアタックの終わりに、クライマックス置場に「夕焼けの決意」があり、他のあなたのキャラが3枚以上で、このカードの正面のキャラがいないか【リバース】しているなら、あなたは自分の控え室のキャラか「さらば諭吉ぃっ！！」を1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Klb/W102-032SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/klb_w102_032sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/klb_w102_032sp.png",
+	"tags": null,
+	"expansionId": 406
 }

@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "満足のいく剣が打ちあがったら、\u003cbr\u003e気持ちを告白しよう",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《Anniversary》のキャラの枚数×500に等しい。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「気づいた本当の気持ち」があり、他のあなたの《Anniversary》のキャラがいるなら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《Anniversary》のキャラの枚数×500に等しい。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「気づいた本当の気持ち」があり、他のあなたの《Anniversary》のキャラがいるなら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S100-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s100/sao_s100_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s100/sao_s100_061.png",
+	"tags": null,
+	"expansionId": 405
 }

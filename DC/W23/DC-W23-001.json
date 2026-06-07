@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "じゃあ、あったかいうちに拭いてあげるね♪",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出が2枚以上なら、このカードのパワーを＋1000し、ソウルを＋1。",
 		"【自】 このカードがアタックした時、クライマックス置場に「幸せの予感」があるなら、あなたは自分の控え室の「柔らかな笑顔 音姫」を1枚まで選び、思い出にし、そのターン中、このカードのパワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W23-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w23/dc_w23_001.png",
+	"tags": null,
+	"expansionId": 90
 }

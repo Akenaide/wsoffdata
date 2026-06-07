@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "全中隊緊急発進せよ！",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
 		"【永】 他のあなたの前列の「ファースト・オーダー ストームトルーパー」1枚につき、このカードのパワーを＋2000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_072.png",
+	"tags": null,
+	"expansionId": 199
 }

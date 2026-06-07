@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "平乃「では、参ります」\u003cbr /\u003e咲「なう～」",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 あなたのレベル置場のカードのレベルの合計が2以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"警察",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_030.png",
+	"tags": null,
+	"expansionId": 50
 }

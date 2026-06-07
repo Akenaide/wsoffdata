@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "隊長さん なんか緊張してない？",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアンコールステップの始めに、あなたは自分の山札の上から1枚を控え室に置く。そのカードのレベルが0以下なら、このカードを控え室に置く。（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_036.png",
+	"tags": null,
+	"expansionId": 162
 }

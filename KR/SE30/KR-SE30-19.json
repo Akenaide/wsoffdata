@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "美人秘書「あれは…伝説の死神道具『裁きの輪』の正義の盾機能！」",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の山札を見て「“輪廻への導き”りんね」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。このカードを思い出にする。",
-		"【永】 記憶 思い出置場にこのカードがあるなら、あなたの「“輪廻への導き”りんね」すべてに、次の2つの能力を与える。『【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。』『【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。』"
+		"あなたは自分の山札を見て「“輪廻への導き”りんね」を1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。このカードを思い出にする。\u003cbr\u003e【永】 記憶 思い出置場にこのカードがあるなら、あなたの「“輪廻への導き”りんね」すべてに、次の2つの能力を与える。『【永】 このカードのバトル中、あなたは相手のキャラの【自】の効果によるダメージを受けない。』『【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KR/SE30-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kr_se30/kr_se30_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kr_se30/kr_se30_19.png",
+	"tags": null,
+	"expansionId": 172
 }

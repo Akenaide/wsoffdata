@@ -15,20 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてが《Mirrorverse》か《PIXAR》なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』",
-		"【自】【CXコンボ】［(1) 手札のキャラを1枚控え室に置く］ アンコールステップの始めに、あなたのCX置場に「Bear Spirit」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（ダメージキャンセルは発生する）"
+		"【永】 あなたのキャラすべてが《Mirrorverse》か《PIXAR》なら、このカードのパワーを＋2000し、このカードは次の能力を得る。『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』\u003cbr\u003e【自】【CXコンボ】［(1) 手札のキャラを1枚控え室に置く］ アンコールステップの始めに、あなたのCX置場に「Bear Spirit」があるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与え、あなたは自分のクロックの上から1枚までを、控え室に置く。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"Mirrorverse",
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MRp/S111-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mrw_s111/mrp_S111_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mrw_s111/mrp_s111_054.png",
+	"tags": null,
+	"expansionId": 471
 }

@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ランドソル》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、他のあなたの《ランドソル》のキャラがいて、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋4500。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《ランドソル》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《ランドソル》のキャラがいて、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋4500。"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W84-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w84/prd_w84_021.png",
+	"tags": null,
+	"expansionId": 320
 }

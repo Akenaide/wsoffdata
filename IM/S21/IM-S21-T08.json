@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ラーメンは文化　ラーメンは進化\u003cbr /\u003eラーメンは可能性",
+	"trigger": null,
 	"ability": [
 		"【永】 舞台にこのカードがいるなら、このカードは《ラーメン》を得る。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_t08.png",
+	"tags": null,
+	"expansionId": 67
 }

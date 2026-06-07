@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私はリコリスだけど……誰かを助ける仕事をしたい\u003cbr\u003eこれをくれた人みたいにネ",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の、《リコリコ》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「響かない鼓動」が置かれた時、前列にこのカードがいて、あなたのストックが4枚以下なら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、手札に戻してよい。"
+		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の、《リコリコ》か《武器》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「響かない鼓動」が置かれた時、前列にこのカードがいて、あなたのストックが4枚以下なら、あなたは自分の控え室の、《リコリコ》か《武器》のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"リコリコ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LRC/W105-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lrc_w105/lrc_w105_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lrc_w105/lrc_w105_t04.png",
+	"tags": null,
+	"expansionId": 427
 }

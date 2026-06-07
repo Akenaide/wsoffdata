@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "こいつはドラゴン殺しの剣、俺の命だ",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"マナ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_071.png",
+	"tags": null,
+	"expansionId": 193
 }

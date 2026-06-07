@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ふふっ、今日はどんな本を読もうかな",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"華撃団",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SKR/S73-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/skr_s73/skr_s73_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/skr_s73/skr_s73_043.png",
+	"tags": null,
+	"expansionId": 293
 }

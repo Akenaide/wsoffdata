@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
-		"【自】 このカードが舞台から控え室に置かれた時、他のあなたの《サマポケ》のキャラが4枚以上なら、あなたは自分の控え室の《サマポケ》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。\u003cbr\u003e【自】 このカードが舞台から控え室に置かれた時、他のあなたの《サマポケ》のキャラが4枚以上なら、あなたは自分の控え室の《サマポケ》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"海賊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-031S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_031s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_031s.png",
+	"tags": null,
+	"expansionId": 548
 }

@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたの心を頂戴する！",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《怪盗》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"怪盗"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_104.png",
+	"tags": null,
+	"expansionId": 180
 }

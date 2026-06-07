@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "当然だ。生徒会長を任された以上、\u003cbr /\u003e全校生徒の情報は把握している",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S03-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_t03.png",
+	"tags": null,
+	"expansionId": 9
 }

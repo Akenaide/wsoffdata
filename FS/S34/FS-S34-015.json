@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "イエイ♫",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のストックの上から1枚を、控え室に置いてよい。そうしたら、あなたは相手の控え室のカードを1枚選び、ストック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"先生",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_015.png",
+	"tags": null,
+	"expansionId": 139
 }

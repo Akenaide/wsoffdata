@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうやら私怨を優先できる状況では無くなったな",
+	"trigger": null,
 	"ability": [
 		"【自】 記憶 ［手札の、《マスター》か《サーヴァント》のキャラを1枚控え室に置く］ このカードが舞台から控え室に置かれた時、あなたの思い出置場に「託された弓兵の腕 士郎」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「託されたもの 士郎」を1枚選び、舞台の好きな枠に【レスト】して置く。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_068.png",
+	"tags": null,
+	"expansionId": 262
 }

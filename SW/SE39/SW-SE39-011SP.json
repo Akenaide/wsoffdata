@@ -15,16 +15,17 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置き、このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「レイ」か「レイア」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"スカイウォーカーの夜明け"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/SE39-011SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_se39/sw_se39_011sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_se39/sw_se39_011sp.png",
+	"tags": null,
+	"expansionId": 411
 }

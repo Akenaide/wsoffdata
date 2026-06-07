@@ -15,19 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この後も続々と合流予定であります",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードは相手の効果に選ばれない。",
-		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1500。",
-		"【自】［(1) このカードをバトル中のキャラの下にマーカーとして裏向きに置く］ 他のあなたのバトル中のマーカーを持つカード名に「シュザ」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。"
+		"【永】 このカードは相手の効果に選ばれない。\u003cbr\u003e【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1500。\u003cbr\u003e【自】［(1) このカードをバトル中のキャラの下にマーカーとして裏向きに置く］ 他のあなたのバトル中のマーカーを持つカード名に「シュザ」を含むキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。"
 	],
 	"specialAttrib": [
 		"マナ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CC/S48-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cc_s48/cc_s48_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cc_s48/cc_s48_024.png",
+	"tags": null,
+	"expansionId": 193
 }

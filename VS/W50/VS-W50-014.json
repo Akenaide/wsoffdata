@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "侮っていると痛い目を見ますよ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《格闘》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札の緑のカードを1枚控え室に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"格闘",
 		"覇王流"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_014.png",
+	"tags": null,
+	"expansionId": 200
 }

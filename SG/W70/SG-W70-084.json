@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "逸るなッ！ 月読ッ!!",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、あなたは自分のカード名に「翼」か「調」を含むキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【永】 応援 このカードの前のあなたの《音楽》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでトリガーアイコンに[[soul.gif]]があるカードがでた時、あなたは自分のカード名に「翼」か「調」を含むキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_084.png",
+	"tags": null,
+	"expansionId": 276
 }

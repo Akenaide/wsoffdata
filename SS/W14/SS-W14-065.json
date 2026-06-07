@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "むむむ……む、む…",
+	"trigger": null,
 	"ability": [
 		"相手に6ダメージを与える。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SS/W14-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_065.png",
+	"tags": null,
+	"expansionId": 58
 }

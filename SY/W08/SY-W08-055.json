@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やあごめんごめん！　遅れちゃった！捕まえるのに手間取っちゃって！",
+	"trigger": null,
 	"ability": [
 		"【永】 前列の中央の枠にこのカードがいるなら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"団長",
 		"SOS団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_055.png",
+	"tags": null,
+	"expansionId": 35
 }

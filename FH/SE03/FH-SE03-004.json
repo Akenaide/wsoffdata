@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よう、目が覚めたかマスター",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《マスター》のキャラが2枚以上なら、このカードは《マスター》を得て、このカードのカード名は「衛宮 士郎」としても扱う。",
 		"【永】 他のあなたの《マスター》のキャラすべてに、『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を与える。"
@@ -25,8 +25,9 @@
 		"サーヴァント",
 		"虚無"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_004.png",
+	"tags": null,
+	"expansionId": 33
 }

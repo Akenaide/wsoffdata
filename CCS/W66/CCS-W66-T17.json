@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "さっきまでさくらちゃんのお部屋にいたと思ったんですが…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「“新たな物語”木之本桜」すべてに、パワーを＋500し、《コスチューム》を与え、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
+		"【永】 他のあなたの「“新たな物語”木之本桜」すべてに、パワーを＋500し、《コスチューム》を与え、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\u003cbr\u003e【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。"
 	],
 	"specialAttrib": [
 		"カメラ",
 		"クリアカード編"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W66-T17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w66/ccs_w66_t17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w66/ccs_w66_t17.png",
+	"tags": null,
+	"expansionId": 271
 }

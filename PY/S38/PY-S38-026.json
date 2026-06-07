@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アミティ\u0026アルル「レッツぷよ勝負！」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《ぷよ》のキャラがいないなら、手札からプレイできない。あなたのキャラすべてに、そのターン中、パワーを＋2500。",
-		"すべてのプレイヤーは自分の山札の上から1枚を、控え室に置く。あなたのこの効果で控え室に置かれたカードのレベルが相手のこの効果で控え室に置かれたカードのレベルより高いなら、あなたのキャラすべてに、そのターン中、パワーを＋2500。（クライマックスのレベルは0として扱う）"
+		"このカードは、あなたの《ぷよ》のキャラがいないなら、手札からプレイできない。あなたのキャラすべてに、そのターン中、パワーを＋2500。\u003cbr/\u003eすべてのプレイヤーは自分の山札の上から1枚を、控え室に置く。あなたのこの効果で控え室に置かれたカードのレベルが相手のこの効果で控え室に置かれたカードのレベルより高いなら、あなたのキャラすべてに、そのターン中、パワーを＋2500。（クライマックスのレベルは0として扱う）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PY/S38-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_026.png",
+	"tags": null,
+	"expansionId": 160
 }

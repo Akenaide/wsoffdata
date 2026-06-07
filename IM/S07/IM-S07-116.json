@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ねぇ、ハニー！そろそろ、ミキと、結婚しちゃって、日本の少子化を食い止めよ♪",
+	"trigger": null,
 	"ability": [
 		"【自】このカードが手札から舞台に置かれた時、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ドレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-116",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_116.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_116.png",
+	"tags": null,
+	"expansionId": 13
 }

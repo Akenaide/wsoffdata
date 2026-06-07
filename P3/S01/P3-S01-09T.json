@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"ランドセル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-09T",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_09t.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_09t.png",
+	"tags": null,
+	"expansionId": 9
 }

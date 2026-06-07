@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いつもいつもッ！都合のいいところで！",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの「ウェル博士」がいないなら、手札からプレイできない。",
 		"あなたは自分の山札を見てコスト0以下の《ノイズ》のキャラを4枚まで選び、舞台の別々の枠に置く。その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SG/W27-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w27/sg_w27_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w27/sg_w27_048.png",
+	"tags": null,
+	"expansionId": 107
 }

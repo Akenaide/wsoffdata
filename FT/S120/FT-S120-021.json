@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "仲間を見下す発言はダメよ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《魔法》のキャラすべてに、パワーを＋1000。",
-		"【起】［(1) このカードを【レスト】する］ あなたは自分の山札を上からＸ枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘはあなたの控え室の「赤い雷 ラクサス」の枚数＋1に等しい。（CXのレベルは0として扱う）"
+		"【永】 あなたのターン中、他のあなたの《魔法》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［(1) このカードを【レスト】する］ あなたは自分の山札を上からＸ枚まで見て、レベル1以上のカードを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。Ｘはあなたの控え室の「赤い雷 ラクサス」の枚数＋1に等しい。（CXのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"魔法",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S120-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s120/ft_s120_021.png",
+	"tags": null,
+	"expansionId": 503
 }

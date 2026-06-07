@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ここにはたくさん面白い魂があるね！\u003cbr\u003eでもマスターが無闇に集めてきちゃダメって言うの。残念…",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「冥界のワタリガラス」があり、他のあなたの《冒険者》のキャラがいるなら、あなたは0か1か2を宣言する。あなたは自分の手札の宣言したレベルのキャラを好きな枚数選び、控え室に置き、自分の山札を見て宣言したレベル＋1のレベルのキャラを同じ枚数まで選んで相手に見せ、手札に加え、その山札をシャッフルし、そのターン中、このカードのレベルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_050.png",
+	"tags": null,
+	"expansionId": 297
 }

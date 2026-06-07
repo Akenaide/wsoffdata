@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサーくん、本当にこれで大丈夫？ねえ、もっと肌とか見せなくていいの？",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのトリガーアイコンが[GATE]のクライマックスがクライマックス置場に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 あなたのトリガーアイコンが[[gate.gif]]のクライマックスがクライマックス置場に置かれた時、あなたのキャラすべてに、そのターン中、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"セクシー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S93-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s93/ims_s93_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s93/ims_s93_104.png",
+	"tags": null,
+	"expansionId": 392
 }

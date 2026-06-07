@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「紅一葉」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室のコスト0以下の《音楽》のキャラを1枚まで選び、舞台の好きな枠に置き、ターンの終わりに、そのカードを思い出にする。"
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「紅一葉」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室のコスト0以下の《音楽》のキャラを1枚まで選び、舞台の好きな枠に置き、ターンの終わりに、そのカードを思い出にする。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/SE32-40",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_se32/pd_se32_40.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_se32/pd_se32_40.png",
+	"tags": null,
+	"expansionId": 211
 }

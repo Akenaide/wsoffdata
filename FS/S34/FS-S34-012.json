@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "凛「サーヴァントは基本霊体として側にいるけど、\u003cbr\u003e必要とあらば実体化させて戦わせられるってわけ」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、クライマックス置場に「運命の夜」があるなら、あなたは他の自分のキャラを1枚選び、手札に戻してよい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「運命の夜」があるなら、あなたは他の自分のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_012.png",
+	"tags": null,
+	"expansionId": 139
 }

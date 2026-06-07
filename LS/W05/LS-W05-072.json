@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ゆかり「みなみちゃーん回覧板ーー」\u003cbr /\u003eゆかり「みなみちゃんはクールでカッコいいねぇ～」",
+	"trigger": null,
 	"ability": [
 		"あなたは相手の控え室のカードをＸ枚まで選び、山札に戻す。その山札をシャッフルする。Ｘはあなたの《保健室》のキャラの枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LS/W05-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_072.png",
+	"tags": null,
+	"expansionId": 16
 }

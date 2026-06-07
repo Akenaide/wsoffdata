@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならあなたは自分のカード名に「テント」を含むキャラの下にマーカーとして表向きに置いてよい。（CXのレベルは0として扱う。そうしないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"ゆるキャン△",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YRC/W116-055S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_055s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yrc_w116/yrc_w116_055s.png",
+	"tags": null,
+	"expansionId": 490
 }

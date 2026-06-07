@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "提督といい、巻雲さんといい、\u003cbr /\u003eスキンシップ大好きですね。",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの「夕雲型駆逐艦2番艦 巻雲」がアタックした時、そのターン中、このカードのパワーを＋500し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_014.png",
+	"tags": null,
+	"expansionId": 113
 }

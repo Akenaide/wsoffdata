@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もう、ベベったら。あんまりお行儀が悪いとチーズになっちゃうわよ",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、そのターン中、レベルを＋1。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、そのターン中、レベルを＋1。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"お茶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W35-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_009.png",
+	"tags": null,
+	"expansionId": 140
 }

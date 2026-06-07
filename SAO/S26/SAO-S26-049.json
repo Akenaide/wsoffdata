@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一ヶ月だけあの二人にらぶらぶさせてあげよう、\u003cbr /\u003eなんて……。甘いんですよまったく",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたの控え室のクライマックスが3枚以上なら、あなたは自分の山札の上から1枚を、クロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S26-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s26/sao_s26_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s26/sao_s26_049.png",
+	"tags": null,
+	"expansionId": 115
 }

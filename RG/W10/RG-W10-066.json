@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "黒子「そう、あの方こそが、学園都市二三〇万人の頂点。七人の超能力者の第三位」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《超能力》のキャラでないなら、このカードを【レスト】する。（公開したカードは元に戻す）",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の控え室の《超能力》のキャラを1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"超能力",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W10-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w10/rg_w10_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w10/rg_w10_066.png",
+	"tags": null,
+	"expansionId": 40
 }

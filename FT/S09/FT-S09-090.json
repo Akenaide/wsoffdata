@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "生き死にだけが決着の全てじゃねえだろ？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《氷》か《竜》のキャラが2枚以上なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"氷"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_090.png",
+	"tags": null,
+	"expansionId": 43
 }

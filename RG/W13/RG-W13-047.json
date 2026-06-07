@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "固法「居場所、か…」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の《風紀委員》のキャラを1枚選び、そのターン中、パワーを＋4000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RG/W13-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w13/rg_w13_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w13/rg_w13_047.png",
+	"tags": null,
+	"expansionId": 54
 }

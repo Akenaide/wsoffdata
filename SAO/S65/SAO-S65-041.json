@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キリト「その他の軌道は必ず足を踏み替えるから、それを見てからでも受けが間に合う」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「“ベクタの迷子”キリト」を1枚まで選び、このカードがいた枠に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"フラクトライト",
 		"貴族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S65-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_041.png",
+	"tags": null,
+	"expansionId": 267
 }

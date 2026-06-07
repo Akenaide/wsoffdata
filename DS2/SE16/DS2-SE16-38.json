@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヤマトとこんな風に楽しいのはいつ以来だろうね",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「ヤマト VS アルコル」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「ヤマト」を含むキャラを1枚までとカード名に「ヒビキ」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"セプテントリオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS2/SE16-38",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds2_se16/ds2_se16_38.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds2_se16/ds2_se16_38.png",
+	"tags": null,
+	"expansionId": 104
 }

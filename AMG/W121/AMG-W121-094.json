@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大丈夫、お任せください！ここは美少女中学生\u003cbr\u003e甘神朝姫が例大祭の宣伝部長となりましょう！",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたの思い出置場に「縁結びの組紐」があるなら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-		"【自】 このカードがアタックした時、CX置場にCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）"
+		"【永】 記憶 あなたの思い出置場に「縁結びの組紐」があるなら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\u003cbr\u003e【自】 このカードがアタックした時、CX置場にCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"縁",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AMG/W121-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/amg_w121/amg_w121_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/amg_w121/amg_w121_094.png",
+	"tags": null,
+	"expansionId": 512
 }

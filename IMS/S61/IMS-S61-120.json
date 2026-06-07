@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "アイドルのことなんて何にも知らないけど、劇場を大きく出来るように頑張ってみるよ～。",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋3000。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が5以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"友達想い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-120",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_120.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_120.png",
+	"tags": null,
+	"expansionId": 251
 }

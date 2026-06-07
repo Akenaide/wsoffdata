@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札を上から4枚まで見て、《ゆるキャン△》のキャラを2枚まで選んで相手に見せ、1枚選び、手札に加え、1枚選び、自分のカード名に「テント」を含むキャラの下にマーカーとして表向きに置き、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ゆるキャン△",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YRC/W116-041S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yrc_w116/yrc_w116_041s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yrc_w116/yrc_w116_041s.png",
+	"tags": null,
+	"expansionId": 490
 }

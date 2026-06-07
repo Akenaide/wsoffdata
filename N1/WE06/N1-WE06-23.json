@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それを手に……目を閉じて、心を澄ませて…",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを【レスト】する］ あなたは自分のカード名に「なのは」を含むキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードとバトル中のキャラが【リバース】した時、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N1/WE06-23",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n1_we06/n1_we06_23.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n1_we06/n1_we06_23.png",
+	"tags": null,
+	"expansionId": 37
 }

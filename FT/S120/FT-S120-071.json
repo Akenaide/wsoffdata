@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、色条件を満たさずに手札からプレイできる。",
-		"あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。"
+		"このカードは、色条件を満たさずに手札からプレイできる。\u003cbr\u003eあなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FT/S120-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s120/ft_s120_071.png",
+	"tags": null,
+	"expansionId": 503
 }

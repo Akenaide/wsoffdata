@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうせ別れるなら『思い出が欲しいんだ詩羽先輩！』とか迫ってヤリ逃げしちゃおうって魂胆かしら？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《ゲーム》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ゲーム",
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-049",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_049.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_049.png",
+	"tags": null,
+	"expansionId": 278
 }

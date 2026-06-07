@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋4000。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「こいつらめんどくさー」があり、他のあなたの《音楽》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《音楽》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋4000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「こいつらめんどくさー」があり、他のあなたの《音楽》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《音楽》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"バイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GIM/W124-T02R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_t02r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_t02r.png",
+	"tags": null,
+	"expansionId": 513
 }

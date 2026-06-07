@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "魔女の匂いなのよ、鼻が曲がりそうかしら",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《魔法》か《武器》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の、《魔法》か《武器》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
+		"【永】 他のあなたの、《魔法》か《武器》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】［(1)］ 相手のアタックフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の、《魔法》か《武器》のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S55-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s55/rz_s55_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s55/rz_s55_039.png",
+	"tags": null,
+	"expansionId": 234
 }

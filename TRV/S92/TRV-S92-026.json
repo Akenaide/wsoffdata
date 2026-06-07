@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがフロントアタックされた時、このカードを控え室に置き、あなたは自分の山札の上から1枚を公開する。そのカードがキャラならこのカードがいた枠に防御キャラとして置く。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"リベンジ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TRV/S92-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_026.png",
+	"tags": null,
+	"expansionId": 389
 }

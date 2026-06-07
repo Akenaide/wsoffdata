@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お兄様は、僕らだけのお兄様だ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「白怪盗“偉大な白き堕天使”」がいるなら、このカードのパワーを＋4000し、このカードは次の能力を得る。『【自】 ターンの終わりに、このカードを控え室に置く。』",
 		"【自】 このカードがアタックした時、クライマックス置場に「カラー・ザ・ファントム」があるなら、あなたは自分の《怪盗》のキャラを1枚選び、そのターン中、パワーを＋2500。"
@@ -25,8 +25,9 @@
 		"怪盗",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_092.png",
+	"tags": null,
+	"expansionId": 136
 }

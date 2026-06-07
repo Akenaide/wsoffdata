@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "燃えろ燃えろー！頭のおかしいヤツらの里など消えてしまうがいい！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠のキャラに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
-		"【永】 他のあなたの、《魔王軍》かカード名に「カズマ」を含むキャラすべてに、パワーを＋1000。",
-		"【起】［(1) 手札を1枚控え室に置く］ あなたは自分の、《魔王軍》かカード名に「カズマ」を含むキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2500。"
+		"【永】 他のあなたの前列の中央の枠のキャラに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\u003cbr\u003e【永】 他のあなたの、《魔王軍》かカード名に「カズマ」を含むキャラすべてに、パワーを＋1000。\u003cbr\u003e【起】［(1) 手札を1枚控え室に置く］ あなたは自分の、《魔王軍》かカード名に「カズマ」を含むキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"魔王軍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_093.png",
+	"tags": null,
+	"expansionId": 291
 }

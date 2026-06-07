@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「満点の笑顔」があり、あなたのストックが5枚以下なら、あなたは自分の山札を上から4枚まで見て、《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「満点の笑顔」があり、あなたのストックが5枚以下なら、あなたは自分の山札を上から4枚まで見て、《SAGA》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"SAGA",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZLS/W93-005S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zls_w93/zls_w93_005s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zls_w93/zls_w93_005s.png",
+	"tags": null,
+	"expansionId": 366
 }

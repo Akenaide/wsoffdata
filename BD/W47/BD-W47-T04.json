@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "星のコドウを　そっとつかまえたなら　その手でだきしめて―",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"チョココロネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_t04.png",
+	"tags": null,
+	"expansionId": 187
 }

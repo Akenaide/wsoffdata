@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何度言えば、わかるのだ！？　誇り高き悪魔であるこの俺が約束を破ることなど、ありえんと！！",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の《悪魔》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"悪魔",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/SE08-26",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se08/dg_se08_26.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se08/dg_se08_26.png",
+	"tags": null,
+	"expansionId": 59
 }

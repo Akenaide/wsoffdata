@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アンコールは超スタンダードにいきましょう",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) あなたの山札の上から1枚をクロック置場に置く］ あなたのクライマックス置場に「本能字四天王、極戦装束！」が置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋1000し、このカードは次の能力を得る。『【永】 このカードがアタックする時、あなたはかわりに相手の後列のキャラを1枚選び、このカードはそのキャラを防御キャラとしてフロントアタックしてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"服",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_082.png",
+	"tags": null,
+	"expansionId": 117
 }

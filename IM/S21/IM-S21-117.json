@@ -15,8 +15,8 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "がんばってみない？　わたしといっしょに。\u003cbr /\u003eひとりじゃ見られない夢、きっと見られるから",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 他のあなたの「ちょっぴり不思議 絵理」とバトル中のキャラが【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-117",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_117.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_117.png",
+	"tags": null,
+	"expansionId": 80
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "素晴らしいアーティストに巡り合えたことを光栄に思う",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードはサイドアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W27-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w27/sg_w27_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w27/sg_w27_084.png",
+	"tags": null,
+	"expansionId": 107
 }

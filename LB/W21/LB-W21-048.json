@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "白鳥は　哀しからずや　空の青\u003cbr /\u003eうみのあをにも　染まずただよふ",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードをクロック置場に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「もう一人の“西園 美魚” 美鳥」を1枚選び、舞台のキャラのいない枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"本",
 		"日傘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_048.png",
+	"tags": null,
+	"expansionId": 96
 }

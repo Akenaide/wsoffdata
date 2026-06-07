@@ -15,21 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【永】 舞台にこのカードがいるなら、このカードは《武器》を得る。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、相手のキャラを1枚まで選び、手札に戻す。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【永】 舞台にこのカードがいるなら、このカードは《武器》を得る。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは1枚引き、自分の手札を1枚選び、控え室に置き、相手のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ファンタズム",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE36-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se36/pi_se36_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se36/pi_se36_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

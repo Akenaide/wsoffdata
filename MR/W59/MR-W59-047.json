@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やっちゃおやっちゃお！面白いじゃん！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"サポート"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_047.png",
+	"tags": null,
+	"expansionId": 232
 }

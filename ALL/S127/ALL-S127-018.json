@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リボンまでぐっしょり……。雨に濡れるとキューティクルが開いちゃうじゃない",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［手札の、「エターナル・プロミス」か「リゾート・ナイトな二人」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の、「エターナル・プロミス」か「リゾート・ナイトな二人」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"リリィ",
-		"グラン",
-		"エプレ"
+		"グラン・エプレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S127-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s127/all_s127_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s127/all_s127_018.png",
+	"tags": null,
+	"expansionId": 541
 }

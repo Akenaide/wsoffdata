@@ -8,14 +8,14 @@
 	"jpName": "我が名は鳳凰院 凶真!!",
 	"cardType": "CX",
 	"colour": "YELLOW",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "CC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "黙れスーパーハカー！俺は狂気のマッドサイエンティスト 鳳凰院 凶真だ！",
 	"trigger": [
 		"SOUL",
 		"SOUL"
@@ -23,9 +23,10 @@
 	"ability": [
 		"【永】 あなたのキャラすべてに、ソウルを＋2。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "STG/S60-029a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_029a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_029a.png",
+	"tags": null,
+	"expansionId": 243
 }

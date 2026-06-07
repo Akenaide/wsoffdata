@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カナン「マリア、怪我はないか！！」",
+	"trigger": null,
 	"ability": [
 		"【自】このカードがアタックした時、あなたのキャラすべてに、そのターン中、パワーを+500。"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"あやとり"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CN/SE02-28",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cn_se02/cn_se02_28_1.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cn_se02/cn_se02_28_1.png",
+	"tags": null,
+	"expansionId": 13
 }

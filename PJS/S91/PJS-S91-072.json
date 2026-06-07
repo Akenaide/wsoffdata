@@ -15,19 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "気に入ってもらえたみたいでよかった",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
-		"【永】 このカードはこのカードの下の表向きのマーカーすべての色を得る。",
-		"【自】 このカードが手札か控え室から、舞台に置かれた時、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【永】 このカードはこのカードの下の表向きのマーカーすべての色を得る。\u003cbr\u003e【自】 このカードが手札か控え室から、舞台に置かれた時、あなたは自分の控え室のカードを1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Leo/need"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_072.png",
+	"tags": null,
+	"expansionId": 380
 }

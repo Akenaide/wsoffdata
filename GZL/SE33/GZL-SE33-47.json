@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハルオ「禍々しいものか……」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のカード名に「メカゴジラ」を含むキャラを１枚選ぶ。あなたは自分の手札のキャラを1枚まで選び、その舞台のキャラの下にマーカーとして表向きに置く。1枚置いたなら、あなたは2枚引く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GZL/SE33-47",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gzl_se33/gzl_se33_47.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gzl_se33/gzl_se33_47.png",
+	"tags": null,
+	"expansionId": 244
 }

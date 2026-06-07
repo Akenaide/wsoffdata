@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "根源への到達。我ら遠坂の悲願はその一点において他はない",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《マスター》のキャラを2枚【レスト】する］ そのターン中、このカードのレベルを＋1し、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_076.png",
+	"tags": null,
+	"expansionId": 82
 }

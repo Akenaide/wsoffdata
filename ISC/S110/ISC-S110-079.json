@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『……あの日を抱いて、階段を上る\u003cbr\u003e彼女の笑顔を思い浮かべて――』",
+	"trigger": null,
 	"ability": [
 		"【自】 共鳴 ［手札の「バス・タイムの気分で 大崎甜花」を1枚公開する］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000し、次の能力を与える。『【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"アルストロメリア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_079.png",
+	"tags": null,
+	"expansionId": 468
 }

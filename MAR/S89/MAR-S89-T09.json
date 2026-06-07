@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《MARVEL》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S89-T09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_t09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s89/mar_s89_t09.png",
+	"tags": null,
+	"expansionId": 369
 }

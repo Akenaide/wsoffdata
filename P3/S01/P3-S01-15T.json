@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -28,8 +28,9 @@
 		"生徒会",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-15T",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_15t.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_15t.png",
+	"tags": null,
+	"expansionId": 9
 }

@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "気分さえ上がれば……か。\u003cbr\u003e確かにそんな単純なことかも",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の控え室の「“千年に一度の夜”奥沢美咲」を1枚選び、このカードの下にマーカーとして表向きに置く。",
-		"【起】［このカードを【レスト】する］ あなたはこのカードのマーカーの「“千年に一度の夜”奥沢美咲」を1枚とこのカードを選び、入れ替える。そうしたら、ターンの終わりに、それらのキャラを入れ替える。"
+		"【永】 他のあなたの、《Anniversary》か《ハロー、ハッピーワールド！》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の控え室の「“千年に一度の夜”奥沢美咲」を1枚選び、このカードの下にマーカーとして表向きに置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたはこのカードのマーカーの「“千年に一度の夜”奥沢美咲」を1枚とこのカードを選び、入れ替える。そうしたら、ターンの終わりに、それらのキャラを入れ替える。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W95-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w95/bd_w95_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w95/bd_w95_017.png",
+	"tags": null,
+	"expansionId": 382
 }

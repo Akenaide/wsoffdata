@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "臥煙伊豆湖「今回『くらやみ』に狙われているのは、そこで\u003cbr\u003e疲れ果てて寝てる子だよ。つまり八九寺真宵ちゃんだ」",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたは相手の前列のキャラを1枚選び、前列のキャラのいない他の枠に動かしてよい。そうしないなら、このカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_054.png",
+	"tags": null,
+	"expansionId": 159
 }

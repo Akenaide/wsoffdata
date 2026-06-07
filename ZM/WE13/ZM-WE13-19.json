@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あら、お言葉ね。逃しに来てあげたってのに",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(2) あなたの山札の上から1枚をクロック置場に置く］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の手札のレベル2以下の《魔法》のキャラを1枚まで選び、舞台の別々の枠に置く。"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_19.png",
+	"tags": null,
+	"expansionId": 77
 }

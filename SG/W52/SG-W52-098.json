@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "7",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "翼「フッ、高級な味噌をたっぷりと使ったからな。\u003cbr\u003e不味いはずが――」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは相手のキャラを2枚まで選び、そのターン中、ソウルを＋7し、次の能力を与える。『【永】 このカードはサイドアタックできない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SG/W52-098",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w52/sg_w52_098.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w52/sg_w52_098.png",
+	"tags": null,
+	"expansionId": 206
 }

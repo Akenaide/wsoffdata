@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私はみんなに歌を届けたいの",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-115",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_115.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_115.png",
+	"tags": null,
+	"expansionId": 13
 }

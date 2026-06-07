@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふぁ～、蘭が笑ったの見たら安心して眠くなってきちゃったよ～......",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてに、次の能力を与える。『【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W54-042",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w54/bd_w54_042.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w54/bd_w54_042.png",
+	"tags": null,
+	"expansionId": 213
 }

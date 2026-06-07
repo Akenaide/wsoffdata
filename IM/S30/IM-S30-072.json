@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Ｐ「まあ、あからさまなゴシップ記事なんで、みんなも気にしないと思いますけど」",
+	"trigger": null,
 	"ability": [
 		"このカードを思い出にする。相手にＸダメージを与え、あなたは自分のキャラをＸ枚選び、そのターン中、パワーを＋2000。Ｘはあなたの思い出置場の「週刊芸能ラッシュ」の枚数に等しい。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S30-072",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s30/im_s30_072.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s30/im_s30_072.png",
+	"tags": null,
+	"expansionId": 129
 }

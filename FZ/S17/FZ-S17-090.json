@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうです！その通りです！さすがリュウノスケ！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「運命の悪戯」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見てレベル0以下のキャラを1枚まで選び、舞台の好きな枠に置く。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_090.png",
+	"tags": null,
+	"expansionId": 82
 }

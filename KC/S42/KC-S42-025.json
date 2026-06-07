@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "桃の節句の時期だけ発見が\u003cbr\u003e可能となる美味しい「菱餅」です",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 このカードを思い出にする。あなたの《艦娘》のキャラが4枚以上なら、あなたは自分の山札を見て《艦娘》のキャラをＸ枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。Ｘはあなたの思い出置場の「菱餅」の枚数に等しい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KC/S42-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_025.png",
+	"tags": null,
+	"expansionId": 173
 }

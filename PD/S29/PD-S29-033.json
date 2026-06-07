@@ -15,20 +15,21 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードがアタックした時、クライマックス置場に「SPiCa　-39\u0026#39;s Giving Day Edition-」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置き、自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2500。"
+		"【自】 このカードがアタックした時、クライマックス置場に「SPiCa　-39's Giving Day Edition-」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置き、自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ドレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S29-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s29/pd_s29_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s29/pd_s29_033.png",
+	"tags": null,
+	"expansionId": 121
 }

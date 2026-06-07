@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「SECRET」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《能力者》のキャラの枚数×500に等しい。",
-		"【自】 このカードがアタックした時、クライマックス置場に「星ノ海学園」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。+P13770"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《能力者》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「星ノ海学園」があるなら、あなたは相手のキャラを1枚選び、手札に戻してよい。+P13770"
 	],
 	"specialAttrib": [
 		"能力者",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CHA/W40-005S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cha_w40/cha_w40_005s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cha_w40/cha_w40_005s.png",
+	"tags": null,
+	"expansionId": 152
 }

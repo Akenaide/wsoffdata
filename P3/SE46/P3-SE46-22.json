@@ -15,19 +15,19 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前たちの手本になるような、戦いをしたいものだ。",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「“S.E.E.S.”真田 明彦」を1枚まで選び、このカードがいた枠に置く。』",
-		"【永】 他のあなたの、《リロード》か《魔法》か《武器》のキャラすべてに、パワーを＋500。"
+		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「“S.E.E.S.”真田 明彦」を1枚まで選び、このカードがいた枠に置く。』\u003cbr\u003e【永】 他のあなたの、《リロード》か《魔法》か《武器》のキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"リロード",
 		"魔法",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SE46-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_se46/p3_se46_22.png",
+	"tags": null,
+	"expansionId": 469
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "インフエンザと風邪の違いはですね…",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_017.png",
+	"tags": null,
+	"expansionId": 16
 }

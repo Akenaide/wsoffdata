@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "令呪がある！俺にはマスターとしての資格があるらしい",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラの枚数×1000に等しい。"
+		"【永】 他のあなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置き、そのターン中、このカードのパワーを＋Ｘ。Ｘはそれらのカードの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"ホムンクルス",
 		"マスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_005.png",
+	"tags": null,
+	"expansionId": 228
 }

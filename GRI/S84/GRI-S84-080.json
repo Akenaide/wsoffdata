@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もう二度と同じ後悔をしないために行動するって決めたんだよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたの控え室の異なるカード名のクライマックスが5枚以上なら、そのターン中、このカードのパワーを＋6500。"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"家事"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_080.png",
+	"tags": null,
+	"expansionId": 347
 }

@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "瑚太朗「あわわわわ…」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「“結界の主”小鳥」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ハム…」があるなら、あなたは1枚まで引き、自分の山札の上から1枚までを、ストック置場に置く。"
+		"【永】 あなたのクロック置場に「“結界の主”小鳥」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「ハム…」があるなら、あなたは1枚まで引き、自分の山札の上から1枚までを、ストック置場に置く。"
 	],
 	"specialAttrib": [
 		"鍵",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W48-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_087.png",
+	"tags": null,
+	"expansionId": 186
 }

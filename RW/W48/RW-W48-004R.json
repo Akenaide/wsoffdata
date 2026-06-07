@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "結局、篝ちゃん改め鍵ちゃんとはなんなのですか？",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを【レスト】する］ あなたは自分の山札を見てカード名に「小鳥」か「篝」か「瑚太朗」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのターン中、他のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを【レスト】する］ あなたは自分の山札を見てカード名に「小鳥」か「篝」か「瑚太朗」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"鍵",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W48-004R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_004r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_004r.png",
+	"tags": null,
+	"expansionId": 186
 }

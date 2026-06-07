@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こっちからせんぱいのケハイと\u003cbr/\u003eおかしのあまいかおりがする",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《ぷよ》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_035.png",
+	"tags": null,
+	"expansionId": 160
 }

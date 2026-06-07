@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ツグミ「心拍数絶賛上昇ちゅう～」\u003cbr /\u003e綾瀬「黙んなさいよ、ツグミ!!」",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"オペレーター",
 		"葬儀社"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-114",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_114.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_114.png",
+	"tags": null,
+	"expansionId": 13
 }

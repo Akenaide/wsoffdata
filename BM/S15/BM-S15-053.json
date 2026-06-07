@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "違う、わざとだ……",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが2以上なら、このカードは次の能力を得る。『【起】［(3) あなたの山札の上から1枚をクロック置場に置く］ あなたは自分の手札の「蟹に行き遭った少女 戦場ヶ原ひたぎ」を1枚選び、舞台の好きな枠に置く。』",
 		"【永】 他のあなたのカード名に「ひたぎ」を含むキャラすべてに、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_053.png",
+	"tags": null,
+	"expansionId": 60
 }

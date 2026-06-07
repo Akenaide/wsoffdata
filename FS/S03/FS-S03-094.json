@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "三枝「おいしいね」\u003cbr /\u003e蒔寺「私はたいやきでもよかったんだけどな」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分のクロックを3枚まで選び、控え室に置く。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FS/S03-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s03/fs_s03_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s03/fs_s03_094.png",
+	"tags": null,
+	"expansionId": 7
 }

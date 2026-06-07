@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まぁまぁ、めずらしい",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1)］ あなたは自分の山札の上から3枚をめくり、控え室に置く。そのターン中、このカードは次の能力を得る。『【自】 このカードが【リバース】した時、このカードのバトル相手のコストがＸ以下なら、あなたはそのキャラを【リバース】してよい。』Ｘはそれらのカードのクライマックスの枚数に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/WE16-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_we16/dc3_we16_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_we16/dc3_we16_15.png",
+	"tags": null,
+	"expansionId": 99
 }

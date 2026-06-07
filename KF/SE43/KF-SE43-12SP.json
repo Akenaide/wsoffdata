@@ -15,20 +15,19 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードは他の舞台のキャラすべての特徴を得る。このカードの持つ異なる特徴1つにつき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「ジェルミナール」が置かれた時、あなたは自分のクロックの上から1枚までを、ストック置場に置き、そのターン中、相手はイベントと『助太刀』を手札からプレイできない。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。"
+		"【永】 このカードは他の舞台のキャラすべての特徴を得る。このカードの持つ異なる特徴1つにつき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「ジェルミナール」が置かれた時、あなたは自分のクロックの上から1枚までを、ストック置場に置き、そのターン中、相手はイベントと『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを思い出にする。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/SE43-12SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_se43/kf_se43_12sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_se43/kf_se43_12sp.png",
+	"tags": null,
+	"expansionId": 441
 }

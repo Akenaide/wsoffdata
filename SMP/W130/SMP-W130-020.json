@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "しろは『……』",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出置場に「“未来の羽音色”しろは」があるなら、このカードのパワーを＋2500し、このカードは次の能力を得る。『【自】 共鳴 ［手札の「“未来の羽音色”しろは」を1枚公開する］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのソウルを＋1。』"
 	],
@@ -24,8 +24,9 @@
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W130-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w130/smp_w130_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w130/smp_w130_020.png",
+	"tags": null,
+	"expansionId": 521
 }

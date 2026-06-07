@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おっ！　プロデューサーさんがそう言ってくれるなら\u003cbr\u003eこれもチェックしておこうかな！",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【起】 共鳴 ［(1) 手札の「マイ・ピュア・ロマンス 桑山千雪」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr\u003e【起】 共鳴 ［(1) 手札の「マイ・ピュア・ロマンス 桑山千雪」を1枚公開し、このカードを【レスト】する］ あなたは自分の山札を上から3枚まで見て、《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"アルストロメリア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-056",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_056.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_056.png",
+	"tags": null,
+	"expansionId": 332
 }

@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すぅ～！すぅ～！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】しているカード名に「シャロ」を含むキャラを1枚選び【レスト】する。そうしたら、あなたは相手の控え室のカードを1枚選び、思い出にし、このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/S11-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_070.png",
+	"tags": null,
+	"expansionId": 50
 }

@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《かのかり》のキャラが1枚以下なら、手札からプレイできない。",
-		"あなたは自分の山札の上から2枚までを、控え室に置く。それらのカードにレベル1以上のカードがあるなら、あなたは自分の山札の上から2枚までを、控え室に置く。あなたは自分の控え室のレベルＸ以下の《かのかり》のキャラを1枚選び、手札に戻す。Ｘはこの効果で控え室に置かれたレベル1以上のカードの枚数に等しい。（CXのレベルは0として扱う）"
+		"このカードは、あなたの《かのかり》のキャラが1枚以下なら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から2枚までを、控え室に置く。それらのカードにレベル1以上のカードがあるなら、あなたは自分の山札の上から2枚までを、控え室に置く。あなたは自分の控え室のレベルＸ以下の《かのかり》のキャラを1枚選び、手札に戻す。Ｘはこの効果で控え室に置かれたレベル1以上のカードの枚数に等しい。（CXのレベルは0として扱う）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KNK/W132-037S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_037s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w132/knk_w132_037s.png",
+	"tags": null,
+	"expansionId": 531
 }

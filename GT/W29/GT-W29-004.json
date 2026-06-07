@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "永瀧名物、チリンチリンアイスやで！",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(2) あなたの山札の上から1枚をクロック置場に置き、このカードを思い出にする］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「お父さんっ子 ぎんか」を1枚選び、このカードがいた枠に置く。",
 		"【起】［このカードを【レスト】する］ このカードの下にマーカーがないなら、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置く。",
@@ -26,8 +26,9 @@
 		"タロット",
 		"商人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_004.png",
+	"tags": null,
+	"expansionId": 106
 }

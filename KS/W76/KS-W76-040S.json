@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "フフ……ッこちらこそ、今後ともよろしくです",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは他の自分の、《冒険者》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《冒険者》か《魔法》のキャラの枚数×500に等しい。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】 このカードがアタックした時、あなたは他の自分の、《冒険者》か《魔法》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《冒険者》か《魔法》のキャラの枚数×500に等しい。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-040S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_040s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_040s.png",
+	"tags": null,
+	"expansionId": 291
 }

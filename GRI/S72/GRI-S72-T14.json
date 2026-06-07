@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みちる「ねぇ！　天音！\u003cbr\u003eロケットは！？　ロケット花火ないの！？」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《グリザイア》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"グリザイア",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_t14.png",
+	"tags": null,
+	"expansionId": 284
 }

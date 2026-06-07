@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。",
 		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"時間",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W20-058S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w20/rw_w20_058s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w20/rw_w20_058s.png",
+	"tags": null,
+	"expansionId": 84
 }

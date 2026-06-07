@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ユイって言います！",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「オペレーション・トルネード feat. ユイ」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000し、相手は『【自】 アンコール』を使えない。（ルールによる『【自】 アンコール ［(3)］ 』も使えない）"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/WE10-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_we10/ab_we10_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_we10/ab_we10_16.png",
+	"tags": null,
+	"expansionId": 63
 }

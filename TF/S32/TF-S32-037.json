@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのカード名に「テラフォーマー」を含むキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】［(2)］ このカードのバトル相手が【リバース】した時、他のあなたのカード名に「テラフォーマー」を含むキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたはそのバトル相手をクロック置場に置く。"
+		"【永】 他のあなたのカード名に「テラフォーマー」を含むキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】［(2)］ このカードのバトル相手が【リバース】した時、他のあなたのカード名に「テラフォーマー」を含むキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたはそのバトル相手をクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"虫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TF/S32-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_037.png",
+	"tags": null,
+	"expansionId": 135
 }

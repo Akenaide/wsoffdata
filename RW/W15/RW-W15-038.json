@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…もういい？",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「ひまわり畑のルチア」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ひまわり畑のルチア」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"風紀委員",
 		"オッドアイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_038.png",
+	"tags": null,
+	"expansionId": 65
 }

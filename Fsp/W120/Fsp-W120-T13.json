@@ -15,19 +15,19 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……わたくし、ボス以外の男性と話すと胃が痛くなるのです",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠のレベル0以下のキャラに、パワーを＋1000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは1枚まで引く。"
+		"【永】 他のあなたの前列の中央の枠のレベル0以下のキャラに、パワーを＋1000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは1枚まで引く。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"スパイ",
 		"灯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsp/W120-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsp_w120/fsp_w120_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsp_w120/fsp_w120_t13.png",
+	"tags": null,
+	"expansionId": 488
 }

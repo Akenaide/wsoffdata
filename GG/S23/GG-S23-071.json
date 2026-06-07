@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "レド「どうしろと！？」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の、《手紙》のキャラと《パイロット》のキャラを1枚ずつ別々に選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GG/S23-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gg_s23/gg_s23_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gg_s23/gg_s23_071.png",
+	"tags": null,
+	"expansionId": 101
 }

@@ -16,7 +16,7 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「総天然色祭」があるなら、そのターン中、このカードのパワーを＋Ｘし、このカードは黄と緑と赤と得る。Ｘはあなたの《探偵》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"声優"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE29-54",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se29/mk_se29_54.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se29/mk_se29_54.png",
+	"tags": null,
+	"expansionId": 169
 }

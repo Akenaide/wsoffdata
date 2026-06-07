@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "憧れのパジャマパーティーです！\u003cbr\u003e……ところで、パジャマパーティーって何をすれば良いんですかね？",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《リリィ》なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「果てなき戦いの日々」が置かれた時、前列にこのカードがいて、他のあなたの《リリィ》のキャラがいるなら、あなたは自分の控え室の《リリィ》のキャラを1枚まで選び、手札に戻し、他のあなたのキャラすべてに、そのターン中、パワーを＋1000。"
+		"【永】 あなたのキャラすべてが《リリィ》なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「果てなき戦いの日々」が置かれた時、前列にこのカードがいて、他のあなたの《リリィ》のキャラがいるなら、あなたは自分の控え室の《リリィ》のキャラを1枚まで選び、手札に戻し、他のあなたのキャラすべてに、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"一柳隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_050.png",
+	"tags": null,
+	"expansionId": 371
 }

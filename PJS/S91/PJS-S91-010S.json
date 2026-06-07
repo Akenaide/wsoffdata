@@ -15,19 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【永】 他のあなたのすべての領域の「思わぬ指摘 神代類」のトリガーアイコンに[SOUL]を与える。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の、「教えて！みんなのクリスマス♪」か「ワンダー☆クリスマス！」を1枚選び、手札に戻す。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【永】 他のあなたのすべての領域の「思わぬ指摘 神代類」のトリガーアイコンに[[soul.gif]]を与える。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の、「教えて！みんなのクリスマス♪」か「ワンダー☆クリスマス！」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ワンダーランズ×ショウタイム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-010S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_010s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_010s.png",
+	"tags": null,
+	"expansionId": 380
 }

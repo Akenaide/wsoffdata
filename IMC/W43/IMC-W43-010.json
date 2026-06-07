@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これからお姉ちゃん同士、協力していこ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ギャル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-010",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_010.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_010.png",
+	"tags": null,
+	"expansionId": 167
 }

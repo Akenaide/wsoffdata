@@ -15,18 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みくる可愛いなぁっ。うちで飼いたいくらいだねっ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《時間》か《オデコ》のキャラすべてに、パワーを＋500。",
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[TREASURE]なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[[treasure.gif]]なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"オデコ",
 		"八重歯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/WE09-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_we09/sy_we09_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_we09/sy_we09_08.png",
+	"tags": null,
+	"expansionId": 52
 }

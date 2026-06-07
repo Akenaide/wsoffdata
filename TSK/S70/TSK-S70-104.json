@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お風呂で遊んではいけませんっていってるでしょう！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、他のあなたの《魔大陸》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"魔大陸",
 		"巫女"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S70-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_104.png",
+	"tags": null,
+	"expansionId": 283
 }

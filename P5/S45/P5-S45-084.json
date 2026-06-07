@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《怪盗》か《コーヒー》のキャラすべてに、パワーを＋500。",
-		"【自】［(1) 手札を1枚控え室に置く］ あなたのダイレクトアタックしているキャラの与えたダメージがキャンセルされなかった時、あなたは相手の思い出置場の裏向きのカードを1枚選び、控え室に置く。そうしたら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
+		"【永】 他のあなたの、《怪盗》か《コーヒー》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置く］ あなたのダイレクトアタックしているキャラの与えたダメージがキャンセルされなかった時、あなたは相手の思い出置場の裏向きのカードを1枚選び、控え室に置く。そうしたら、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、控え室に置く。"
 	],
 	"specialAttrib": [
 		"怪盗",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_084.png",
+	"tags": null,
+	"expansionId": 180
 }

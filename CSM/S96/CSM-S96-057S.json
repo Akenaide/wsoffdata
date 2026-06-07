@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、あなたのキャラすべてが《デビルハンター》か《悪魔》なら、このカードのパワーを＋8000。",
-		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
+		"【永】 あなたのターン中、あなたのキャラすべてが《デビルハンター》か《悪魔》なら、このカードのパワーを＋8000。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を、クロック置場に置き、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-057S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_057s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_057s.png",
+	"tags": null,
+	"expansionId": 428
 }

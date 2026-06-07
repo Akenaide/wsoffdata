@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの、青か《BLOOM》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。",
-		"【自】 経験 ［(2)］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分の控え室にあるCXと同じカード名のCXを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 このカードがアタックした時、他のあなたの、青か《BLOOM》のキャラがいるなら、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 経験 ［(2)］ このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が2以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て自分の控え室にあるCXと同じカード名のCXを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"八重歯",
 		"BLOOM"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE46-53SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we46/gu_we46_53sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we46/gu_we46_53sp.png",
+	"tags": null,
+	"expansionId": 487
 }

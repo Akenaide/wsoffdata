@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたのクロックの1番上に『アラーム』を持つカードがあり、このカードのバトル相手のレベルが相手のレベルより高いなら、そのターン中、このカードのパワーを＋6000。",
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《Afterglow》のキャラが3枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードがアタックした時、あなたのクロックの1番上に『アラーム』を持つカードがあり、このカードのバトル相手のレベルが相手のレベルより高いなら、そのターン中、このカードのパワーを＋6000。\u003cbr\u003e【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの《Afterglow》のキャラが3枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Afterglow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W73-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_039.png",
+	"tags": null,
+	"expansionId": 286
 }

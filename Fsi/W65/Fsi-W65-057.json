@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "恋愛シミュレーションゲームをしなさい！　貴方には主人公精神が足りないわ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの、《ファンタジア文庫》か《生徒会》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】 このカードがアタックした時、他のあなたの、《ファンタジア文庫》か《生徒会》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋2。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが2以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"生徒会",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsi/W65-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsi_w65/fsi_w65_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsi_w65/fsi_w65_057.png",
+	"tags": null,
+	"expansionId": 264
 }

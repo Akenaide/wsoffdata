@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リインフォース…空の向こうで見てくれてますか？",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《魔法》かカード名に「はやて」を含むキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"ユニゾン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_069.png",
+	"tags": null,
+	"expansionId": 94
 }

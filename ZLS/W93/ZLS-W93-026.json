@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「アイドルブームの火付け役」があり、他のあなたの《SAGA》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《SAGA》のキャラを1枚選び、手札に戻し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「アイドルブームの火付け役」があり、他のあなたの《SAGA》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《SAGA》のキャラを1枚選び、手札に戻し、次の相手のターンの終わりまで、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
 	"specialAttrib": [
 		"SAGA",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZLS/W93-026",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zls_w93/zls_w93_026.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zls_w93/zls_w93_026.png",
+	"tags": null,
+	"expansionId": 366
 }

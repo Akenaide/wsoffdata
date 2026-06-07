@@ -10,21 +10,22 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハイグレ魔王「そろそろ本気出すわよ」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の控え室のキャラを2枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-T07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_t07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_t07.png",
+	"tags": null,
+	"expansionId": 481
 }

@@ -15,19 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よかったら、この後夜空を見に行かない？",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】 この能力は1ターンにつき1回まで発動する。あなたが『共鳴』を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのクライマックス置場に「ギルティな表情」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 この能力は1ターンにつき1回まで発動する。あなたが『共鳴』を使った時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのクライマックス置場に「ギルティな表情」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"星"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSS/W69-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lss_w69/lss_w69_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lss_w69/lss_w69_038.png",
+	"tags": null,
+	"expansionId": 273
 }

@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PER",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"相手は自分のストックすべてを、控え室に置き、自分の山札の上から同じ枚数をストック置場に置く。あなたは自分の《リロード》のキャラを1枚選び、そのターン中、パワーを＋5000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P3/SE46-17PER",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_se46/p3_se46_17per.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_se46/p3_se46_17per.png",
+	"tags": null,
+	"expansionId": 469
 }

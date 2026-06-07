@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、このカードの下にマーカーがあるなら、そのターン中、このカードのパワーを＋2500。",
-		"【自】 このカードがアタックした時、このカードの下にマーカーがあるなら、あなたは自分のマーカーを持たない《サッカー》のキャラを1枚まで選び、このカードの下のマーカーを1枚そのキャラの下にマーカーとして表向きに置き、そのターン中、そのキャラのパワーを＋2500。"
+		"【自】 このカードがアタックした時、このカードの下にマーカーがあるなら、そのターン中、このカードのパワーを＋2500。\u003cbr\u003e【自】 このカードがアタックした時、このカードの下にマーカーがあるなら、あなたは自分のマーカーを持たない《サッカー》のキャラを1枚まで選び、このカードの下のマーカーを1枚そのキャラの下にマーカーとして表向きに置き、そのターン中、そのキャラのパワーを＋2500。"
 	],
 	"specialAttrib": [
 		"サッカー",
 		"日本代表"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CTB/W118-066S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ctb_w118/ctb_w118_066s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ctb_w118/ctb_w118_066s.png",
+	"tags": null,
+	"expansionId": 485
 }

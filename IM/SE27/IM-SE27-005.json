@@ -15,19 +15,18 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードと、「ステージへの決意 あずさ」は、デッキに合計4枚まで入れることができる。",
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。",
-		"【起】［手札の《音楽》のキャラを1枚クロック置場に置き、このカードを【レスト】する］ あなたは自分のクロック置場のキャラを1枚選び、手札に戻す。"
+		"【永】 このカードと同じカード名のカードと、「ステージへの決意 あずさ」は、デッキに合計4枚まで入れることができる。\u003cbr\u003e【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［手札の《音楽》のキャラを1枚クロック置場に置き、このカードを【レスト】する］ あなたは自分のクロック置場のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/SE27-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_se27/im_se27_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_se27/im_se27_005.png",
+	"tags": null,
+	"expansionId": 148
 }

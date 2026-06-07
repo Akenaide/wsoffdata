@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ん",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』",
-		"【起】［(2) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。"
+		"【自】 あなたのCXがCX置場に置かれた時、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3500し、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』\u003cbr\u003e【起】［(2) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"ダイアモンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W132-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w132/knk_w132_034.png",
+	"tags": null,
+	"expansionId": 531
 }

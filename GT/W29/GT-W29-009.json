@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうだ…それで良い",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《タロット》か《使い魔》のキャラすべてに、レベルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_009.png",
+	"tags": null,
+	"expansionId": 106
 }

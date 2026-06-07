@@ -15,19 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あっ、こら、ボクはお兄ちゃんを探してるだけで、そんなのいらな――",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台のこのカードのレベルを－1。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
-		"【自】 このカードがアタックした時、あなたは自分のCX置場のCXを1枚選び、ストック置場に置いてよい。"
+		"【永】 舞台のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分のCX置場のCXを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W128-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w128/dc_w128_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w128/dc_w128_015.png",
+	"tags": null,
+	"expansionId": 544
 }

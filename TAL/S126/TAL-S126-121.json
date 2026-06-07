@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "「正義」を貫き通すRPG",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 このカードは、あなたの《冒険》のキャラがいないなら、手札からプレイできない。",
-		"［手札のCXを1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－3。"
+		"【カウンター】 このカードは、あなたの《冒険》のキャラがいないなら、手札からプレイできない。\u003cbr\u003e［手札のCXを1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－3。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TAL/S126-121",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_121.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_121.png",
+	"tags": null,
+	"expansionId": 538
 }

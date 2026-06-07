@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "手に入れてきて…母さんのために",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。",
 		"【自】 他のあなたのカード名に「フェイト」を含むキャラとバトル中のキャラが【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。",
@@ -26,8 +26,9 @@
 		"魔法",
 		"病気"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N1/WE06-05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n1_we06/n1_we06_05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n1_we06/n1_we06_05.png",
+	"tags": null,
+	"expansionId": 37
 }

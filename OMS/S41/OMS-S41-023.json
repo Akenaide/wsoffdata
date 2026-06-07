@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "♪ウロコを剥がさないで胸がいっぱい(イカは1杯)恋は幻(一夜干し)人類みなエラ呼吸(ぱくぱくぱくいぇーい)",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが黄なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。",
-		"【自】 他のあなたの黄のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
+		"【永】 あなたのキャラすべてが黄なら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。\u003cbr\u003e【自】 他のあなたの黄のキャラがアタックした時、そのターン中、このカードのパワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"魚"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OMS/S41-023",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/oms_s41/oms_s41_023.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/oms_s41/oms_s41_023.png",
+	"tags": null,
+	"expansionId": 171
 }

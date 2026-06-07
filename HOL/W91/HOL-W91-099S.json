@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さあそら先輩！かかってきな…",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】［他のあなたの舞台の《ホロライブ》のキャラを1枚控え室に置く］ このカードのアタックの終わりに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
+		"【自】 このカードがアタックした時、あなたは自分の《ホロライブ》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】［他のあなたの舞台の《ホロライブ》のキャラを1枚控え室に置く］ このカードのアタックの終わりに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"ホロライブ",
 		"3期生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HOL/W91-099S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w91/hol_w91_099s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w91/hol_w91_099s.png",
+	"tags": null,
+	"expansionId": 357
 }

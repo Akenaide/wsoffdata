@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"冒険",
 		"ファンタジア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-T05S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_t05s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_t05s.png",
+	"tags": null,
+	"expansionId": 537
 }

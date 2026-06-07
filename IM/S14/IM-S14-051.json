@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんな～！　自分についてくれば、\u003cbr /\u003e楽しいことが、いっぱいだぞー！　きっと！",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) あなたの山札の上から1枚をクロック置場に置き、このカードを【レスト】する］ あなたは自分の控え室の自分のレベル以下のレベルの《音楽》のキャラを1枚選び、舞台の好きな枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_051.png",
+	"tags": null,
+	"expansionId": 64
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "レミアさん、いつの間に…油断も隙もないよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、次の行動を3回行う。『あなたは自分の山札を上から1枚見て、山札の上か下に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"トータス",
 		"クラスメイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_090.png",
+	"tags": null,
+	"expansionId": 414
 }

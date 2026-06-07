@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "貴様らごときに、我らを止められるか…？",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ あなたがレベルアップした時、あなたはコストを払ってよい。そうしたら、相手に1ダメージを与える。（ダメージキャンセルは発生する）"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"病気"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MH/WE03-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mh_we03/mh_we03_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mh_we03/mh_we03_012.png",
+	"tags": null,
+	"expansionId": 23
 }

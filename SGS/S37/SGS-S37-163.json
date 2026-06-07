@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "むっ…",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《ストライカー》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"剣術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-163",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_163.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_163.png",
+	"tags": null,
+	"expansionId": 13
 }

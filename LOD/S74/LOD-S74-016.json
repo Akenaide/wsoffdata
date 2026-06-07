@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さあ、次は世界のどこを調べようか！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、他のあなたの《冒険者》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードのトリガーチェックでトリガーアイコンに[SOUL]があるカードがでた時、そのターン中、このカードのソウルを＋1。"
+		"【自】 このカードがアタックした時、他のあなたの《冒険者》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードのトリガーチェックでトリガーアイコンに[[soul.gif]]があるカードがでた時、そのターン中、このカードのソウルを＋1。"
 	],
 	"specialAttrib": [
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_016.png",
+	"tags": null,
+	"expansionId": 297
 }

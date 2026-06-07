@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "くくく、痛いだろ？\u003cbr /\u003e段階的に強くしてやるから楽しみにしていたまえ",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは相手の前列のキャラを1枚選び、そのターン中、パワーを－1000。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S26-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s26/sao_s26_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s26/sao_s26_035.png",
+	"tags": null,
+	"expansionId": 115
 }

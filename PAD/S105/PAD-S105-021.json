@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1500。",
-		"【起】［このカードを山札の下に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1500。\u003cbr\u003e【起】［このカードを山札の下に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ドラゴン",
 		"悪魔",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PAD/S105-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_021.png",
+	"tags": null,
+	"expansionId": 424
 }

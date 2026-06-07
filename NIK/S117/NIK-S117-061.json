@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "組織の力を借りようとするならば、\u003cbr\u003eまず私の心から動かしてみてください",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
-		"【自】【CXコンボ】［このカードを手札に戻す］ あなたのCX置場に「CHERRY BLOSSOM」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《NIKKE》のキャラなら手札に加える。（そうでないなら元に戻す）"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\u003cbr\u003e【自】【CXコンボ】［このカードを手札に戻す］ あなたのCX置場に「CHERRY BLOSSOM」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードが《NIKKE》のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"アンダーワールドクイーン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_061.png",
+	"tags": null,
+	"expansionId": 494
 }

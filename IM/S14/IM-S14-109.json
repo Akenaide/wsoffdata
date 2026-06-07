@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "伊織「やよいもなかなか似合ってるじゃない！」\u003cbr /\u003eやよい「伊織ちゃんもすっごくかわいいですー！」",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"カエル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-109",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_109.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_109.png",
+	"tags": null,
+	"expansionId": 13
 }

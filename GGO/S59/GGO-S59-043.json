@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よし、レン、頼んだ",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのアタックフェイズの始めに、このカードが【スタンド】していて、他のあなたの前列のキャラが1枚以下なら、あなたは自分の山札の上から1枚までを、ストック置場に置き、そのターン中、このカードのソウルを＋2。",
-		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、そのターン中、このカードのパワーを－3000。（公開したカードは元に戻す）"
+		"【自】 あなたのアタックフェイズの始めに、このカードが【スタンド】していて、他のあなたの前列のキャラが1枚以下なら、あなたは自分の山札の上から1枚までを、ストック置場に置き、そのターン中、このカードのソウルを＋2。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を公開する。そのカードがクライマックスなら、そのターン中、このカードのパワーを－3000。（公開したカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/S59-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_043.png",
+	"tags": null,
+	"expansionId": 245
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "これくらいの敵、一人で斬り伏せてみせる",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フラクトライト》のキャラの枚数×1000に等しい。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《フラクトライト》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《フラクトライト》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《フラクトライト》のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"フラクトライト",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_052.png",
+	"tags": null,
+	"expansionId": 318
 }

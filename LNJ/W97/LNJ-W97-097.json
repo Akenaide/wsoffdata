@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「果林」を含むキャラがいないなら、手札からプレイできない。",
-		"このカードを思い出にする。あなたは自分の山札の上から1枚までを、ストック置場に置き、相手にＸダメージを与え、自分のキャラを1枚選び、そのターン中、パワーを＋1000。Ｘはあなたの思い出置場の「ダイバーフェス」の枚数に等しい。（ダメージキャンセルは発生する）"
+		"このカードは、あなたのカード名に「果林」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eこのカードを思い出にする。あなたは自分の山札の上から1枚までを、ストック置場に置き、相手にＸダメージを与え、自分のキャラを1枚選び、そのターン中、パワーを＋1000。Ｘはあなたの思い出置場の「ダイバーフェス」の枚数に等しい。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LNJ/W97-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w97/lnj_w97_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w97/lnj_w97_097.png",
+	"tags": null,
+	"expansionId": 390
 }

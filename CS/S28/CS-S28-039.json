@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いーねー",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"幼稚園",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_039.png",
+	"tags": null,
+	"expansionId": 114
 }

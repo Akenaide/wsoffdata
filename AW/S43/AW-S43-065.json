@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "UI\u003e　仮想デスクトップのBBアイコンが変なのです。",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《アバター》か《ネット》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S43-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_065.png",
+	"tags": null,
+	"expansionId": 176
 }

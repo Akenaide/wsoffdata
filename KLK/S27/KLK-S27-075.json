@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やれやれ、なんなのかな。この蒟蒻問答は",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたの《服》のキャラすべてに、レベルを＋1し、パワーを＋500。",
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。"
@@ -25,8 +25,9 @@
 		"服",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-075",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_075.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_075.png",
+	"tags": null,
+	"expansionId": 117
 }

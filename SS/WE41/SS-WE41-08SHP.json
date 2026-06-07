@@ -15,18 +15,18 @@
 	"rarity": "SHP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ごめんなさい…",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《炎》かカード名に「近衛」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「対峙の時 ヘカテー」を1枚選び、このカードがいた枠に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《炎》かカード名に「近衛」を含むキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「対峙の時 ヘカテー」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"謎",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/WE41-08SHP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_we41/ss_we41_08shp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_we41/ss_we41_08shp.png",
+	"tags": null,
+	"expansionId": 447
 }

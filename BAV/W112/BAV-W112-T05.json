@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "くふふ、やっぱり私が必要でしょ？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋6000。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【永】 経験 あなたのターン中、あなたのレベル置場のカードのレベルの合計が3以上なら、このカードのパワーを＋6000。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"便利屋68"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-T05",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_t05.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_t05.png",
+	"tags": null,
+	"expansionId": 459
 }

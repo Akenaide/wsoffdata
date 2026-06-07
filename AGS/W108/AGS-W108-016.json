@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。",
-		"【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたはこのカードをストック置場に置いてよい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】 相手のクライマックスがクライマックス置場に置かれた時、あなたはこのカードをストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"アリスギア",
 		"アクトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AGS/W108-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ags_w108/ags_w108_016.png",
+	"tags": null,
+	"expansionId": 446
 }

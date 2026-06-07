@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はずかしいじゃない",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《ビー玉》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"委員長",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_038.png",
+	"tags": null,
+	"expansionId": 18
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "湿度１００％ですぅー！",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《探偵》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"カメラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE09-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se09/mk_se09_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se09/mk_se09_13.png",
+	"tags": null,
+	"expansionId": 62
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《NIKKE》のキャラすべてに、パワーを＋1000。",
-		"【永】 あなたのストックが5枚以上なら、他のあなたのキャラすべてに、パワーを＋500。"
+		"【永】 あなたのターン中、他のあなたの《NIKKE》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【永】 あなたのストックが5枚以上なら、他のあなたのキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"アンリミテッド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-074S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_074s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_074s.png",
+	"tags": null,
+	"expansionId": 494
 }

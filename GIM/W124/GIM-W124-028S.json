@@ -15,7 +15,7 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"バイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GIM/W124-028S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gim_w124/gim_w124_028s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gim_w124/gim_w124_028s.png",
+	"tags": null,
+	"expansionId": 514
 }

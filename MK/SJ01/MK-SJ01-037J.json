@@ -1,6 +1,6 @@
 {
 	"set": "MK",
-	"setName": "ミルキィホームズ ファンファンパーリーパック♪",
+	"setName": " ミルキィホームズ ファンファンパーリーパック♪",
 	"side": "S",
 	"release": "J01",
 	"id": "037J",
@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "アンリエット「それじゃいきますわよ」",
+	"trigger": null,
 	"ability": [
-		"あなたのレベルが1以下なら、あなたはこのゲームに参加していない友達を1人呼び、読み手になってもらう。そうしたら、このゲームを終了し、カルタを始める。 （傷つけたくないカードや誰のものかわからなくなって困るカードはカルタをする前にしまっておこう！）",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"あなたのレベルが1以下なら、あなたはこのゲームに参加していない友達を1人呼び、読み手になってもらう。そうしたら、このゲームを終了し、カルタを始める。 （傷つけたくないカードや誰のものかわからなくなって困るカードはカルタをする前にしまっておこう！）\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/SJ01-037J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_037.png",
+	"tags": null,
+	"expansionId": 195
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……兄ちゃんって、時折、炎より熱いよね。\u003cbr /\u003eやっぱ惚れるよ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《怪異》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_037.png",
+	"tags": null,
+	"expansionId": 105
 }

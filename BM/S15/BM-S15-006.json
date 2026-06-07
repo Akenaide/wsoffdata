@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"怪異",
 		"霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_006.png",
+	"tags": null,
+	"expansionId": 60
 }

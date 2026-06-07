@@ -10,21 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リーファ「……お兄ちゃん……なの……？」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《Anniversary》のキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札を見て《Anniversary》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"すべてのプレイヤーは自分の手札を公開する。"
+		"このカードは、あなたの《Anniversary》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札を見て《Anniversary》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003eすべてのプレイヤーは自分の手札を公開する。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SAO/S71-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_052.png",
+	"tags": null,
+	"expansionId": 288
 }

@@ -10,21 +10,22 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "篝「…………?」\r\n小鳥「ずっとしんどかったけど、やれることはやったよね。ちびもす」",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。",
 		"あなたは相手のストックすべてを、控え室に置き、相手は自分の山札の上から同じ枚数をストック置場に置く。",
 		"すべてのプレイヤーは自分の控え室のカードすべてを、山札に戻す。それらの山札をシャッフルする。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RW/W48-P06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_p06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_p06.png",
+	"tags": null,
+	"expansionId": 12
 }

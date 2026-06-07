@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カズミ「……私は親がどうとかじゃなくて、純粋に探偵になりたいんだ」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《探偵》のキャラなら、そのターン中、このカードのパワーを＋2000。"
 	],
 	"specialAttrib": [
 		"探偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_p03.png",
+	"tags": null,
+	"expansionId": 13
 }

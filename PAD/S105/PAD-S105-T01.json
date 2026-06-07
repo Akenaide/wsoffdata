@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"ドラゴン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PAD/S105-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_t01.png",
+	"tags": null,
+	"expansionId": 425
 }

@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リマリマリーマーリマリマー♪",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札が5枚以上なら、このカードのレベルを＋1し、パワーを＋2500し、このカードは次の能力を得る。『【永】 このカードの正面のキャラとこのカードはサイドアタックできない。』",
-		"【自】 相手のアタックフェイズの始めに、あなたは自分の前列の中央の枠のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。入れ替わらなかったなら、あなたはこのカードを前列の中央のキャラのいない枠に動かす。"
+		"【永】 あなたの手札が5枚以上なら、このカードのレベルを＋1し、パワーを＋2500し、このカードは次の能力を得る。『【永】 このカードの正面のキャラとこのカードはサイドアタックできない。』\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたは自分の前列の中央の枠のキャラを1枚とこのカードを選び、それぞれを【スタンド】して入れ替える。入れ替わらなかったなら、あなたはこのカードを前列の中央のキャラのいない枠に動かす。"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W84-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w84/prd_w84_009.png",
+	"tags": null,
+	"expansionId": 320
 }

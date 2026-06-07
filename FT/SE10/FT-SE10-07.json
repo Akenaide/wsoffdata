@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私・・石像も好きよ。どんなに醜い獣でも、\u003cbr /\u003e石像となれば、美しいと評価される事もある",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがダイレクトアタックした時、あなたは相手の前列のレベル0以下のキャラを1枚まで選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_07.png",
+	"tags": null,
+	"expansionId": 68
 }

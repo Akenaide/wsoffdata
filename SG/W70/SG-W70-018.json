@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "知らしめようか…完成した神の力──ディバインウェポンの恐怖をッ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の控え室のカード名に「シンフォギア装者との対峙」を含むキャラを1枚選び、思い出にしてよい。",
-		"【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の控え室のカード名に「シンフォギア装者との対峙」を含むキャラを1枚選び、思い出にしてよい。\u003cbr\u003e【起】【カウンター】 助太刀1500 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
 	"specialAttrib": [
 		"錬金術",
 		"服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W70-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_018.png",
+	"tags": null,
+	"expansionId": 276
 }

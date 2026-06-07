@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "晴れ着って、キレイでかっこいい！　大切な日に着るのにピッタリだよね～",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「穂乃果」を含むキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻す。"
+		"【永】 他のあなたのカード名に「穂乃果」を含むキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-037R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_037r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_037r.png",
+	"tags": null,
+	"expansionId": 142
 }

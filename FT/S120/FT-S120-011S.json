@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "水が……！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《魔法》のキャラがいるなら、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 あなたのCX置場に「エルザの誘惑」が置かれた時、前列にこのカードがいて、他のあなたの《魔法》のキャラが4枚以上なら、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのターン中、他のあなたの《魔法》のキャラがいるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 あなたのCX置場に「エルザの誘惑」が置かれた時、前列にこのカードがいて、他のあなたの《魔法》のキャラが4枚以上なら、あなたは自分の山札を見て《魔法》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S120-011S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_011s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s120/ft_s120_011s.png",
+	"tags": null,
+	"expansionId": 503
 }

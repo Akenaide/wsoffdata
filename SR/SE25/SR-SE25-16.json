@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "力づくで奪ってみるか……？\u003cbr /\u003eできるものなら、な。",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋1000。",
 		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。"
@@ -25,8 +25,9 @@
 		"武器",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SR/SE25-16",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sr_se25/sr_se25_16.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sr_se25/sr_se25_16.png",
+	"tags": null,
+	"expansionId": 145
 }

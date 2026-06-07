@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "言ったはず。私はあなたたちを――精霊を、倒す",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
@@ -25,8 +25,9 @@
 		"精霊",
 		"翼"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fdl/W65-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdl_w65/fdl_w65_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fdl_w65/fdl_w65_076.png",
+	"tags": null,
+	"expansionId": 264
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "…私達って確か、オトモダチだったよね…？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《グリザイア》のキャラの枚数×1000に等しい。",
-		"【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分のストックの上から1枚を、手札に戻してよい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《グリザイア》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 このカードのバトル相手でレベル2以上のキャラが【リバース】した時、あなたは自分のストックの上から1枚を、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"家事"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_043.png",
+	"tags": null,
+	"expansionId": 285
 }

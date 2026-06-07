@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「蘇る雄姿 エイジ」すべてに、パワーを＋1000し、次の3つの能力を与える。『【永】 このカードは相手の効果に選ばれない。』『【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。』『【自】［(1)］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。』"
 	],
@@ -24,8 +24,9 @@
 		"ネット",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S80-047a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s80/sao_s80_047a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s80/sao_s80_047a.png",
+	"tags": null,
+	"expansionId": 318
 }

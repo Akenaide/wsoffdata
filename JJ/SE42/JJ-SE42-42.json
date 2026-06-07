@@ -15,8 +15,8 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ストーン・フリィー!!",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。』『そのターン中、このカードのパワーを＋3000。』"
 	],
@@ -24,8 +24,9 @@
 		"スタンド使い",
 		"スタンド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/SE42-42",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se42/jj_se42_42.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_se42/jj_se42_42.png",
+	"tags": null,
+	"expansionId": 435
 }

@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ま、こうなったら\u003cbr\u003eやる気出さないわけにはいきませんわ",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"スニーカー文庫",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Srd/W123-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/srd_w123_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/srd_w123_020.png",
+	"tags": null,
+	"expansionId": 510
 }

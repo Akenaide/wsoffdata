@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "い 痛かったらごめんなさい！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「穿けえっ！」が置かれた時、他のあなたの赤のキャラが4枚以上で、前列にこのカードがいるなら、あなたは自分の山札を見て「緋ノ宮 二穂」を1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、そのターン中、このカードのレベルを＋1し、パワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"不思議"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_058.png",
+	"tags": null,
+	"expansionId": 162
 }

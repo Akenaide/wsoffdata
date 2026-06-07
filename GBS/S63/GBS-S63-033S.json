@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "それに彼、かなりキてるもの、ね",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。",
-		"【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 相手のターン中、あなたの受けたダメージがキャンセルされなかった時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-033S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_033s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_033s.png",
+	"tags": null,
+	"expansionId": 260
 }

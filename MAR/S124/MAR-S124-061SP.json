@@ -15,17 +15,17 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの後列のキャラがいないなら、あなたは自分の山札を上から2枚見て、レベル0以下の《MARVEL》のキャラを1枚まで選び、後列の好きな枠に置き、残りのカードを控え室に置く。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
+		"【自】 このカードのバトル相手が【リバース】した時、他のあなたの後列のキャラがいないなら、あなたは自分の山札を上から2枚見て、レベル0以下の《MARVEL》のキャラを1枚まで選び、後列の好きな枠に置き、残りのカードを控え室に置く。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S124-061SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_061sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s124/mar_s124_061sp.png",
+	"tags": null,
+	"expansionId": 527
 }

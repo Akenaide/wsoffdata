@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "行ってらっしゃーい！　気をつけて下さいね～！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-40",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_40.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_40.png",
+	"tags": null,
+	"expansionId": 77
 }

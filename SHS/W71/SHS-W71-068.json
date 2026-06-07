@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "倫理君、倫理君っ……いいえ、今からあなたは、不倫理君よ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋2500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「初めての女」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
+		"【永】 経験 あなたのレベル置場のカードのレベルの合計が4以上なら、このカードのパワーを＋2500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「初めての女」があるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら手札に加える。（クライマックスのレベルは0として扱う。そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"ゲーム",
 		"小説"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SHS/W71-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/shs_w71/shs_w71_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/shs_w71/shs_w71_068.png",
+	"tags": null,
+	"expansionId": 278
 }

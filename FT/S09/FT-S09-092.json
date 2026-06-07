@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "キズなんてどこに増えようがかまわねえんだ。 目に見える方はな",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"氷"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S09-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_092.png",
+	"tags": null,
+	"expansionId": 43
 }

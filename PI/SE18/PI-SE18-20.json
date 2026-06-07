@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そのイメージの元となった何かがあるのでは？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が5枚以上なら、他のあなたのキャラすべてに、パワーを＋500。",
 		"【永】 あなたが自分の手札か舞台のキャラの【起】のコストを払う時、このカードの下のマーカー1枚を、ストック1枚のかわりに控え室に置いてよい。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE18-20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se18/pi_se18_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se18/pi_se18_020.png",
+	"tags": null,
+	"expansionId": 108
 }

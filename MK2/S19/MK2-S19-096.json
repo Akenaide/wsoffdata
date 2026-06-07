@@ -10,20 +10,21 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "コーデリアァァァ！",
+	"trigger": null,
 	"ability": [
 		"あなたは2枚まで引き、自分の手札を1枚選び、控え室に置く。",
 		"あなたは自分の《探偵》のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK2/S19-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_096.png",
+	"tags": null,
+	"expansionId": 87
 }

@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "踊ってたら、ドレスの下、こ～んなに熱くなっちゃって～。ぱたぱた～ってしたら、ふぅ…気持ちいい♪",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T55",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t55.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t55.png",
+	"tags": null,
+	"expansionId": 476
 }

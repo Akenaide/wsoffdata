@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "笑いが止まんないねっ",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(2)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは相手のキャラを1枚選び、そのターン中、パワーを－2000。"
 	],
@@ -24,8 +24,9 @@
 		"オデコ",
 		"八重歯"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_030.png",
+	"tags": null,
+	"expansionId": 35
 }

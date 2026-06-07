@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "瑚太朗は瑚太朗でいてくれればいいんです",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《お菓子》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"お菓子",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W20-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w20/rw_w20_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w20/rw_w20_015.png",
+	"tags": null,
+	"expansionId": 84
 }

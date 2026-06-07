@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "とりあえず私からこよみんにとって有益な情報を\u003cbr\u003e齎す前に、三つ、お願いしたいことがある",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500し、次の3つの能力を与える。『【永】 このカードのバトル中、あなたは『助太刀』を手札からプレイできない。』『【永】 このカードはサイドアタックできない。』『【自】 バトル中のこのカードが【リバース】した時、そのターン中、あなたは『【自】 アンコール』を使えない。』（ルールによる『【自】 アンコール ［(3)］』も使えない）"
 	],
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-067",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_067.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_067.png",
+	"tags": null,
+	"expansionId": 159
 }

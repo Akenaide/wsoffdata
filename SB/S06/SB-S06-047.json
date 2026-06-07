@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ちょいと一服…",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】しているキャラを1枚選び【レスト】する。そうしたら、あなたは自分の控え室のカードを1枚選び、ストック置場に置き、自分の《動物》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SB/S06-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_047.png",
+	"tags": null,
+	"expansionId": 28
 }

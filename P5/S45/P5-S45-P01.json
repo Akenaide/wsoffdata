@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、相手の前列のキャラが2枚以下なら、あなたは他の自分のキャラを1枚選び、【レスト】し、後列のキャラのいない枠に動かす。"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

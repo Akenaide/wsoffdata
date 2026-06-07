@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "012",
@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誰にも侵されず、誰をも脅かさない理想の国をお作りください",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「聖都を治める王 獅子王」を1枚選び、ストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"キャメロット",
 		"円卓の騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_012.png",
+	"tags": null,
+	"expansionId": 363
 }

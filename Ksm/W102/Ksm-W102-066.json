@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《Anniversary》か《サマポケ》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《サマポケ》のキャラが4枚以上なら、あなたは自分の控え室の、《Anniversary》か《サマポケ》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【永】 他のあなたの、《Anniversary》か《サマポケ》のキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの、《Anniversary》か《サマポケ》のキャラが4枚以上なら、あなたは自分の控え室の、《Anniversary》か《サマポケ》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ksm/W102-066",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/key_w102/ksm_w102_066.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/key_w102/ksm_w102_066.png",
+	"tags": null,
+	"expansionId": 406
 }

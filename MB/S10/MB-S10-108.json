@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もとからある機能をなくしてでも、今の環境にあわせてより最適化していく。これを進化と言うのです",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを【レスト】する］ あなたは自分のクロックを1枚選び、手札に戻す。あなたは自分の手札を1枚選び、クロック置場に置く。"
 	],
@@ -24,8 +24,9 @@
 		"錬金術",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_108.png",
+	"tags": null,
+	"expansionId": 13
 }

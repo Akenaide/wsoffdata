@@ -15,18 +15,18 @@
 	"rarity": "WIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《イルミネーションスターズ》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、他のあなたの《イルミネーションスターズ》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"イルミネーションスターズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/SE53-01WIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_se53/isc_se53_01wir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_se53/isc_se53_01wir.png",
+	"tags": null,
+	"expansionId": 528
 }

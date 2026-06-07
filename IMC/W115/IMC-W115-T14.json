@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "パンパカパーン、猫の嫁入りならぬ、みくの嫁入り～♪みく、ウェディングドレス着るの、憧れだったんだー",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてが赤なら、このカードのパワーを＋5000。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2以上なら、そのターン中、このカードのパワーを＋6000。"
+		"【永】 あなたのキャラすべてが赤なら、このカードのパワーを＋5000。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2以上なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ネコキャラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t14.png",
+	"tags": null,
+	"expansionId": 474
 }

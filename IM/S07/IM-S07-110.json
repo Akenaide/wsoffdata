@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やっぱり、天気の良い午後は、熱々の日本茶に限りますよね！あの、すぐに用意しますから♪",
+	"trigger": null,
 	"ability": [
 		"【永】あなたのターン中、他のあなたの《お茶》のキャラすべてに、パワーを+500"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"お茶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-110",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_110.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_110.png",
+	"tags": null,
+	"expansionId": 13
 }

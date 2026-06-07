@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "……心配すんな、やるからには全力で頑張るさ。",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてに、次の能力を与える。『【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ロック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-107",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_107.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_107.png",
+	"tags": null,
+	"expansionId": 251
 }

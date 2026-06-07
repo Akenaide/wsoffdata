@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よしっ、ゼリーだ！　ゼリーだゼリーだ！\u003cbr /\u003eここでゼリーだゼリーだ！\u003cbr /\u003eゼリーだゼリーだゼリーだゼリーだゼリーだ！",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W21-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w21/lb_w21_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w21/lb_w21_028.png",
+	"tags": null,
+	"expansionId": 96
 }

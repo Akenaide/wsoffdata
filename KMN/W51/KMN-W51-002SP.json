@@ -15,22 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの、《フレンズ》か《メカ》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見てイベントを1枚まで選んで相手に見せ、このカードの下にマーカーとして裏向きに置き、その山札をシャッフルする。",
-		"【起】［手札を1枚控え室に置く］ あなたはこのカードの下のマーカーを1枚手札に戻す。"
+		"【永】 あなたの控え室のクライマックスが2枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの、《フレンズ》か《メカ》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見てイベントを1枚まで選んで相手に見せ、このカードの下にマーカーとして裏向きに置き、その山札をシャッフルする。\u003cbr\u003e【起】［手札を1枚控え室に置く］ あなたはこのカードの下のマーカーを1枚手札に戻す。"
 	],
 	"specialAttrib": [
 		"フレンズ",
 		"帽子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KMN/W51-002SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kmn_w51/kmn_w51_002sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kmn_w51/kmn_w51_002sp.png",
+	"tags": null,
+	"expansionId": 205
 }

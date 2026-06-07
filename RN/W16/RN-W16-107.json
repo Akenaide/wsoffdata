@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ガイ・コーエンが搭乗する、\u003cbr /\u003e超重量型のカートルーパー",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、「スナイデル」と「スターラプター」と「スティングーマ」がいるなら、このカードのパワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"メカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-107",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_107.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_107.png",
+	"tags": null,
+	"expansionId": 12
 }

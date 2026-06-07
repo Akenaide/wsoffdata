@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ウェールズ「水のトライアングルには風のトライアングルを！」",
+	"trigger": null,
 	"ability": [
 		"あなたの黄の《王族》のキャラがいるなら、あなたのキャラすべてに、そのターン中、ソウルを＋1。",
 		"あなたの青の《王族》のキャラがいるなら、あなたは1枚引く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ZM/W03-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_022.png",
+	"tags": null,
+	"expansionId": 3
 }

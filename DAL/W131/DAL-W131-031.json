@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "全知の力、無限の知識を持っている、という事の意味を、君はまだ甘く見ているのではないかな",
+	"trigger": null,
 	"ability": [
 		"あなたは相手の山札を上から3枚まで見て、カードを3枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DAL/W131-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w131/dal_w131_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w131/dal_w131_031.png",
+	"tags": null,
+	"expansionId": 529
 }

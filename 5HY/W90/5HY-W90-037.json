@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "一花「ほら、貸して。やってあげる」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《五つ子》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《五つ子》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《五つ子》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《五つ子》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W90-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w90/5hy_w90_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w90/5hy_w90_037.png",
+	"tags": null,
+	"expansionId": 348
 }

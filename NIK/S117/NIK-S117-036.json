@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "3年生になったけど、たまには甘いもの食べてもいいよね？",
+	"trigger": null,
 	"ability": [
 		"【自】 相手のアタックフェイズの始めに、あなたのキャラすべてが《NIKKE》なら、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードがレベル2以下のキャラなら、そのターン中、このカードは次の能力を得る。『【自】 このカードがフロントアタックされた時、あなたはこのカードを手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"NIKKE",
 		"スクールサークル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_036.png",
+	"tags": null,
+	"expansionId": 494
 }

@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "――信じてるよ。すっごくいい歌詞を書いてくれるって",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。",
-		"【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたの舞台のキャラの持つ色の合計が4色以上なら、あなたは自分の控え室の《音楽》のキャラを1枚選び、ストック置場に置いてよい。\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Leo/need"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S109-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s109/pjs_s109_016.png",
+	"tags": null,
+	"expansionId": 455
 }

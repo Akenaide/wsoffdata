@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この世にはカネや名誉に代えられないモンが山ほどある！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《怪盗》のキャラの枚数×1000に等しい。",
-		"【自】 あなたのクライマックス置場に「唯一の居場所」が置かれた時、前列にこのカードがいて、あなたの控え室のキャラが3枚以上なら、あなたは自分の控え室のキャラを3枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を3枚選び、控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《怪盗》のキャラの枚数×1000に等しい。\u003cbr\u003e【自】 あなたのクライマックス置場に「唯一の居場所」が置かれた時、前列にこのカードがいて、あなたの控え室のキャラが3枚以上なら、あなたは自分の控え室のキャラを3枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を3枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"怪盗"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_069.png",
+	"tags": null,
+	"expansionId": 180
 }

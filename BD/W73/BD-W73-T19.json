@@ -10,22 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この名前を掲げることが、表舞台に立ち続ける！って意思の表明になる！",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。",
-		"以下の効果のうちあなたが選んだ1つを行う。",
-		"『あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』",
-		"『あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000し、このカードをストック置場に置く。』"
+		"このカードは、あなたの《音楽》のキャラがいないなら、手札からプレイできない。\u003cbr\u003e以下の効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』\u003cbr\u003e『あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000し、このカードをストック置場に置く。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "BD/W73-T19",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w73/bd_w73_t19.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w73/bd_w73_t19.png",
+	"tags": null,
+	"expansionId": 282
 }

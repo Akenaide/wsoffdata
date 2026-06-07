@@ -10,22 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "パック「これボクだったんだ」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《Memory Snow》のキャラがいないなら、手札からプレイできない。",
-		"次の効果のうちあなたが選んだ1つを行う。",
-		"『あなたは自分のストックの上から2枚を、控え室に置いてよい。そうしたら、あなたは自分の山札を見て《Memory Snow》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』",
-		"『あなたは自分の手札の「評価に不満 エミリア」を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の山札を見て《Memory Snow》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
+		"このカードは、あなたの《Memory Snow》のキャラがいないなら、手札からプレイできない。\u003cbr\u003e次の効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたは自分のストックの上から2枚を、控え室に置いてよい。そうしたら、あなたは自分の山札を見て《Memory Snow》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』\u003cbr\u003e『あなたは自分の手札の「評価に不満 エミリア」を1枚選び、控え室に置いてよい。そうしたら、あなたは自分の山札を見て《Memory Snow》のキャラを2枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RZ/S68-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_094.png",
+	"tags": null,
+	"expansionId": 280
 }

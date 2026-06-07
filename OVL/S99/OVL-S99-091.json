@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はぁ……面倒がられてるみたい……",
+	"trigger": null,
 	"ability": [
-		"【自】［(1) 手札の「小鬼将軍の角笛」を1枚思い出にする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「村人への気持ち ジュゲム」を1枚まで選び、舞台の好きな枠に置く。",
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+		"【自】［(1) 手札の「小鬼将軍の角笛」を1枚思い出にする］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「村人への気持ち ジュゲム」を1枚まで選び、舞台の好きな枠に置く。\u003cbr\u003e【自】 このカードが【リバース】した時、このカードのバトル相手のコストが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"人間種",
 		"カルネ村"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S99-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s99/ovl_s99_091.png",
+	"tags": null,
+	"expansionId": 404
 }

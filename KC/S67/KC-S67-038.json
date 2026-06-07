@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いーい！？ 海防艦国後、抜錨！ 出ます！",
+	"trigger": null,
 	"ability": [
 		"【起】［(2)］ あなたは自分の「初春型駆逐艦2番艦 子日」の下のマーカーを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"海防艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_038.png",
+	"tags": null,
+	"expansionId": 270
 }

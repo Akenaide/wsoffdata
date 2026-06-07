@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マサ「アニキは漢の中の漢だぜ！」",
+	"trigger": null,
 	"ability": [
-		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのストックが4枚以下なら、あなたはそのキャラを山札の下に置いてよい。"
+		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのストックが4枚以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"MOVIE",
 		"幼稚園",
 		"不良"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_084.png",
+	"tags": null,
+	"expansionId": 480
 }

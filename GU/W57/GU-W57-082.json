@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カフェラテ！ カフェモカ!! カプチ～～ノ!!!",
+	"trigger": null,
 	"ability": [
-		"【永】 舞台にこのカードがいるなら、このカードは《魔法》を得る。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「もふもふ天国」が置かれた時、前列にこのカードがいるなら、あなたは相手の前列のレベル1以下のキャラを1枚まで選び、控え室に置き、自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら手札に加える。（そうでないなら元に戻す）"
+		"【永】 舞台にこのカードがいるなら、このカードは《魔法》を得る。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「もふもふ天国」が置かれた時、前列にこのカードがいるなら、あなたは相手の前列のレベル1以下のキャラを1枚まで選び、控え室に置き、自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"ラビットハウス",
 		"Dear My Sister"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W57-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w57/gu_w57_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w57/gu_w57_082.png",
+	"tags": null,
+	"expansionId": 221
 }

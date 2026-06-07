@@ -15,8 +15,8 @@
 	"rarity": "PS",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この最高の景色を、もっともっと最高の景色にするために、最高の応援よろしくお願いいたします！",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/SP01-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_sp01/im_sp01_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_sp01/im_sp01_13.png",
+	"tags": null,
+	"expansionId": 168
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "この槍は既に聖王陛下に捧げたものゆえ忠は誓えませんが、力をお貸しすることはできます。どうぞよろしく",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《冒険者》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LOD/S74-087",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lod_s74/lod_s74_087.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lod_s74/lod_s74_087.png",
+	"tags": null,
+	"expansionId": 297
 }

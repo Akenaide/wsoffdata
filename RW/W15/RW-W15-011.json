@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぎる「おい！　オレたちも行くぜ！」\u003cbr /\u003eぱに「何かのお役に立てるかもしれませんわー」",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W15-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_011.png",
+	"tags": null,
+	"expansionId": 65
 }

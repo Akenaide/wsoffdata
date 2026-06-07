@@ -15,20 +15,20 @@
 	"rarity": "Cu",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋3500。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「Palette」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋3500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「Palette」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"お日様"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T19Cu",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t19cu.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t19cu.png",
+	"tags": null,
+	"expansionId": 474
 }

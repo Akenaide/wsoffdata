@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "脚本……全部直してください",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれたターン中、あなたのアタックフェイズの始めに、あなたはこのカード以外のすべてのプレイヤーのキャラすべてを、控え室に置いてよい。そうしたら、すべてのプレイヤーは自分のクロックの上から3枚までを、控え室に置く。",
-		"【自】 このカードが【リバース】した時、あなたはこのカードを手札に戻してよい。"
+		"【自】 このカードが手札から舞台に置かれたターン中、あなたのアタックフェイズの始めに、あなたはこのカード以外のすべてのプレイヤーのキャラすべてを、控え室に置いてよい。そうしたら、すべてのプレイヤーは自分のクロックの上から3枚までを、控え室に置く。\u003cbr\u003e【自】 このカードが【リバース】した時、あなたはこのカードを手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"芸能界",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OSK/S121-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/osk_s121/osk_s121_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/osk_s121/osk_s121_084.png",
+	"tags": null,
+	"expansionId": 504
 }

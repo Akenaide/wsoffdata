@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "氷華「は、恥ずかしい…」",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) このカードを思い出にする］ 他のあなたのキャラが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ID/W10-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/id_w10/id_w10_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/id_w10/id_w10_080.png",
+	"tags": null,
+	"expansionId": 40
 }

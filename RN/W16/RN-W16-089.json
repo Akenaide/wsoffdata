@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そう、確かに僕は死んだよ。殺されたんだ。\u003cbr /\u003eでも、おかげでこうして永遠の命を手に入れられた",
+	"trigger": null,
 	"ability": [
 		"【自】［(2)］ このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
 	],
@@ -24,8 +24,9 @@
 		"科学",
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RN/W16-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rn_w16/rn_w16_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rn_w16/rn_w16_089.png",
+	"tags": null,
+	"expansionId": 86
 }

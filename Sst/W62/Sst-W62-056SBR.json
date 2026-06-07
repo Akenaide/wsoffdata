@@ -15,21 +15,21 @@
 	"rarity": "SBR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "刃更、お願い……ウチのこと滅茶苦茶に抱いて",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《スニーカー文庫》か《魔法》のキャラの枚数×500に等しい。",
-		"【自】［このカードを控え室に置く］ 他のあなたの、《スニーカー文庫》か《魔法》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋3000。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《スニーカー文庫》か《魔法》のキャラの枚数×500に等しい。\u003cbr\u003e【自】［このカードを控え室に置く］ 他のあなたの、《スニーカー文庫》か《魔法》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"魔法",
 		"幼馴染"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sst/W62-056SBR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sst_w62/sst_w62_056sbr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sst_w62/sst_w62_056sbr.png",
+	"tags": null,
+	"expansionId": 259
 }

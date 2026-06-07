@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《Anniversary》のキャラが2枚以上なら、このカードのパワーを＋8000。",
-		"【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードのパワーを＋2000。』『【永】 大活躍』"
+		"【永】 他のあなたの《Anniversary》のキャラが2枚以上なら、このカードのパワーを＋8000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、次の相手のターンの終わりまで、このカードは次の2つの能力を得る。『【永】 相手のターン中、このカードのパワーを＋2000。』『【永】 大活躍』"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"クロウカード編",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W113-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w113/ccs_w113_086.png",
+	"tags": null,
+	"expansionId": 461
 }

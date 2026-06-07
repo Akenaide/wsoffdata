@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シルーカ「だったら、わたしがあなたを手伝ってあげるわ」",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。",
-		"【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
+		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードがアタックした時、このカードの正面のキャラのレベルが2なら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fgc/W120-025",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgc_w120/fgc_w120_025.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgc_w120/fgc_w120_025.png",
+	"tags": null,
+	"expansionId": 489
 }

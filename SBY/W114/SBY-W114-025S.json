@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 経験 あなたのレベル置場に「のこされた夢」があるなら、このカードのパワーを＋4500し、このカードは『【自】 アンコール ［手札の《思春期》のキャラを1枚控え室に置く］』を得る。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にトリガーアイコンが[CHOICE]のクライマックスがあるなら、あなたは自分の山札を上から3枚まで見て、カードを1枚選び、手札に加え、残りのカードを山札の上に好きな順番で置き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 経験 あなたのレベル置場に「のこされた夢」があるなら、このカードのパワーを＋4500し、このカードは『【自】 アンコール ［手札の《思春期》のキャラを1枚控え室に置く］』を得る。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にトリガーアイコンが[[choice.gif]]のクライマックスがあるなら、あなたは自分の山札を上から3枚まで見て、カードを1枚選び、手札に加え、残りのカードを山札の上に好きな順番で置き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W114-025S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w114/sby_w114_025s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w114/sby_w114_025s.png",
+	"tags": null,
+	"expansionId": 463
 }

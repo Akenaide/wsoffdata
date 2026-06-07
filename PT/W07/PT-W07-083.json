@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どこへなりともお供させていただきます",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたのキャラが2枚以下なら、他のあなたのキャラすべてに、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"暗黒街",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PT/W07-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_083.png",
+	"tags": null,
+	"expansionId": 32
 }

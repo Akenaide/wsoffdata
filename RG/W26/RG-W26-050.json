@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "心配なの",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのキャラすべてに、パワーを＋500。",
 		"【永】 他のあなたのカード名に「初春」か「佐天」を含むキャラすべてに、パワーを＋500。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"超能力"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W26-050",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w26/rg_w26_050.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w26/rg_w26_050.png",
+	"tags": null,
+	"expansionId": 103
 }

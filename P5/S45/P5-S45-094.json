@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "私は、主を務めているイゴール。覚えてくれたまえ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
 		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのメインフェイズの始めに、あなたは相手の手札を見る。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P5/S45-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_094.png",
+	"tags": null,
+	"expansionId": 180
 }

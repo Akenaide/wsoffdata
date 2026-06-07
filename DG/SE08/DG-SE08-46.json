@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヴァルバトーゼ「この戦いはプリニーのためではない!! 俺が約束を果たすための……イワシのための戦いなのだッッ!!!!",
+	"trigger": null,
 	"ability": [
 		"相手に5ダメージを与える。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DG/SE08-46",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_se08/dg_se08_46.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_se08/dg_se08_46.png",
+	"tags": null,
+	"expansionId": 13
 }

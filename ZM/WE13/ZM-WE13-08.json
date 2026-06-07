@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "デルフリンガー「相棒！　俺を使え！」",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ あなたのクライマックス置場に「伝説の使い魔」が置かれた時、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のレベル2以下のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"使い魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_08.png",
+	"tags": null,
+	"expansionId": 77
 }

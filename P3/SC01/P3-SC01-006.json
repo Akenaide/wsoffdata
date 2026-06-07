@@ -15,21 +15,20 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "おめでとう。奇跡は…果された",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードは相手の効果に選ばれない。",
-		"【永】 大活躍 (相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)",
-		"【起】［(6)］ あなたは他の自分と相手のキャラすべてを、手札に戻す。"
+		"【永】 このカードは相手の効果に選ばれない。\u003cbr\u003e【永】 大活躍 (相手がアタックする時、【リバース】していないこのカードが前列の中央の枠にいるなら、かわりに相手はこのカードにフロントアタックする)\u003cbr\u003e【起】［(6)］ あなたは他の自分と相手のキャラすべてを、手札に戻す。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/SC01-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_sc01/p3_sc01_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_sc01/p3_sc01_006.png",
+	"tags": null,
+	"expansionId": 340
 }

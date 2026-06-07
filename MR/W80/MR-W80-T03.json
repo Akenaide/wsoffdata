@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "魔法少女は助け合いってね！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の《魔法》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《魔法》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W80-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w80/mr_w80_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w80/mr_w80_t03.png",
+	"tags": null,
+	"expansionId": 300
 }

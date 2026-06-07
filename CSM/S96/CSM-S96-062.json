@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時か舞台から控え室に置かれた時、あなたは相手のキャラを1枚選び、そのターンの次のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』"
 	],
@@ -24,8 +24,9 @@
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_062.png",
+	"tags": null,
+	"expansionId": 428
 }

@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "じつに　きょうみぶかい",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「りすくませんぱい」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【自】 あなたのクライマックス置場に「実験大成功」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《ぷよ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【永】 あなたのクロック置場に「りすくませんぱい」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr/\u003e【自】 あなたのクライマックス置場に「実験大成功」が置かれた時、前列にこのカードがいるなら、あなたは自分の山札を見て《ぷよ》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ぷよ",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_097.png",
+	"tags": null,
+	"expansionId": 160
 }

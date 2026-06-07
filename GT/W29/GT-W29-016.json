@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "％＆△◎×～！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《タロット》のキャラを1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"タロット",
 		"悪魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_016.png",
+	"tags": null,
+	"expansionId": 106
 }

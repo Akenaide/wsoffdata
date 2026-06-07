@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そう、命懸けよ。\u003cbr /\u003eだからあなたたちも慎重に選んだほうがいい",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「まどか」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"魔法",
 		"お茶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_011.png",
+	"tags": null,
+	"expansionId": 74
 }

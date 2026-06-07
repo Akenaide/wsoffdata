@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《魔法》か《武器》のキャラすべてに、パワーを＋500。",
-		"【自】［(1)］ あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[SHOT]なら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
+		"【永】 他のあなたの、《魔法》か《武器》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［(1)］ あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[[shot.gif]]なら、あなたはコストを払ってよい。そうしたら、あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ND/W67-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nd_w67/nd_w67_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nd_w67/nd_w67_008.png",
+	"tags": null,
+	"expansionId": 268
 }

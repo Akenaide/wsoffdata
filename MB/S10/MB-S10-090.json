@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これでも忙しい身でさ。\u003cbr /\u003e縁があったらまた会いましょう",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、相手は自分の山札を上から1枚見て、山札の上か下に置く。"
 	],
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_090.png",
+	"tags": null,
+	"expansionId": 48
 }

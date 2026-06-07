@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "誰だってそうですよ……一緒にいたい人がいて、やりたいことがあるんです……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの「最後の戦い 勇者」がいるなら、このカードのパワーを＋4000。",
-		"【自】 このカードがアタックした時、あなたは他の自分の「最後の戦い 勇者」を1枚選び、そのターン中、パワーを＋2500。"
+		"【永】 あなたのターン中、他のあなたの「最後の戦い 勇者」がいるなら、このカードのパワーを＋4000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の「最後の戦い 勇者」を1枚選び、そのターン中、パワーを＋2500。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_020.png",
+	"tags": null,
+	"expansionId": 260
 }

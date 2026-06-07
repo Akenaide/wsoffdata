@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "立ち向かうって決めたんだ。\u003cbr /\u003eだから…今、この時を精一杯…",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「対峙の時 シャナ」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「対峙の時 シャナ」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"宝具"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_017.png",
+	"tags": null,
+	"expansionId": 58
 }

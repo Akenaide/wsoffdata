@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "明日になればきっと見つかるから\u003cbr /\u003e今、目を覚まして",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/S22-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_s22/pd_s22_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_s22/pd_s22_041.png",
+	"tags": null,
+	"expansionId": 93
 }

@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロック置場に「人の営み ヘスティア」があるなら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。"
+		"【永】 あなたのクロック置場に「人の営み ヘスティア」があるなら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの下から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"ファミリア",
 		"神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDM/S88-083S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_083s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddm_s88/ddm_s88_083s.png",
+	"tags": null,
+	"expansionId": 367
 }

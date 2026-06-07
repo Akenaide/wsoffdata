@@ -15,21 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "かっ、かわいいなどと、どういうつもりだ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「乙女な反応 狭霧」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「瞳の中の私」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）",
-		""
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「乙女な反応 狭霧」を1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「瞳の中の私」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）\u003cbr\u003e"
 	],
 	"specialAttrib": [
 		"忍",
 		"ゆらぎ荘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "YYS/W61-079SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/y/yys_w61/yys_w61_079sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/y/yys_w61/yys_w61_079sp.png",
+	"tags": null,
+	"expansionId": 249
 }

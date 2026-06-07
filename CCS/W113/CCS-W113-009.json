@@ -15,21 +15,21 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《Anniversary》のキャラの枚数に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラが4枚以上なら、あなたは自分の山札の上から1枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋4500。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上からＸ枚まで見て、カードを1枚まで選び、手札に加え、残りのカードを控え室に置く。Ｘはあなたの《Anniversary》のキャラの枚数に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラが4枚以上なら、あなたは自分の山札の上から1枚までを、ストック置場に置き、そのターン中、このカードのパワーを＋4500。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"さくらカード編",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W113-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w113/ccs_w113_009.png",
+	"tags": null,
+	"expansionId": 461
 }

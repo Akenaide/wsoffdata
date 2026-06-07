@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いないの・・・・いなくなっちゃたの・・・・",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは自分の《竜》のキャラを１枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-39",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_39.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_39.png",
+	"tags": null,
+	"expansionId": 68
 }

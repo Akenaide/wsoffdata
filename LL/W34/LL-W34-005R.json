@@ -15,19 +15,19 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】 このカードがアタックした時、クライマックス置場に「振り返る思い出」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、クライマックス置場に「振り返る思い出」があるなら、あなたは自分の控え室の《音楽》のキャラを1枚まで選び、ストック置場に置き、そのターン中、このカードのパワーを＋3000。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W34-005R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w34/ll_w34_005r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w34/ll_w34_005r.png",
+	"tags": null,
+	"expansionId": 134
 }

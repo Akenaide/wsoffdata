@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "この曲は今　一分とちょっと\u003cbr\u003eあなたは今　生まれて何年？",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"パジャマ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PD/SE32-22",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_se32/pd_se32_22.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_se32/pd_se32_22.png",
+	"tags": null,
+	"expansionId": 211
 }

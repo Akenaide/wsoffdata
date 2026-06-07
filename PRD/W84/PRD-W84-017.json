@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "新しく覚えた魔法だったけど上手くいったっぽい？",
+	"trigger": null,
 	"ability": [
-		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札とレベル置場のカードを1枚ずつ選び、入れ替える。",
-		"【自】 このカードがアタックした時、あなたは自分の《ランドソル》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札とレベル置場のカードを1枚ずつ選び、入れ替える。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《ランドソル》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W84-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w84/prd_w84_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w84/prd_w84_017.png",
+	"tags": null,
+	"expansionId": 320
 }

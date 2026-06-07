@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "オラ、ぼうしち",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたのカード名に「しんのすけ」を含むキャラのバトル相手が【リバース】した時、そのターン中、このカードのパワーを＋1500。"
 	],
 	"specialAttrib": [
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_090.png",
+	"tags": null,
+	"expansionId": 114
 }

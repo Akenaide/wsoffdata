@@ -1,6 +1,6 @@
 {
 	"set": "KGL",
-	"setName": "かぐや様は告らせたい？～天才たちの恋愛頭脳戦～",
+	"setName": "かぐや様は告らせたい？\u003cs\u003e～天才たちの恋愛頭脳戦～\u003c/s\u003e",
 	"side": "S",
 	"release": "95",
 	"id": "097",
@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《秀知院》のキャラがいないなら、手札からプレイできない。このカードを思い出にする。",
-		"あなたは自分の控え室の、カード名に「かぐや」を含むキャラと「御行」を含むキャラを別々に1枚ずつ選び、思い出にし、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのカードを手札に戻し、このカードを控え室に置く。"
+		"このカードは、あなたの《秀知院》のキャラがいないなら、手札からプレイできない。このカードを思い出にする。\u003cbr\u003eあなたは自分の控え室の、カード名に「かぐや」を含むキャラと「御行」を含むキャラを別々に1枚ずつ選び、思い出にし、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場のそれらのカードを手札に戻し、このカードを控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "KGL/S95-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kgl_s95/kgl_s95_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kgl_s95/kgl_s95_097.png",
+	"tags": null,
+	"expansionId": 394
 }

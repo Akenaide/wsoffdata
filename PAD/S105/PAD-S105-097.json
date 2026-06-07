@@ -10,21 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードを思い出にする。",
-		"あなたは自分の山札の上から1枚を公開する。そのカードが青のキャラかイベントなら手札に加える。（そうでないなら元に戻す）",
-		"【自】 記憶 ［(2) 他のあなたの思い出置場の「魔輝の神王妃ヘラ」を2枚とこのカードを控え室に置く］ 思い出置場にこのカードがあるなら、あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+		"このカードを思い出にする。\u003cbr\u003eあなたは自分の山札の上から1枚を公開する。そのカードが青のキャラかイベントなら手札に加える。（そうでないなら元に戻す）\u003cbr\u003e【自】 記憶 ［(2) 他のあなたの思い出置場の「魔輝の神王妃ヘラ」を2枚とこのカードを控え室に置く］ 思い出置場にこのカードがあるなら、あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PAD/S105-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pad_s105/pad_s105_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pad_s105/pad_s105_097.png",
+	"tags": null,
+	"expansionId": 424
 }

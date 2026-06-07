@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "人助けが似合う柄ではありませんが、本気で戦ってあげる",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのドローフェイズの始めに、あなたは他の自分の前列のレベル1以下のキャラを1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_068.png",
+	"tags": null,
+	"expansionId": 48
 }

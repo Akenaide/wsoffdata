@@ -15,17 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのトリガーアイコンが[DRAW]のCXがCX置場に置かれた時、そのターン中、このカードのパワーを＋2500し、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
+		"【自】 あなたのトリガーアイコンが[[draw.gif]]のCXがCX置場に置かれた時、そのターン中、このカードのパワーを＋2500し、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"おっぱい"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-091S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_091s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_091s.png",
+	"tags": null,
+	"expansionId": 548
 }

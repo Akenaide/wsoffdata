@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "倒せないモンスターがいたら、攻略サイトで倒し方を学んで……",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。",
-		"【起】［あなたの、《アバター》か《ネット》のキャラを2枚【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。"
+		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［あなたの、《アバター》か《ネット》のキャラを2枚【レスト】する］ あなたは自分のレベル置場のカードと控え室のカードを1枚ずつ選び、入れ替える。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/S59-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_053.png",
+	"tags": null,
+	"expansionId": 245
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "て、転校生の鳳ちはやです。よろしくお願いしますっ",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
-		"【永】 あなたのキャラすべてがカード名に「朱音」か「ちはや」か「咲夜」を含むなら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
+		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。\u003cbr\u003e【永】 あなたのキャラすべてがカード名に「朱音」か「ちはや」か「咲夜」を含むなら、このカードのパワーを＋500し、このカードは『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を得る。"
 	],
 	"specialAttrib": [
 		"お菓子",
 		"オカルト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RW/W48-059",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w48/rw_w48_059.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w48/rw_w48_059.png",
+	"tags": null,
+	"expansionId": 186
 }

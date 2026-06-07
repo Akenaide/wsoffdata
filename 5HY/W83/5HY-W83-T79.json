@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ん…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《五つ子》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《五つ子》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の《五つ子》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《五つ子》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"真面目"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-T79",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_t79.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_t79.png",
+	"tags": null,
+	"expansionId": 308
 }

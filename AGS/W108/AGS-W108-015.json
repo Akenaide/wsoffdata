@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのすべての領域のトリガーアイコンが[CHOICE]を与える。",
-		"【自】 あなたのトリガーアイコンに[CHOICE]があるカードがトリガーした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 他のあなたのすべての領域のトリガーアイコンが[[choice.gif]]のクライマックスのトリガーアイコンに[[soul.gif]]を与える。\u003cbr\u003e【自】 あなたのトリガーアイコンに[[soul.gif]]があるカードがトリガーした時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"アリスギア",
 		"アクトレス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AGS/W108-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ags_w108/ags_w108_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ags_w108/ags_w108_015.png",
+	"tags": null,
+	"expansionId": 446
 }

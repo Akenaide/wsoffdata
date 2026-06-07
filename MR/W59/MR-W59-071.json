@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ノープロブレム！こっからが本番よねっ！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのアタックフェイズの始めに、あなたは自分の前列のキャラを1枚選び、自分の前列のキャラすべてのレベルがそのキャラと同じなら、そのターン中、このカードのパワーを＋2000し、このカードは次の能力を得る。『【永】 このカードのバトル中、相手は『助太刀』を手札からプレイできない。』"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"バランス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MR/W59-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mr_w59/mr_w59_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mr_w59/mr_w59_071.png",
+	"tags": null,
+	"expansionId": 232
 }

@@ -15,21 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「アビドス高等学校2年生 ノノミ」がいないなら、あなたの[SHOT]の効果で与えるダメージを＋1。",
-		"【永】 応援 このカードの前のあなたの《キヴォトス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのトリガーアイコンが[SHOT]のCXがCX置場に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル1以上のキャラなら手札に加える。（そうでないなら元に戻す）"
+		"【永】 他のあなたの「アビドス高等学校2年生 ノノミ」がいないなら、あなたの[[shot.gif]]の効果で与えるダメージを＋1。\u003cbr\u003e【永】 応援 このカードの前のあなたの《キヴォトス》のキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのトリガーアイコンが[[shot.gif]]のCXがCX置場に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードがレベル1以上のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"対策委員会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W129-016S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_016s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w129/bav_w129_016s.png",
+	"tags": null,
+	"expansionId": 530
 }

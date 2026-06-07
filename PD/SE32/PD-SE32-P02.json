@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "空の色も　風のにおいも \u003cbr\u003e海の深さも　あなたの声も\u003cbr\u003eワタシは知らない　だけど歌を\u003cbr\u003e歌をうたう　ただ声をあげて",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの控え室の異なるカード名のクライマックスの枚数×1000に等しい。異なるカード名のクライマックスが6枚以上なら、あなたは自分のクロックを1枚選び、控え室に置いてよい。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PD/SE32-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pd_se32/pd_se32_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pd_se32/pd_se32_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

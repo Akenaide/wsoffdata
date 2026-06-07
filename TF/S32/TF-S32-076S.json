@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "じ……じじょ…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのカード名に「テラフォーマー」を含むキャラすべてに、パワーを＋1500。",
-		"【自】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたのクライマックス置場に「BLACK BEETLE 死者と蟲」が置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下のカード名に「テラフォーマー」を含むキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
+		"【永】 他のあなたのカード名に「テラフォーマー」を含むキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置き、このカードを【レスト】する］ あなたのクライマックス置場に「BLACK BEETLE 死者と蟲」が置かれた時、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル2以下のカード名に「テラフォーマー」を含むキャラを1枚まで選び、舞台の好きな枠に置き、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"虫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TF/S32-076S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tf_s32/tf_s32_076s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tf_s32/tf_s32_076s.png",
+	"tags": null,
+	"expansionId": 135
 }

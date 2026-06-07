@@ -15,17 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋3000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の手札の「たこ焼き」を1枚まで選び、レベル条件と色条件を満たしているなら、コストを払わずにプレイしてよい。"
+		"【永】 あなたのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の手札の「たこ焼き」を1枚まで選び、レベル条件と色条件を満たしているなら、コストを払わずにプレイしてよい。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LSP/W92-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lsp_w92/lsp_w92_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lsp_w92/lsp_w92_009.png",
+	"tags": null,
+	"expansionId": 368
 }

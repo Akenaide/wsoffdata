@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お別れの挨拶は終わった？",
+	"trigger": null,
 	"ability": [
 		"あなたは相手の控え室のカードを1枚選び、思い出にする。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/W02-070",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_070.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_070.png",
+	"tags": null,
+	"expansionId": 2
 }

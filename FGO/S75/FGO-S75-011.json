@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "理解してくれないのなら！褒めてくれないのならっ……藤丸っ‼アナタであろうと殺すわ‼",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの後列の、《カルデア》か《バビロニア》のキャラ1枚につき、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「女神の矜持」があるなら、あなたは自分の山札を上から3枚まで見て、《カルデア》か《バビロニア》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 他のあなたの後列の、《カルデア》か《バビロニア》のキャラ1枚につき、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「女神の矜持」があるなら、あなたは自分の山札を上から3枚まで見て、《カルデア》か《バビロニア》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"バビロニア",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S75-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s75/fgo_s75_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s75/fgo_s75_011.png",
+	"tags": null,
+	"expansionId": 298
 }

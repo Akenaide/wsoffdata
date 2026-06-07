@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だだっ、ダメよっ！\u003cbr /\u003e杉並様以外の男の前で、そんな恰好するなんて",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのストックが3枚以下なら、あなたはそのキャラを山札の上に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"新聞",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC3/W23-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w23/dc3_w23_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w23/dc3_w23_069.png",
+	"tags": null,
+	"expansionId": 90
 }

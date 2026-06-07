@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すずか「……これですか？」",
+	"trigger": null,
 	"ability": [
 		"【自】［(2) このカードを思い出にする］ バトル中のこのカードが【リバース】した時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《本》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"本",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_028.png",
+	"tags": null,
+	"expansionId": 44
 }

@@ -15,16 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "オラぁ、かざまじゃなくて、かずまだぁ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の、《家族》か《和服》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S28-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s28/cs_s28_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s28/cs_s28_084.png",
+	"tags": null,
+	"expansionId": 114
 }

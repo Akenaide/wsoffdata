@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《明治剣客浪漫譚》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《明治剣客浪漫譚》のキャラの枚数×500に等しい。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の《明治剣客浪漫譚》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはあなたの《明治剣客浪漫譚》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"師範代"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_t04.png",
+	"tags": null,
+	"expansionId": 478
 }

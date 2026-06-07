@@ -15,15 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋500。",
-		"【自】【CXコンボ】［あなたのクライマックス置場の「自然の番人」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《ホロライブ》のキャラかイベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 他のあなたの《ホロライブ》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】【CXコンボ】［あなたのクライマックス置場の「自然の番人」を1枚控え室に置く］ あなたのアンコールステップの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から4枚まで見て、《ホロライブ》のキャラかイベントを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": [
+		"ホロライブ",
+		"ホロライブEnglish-Council-"
+	],
+	"version": "4",
 	"cardcode": "HOL/W104-044S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hol_w104/hol_w104_044s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hol_w104/hol_w104_044s.png",
+	"tags": null,
+	"expansionId": 419
 }

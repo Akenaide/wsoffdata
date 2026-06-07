@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お姉たんたち、がんばってね！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を2枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以下の《タロット》のキャラを1枚まで選び、後列の好きな枠に置き、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"ホムンクルス",
 		"タロット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_018.png",
+	"tags": null,
+	"expansionId": 106
 }

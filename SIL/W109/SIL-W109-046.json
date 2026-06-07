@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ウチの趣味は占いなんよ。占ってあげよか？",
+	"trigger": null,
 	"ability": [
 		"【自】［他のあなたの舞台の《音楽》のキャラを1枚控え室に置く］ このカードがアタックした時、他のあなたの《音楽》のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を公開する。そのカードがレベル1以下のキャラなら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SIL/W109-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sil_w109/sil_w109_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sil_w109/sil_w109_046.png",
+	"tags": null,
+	"expansionId": 448
 }

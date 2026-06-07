@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "行くぞ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、相手の「“抗える者たち”岡部 倫太郎」がいて、すべてのプレイヤーが認めたなら、すべてのプレイヤーは『エル・プサイ・コングルゥ』と宣言する。"
 	],
@@ -24,8 +24,9 @@
 		"ラボメン",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-T06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_t06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_t06.png",
+	"tags": null,
+	"expansionId": 242
 }

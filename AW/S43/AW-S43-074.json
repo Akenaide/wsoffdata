@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "スカーレット・レイン「くれぐれもドジ踏んで、転げ落ちないよう注意願いまーす」",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの、《アバター》か《ネット》のキャラがいないなら、手札からプレイできない。",
-		"あなたは相手の後列のコスト1以下のキャラを1枚選び、控え室に置く。"
+		"このカードは、あなたの、《アバター》か《ネット》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは相手の後列のコスト1以下のキャラを1枚選び、控え室に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "AW/S43-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_074.png",
+	"tags": null,
+	"expansionId": 176
 }

@@ -15,18 +15,18 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分の、《動物》か《勇者》のキャラを1枚選び、そのターン中、パワーを＋500。",
-		"【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 他のあなたのバトル中のキャラが【リバース】した時、あなたは自分の、《動物》か《勇者》のキャラを1枚選び、そのターン中、パワーを＋500。\u003cbr/\u003e【起】 集中 ［(1) あなたのキャラを2枚【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"動物",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE23-26SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we23/dd_we23_26sp_2.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we23/dd_we23_26sp_2.png",
+	"tags": null,
+	"expansionId": 153
 }

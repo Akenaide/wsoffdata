@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ボク達、待ってるからね",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 あなたのアタックフェイズの始めに、あなたの、クライマックス置場か控え室に「迷える手を引いて」があるなら、そのターン中、このカードのパワーを＋7500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"25時、ナイトコードで。"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S109-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s109/pjs_s109_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s109/pjs_s109_101.png",
+	"tags": null,
+	"expansionId": 455
 }

@@ -1,6 +1,6 @@
 {
 	"set": "PI",
-	"setName": "Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
+	"setName": " Fate/kaleid liner プリズマ☆イリヤ ドライ!!",
 	"side": "S",
 	"release": "E31",
 	"id": "14",
@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どこに行けば会えるのかなぁ",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札を見て「泥の英霊」を2枚まで選び、舞台の別々の枠に置き、その山札をシャッフルする。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の山札を見て「泥の英霊」を2枚まで選び、舞台の別々の枠に置き、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"人形"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PI/SE31-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pi_se31/pi_se31_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pi_se31/pi_se31_14.png",
+	"tags": null,
+	"expansionId": 202
 }

@@ -10,20 +10,21 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『一つに収束された月の魔力は、いかなる魔法をも解除する力を持っているの』",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の山札を見てレベル3以上のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
 		"あなたは自分のクロックの上から1枚を、控え室に置いてよい。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FT/S09-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s09/ft_s09_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s09/ft_s09_096.png",
+	"tags": null,
+	"expansionId": 43
 }

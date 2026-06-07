@@ -15,21 +15,20 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "そのすごそうなキビダンゴ、亜美にくれんの？　今ならナイショのお宝もつけちゃうって！？　……ふっふ～ん♪",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）",
-		"【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以下ならストック置場に置く。（CXのレベルは0として扱う。そうでないなら元に戻す）\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、相手の舞台のキャラのいない他の枠に動かす。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IAS/SE52-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ias_se52/ias_se52_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ias_se52/ias_se52_13.png",
+	"tags": null,
+	"expansionId": 522
 }

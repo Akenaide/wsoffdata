@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "これで予言書に示された段取りは全て完了だ。",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"だじゃれ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P3/S01-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_083.png",
+	"tags": null,
+	"expansionId": 4
 }

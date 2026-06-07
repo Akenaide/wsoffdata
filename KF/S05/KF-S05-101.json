@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そのまま……死ね！",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"オロチ",
 		"神器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_101.png",
+	"tags": null,
+	"expansionId": 26
 }

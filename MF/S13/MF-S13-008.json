@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フ、やはり来たわね、あの娘達のフォールドソングに導かれて",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。",
 		"【自】 絆／「銀河の妖精 シェリル・ノーム」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「銀河の妖精 シェリル・ノーム」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"メガネ",
 		"マネージャー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_008.png",
+	"tags": null,
+	"expansionId": 61
 }

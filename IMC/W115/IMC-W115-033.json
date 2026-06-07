@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ロックバンドのお仕事、最初は戸惑いましたが…息を合わせた練習、順調ですよ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。",
-		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置いてよい。"
+		"【永】 他のあなたのキャラが1枚以下なら、他のあなたのキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"超☆風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_033.png",
+	"tags": null,
+	"expansionId": 477
 }

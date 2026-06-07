@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "やっ あっ だめ…っ",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの、《動物》か《霊》のキャラがいないなら、手札からプレイできない。あなたは自分の山札を見てクライマックスを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TL/W42-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_097.png",
+	"tags": null,
+	"expansionId": 163
 }

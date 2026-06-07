@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そう・・・。たまになら",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(1) このカードを控え室に置く］ あなたのアンコールステップの始めに、このカードが【レスト】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「水着のハルヒ＆長門」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"スイカ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-T13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_t13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_t13.png",
+	"tags": null,
+	"expansionId": 15
 }

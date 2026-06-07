@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "よーし、次は友希那さんを笑わせるぞー！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの下にマーカーがないなら、このカードのパワーを－4500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「“クリスタルソング”湊友希那」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
+		"【永】 このカードの下にマーカーがないなら、このカードのパワーを－4500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「“クリスタルソング”湊友希那」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_096.png",
+	"tags": null,
+	"expansionId": 255
 }

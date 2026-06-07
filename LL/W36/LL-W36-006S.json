@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "にこみたいに要領がよくないと、短時間で一汁三菜の食事を作るのは難しいわね",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのカード名に「にこ」を含むキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【起】［あなたの《音楽》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
+		"【永】 他のあなたのカード名に「にこ」を含むキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【起】［あなたの《音楽》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』"
 	],
 	"specialAttrib": [
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-006S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_006s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_006s.png",
+	"tags": null,
+	"expansionId": 142
 }

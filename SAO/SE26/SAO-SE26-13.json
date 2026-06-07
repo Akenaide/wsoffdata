@@ -1,6 +1,6 @@
 {
 	"set": "SAO",
-	"setName": "ソードアート・オンラインⅡ Vol.2",
+	"setName": " ソードアート・オンラインⅡ Vol.2",
 	"side": "S",
 	"release": "E26",
 	"id": "13",
@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おっけー！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「アスナ」か「スリーピング・ナイツ」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
+		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。\u003cbr/\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「アスナ」か「スリーピング・ナイツ」を含むキャラを1枚選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE26-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se26/sao_se26_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se26/sao_se26_13.png",
+	"tags": null,
+	"expansionId": 146
 }

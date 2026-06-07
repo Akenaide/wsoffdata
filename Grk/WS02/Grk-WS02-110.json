@@ -10,21 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ひなにもこんど、ないしょのこじん指導してね？",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 次の2つの効果のうちあなたが選んだ1つを行う。",
-		"『あなたの《電撃文庫》のキャラがいるなら、あなたは自分の控え室のカード名に「智花」か「真帆」か「紗季」か「愛莉」か「ひなた」を含むキャラを1枚選び、手札に戻す。』",
-		"『［(3)］ あなたの、カード名に「智花」を含むキャラと「真帆」を含むキャラと「紗季」を含むキャラと「愛莉」を含むキャラと「ひなた」を含むキャラが別々に1枚ずついるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。』"
+		"【カウンター】 次の2つの効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたの《電撃文庫》のキャラがいるなら、あなたは自分の控え室のカード名に「智花」か「真帆」か「紗季」か「愛莉」か「ひなた」を含むキャラを1枚選び、手札に戻す。』\u003cbr\u003e『［(3)］ あなたの、カード名に「智花」を含むキャラと「真帆」を含むキャラと「紗季」を含むキャラと「愛莉」を含むキャラと「ひなた」を含むキャラが別々に1枚ずついるなら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、【レスト】する。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Grk/WS02-110",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/grk_ws02_110.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/grk_ws02_110.png",
+	"tags": null,
+	"expansionId": 439
 }

@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いつの日か私の役目がなくなるような、そんな平和な世界になりますように……",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのトリガーアイコンに[SOUL]があるカードがトリガーした時、あなたは自分の、《スニーカー文庫》か《冒険者》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の、《スニーカー文庫》か《冒険者》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【自】 あなたのトリガーアイコンに[[soul.gif]]があるカードがトリガーした時、あなたは自分の、《スニーカー文庫》か《冒険者》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の、《スニーカー文庫》か《冒険者》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"冒険者",
 		"盗賊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sks/W123-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sxx_w123/sks_w123_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sxx_w123/sks_w123_016.png",
+	"tags": null,
+	"expansionId": 510
 }

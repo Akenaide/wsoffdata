@@ -15,18 +15,18 @@
 	"rarity": "SPMa",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋2000。",
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
+		"【永】 あなたのターン中、このカードのパワーを＋2000。\u003cbr\u003e【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"Poppin'Party"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-059SPMa",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_059spma.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_059spma.png",
+	"tags": null,
+	"expansionId": 255
 }

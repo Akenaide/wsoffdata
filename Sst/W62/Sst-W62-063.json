@@ -15,21 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "――――――――っ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【起】［このカードを【レスト】する］ あなたは自分の、「澪と主従契約」か「柚希と主従契約」を1枚選び、そのターン中、パワーを＋2000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の、「澪と主従契約」か「柚希と主従契約」を1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"スニーカー文庫",
 		"魔法",
 		"勇者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Sst/W62-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sst_w62/sst_w62_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sst_w62/sst_w62_063.png",
+	"tags": null,
+	"expansionId": 259
 }

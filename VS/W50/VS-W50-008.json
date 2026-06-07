@@ -15,21 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ふうー",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《格闘》のキャラすべてに、パワーを＋1000。",
-		"【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《覇王流》のキャラが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。",
-		"【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[TREASURE]なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
+		"【永】 他のあなたの《格闘》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 この能力は1ターンにつき2回まで発動する。他のあなたの《覇王流》のキャラが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでクライマックスがでた時、そのカードのトリガーアイコンが[[treasure.gif]]なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"格闘",
 		"覇王流"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_008.png",
+	"tags": null,
+	"expansionId": 200
 }

@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "異常な事件は好きよ。\u003cbr /\u003eそれがどのようなものであろうとも",
+	"trigger": null,
 	"ability": [
 		"集中 あなたは自分のキャラを1枚選び、そのターン中、パワーを＋5000。",
 		"相手は1か2か3を宣言する。あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードの《オカルト》のキャラの枚数が相手の宣言した数と同じなら、あなたは1枚引く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "RW/W15-027",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rw_w15/rw_w15_027.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rw_w15/rw_w15_027.png",
+	"tags": null,
+	"expansionId": 65
 }

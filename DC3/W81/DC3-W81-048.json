@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ありがとうございます。\u003cbr\u003eじゃあ、お父さん。お母さん。これからもよろしくね！",
+	"trigger": null,
 	"ability": [
-		"あなたは自分の山札を上から4枚まで見て、《新聞》か《スポーツ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。このカードを思い出にする。",
-		"【永】 記憶 あなたのターン中、思い出置場にこのカードがあるなら、あなたの、《新聞》か《スポーツ》のキャラすべてに、パワーを＋500。"
+		"あなたは自分の山札を上から4枚まで見て、《新聞》か《スポーツ》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。このカードを思い出にする。\u003cbr\u003e【永】 記憶 あなたのターン中、思い出置場にこのカードがあるなら、あなたの、《新聞》か《スポーツ》のキャラすべてに、パワーを＋500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DC3/W81-048",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc3_w81/dc3_w81_048.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc3_w81/dc3_w81_048.png",
+	"tags": null,
+	"expansionId": 310
 }

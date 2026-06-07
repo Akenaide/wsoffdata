@@ -15,21 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "みんなも、一緒に盛り上がろう！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《音楽》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。",
-		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《音楽》なら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。\u003cbr\u003e【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー"
+		"バーチャル・シンガー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S91-T53",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s91/pjs_s91_t53.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s91/pjs_s91_t53.png",
+	"tags": null,
+	"expansionId": 378
 }

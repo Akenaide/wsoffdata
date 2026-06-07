@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "天才になんかなったところで、得られるのは賞賛じゃなくて敵意と嫉妬だけよ？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】［(1) このカードを思い出にする］ 他のあなたの《グリザイア》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】［(1) このカードを思い出にする］ 他のあなたの《グリザイア》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"天才"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_078.png",
+	"tags": null,
+	"expansionId": 285
 }

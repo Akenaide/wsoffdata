@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "我等が主の病は消える…\u003cbr\u003e少なくとも、進みは止まる",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。"
 	],
@@ -24,8 +24,9 @@
 		"使い魔",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W32-116",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w32/n2_w32_116.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w32/n2_w32_116.png",
+	"tags": null,
+	"expansionId": 127
 }

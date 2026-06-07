@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "オビ=ワン「フォースは君と共にあるのだ。いかなる時も」",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードはサイドアタックできない。",
 		"【永】 あなたの後列のキャラが1枚以下なら、このカードはアタックできない。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"新たなる希望"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-108",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_108.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_108.png",
+	"tags": null,
+	"expansionId": 199
 }

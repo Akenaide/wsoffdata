@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "貴様…僕は神だぞ？",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"死",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_035.png",
+	"tags": null,
+	"expansionId": 119
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私　時々考え込むというか　ぼ～っとする事がありまして",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたは1枚引く］ あなたのメインフェイズを終了しエンドフェイズに進む。"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"委員長"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-106",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_106.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_106.png",
+	"tags": null,
+	"expansionId": 12
 }

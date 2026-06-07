@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "模倣する魔法",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《冒険者》か《魔法》のキャラが4枚以上なら、このカードのパワーを＋4500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"魔族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S128-038S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s128/sfn_s128_038s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s128/sfn_s128_038s.png",
+	"tags": null,
+	"expansionId": 545
 }

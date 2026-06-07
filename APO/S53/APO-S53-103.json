@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "後は任せたよ、マスター！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-103",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_103.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_103.png",
+	"tags": null,
+	"expansionId": 228
 }

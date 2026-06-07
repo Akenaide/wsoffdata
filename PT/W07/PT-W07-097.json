@@ -10,20 +10,21 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "祈りも、贖罪も、ありはしないわ。死は全ての終わり",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの青のキャラが2枚以下なら、手札からプレイできない。",
 		"あなたは相手の前列のレベル2以下のキャラを1枚選び、山札の下に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "PT/W07-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pt_w07/pt_w07_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pt_w07/pt_w07_097.png",
+	"tags": null,
+	"expansionId": 32
 }

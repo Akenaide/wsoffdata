@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はわわわわ……こんな時に探照灯つけるなんて！",
+	"trigger": null,
 	"ability": [
 		"【起】［(3)］ そのターン中、このカードのパワーを＋7500し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラをストック置場に置いてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-015P",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_015p.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_015p.png",
+	"tags": null,
+	"expansionId": 113
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いえ、嬉しいですよ？　わたしの好きな物、わかっててそれにしてくれたんですから",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードのパワーを＋Ｘ。Ｘはこのカードの正面のキャラのレベル×2000に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-074",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_074.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_074.png",
+	"tags": null,
+	"expansionId": 131
 }

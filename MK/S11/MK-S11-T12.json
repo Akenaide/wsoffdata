@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "次はわたくしが…\u003cbr /\u003eこのアルセーヌが参りましょう！",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"怪盗",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_t12_2.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_t12_2.png",
+	"tags": null,
+	"expansionId": 55
 }

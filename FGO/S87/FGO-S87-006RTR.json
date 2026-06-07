@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "006RTR",
@@ -15,19 +15,18 @@
 	"rarity": "RTR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私は今度こそ望みを果たす。最後の一瞬まで王に仕えるという望みを",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードは次の能力を得る。『【永】 あなたのクロックが3枚以上なら、このカードのパワーを＋3000。』",
-		"【永】 あなたのクロックが3枚以下なら、このカードのパワーを＋3000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「転輪する勝利の剣」があるなら、あなたは自分の控え室のレベルＸ以下の、《カルデア》か《キャメロット》のキャラを1枚選び、手札に戻してよい。Ｘはあなたのキャラの下のマーカーの枚数の合計に等しい。"
+		"【永】 このカードの下にマーカーがあるなら、このカードは次の能力を得る。『【永】 あなたのクロックが3枚以上なら、このカードのパワーを＋3000。』\u003cbr\u003e【永】 あなたのクロックが3枚以下なら、このカードのパワーを＋3000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「転輪する勝利の剣」があるなら、あなたは自分の控え室のレベルＸ以下の、《カルデア》か《キャメロット》のキャラを1枚選び、手札に戻してよい。Ｘはあなたのキャラの下のマーカーの枚数の合計に等しい。"
 	],
 	"specialAttrib": [
 		"キャメロット",
 		"円卓の騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-006RTR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_006rtr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_006rtr.png",
+	"tags": null,
+	"expansionId": 363
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "綺礼「…お前ならばあの遠坂邸の\u003cbr /\u003e要塞のような魔術結界も恐るるに足りぬだろう」　",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
 		"【永】 他のあなたの「“妄想幻像”アサシン」すべてに、パワーを＋500。"
@@ -25,8 +25,9 @@
 		"サーヴァント",
 		"仮面"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/SE13-24",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_se13/fz_se13_24.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_se13/fz_se13_24.png",
+	"tags": null,
+	"expansionId": 73
 }

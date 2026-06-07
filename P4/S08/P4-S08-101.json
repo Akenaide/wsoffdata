@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "イゴール「貴方が支払うべき代価は１つ…」",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの効果で選んだキャラがいるなら、このカードのパワーを＋2000。",
 		"【自】 このカードが舞台に置かれた時、あなたは他の自分のキャラを1枚選ぶ。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/S08-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_s08/p4_s08_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_s08/p4_s08_101.png",
+	"tags": null,
+	"expansionId": 26
 }

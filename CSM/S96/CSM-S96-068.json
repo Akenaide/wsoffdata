@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "新幹線内で銃撃にあった。死体があるから片付けさせて",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《デビルハンター》か《悪魔》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 経験 ［手札のカード名に「デンジ」か「チェンソーマン」か「マキマ」を含むキャラを3枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場に黄のカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたは3枚まで引く。"
+		"【永】 他のあなたの、《デビルハンター》か《悪魔》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 経験 ［手札のカード名に「デンジ」か「チェンソーマン」か「マキマ」を含むキャラを3枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたのレベル置場に黄のカードがあるなら、あなたはコストを払ってよい。そうしたら、あなたは3枚まで引く。"
 	],
 	"specialAttrib": [
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_068.png",
+	"tags": null,
+	"expansionId": 428
 }

@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "パーン「とにかく、戦場ではオレたちが守るから安心していてくれ」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは相手のキャラを1枚選び、【レスト】する。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Sls/W62-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sls_w62/sls_w62_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sls_w62/sls_w62_046.png",
+	"tags": null,
+	"expansionId": 259
 }

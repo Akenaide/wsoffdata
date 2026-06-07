@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "力仕事ならあたしに任せてって言ったでしょ",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《青春》のキャラがいるなら、このカードのパワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《青春》のキャラを1枚選び、手札に戻してよい。"
+		"【永】 あなたのターン中、他のあなたの《青春》のキャラがいるなら、このカードのパワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは他の自分の《青春》のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"青春",
 		"マケイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_008.png",
+	"tags": null,
+	"expansionId": 520
 }

@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《リベンジ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×1000に等しい。",
-		"【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、次の相手のターンの終わりまで、レベルを＋1。"
+		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の《リベンジ》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはそのキャラのレベル×1000に等しい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは他のキャラを1枚選び、次の相手のターンの終わりまで、レベルを＋1。"
 	],
 	"specialAttrib": [
 		"リベンジ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TRV/S92-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_060.png",
+	"tags": null,
+	"expansionId": 389
 }

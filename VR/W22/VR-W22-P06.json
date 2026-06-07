@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あかね「楽しいね、わかばちゃん！」",
+	"trigger": null,
 	"ability": [
 		"【自】 記憶 思い出置場にこのカードがあるなら、あなたか相手のクロックが、自分のカードの効果で控え室に置かれた時、そのプレイヤーは自分のストックの上から2枚を、控え室に置いてよい。そうしないなら、そのプレイヤーは自分の山札の上から1枚を、クロック置場に置く。",
 		"【自】［(1) このカードを思い出にする］ バトル中のこのカードが【リバース】した時、他のあなたの《鍵》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
@@ -25,8 +25,9 @@
 		"鍵",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VR/W22-P06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_p06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_p06.png",
+	"tags": null,
+	"expansionId": 12
 }

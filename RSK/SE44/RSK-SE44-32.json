@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "重要なのは味じゃないんだな～冒険での、貴重なタンパク質なんよ",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスフェイズの始めに、あなたは自分の、《メルヴァニア》か《リアル》のキャラを1枚選び、次の相手のターンの終わりまで、次の能力を与える。『【自】 相手のアタックフェイズの始めに、あなたは自分の山札の上から1枚を、控え室に置いてよい。そのカードが《メルヴァニア》か《リアル》のキャラなら、あなたはこのカードを前列のキャラのいない枠に動かしてよい。』"
 	],
@@ -24,8 +24,9 @@
 		"メルヴァニア",
 		"トレジャーハンター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RSK/SE44-32",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rsk_se44/rsk_se44_32.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rsk_se44/rsk_se44_32.png",
+	"tags": null,
+	"expansionId": 457
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ロイドさんお疲れでノドが渇いてるんですね…",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
@@ -24,8 +24,9 @@
 		"バーリント市",
 		"殺し屋"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SPY/S106-031",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/spy_s106/spy_s106_031.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/spy_s106/spy_s106_031.png",
+	"tags": null,
+	"expansionId": 433
 }

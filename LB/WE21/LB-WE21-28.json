@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お遊びはここまでよ",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの《武器》のキャラ1枚につき、このカードのパワーを＋500。",
 		"【起】［あなたのキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2000。"
@@ -25,8 +25,9 @@
 		"武器",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE21-28",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we21/lb_we21_28.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we21/lb_we21_28.png",
+	"tags": null,
+	"expansionId": 124
 }

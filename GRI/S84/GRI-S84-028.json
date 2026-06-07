@@ -15,17 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "乾杯…",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたの手札の「子供達の未来 千鶴」のレベルを－1。",
-		"【永】 他のあなたの「子供達の未来 千鶴」すべてに、パワーを＋1000。"
+		"【永】 あなたの手札の「子供達の未来 千鶴」のレベルを－1。\u003cbr\u003e【永】 他のあなたの「子供達の未来 千鶴」すべてに、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"グリザイア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_028.png",
+	"tags": null,
+	"expansionId": 347
 }

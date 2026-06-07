@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "殺さずに済ませる自信はない…\u003cbr /\u003eこの身の未熟を、許してくれるか",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時か「闇の書覚醒」の効果で舞台に置かれた時、他のあなたの《魔法》のキャラが2枚以上なら、そのターン中、このカードのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W25-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w25/n2_w25_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w25/n2_w25_012.png",
+	"tags": null,
+	"expansionId": 94
 }

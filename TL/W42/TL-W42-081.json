@@ -16,15 +16,16 @@
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
 	"flavourText": "",
-	"trigger": [],
+	"trigger": null,
 	"ability": [
 		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの、《動物》か《メガネ》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは2枚まで引き、自分の手札を2枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W42-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_081.png",
+	"tags": null,
+	"expansionId": 163
 }

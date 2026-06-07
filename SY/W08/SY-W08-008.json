@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "船は無いと思われますが",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《メイド》のキャラすべてに、パワーを＋500。",
 		"【起】［このカードを【レスト】する］ あなたは自分の《メイド》のキャラを1枚選び、そのターン中、パワーを＋1000。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_008.png",
+	"tags": null,
+	"expansionId": 35
 }

@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《五つ子》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）",
-		"【自】 このカードがアタックした時、他のあなたの《五つ子》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500し、ソウルを＋1。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《五つ子》のキャラなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する。公開したカードは元に戻す）\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの《五つ子》のキャラが4枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2500し、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"五つ子",
 		"オシャレ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "5HY/W83-076",
-	"imageURL": "/wordpress/wp-content/images/cardlist/5/5hy_w83/5hy_w83_076.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/5/5hy_w83/5hy_w83_076.png",
+	"tags": null,
+	"expansionId": 309
 }

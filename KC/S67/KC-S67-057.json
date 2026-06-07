@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ただちに再出撃、可能です！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてに、次の能力を与える。『【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。』",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
+		"【永】 あなたのキャラすべてに、次の能力を与える。『【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。』\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを、前列のキャラのいない枠で、正面に相手のキャラがいる枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S67-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s67/kc_s67_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s67/kc_s67_057.png",
+	"tags": null,
+	"expansionId": 270
 }

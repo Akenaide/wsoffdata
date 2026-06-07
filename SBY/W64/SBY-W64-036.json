@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おはようございます…",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《思春期》のキャラすべてに、パワーを＋500。",
-		"【自】 他のあなたの《思春期》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）"
+		"【永】 他のあなたの《思春期》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】 他のあなたの《思春期》のキャラかこのカードが手札から舞台に置かれた時、あなたは自分の山札を上から1枚見てよい。（見たカードは元に戻す）"
 	],
 	"specialAttrib": [
 		"思春期",
 		"スマホ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_036.png",
+	"tags": null,
+	"expansionId": 261
 }

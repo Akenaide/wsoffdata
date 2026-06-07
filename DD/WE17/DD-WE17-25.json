@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "25",
@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "夏の思い出に、みんなで、のんびりしよう～",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(2) 手札を1枚控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分のクロック置場の「波乗り勇者 ナナミ」を1枚とこのカードを選び、入れ替える。",
 		"【自】【クロック】 シフト レベル1 （あなたのメインフェイズの始めに、あなたは自分の手札の緑のカードを1枚とクロック置場のこのカードを選び、入れ替えてよい）"
@@ -25,8 +25,9 @@
 		"勇者",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DD/WE17-25",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_25.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_25.png",
+	"tags": null,
+	"expansionId": 100
 }

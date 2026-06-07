@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よーし、あっそぶぞー！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「葉留佳」か「佳奈多」を含むキャラが2枚以上なら、このカードのパワーを＋1500し、このカードは『【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］』を得る。"
 	],
@@ -24,8 +24,9 @@
 		"ビー玉",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/WE21-10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_we21/lb_we21_10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_we21/lb_we21_10.png",
+	"tags": null,
+	"expansionId": 124
 }

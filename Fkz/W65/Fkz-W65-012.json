@@ -15,22 +15,21 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "どうしたの？",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 あなたのターン中、他のあなたの、《ファンタジア文庫》か《武器》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《ファンタジア文庫》か《武器》のキャラを1枚選び、手札に戻してよい。"
+		"【永】 あなたの山札が5枚以下なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 あなたのターン中、他のあなたの、《ファンタジア文庫》か《武器》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《ファンタジア文庫》か《武器》のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"武器",
 		"死"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fkz/W65-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fkz_w65/fkz_w65_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fkz_w65/fkz_w65_012.png",
+	"tags": null,
+	"expansionId": 264
 }

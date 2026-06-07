@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はむっ、ん～美味し～♪…って、あれ。見つかっちゃった？",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の山札を見て《音楽》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"ギャル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_038.png",
+	"tags": null,
+	"expansionId": 477
 }

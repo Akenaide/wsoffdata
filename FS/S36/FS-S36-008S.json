@@ -15,20 +15,20 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "正義の味方？誰も傷つかない世界だと？おかしな事を",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「“王の財宝”」があるなら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードのトリガーアイコンの[SOUL]1つにつき、次の行動を行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）",
-		"【起】［手札の《武器》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋4000。"
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「“王の財宝”」があるなら、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードのトリガーアイコンの[[soul.gif]]1つにつき、次の行動を行う。『相手に1ダメージを与える。』（ダメージキャンセルは発生する）\u003cbr\u003e【起】［手札の《武器》のキャラを1枚控え室に置く］ そのターン中、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"サーヴァント",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S36-008S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s36/fs_s36_008s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s36/fs_s36_008s.png",
+	"tags": null,
+	"expansionId": 155
 }

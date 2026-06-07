@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "恵「ほら安芸くん、乾杯の音頭」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを2枚まで選び、そのターン中、次の能力を与える。『【永】 このカードは【リバース】しない。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "Fsh/W120-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsh_w120/fsh_w120_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsh_w120/fsh_w120_071.png",
+	"tags": null,
+	"expansionId": 489
 }

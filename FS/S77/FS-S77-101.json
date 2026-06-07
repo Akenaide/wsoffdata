@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラすべてに、パワーを＋500。",
-		"【起】［あなたの、《マスター》か《サーヴァント》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 他のあなたの、《マスター》か《サーヴァント》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［あなたの、《マスター》か《サーヴァント》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"マスター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S77-101",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s77/fs_s77_101.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s77/fs_s77_101.png",
+	"tags": null,
+	"expansionId": 314
 }

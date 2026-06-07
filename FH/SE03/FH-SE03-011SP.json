@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "――――――では、貴方は私の敵か",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、先攻プレイヤーの第１ターンなら、そのターン中、あなたは2枚までアタックできる。",
 		"【自】 バトル中のこのカードが【リバース】した時、あなたに2ダメージを与える。（ダメージキャンセルは発生する）"
@@ -25,8 +25,9 @@
 		"マスター",
 		"男装"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-011SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_011sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_011sp.png",
+	"tags": null,
+	"expansionId": 33
 }

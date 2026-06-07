@@ -15,7 +15,7 @@
 	"rarity": "Co",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"キス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T39Co",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t39co.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t39co.png",
+	"tags": null,
+	"expansionId": 475
 }

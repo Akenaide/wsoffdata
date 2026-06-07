@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしを、また、誰もが羨むような……メインヒロインに、してね？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。",
-		"【自】［(1) このカードを思い出にする］ 他のあなたの、《ファンタジア文庫》か《ゲーム》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘは相手のキャラの枚数×1000に等しい。\u003cbr\u003e【自】［(1) このカードを思い出にする］ 他のあなたの、《ファンタジア文庫》か《ゲーム》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsh/W120-041S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsh_w120/fsh_w120_041s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsh_w120/fsh_w120_041s.png",
+	"tags": null,
+	"expansionId": 489
 }

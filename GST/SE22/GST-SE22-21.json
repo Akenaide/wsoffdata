@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "つかさ、今日も負けてもらうぜ",
+	"trigger": null,
 	"ability": [
 		"【永】 相手の前列のキャラが2枚以下なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"錦",
 		"ギガント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GST/SE22-21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gst_se22/gst_se22_21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gst_se22/gst_se22_21.png",
+	"tags": null,
+	"expansionId": 126
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前が命懸けで頑張って、この虎の放火を\u003cbr\u003e十秒遅らせてくれてなかったら、僕は間に合わなかった\u003cbr\u003eそしたら僕は、きっと泣いてたぜ",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ 他のあなたの《怪異》のキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_091.png",
+	"tags": null,
+	"expansionId": 159
 }

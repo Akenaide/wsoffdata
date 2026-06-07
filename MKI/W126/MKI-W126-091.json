@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お、おつつみフィナンシェじゃん。\u003cbr\u003e仕方ないな、\u003cbr\u003e私が預かっておいてあげる",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《青春》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《青春》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 他のあなたの《青春》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《青春》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"青春",
 		"マケイン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MKI/W126-091",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mki_w126/mki_w126_091.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mki_w126/mki_w126_091.png",
+	"tags": null,
+	"expansionId": 520
 }

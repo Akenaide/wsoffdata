@@ -15,21 +15,20 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「“アガートラーム”セレナ」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「EMPRESS†REBELLION」があり、他のあなたの「“アガートラーム”セレナ」がいるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「“アガートラーム”セレナ」を1枚まで選び、手札に戻し、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「EMPRESS†REBELLION」があり、他のあなたの「“アガートラーム”セレナ」がいるなら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W72-054SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w72/sg_w72_054sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w72/sg_w72_054sp.png",
+	"tags": null,
+	"expansionId": 275
 }

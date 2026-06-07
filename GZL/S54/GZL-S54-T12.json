@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "パワードスーツ部隊はトラップポイントへ移動、待機する",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「俺は、貴様を……」があるなら、あなたは自分の山札を上から4枚まで見て、《アラトラム号》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"アラトラム号",
 		"人類"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GZL/S54-T12",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gzl_s54/gzl_s54_t12.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gzl_s54/gzl_s54_t12.png",
+	"tags": null,
+	"expansionId": 227
 }

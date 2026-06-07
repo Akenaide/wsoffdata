@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あらゆる時、あらゆる場所に自分がいる。誰かを愛する強い気持ちが、何かを信じる強い感情が、何かを伝えたいという強い思いが、時を超え繋がって今の自分があるのだとしたら、それは素晴らしいこと",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。",
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのレベルを＋1し、パワーを＋1000。"
+		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのレベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ラボメン",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_061.png",
+	"tags": null,
+	"expansionId": 243
 }

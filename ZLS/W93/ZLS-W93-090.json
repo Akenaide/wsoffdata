@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「大切なのはやる気」があり、他のあなたの《SAGA》のキャラがいるなら、次の行動を2回行う。『あなたは0か1か2を宣言する。あなたは自分の山札の上から1枚を、控え室に置き、そのカードがあなたの宣言したレベルのカードなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。』（クライマックスのレベルは0として扱う）"
 	],
@@ -24,8 +24,9 @@
 		"SAGA",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZLS/W93-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zls_w93/zls_w93_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zls_w93/zls_w93_090.png",
+	"tags": null,
+	"expansionId": 366
 }

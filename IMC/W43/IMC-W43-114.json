@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みなさ～ん、ちゃんと並ばないと危ないですよ～",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) 手札の「こいかぜ」を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の手札の「高垣 楓」を1枚選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"神秘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W43-114",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w43/imc_w43_114.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w43/imc_w43_114.png",
+	"tags": null,
+	"expansionId": 167
 }

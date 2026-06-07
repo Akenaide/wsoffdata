@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最適のルートで安全にエスコートいたします",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《NIKKE》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 このカードがアタックした時、あなたのCX置場にトリガーアイコンが[GATE]のCXがあるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《NIKKE》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、あなたのCX置場にトリガーアイコンが[[gate.gif]]のCXがあるなら、あなたは自分の控え室のキャラを1枚まで選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"NIKKE",
 		"インフィニティレール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NIK/S117-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nik_s117/nik_s117_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nik_s117/nik_s117_090.png",
+	"tags": null,
+	"expansionId": 494
 }

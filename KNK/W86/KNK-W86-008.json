@@ -15,20 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "千鶴「あなたは和也さんの気持ちに\u003cbr\u003e本気で向き合った事がありますか!?」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードはサイドアタックできない。",
-		"【永】 相手のターン中、他のあなたの《かのかり》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【起】［このカードを控え室に置く］ あなたは自分の控え室の「元カノとして 麻美」を1枚選び、このカードがいた枠に置く。"
+		"【永】 このカードはサイドアタックできない。\u003cbr\u003e【永】 相手のターン中、他のあなたの《かのかり》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは自分の控え室の「元カノとして 麻美」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"かのかり"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W86-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w86/knk_w86_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w86/knk_w86_008.png",
+	"tags": null,
+	"expansionId": 322
 }

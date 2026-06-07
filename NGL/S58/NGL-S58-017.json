@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ただし……俺は、パーしか出さない",
+	"trigger": null,
 	"ability": [
 		"あなたと相手はゲームをする。【リプレイ】 ゲームをするあなたはパーを出すと宣言し、相手と1回ジャンケンする。あなたがパーで勝ったなら、あなたは4枚まで引く。あなたがパーであいこか、グーかチョキで勝ったなら、あなたは2枚まで引く。あなたが負けたか、グーかチョキであいこなら、このカードをクロック置場に置く。 （あなたはパー以外を出してもよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NGL/S58-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ngl_s58/ngl_s58_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ngl_s58/ngl_s58_017.png",
+	"tags": null,
+	"expansionId": 236
 }

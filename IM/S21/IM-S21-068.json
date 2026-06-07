@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お前たちは黙って指示に従っていればいい",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「決別のジュピター 冬馬」すべてに、パワーを＋1500し、次の能力を与える。『【永】 このカードはフロントアタックできない。』",
 		"【自】［(2)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「決別のジュピター 冬馬」を1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
@@ -25,8 +25,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_068.png",
+	"tags": null,
+	"expansionId": 80
 }

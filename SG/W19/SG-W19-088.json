@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたが奏の何を受け継いでいるというの！",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「シンフォギアの装者 奏」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「シンフォギアの装者 奏」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W19-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w19/sg_w19_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w19/sg_w19_088.png",
+	"tags": null,
+	"expansionId": 79
 }

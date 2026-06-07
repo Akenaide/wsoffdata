@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "衛宮、早く弁当を食べないと昼休みが終わってしまうぞ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの「放課後の戦い 士郎」1枚につき、このカードのパワーを＋1500し、このカードの正面のキャラのソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_021.png",
+	"tags": null,
+	"expansionId": 139
 }

@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "フリーレン様。自力で歩けますか？",
+	"trigger": null,
 	"ability": [
-		"【自】 この能力は1ターンにつき3回まで発動する。あなたの、メインフェイズ中かアタックフェイズ中、あなたがカードを引いた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。",
-		"【自】 あなたのアンコールステップの始めに、クライマックス置場にトリガーアイコンが[DRAW]のクライマックスがあり、他のあなたの「北側諸国での日々 フェルン」がいないなら、あなたは1枚引いてよい。"
+		"【自】 この能力は1ターンにつき3回まで発動する。あなたの、メインフェイズ中かアタックフェイズ中、あなたがカードを引いた時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。\u003cbr\u003e【自】 あなたのアンコールステップの始めに、クライマックス置場にトリガーアイコンが[[draw.gif]]のクライマックスがあり、他のあなたの「北側諸国での日々 フェルン」がいないなら、あなたは1枚引いてよい。"
 	],
 	"specialAttrib": [
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SFN/S128-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sfn_s128/sfn_s128_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sfn_s128/sfn_s128_077.png",
+	"tags": null,
+	"expansionId": 545
 }

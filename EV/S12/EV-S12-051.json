@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 チェンジ ［(3) 手札を1枚控え室に置き、このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「テスト用プラグスーツのアスカ」を1枚選び、このカードがいた枠に置く。",
 		"【起】［このカードを【レスト】する］ あなたは自分の、《パイロット》か《メカ》のキャラを1枚選び、そのターン中、パワーを＋1500。"
@@ -25,8 +25,9 @@
 		"パイロット",
 		"軍隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-051",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_051.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_051.png",
+	"tags": null,
+	"expansionId": 49
 }

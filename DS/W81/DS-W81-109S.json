@@ -15,21 +15,21 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "えへへ、皆さんのおかげで……\u003cbr\u003eほんとにおこっちゃいました――",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの、《Anniversary》か《風南島》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「奇跡の再会」があるなら、あなたは自分の山札を上から5枚まで見て、《Anniversary》か《風南島》のキャラか「楽園システム」を2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
+		"【永】 あなたの、《Anniversary》か《風南島》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「奇跡の再会」があるなら、あなたは自分の山札を上から5枚まで見て、《Anniversary》か《風南島》のキャラか「楽園システム」を2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"風南島",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DS/W81-109S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ds_w81/ds_w81_109s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ds_w81/ds_w81_109s.png",
+	"tags": null,
+	"expansionId": 310
 }

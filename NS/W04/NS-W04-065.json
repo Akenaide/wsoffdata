@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "こちらにいらしたのは『帰還』ですか……？\u003cbr /\u003eそれとも『反逆』ですか……？",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"メカ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-065",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_065.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_065.png",
+	"tags": null,
+	"expansionId": 6
 }

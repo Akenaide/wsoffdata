@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だ、ダンスだからって変なところを触ったら許さないわよ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠の《艦船》のキャラに、パワーを＋1500。",
-		"【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の《艦船》のキャラを1枚選び、手札に戻す。"
+		"【永】 他のあなたの前列の中央の枠の《艦船》のキャラに、パワーを＋1500。\u003cbr\u003e【起】［(1) 手札のクライマックスを1枚控え室に置く］ あなたは自分の控え室の《艦船》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ユニオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-T05R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_t05r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_t05r.png",
+	"tags": null,
+	"expansionId": 409
 }

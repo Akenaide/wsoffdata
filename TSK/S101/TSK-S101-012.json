@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ラーゼン「その金色の瞳……紅い瞳孔……」",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《魔大陸》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
+		"【永】 あなたのターン中、他のあなたの《魔大陸》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"悪魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S101-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s101/tsk_s101_012.png",
+	"tags": null,
+	"expansionId": 412
 }

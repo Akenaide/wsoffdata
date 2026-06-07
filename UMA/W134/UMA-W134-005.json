@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の手札の自分のレベル以下のレベルのカード名に「オグリキャップ」を含むキャラを1枚まで選び、このカードがいた枠に置く。"
 	],
@@ -24,8 +24,9 @@
 		"ウマ娘",
 		"シンデレラグレイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W134-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w134/uma_w134_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w134/uma_w134_005.png",
+	"tags": null,
+	"expansionId": 540
 }

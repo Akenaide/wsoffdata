@@ -15,17 +15,17 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい。ありえるとしたら、海外に運ばれたということになります",
+	"trigger": null,
 	"ability": [
-		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-		"【起】［このカードを【レスト】する］ あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【自】【クロック】 アラーム このカードがクロックの1番上にあるなら、あなたのクライマックスフェイズの始めに、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の、《アバター》か《ネット》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S65-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s65/sao_s65_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s65/sao_s65_079.png",
+	"tags": null,
+	"expansionId": 267
 }

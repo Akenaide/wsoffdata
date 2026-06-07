@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お疲れさまです。お昼になりましたー",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「“草食系動物”伊倉ナギサ」 ［あなたの山札の上から1枚をクロック置場に置く］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「“草食系動物”伊倉ナギサ」を1枚選び、手札に戻す）",
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは相手の前列のレベル0以下のキャラを1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"ビジュアルアーツ",
 		"牛乳"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VA/WPR-P26",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/va_wpr/va_wpr_p26.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/va_wpr/va_wpr_p26.png",
+	"tags": null,
+	"expansionId": 12
 }

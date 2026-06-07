@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "さっきここで、花火みたいなのを\u003cbr\u003e打ち上げてたのって、きみ達かな？",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"怪異",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MG/S39-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mg_s39/mg_s39_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mg_s39/mg_s39_012.png",
+	"tags": null,
+	"expansionId": 159
 }

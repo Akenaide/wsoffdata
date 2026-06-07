@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "探査はロッサの専門です",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"魔法",
 		"秘書"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NS/W04-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/ns_w04/ns_w04_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/ns_w04/ns_w04_086.png",
+	"tags": null,
+	"expansionId": 6
 }

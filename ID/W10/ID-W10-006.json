@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "神様…この世界があんたの作ったシステムの通りに動いてるってんなら、まずはその幻想をぶち殺す！！",
+	"trigger": null,
 	"ability": [
 		"【永】 記憶 あなたの思い出が2枚以上なら、舞台のこのカードのレベルを－1し、パワーを＋1500。",
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「すべてを打ち消す力」があるなら、あなたはコストを払ってよい。そうしたら、次の相手のターンの終わりまで、相手は舞台にいるキャラの【起】を使えない。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ID/W10-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/id_w10/id_w10_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/id_w10/id_w10_006.png",
+	"tags": null,
+	"expansionId": 40
 }

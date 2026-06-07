@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "誓いをここに。われは常世総ての善となるもの",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの控え室のクライマックスが1枚以下なら、手札からプレイできない。",
 		"あなたは自分の山札を見て《武器》か《錬金術》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FZ/S17-T09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_t09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_t09.png",
+	"tags": null,
+	"expansionId": 67
 }

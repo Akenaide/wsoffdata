@@ -15,21 +15,21 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《Anniversary》か《Roselia》のキャラを1枚選び、そのターン中、ソウルを＋1。",
-		"【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《Anniversary》か《Roselia》のキャラを1枚選び、そのターン中、ソウルを＋1。\u003cbr\u003e【起】［このカードを控え室に置く］ あなたは相手のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"音楽",
 		"Roselia"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE49-P15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we49/bd_we49_p15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we49/bd_we49_p15.png",
+	"tags": null,
+	"expansionId": 12
 }

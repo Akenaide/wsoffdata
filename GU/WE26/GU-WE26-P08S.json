@@ -15,19 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】［手札の青のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、他のあなたの青のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。"
+		"【自】［手札の青のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置き、そのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの青のキャラが2枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"ラビットハウス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE26-P08S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we26/gu_we26_p08s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we26/gu_we26_p08s.png",
+	"tags": null,
+	"expansionId": 12
 }

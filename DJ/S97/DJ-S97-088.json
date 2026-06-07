@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "4",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの、カード名に「美夢」を含むキャラと「春奈」を含むキャラと「胡桃」を含むキャラと「みいこ」を含むキャラが別々に1枚ずついないなら、手札からプレイできない。",
-		"あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 後列に【スタンド】しているこのカードがいるなら、このカードはアタックを行うキャラとして選択してよい。そうしたら、このカードはダイレクトアタックする。』"
+		"このカードは、あなたの、カード名に「美夢」を含むキャラと「春奈」を含むキャラと「胡桃」を含むキャラと「みいこ」を含むキャラが別々に1枚ずついないなら、手札からプレイできない。\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 後列に【スタンド】しているこのカードがいるなら、このカードはアタックを行うキャラとして選択してよい。そうしたら、このカードはダイレクトアタックする。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DJ/S97-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dj_s97/dj_s97_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dj_s97/dj_s97_088.png",
+	"tags": null,
+	"expansionId": 423
 }

@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…えっと、転入生を紹介します。\u003cbr\u003e今日はその…\u003cbr\u003e『体調不良』ということで午後から出席してもらいました",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが3以上なら、このカードは次の能力を得る。『【起】［このカードを控え室に置く］ あなたは自分の手札の「主人公＆アルセーヌ / JOKER」を1枚まで選び、このカードがいた枠に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"先生",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P5/S45-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p5_s45/p5_s45_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p5_s45/p5_s45_033.png",
+	"tags": null,
+	"expansionId": 180
 }

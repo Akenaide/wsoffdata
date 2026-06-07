@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "最新鋭の装甲空母の本当の戦い、見せてあげる！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「第一機動部隊、出撃！」があるなら、あなたは自分の山札を見て《艦娘》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"装甲空母"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_004.png",
+	"tags": null,
+	"expansionId": 173
 }

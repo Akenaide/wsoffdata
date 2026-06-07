@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "トーマ 「大丈夫！　止まれないなら、\u003cbr /\u003e俺達が止めるッ！」\u003cbr /\u003eリリィ 「そうだよ！　私達が、\u003cbr /\u003eきっと助けるからッッ！！」",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NA/W12-G21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_g21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_g21.png",
+	"tags": null,
+	"expansionId": 53
 }

@@ -15,17 +15,17 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "2人はもう見失わないッ！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
+		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。"
 	],
 	"specialAttrib": [
 		"スタンド使い"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "JJ/SE42-10",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se42/jj_se42_10.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_se42/jj_se42_10.png",
+	"tags": null,
+	"expansionId": 435
 }

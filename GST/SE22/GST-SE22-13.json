@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まったく、つかささんからは目が離せませんよ",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《ギガント》のキャラすべてに、パワーを＋500。",
 		"【起】 集中 ［(2) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の控え室のクライマックスを1枚まで選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"メガネ",
 		"ギガント"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GST/SE22-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gst_se22/gst_se22_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gst_se22/gst_se22_13.png",
+	"tags": null,
+	"expansionId": 126
 }

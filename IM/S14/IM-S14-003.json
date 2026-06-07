@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "兄ちゃ～ん！　特別に真美の\u003cbr /\u003eアイスをあげちゃうよ～！",
+	"trigger": null,
 	"ability": [
 		"【自】［(2) 手札を1枚控え室に置く］ あなたのクライマックス置場に「Do-Dai」が置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「双海姉妹の癒し系 真美」を3枚まで選び、舞台の別々の枠に置き、自分の山札を見て「双海姉妹の癒し系 真美」を3枚まで選び、舞台の別々の枠に置く。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"双子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_003.png",
+	"tags": null,
+	"expansionId": 64
 }

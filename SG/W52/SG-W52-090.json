@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "これは夢に向かってはばたく翼ッ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 記憶 あなたの思い出置場に「イグナイトモジュール」があるなら、このカードは次の能力を得る。『【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋4500。そうでないなら、このカードのパワーを－1500。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て「“剣にあらず”翼」を1枚まで選び、控え室に置き、その山札をシャッフルする。"
+		"【永】 記憶 あなたの思い出置場に「イグナイトモジュール」があるなら、このカードは次の能力を得る。『【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋4500。そうでないなら、このカードのパワーを－1500。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て「“剣にあらず”翼」を1枚まで選び、控え室に置き、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W52-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w52/sg_w52_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w52/sg_w52_090.png",
+	"tags": null,
+	"expansionId": 206
 }

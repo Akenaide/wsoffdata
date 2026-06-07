@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 あなたが『チェンジ』を使った時、あなたは他のキャラを2枚まで選び、そのターン中、レベルを＋1。"
@@ -25,8 +25,9 @@
 		"音楽",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W28-068S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w28/ll_w28_068s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w28/ll_w28_068s.png",
+	"tags": null,
+	"expansionId": 110
 }

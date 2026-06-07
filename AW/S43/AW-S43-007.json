@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "剣を取れ！！炎を掲げよ！！戦いの時――来たれり！！",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"生徒会",
 		"アバター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AW/S43-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/aw_s43/aw_s43_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/aw_s43/aw_s43_007.png",
+	"tags": null,
+	"expansionId": 176
 }

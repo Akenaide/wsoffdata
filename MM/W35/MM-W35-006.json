@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それは私の口から説明するのです",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「マミ」を含むキャラがいるなら、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"チーズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W35-006",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_006.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_006.png",
+	"tags": null,
+	"expansionId": 140
 }

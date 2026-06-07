@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みなみ「ほめてくれるのはわかるけど―――\u003cbr /\u003e何か素直に喜べない」",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《メガネ》のキャラを1枚【レスト】する］ あなたは自分の《メガネ》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"メガネ",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_009.png",
+	"tags": null,
+	"expansionId": 16
 }

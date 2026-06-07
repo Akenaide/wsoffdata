@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "42…ブラウン管……点灯済み",
+	"trigger": null,
 	"ability": [
-		"【自】 経験 あなたがこのカードの『助太刀』を使った時、あなたのレベル置場に「“タイムトラベラー”阿万音 鈴羽」があるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
+		"【自】 経験 あなたがこのカードの『助太刀』を使った時、あなたのレベル置場に「“タイムトラベラー”阿万音 鈴羽」があるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【起】【カウンター】 助太刀1000 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1000）"
 	],
 	"specialAttrib": [
 		"ラボメン",
 		"バイト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-038",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_038.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_038.png",
+	"tags": null,
+	"expansionId": 243
 }

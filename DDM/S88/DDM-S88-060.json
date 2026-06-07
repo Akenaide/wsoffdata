@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "君が成長すればするほど強くなるんだ！",
+	"trigger": null,
 	"ability": [
 		"【起】【CXコンボ】［このカードを【レスト】する］ あなたは自分の、《ファミリア》か《ギルド》か《豊穣の女主人》のキャラを1枚選び、そのターン中、パワーを＋2000し、次の能力を与える。『【自】 このカードの与えたダメージがキャンセルされた時、あなたは自分のクライマックス置場の「【眷族の物語】」を1枚選び、手札に戻してよい。』"
 	],
@@ -24,8 +24,9 @@
 		"ファミリア",
 		"冒険者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DDM/S88-060",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/ddm_s88/ddm_s88_060.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddm_s88/ddm_s88_060.png",
+	"tags": null,
+	"expansionId": 367
 }

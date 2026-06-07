@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "スバルくんの寝顔を眺めながら英気を養っていたところです",
+	"trigger": null,
 	"ability": [
 		"【自】 記憶 このカードがアタックした時、あなたの思い出置場にカードがあるなら、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《Memory Snow》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"Memory Snow"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S68-063",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s68/rz_s68_063.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s68/rz_s68_063.png",
+	"tags": null,
+	"expansionId": 280
 }

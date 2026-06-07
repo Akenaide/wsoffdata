@@ -10,20 +10,21 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サイトのバカあああ～！",
+	"trigger": null,
 	"ability": [
 		"このカードは、あなたの《虚無》のキャラがいないなら、手札からプレイできない。",
 		"あなたは相手の前列のレベル2以下のキャラを1枚選び、控え室に置く。あなたは自分の控え室の《使い魔》のキャラを1枚選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "ZM/W03-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_068.png",
+	"tags": null,
+	"expansionId": 3
 }

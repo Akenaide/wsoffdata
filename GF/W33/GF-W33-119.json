@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わぁ、この波のプールすごいですね～波の感じが凄くリアルで…　ほら。思ったのと違うタイミングで…",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの青のキャラ1枚につき、このカードのパワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-119",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_119.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_119.png",
+	"tags": null,
+	"expansionId": 131
 }

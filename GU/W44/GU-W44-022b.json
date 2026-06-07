@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "鎧の方がいいかしら？",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを控え室に置く］ このカードがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分の手札の「“甘兎庵の看板娘”千夜」を1枚まで選び、このカードがいた枠に防御キャラとして置き、そのターン中、そのキャラのパワーを＋5000。"
 	],
@@ -24,8 +24,9 @@
 		"甘兎庵",
 		"和菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/W44-022b",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_w44/gu_w44_022b.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_w44/gu_w44_022b.png",
+	"tags": null,
+	"expansionId": 174
 }

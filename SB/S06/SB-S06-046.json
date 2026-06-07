@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "利家「われら二人を邪魔するものは！」\u003cbr /\u003eまつ「馬に蹴られて地獄に落ちる！」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のキャラを2枚まで選び、そのターン中、パワーを＋1500し、《愛》を与える。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SB/S06-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sb_s06/sb_s06_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sb_s06/sb_s06_046.png",
+	"tags": null,
+	"expansionId": 28
 }

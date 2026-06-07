@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "もしもまた、わたしがどうしようもなく困っていたら、\u003cbr /\u003eそのときは助けていただいても構いませんか？",
+	"trigger": null,
 	"ability": [
 		"【自】 経験 このカードが手札から舞台に置かれた時、あなたのレベル置場のカードのレベルの合計が4以上なら、あなたは自分の控え室の《怪異》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NM/S24-053",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nm_s24/nm_s24_053.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nm_s24/nm_s24_053.png",
+	"tags": null,
+	"expansionId": 105
 }

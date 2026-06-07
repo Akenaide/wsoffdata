@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "コロナ「そばでずっと見てきたから知ってる。\u003cbr\u003e必死の練習で自分のものにしたんだもんね」",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《格闘》のキャラの枚数×500に等しい。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「二人きりの練習」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《格闘》のキャラか「セイクリッド・ハート」なら手札に加える。（そうでないなら元に戻す）"
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋Ｘ。Ｘはあなたの《格闘》のキャラの枚数×500に等しい。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「二人きりの練習」があるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《格闘》のキャラか「セイクリッド・ハート」なら手札に加える。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"格闘",
 		"オッドアイ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-034",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_034.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_034.png",
+	"tags": null,
+	"expansionId": 200
 }

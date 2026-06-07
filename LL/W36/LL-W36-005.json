@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "食材とか、作ってくれた農家さんにも、きちんとありがとうの気持ちを持って食べたいよね",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。"
+		"【永】 このカードの下のマーカー1枚につき、このカードのレベルを＋1し、パワーを＋1500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W36-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w36/ll_w36_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w36/ll_w36_005.png",
+	"tags": null,
+	"expansionId": 142
 }

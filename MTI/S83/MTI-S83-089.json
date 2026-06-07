@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「光輝のアルマンフィ」を1枚選び、舞台の好きな枠に置く。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたはこのカードを思い出にしてよい。そうしたら、次のあなたのドローフェイズの始めに、あなたは自分の思い出置場の「光輝のアルマンフィ」を1枚選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"六面世界",
 		"使い魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MTI/S83-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mti_s83/mti_s83_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mti_s83/mti_s83_089.png",
+	"tags": null,
+	"expansionId": 346
 }

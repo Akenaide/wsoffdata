@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ね！　チルチル！　コレの続きは！？",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたの思い出置場の「餌付け」1枚につき、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 記憶 このカードがアタックした時、クライマックス置場に「本格的な戦闘訓練」があるなら、あなたは自分の控え室のレベルＸ以下の《グリザイア》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの思い出の枚数に等しい。"
+		"【永】 記憶 あなたの思い出置場の「餌付け」1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 記憶 このカードがアタックした時、クライマックス置場に「本格的な戦闘訓練」があるなら、あなたは自分の控え室のレベルＸ以下の《グリザイア》のキャラを1枚選び、手札に戻してよい。Ｘはあなたの思い出の枚数に等しい。"
 	],
 	"specialAttrib": [
 		"グリザイア",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S72-005S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s72/gri_s72_005s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s72/gri_s72_005s.png",
+	"tags": null,
+	"expansionId": 285
 }

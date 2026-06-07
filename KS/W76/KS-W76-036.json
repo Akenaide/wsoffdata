@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "めぐみん「制服まで用意しておいて何を今更」",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の「“最強の魔法使い”めぐみん」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のカードすべてを、山札に戻し、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W76-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w76/ks_w76_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w76/ks_w76_036.png",
+	"tags": null,
+	"expansionId": 291
 }

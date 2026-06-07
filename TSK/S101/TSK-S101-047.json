@@ -15,20 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【自】【CXコンボ】［手札の《魔大陸》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「魂復する奇跡の秘術」があり、他のあなたの《魔王》のキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋1500。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】［手札の《魔大陸》のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「魂復する奇跡の秘術」があり、他のあなたの《魔王》のキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、そのターン中、このカードのパワーを＋1500。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"魔大陸",
 		"魔王"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TSK/S101-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s101/tsk_s101_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s101/tsk_s101_047.png",
+	"tags": null,
+	"expansionId": 412
 }

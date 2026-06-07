@@ -15,20 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードがアタックした時、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋3000。",
-		"【起】［手札の《MARVEL》のキャラを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
+		"【自】 このカードがアタックした時、あなたは自分の《MARVEL》のキャラを1枚選び、そのターン中、パワーを＋3000。\u003cbr\u003e【起】［手札の《MARVEL》のキャラを1枚控え室に置く］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋3000。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S89-062",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s89/mar_s89_062.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s89/mar_s89_062.png",
+	"tags": null,
+	"expansionId": 370
 }

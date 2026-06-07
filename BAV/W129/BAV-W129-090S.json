@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを2枚まで選び、次の相手のターンの終わりまで、次の能力を与える。『【永】 このカードは他の枠に動かせない。』"
 	],
@@ -24,8 +24,9 @@
 		"キヴォトス",
 		"対策委員会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W129-090S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w129/bav_w129_090s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w129/bav_w129_090s.png",
+	"tags": null,
+	"expansionId": 530
 }

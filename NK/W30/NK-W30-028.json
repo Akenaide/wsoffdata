@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "小野寺様は今、恋をされているのですか？",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《武器》か《令嬢》のキャラでないならクロック置場に置く。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/W30-028",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_028.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_w30/nk_w30_028.png",
+	"tags": null,
+	"expansionId": 122
 }

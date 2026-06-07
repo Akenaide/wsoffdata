@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私のことは私が一番よく知っている。そもそもタイムリープマシンを開発したのは私なのだぜ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《ラボメン》のキャラが2枚以上なら、このカードのパワーを＋1000。",
-		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「終わりと始まりのプロローグ」があるなら、あなたは自分の控え室の、《ラボメン》のキャラか「Dメール」を1枚まで選び、手札に戻し、他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの《ラボメン》のキャラが2枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「終わりと始まりのプロローグ」があるなら、あなたは自分の控え室の、《ラボメン》のキャラか「Dメール」を1枚まで選び、手札に戻し、他の自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"ラボメン",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "STG/S60-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/stg_s60/stg_s60_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/stg_s60/stg_s60_003.png",
+	"tags": null,
+	"expansionId": 243
 }

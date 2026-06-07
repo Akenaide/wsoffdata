@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "他の子なんてどうでもいい…",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[TREASURE]のクライマックスがでた時、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのキャラのトリガーチェックでトリガーアイコンが[[treasure.gif]]のクライマックスがでた時、あなたは2枚引いてよい。そうしたら、あなたは自分の手札を2枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/WE33-045",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_we33/dal_we33_045.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_we33/dal_we33_045.png",
+	"tags": null,
+	"expansionId": 339
 }

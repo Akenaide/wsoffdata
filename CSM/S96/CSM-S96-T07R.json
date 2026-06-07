@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "お前さ……マキマさん目当てでデビルハンターなったろ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《デビルハンター》か《悪魔》のキャラを1枚選び、そのターン中、パワーを＋1500。",
-		"【自】 このカードがアタックした時、他のあなたの、《デビルハンター》か《悪魔》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋4000。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の、《デビルハンター》か《悪魔》のキャラを1枚選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】 このカードがアタックした時、他のあなたの、《デビルハンター》か《悪魔》のキャラが2枚以上なら、そのターン中、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"デビルハンター",
 		"公安"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CSM/S96-T07R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/csm_s96/csm_s96_t07r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/csm_s96/csm_s96_t07r.png",
+	"tags": null,
+	"expansionId": 422
 }

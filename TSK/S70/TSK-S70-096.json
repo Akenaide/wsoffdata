@@ -10,20 +10,20 @@
 	"colour": "BLUE",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "『賢者』をユニークスキル『大賢者』に進化させます…成功しました",
+	"trigger": null,
 	"ability": [
-		"このカードを思い出にする。",
-		"【自】 記憶 あなたのクライマックスフェイズの始めに、思い出置場にこのカードがあるなら、あなたは自分のカード名に「リムル」を含むキャラを1枚選び、そのターン中、パワーを＋2500。"
+		"このカードを思い出にする。\u003cbr\u003e【自】 記憶 あなたのクライマックスフェイズの始めに、思い出置場にこのカードがあるなら、あなたは自分のカード名に「リムル」を含むキャラを1枚選び、そのターン中、パワーを＋2500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "TSK/S70-096",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tsk_s70/tsk_s70_096.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tsk_s70/tsk_s70_096.png",
+	"tags": null,
+	"expansionId": 283
 }

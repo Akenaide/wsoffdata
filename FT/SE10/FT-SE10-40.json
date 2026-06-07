@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今・・・・ようやく役目が終わった",
+	"trigger": null,
 	"ability": [
 		"【起】［(1)］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1500。ターンの終わりに、このカードを思い出にする。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"マスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-40",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_40.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_40.png",
+	"tags": null,
+	"expansionId": 68
 }

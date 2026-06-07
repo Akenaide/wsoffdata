@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "大したトイズだ、この怪力娘！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋2500し、相手は『助太刀』を手札からプレイできない。",
 		"【自】 アンコール ［手札のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
@@ -25,8 +25,9 @@
 		"怪盗",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SE09-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_se09/mk_se09_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_se09/mk_se09_07.png",
+	"tags": null,
+	"expansionId": 62
 }

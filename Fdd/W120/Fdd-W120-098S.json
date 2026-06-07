@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "主よ、私が立派な悪魔になれるよう見守りくださ……はぅっ！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置き、他のあなたの舞台のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《ファンタジア文庫》か《悪魔》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -25,8 +25,9 @@
 		"悪魔",
 		"僧侶"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fdd/W120-098S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fdd_w120/fdd_w120_098s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fdd_w120/fdd_w120_098s.png",
+	"tags": null,
+	"expansionId": 489
 }

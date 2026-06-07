@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああ～～学園生活もきっと優雅なんでしょうね～",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から1枚を公開する。そのカードが《風紀委員》のキャラなら、あなたはこのカードを思い出にしてよい。（公開したカードは元に戻す）"
@@ -25,8 +25,9 @@
 		"超能力",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W10-T01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w10/rg_w10_t01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w10/rg_w10_t01.png",
+	"tags": null,
+	"expansionId": 38
 }

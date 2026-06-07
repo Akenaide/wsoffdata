@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。",
-		"【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、トリガーアイコンが[CHOICE]のCXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
+		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。\u003cbr\u003e【自】 このカードが舞台から控え室に置かれた時、あなたは自分の山札を上から4枚まで見て、トリガーアイコンが[[choice.gif]]のCXを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。手札に加えたなら、あなたは自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"サマポケ",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SMP/W137-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w137/smp_w137_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w137/smp_w137_003.png",
+	"tags": null,
+	"expansionId": 548
 }

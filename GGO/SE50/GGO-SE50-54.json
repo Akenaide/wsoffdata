@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。",
-		"【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは相手の前列のコスト0以下のキャラを1枚まで選び、控え室に置く。"
+		"【永】 他のあなたの、《アバター》か《ネット》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1)］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは相手の前列のコスト0以下のキャラを1枚まで選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"アバター",
 		"ZEMAL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GGO/SE50-54",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_se50/ggo_se50_54.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_se50/ggo_se50_54.png",
+	"tags": null,
+	"expansionId": 508
 }

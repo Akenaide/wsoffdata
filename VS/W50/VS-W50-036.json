@@ -15,21 +15,20 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "こういう時のための一撃必殺だ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《格闘》のキャラか「スターセイバー」を1枚選び、手札に戻してよい。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「抜剣」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の、《格闘》のキャラか「スターセイバー」を1枚選び、手札に戻してよい。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「抜剣」があるなら、あなたは相手に1ダメージを与えてよい。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"格闘",
 		"家事"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-036",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_036.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_036.png",
+	"tags": null,
+	"expansionId": 200
 }

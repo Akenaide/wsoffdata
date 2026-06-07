@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それじゃあ、人形作りは美咲にお願いするわ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「“ペンギン？　クマ？”奥沢美咲」すべてに、パワーを＋2000。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「ミッシェルからの伝言」を1枚選び、手札に戻す。"
+		"【永】 他のあなたの「“ペンギン？　クマ？”奥沢美咲」すべてに、パワーを＋2000。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の控え室の「ミッシェルからの伝言」を1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ハロー、ハッピーワールド！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W63-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w63/bd_w63_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w63/bd_w63_015.png",
+	"tags": null,
+	"expansionId": 255
 }

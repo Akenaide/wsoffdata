@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お疲れさまです！プロデューサーさん！",
+	"trigger": null,
 	"ability": [
-		"このカードは、色条件を満たさずに手札からプレイできる。",
-		"あなたは自分の手札を1枚選び、公開してよい。そうしたら、あなたは自分の控え室の、公開したカードと同じ色のキャラを1枚までと公開したカードと同じ色のCXを1枚まで選び、手札に戻す。"
+		"このカードは、色条件を満たさずに手札からプレイできる。\u003cbr\u003eあなたは自分の手札を1枚選び、公開してよい。そうしたら、あなたは自分の控え室の、公開したカードと同じ色のキャラを1枚までと公開したカードと同じ色のCXを1枚まで選び、手札に戻す。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IMC/WE51-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_we51/imc_we51_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_we51/imc_we51_p01.png",
+	"tags": null,
+	"expansionId": 12
 }

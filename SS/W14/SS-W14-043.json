@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…了解であります",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは他の自分の《炎》のキャラを1枚選び、そのターン中、パワーを＋500。",
 		"【自】 絆／「不器用なシャナ」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「不器用なシャナ」を1枚選び、手札に戻す）"
@@ -25,8 +25,9 @@
 		"炎",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-043",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_043.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_043.png",
+	"tags": null,
+	"expansionId": 58
 }

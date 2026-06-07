@@ -15,19 +15,19 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……そう、あなたに私が嬉しかったって伝わったのなら良かった",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手の控え室のクライマックスが5枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 記憶 他のあなたの《音楽》のキャラが2枚以上で、あなたの思い出置場の「繋がるメロディー 天王寺 璃奈」が2枚以上なら、このカードのパワーを＋1500し、このカードは『【永】 大活躍』を得る。"
+		"【永】 相手の控え室のクライマックスが5枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 記憶 他のあなたの《音楽》のキャラが2枚以上で、あなたの思い出置場の「繋がるメロディー 天王寺 璃奈」が2枚以上なら、このカードのパワーを＋1500し、このカードは『【永】 大活躍』を得る。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LNJ/W85-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lnj_w85/lnj_w85_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lnj_w85/lnj_w85_032.png",
+	"tags": null,
+	"expansionId": 338
 }

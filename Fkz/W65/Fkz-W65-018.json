@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああ、当然だ。――マイダーリン",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのキャラすべてに、次の能力を与える。『【自】 バトル中のこのカードが【リバース】した時、このカードを山札の下に置く。』"
 	],
@@ -25,8 +25,9 @@
 		"忍",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fkz/W65-018",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fkz_w65/fkz_w65_018.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fkz_w65/fkz_w65_018.png",
+	"tags": null,
+	"expansionId": 264
 }

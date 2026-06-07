@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ふふっ！やっぱり私が必要なんだね！",
+	"trigger": null,
 	"ability": [
-		"【自】［(1)］ このカードがフロントアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、レベルを－1。",
-		"【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
+		"【自】［(1)］ このカードがフロントアタックした時、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、レベルを－1。\u003cbr\u003e【自】 バトル中のこのカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを山札の下に置いてよい。"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"Cleaning \u0026 Clearing"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-T11",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_t11.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_t11.png",
+	"tags": null,
+	"expansionId": 459
 }

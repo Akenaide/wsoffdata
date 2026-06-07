@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おおむね大好評よ♥",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1) このカードを【レスト】する］ あなたは自分の、《オロチ》か《竜》のキャラを1枚選び、そのターン中、次の能力を与える。『【自】 このカードが【リバース】した時、このカードとバトル中のキャラのレベルがこのカードのレベル以下なら、あなたはそのキャラを【リバース】してよい。』"
@@ -25,8 +25,9 @@
 		"オロチ",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KF/S05-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kf_s05/kf_s05_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kf_s05/kf_s05_t08.png",
+	"tags": null,
+	"expansionId": 26
 }

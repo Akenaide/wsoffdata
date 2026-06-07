@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ワシの望みは、ただひとつ……。 騎士としての道を極めることだ",
+	"trigger": null,
 	"ability": [
 		"【起】［(2)］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"動物",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-T03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_t03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_t03.png",
+	"tags": null,
+	"expansionId": 9
 }

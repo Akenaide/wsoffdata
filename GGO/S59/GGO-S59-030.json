@@ -10,21 +10,20 @@
 	"colour": "GREEN",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "附属女子校新体操部スペシャル、対エム決戦兵器――略称《エム銃》",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたの《SHINC》のキャラがいないなら、手札からプレイできない。",
-		"あなたは相手の山札を上から1枚見て、山札の上か下に置く。",
-		"このカードを思い出にする。相手にＸダメージを与える。Ｘはあなたの思い出置場の「デグチャレフ対戦車ライフル」の枚数に等しい。（ダメージキャンセルは発生する）"
+		"このカードは、あなたの《SHINC》のキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは相手の山札を上から1枚見て、山札の上か下に置く。\u003cbr\u003eこのカードを思い出にする。相手にＸダメージを与える。Ｘはあなたの思い出置場の「デグチャレフ対戦車ライフル」の枚数に等しい。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GGO/S59-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/ggo_s59/ggo_s59_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/ggo_s59/ggo_s59_030.png",
+	"tags": null,
+	"expansionId": 245
 }

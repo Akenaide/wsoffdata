@@ -10,21 +10,22 @@
 	"colour": "YELLOW",
 	"level": "0",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "謙吾「茶番だあぁぁぁーーーーーーーーーっ！！」",
+	"trigger": null,
 	"ability": [
 		"このカードは、《スポーツ》のあなたのキャラがいないなら、手札からプレイできない。",
 		"このカードは、あなたのレベル置場かクロック置場に黄のカードがないなら、手札からプレイできない。",
 		"相手は自分の手札を1枚選び、ストックに置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LB/W02-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w02/lb_w02_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w02/lb_w02_021.png",
+	"tags": null,
+	"expansionId": 2
 }

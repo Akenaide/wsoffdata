@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "や…やっぱり大胆すぎるかしら",
+	"trigger": null,
 	"ability": [
 		"【自】【クロック】 アラーム このカードがクロックの1番上にあり、あなたの、《宇宙人》か《変身》のキャラが4枚以上なら、あなたのクライマックスフェイズの始めに、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"宇宙人",
 		"科学"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W42-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w42/tl_w42_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w42/tl_w42_009.png",
+	"tags": null,
+	"expansionId": 163
 }

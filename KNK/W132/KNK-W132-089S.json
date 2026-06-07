@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "和也！\u003cbr\u003e※「和也」にルビ【かーずや】",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、他のあなたの《かのかり》のキャラ1枚につき、このカードのパワーを＋1000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にトリガーアイコンが[GATE]のCXがあるなら、あなたは2枚まで引き、自分の手札を同じ枚数選び、控え室に置く。"
+		"【永】 あなたのターン中、他のあなたの《かのかり》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にトリガーアイコンが[[gate.gif]]のCXがあるなら、あなたは2枚まで引き、自分の手札を同じ枚数選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"かのかり",
 		"リボン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KNK/W132-089S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/knk_w132/knk_w132_089s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/knk_w132/knk_w132_089s.png",
+	"tags": null,
+	"expansionId": 531
 }

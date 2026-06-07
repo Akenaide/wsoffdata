@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あらあら、楽しそうですね～♪",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
 	],
@@ -25,8 +25,9 @@
 		"甘ブリ",
 		"姫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fab/W65-T08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fab_w65/fab_w65_t08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fab_w65/fab_w65_t08.png",
+	"tags": null,
+	"expansionId": 263
 }

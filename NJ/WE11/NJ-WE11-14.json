@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "別にあんたなんか、\u003cbr /\u003e何とも思ってないんだからっ!!",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NJ/WE11-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nj_we11/nj_we11_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nj_we11/nj_we11_14.png",
+	"tags": null,
+	"expansionId": 70
 }

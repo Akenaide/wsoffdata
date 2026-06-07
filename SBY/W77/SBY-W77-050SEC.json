@@ -15,18 +15,18 @@
 	"rarity": "SEC",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 記憶 あなたのクライマックスフェイズの始めに、あなたの思い出が3枚以上なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《思春期》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 記憶 あなたのクライマックスフェイズの始めに、あなたの思い出が3枚以上なら、あなたは自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋500。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは自分の山札を見て《思春期》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-050SEC",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_050sec.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_050sec.png",
+	"tags": null,
+	"expansionId": 290
 }

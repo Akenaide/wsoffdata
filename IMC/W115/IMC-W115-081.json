@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "みんなと過ごすこの時間…楽しすぎるから、もう一周ドライブお願いしちゃいましょうか♪",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは相手のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードは手札に戻せず、他の枠に動かせず、思い出にできない。』"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_081.png",
+	"tags": null,
+	"expansionId": 477
 }

@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こう「およ？このネタ最近どっかで見た気がするなぁ…」",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたはバトルしているキャラを1枚選び、そのターン中、ソウルを＋6。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LS/W05-095",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_095.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_095.png",
+	"tags": null,
+	"expansionId": 16
 }

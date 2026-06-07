@@ -10,19 +10,20 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "シャロ「ネロ、それですぅっ！」",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】している《探偵》のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を見て《探偵》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MK/S33-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_021.png",
+	"tags": null,
+	"expansionId": 136
 }

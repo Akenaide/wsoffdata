@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ルーリン「じゃあ早速変身よ、小咲ちゃん！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《お菓子》のキャラが3枚以上なら、このカードのパワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置く。残りのカードを山札の上に好きな順番で置く。"
+		"【永】 他のあなたの《お菓子》のキャラが3枚以上なら、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を上から6枚まで見て、カードを3枚選び、控え室に置く。残りのカードを山札の上に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"お菓子",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/WE22-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_we22/nk_we22_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_we22/nk_we22_p02.png",
+	"tags": null,
+	"expansionId": 12
 }

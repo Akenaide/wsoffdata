@@ -15,18 +15,18 @@
 	"rarity": "N",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】【ターン1】 あなたが『加速』を使った時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室の、《魔法》か《フォーミュラ》のキャラを1枚まで選び、手札に戻す。"
+		"【自】【ターン1】 あなたが『加速』を使った時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのCX1枚につき、あなたは自分の控え室の、《魔法》か《フォーミュラ》のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"武器",
 		"フォーミュラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NTA/WE48-50",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nta_we48/nta_we48_50.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nta_we48/nta_we48_50.png",
+	"tags": null,
+	"expansionId": 518
 }

@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そうでなければ、この世界に生きる意味も資格もない",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。",
-		"【自】 このカードがアタックした時、あなたは他の自分の《Anniversary》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《Anniversary》のキャラの枚数×500に等しい。"
+		"【自】 このカードが手札から舞台に置かれた時、相手の前列のキャラが1枚以下なら、あなたは相手の前列のコスト0以下のキャラを1枚選び、山札の下に置く。\u003cbr\u003e【自】 このカードがアタックした時、あなたは他の自分の《Anniversary》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの《Anniversary》のキャラの枚数×500に等しい。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"アバター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S71-090S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_090s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_090s.png",
+	"tags": null,
+	"expansionId": 288
 }

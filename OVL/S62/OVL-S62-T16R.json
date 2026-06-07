@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "では――蹂躙を開始しんす",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】他のあなたの、《異形種》か《ナザリック》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。",
-		"【自】アンコール ［手札の、《異形種》か《ナザリック》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
+		"【自】他のあなたの、《異形種》か《ナザリック》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。\u003cbr\u003e【自】アンコール ［手札の、《異形種》か《ナザリック》のキャラを1枚控え室に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
 	"specialAttrib": [
 		"異形種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-T16R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_t16r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_t16r.png",
+	"tags": null,
+	"expansionId": 253
 }

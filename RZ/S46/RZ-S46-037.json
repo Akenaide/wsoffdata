@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "夜遅く上がりこんで言い出す内容がそれかしら",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「術式の破壊」があるなら、あなたは自分の山札の上から1枚を、控え室に置く。そのカードが《魔法》か《武器》のキャラなら、あなたは自分の控え室のキャラを1枚選び、手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RZ/S46-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rz_s46/rz_s46_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rz_s46/rz_s46_037.png",
+	"tags": null,
+	"expansionId": 185
 }

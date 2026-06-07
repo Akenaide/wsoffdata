@@ -15,7 +15,7 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ここは私たちの舞台です。千早と真の\u003cbr /\u003e邪魔をする輩は、ご遠慮願います",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S14-086",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_086.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_086.png",
+	"tags": null,
+	"expansionId": 64
 }

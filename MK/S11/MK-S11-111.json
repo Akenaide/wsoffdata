@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私たちにしかできないことが、あるはずです",
+	"trigger": null,
 	"ability": [
 		"【起】［(3)］ そのターン中、このカードのパワーを＋8000。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S11-111",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s11/mk_s11_111.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s11/mk_s11_111.png",
+	"tags": null,
+	"expansionId": 13
 }

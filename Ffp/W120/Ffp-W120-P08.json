@@ -15,19 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "宗介「やはり武器が必要だ。クローゼットにあるから取ってこい」\u003cbr\u003e夏美「お父さん、いつものカービンとグレネードでいいのね？」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。",
-		"【起】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
+		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋500。\u003cbr\u003e【起】［(1) あなたの山札の上から1枚をクロック置場に置き、このカードを【レスト】する］ あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"家族",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Ffp/W120-P08",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ffp_w120/ffp_w120_p08.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ffp_w120/ffp_w120_p08.png",
+	"tags": null,
+	"expansionId": 12
 }

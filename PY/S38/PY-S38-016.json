@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "カーバンクルちゃ～ん！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の《ぷよ》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てカード名に「アルル」か「カーバンクル」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"ツノ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_016.png",
+	"tags": null,
+	"expansionId": 160
 }

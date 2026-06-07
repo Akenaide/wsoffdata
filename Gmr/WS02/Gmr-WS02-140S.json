@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "幹比古「柴田さんの力を貸して欲しいんだ」",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《電撃文庫》のキャラを1枚選び、手札に戻す。"
+		"【永】 あなたのキャラすべてに、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003e【起】［手札を1枚控え室に置き、このカードを控え室に置く］ あなたは自分の控え室の《電撃文庫》のキャラを1枚選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gmr/WS02-140S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gmr_ws02_140s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gmr_ws02_140s.png",
+	"tags": null,
+	"expansionId": 439
 }

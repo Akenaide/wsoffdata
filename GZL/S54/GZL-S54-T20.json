@@ -8,24 +8,24 @@
 	"jpName": "恒星間移民船アラトラム号",
 	"cardType": "CX",
 	"colour": "BLUE",
-	"level": "0",
-	"cost": "0",
-	"power": "0",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ハルオ「俺たちは何のために、何処へ向かうのか？闇の中、仲間を見捨ててまで命を繋ぐ惨めさを、ただ堪え忍ぶだけなのか。なぜ俺たちは生きている？ 何故……」",
 	"trigger": [
 		"DRAW"
 	],
 	"ability": [
-		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。",
-		"（[DRAW]：このカードがトリガーした時、あなたは1枚引いてよい）"
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[draw.gif]]：このカードがトリガーした時、あなたは1枚引いてよい）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "GZL/S54-T20",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gzl_s54/gzl_s54_t20.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gzl_s54/gzl_s54_t20.png",
+	"tags": null,
+	"expansionId": 227
 }

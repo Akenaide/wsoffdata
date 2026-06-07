@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "3",
 	"cost": "6",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "JJR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"［手札を2枚控え室に置く］ あなたはコストを払ってよい。そうしたら、相手に4ダメージを2回与える。（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "JJ/SE41-56J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/j/jj_se41/jj_se41_56j.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/j/jj_se41/jj_se41_56j.png",
+	"tags": null,
+	"expansionId": 434
 }

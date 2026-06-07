@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "敵は殺すだけだ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「第31X部隊」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《セラフ》のキャラを2枚まで選び、ストック置場に好きな順番で置く。"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが相手のレベルより高いなら、あなたは相手のクロックの上から1枚を、控え室に置いてよい。そうしたら、あなたはそのキャラをクロック置場に置く。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「第31X部隊」が置かれた時、前列にこのカードがいるなら、あなたは自分の控え室の《セラフ》のキャラを2枚まで選び、ストック置場に好きな順番で置く。"
 	],
 	"specialAttrib": [
 		"セラフ",
 		"第31X部隊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HBR/W103-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hbr_w103/hbr_w103_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hbr_w103/hbr_w103_092.png",
+	"tags": null,
+	"expansionId": 408
 }

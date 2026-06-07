@@ -15,20 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。",
-		"【起】［あなたの舞台の《怪獣》のキャラを2枚控え室に置く］ あなたは1枚引く。",
-		"【起】［(1)］ あなたは自分のレベル置場の「“猛き咆哮”ゴジラ・アース」を1枚とこのカードを選び、入れ替える。"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【起】［あなたの舞台の《怪獣》のキャラを2枚控え室に置く］ あなたは1枚引く。\u003cbr\u003e【起】［(1)］ あなたは自分のレベル置場の「“猛き咆哮”ゴジラ・アース」を1枚とこのカードを選び、入れ替える。"
 	],
 	"specialAttrib": [
 		"怪獣"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GZL/SE33-14",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gzl_se33/gzl_se33_14.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gzl_se33/gzl_se33_14.png",
+	"tags": null,
+	"expansionId": 244
 }

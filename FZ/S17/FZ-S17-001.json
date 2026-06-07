@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたは、全てを与えてくれた…\u003cbr /\u003e私には望むべくもなかった、この世の幸せ全てを…",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「決意の象徴」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見てレベル1以上の、《マスター》か《サーヴァント》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"ホムンクルス",
 		"錬金術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FZ/S17-001",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fz_s17/fz_s17_001.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fz_s17/fz_s17_001.png",
+	"tags": null,
+	"expansionId": 82
 }

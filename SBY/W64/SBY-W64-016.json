@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "恥ずかしいからやめなさい！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの《思春期》のキャラがアタックした時、そのターン中、このカードのパワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"思春期",
 		"料理"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-016",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_016.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_016.png",
+	"tags": null,
+	"expansionId": 261
 }

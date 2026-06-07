@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "昔は…あなたとどこか似てたかも",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの「ジークリンデ・エレミア」すべてに、次の能力を与える。『【永】 他のあなたの《格闘》のキャラ1枚につき、このカードのパワーを＋500。』",
-		"【永】 他のあなたの《格闘》のキャラすべてに、パワーを＋500。"
+		"【永】 他のあなたの「ジークリンデ・エレミア」すべてに、次の能力を与える。『【永】 他のあなたの《格闘》のキャラ1枚につき、このカードのパワーを＋500。』\u003cbr\u003e【永】 他のあなたの《格闘》のキャラすべてに、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"格闘",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-084",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_084.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_084.png",
+	"tags": null,
+	"expansionId": 200
 }

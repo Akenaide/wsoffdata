@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さすが先生、すっごいです……！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《キヴォトス》のキャラすべてに、パワーを＋500。",
-		"【起】［このカードを【レスト】する］ あなたは自分の《キヴォトス》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 他のあなたの《キヴォトス》のキャラすべてに、パワーを＋500。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の《キヴォトス》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"キヴォトス",
 		"補習授業部"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BAV/W112-024",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bav_w112/bav_w112_024.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bav_w112/bav_w112_024.png",
+	"tags": null,
+	"expansionId": 460
 }

@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今日もステキなアクセを用意したわ～！",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の【スタンド】している《音楽》のキャラを1枚選び【レスト】する。そうしたら、あなたは自分の山札を上から3枚まで見て、カードを1枚まで選び、手札に加える。残りのカードを控え室に置く。",
 		"このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S14-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s14/im_s14_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s14/im_s14_021.png",
+	"tags": null,
+	"expansionId": 64
 }

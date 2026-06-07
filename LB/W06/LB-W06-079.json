@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺だって、おまえたちと居てぇよ！！",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックス置場に「僕らはリトルバスターズ」が置かれた時、そのターン中、このカードは『【自】 アンコール ［(1)］』を得る。",
 		"【自】［(1) このカードを控え室に置く］ 他のあなたのキャラが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、そのキャラを手札に戻す。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LB/W06-079",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lb_w06/lb_w06_079.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lb_w06/lb_w06_079.png",
+	"tags": null,
+	"expansionId": 18
 }

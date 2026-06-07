@@ -15,17 +15,17 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠の《PIXAR》のキャラに、パワーを＋1500。",
-		"【起】［(1) このカードを控え室に置く］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《PIXAR》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
+		"【永】 他のあなたの前列の中央の枠の《PIXAR》のキャラに、パワーを＋1500。\u003cbr\u003e【起】［(1) このカードを控え室に置く］ あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《PIXAR》のキャラを1枚まで選び、手札に戻す。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
 	],
 	"specialAttrib": [
 		"PIXAR"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PXR/S122-023S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pxr_s122/pxr_s122_023s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pxr_s122/pxr_s122_023s.png",
+	"tags": null,
+	"expansionId": 523
 }

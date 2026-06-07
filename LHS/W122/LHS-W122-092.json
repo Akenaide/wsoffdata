@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】［(1) 手札のトリガーアイコンが[CHOICE]のCXを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《音楽》なら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－3。",
-		"【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+		"【自】［(1) 手札のトリガーアイコンが[[choice.gif]]のCXを1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたのキャラすべてが《音楽》なら、あなたはコストを払ってよい。そうしたら、あなたは相手のキャラを1枚選び、そのターン中、ソウルを－3。\u003cbr\u003e【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
 	],
 	"specialAttrib": [
 		"音楽",
 		"DOLLCHESTRA"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LHS/W122-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lhs_w122/lhs_w122_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lhs_w122/lhs_w122_092.png",
+	"tags": null,
+	"expansionId": 502
 }

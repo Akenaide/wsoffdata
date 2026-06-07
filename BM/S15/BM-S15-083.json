@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
 		"【起】［(1)］ あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_083.png",
+	"tags": null,
+	"expansionId": 60
 }

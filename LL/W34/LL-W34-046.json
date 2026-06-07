@@ -15,19 +15,19 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたのカード名に「ことり」を含むキャラ1枚につき、このカードのパワーを＋500。",
-		"【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。"
+		"【永】 他のあなたのカード名に「ことり」を含むキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【永】 このカードのバトル中、すべてのプレイヤーは『助太刀』を手札からプレイできない。"
 	],
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W34-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w34/ll_w34_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w34/ll_w34_046.png",
+	"tags": null,
+	"expansionId": 134
 }

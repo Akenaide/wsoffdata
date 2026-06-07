@@ -15,8 +15,8 @@
 	"rarity": "BDR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "真のブシドーがあるに違いありませんっ！！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚を公開する。そのカードが《Pastel＊Palettes》のキャラなら、あなたは自分の《Pastel＊Palettes》のキャラを1枚選び、そのターン中、パワーを＋1500。（公開したカードは元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"Pastel＊Palettes"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/WE32-15BDR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_we32/bd_we32_15bdr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_we32/bd_we32_15bdr.png",
+	"tags": null,
+	"expansionId": 325
 }

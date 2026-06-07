@@ -15,8 +15,8 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺、手加減とかできませんよ？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「ルイズ」を含むキャラがいるなら、このカードのパワーを＋2000。",
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「伝説の使い魔」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"使い魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/W03-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_w03/zm_w03_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_w03/zm_w03_052.png",
+	"tags": null,
+	"expansionId": 3
 }

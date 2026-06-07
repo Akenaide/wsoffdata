@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "自分に倒されるってのもマヌケな話だゾ。\u003cbr /\u003eあははははっ",
+	"trigger": null,
 	"ability": [
 		"【起】［(2)］ あなたは自分の山札を見て自分か相手の舞台にいるキャラと同じカード名のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/SE10-15",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_se10/ft_se10_15.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_se10/ft_se10_15.png",
+	"tags": null,
+	"expansionId": 68
 }

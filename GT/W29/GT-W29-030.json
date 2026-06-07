@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "審判の鉄槌よ！",
+	"trigger": null,
 	"ability": [
 		"【自】 他のあなたの「『世界』の使い手 エティア」がアタックした時、そのターン中、このカードのパワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"タロット",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_030.png",
+	"tags": null,
+	"expansionId": 106
 }

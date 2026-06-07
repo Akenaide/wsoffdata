@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "すべて利用させてもらった。私がヨーハンをとりもどす為に！",
+	"trigger": null,
 	"ability": [
 		"【永】 経験 相手のターン中、あなたのレベル置場に《炎》のキャラがあるなら、このカードのパワーを＋1000し、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。』"
 	],
@@ -24,8 +24,9 @@
 		"炎",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SS/W14-092",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/ss_w14/ss_w14_092.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/ss_w14/ss_w14_092.png",
+	"tags": null,
+	"expansionId": 58
 }

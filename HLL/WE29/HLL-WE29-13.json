@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "合格です！もう二本ください",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの、《定理者》か《使者》のキャラすべてに、パワーを＋500。",
-		"【自】［(1) このカードを【レスト】する］ 他のあなたのマーカーを持つバトル中のキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。"
+		"【永】 他のあなたの、《定理者》か《使者》のキャラすべてに、パワーを＋500。\u003cbr\u003e【自】［(1) このカードを【レスト】する］ 他のあなたのマーカーを持つバトル中のキャラが【リバース】した時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、あなたはそのキャラを【レスト】する。"
 	],
 	"specialAttrib": [
 		"定理者",
 		"忍"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HLL/WE29-13",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we29/hll_we29_13.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we29/hll_we29_13.png",
+	"tags": null,
+	"expansionId": 215
 }

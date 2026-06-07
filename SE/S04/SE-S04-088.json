@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ギルナ、ヒカネよく覚えておくんだぞ。１度つかまえたカモは、絶対に逃がしちゃいかん……！",
+	"trigger": null,
 	"ability": [
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見て《武器》のキャラを1枚まで選んで相手に見せ、手札に加える。その山札をシャッフルする。",
 		"【起】［このカードを【レスト】する］ あなたは自分の手札を1枚選び、ストック置場に置く。"
@@ -25,8 +25,9 @@
 		"動物",
 		"商人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SE/S04-088",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/se_s04/se_s04_088.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/se_s04/se_s04_088.png",
+	"tags": null,
+	"expansionId": 14
 }

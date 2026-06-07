@@ -1,6 +1,6 @@
 {
 	"set": "MK",
-	"setName": "ミルキィホームズ ファンファンパーリーパック♪",
+	"setName": " ミルキィホームズ ファンファンパーリーパック♪",
 	"side": "S",
 	"release": "J01",
 	"id": "015J",
@@ -15,17 +15,17 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今年こそ探偵フェザーズ",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードがダメージ処理ででた時、あなたは『キャンセル』と言うことでそのダメージをキャンセルできる。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【永】 このカードがダメージ処理ででた時、あなたは『キャンセル』と言うことでそのダメージをキャンセルできる。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"探偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/SJ01-015J",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_sj01/mk_sj01_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_sj01/mk_sj01_015.png",
+	"tags": null,
+	"expansionId": 195
 }

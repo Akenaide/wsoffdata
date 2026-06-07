@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いい匂い。他人の匂いのするエヴァもワルくない",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《パイロット》か《メカ》のキャラすべてに、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"パイロット",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "EV/S12-033",
-	"imageURL": "/wordpress/wp-content/images/cardlist/e/ev_s12/ev_s12_033.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/e/ev_s12/ev_s12_033.png",
+	"tags": null,
+	"expansionId": 49
 }

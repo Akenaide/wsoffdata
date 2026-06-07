@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "農業体験ねえ。農業体験だねぇ。作る経験をして、食物を大事にって話かい？",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードがアタックした時、あなたはコストを払ってよい。そうしたら、あなたは他の自分の黄のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ガール",
 		"植物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W33-029",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w33/gf_w33_029.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w33/gf_w33_029.png",
+	"tags": null,
+	"expansionId": 131
 }

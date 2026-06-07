@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "073",
@@ -15,7 +15,7 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "あれはそもそも……キャメロットではなかったのですね……",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"キャメロット",
 		"遍歴の騎士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_073.png",
+	"tags": null,
+	"expansionId": 363
 }

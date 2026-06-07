@@ -10,21 +10,20 @@
 	"colour": "GREEN",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「翼」か「調」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札の上から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードの、トリガーアイコンに[SOUL]があるカードか「イグナイトモジュール」の枚数に等しい。（ダメージキャンセルは発生する）",
-		"あなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。このカードを思い出にする。"
+		"このカードは、あなたのカード名に「翼」か「調」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から4枚を、控え室に置き、相手にＸダメージを与える。Ｘはそれらのカードの、トリガーアイコンに[[soul.gif]]があるカードか「イグナイトモジュール」の枚数に等しい。（ダメージキャンセルは発生する）\u003cbr\u003eあなたは自分のキャラを1枚選び、そのターン中、パワーを＋1000。このカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SG/W70-044",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w70/sg_w70_044.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w70/sg_w70_044.png",
+	"tags": null,
+	"expansionId": 276
 }

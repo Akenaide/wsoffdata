@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【起】【カウンター】 助太刀1500 レベル1 ［手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋1500）"
 	],
@@ -24,8 +24,9 @@
 		"サーヴァント",
 		"旗"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_017.png",
+	"tags": null,
+	"expansionId": 228
 }

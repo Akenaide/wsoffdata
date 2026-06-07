@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はやてさん！動かないで、そのままで",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがフロントアタックされた時、このカードを控え室に置く。（バトル相手がいなくなってもダイレクトアタックにはならない）"
 	],
@@ -24,8 +24,9 @@
 		"武器",
 		"フォーミュラ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NR/W58-031S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nr_w58/nr_w58_031s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nr_w58/nr_w58_031s.png",
+	"tags": null,
+	"expansionId": 226
 }

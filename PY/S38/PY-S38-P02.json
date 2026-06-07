@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よーし　ドキドキするけど　ぷよ勝負！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《ぷよ》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋500。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"帽子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

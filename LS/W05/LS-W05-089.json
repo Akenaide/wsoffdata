@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "パトリシア「ニホンはセーフクだから\u003cbr /\u003eスバらしいんじゃないですカ!!」",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《オタク》のキャラを2枚【レスト】する］ そのターン中、このカードのパワーを＋2500。"
 	],
@@ -24,8 +24,9 @@
 		"オタク",
 		"漫画"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_089.png",
+	"tags": null,
+	"expansionId": 16
 }

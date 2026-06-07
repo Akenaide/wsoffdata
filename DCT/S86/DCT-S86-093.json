@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "守るんだ……絶対",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《ノッカーアップ》か《由良島》か《謎》のキャラが2枚以上なら、他のあなたの、「登校の約束 ありや」と「歌って踊れる戦巫女 ありや」すべてに、パワーを＋1000。",
-		"【起】［このカードを【レスト】する］ あなたは自分の「無双の御曹司 周一」を1枚選び、そのターン中、ソウルを＋1。"
+		"【永】 他のあなたの、《ノッカーアップ》か《由良島》か《謎》のキャラが2枚以上なら、他のあなたの、「登校の約束 ありや」と「歌って踊れる戦巫女 ありや」すべてに、パワーを＋1000。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分の「無双の御曹司 周一」を1枚選び、そのターン中、ソウルを＋1。"
 	],
 	"specialAttrib": [
 		"ノッカーアップ",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DCT/S86-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dct_s86/dct_s86_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dct_s86/dct_s86_093.png",
+	"tags": null,
+	"expansionId": 387
 }

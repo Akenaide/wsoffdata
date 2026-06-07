@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。",
-		"【自】 あなたのクライマックスフェイズの始めに、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはあなたのクロック置場の「分身体 狂三」の枚数×1000に等しい。"
+		"【永】 このカードと同じカード名のカードは、デッキに好きな枚数入れることができる。\u003cbr\u003e【自】 あなたのクライマックスフェイズの始めに、次の相手のターンの終わりまで、このカードのパワーを＋Ｘ。Ｘはあなたのクロック置場の「分身体 狂三」の枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"デート",
 		"精霊"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DAL/W79-018a",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_018a.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_018a.png",
+	"tags": null,
+	"expansionId": 302
 }

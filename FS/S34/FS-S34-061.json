@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "貴方のマスターである証って、これでしょ",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。",
-		"【起】［このカードを【レスト】する］ あなたは自分のカード名に「アーチャー」を含むキャラを1枚選び、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードの正面のキャラのレベルがこのカードのレベルより低いなら、このカードはアタックできない。』"
+		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルが0以下なら、あなたはそのキャラを【リバース】してよい。\u003cbr\u003e【起】［このカードを【レスト】する］ あなたは自分のカード名に「アーチャー」を含むキャラを1枚選び、そのターン中、パワーを＋1500し、次の能力を与える。『【永】 このカードの正面のキャラのレベルがこのカードのレベルより低いなら、このカードはアタックできない。』"
 	],
 	"specialAttrib": [
 		"マスター",
 		"宝石"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S34-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s34/fs_s34_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s34/fs_s34_061.png",
+	"tags": null,
+	"expansionId": 139
 }

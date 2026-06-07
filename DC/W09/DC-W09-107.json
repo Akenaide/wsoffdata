@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あ、そうだ。 す、少し目を閉じててください",
+	"trigger": null,
 	"ability": [
 		"【永】他のあなたの《魔法》のキャラすべてに、パワーを+500。",
 		"【起】[(2)] あなたは相手の前列のコスト0以下のキャラを1枚選び、控え室に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W09-107",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w09/dc_w09_107.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w09/dc_w09_107.png",
+	"tags": null,
+	"expansionId": 12
 }

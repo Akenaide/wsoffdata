@@ -15,20 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "プロデューサーさんには……\u003cbr\u003eなんでもお見通しなんですね♡",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。",
-		"【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ネオンライトロマンサー 黛冬優子」を1枚選び、このカードがいた枠に置く。"
+		"【永】 他のあなたの《音楽》のキャラすべてに、パワーを＋1000。\u003cbr\u003e【自】 チェンジ ［このカードを控え室に置く］ あなたのクライマックスフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ネオンライトロマンサー 黛冬優子」を1枚選び、このカードがいた枠に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ストレイライト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-T081",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_t081.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_t081.png",
+	"tags": null,
+	"expansionId": 330
 }

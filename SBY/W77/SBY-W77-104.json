@@ -15,20 +15,20 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたの《思春期》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。",
-		"【永】 他のあなたの《思春期》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。"
+		"【永】 あなたの《思春期》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの《思春期》のキャラがいないなら、このカードはあなたのスタンドフェイズに【スタンド】しない。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"動物"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W77-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w77/sby_w77_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w77/sby_w77_104.png",
+	"tags": null,
+	"expansionId": 290
 }

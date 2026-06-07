@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "俺に……どうして令呪が……",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
+		"【永】 他のあなたの、《マスター》か《サーヴァント》か《ホムンクルス》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】［(1)］ アンコールステップの始めに、他のあなたの前列の【レスト】しているキャラがいないなら、あなたはコストを払ってよい。そうしたら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
 		"ホムンクルス",
 		"マスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "APO/S53-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/apo_s53/apo_s53_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/apo_s53/apo_s53_020.png",
+	"tags": null,
+	"expansionId": 228
 }

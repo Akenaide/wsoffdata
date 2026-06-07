@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "Inform Lord Vader we have a prisoner.",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの赤のキャラすべてに、パワーを＋500。",
 		"【起】［(2) このカードを【レスト】する］ あなたは自分の山札を見てカード名に「トルーパー」を含むキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"新たなる希望"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-063S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_063s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_063s.png",
+	"tags": null,
+	"expansionId": 199
 }

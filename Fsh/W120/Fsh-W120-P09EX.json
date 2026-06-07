@@ -15,8 +15,8 @@
 	"rarity": "PR+",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされた時かこのカードの与えたダメージがキャンセルされた時、あなたはこのカードを手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"ファンタジア文庫",
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsh/W120-P09EX",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsh_w120/fsh_w120_p09ex.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsh_w120/fsh_w120_p09ex.png",
+	"tags": null,
+	"expansionId": 12
 }

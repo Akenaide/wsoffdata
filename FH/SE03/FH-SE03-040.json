@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "抵抗は無駄です",
+	"trigger": null,
 	"ability": [
 		"-"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FH/SE03-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fh_se03/fh_se03_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fh_se03/fh_se03_040.png",
+	"tags": null,
+	"expansionId": 33
 }

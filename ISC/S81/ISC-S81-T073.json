@@ -15,21 +15,20 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "プロデューサーさん、\u003cbr\u003e甘奈のこと、\u003cbr\u003eちゃんと見ててよね！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 あなたのクロックが3枚以下なら、このカードのパワーを＋3000。",
-		"【永】 このカードの正面のキャラのソウルを－1。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「アルストロメリア」が置かれた時、前列にこのカードがいるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+		"【永】 あなたのクロックが3枚以下なら、このカードのパワーを＋3000。\u003cbr\u003e【永】 このカードの正面のキャラのソウルを－1。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「アルストロメリア」が置かれた時、前列にこのカードがいるなら、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"アルストロメリア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-T073",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_t073.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_t073.png",
+	"tags": null,
+	"expansionId": 329
 }

@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"セレブ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMS/S61-097SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/ims_s61/ims_s61_097sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_s61/ims_s61_097sp.png",
+	"tags": null,
+	"expansionId": 251
 }

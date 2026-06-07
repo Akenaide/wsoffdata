@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "プロデューサーも、一緒にどうですか？\u003cbr /\u003e２人でいい汗、かきましょうよ！",
+	"trigger": null,
 	"ability": [
 		"あなたの手札があるなら、あなたは自分の手札をランダムに1枚選び公開し、自分の控え室のレベルＸ以下のキャラを1枚選び、手札に戻す。Ｘは公開されたカードのレベル＋1に等しい。（クライマックスのレベルは0として扱う）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IM/S07-097",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_097.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_097.png",
+	"tags": null,
+	"expansionId": 29
 }

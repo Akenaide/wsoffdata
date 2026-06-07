@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "冒険者を引退しても、死ぬまで生きていくわけですから。誰にとっても必要だと思うんです",
+	"trigger": null,
 	"ability": [
-		"【自】 他のあなたの、《冒険者》かカード名に「ゴブリンスレイヤー」を含むキャラが手札から舞台に置かれた時、そのターン中、そのキャラのパワーを＋1000し、《クエスト》を与える。",
-		"【起】［(2) このカードを【レスト】する］ あなたは1枚引く。"
+		"【自】 他のあなたの、《冒険者》かカード名に「ゴブリンスレイヤー」を含むキャラが手札から舞台に置かれた時、そのターン中、そのキャラのパワーを＋1000し、《クエスト》を与える。\u003cbr\u003e【起】［(2) このカードを【レスト】する］ あなたは1枚引く。"
 	],
 	"specialAttrib": [
 		"秩序",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GBS/S63-077",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gbs_s63/gbs_s63_077.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gbs_s63/gbs_s63_077.png",
+	"tags": null,
+	"expansionId": 260
 }

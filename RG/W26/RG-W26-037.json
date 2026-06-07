@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わかってるよ、冗談だって",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
 		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロック置場のカード名に「佐天」を含むキャラを1枚選び、手札に戻してよい。そうしたら、あなたは自分の手札を1枚選び、クロック置場に置く。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RG/W26-037",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rg_w26/rg_w26_037.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rg_w26/rg_w26_037.png",
+	"tags": null,
+	"expansionId": 103
 }

@@ -10,19 +10,20 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "まずは敵に、命中率や回避率の低下を引き起こす、\u003cbr /\u003e惑乱のバッドステータスを与え、\u003cbr /\u003e次に、味方の武器の攻撃力を増幅させる…！",
+	"trigger": null,
 	"ability": [
 		"あなたは相手のレベル3以下のキャラを1枚選ぶ。そのキャラは次の相手のスタンドフェイズに【スタンド】しない。あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "LH/SE20-T18",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_t18.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_t18.png",
+	"tags": null,
+	"expansionId": 112
 }

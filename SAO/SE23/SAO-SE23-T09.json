@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どこか安い武器屋さんと、あと総督府、っていう所に行きたいんですが……",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"アバター",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/SE23-T09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_se23/sao_se23_t09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_se23/sao_se23_t09.png",
+	"tags": null,
+	"expansionId": 112
 }

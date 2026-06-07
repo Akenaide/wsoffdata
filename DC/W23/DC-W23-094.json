@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何かご不満がありますか、ご主人様？",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたの手札が5枚以上なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"演劇",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DC/W23-094",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dc_w23/dc_w23_094.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dc_w23/dc_w23_094.png",
+	"tags": null,
+	"expansionId": 90
 }

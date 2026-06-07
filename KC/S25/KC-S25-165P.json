@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "よぉし、奴らを倒して陸を目指すぞ。",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたのキャラを2枚【レスト】する］ あなたは自分の《艦娘》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"揚陸艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S25-165P",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s25/kc_s25_165p.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s25/kc_s25_165p.png",
+	"tags": null,
+	"expansionId": 113
 }

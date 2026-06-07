@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "さぁ、行くわよ！",
+	"trigger": null,
 	"ability": [
 		"【自】【CXコンボ】［(1)］ このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「女神の名において」があるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を上から3枚まで見て、《冒険者》か《女神》か《アクシズ教徒》のキャラを3枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。"
 	],
@@ -24,8 +24,9 @@
 		"冒険者",
 		"女神"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KS/W75-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ks_w75/ks_w75_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ks_w75/ks_w75_078.png",
+	"tags": null,
+	"expansionId": 287
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あたしはステージ…舞台っていう魔物に囚われた虜…",
+	"trigger": null,
 	"ability": [
 		"【永】 相手の前列のキャラが2枚以下なら、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MF/S13-004",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mf_s13/mf_s13_004.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mf_s13/mf_s13_004.png",
+	"tags": null,
+	"expansionId": 61
 }

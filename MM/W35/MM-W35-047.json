@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今の私は魔なるもの。摂理を乱し、この世界を蹂躪する存在",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《魔法》のキャラを1枚【レスト】する］ そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"悪魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W35-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w35/mm_w35_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w35/mm_w35_047.png",
+	"tags": null,
+	"expansionId": 140
 }

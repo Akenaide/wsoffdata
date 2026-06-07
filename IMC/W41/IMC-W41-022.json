@@ -15,19 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "きらりたちと一緒にぃ、たのすぃ～時間にしようね☆",
+	"trigger": null,
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
-		"【自】 あなたのクライマックス置場に「LET’S GO HAPPY!!」が置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。",
-		"【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこのカードの下のマーカーの枚数×1000に等しい。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。\u003cbr/\u003e【自】 あなたのクライマックス置場に「LET’S GO HAPPY!!」が置かれた時、あなたは自分の山札の上から1枚を、このカードの下にマーカーとして置いてよい。\u003cbr/\u003e【起】［このカードを【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘはこのカードの下のマーカーの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"ハピハピ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W41-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w41/imc_w41_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w41/imc_w41_022.png",
+	"tags": null,
+	"expansionId": 151
 }

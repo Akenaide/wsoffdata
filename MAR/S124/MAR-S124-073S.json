@@ -15,20 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの後列の《MARVEL》のキャラ1枚につき、このカードのパワーを＋2000。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。",
-		"【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋4000。"
+		"【永】 他のあなたの後列の《MARVEL》のキャラ1枚につき、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは自分の控え室の《MARVEL》のキャラを1枚選び、手札に戻し、自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【自】 このカードのバトル中、あなたの受けたダメージがキャンセルされなかった時、そのターン中、このカードのパワーを＋4000。"
 	],
 	"specialAttrib": [
 		"MARVEL"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MAR/S124-073S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mar_s124/mar_s124_073s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mar_s124/mar_s124_073s.png",
+	"tags": null,
+	"expansionId": 527
 }

@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"グリザイア",
 		"メイド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GRI/S84-109",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gri_s84/gri_s84_109.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gri_s84/gri_s84_109.png",
+	"tags": null,
+	"expansionId": 347
 }

@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "敵を殺すのは英雄だ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがＸ以下なら、あなたはそのキャラを【リバース】してよい。Ｘはあなたの控え室の「一番大事なモン 一虎」の枚数に等しい。"
 	],
 	"specialAttrib": [
 		"リベンジ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TRV/S92-061",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/trv_s92/trv_s92_061.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/trv_s92/trv_s92_061.png",
+	"tags": null,
+	"expansionId": 389
 }

@@ -1,6 +1,6 @@
 {
 	"set": "DD",
-	"setName": "DOG DAYS'",
+	"setName": " DOG DAYS'",
 	"side": "W",
 	"release": "E17",
 	"id": "43",
@@ -10,19 +10,20 @@
 	"colour": "RED",
 	"level": "1",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ええっ、これ、ユッキーッ？",
+	"trigger": null,
 	"ability": [
 		"あなたは自分の手札の《王族》のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の《動物》のキャラを1枚選び、手札に戻し、自分のクロック置場のレベル2以下の《勇者》のキャラを1枚選び、舞台の好きな枠に置き、そのターン中、そのキャラのパワーを＋1500。このカードをクロック置場に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DD/WE17-43",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dd_we17/dd_we17_43.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dd_we17/dd_we17_43.png",
+	"tags": null,
+	"expansionId": 100
 }

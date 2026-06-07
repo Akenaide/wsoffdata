@@ -15,21 +15,21 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "これが、私の初恋だ",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札を見て《電撃文庫》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。",
-		"【自】 共鳴 ［手札の「エロマンガ先生 紗霧」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。"
+		"【自】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場にクライマックスがあるなら、あなたは自分の山札を見て《電撃文庫》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003e【自】 共鳴 ［手札の「エロマンガ先生 紗霧」を1枚公開する］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋6000。"
 	],
 	"specialAttrib": [
 		"電撃文庫",
 		"小説",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Gem/WS02-069",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/g_ws02/gem_ws02_069.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/g_ws02/gem_ws02_069.png",
+	"tags": null,
+	"expansionId": 439
 }

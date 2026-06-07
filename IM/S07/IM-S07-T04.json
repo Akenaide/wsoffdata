@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "みんな、待たせたね！\u003cbr /\u003eここから先は、ボクにまかせて",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"スポーツ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S07-T04",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s07/im_s07_t04.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s07/im_s07_t04.png",
+	"tags": null,
+	"expansionId": 26
 }

@@ -1,6 +1,6 @@
 {
 	"set": "UMA",
-	"setName": "劇場版『ウマ娘 プリティーダービー 新時代の扉』",
+	"setName": " 劇場版『ウマ娘 プリティーダービー 新時代の扉』",
 	"side": "W",
 	"release": "119",
 	"id": "011S",
@@ -15,19 +15,19 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋2000。",
-		"【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋1000し、このカードは次の2つの能力を得る。『【永】 このカードはサイドアタックできない。』『【永】 このカードは相手の効果に選ばれない。』"
+		"【永】 このカードの下のマーカー1枚につき、このカードのパワーを＋2000。\u003cbr\u003e【永】 他のあなたの《ウマ娘》のキャラが2枚以上なら、このカードのパワーを＋1000し、このカードは次の2つの能力を得る。『【永】 このカードはサイドアタックできない。』『【永】 このカードは相手の効果に選ばれない。』"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W119-011S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w119/uma_w119_011s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w119/uma_w119_011s.png",
+	"tags": null,
+	"expansionId": 486
 }

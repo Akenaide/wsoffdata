@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "まわれ……まわれ……\u003cbr\u003eこの時は……永遠……",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋3000。",
-		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 他のあなたの《音楽》のキャラが2枚以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】 あなたのクライマックスがクライマックス置場に置かれた時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置き、自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"放課後クライマックスガールズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S110-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s110/isc_s110_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s110/isc_s110_007.png",
+	"tags": null,
+	"expansionId": 468
 }

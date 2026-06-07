@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "私の勝ちだ",
+	"trigger": null,
 	"ability": [
 		"【自】［(1) 他のあなたの舞台の、《ファンタジア文庫》か《武器》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
 	],
@@ -24,8 +24,9 @@
 		"ファンタジア文庫",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "F35/W120-052S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/f35_w120/f35_w120_052s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/f35_w120/f35_w120_052s.png",
+	"tags": null,
+	"expansionId": 489
 }

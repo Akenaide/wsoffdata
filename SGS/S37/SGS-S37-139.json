@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ああっ もう！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、相手のキャラが3枚以下なら、このカードのレベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"ストライカー",
 		"剣術"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SGS/S37-139",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sgs_s37/sgs_s37_139.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sgs_s37/sgs_s37_139.png",
+	"tags": null,
+	"expansionId": 162
 }

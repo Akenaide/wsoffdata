@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……カツサンドよ！",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。",
-		"【自】 あなたのクライマックス置場に「みんなで決めた答え」が置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはあなたの『応援』を持つキャラの枚数×500に等しい。\u003cbr\u003e【自】 あなたのクライマックス置場に「みんなで決めた答え」が置かれた時、あなたは自分の《音楽》のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/W34-083",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_w34/ll_w34_083.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_w34/ll_w34_083.png",
+	"tags": null,
+	"expansionId": 134
 }

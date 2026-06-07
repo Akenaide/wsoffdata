@@ -10,20 +10,21 @@
 	"colour": "YELLOW",
 	"level": "1",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "レイジングハート……バルディッシュ……\u003cbr /\u003e本気なの……？",
+	"trigger": null,
 	"ability": [
 		"【カウンター】 あなたは自分のカード名に「なのは」を含むキャラを1枚選び、そのターン中、パワーを＋1500。",
 		"あなたは自分のカード名に「フェイト」を含むキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "NA/W12-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/na_w12/na_w12_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/na_w12/na_w12_020.png",
+	"tags": null,
+	"expansionId": 44
 }

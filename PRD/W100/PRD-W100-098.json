@@ -15,18 +15,18 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "…… ！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの前列の中央の枠の《ランドソル》のキャラに、パワーを＋1500。",
-		"【自】【CXコンボ】［(2)］ あなたのアタックフェイズの始めに、あなたのクライマックス置場にクライマックスがないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「もう一度、キミとつながる物語」を1枚まで選び、クライマックス置場に置き、その山札をシャッフルする。"
+		"【永】 他のあなたの前列の中央の枠の《ランドソル》のキャラに、パワーを＋1500。\u003cbr\u003e【自】【CXコンボ】［(2)］ あなたのアタックフェイズの始めに、あなたのクライマックス置場にクライマックスがないなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て「もう一度、キミとつながる物語」を1枚まで選び、クライマックス置場に置き、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"ランドソル",
 		"ギルド"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PRD/W100-098",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/prd_w100/prd_w100_098.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/prd_w100/prd_w100_098.png",
+	"tags": null,
+	"expansionId": 397
 }

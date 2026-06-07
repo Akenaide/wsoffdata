@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "僕は、ルンデルハウス＝コード！\u003cbr /\u003e冒険者だ―――！",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードはサイドアタックできない。",
 		"【永】 このカードは相手のキャラの【自】の効果によって【リバース】されない。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LH/SE20-07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/lh_se20/lh_se20_07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/lh_se20/lh_se20_07.png",
+	"tags": null,
+	"expansionId": 118
 }

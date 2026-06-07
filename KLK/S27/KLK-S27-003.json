@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "セコンド席があったらマコがついて介抱してあげるのに",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《服》か《家族》のキャラすべてに、パワーを＋500。",
 		"【永】 他のあなたの前列の中央の枠のキャラに、次の能力を与える。『【永】 このカードは相手の効果に選ばれない。』"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"家族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-003",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_003.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_003.png",
+	"tags": null,
+	"expansionId": 117
 }

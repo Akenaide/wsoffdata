@@ -15,7 +15,7 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "申し訳ありませんが、こちらの私は進化しました。\u003cbr /\u003e今の私はもうその悲観には至らない",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"錬金術",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MB/S10-032",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_032.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_032.png",
+	"tags": null,
+	"expansionId": 48
 }

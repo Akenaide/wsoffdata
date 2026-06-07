@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今度は、私が助けてあげる！",
+	"trigger": null,
 	"ability": [
 		"【起】［あなたの《メガネ》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "P4/S08-039",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p4_s08/p4_s08_039.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p4_s08/p4_s08_039.png",
+	"tags": null,
+	"expansionId": 34
 }

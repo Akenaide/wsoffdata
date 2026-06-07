@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "－",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは他の自分の、《マスター》か《サーヴァント》のキャラを1枚選び、そのターン中、パワーを＋Ｘ。Ｘは他のあなたの、《マスター》か《サーヴァント》のキャラの枚数×500に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"愛"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S64-P03",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s64/fs_s64_p03.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s64/fs_s64_p03.png",
+	"tags": null,
+	"expansionId": 13
 }

@@ -10,20 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こ、今回は恋する女の子の歌ですから、精一杯気持ちを込めます！",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 集中 このカードは、あなたの赤のキャラが3枚以下なら、手札からプレイできない。",
-		"あなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにCXがあるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋4000し、次の能力を与える。『【永】 このカードの正面のキャラはプレイヤーにダメージを与えることができない。』そうでないなら、このカードを山札の上に置く。"
+		"【カウンター】 集中 このカードは、あなたの赤のキャラが3枚以下なら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札の上から3枚をめくり、控え室に置く。それらのカードにCXがあるなら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋4000し、次の能力を与える。『【永】 このカードの正面のキャラはプレイヤーにダメージを与えることができない。』そうでないなら、このカードを山札の上に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "IMC/W115-T21",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t21.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t21.png",
+	"tags": null,
+	"expansionId": 474
 }

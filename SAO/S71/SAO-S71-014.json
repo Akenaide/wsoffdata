@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なに二人で内緒話してるのよ",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたはイベントと『助太刀』を手札からプレイできない。"
 	],
@@ -24,8 +24,9 @@
 		"Anniversary",
 		"フラクトライト"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S71-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s71/sao_s71_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s71/sao_s71_014.png",
+	"tags": null,
+	"expansionId": 288
 }

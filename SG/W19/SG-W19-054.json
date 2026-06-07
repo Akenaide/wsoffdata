@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だから私は、響が闇に飲まれないよう、\u003cbr /\u003e応援したいんですッ！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「響」を含むキャラすべてに、パワーを＋500。",
 		"【自】［手札を1枚クロック置場に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の《音楽》のキャラを1枚選び、手札に戻す。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SG/W19-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sg_w19/sg_w19_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sg_w19/sg_w19_054.png",
+	"tags": null,
+	"expansionId": 79
 }

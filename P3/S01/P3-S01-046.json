@@ -10,20 +10,21 @@
 	"colour": "GREEN",
 	"level": "0",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "テレッテッテー、順平はレベルアップー",
+	"trigger": null,
 	"ability": [
 		"このカードは、緑のあなたのキャラがいないなら、手札からプレイできない。",
 		"次の行動を、あなたがレベルアップするまで繰り返す。『あなたは自分の山札の上から1枚を、クロック置場に置く。』"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "P3/S01-046",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/p3_s01/p3_s01_046.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/p3_s01/p3_s01_046.png",
+	"tags": null,
+	"expansionId": 4
 }

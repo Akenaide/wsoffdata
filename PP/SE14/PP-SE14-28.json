@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "肉体の老いは克服した。あとは心、ですか？",
+	"trigger": null,
 	"ability": [
 		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
 	],
@@ -24,8 +24,9 @@
 		"サイコパス",
 		"本"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PP/SE14-28",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pp_se14/pp_se14_28.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pp_se14/pp_se14_28.png",
+	"tags": null,
+	"expansionId": 95
 }

@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "サイトだけはダメです！　これだけは譲れません！",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「ルイズの守り手 サイト」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「ルイズの守り手 サイト」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"虚無"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ZM/WE13-06",
-	"imageURL": "/wordpress/wp-content/images/cardlist/z/zm_we13/zm_we13_06.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/z/zm_we13/zm_we13_06.png",
+	"tags": null,
+	"expansionId": 77
 }

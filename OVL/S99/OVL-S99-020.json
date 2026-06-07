@@ -15,20 +15,20 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "し、失礼しました!!",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 相手のクライマックス置場にクライマックスがあるなら、このカードの正面のキャラのソウルを－1。",
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《異形種》か《ナザリック》のキャラの枚数×1000に等しい。"
+		"【永】 相手のクライマックス置場にクライマックスがあるなら、このカードの正面のキャラのソウルを－1。\u003cbr\u003e【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの、《異形種》か《ナザリック》のキャラの枚数×1000に等しい。"
 	],
 	"specialAttrib": [
 		"異形種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S99-020",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s99/ovl_s99_020.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s99/ovl_s99_020.png",
+	"tags": null,
+	"expansionId": 404
 }

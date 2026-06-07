@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしが殺してしまいたいのは、あの人だけ",
+	"trigger": null,
 	"ability": [
 		"【自】 バトル中のこのカードが【リバース】した時、あなたは自分の山札の上から4枚を、控え室に置く。それらのカードに「舞い飛ぶ影」があるなら、あなたはこのカードを手札に戻してよい。"
 	],
@@ -24,8 +24,9 @@
 		"マスター",
 		"影"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FS/S77-052",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fs_s77/fs_s77_052.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fs_s77/fs_s77_052.png",
+	"tags": null,
+	"expansionId": 314
 }

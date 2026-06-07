@@ -15,20 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "先輩がつけた名前だし、似合っているかも",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの《うさぎ》のキャラがいるなら、このカードは次の能力を得る。『【永】 このカードはアタックできない。』",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。"
+		"【永】 他のあなたの《うさぎ》のキャラがいるなら、このカードは次の能力を得る。『【永】 このカードはアタックできない。』\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から2枚を、控え室に置く。それらのカードにクライマックスがあるなら、このカードを【レスト】する。"
 	],
 	"specialAttrib": [
-		"フルール",
-		"ド",
-		"ラパン",
+		"フルール・ド・ラパン",
 		"特待生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GU/WE26-005",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gu_we26/gu_we26_005.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gu_we26/gu_we26_005.png",
+	"tags": null,
+	"expansionId": 184
 }

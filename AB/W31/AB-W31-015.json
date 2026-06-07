@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "いいぞーっ！",
+	"trigger": null,
 	"ability": [
 		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋500。",
 		"【起】［(1) 他のあなたの《音楽》のキャラを1枚【レスト】する］ あなたは自分の《音楽》のキャラを1枚選び、そのターン中、ソウルを＋1。"
@@ -25,8 +25,9 @@
 		"死",
 		"音楽"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AB/W31-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ab_w31/ab_w31_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ab_w31/ab_w31_015.png",
+	"tags": null,
+	"expansionId": 119
 }

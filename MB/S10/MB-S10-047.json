@@ -10,19 +10,20 @@
 	"colour": "GREEN",
 	"level": "2",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "リーズ｢……さあ、眠りなさいシオン。今度こそ、悪い夢に捕まらないように｣",
+	"trigger": null,
 	"ability": [
 		"あなたは相手のキャラを1枚選び、そのターン中、パワーを－4000。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "MB/S10-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mb_s10/mb_s10_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mb_s10/mb_s10_047.png",
+	"tags": null,
+	"expansionId": 48
 }

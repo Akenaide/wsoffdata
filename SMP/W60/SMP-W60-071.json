@@ -10,23 +10,20 @@
 	"colour": "RED",
 	"level": "2",
 	"cost": "1",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "僕たちは、一歩を踏み出す。\u003cbr\u003e――未来へ進むための一歩を",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「うみ」か「七海」を含むキャラがいないなら、手札からプレイできない。",
-		"このカードを思い出にする。",
-		"【自】 記憶 あなたのアンコールステップの始めに、思い出置場にこのカードがあるなら、このカードを控え室に置き、以下の効果のうちあなたが選んだ1つを行う。",
-		"『あなたは1枚まで引き、自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。』",
-		"『相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
+		"このカードは、あなたのカード名に「うみ」か「七海」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eこのカードを思い出にする。\u003cbr\u003e【自】 記憶 あなたのアンコールステップの始めに、思い出置場にこのカードがあるなら、このカードを控え室に置き、以下の効果のうちあなたが選んだ1つを行う。\u003cbr\u003e『あなたは1枚まで引き、自分のキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋3000。』\u003cbr\u003e『相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "SMP/W60-071",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/smp_w60/smp_w60_071.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/smp_w60/smp_w60_071.png",
+	"tags": null,
+	"expansionId": 238
 }

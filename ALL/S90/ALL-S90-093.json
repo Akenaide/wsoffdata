@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "お久しぶりです",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。",
-		"【自】 相手のキャラが、相手のキャラのトリガーチェックででた[STANDBY]の効果で舞台に置かれた時、他のあなたの《リリィ》のキャラがいるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
+		"【永】 このカードの正面のキャラのコストが0以下なら、このカードは【リバース】しない。\u003cbr\u003e【自】 相手のキャラが、相手のキャラのトリガーチェックででた[[standby.gif]]の効果で舞台に置かれた時、他のあなたの《リリィ》のキャラがいるなら、あなたは自分の山札の上から1枚を、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"リリィ",
 		"ヘルヴォル"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ALL/S90-093",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/all_s90/all_s90_093.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/all_s90/all_s90_093.png",
+	"tags": null,
+	"expansionId": 371
 }

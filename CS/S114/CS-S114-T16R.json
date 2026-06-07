@@ -15,21 +15,21 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。",
-		"【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
+		"【自】 あなたがこのカードの『助太刀』を使った時、あなたは自分の山札を上から1枚見て、山札の上か控え室に置く。\u003cbr\u003e【起】【カウンター】 助太刀2000 レベル1 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2000）"
 	],
 	"specialAttrib": [
 		"MOVIE",
 		"幼稚園",
 		"泣き虫"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CS/S114-T16R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cs_s114/cs_s114_t16r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cs_s114/cs_s114_t16r.png",
+	"tags": null,
+	"expansionId": 481
 }

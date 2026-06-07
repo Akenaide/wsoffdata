@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "はい、ちゅーもーく！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの前列の「無口なゆうレイ レイくん」1枚につき、このカードのパワーを＋1000し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"だじゃれ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-041",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_041.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_041.png",
+	"tags": null,
+	"expansionId": 160
 }

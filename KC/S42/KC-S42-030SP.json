@@ -15,8 +15,8 @@
 	"rarity": "SP",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】［(1)］ このカードがアタックした時、クライマックス置場に「よく狙って……Feuer！」があり、他のあなたの緑のキャラがいるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《艦娘》のキャラを1枚まで選んで相手に見せ、手札に加える。その後、その山札をシャッフルし、次の相手のターンの終わりまで、このカードのパワーを＋2000。"
 	],
@@ -24,8 +24,9 @@
 		"艦娘",
 		"重巡洋艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-030SP",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_030sp.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_030sp.png",
+	"tags": null,
+	"expansionId": 173
 }

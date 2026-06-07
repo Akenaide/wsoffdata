@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "仕事じゃ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードが【リバース】した時、このカードのバトル相手のレベルがＸ以下なら、あなたはそのキャラをストック置場に置いてよい。そうしたら、あなたは相手のストックの下から1枚を、控え室に置く。Ｘはあなたの控え室の「マカロフ」の枚数に等しい。"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"マスター"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FT/S120-015",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/ft_s120/ft_s120_015.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/ft_s120/ft_s120_015.png",
+	"tags": null,
+	"expansionId": 503
 }

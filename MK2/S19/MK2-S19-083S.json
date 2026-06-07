@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】 舞台にこのカードがいるなら、このカードは《怪盗》を得る。",
 		"【永】 相手のターン中、他のあなたのキャラすべてに、パワーを＋500。",
@@ -26,8 +26,9 @@
 		"探偵",
 		"生徒会"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK2/S19-083S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk2_s19/mk2_s19_083s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk2_s19/mk2_s19_083s.png",
+	"tags": null,
+	"expansionId": 87
 }

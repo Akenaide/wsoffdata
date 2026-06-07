@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "おばちゃん、角煮まんじゅう４つ！！",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《タロット》のキャラすべてに、パワーを＋500。",
 		"【起】［手札の「白金 弥太郎」を1枚控え室に置き、このカードを【レスト】する］ あなたのキャラすべてに、そのターン中、ソウルを＋1。"
@@ -25,8 +25,9 @@
 		"タロット",
 		"商人"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GT/W29-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gt_w29/gt_w29_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gt_w29/gt_w29_008.png",
+	"tags": null,
+	"expansionId": 106
 }

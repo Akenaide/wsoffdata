@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "打ち水は随分昔ながらの方法だけど、\u003cbr /\u003eこれで少しは涼しくなるかしら？",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルが2以上なら、このカードは次の能力を得る。『【永】 このカードはフロントアタックできない。』"
 	],
 	"specialAttrib": [
 		"ガール"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GF/W38-078",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gf_w38/gf_w38_078.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gf_w38/gf_w38_078.png",
+	"tags": null,
+	"expansionId": 144
 }

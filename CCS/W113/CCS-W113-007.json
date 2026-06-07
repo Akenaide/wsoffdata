@@ -15,19 +15,19 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。",
-		"【自】 経験 ［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたのレベル置場にイベントがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《Anniversary》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
+		"【自】 このカードが手札から舞台に置かれた時、他のあなたの《Anniversary》のキャラがいるなら、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】 経験 ［(1)］ このカードが手札から舞台に置かれたターン中、このカードのバトル相手が【リバース】した時、あなたのレベル置場にイベントがあるなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札を見て《Anniversary》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
 	],
 	"specialAttrib": [
 		"Anniversary",
 		"クロウカード編",
 		"魔法"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CCS/W113-007",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/ccs_w113/ccs_w113_007.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/ccs_w113/ccs_w113_007.png",
+	"tags": null,
+	"expansionId": 461
 }

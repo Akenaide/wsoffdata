@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "きゅる",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「シリカ」を含むキャラすべてに、パワーを＋500。",
 		"【自】［このカードを控え室に置く］ 他のあなたのカード名に「シリカ」を含むキャラが舞台から控え室に置かれた時、後列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、そのキャラをそのキャラがいた枠に【レスト】して置く。"
@@ -25,8 +25,9 @@
 		"使い魔",
 		"竜"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SAO/S20-054",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sao_s20/sao_s20_054.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sao_s20/sao_s20_054.png",
+	"tags": null,
+	"expansionId": 92
 }

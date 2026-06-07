@@ -15,18 +15,18 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 記憶 あなたの思い出置場にカードがあるなら、このカードのレベルを＋1し、パワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
+		"【永】 記憶 あなたの思い出置場にカードがあるなら、このカードのレベルを＋1し、パワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時か『チェンジ』で舞台に置かれた時、そのターン中、このカードは次の能力を得る。『【自】 このカードのバトル相手が【リバース】した時、あなたはそのキャラを山札の上に置いてよい。』"
 	],
 	"specialAttrib": [
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N2/W32-057",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n2_w32/n2_w32_057.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n2_w32/n2_w32_057.png",
+	"tags": null,
+	"expansionId": 127
 }

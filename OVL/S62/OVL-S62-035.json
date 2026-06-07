@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ぶくぶく茶釜「お昼ごはんの時間だよー」",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「双子の守護者」があるなら、あなたは自分の控え室の、《異形種》か《ナザリック》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【永】 他のあなたの、《異形種》か《ナザリック》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「双子の守護者」があるなら、あなたは自分の控え室の、《異形種》か《ナザリック》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"人間種",
 		"ナザリック"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "OVL/S62-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/o/ovl_s62/ovl_s62_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/o/ovl_s62/ovl_s62_035.png",
+	"tags": null,
+	"expansionId": 254
 }

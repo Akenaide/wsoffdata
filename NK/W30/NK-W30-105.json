@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "どうしたの一条君",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のターン中、他のあなたの前列の中央の枠のキャラに、パワーを＋1000。",
 		"【自】［(1)］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「約束のペンダント」を1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"お菓子",
 		"鍵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "NK/W30-105",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/nk_w30/nk_w30_105.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/nk_w30/nk_w30_105.png",
+	"tags": null,
+	"expansionId": 12
 }

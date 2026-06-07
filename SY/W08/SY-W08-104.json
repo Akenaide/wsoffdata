@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ただの人間には興味ありません",
+	"trigger": null,
 	"ability": [
 		"【永】このカードの正面のキャラが特徴を持たないなら、このカードは次の能力を得る。『【永】このカードはフロントアタックできない。』（サイドアタックできる）",
 		"【自】このカードがフロントアタックされた時、このカードの正面のキャラが特徴を持たないなら、あなたはこのカードを手札に戻してよい。"
@@ -25,8 +25,9 @@
 		"団長",
 		"SOS団"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SY/W08-104",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sy_w08/sy_w08_104.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sy_w08/sy_w08_104.png",
+	"tags": null,
+	"expansionId": 12
 }

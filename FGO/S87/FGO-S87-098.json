@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "098",
@@ -10,23 +10,22 @@
 	"colour": "BLUE",
 	"level": "2",
 	"cost": "0",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "彼はわたしと先輩を――\u003cbr\u003eそういうことができる人間の『善性』を信じてくれた",
+	"trigger": null,
 	"ability": [
-		"このカードは、あなたのカード名に「マシュ」を含むキャラがいないなら、手札からプレイできない。",
-		"あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。",
-		"あなたは自分のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室の「由来を知る資格 マシュ・キリエライト」を2枚まで選び、舞台の好きな枠に置く。"
+		"このカードは、あなたのカード名に「マシュ」を含むキャラがいないなら、手札からプレイできない。\u003cbr\u003eあなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置く。\u003cbr\u003eあなたは自分のキャラを1枚選び、控え室に置いてよい。そうしたら、あなたは自分の控え室の「由来を知る資格 マシュ・キリエライト」を2枚まで選び、舞台の好きな枠に置く。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-098",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_098.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_098.png",
+	"tags": null,
+	"expansionId": 363
 }

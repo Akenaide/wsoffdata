@@ -15,19 +15,19 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "ああ……すでに獲物は捉えた",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 前列にこのカードがいるなら、あなたの《ウマ娘》のキャラすべてに、パワーを＋1500。",
-		"【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「才能の塊」があり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
+		"【永】 前列にこのカードがいるなら、あなたの《ウマ娘》のキャラすべてに、パワーを＋1500。\u003cbr\u003e【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「才能の塊」があり、他のあなたの《ウマ娘》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、相手に3ダメージを与える。（ダメージキャンセルは発生する）"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-080",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_080.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_080.png",
+	"tags": null,
+	"expansionId": 431
 }

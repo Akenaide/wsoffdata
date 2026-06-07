@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "そこでじっと立っていたら寒くない？こっちに来て、一杯どう？",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《艦船》のキャラの枚数×500に等しい。",
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「甘えん坊ね……」があるなら、あなたは自分の控え室の《艦船》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《艦船》のキャラの枚数×500に等しい。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「甘えん坊ね……」があるなら、あなたは自分の控え室の《艦船》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"艦船",
 		"ユニオン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "AZL/S102-117S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/azl_s102/azl_s102_117s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/azl_s102/azl_s102_117s.png",
+	"tags": null,
+	"expansionId": 410
 }

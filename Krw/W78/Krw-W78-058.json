@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "えーいっ！！",
+	"trigger": null,
 	"ability": [
 		"【永】 相手のキャラすべてに、『【自】 アンコール ［(2)］』を与える。"
 	],
@@ -25,8 +25,9 @@
 		"武器",
 		"先生"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Krw/W78-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/krw_w78/krw_w78_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/krw_w78/krw_w78_058.png",
+	"tags": null,
+	"expansionId": 296
 }

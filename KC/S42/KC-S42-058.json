@@ -15,18 +15,18 @@
 	"rarity": "RR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今こそ、秋津洲流戦闘航海術、実践の時。出撃するかも！",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の右のキャラのいない枠に動かしてよい。（1番右の枠にしか動かせない）"
+		"【永】 他のあなたのキャラが1枚以下なら、このカードのパワーを＋1500。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列の右のキャラのいない枠に動かしてよい。（1番右の枠にしか動かせない）"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"水上機母艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-058",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_058.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_058.png",
+	"tags": null,
+	"expansionId": 173
 }

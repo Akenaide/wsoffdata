@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "死縛の装の本当のおそろしさ、見せてやろう！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、クライマックス置場に「本能字四天王、極戦装束！」があるなら、あなたは他の自分の、《服》かカード名に「マコ」を含むキャラを1枚選び、次の相手のターンの終わりまで、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"服",
 		"風紀委員"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KLK/S27-090",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/klk_s27/klk_s27_090.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/klk_s27/klk_s27_090.png",
+	"tags": null,
+	"expansionId": 117
 }

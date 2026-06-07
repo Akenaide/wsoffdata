@@ -1,6 +1,6 @@
 {
 	"set": "FGO",
-	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット-",
+	"setName": "劇場版 Fate/Grand Order -神聖円卓領域キャメロット- ",
 	"side": "S",
 	"release": "87",
 	"id": "080S",
@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "わたしの名はマシュ・キリエライト。\u003cbr\u003e与えられた英霊の真名は――",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードがアタックした時、あなたの手札が5枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
+		"【自】 このカードがアタックした時、あなたの手札が5枚以上なら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【自】 相手のアタックフェイズの始めに、あなたはこのカードを前列のキャラのいない枠に動かしてよい。"
 	],
 	"specialAttrib": [
 		"カルデア",
 		"シールダー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FGO/S87-080S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fgo_s87/fgo_s87_080s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fgo_s87/fgo_s87_080s.png",
+	"tags": null,
+	"expansionId": 363
 }

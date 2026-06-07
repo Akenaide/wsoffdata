@@ -15,18 +15,18 @@
 	"rarity": "OFR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのキャラすべてが《明治剣客浪漫譚》なら、このカードのパワーを＋2000。",
-		"【自】【CXコンボ】 このカードがアタックした時、CX置場に「悪・即・斬」があり、他のあなたの《明治剣客浪漫譚》のキャラが2枚以上なら、あなたは自分の山札の上から1枚を公開する。そのカードが《明治剣客浪漫譚》のキャラなら手札に加え、あなたは相手の後列のコスト0以下のキャラを1枚まで選び、控え室に置く。（そうでないなら元に戻す）"
+		"【永】 あなたのキャラすべてが《明治剣客浪漫譚》なら、このカードのパワーを＋2000。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「悪・即・斬」があり、他のあなたの《明治剣客浪漫譚》のキャラが2枚以上なら、あなたは自分の山札の上から1枚を公開する。そのカードが《明治剣客浪漫譚》のキャラなら手札に加え、あなたは相手の後列のコスト0以下のキャラを1枚まで選び、控え室に置く。（そうでないなら元に戻す）"
 	],
 	"specialAttrib": [
 		"明治剣客浪漫譚",
 		"密偵"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "RKN/S115-072OFR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/r/rkn_s115/rkn_s115_072ofr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/r/rkn_s115/rkn_s115_072ofr.png",
+	"tags": null,
+	"expansionId": 479
 }

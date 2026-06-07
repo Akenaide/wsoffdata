@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "あなたは自分を責めすぎてるわ。鹿目まどか",
+	"trigger": null,
 	"ability": [
 		"【自】 絆／「揺れ動く気持ち まどか」 ［(1)］ （このカードがプレイされて舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「揺れ動く気持ち まどか」を1枚選び、手札に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"時間"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MM/W17-040",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mm_w17/mm_w17_040.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mm_w17/mm_w17_040.png",
+	"tags": null,
+	"expansionId": 74
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ポー「なんでおれを助けてくれるんだ？」\u003cbr /\u003eフィン「正しいことだからさ」",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの《フォースの覚醒》のキャラが2枚以上なら、このカードのパワーを＋1000。",
 		"【自】【CXコンボ】 このカードのバトル相手が【リバース】した時、あなたのクライマックス置場に「I can do this!」があるなら、あなたは自分の山札を見て《フォースの覚醒》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。"
@@ -24,8 +24,9 @@
 	"specialAttrib": [
 		"フォースの覚醒"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SW/S49-008_",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sw_s49/sw_s49_008_.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sw_s49/sw_s49_008_.png",
+	"tags": null,
+	"expansionId": 400
 }

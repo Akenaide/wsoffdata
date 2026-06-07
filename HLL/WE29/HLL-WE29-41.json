@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "がんばるよぉ、リオンちゃん！",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードをカード名に「リオン」を含むキャラの下にマーカーとして表向きに置く］ 他のあなたのカード名に「リオン」を含むキャラがフロントアタックされた時、あなたはコストを払ってよい。そうしたら、あなたは自分のバトル中のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"使者"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "HLL/WE29-41",
-	"imageURL": "/wordpress/wp-content/images/cardlist/h/hll_we29/hll_we29_41.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/h/hll_we29/hll_we29_41.png",
+	"tags": null,
+	"expansionId": 215
 }

@@ -15,8 +15,8 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "左舷、砲雷撃戦用意！",
+	"trigger": null,
 	"ability": [
 		"【自】［手札を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「照明弾」を1枚選び、手札に戻す。",
 		"【自】 このカードがアタックした時、クライマックス置場に「綾波が、守ります！」があるなら、あなたは自分の控え室の《艦娘》のキャラを1枚選び、ストック置場に置いてよい。"
@@ -25,8 +25,9 @@
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S31-035",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s31/kc_s31_035.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s31/kc_s31_035.png",
+	"tags": null,
+	"expansionId": 130
 }

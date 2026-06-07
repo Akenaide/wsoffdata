@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【永】他のあなたの《悪魔》のキャラすべてに、『【自】 アンコール ［手札のキャラを1枚控え室に置く］』を与える。",
 		"【自】［(1)］ このカードが舞台から控え室に置かれた時、あなたの控え室のクライマックスが4枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のキャラを1枚選び、手札に戻す。"
@@ -25,8 +25,9 @@
 		"天使",
 		"悪魔"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-054S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_054sr.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_054sr.png",
+	"tags": null,
+	"expansionId": 5
 }

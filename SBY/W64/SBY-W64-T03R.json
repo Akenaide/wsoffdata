@@ -15,18 +15,18 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "今のうちに逃げて！",
+	"trigger": null,
 	"ability": [
-		"【永】 あなたのターン中、このカードのパワーを＋1000。",
-		"【自】 このカードがアタックした時、あなたは自分の《思春期》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
+		"【永】 あなたのターン中、このカードのパワーを＋1000。\u003cbr\u003e【自】 このカードがアタックした時、あなたは自分の《思春期》のキャラを1枚選び、そのターン中、レベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"思春期",
 		"スマホ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "SBY/W64-T03R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/s/sby_w64/sby_w64_t03r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/s/sby_w64/sby_w64_t03r.png",
+	"tags": null,
+	"expansionId": 256
 }

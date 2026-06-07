@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "くそうっ。百葉箱にないぜ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがフロントアタックされた時、このカードを控え室に置く。（バトル相手がいなくなってもダイレクトアタックにはならない）"
 	],
@@ -24,8 +24,9 @@
 		"ギガント",
 		"主人公"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GST/SE22-09",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gst_se22/gst_se22_09.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gst_se22/gst_se22_09.png",
+	"tags": null,
+	"expansionId": 126
 }

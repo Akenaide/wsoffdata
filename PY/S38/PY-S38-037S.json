@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "SECRET",
+	"trigger": null,
 	"ability": [
 		"【自】［手札の「みどりぷよ」を1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室の「フィーバーモード」を1枚選び、手札に戻し、そのターン中、このカードのパワーを＋1000。"
 	],
@@ -24,8 +24,9 @@
 		"ぷよ",
 		"王族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PY/S38-037S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/py_s38/py_s38_037s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/py_s38/py_s38_037s.png",
+	"tags": null,
+	"expansionId": 160
 }

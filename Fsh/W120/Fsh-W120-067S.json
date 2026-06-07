@@ -15,18 +15,18 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "英梨々『昔のことだから……今のあたしたちには、何の影響もないことだから、別にいいよ』",
+	"trigger": null,
 	"ability": [
-		"【永】 他のあなたの、《ファンタジア文庫》か《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。",
-		"【自】 このカードが手札から舞台に置かれた時、他のあなたの、《ファンタジア文庫》か《ゲーム》のキャラが4枚以上なら、あなたは自分の控え室の、《ファンタジア文庫》か《ゲーム》のキャラを1枚選び、ストック置場に置いてよい。"
+		"【永】 他のあなたの、《ファンタジア文庫》か《ゲーム》のキャラ1枚につき、このカードのパワーを＋500。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、他のあなたの、《ファンタジア文庫》か《ゲーム》のキャラが4枚以上なら、あなたは自分の控え室の、《ファンタジア文庫》か《ゲーム》のキャラを1枚選び、ストック置場に置いてよい。"
 	],
 	"specialAttrib": [
 		"ファンタジア文庫",
 		"ゲーム"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Fsh/W120-067S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fsh_w120/fsh_w120_067s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fsh_w120/fsh_w120_067s.png",
+	"tags": null,
+	"expansionId": 489
 }

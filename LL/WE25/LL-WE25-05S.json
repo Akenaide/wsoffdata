@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "穂乃果隊員！出動です！",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、他のあなたの前列の中央の枠のキャラに、そのターン中、レベルを＋1し、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"消防士"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LL/WE25-05S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ll_we25/ll_we25_05s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ll_we25/ll_we25_05s.png",
+	"tags": null,
+	"expansionId": 156
 }

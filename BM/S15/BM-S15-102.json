@@ -15,16 +15,17 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何でもないの。ならいいわ",
+	"trigger": null,
 	"ability": [
 		"【自】 このカードがアタックした時、あなたは自分の《怪異》のキャラを2枚まで選び、そのターン中、パワーを＋500。"
 	],
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-102",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_102.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_102.png",
+	"tags": null,
+	"expansionId": 55
 }

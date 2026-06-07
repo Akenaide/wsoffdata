@@ -15,16 +15,17 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの山札の上から1枚をクロック置場に置く］ このカードがアタックした時、クライマックス置場に「重さの無い少女」があるなら、あなたはコストを払ってよい。そうしたら、あなたのキャラすべてに、そのターン中、レベルを＋1し、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"怪異"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-030",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_030.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_030.png",
+	"tags": null,
+	"expansionId": 60
 }

@@ -10,20 +10,20 @@
 	"colour": "GREEN",
 	"level": "3",
 	"cost": "3",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "折紙「識別・AST・鳶一折紙」",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 次の行動を3回行う。『あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－1。』』",
-		"このカードを思い出にする。"
+		"【カウンター】 次の行動を3回行う。『あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【永】 このカードの正面のキャラのソウルを－1。』』\u003cbr\u003eこのカードを思い出にする。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "DAL/W79-047",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dal_w79/dal_w79_047.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dal_w79/dal_w79_047.png",
+	"tags": null,
+	"expansionId": 302
 }

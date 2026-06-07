@@ -15,8 +15,8 @@
 	"rarity": "WIR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "マジックアワー。前髪よりも短い夏",
+	"trigger": null,
 	"ability": [
 		"【自】 あなたのクライマックスがクライマックス置場に置かれた時、そのターン中、このカードのパワーを＋1500し、あなたは自分の山札の上から1枚を公開する。そのカードがレベル0以下のキャラならストック置場に置く。（そうでないなら元に戻す）"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"放課後クライマックスガールズ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ISC/S81-018WIR",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/isc_s81/isc_s81_018wir.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/isc_s81/isc_s81_018wir.png",
+	"tags": null,
+	"expansionId": 332
 }

@@ -15,7 +15,7 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "誰かがいるから、がんばれる！ 誰かがいるから\u003cbr /\u003e……楽しいの！　ただ、それだけなのっ！",
 	"trigger": [
 		"SOUL"
 	],
@@ -26,8 +26,9 @@
 		"音楽",
 		"ネット"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/S21-124",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_s21/im_s21_124.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_s21/im_s21_124.png",
+	"tags": null,
+	"expansionId": 80
 }

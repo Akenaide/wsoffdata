@@ -15,20 +15,20 @@
 	"rarity": "R",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "フェイト「防御が固い、だけど……二人でなら……！」\u003cbr\u003eなのは「うん、うんッ！」",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 他のあなたの「分け合う気持ち なのは＆フェイト」すべてに、パワーを＋1000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻してよい。"
+		"【永】 他のあなたの「分け合う気持ち なのは＆フェイト」すべてに、パワーを＋1000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の《魔法》のキャラを1枚選び、手札に戻してよい。"
 	],
 	"specialAttrib": [
 		"魔法",
 		"クローン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N1/W32-021",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n1_w32/n1_w32_021.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n1_w32/n1_w32_021.png",
+	"tags": null,
+	"expansionId": 127
 }

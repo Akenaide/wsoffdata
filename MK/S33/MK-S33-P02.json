@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なんだか私、楽しくなってきちゃった",
+	"trigger": null,
 	"ability": [
 		"【永】他のあなたのカード名に「カズミ」を含むキャラがいるなら、他のあなたの前列の中央の枠のキャラに、パワーを＋1500。"
 	],
@@ -24,8 +24,9 @@
 		"探偵",
 		"水着"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "MK/S33-P02",
-	"imageURL": "/wordpress/wp-content/images/cardlist/m/mk_s33/mk_s33_p02.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/m/mk_s33/mk_s33_p02.png",
+	"tags": null,
+	"expansionId": 13
 }

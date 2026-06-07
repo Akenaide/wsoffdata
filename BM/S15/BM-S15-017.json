@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】［あなたの舞台のキャラを1枚控え室に置く］ このカードがアタックした時、クライマックス置場に「存在を保つため」があるなら、あなたはコストを払ってよい。そうしたら、そのターン中、このカードのパワーを＋4000し、ソウルを＋1。"
 	],
@@ -24,8 +24,9 @@
 		"怪異",
 		"血"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BM/S15-017",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bm_s15/bm_s15_017.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bm_s15/bm_s15_017.png",
+	"tags": null,
+	"expansionId": 60
 }

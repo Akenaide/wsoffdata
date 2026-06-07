@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "それとね、その勉強会って、もう一人誘っていいかな？",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルが3以上なら、このカードのパワーを＋7500。"
 	],
@@ -24,8 +24,9 @@
 		"鍵",
 		"令嬢"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VR/W22-089",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vr_w22/vr_w22_089.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vr_w22/vr_w22_089.png",
+	"tags": null,
+	"expansionId": 97
 }

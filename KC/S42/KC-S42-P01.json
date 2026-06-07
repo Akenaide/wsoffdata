@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "改装された皐月、どう？　……試してみる？",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3000。",
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「睦月型駆逐艦5番艦 皐月」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
+		"【永】 このカードの下にマーカーがあるなら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「睦月型駆逐艦5番艦 皐月」を1枚選び、このカードの下にマーカーとして裏向きに置いてよい。"
 	],
 	"specialAttrib": [
 		"艦娘",
 		"駆逐艦"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KC/S42-P01",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/kc_s42/kc_s42_p01.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/kc_s42/kc_s42_p01.png",
+	"tags": null,
+	"expansionId": 13
 }

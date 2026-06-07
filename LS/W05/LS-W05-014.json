@@ -15,8 +15,8 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "こういう誰もが特別って思える日に告白されたりしたりして\u003cbr /\u003e想いが通じ合ったらすごく素敵だなって思うもん",
+	"trigger": null,
 	"ability": [
 		"【永】 アラーム このカードがクロックの1番上にあるなら、あなたの《お菓子》のキャラすべてに、次の能力を与える。『【自】 このカードとバトルしているキャラが【リバース】した時、あなたは自分のキャラを1枚選び、そのターン中、ソウルを＋1。』"
 	],
@@ -24,8 +24,9 @@
 		"双子",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "LS/W05-014",
-	"imageURL": "/wordpress/wp-content/images/cardlist/l/ls_w05/ls_w05_014.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/l/ls_w05/ls_w05_014.png",
+	"tags": null,
+	"expansionId": 16
 }

@@ -15,8 +15,8 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なのは「だけど……なにもわからないままぶつかりあうのは、嫌だ！」",
+	"trigger": null,
 	"ability": [
 		"【起】［(1) このカードを【レスト】する］ あなたは相手の控え室のカードを1枚選び、山札の上に置く"
 	],
@@ -24,8 +24,9 @@
 		"魔法",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "N1/WPR-002",
-	"imageURL": "/wordpress/wp-content/images/cardlist/n/n1_wpr/n1_wpr_002.gif",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/n/n1_wpr/n1_wpr_002.gif",
+	"tags": null,
+	"expansionId": 12
 }

@@ -15,16 +15,17 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "追いかけましょう、一緒に！\u003cbr\u003e大切な、あなたの夢を掴むために！",
+	"trigger": null,
 	"ability": [
 		"【自】［このカードを【レスト】する］ あなたのクライマックスフェイズの始めに、このカードが【スタンド】しているなら、あなたはコストを払ってよい。そうしたら、あなたは自分の山札の上から1枚を、控え室に置く。そのカードがあなたの舞台にいるキャラと同じカード名のキャラなら、そのカードをストック置場に置く。"
 	],
 	"specialAttrib": [
 		"ウマ娘"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "UMA/W106-P01S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/u/uma_w106/uma_w106_p01s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/u/uma_w106/uma_w106_p01s.png",
+	"tags": null,
+	"expansionId": 12
 }

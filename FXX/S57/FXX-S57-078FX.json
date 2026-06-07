@@ -15,19 +15,19 @@
 	"rarity": "FXR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "-",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「エンビショップ」があり、あなたの手札が5枚以下なら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』",
-		"【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
+		"【自】【CXコンボ】 このカードがアタックした時、クライマックス置場に「エンビショップ」があり、あなたの手札が5枚以下なら、次の相手のターンの終わりまで、このカードは次の能力を得る。『【永】 このカードの正面のキャラのソウルを－2。』\u003cbr\u003e【自】 相手のドローフェイズの始めに、前列にこのカードがいるなら、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋4000。"
 	],
 	"specialAttrib": [
 		"フランクス"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "FXX/S57-078FX",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_078fx.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_078fx.png",
+	"tags": null,
+	"expansionId": 241
 }

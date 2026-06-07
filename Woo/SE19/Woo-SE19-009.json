@@ -15,8 +15,8 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【自】 アンコール ［あなたの山札の上から1枚をクロック置場に置く］ （このカードが舞台から控え室に置かれた時、あなたはコストを払ってよい。そうしたら、このカードがいた枠に【レスト】して置く）"
 	],
@@ -24,8 +24,9 @@
 		"謎",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "Woo/SE19-009",
-	"imageURL": "/wordpress/wp-content/images/cardlist/w/woo_se19/woo_se19_009.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/w/woo_se19/woo_se19_009.png",
+	"tags": null,
+	"expansionId": 109
 }

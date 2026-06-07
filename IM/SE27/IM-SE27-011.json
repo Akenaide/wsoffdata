@@ -15,19 +15,18 @@
 	"rarity": "RE",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードと同じカード名のカードと、「頭脳明晰 律子」は、デッキに合計4枚まで入れることができる。",
-		"【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。",
-		"【起】 集中 [(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
+		"【永】 このカードと同じカード名のカードと、「頭脳明晰 律子」は、デッキに合計4枚まで入れることができる。\u003cbr\u003e【自】 相手が『集中』を使った時、その効果でクライマックスが控え室に置かれたなら、あなたは1枚引いてよい。そうしたら、あなたは自分の手札を1枚選び、控え室に置く。\u003cbr\u003e【起】 集中 [(1) このカードを【レスト】する］ あなたは自分の山札の上から4枚をめくり、控え室に置く。それらのカードのクライマックス1枚につき、あなたは1枚まで引く。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"メガネ"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IM/SE27-011",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/im_se27/im_se27_011.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/im_se27/im_se27_011.png",
+	"tags": null,
+	"expansionId": 148
 }

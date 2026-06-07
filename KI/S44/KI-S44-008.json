@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 あなたのレベルが3以上なら、このカードの正面のキャラのソウルを－1。"
 	],
@@ -24,8 +24,9 @@
 		"キズナ",
 		"不思議"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "KI/S44-008",
-	"imageURL": "/wordpress/wp-content/images/cardlist/k/ki_s44/ki_s44_008.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/k/ki_s44/ki_s44_008.png",
+	"tags": null,
+	"expansionId": 177
 }

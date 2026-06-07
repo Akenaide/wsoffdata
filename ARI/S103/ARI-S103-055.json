@@ -15,18 +15,18 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ハジメ…これ",
+	"trigger": null,
 	"ability": [
-		"【自】 相手のカードが、思い出になった時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。",
-		"【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[COMEBACK]のクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
+		"【自】 相手のカードが、思い出になった時、あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。\u003cbr\u003e【起】 集中 ［(1) このカードを【レスト】する］ あなたは自分の山札の上から5枚をめくり、控え室に置く。それらのカードのトリガーアイコンが[[salvage.gif]]のクライマックス1枚につき、あなたは自分の控え室のキャラを1枚まで選び、手札に戻す。"
 	],
 	"specialAttrib": [
 		"トータス",
 		"吸血鬼族"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "ARI/S103-055",
-	"imageURL": "/wordpress/wp-content/images/cardlist/a/ari_s103/ari_s103_055.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/ari_s103/ari_s103_055.png",
+	"tags": null,
+	"expansionId": 414
 }

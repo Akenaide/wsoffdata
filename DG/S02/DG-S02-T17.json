@@ -15,7 +15,7 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "……だれだ、このラハール様の\u003cbr /\u003e眠りをさまたげる命知らずは？",
 	"trigger": [
 		"SOUL"
 	],
@@ -27,8 +27,9 @@
 		"悪魔",
 		"武器"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "DG/S02-T17",
-	"imageURL": "/wordpress/wp-content/images/cardlist/d/dg_s02/dg_s02_t17.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/dg_s02/dg_s02_t17.png",
+	"tags": null,
+	"expansionId": 9
 }

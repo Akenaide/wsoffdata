@@ -15,8 +15,8 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "だから……仲良くしよ▽って事",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたの、《変身》か《家事》のキャラが3枚以上なら、このカードのパワーを＋1500し、このカードは相手のキャラの【自】の効果によって【リバース】されない。"
 	],
@@ -24,8 +24,9 @@
 		"変身",
 		"お菓子"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TL/W37-012",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tl_w37/tl_w37_012.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tl_w37/tl_w37_012.png",
+	"tags": null,
+	"expansionId": 150
 }

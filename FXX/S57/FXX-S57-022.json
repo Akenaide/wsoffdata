@@ -10,20 +10,20 @@
 	"colour": "YELLOW",
 	"level": "3",
 	"cost": "2",
-	"power": "0",
+	"power": "-",
 	"soul": "0",
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "なによ、みんなすっかり仲直りしちゃってさ。絶対出てってやるもんか",
+	"trigger": null,
 	"ability": [
-		"【カウンター】 あなたは相手のキャラを2枚まで選び、そのターン中、ソウルを＋4し、次の能力を与える。『【永】 このカードはサイドアタックできない。』",
-		"このカードを山札の下に置く。"
+		"【カウンター】 あなたは相手のキャラを2枚まで選び、そのターン中、ソウルを＋4し、次の能力を与える。『【永】 このカードはサイドアタックできない。』\u003cbr\u003eこのカードを山札の下に置く。"
 	],
-	"specialAttrib": [],
-	"version": "3",
+	"specialAttrib": null,
+	"version": "4",
 	"cardcode": "FXX/S57-022",
-	"imageURL": "/wordpress/wp-content/images/cardlist/f/fxx_s57/fxx_s57_022.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/f/fxx_s57/fxx_s57_022.png",
+	"tags": null,
+	"expansionId": 241
 }

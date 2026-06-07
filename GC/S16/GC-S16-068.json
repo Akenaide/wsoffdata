@@ -15,16 +15,17 @@
 	"rarity": "C",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ねえ……ホントに飛ぶの？",
+	"trigger": null,
 	"ability": [
 		"【永】 他のあなたのカード名に「集」を含むキャラがいるなら、このカードのレベルを＋1し、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"特徴なし"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "GC/S16-068",
-	"imageURL": "/wordpress/wp-content/images/cardlist/g/gc_s16/gc_s16_068.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/g/gc_s16/gc_s16_068.png",
+	"tags": null,
+	"expansionId": 76
 }

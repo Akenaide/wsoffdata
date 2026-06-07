@@ -15,18 +15,18 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "ヴァイスシュヴァルツで勝てますように！",
+	"trigger": null,
 	"ability": [
-		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の願い事を唱えてよい。そうしたら、あなたはその願いが叶うよう、日々努力する。",
-		"\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の願い事を唱えてよい。そうしたら、あなたはその願いが叶うよう、日々努力する。\u003cbr\u003e\u003cfont color=\"crimson\"\u003e※このカードは公式・公認大会では使用できません。\u003c/font\u003e"
 	],
 	"specialAttrib": [
 		"カードゲーム",
 		"和服"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "CGS/WS01-P07",
-	"imageURL": "/wordpress/wp-content/images/cardlist/c/cgs_ws01/cgs_ws01_p07.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/c/cgs_ws01/cgs_ws01_p07.png",
+	"tags": null,
+	"expansionId": 11
 }

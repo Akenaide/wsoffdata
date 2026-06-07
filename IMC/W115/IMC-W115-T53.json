@@ -15,18 +15,18 @@
 	"rarity": "TD",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "何を持ってきとるんじゃ、おどれらは！？うちがいつ、こんなフリフリでヒラヒラの服を持ってこいと言うたんじゃ！右も左も要らん！うちのスカジャンを早ぉ持ってこいや！",
+	"trigger": null,
 	"ability": [
-		"【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。",
-		"【起】［あなたの《音楽》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
+		"【自】［(1) 手札のCXを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分の控え室のCXを1枚選び、手札に戻す。\u003cbr\u003e【起】［あなたの《音楽》のキャラを2枚【レスト】する］ あなたは自分のキャラを1枚選び、そのターン中、パワーを＋2000。"
 	],
 	"specialAttrib": [
 		"音楽",
 		"演歌"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "IMC/W115-T53",
-	"imageURL": "/wordpress/wp-content/images/cardlist/i/imc_w115/imc_w115_t53.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/imc_w115/imc_w115_t53.png",
+	"tags": null,
+	"expansionId": 476
 }

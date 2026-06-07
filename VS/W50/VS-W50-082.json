@@ -15,20 +15,20 @@
 	"rarity": "U",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "失礼します",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】【CXコンボ】 あなたのクライマックス置場に「過酷な練習」が置かれた時、他のあなたの《格闘》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《格闘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】【CXコンボ】 あなたのクライマックス置場に「過酷な練習」が置かれた時、他のあなたの《格闘》のキャラが2枚以上なら、あなたは自分の山札を上から4枚まで見て、《格闘》のキャラを1枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置き、自分のキャラを1枚選び、そのターン中、パワーを＋1000。"
 	],
 	"specialAttrib": [
 		"格闘",
 		"トレーナー"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "VS/W50-082",
-	"imageURL": "/wordpress/wp-content/images/cardlist/v/vs_w50/vs_w50_082.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/v/vs_w50/vs_w50_082.png",
+	"tags": null,
+	"expansionId": 200
 }

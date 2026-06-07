@@ -15,20 +15,20 @@
 	"rarity": "RRR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
+	"flavourText": "世界を再生することと目の前の困っている人を助けることはそんなに相反することなの？\u003cbr\u003e私はそうは思わない",
 	"trigger": [
 		"SOUL"
 	],
 	"ability": [
-		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。",
-		"【自】 あなたのCXがトリガーした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分の《冒険》のキャラを1枚選び、そのターン中、パワーを＋1500。"
+		"【永】 応援 このカードの前のあなたのキャラすべてに、パワーを＋Ｘ。Ｘはそのキャラのレベル×500に等しい。\u003cbr\u003e【自】 あなたのCXがトリガーした時、あなたは自分の山札を上から2枚まで見て、山札の上に好きな順番で置き、自分の《冒険》のキャラを1枚選び、そのターン中、パワーを＋1500。"
 	],
 	"specialAttrib": [
 		"冒険",
 		"シンフォニア"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "TAL/S126-T07R",
-	"imageURL": "/wordpress/wp-content/images/cardlist/t/tal_s126/tal_s126_t07r.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/tal_s126/tal_s126_t07r.png",
+	"tags": null,
+	"expansionId": 537
 }

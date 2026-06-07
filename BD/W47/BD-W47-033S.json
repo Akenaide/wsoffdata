@@ -15,8 +15,8 @@
 	"rarity": "SR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
 		"【永】 このカードの正面のキャラのレベルがこのカードのレベルより高いなら、このカードはフロントアタックできない。"
 	],
@@ -24,8 +24,9 @@
 		"音楽",
 		"パン"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "BD/W47-033S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/b/bd_w47/bd_w47_033s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/b/bd_w47/bd_w47_033s.png",
+	"tags": null,
+	"expansionId": 196
 }

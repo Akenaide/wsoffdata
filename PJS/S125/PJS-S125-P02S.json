@@ -15,20 +15,19 @@
 	"rarity": "PR",
 	"breakDeckbuilding": false,
 	"EN_Equivalent": false,
-	"flavourText": "",
-	"trigger": [],
+	"flavourText": "-",
+	"trigger": null,
 	"ability": [
-		"【永】 このカードの正面のキャラのソウルを＋2。",
-		"【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
+		"【永】 このカードの正面のキャラのソウルを＋2。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたは1枚引き、自分の手札を1枚選び、控え室に置く。"
 	],
 	"specialAttrib": [
 		"音楽",
-		"バーチャル",
-		"シンガー",
+		"バーチャル・シンガー",
 		"MORE MORE JUMP！"
 	],
-	"version": "3",
+	"version": "4",
 	"cardcode": "PJS/S125-P02S",
-	"imageURL": "/wordpress/wp-content/images/cardlist/p/pjs_s125/pjs_s125_p02s.png",
-	"tags": null
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/p/pjs_s125/pjs_s125_p02s.png",
+	"tags": null,
+	"expansionId": 13
 }
