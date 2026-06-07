@@ -1,0 +1,32 @@
+{
+	"set": "IMS",
+	"setName": "",
+	"side": "S",
+	"release": "E55",
+	"id": "66",
+	"name": "",
+	"jpName": "I.D ～EScape from Utopia～",
+	"cardType": "CX",
+	"colour": "BLUE",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
+	"soul": "0",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "シホ「チハヤと出会って私たちに感情が芽生えたこと、処理を拒んで反乱を起こしたこと……。悩みながらの行動だったけど、満足してるもの。」",
+	"trigger": [
+		"SOUL",
+		"GATE"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[gate.gif]]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+	],
+	"specialAttrib": null,
+	"version": "3",
+	"cardcode": "IMS/SE55-66",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_se55/ims_se55_66.png",
+	"tags": null,
+	"expansionId": 549
+}

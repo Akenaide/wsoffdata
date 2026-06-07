@@ -1,0 +1,34 @@
+{
+	"set": "IMS",
+	"setName": "",
+	"side": "S",
+	"release": "E55",
+	"id": "58",
+	"name": "",
+	"jpName": "流星群　ジュリア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "けど、あたしはまだまだ歌えるぜ？今はまだ、見てくれる人は少ないけど……。いつかでっかいハコを、満員にしてやるんだ！",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《音楽》のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 あなたのレベル3以上のキャラの与えたダメージがキャンセルされた時、あなたは自分の山札を上から1枚見て、山札の上か下に置く。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"ロック"
+	],
+	"version": "3",
+	"cardcode": "IMS/SE55-58",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_se55/ims_se55_58.png",
+	"tags": null,
+	"expansionId": 549
+}

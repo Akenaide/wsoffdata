@@ -1,0 +1,34 @@
+{
+	"set": "THP",
+	"setName": "",
+	"side": "S",
+	"release": "130",
+	"id": "062",
+	"name": "",
+	"jpName": "永遠に紅い幼き月 レミリア",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "こんなに月も紅いから本気で殺すわよ\u003cbr\u003e（「東方紅魔郷　～ the Embodiment of Scarlet Devil.」より）",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「「紅色の幻想郷」」があり、他のあなたの《幻想郷》のキャラが2枚以上なら、あなたは相手の山札を上から2枚まで見て、カードを2枚まで選び、山札の上に好きな順番で置き、残りのカードを控え室に置き、そのターン中、このカードは次の能力を得る。『【自】［(3) 手札を1枚控え室に置き、あなたのCX置場のCXを1枚控え室に置く］ このカードのアタックの終わりに、あなたはコストを払ってよい。そうしたら、相手に1ダメージを2回与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"紅魔館"
+	],
+	"version": "3",
+	"cardcode": "THP/S130-062",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_062.png",
+	"tags": null,
+	"expansionId": 552
+}

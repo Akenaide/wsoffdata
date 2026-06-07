@@ -1,0 +1,34 @@
+{
+	"set": "THP",
+	"setName": "",
+	"side": "S",
+	"release": "130",
+	"id": "017",
+	"name": "",
+	"jpName": "超妖怪弾頭 にとり",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "2",
+	"cost": "0",
+	"power": "6000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "じゃあねー人間 ちなみにこれ以上来ると危険だよー\u003cbr\u003e（「東方風神録　～ Mountain of Faith.」より）",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《幻想郷》のキャラが2枚以上なら、このカードのパワーを＋2000。\u003cbr\u003e【自】 このカードがアタックした時、CX置場にトリガーアイコンが[[choice.gif]]のCXがあり、他のあなたの《幻想郷》のキャラがいるなら、あなたは自分の山札の上から1枚を公開する。そのカードが《幻想郷》のキャラなら手札に加える。（そうでないなら元に戻す）"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"妖怪の山"
+	],
+	"version": "3",
+	"cardcode": "THP/S130-017",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_017.png",
+	"tags": null,
+	"expansionId": 552
+}

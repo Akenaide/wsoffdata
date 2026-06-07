@@ -1,0 +1,31 @@
+{
+	"set": "ANM",
+	"setName": "",
+	"side": "W",
+	"release": "138",
+	"id": "T09S",
+	"name": "",
+	"jpName": "茶色い馬の迎え",
+	"cardType": "CX",
+	"colour": "YELLOW",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
+	"soul": "0",
+	"rarity": "TDP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "乗・ら・な・い・の？",
+	"trigger": [
+		"CHOICE"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[choice.gif]]：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンに[[soul.gif]]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+	],
+	"specialAttrib": null,
+	"version": "3",
+	"cardcode": "ANM/W138-T09S",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/anm_w138/anm_w138_t09s.png",
+	"tags": null,
+	"expansionId": 550
+}

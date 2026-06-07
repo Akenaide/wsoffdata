@@ -1,0 +1,34 @@
+{
+	"set": "IMS",
+	"setName": "",
+	"side": "S",
+	"release": "E55",
+	"id": "35",
+	"name": "",
+	"jpName": "vivid color　高山紗代子",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "2",
+	"cost": "1",
+	"power": "5500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "悪い方向に考えちゃダメ。アイドルになるって、決めたんだから。顔を上げて、前に進まなきゃ！",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの後列の《音楽》のキャラ1枚につき、このカードのパワーを＋2500。\u003cbr\u003e【自】 このカードのバトル相手が【リバース】した時、あなたのCX置場にトリガーアイコンが[[salvage.gif]]のCXがあるなら、あなたは自分の山札の上から1枚までを、ストック置場に置き、次の相手のターンの終わりまで、このカードのパワーを＋1000。"
+	],
+	"specialAttrib": [
+		"音楽",
+		"熱血"
+	],
+	"version": "3",
+	"cardcode": "IMS/SE55-35",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_se55/ims_se55_35.png",
+	"tags": null,
+	"expansionId": 549
+}

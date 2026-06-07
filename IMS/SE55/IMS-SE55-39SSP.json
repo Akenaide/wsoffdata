@@ -1,0 +1,34 @@
+{
+	"set": "IMS",
+	"setName": "",
+	"side": "S",
+	"release": "E55",
+	"id": "39SSP",
+	"name": "",
+	"jpName": "未来飛行　春日未来",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "SSP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の手札の自分のレベル以下のレベルのキャラを1枚まで選び、舞台の好きな枠に置き、そのターン中、このカードのパワーを＋2000。\u003cbr\u003e【自】【ターン1】 あなたのターン中、あなたがイベントをプレイした時、あなたは相手のキャラを1枚選び、そのターン中、パワーを－Ｘ。Ｘはそのイベントのコスト×1000に等しい。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「ABSOLUTE RUN!!!」があるなら、相手に1ダメージを与え、あなたは相手の控え室のカードを1枚まで選び、山札の上に置く。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"髪留め"
+	],
+	"version": "3",
+	"cardcode": "IMS/SE55-39SSP",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_se55/ims_se55_39ssp.png",
+	"tags": null,
+	"expansionId": 549
+}

@@ -1,0 +1,32 @@
+{
+	"set": "IMS",
+	"setName": "",
+	"side": "S",
+	"release": "E55",
+	"id": "66BNP",
+	"name": "",
+	"jpName": "I.D ～EScape from Utopia～",
+	"cardType": "CX",
+	"colour": "BLUE",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
+	"soul": "0",
+	"rarity": "BNP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "ツムギ「おかしな話ですね、機能停止したはずなのに。まさかアンドロイドである私たちが、このような夢を見るだなんて……。」",
+	"trigger": [
+		"SOUL",
+		"GATE"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[gate.gif]]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+	],
+	"specialAttrib": null,
+	"version": "3",
+	"cardcode": "IMS/SE55-66BNP",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_se55/ims_se55_66bnp.png",
+	"tags": null,
+	"expansionId": 549
+}

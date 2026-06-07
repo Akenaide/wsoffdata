@@ -1,0 +1,31 @@
+{
+	"set": "THP",
+	"setName": "",
+	"side": "S",
+	"release": "130",
+	"id": "026",
+	"name": "",
+	"jpName": "魔符「スターダストレヴァリエ」",
+	"cardType": "CX",
+	"colour": "YELLOW",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
+	"soul": "0",
+	"rarity": "CR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"CHOICE"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[choice.gif]]：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンに[[soul.gif]]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+	],
+	"specialAttrib": null,
+	"version": "3",
+	"cardcode": "THP/S130-026",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_026.png",
+	"tags": null,
+	"expansionId": 552
+}

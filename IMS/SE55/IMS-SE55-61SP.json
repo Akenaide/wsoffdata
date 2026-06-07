@@ -1,0 +1,34 @@
+{
+	"set": "IMS",
+	"setName": "",
+	"side": "S",
+	"release": "E55",
+	"id": "61SP",
+	"name": "",
+	"jpName": "STEREOPHONIC ISOTONIC　ロコ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "11000",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『相手は自分のストックすべてを、山札に戻し、その山札をシャッフルし、自分の山札の上から同じ枚数をストック置場に置く。』『あなたは自分の山札の上から4枚を、控え室に置いてよい。そうしたら、相手にＸダメージを与える。ＸはそれらのカードのCXの枚数に等しい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"アート"
+	],
+	"version": "3",
+	"cardcode": "IMS/SE55-61SP",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_se55/ims_se55_61sp.png",
+	"tags": null,
+	"expansionId": 549
+}

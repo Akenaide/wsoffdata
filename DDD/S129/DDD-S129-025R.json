@@ -1,0 +1,31 @@
+{
+	"set": "DDD",
+	"setName": "",
+	"side": "S",
+	"release": "129",
+	"id": "025R",
+	"name": "",
+	"jpName": "VS音楽室の怪異",
+	"cardType": "CX",
+	"colour": "YELLOW",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
+	"soul": "0",
+	"rarity": "RRR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "オカルン「音の弾幕はもう通用しない!!」",
+	"trigger": [
+		"CHOICE"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[choice.gif]]：このカードがトリガーした時、あなたは自分の控え室のトリガーアイコンに[[soul.gif]]があるキャラを1枚選び、手札に戻すかストック置場に置いてよい）"
+	],
+	"specialAttrib": null,
+	"version": "3",
+	"cardcode": "DDD/S129-025R",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/d/ddd_s129/ddd_s129_025r.png",
+	"tags": null,
+	"expansionId": 551
+}

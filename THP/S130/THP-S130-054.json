@@ -1,0 +1,34 @@
+{
+	"set": "THP",
+	"setName": "",
+	"side": "S",
+	"release": "130",
+	"id": "054",
+	"name": "",
+	"jpName": "熱かい悩む神の火 空",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "C",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "究極の核融合で身も心も幽霊も妖精もフュージョンし尽くすがいい！\u003cbr\u003e（「東方地霊殿　～ Subterranean Animism.」より）",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の《幻想郷》のキャラを2枚まで選び、そのターン中、パワーを＋1500。\u003cbr\u003e【自】［(2) 手札を1枚控え室に置く］ このカードが手札から舞台に置かれたターン中、このカードがアタックした時、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"地霊殿"
+	],
+	"version": "3",
+	"cardcode": "THP/S130-054",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_054.png",
+	"tags": null,
+	"expansionId": 552
+}

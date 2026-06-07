@@ -1,0 +1,34 @@
+{
+	"set": "THP",
+	"setName": "",
+	"side": "S",
+	"release": "130",
+	"id": "100",
+	"name": "",
+	"jpName": "不自然な冷気 チルノ",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "6500",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードがアタックした時、そのターン中、このカードのパワーを＋Ｘ。Ｘは他のあなたの《幻想郷》のキャラの枚数×1500に等しい。\u003cbr\u003e【自】【CXコンボ】 このカードのアタックの終わりに、CX置場に「氷符「アイシクルフォール」」があり、他のあなたの《幻想郷》のキャラがいるなら、あなたは自分の山札の上から2枚を、控え室に置き、自分の控え室のレベルＸ以下の《幻想郷》のキャラを1枚まで選び、手札に戻し、自分の控え室の《幻想郷》のキャラを1枚まで選び、ストック置場に置く。Ｘはこの効果で控え室に置かれたカードのレベルの合計に等しい。（CXのレベルは0として扱う）"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"霧の湖"
+	],
+	"version": "3",
+	"cardcode": "THP/S130-100",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_100.png",
+	"tags": null,
+	"expansionId": 552
+}

@@ -1,0 +1,34 @@
+{
+	"set": "THP",
+	"setName": "",
+	"side": "S",
+	"release": "130",
+	"id": "090",
+	"name": "",
+	"jpName": "幽冥楼閣の亡霊少女 幽々子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "もう少しなのよ もう少しで、西行妖（さいぎょうあやかし）が満開になるの\u003cbr\u003e（「東方妖々夢　～ Perfect Cherry Blossom.」より）",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】 このカードがアタックした時、CX置場に「「反魂蝶　‐八分咲‐」」があり、他のあなたの《幻想郷》のキャラが2枚以上なら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室の「半人半霊 妖夢」を1枚まで選び、舞台の好きな枠に置き、そのターン中、あなたは4回目以降のアタックができない。』『［(1) 手札を1枚控え室に置く］ あなたはコストを払ってよい。そうしたら、相手に2ダメージを与え、次の相手のターンの終わりまで、このカードのパワーを＋1000。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"白玉楼"
+	],
+	"version": "3",
+	"cardcode": "THP/S130-090",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_090.png",
+	"tags": null,
+	"expansionId": 552
+}

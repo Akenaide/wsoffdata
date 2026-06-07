@@ -1,0 +1,32 @@
+{
+	"set": "IMS",
+	"setName": "",
+	"side": "S",
+	"release": "E55",
+	"id": "65BNP",
+	"name": "",
+	"jpName": "餞の鳥",
+	"cardType": "CX",
+	"colour": "BLUE",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
+	"soul": "0",
+	"rarity": "BNP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "ジュリア「一瞬前のあたし達を超えて……あたしとアンタなら、どこまでも飛べるさ。」",
+	"trigger": [
+		"SOUL",
+		"GATE"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[gate.gif]]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+	],
+	"specialAttrib": null,
+	"version": "3",
+	"cardcode": "IMS/SE55-65BNP",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_se55/ims_se55_65bnp.png",
+	"tags": null,
+	"expansionId": 549
+}

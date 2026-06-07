@@ -1,0 +1,34 @@
+{
+	"set": "THP",
+	"setName": "",
+	"side": "S",
+	"release": "130",
+	"id": "038",
+	"name": "",
+	"jpName": "ハルトマンの妖怪少女 こいし",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "貴方を倒して持ち帰れば、お姉ちゃん達との話の種になるに違いないわ！\u003cbr\u003e（「東方地霊殿　～ Subterranean Animism.」より）",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。\u003cbr\u003e【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「「サブタレイニアンローズ」」があり、他のあなたの《幻想郷》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手に4ダメージを与え、そのターン中、このカードは次の能力を得る。『【永】 このカードのバトル中、相手はイベントと『助太刀』を手札からプレイできない。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"地霊殿"
+	],
+	"version": "3",
+	"cardcode": "THP/S130-038",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_038.png",
+	"tags": null,
+	"expansionId": 552
+}

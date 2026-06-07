@@ -1,0 +1,34 @@
+{
+	"set": "IMS",
+	"setName": "",
+	"side": "S",
+	"release": "E55",
+	"id": "11SP",
+	"name": "",
+	"jpName": "BOUNCING♪ SMILE!　大神 環",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "1",
+	"cost": "0",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードがアタックした時、CX置場にトリガーアイコンが[[focus.gif]]のCXがあるなら、あなたは自分の山札の上から1枚を公開する。そのカードのレベルが1以上なら、そのアタック中、あなたはトリガーステップにトリガーチェックを2回行う。（CXのレベルは0として扱う。公開したカードは元に戻す）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"探検"
+	],
+	"version": "3",
+	"cardcode": "IMS/SE55-11SP",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_se55/ims_se55_11sp.png",
+	"tags": null,
+	"expansionId": 549
+}

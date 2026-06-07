@@ -1,0 +1,34 @@
+{
+	"set": "IMS",
+	"setName": "",
+	"side": "S",
+	"release": "E55",
+	"id": "57",
+	"name": "",
+	"jpName": "デコレーション・ドリ～ミンッ♪　周防桃子",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "1500",
+	"soul": "1",
+	"rarity": "N",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "ももこのホットケーキ、おとうさんにもわけてあげるね！おいしい？　おかあさんのホットケーキ、あまくてふわふわで、ももこだーいすき！",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［(1) 手札を1枚控え室に置く］ あなたがこのカードの『助太刀』を使った時、あなたの控え室のトリガーアイコンが[[gate.gif]]のCXが6枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）\u003cbr\u003e【起】【カウンター】 助太刀2500 レベル2 ［(1) 手札のこのカードを控え室に置く］ （あなたは自分のフロントアタックされているキャラを1枚選び、そのターン中、パワーを＋2500）"
+	],
+	"specialAttrib": [
+		"音楽",
+		"子役"
+	],
+	"version": "3",
+	"cardcode": "IMS/SE55-57",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_se55/ims_se55_57.png",
+	"tags": null,
+	"expansionId": 549
+}

@@ -1,0 +1,34 @@
+{
+	"set": "THP",
+	"setName": "",
+	"side": "S",
+	"release": "130",
+	"id": "099",
+	"name": "",
+	"jpName": "すきま妖怪の式 藍",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "2",
+	"cost": "1",
+	"power": "3000",
+	"soul": "1",
+	"rarity": "U",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "私は橙とは桁が違くてよ 色々と\u003cbr\u003e（「東方妖々夢　～ Perfect Cherry Blossom.」より）",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたのターン中、他のあなたの《幻想郷》のキャラすべてに、パワーを＋2000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分の控え室の「凶兆の黒猫 橙」を1枚選び、このカードの下にマーカーとして表向きに置いてよい。\u003cbr\u003e【起】［手札の青のカードを1枚控え室に置く］ あなたはこのカードのマーカーの「凶兆の黒猫 橙」を1枚選び、舞台の好きな枠に置く。ターンの終わりに、あなたはそのキャラをこのカードの下にマーカーとして表向きに置いてよい。"
+	],
+	"specialAttrib": [
+		"幻想郷",
+		"式神"
+	],
+	"version": "3",
+	"cardcode": "THP/S130-099",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/t/thp_s130/thp_s130_099.png",
+	"tags": null,
+	"expansionId": 552
+}

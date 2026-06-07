@@ -1,0 +1,34 @@
+{
+	"set": "ANM",
+	"setName": "",
+	"side": "W",
+	"release": "138",
+	"id": "T18S",
+	"name": "",
+	"jpName": "“天文台に住む少女”陽彩",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9000",
+	"soul": "2",
+	"rarity": "TDP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、他のあなたの《風》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の山札の下から4枚を、控え室に置き、相手にＸダメージを与える。ＸはそれらのカードのCXの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"風",
+		"美"
+	],
+	"version": "3",
+	"cardcode": "ANM/W138-T18S",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/a/anm_w138/anm_w138_t18s.png",
+	"tags": null,
+	"expansionId": 550
+}

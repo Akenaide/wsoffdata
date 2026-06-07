@@ -1,0 +1,32 @@
+{
+	"set": "IMS",
+	"setName": "",
+	"side": "S",
+	"release": "E55",
+	"id": "43BNP",
+	"name": "",
+	"jpName": "だってあなたはプリンセス",
+	"cardType": "CX",
+	"colour": "RED",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
+	"soul": "0",
+	"rarity": "BNP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "まつり・エミリー「双子のお姫様ユニットを、『ぱーふぇくと／完璧』！に完成させるのです！」",
+	"trigger": [
+		"SOUL",
+		"STANDBY"
+	],
+	"ability": [
+		"【自】 このカードが手札からCX置場に置かれた時、[[standby.gif]]の効果を行う。\u003cbr\u003e（[[standby.gif]]：このカードがトリガーした時、あなたは自分の控え室の自分のレベル＋1以下のレベルのキャラを1枚選び、舞台の好きな枠に【レスト】して置いてよい）"
+	],
+	"specialAttrib": null,
+	"version": "3",
+	"cardcode": "IMS/SE55-43BNP",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/i/ims_se55/ims_se55_43bnp.png",
+	"tags": null,
+	"expansionId": 549
+}
