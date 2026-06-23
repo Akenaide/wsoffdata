@@ -1,0 +1,34 @@
+{
+	"set": "GBF",
+	"setName": "グランブルーファンタジー",
+	"side": "S",
+	"release": "134",
+	"id": "048S",
+	"name": "",
+	"jpName": "東北東の守護神 シンダラ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 他のあなたの《十二神将》のキャラ1枚につき、このカードのパワーを＋1000。\u003cbr\u003e【自】［他のあなたの舞台の《十二神将》のキャラを1枚控え室に置く］ このカードが手札から舞台に置かれた時、あなたはコストを払ってよい。そうしたら、あなたは自分のクロックの上から1枚を、ストック置場に置く。\u003cbr\u003e【自】【CXコンボ】［(2)］ このカードのアタックの終わりに、CX置場に「猫神の因縁の巻」があるなら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"グラブル",
+		"十二神将"
+	],
+	"version": "4",
+	"cardcode": "GBF/S134-048S",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gbf_s134/gbf_s134_048s.png",
+	"tags": null,
+	"expansionId": 556
+}

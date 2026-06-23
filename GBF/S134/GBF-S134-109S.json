@@ -1,0 +1,34 @@
+{
+	"set": "GBF",
+	"setName": "グランブルーファンタジー",
+	"side": "S",
+	"release": "134",
+	"id": "109S",
+	"name": "",
+	"jpName": "俊英の双剣士 ランスロット",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時か「払暁の忠騎士 ジークフリート」の【自】の効果で舞台に置かれた時、あなたは自分の山札を上から3枚まで見て、《グラブル》のキャラか「四騎士」を2枚まで選んで相手に見せ、手札に加え、残りのカードを控え室に置く。\u003cbr\u003e【自】［(3)］ このカードのバトル相手が【リバース】した時、他のあなたの、「払暁の忠騎士 ジークフリート」と「高潔なる燦炎 パーシヴァル」と「不撓不屈の騎士 ヴェイン」がいるなら、あなたはコストを払ってよい。そうしたら、相手に1ダメージを2回与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"グラブル",
+		"フェードラッヘ"
+	],
+	"version": "4",
+	"cardcode": "GBF/S134-109S",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gbf_s134/gbf_s134_109s.png",
+	"tags": null,
+	"expansionId": 556
+}

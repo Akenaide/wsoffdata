@@ -1,0 +1,34 @@
+{
+	"set": "GBF",
+	"setName": "グランブルーファンタジー",
+	"side": "S",
+	"release": "134",
+	"id": "071S",
+	"name": "",
+	"jpName": "鮮烈なる力 フラウ",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】［手札を2枚控え室に置く］ 控え室にこのカードがあり、あなたのレベルが3以上で、あなたの《グラブル》のキャラが4枚以上なら、あなたのCXフェイズの始めに、あなたはコストを払ってよい。そうしたら、あなたはこのカードを舞台のキャラのいない枠に置く。\u003cbr\u003e【自】［(1) 手札の《グラブル》のキャラを1枚控え室に置く］ このカードがアタックした時、他のあなたの《グラブル》のキャラが4枚以上なら、あなたはコストを払ってよい。そうしたら、相手に2ダメージを与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"グラブル",
+		"十賢者"
+	],
+	"version": "4",
+	"cardcode": "GBF/S134-071S",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gbf_s134/gbf_s134_071s.png",
+	"tags": null,
+	"expansionId": 556
+}

@@ -1,0 +1,33 @@
+{
+	"set": "GBF",
+	"setName": "グランブルーファンタジー",
+	"side": "S",
+	"release": "134",
+	"id": "096SP",
+	"name": "",
+	"jpName": "時竜 オロロジャイア",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "9500",
+	"soul": "2",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札を見て《グラブル》のキャラを1枚まで選んで相手に見せ、手札に加え、その山札をシャッフルする。\u003cbr\u003e【自】【CXコンボ】［(1) 手札を1枚控え室に置く］ このカードがアタックした時、CX置場に「オロロジャイア」があるなら、あなたはコストを払ってよい。そうしたら、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分の控え室のカードを2枚まで選び、山札に戻し、その山札をシャッフルする。』『あなたは相手の控え室のカードを3枚まで選び、山札に戻し、相手はその山札をシャッフルし、あなたは相手に1ダメージを与える。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"グラブル"
+	],
+	"version": "4",
+	"cardcode": "GBF/S134-096SP",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gbf_s134/gbf_s134_096sp.png",
+	"tags": null,
+	"expansionId": 556
+}

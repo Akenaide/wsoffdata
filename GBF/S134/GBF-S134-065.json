@@ -1,0 +1,34 @@
+{
+	"set": "GBF",
+	"setName": "グランブルーファンタジー",
+	"side": "S",
+	"release": "134",
+	"id": "065",
+	"name": "",
+	"jpName": "再臨せし堕天の王 ルシファー",
+	"cardType": "CH",
+	"colour": "RED",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "2",
+	"rarity": "R",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の思い出置場の、「進化の天司 ルシフェル」を1枚までと「暁の裁定者 ルシオ」を1枚まで選び、このカードの下にマーカーとして好きな順番で表向きに置く。\u003cbr\u003e【自】【CXコンボ】［(2) このカードの下のマーカーを2枚控え室に置き、あなたのCX置場の「トリプルゼロ」を1枚控え室に置く］ あなたのアンコールステップの始めに、前列にこのカードがいるなら、あなたはコストを払ってよい。そうしたら、相手に6ダメージを2回与える。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"グラブル",
+		"星の民"
+	],
+	"version": "4",
+	"cardcode": "GBF/S134-065",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gbf_s134/gbf_s134_065.png",
+	"tags": null,
+	"expansionId": 556
+}

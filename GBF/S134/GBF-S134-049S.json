@@ -1,0 +1,34 @@
+{
+	"set": "GBF",
+	"setName": "グランブルーファンタジー",
+	"side": "S",
+	"release": "134",
+	"id": "049S",
+	"name": "",
+	"jpName": "初代闘神 バサラ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "10500",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分の山札の上から1枚までを、ストック置場に置き、自分のキャラを2枚まで選び、そのターン中、パワーを＋2000。\u003cbr\u003e【自】【CXコンボ】［手札を1枚控え室に置く］ あなたのCX置場に「猫神の因縁の巻」が置かれた時、他のあなたの《十二神将》のキャラが2枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは自分のキャラを1枚選び、そのターン中、次の能力を与える。『【自】【ターン1】 このカードの与えたダメージがキャンセルされた時、あなたは相手に2ダメージを与えてよい。』（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"グラブル",
+		"十二神将"
+	],
+	"version": "4",
+	"cardcode": "GBF/S134-049S",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gbf_s134/gbf_s134_049s.png",
+	"tags": null,
+	"expansionId": 556
+}

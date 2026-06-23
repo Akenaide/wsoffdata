@@ -1,0 +1,34 @@
+{
+	"set": "GBF",
+	"setName": "グランブルーファンタジー",
+	"side": "S",
+	"release": "134",
+	"id": "088SP",
+	"name": "",
+	"jpName": "六竜の『黒』 フェディエル",
+	"cardType": "CH",
+	"colour": "BLUE",
+	"level": "3",
+	"cost": "2",
+	"power": "10000",
+	"soul": "1",
+	"rarity": "SP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの《グラブル》のキャラが4枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、次の2つの効果のうちあなたが選んだ1つを行う。『あなたは自分のクロックの上から1枚を、控え室に置いてよい。』『相手は自分の控え室のCXを1枚選び、そのカード以外の控え室のカードすべてを、山札に戻し、その山札をシャッフルし、そのターン中、このカードのパワーを＋1000。』"
+	],
+	"specialAttrib": [
+		"グラブル",
+		"六竜"
+	],
+	"version": "4",
+	"cardcode": "GBF/S134-088SP",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gbf_s134/gbf_s134_088sp.png",
+	"tags": null,
+	"expansionId": 556
+}

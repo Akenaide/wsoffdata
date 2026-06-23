@@ -1,0 +1,34 @@
+{
+	"set": "GBF",
+	"setName": "グランブルーファンタジー",
+	"side": "S",
+	"release": "134",
+	"id": "002",
+	"name": "",
+	"jpName": "荘重たる十二枚羽 サンダルフォン",
+	"cardType": "CH",
+	"colour": "YELLOW",
+	"level": "3",
+	"cost": "2",
+	"power": "8500",
+	"soul": "2",
+	"rarity": "RR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚までを、控え室に置き、そのターン中、このカードのパワーを＋3000。\u003cbr\u003e【自】【CXコンボ】［(1) 手札の《グラブル》のキャラを1枚控え室に置く］ このカードのアタックの終わりに、CX置場に「トリプルゼロ」があり、他のあなたの《グラブル》のキャラが3枚以上なら、あなたはコストを払ってよい。そうしたら、あなたは相手の控え室のカードをＸ枚まで選び、山札の上に好きな順番で置き、相手に4ダメージを与える。Ｘはこのカードの下の異なるカード名のマーカーの枚数に等しい。（ダメージキャンセルは発生する）"
+	],
+	"specialAttrib": [
+		"グラブル",
+		"天司"
+	],
+	"version": "4",
+	"cardcode": "GBF/S134-002",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gbf_s134/gbf_s134_002.png",
+	"tags": null,
+	"expansionId": 556
+}

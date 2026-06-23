@@ -1,0 +1,32 @@
+{
+	"set": "GBF",
+	"setName": "[TD]グランブルーファンタジー",
+	"side": "S",
+	"release": "134",
+	"id": "T14S",
+	"name": "",
+	"jpName": "十天の極みに至りし者 主人公(男)",
+	"cardType": "CX",
+	"colour": "BLUE",
+	"level": "-",
+	"cost": "-",
+	"power": "-",
+	"soul": "0",
+	"rarity": "TDP",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL",
+		"GATE"
+	],
+	"ability": [
+		"【永】 あなたのキャラすべてに、パワーを＋1000し、ソウルを＋1。\u003cbr\u003e（[[gate.gif]]：このカードがトリガーした時、あなたは自分の控え室のCXを1枚選び、手札に戻してよい）"
+	],
+	"specialAttrib": null,
+	"version": "4",
+	"cardcode": "GBF/S134-T14S",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gbf_s134/gbf_s134_t14s.png",
+	"tags": null,
+	"expansionId": 557
+}

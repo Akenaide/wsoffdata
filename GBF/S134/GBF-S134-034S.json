@@ -1,0 +1,34 @@
+{
+	"set": "GBF",
+	"setName": "グランブルーファンタジー",
+	"side": "S",
+	"release": "134",
+	"id": "034S",
+	"name": "",
+	"jpName": "北北東の守護神 シャトラ",
+	"cardType": "CH",
+	"colour": "GREEN",
+	"level": "3",
+	"cost": "2",
+	"power": "8000",
+	"soul": "2",
+	"rarity": "SR",
+	"breakDeckbuilding": false,
+	"EN_Equivalent": false,
+	"flavourText": "-",
+	"trigger": [
+		"SOUL"
+	],
+	"ability": [
+		"【永】 あなたの控え室のトリガーアイコンが[[treasure.gif]]のCXが3枚以上なら、あなたの手札のこのカードのレベルを－1。\u003cbr\u003e【永】 他のあなたの《十二神将》のキャラが2枚以上なら、このカードのパワーを＋3000。\u003cbr\u003e【自】 このカードが手札から舞台に置かれた時、あなたは自分のクロックの上から1枚を、控え室に置いてよい。"
+	],
+	"specialAttrib": [
+		"グラブル",
+		"十二神将"
+	],
+	"version": "4",
+	"cardcode": "GBF/S134-034S",
+	"imageURL": "https://ws-tcg.com/wordpress/wp-content/images/cardlist/g/gbf_s134/gbf_s134_034s.png",
+	"tags": null,
+	"expansionId": 556
+}
